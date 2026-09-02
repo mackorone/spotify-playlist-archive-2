@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 595 songs - 1 day 12 hr 7 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 601 songs - 1 day 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -603,5 +603,11 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 593 | [Candle](https://open.spotify.com/track/3s6xsXQSOsc6rldSxLMynj) | [KLIMFA](https://open.spotify.com/artist/6kB0ONCi2Cq063ZZcjX0vT) | [Candle](https://open.spotify.com/album/4og4yaZ9B3VR1HYjDLYRUH) | 3:27 |
 | 594 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 |
 | 595 | [Easy](https://open.spotify.com/track/78SHmCtjptUkJsFWMYf7lu) | [Tropic Ridge](https://open.spotify.com/artist/0Gtl4424WuhBRzoj7WD3H6), [Clint Warren](https://open.spotify.com/artist/7if9OA2tCbweeqTBwiDJVv) | [Easy](https://open.spotify.com/album/78OJwyES9jCEE3DiF90SQl) | 3:27 |
+| 596 | [Whisky con Helado](https://open.spotify.com/track/6NvqFY6VW75LiYXtjfW2nr) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:47 |
+| 597 | [Volver a Brillar](https://open.spotify.com/track/1Wjxe6g0BBQWZzFiWDUfuz) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 4:51 |
+| 598 | [In Between](https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [In Between](https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4) | 3:45 |
+| 599 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 |
+| 600 | [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 |
+| 601 | [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 |
 
-Snapshot ID: `AAAC6djKK9rEmDqad+E3A2F7CEMq1Je2`
+Snapshot ID: `AAAC78iYdMn1MVrl4Y1qMwXlwPs5Thp8`

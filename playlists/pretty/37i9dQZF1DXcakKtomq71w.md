@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,339 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,351 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [I Cared For You](https://open.spotify.com/track/2c2KtRKoFja6BvY9f4QV3s) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [I Cared For You \(Remixes\)](https://open.spotify.com/album/6q4c7paWmSehuZgYCuL1PG) | 4:30 |
 | 50 | [Tell Me](https://open.spotify.com/track/4EntXHsQVElqb7eo6WAa13) | [LYRONIQ](https://open.spotify.com/artist/6noBW2v07LyKq1DU0KNqhA) | [Tell Me](https://open.spotify.com/album/3o5xa0ZxSugbMwbQvihRr7) | 5:54 |
 
-Snapshot ID: `AAAAAIRTXuvpeL9C9boyEjy1tFTbUo1T`
+Snapshot ID: `AAAAACgH6f7XTWdHbObqnTOmG9zOo9Ph`

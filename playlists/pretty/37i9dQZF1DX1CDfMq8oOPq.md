@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,736 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,761 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 21 | [Caminho do meio \(Intro\)](https://open.spotify.com/track/7CaAp4nH6ox0bJ4PePStRN) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [iceton](https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj) | [Caminho do meio \(Intro\)](https://open.spotify.com/album/35wdWWR1AKa1PaOkmc2h9o) | 1:39 |
 | 22 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
 | 23 | [Medley 4x4](https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [AF!RMA](https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS) | [PAPEL DE OTÁRIA \| MEDLEY 4X4](https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF) | 3:00 |
-| 24 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |
-| 25 | [Monopólio Das Gostosas](https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [Monopólio Das Gostosas](https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW) | 3:09 |
+| 24 | [Monopólio Das Gostosas](https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H) | [Jenario Mc](https://open.spotify.com/artist/7w1dLBV1NMYCUd1DvugYOa), [Abaddie](https://open.spotify.com/artist/6SoMTtBXy46Mcv5o98xdv3) | [Monopólio Das Gostosas](https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW) | 3:09 |
+| 25 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |
 | 26 | [Serena & Venus](https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:57 |
 | 27 | [Eu tenho uma FACA o nome dela é RIMA](https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ), [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4) | [BASE: Quem tá são ELAS](https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly) | 6:55 |
 | 28 | [MANIFESTO](https://open.spotify.com/track/6ipjYJ0rNu7c1WDmslQvYN) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [ECLIPSE](https://open.spotify.com/album/4plwkBclI12RlG2soBaV4l) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
-Snapshot ID: `AAAAALmQdwL6nZLaNToX0mm2ytuvRCy7`
+Snapshot ID: `AAAAAHmwKjqRcA1kdQXis1wdz6E7hV4n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Bilal Hassani
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,925 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,928 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Petit Homme](https://open.spotify.com/track/7jVit1MfVSmF57FNgP1079) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Petit Homme](https://open.spotify.com/album/3QOg5k2uYxgKb1IIwhiK6o) | 2:16 |
 | 40 | [Pleure encore pour moi](https://open.spotify.com/track/3HAXuuDkSDDjUnCbLniGzs) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Pleure encore pour moi](https://open.spotify.com/album/1jyIyg8kAFHoLtAhiWVAuM) | 3:23 |
 
-Snapshot ID: `AAAAAAnfiSTvOGmZx5tMLAuitoApAfAh`
+Snapshot ID: `AAAAANjTe3yWGl1ZCbsJjuH0IdYhyY1G`

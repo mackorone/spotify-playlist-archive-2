@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Calema e Léo Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,061 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,074 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Avisem Que Eu Cheguei](https://open.spotify.com/track/12Cw7loqrdJdLCWCaGDSkn) | [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Avisem Que Eu Cheguei](https://open.spotify.com/album/1J4QrDcxhhfETVIzljTOhU) | 3:00 |
 | 70 | [E Agora ?](https://open.spotify.com/track/2lbDXy8WuAbKg3jQLPyaJH) | [Cari](https://open.spotify.com/artist/5W3WfKsYcIFReQZ7Rm4cZV) | [E Agora ?](https://open.spotify.com/album/3Qf1Wsm8KIRpy7Jw2WmOtA) | 2:55 |
 
-Snapshot ID: `AAAAAFshvRkfhBzjE9OQfUBKtKJ70mlj`
+Snapshot ID: `AAAAAHYObS+eAHmjaFjRkHMypncFuZGu`

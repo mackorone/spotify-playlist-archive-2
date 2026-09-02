@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYPRTIhI2jZ.md) - [plain]
 | 59 | [Junk Funk](https://open.spotify.com/track/61kLd9fYdDDNR3MmsaPK8X) | [Vegas Soul](https://open.spotify.com/artist/6ls5pTXRJYJWSGoktFKnVj) | [Day By Day](https://open.spotify.com/album/1MmLQhLGzRsPID8qeGdE2n) | 5:40 |
 | 60 | [AM\_909](https://open.spotify.com/track/6YMdkjJCuA6cpbtyD9h7ge) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Runnin’ / AM\_909](https://open.spotify.com/album/3rA9h7aaGJRRqtPAS3YKUQ) | 5:38 |
 
-Snapshot ID: `AAAAAMjwksDjwPRUaNUnfpicK+3Hfpcv`
+Snapshot ID: `AAAAAACLQusEGWpH0dM5hw87zIlBdgd8`

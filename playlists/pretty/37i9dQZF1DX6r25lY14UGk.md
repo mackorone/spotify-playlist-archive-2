@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Ms\. Rachel & Mr\. Aron
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,379 likes - 99 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,472 likes - 99 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 95 | [Wally & the Bears Monster Hunt](https://open.spotify.com/track/6OOQaZZafEfS3VF0Yt30VG) | [Mister Kipley](https://open.spotify.com/artist/3xV0Tc4SeREEWHNrxd9M9Y) | [Wally & the Bears Monster Hunt](https://open.spotify.com/album/2ERwh7qFBGY9ZaksJo8ljH) | 4:07 |
 | 96 | [Sports](https://open.spotify.com/track/7nZMHop22wTDbaoDkaP9x9) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Sports](https://open.spotify.com/album/0Hx7DbcJrotDRRDAMvkOnZ) | 2:37 |
 | 97 | [One Little Finger](https://open.spotify.com/track/5ra1ik4njIVmFnIHXGRFFx) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [One Little Finger](https://open.spotify.com/album/2REw2stjpsOdQXWO2kH8hL) | 2:22 |
-| 98 | [Ride Along with Thomas](https://open.spotify.com/track/2zyeI1Q6iba6bxZczCe9di) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Thomas & Percy: Sing Alongs](https://open.spotify.com/album/6CUocNhwCpb2aCPkpXF0As) | 3:24 |
+| 98 | [Ride Along with Thomas](https://open.spotify.com/track/2zyeI1Q6iba6bxZczCe9di) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Thomas & Friends: Sing Alongs](https://open.spotify.com/album/6CUocNhwCpb2aCPkpXF0As) | 3:24 |
 | 99 | [Treasure Hunt](https://open.spotify.com/track/5euJiGFOJ5VKD9HOBE6i2l) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Welcome to Dreamhouse Adventures](https://open.spotify.com/album/0xwOHqBvzyDkmT9ZXzoUnG) | 1:28 |
 
-Snapshot ID: `AAAAAB+CH7r5Zpj72D+eM8gx7u0bFHdo`
+Snapshot ID: `AAAAAFqIEt3ei5YCoyuhth4BOwswuvTf`

@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190269,
+  "num_followers": 190257,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQI5M79uzgltTgwLtsjoxoFtJPY",
+  "snapshot_id": "AAAAAO3w9DBBVrtj/5ebxxwTsfQWEKy1",
   "tracks": [
     {
       "added_at": "2026-07-17 14:00:09",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Biotope",
-        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Biotope",
-      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Room Of Love",
         "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 299559,
       "name": "Room Of Love",
       "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Biotope",
+        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Biotope",
+      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "22 Weeks",
-      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Car Crash",
         "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 202812,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/3h7MNOxHgXeB6eygCLdRYc"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "i will be dead",
-        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
       "artists": [
         {
-          "name": "sura sol",
-          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 170500,
-      "name": "dance & giggle",
-      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+        "name": "i will be dead",
+        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
       },
       "artists": [
         {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+          "name": "sura sol",
+          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+      "duration_ms": 170500,
+      "name": "dance & giggle",
+      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Arrow, Four",
-        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
-      },
-      "artists": [
-        {
-          "name": "Bobbi Lu",
-          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
-        }
-      ],
-      "duration_ms": 215078,
-      "name": "Vacuum",
-      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Arrow, Four",
+        "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Lu",
+          "url": "https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4"
+        }
+      ],
+      "duration_ms": 215078,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
-      },
-      "artists": [
-        {
-          "name": "Thomas Azier",
-          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Getting Up",
         "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 274719,
       "name": "Getting Up",
       "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "So do I",
-        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
       "artists": [
         {
-          "name": "PIMSKIN",
-          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 128326,
-      "name": "So do I",
-      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -967,34 +967,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
+        "name": "So do I",
+        "url": "https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI"
       },
       "artists": [
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
         }
       ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+      "duration_ms": 128326,
+      "name": "So do I",
+      "url": "https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 264346,
       "name": "Rush Hour Traffic",
       "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
-      },
-      "artists": [
-        {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
-        }
-      ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "the bed-ties",
         "url": "https://open.spotify.com/album/2R8Fri8R7n1q3za8By1MnL"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 220080,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/6PS7UXENl8M47HDDg3uW1x"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/0QlMBEVCrI1fwarVSG2mO1"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 237635,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 225595,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "AT LEAST SOMETHING IS PROTECTING YOU",
         "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 217949,
       "name": "EMBERS",
       "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 225595,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
+      },
+      "artists": [
+        {
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
+        }
+      ],
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 184715,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
-      },
-      "artists": [
-        {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
-        }
-      ],
-      "duration_ms": 209237,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "In My Head Today",
         "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
+      },
+      "artists": [
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+        }
+      ],
+      "duration_ms": 209237,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
     },
     {
       "added_at": "2026-07-17 14:00:09",

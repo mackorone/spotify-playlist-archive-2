@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,543 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,564 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Bright and Beautiful](https://open.spotify.com/track/6FIyPLmX3ZjMwlngLXNzcE) | [Oludee](https://open.spotify.com/artist/51GYW8DE2JojeDFUfoDVM1) | [Bright and Beautiful](https://open.spotify.com/album/3WpRPkc7AxhoeZhw6bTU14) | 3:28 |
 | 100 | [Million Miracles](https://open.spotify.com/track/1BFALzeTkyGv5P8g4SL85H) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [SEHVEN](https://open.spotify.com/artist/7pQMML3OL5q2YakI4KtsqM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Million Miracles](https://open.spotify.com/album/294KFjWeTPC60gwX4cbb22) | 2:55 |
 
-Snapshot ID: `AAAAAOOpMa4953gp9xzlPLU6BEePx9LK`
+Snapshot ID: `AAAAACQpGM3THCRgesmjADVX2NRUqas4`

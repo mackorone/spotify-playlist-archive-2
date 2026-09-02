@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental jazz for working or studying.",
-  "num_followers": 315979,
+  "num_followers": 316021,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZe4lf07XxmaBtKtwd1yWwf2BVA",
+  "snapshot_id": "AAAAAHy5gongK7Jt4zk8z6Qb7stDXjDw",
   "tracks": [
     {
       "added_at": "2026-08-28 11:51:40",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "The First Step",
-        "url": "https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa"
-      },
-      "artists": [
-        {
-          "name": "Baker St.",
-          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
-        }
-      ],
-      "duration_ms": 182606,
-      "name": "The First Step",
-      "url": "https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Young At Heart",
         "url": "https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "The First Step",
+        "url": "https://open.spotify.com/album/0npCvOirIl3qBkbtpkAufa"
+      },
+      "artists": [
+        {
+          "name": "Baker St.",
+          "url": "https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae"
+        }
+      ],
+      "duration_ms": 182606,
+      "name": "The First Step",
+      "url": "https://open.spotify.com/track/2CFUoit9OLr6gHZ2WUz7P1"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "After Winter Comes Spring",
-        "url": "https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 211563,
-      "name": "After Winter Comes Spring",
-      "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Where or when",
         "url": "https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 208201,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "After Winter Comes Spring",
+        "url": "https://open.spotify.com/album/5Mn1kdE6pGip1PyhX1rufH"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 211563,
+      "name": "After Winter Comes Spring",
+      "url": "https://open.spotify.com/track/4Q0cp8Bo5fUe2YKjtyK9S1"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Nights Of Ballads & Blues",
-        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Days Of Wine And Roses",
-      "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "A Cookie For Marie",
         "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 206097,
       "name": "Maybe We Should Dance",
       "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Nights Of Ballads & Blues",
+        "url": "https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Days Of Wine And Roses",
+      "url": "https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Beloved Dance",
+        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Beloved Dance",
+      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Beloved Dance",
-        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
+        "name": "My Forgotten Promises",
+        "url": "https://open.spotify.com/album/4iPUjnnvD5aoU5A990fLKk"
       },
       "artists": [
         {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
         }
       ],
-      "duration_ms": 183250,
-      "name": "Beloved Dance",
-      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
+      "duration_ms": 179258,
+      "name": "My Forgotten Promises",
+      "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -907,6 +923,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Mirages",
+        "url": "https://open.spotify.com/album/3QvYaygfLxAfRfdzzE6FkA"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/3iBhCBLdT84C12M43nWhHx"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "Not So Dukish",
         "url": "https://open.spotify.com/album/3oeavlFnbsS7L17R8Irxyv"
       },
@@ -935,22 +967,6 @@
       "duration_ms": 269030,
       "name": "Can't Help Loving That Man",
       "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "Mirages",
-        "url": "https://open.spotify.com/album/3QvYaygfLxAfRfdzzE6FkA"
-      },
-      "artists": [
-        {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "Mirages",
-      "url": "https://open.spotify.com/track/3iBhCBLdT84C12M43nWhHx"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1051,6 +1067,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Nothing to prove",
+        "url": "https://open.spotify.com/album/66NH9bq9K3EOwo1qVmpUZ3"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 199092,
+      "name": "Nothing to prove",
+      "url": "https://open.spotify.com/track/3vzVCFgxbC3IkT388zC5Ay"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "How\u2019s It Going?",
         "url": "https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At"
       },
@@ -1063,22 +1095,6 @@
       "duration_ms": 159143,
       "name": "How\u2019s It Going?",
       "url": "https://open.spotify.com/track/6tht37fb8QeaNohZIudAwH"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "A Talk About Work",
-        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
-      },
-      "artists": [
-        {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
-        }
-      ],
-      "duration_ms": 148555,
-      "name": "A Talk About Work",
-      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1099,18 +1115,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Golden Moments",
-        "url": "https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K"
+        "name": "A Talk About Work",
+        "url": "https://open.spotify.com/album/5ACPWz0vT683B1Vk7suQQC"
       },
       "artists": [
         {
-          "name": "Benjamin Davies",
-          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Golden Moments",
-      "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
+      "duration_ms": 148555,
+      "name": "A Talk About Work",
+      "url": "https://open.spotify.com/track/2Ts4SElvopykvf7nSJXZxs"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Love Grows",
-        "url": "https://open.spotify.com/album/4U0NvErsvXBvpnTGwspS6P"
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K"
       },
       "artists": [
         {
-          "name": "Sidney Hatfield Trio",
-          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
+          "name": "Benjamin Davies",
+          "url": "https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ"
         }
       ],
-      "duration_ms": 218437,
-      "name": "Love Grows",
-      "url": "https://open.spotify.com/track/3D3KQCFx8tQr2EGbCT4cdY"
+      "duration_ms": 208500,
+      "name": "Golden Moments",
+      "url": "https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7aB82vGu0ABleD2SQwHvnP"
+        "name": "Love Grows",
+        "url": "https://open.spotify.com/album/4U0NvErsvXBvpnTGwspS6P"
       },
       "artists": [
         {
-          "name": "James Elias",
-          "url": "https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr"
+          "name": "Sidney Hatfield Trio",
+          "url": "https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB"
         }
       ],
-      "duration_ms": 188026,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7wG5lwg5ZB1BqPyZ6UkZ12"
+      "duration_ms": 218437,
+      "name": "Love Grows",
+      "url": "https://open.spotify.com/track/3D3KQCFx8tQr2EGbCT4cdY"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1191,6 +1207,22 @@
       "duration_ms": 243174,
       "name": "Sunset over Paris",
       "url": "https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7aB82vGu0ABleD2SQwHvnP"
+      },
+      "artists": [
+        {
+          "name": "James Elias",
+          "url": "https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr"
+        }
+      ],
+      "duration_ms": 188026,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7wG5lwg5ZB1BqPyZ6UkZ12"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1323,6 +1355,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Melody in past tense",
+        "url": "https://open.spotify.com/album/3YGnmo06EjvWkgrSR6SxYJ"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "duration_ms": 150845,
+      "name": "Melody in past tense",
+      "url": "https://open.spotify.com/track/2iRViBFmLLRZNxBnMe0Pyd"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "February Brings The Rain",
         "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
       },
@@ -1335,22 +1383,6 @@
       "duration_ms": 221909,
       "name": "February Brings The Rain",
       "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "My Forgotten Promises",
-        "url": "https://open.spotify.com/album/4iPUjnnvD5aoU5A990fLKk"
-      },
-      "artists": [
-        {
-          "name": "Bedford and 7th",
-          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
-        }
-      ],
-      "duration_ms": 179258,
-      "name": "My Forgotten Promises",
-      "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Nothing to prove",
-        "url": "https://open.spotify.com/album/66NH9bq9K3EOwo1qVmpUZ3"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 199092,
-      "name": "Nothing to prove",
-      "url": "https://open.spotify.com/track/3vzVCFgxbC3IkT388zC5Ay"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Irridescent Mountains",
         "url": "https://open.spotify.com/album/2Qkk2GO6d72FNEdGZloHwq"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Rendezvous in Rhythm",
-        "url": "https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E"
+        "name": "April Calling",
+        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
       },
       "artists": [
         {
-          "name": "KTZ Players",
-          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
         }
       ],
-      "duration_ms": 192965,
-      "name": "Rendezvous in Rhythm",
-      "url": "https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy"
+      "duration_ms": 230547,
+      "name": "April Calling",
+      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1519,6 +1535,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "Rendezvous in Rhythm",
+        "url": "https://open.spotify.com/album/5gRaPnUsnY2L2FVSmRn28E"
+      },
+      "artists": [
+        {
+          "name": "KTZ Players",
+          "url": "https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe"
+        }
+      ],
+      "duration_ms": 192965,
+      "name": "Rendezvous in Rhythm",
+      "url": "https://open.spotify.com/track/5exvjomZSoKsSwZ2cWkKUy"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/0xsFdHjsDka91q5N8siY3z"
       },
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "April Calling",
-        "url": "https://open.spotify.com/album/62YhZZOAgwAMrsXundbQRo"
-      },
-      "artists": [
-        {
-          "name": "Sand Quartet",
-          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
-        }
-      ],
-      "duration_ms": 230547,
-      "name": "April Calling",
-      "url": "https://open.spotify.com/track/4siGt6JIeTl3GgFynMaybU"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Without saying much",
         "url": "https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 256542,
       "name": "Without saying much",
       "url": "https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "Dreams in Blue",
-        "url": "https://open.spotify.com/album/0NBehQ2CzTrBMo2jZhWgUm"
-      },
-      "artists": [
-        {
-          "name": "Chops & Coda",
-          "url": "https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc"
-        }
-      ],
-      "duration_ms": 157830,
-      "name": "Dreams in Blue",
-      "url": "https://open.spotify.com/track/4C6M1M5EkA5XABc7ol3EEz"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1611,6 +1611,22 @@
       "duration_ms": 204751,
       "name": "Take me to Liverpool",
       "url": "https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Dreams in Blue",
+        "url": "https://open.spotify.com/album/0NBehQ2CzTrBMo2jZhWgUm"
+      },
+      "artists": [
+        {
+          "name": "Chops & Coda",
+          "url": "https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc"
+        }
+      ],
+      "duration_ms": 157830,
+      "name": "Dreams in Blue",
+      "url": "https://open.spotify.com/track/4C6M1M5EkA5XABc7ol3EEz"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Melody in past tense",
-        "url": "https://open.spotify.com/album/3YGnmo06EjvWkgrSR6SxYJ"
-      },
-      "artists": [
-        {
-          "name": "Turning Trio",
-          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
-        }
-      ],
-      "duration_ms": 150845,
-      "name": "Melody in past tense",
-      "url": "https://open.spotify.com/track/2iRViBFmLLRZNxBnMe0Pyd"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Stardust: The Music Of Hoagy Carmichael",
         "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
-        "name": "Two Blocks Away",
-        "url": "https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a"
-      },
-      "artists": [
-        {
-          "name": "Jules Moreau",
-          "url": "https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Two Blocks Away",
-      "url": "https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
         "name": "Into Your Arms",
         "url": "https://open.spotify.com/album/1Em9KboxpeR2GXE5tBueVh"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 171050,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/4j1WoGCsyNS1Ja1JE9Zcuk"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "Two Blocks Away",
+        "url": "https://open.spotify.com/album/6TbsvECm8IeduEiVDQ6W2a"
+      },
+      "artists": [
+        {
+          "name": "Jules Moreau",
+          "url": "https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Two Blocks Away",
+      "url": "https://open.spotify.com/track/7dpeRPzopCJK29V4pueY8K"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-08-28 11:51:40",
       "album": {
+        "name": "The Incredible Kai Winding Trombones",
+        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
+      },
+      "artists": [
+        {
+          "name": "Kai Winding",
+          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Lil Darlin'",
+      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
         "name": "Thursday Afternoon",
         "url": "https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 192319,
       "name": "Love in the First Degree",
       "url": "https://open.spotify.com/track/69eesFTk1HKajniFSF2Z9n"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "The Incredible Kai Winding Trombones",
-        "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
-      },
-      "artists": [
-        {
-          "name": "Kai Winding",
-          "url": "https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Lil Darlin'",
-      "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -2095,6 +2095,22 @@
       "duration_ms": 240950,
       "name": "Mysterious Stranger",
       "url": "https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI"
+    },
+    {
+      "added_at": "2026-08-28 11:51:40",
+      "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/11pYIJavgaRmnZCgwhmPcU"
+      },
+      "artists": [
+        {
+          "name": "Northern Collective",
+          "url": "https://open.spotify.com/artist/2Ok6bdrv7TkhrTy3YldbCB"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/1IxvlqgOcGjzj5vVvW076C"
     },
     {
       "added_at": "2026-08-28 11:51:40",
@@ -2319,22 +2335,6 @@
       "duration_ms": 206372,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3hvPSoMORtRuUl5tpITycv"
-    },
-    {
-      "added_at": "2026-08-28 11:51:40",
-      "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/11pYIJavgaRmnZCgwhmPcU"
-      },
-      "artists": [
-        {
-          "name": "Northern Collective",
-          "url": "https://open.spotify.com/artist/2Ok6bdrv7TkhrTy3YldbCB"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "My Everything",
-      "url": "https://open.spotify.com/track/1IxvlqgOcGjzj5vVvW076C"
     },
     {
       "added_at": "2026-08-28 11:51:40",

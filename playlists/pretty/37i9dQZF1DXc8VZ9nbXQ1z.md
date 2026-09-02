@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,804 likes - 30 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,882 likes - 30 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Lost \- Manoo Remix](https://open.spotify.com/track/5pjQtAYONUP4Mfj8x5E1CF) | [Raise \(ofc\)](https://open.spotify.com/artist/1ZgjgIUy9EhLcPDtneKJQv), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Lost \(Manoo Remix\)](https://open.spotify.com/album/7mer0QoiJOT3wGMgBlPdG2) | 8:55 |
 | 30 | [Recall](https://open.spotify.com/track/0Ddvp044OQzscNPNaStvgU) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Recall](https://open.spotify.com/album/0DOh1J8gKN8HnzFuQ64KsY) | 3:47 |
 
-Snapshot ID: `AAAAABbIke5f7iJrMRhWoH+/3Ycuchtk`
+Snapshot ID: `AAAAAGFulwQ4nKY4HG6E+aUmgWtyMQZq`

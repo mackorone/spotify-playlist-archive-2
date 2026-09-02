@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 534538,
+  "num_followers": 534576,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPKy2g/G9P0MuqoF2TD+iRZfO7J",
+  "snapshot_id": "AAAAAEhtcDZi41UmoiB0amuAsgBlGarR",
   "tracks": [
     {
       "added_at": "2025-03-07 06:00:25",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
-      },
-      "artists": [
-        {
-          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
-          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
-        }
-      ],
-      "duration_ms": 310079,
-      "name": "Arriba de la bola",
-      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Mi M\u00fasica",
         "url": "https://open.spotify.com/album/6885J4w1iaRdZbs8Ol4Zzs"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 368850,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/16WC29An2oh5cLWveO9HpD"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+      },
+      "artists": [
+        {
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+        }
+      ],
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     },
     {
       "added_at": "2025-03-07 06:00:25",

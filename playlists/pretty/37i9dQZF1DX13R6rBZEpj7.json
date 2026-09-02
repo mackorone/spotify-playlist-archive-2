@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 285377,
+  "num_followers": 285413,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABCXMMpLBCUEPj1K/YNlr8bhFfQY",
+  "snapshot_id": "AAAAAEMuHfZJ5q8gxa9qDRrjFyi7pSHI",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:33",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "Never Gonna Let You Go",
-        "url": "https://open.spotify.com/album/4Qz2OUHDJxPQ5C1A3zmPCw"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Never Gonna Let You Go",
-      "url": "https://open.spotify.com/track/4MS1iRCJAcQLXmZPAyFMHh"
-    },
-    {
-      "added_at": "2026-08-27 23:00:33",
-      "album": {
         "name": "Bassline Girl",
         "url": "https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 246760,
       "name": "Bassline Girl",
       "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-08-27 23:00:33",
+      "album": {
+        "name": "Never Gonna Let You Go",
+        "url": "https://open.spotify.com/album/4Qz2OUHDJxPQ5C1A3zmPCw"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/4MS1iRCJAcQLXmZPAyFMHh"
     },
     {
       "added_at": "2026-08-27 23:00:33",
@@ -875,26 +875,18 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "So Serious",
-        "url": "https://open.spotify.com/album/5zVoKEKN32bp0pKUhQoYjU"
+        "name": "See Thru",
+        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
       },
       "artists": [
         {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        },
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+          "name": "Megan Wroe",
+          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
         }
       ],
-      "duration_ms": 137484,
-      "name": "So Serious",
-      "url": "https://open.spotify.com/track/4xPyAOKqIrvqbOq97hoB3b"
+      "duration_ms": 160000,
+      "name": "See Thru",
+      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
     },
     {
       "added_at": "2026-08-27 23:00:33",
@@ -919,18 +911,42 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "See Thru",
-        "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
+        "name": "So Serious",
+        "url": "https://open.spotify.com/album/5zVoKEKN32bp0pKUhQoYjU"
       },
       "artists": [
         {
-          "name": "Megan Wroe",
-          "url": "https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C"
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        },
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
         }
       ],
-      "duration_ms": 160000,
-      "name": "See Thru",
-      "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
+      "duration_ms": 137484,
+      "name": "So Serious",
+      "url": "https://open.spotify.com/track/4xPyAOKqIrvqbOq97hoB3b"
+    },
+    {
+      "added_at": "2026-08-27 23:00:33",
+      "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
     },
     {
       "added_at": "2026-08-27 23:00:33",
@@ -979,22 +995,6 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
-    },
-    {
-      "added_at": "2026-08-27 23:00:33",
-      "album": {
         "name": "BANGERS ONLY",
         "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
       },
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-27 23:00:33",
       "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
-      },
-      "artists": [
-        {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
-        },
-        {
-          "name": "Wardy",
-          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
-    },
-    {
-      "added_at": "2026-08-27 23:00:33",
-      "album": {
         "name": "Big Truck",
         "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 111428,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+    },
+    {
+      "added_at": "2026-08-27 23:00:33",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/3WoFyZovPkmh9TZaQ3AKjY"
+      },
+      "artists": [
+        {
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+        },
+        {
+          "name": "Wardy",
+          "url": "https://open.spotify.com/artist/4e0tXKf00nkEY0X7VzJyzp"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/1o2G7zTRhV74vhx3QWB9Dl"
     },
     {
       "added_at": "2026-08-27 23:00:33",

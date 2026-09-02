@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3581,
+  "num_followers": 3582,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHT5K2Cr0I9cTMb4lzthUnH5R7o",
+  "snapshot_id": "AAAAAOf5+tlIktJFe1aLjuB7KZ6mZqoz",
   "tracks": [
     {
       "added_at": "2025-09-25 22:00:28",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Spitbraai",
         "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 198813,
       "name": "Spitbraai",
       "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-09-25 22:00:28",

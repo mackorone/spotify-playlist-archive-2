@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387340,
+  "num_followers": 387357,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMen7viZToE5twWPMg8bwBjwsC6O",
+  "snapshot_id": "AAAAAIExLHwQHe89blIUQpdMgmLz37ED",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "She Thinks I Still Care - Single Version",
+      "url": "https://open.spotify.com/track/5pwqtpAazoPh1G3txEIPAB"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 140160,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/3L5gEVVFs7aJD6gP7NGKoB"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "She Thinks I Still Care - Single Version",
-      "url": "https://open.spotify.com/track/5pwqtpAazoPh1G3txEIPAB"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "Honey - The Best of Bobby Goldsboro",
         "url": "https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 239066,
       "name": "Honey - 1991 - Remaster",
       "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2026-02-17 04:47:51",

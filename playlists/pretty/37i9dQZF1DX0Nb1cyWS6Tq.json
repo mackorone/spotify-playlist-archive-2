@@ -1,12 +1,12 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 966182,
+  "num_followers": 966298,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIECgzJOEqHQZlfRZeU9frO6X3OY",
+  "snapshot_id": "AAAAAID6Wt3sh5QriVuskuGhT3D2w+za",
   "tracks": [
     {
       "added_at": "2026-03-20 04:00:51",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 199944,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "\u042d\u0442\u0430\u0436\u0438",
         "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 202845,
       "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 199944,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "When I Have Fears",
-        "url": "https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t"
-      },
-      "artists": [
-        {
-          "name": "The Murder Capital",
-          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
-        }
-      ],
-      "duration_ms": 146978,
-      "name": "Don't Cling To Life",
-      "url": "https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Isn\u2019t Anything",
         "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 218000,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "When I Have Fears",
+        "url": "https://open.spotify.com/album/0VUkPkmgAlCqVkh4no3t3t"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "duration_ms": 146978,
+      "name": "Don't Cling To Life",
+      "url": "https://open.spotify.com/track/1G86SCUObSm1lP2ZXaup5l"
     },
     {
       "added_at": "2026-03-20 04:00:51",

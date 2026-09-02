@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,115 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,210 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGaMpjluQpy.md) - [plain]
 | 54 | [My Roses](https://open.spotify.com/track/2iY8BxUCYmtQkqU9igxNp4) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 2:39 |
 | 55 | [Longing](https://open.spotify.com/track/5juD6KBBmEyvSPFXwBvh9O) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:16 |
 
-Snapshot ID: `AAAAAGhSnzxy3m3Ai2Pwxqy7QPl2H5N7`
+Snapshot ID: `AAAAAJdpbJH/Os1b2H0Vu19J3nU1zUoy`

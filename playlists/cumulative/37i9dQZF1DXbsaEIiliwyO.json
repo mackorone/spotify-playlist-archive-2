@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "HOOMAN AFTER ALL",
+        "url": "https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217499,
+      "name": "DALALA",
+      "url": "https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM"
+    },
+    {
+      "album": {
         "name": "DIVINE",
         "url": "https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG"
       },
@@ -560,6 +578,24 @@
       "duration_ms": 203600,
       "name": "Duvet",
       "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
+    },
+    {
+      "album": {
+        "name": "everscape",
+        "url": "https://open.spotify.com/album/73IukgpKUvwAR9qtOIuDMO"
+      },
+      "artists": [
+        {
+          "name": "millsage",
+          "url": "https://open.spotify.com/artist/7cBKwPovugxX15beVkPZGA"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274045,
+      "name": "everscape",
+      "url": "https://open.spotify.com/track/0utAB6DxbjrUQfdG4pHn2H"
     },
     {
       "album": {
@@ -700,7 +736,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 216535,
       "name": "FREEZE ME UP",
       "url": "https://open.spotify.com/track/5T3uybvFtipCIeCeLT3QcU"
@@ -1166,6 +1202,28 @@
       "duration_ms": 115705,
       "name": "k.r.k.r.",
       "url": "https://open.spotify.com/track/0A4xGe5noApa54rAewO7Hw"
+    },
+    {
+      "album": {
+        "name": "Kaiju",
+        "url": "https://open.spotify.com/album/27G3mod0rNxBGT9iF7ILLp"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        },
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262746,
+      "name": "Kaiju (Cornelius Remix)",
+      "url": "https://open.spotify.com/track/4vZi1bZHSGZIb0bJQ3MLy9"
     },
     {
       "album": {
@@ -3598,7 +3656,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
@@ -3944,7 +4002,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"

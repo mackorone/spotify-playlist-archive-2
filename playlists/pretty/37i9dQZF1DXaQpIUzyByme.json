@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 84771,
+  "num_followers": 84780,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMujXYw2uLp/YdIzS60+atzNOn8y",
+  "snapshot_id": "AAAAAFYQcZLSftW6LFQgFIU4O3UFIIAQ",
   "tracks": [
     {
       "added_at": "2024-07-09 16:41:04",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Investigations",
+        "url": "https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        }
+      ],
+      "duration_ms": 346200,
+      "name": "Voltooid Verleden Tijd",
+      "url": "https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Alle 40 Goed",
         "url": "https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Investigations",
-        "url": "https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl"
+        "name": "Toen Ik Je Zag",
+        "url": "https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL"
       },
       "artists": [
         {
-          "name": "IOS",
-          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+          "name": "Hero",
+          "url": "https://open.spotify.com/artist/15E5Lo5HxDSnNhUac2LUKo"
         }
       ],
-      "duration_ms": 346200,
-      "name": "Voltooid Verleden Tijd",
-      "url": "https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl"
+      "duration_ms": 201706,
+      "name": "Toen Ik Je Zag",
+      "url": "https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -743,22 +759,6 @@
       "duration_ms": 287200,
       "name": "Paradijs",
       "url": "https://open.spotify.com/track/32MEr1rs4elxqFR5mbxzqM"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Toen Ik Je Zag",
-        "url": "https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL"
-      },
-      "artists": [
-        {
-          "name": "Hero",
-          "url": "https://open.spotify.com/artist/15E5Lo5HxDSnNhUac2LUKo"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Toen Ik Je Zag",
-      "url": "https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1064,7 +1064,7 @@
           "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
         }
       ],
-      "duration_ms": 227906,
+      "duration_ms": 229466,
       "name": "Daar Gaat Ze",
       "url": "https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0"
     },

@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 佐瀬悠輔
 
-616 songs - 1 day 20 hr 6 min
+619 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2024-06-27 | 2024-08-30 |
 | [Be Patient](https://open.spotify.com/track/3F1qRkttfSFbYcMWjQ6Tm6) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Be Patient](https://open.spotify.com/album/34ijbgWMgC7neOzDvNLeI1) | 3:46 | 2026-01-15 | 2026-02-06 |
 | [Beacon of Hope](https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ) | [Patrick Bartley's DREAMWEAVER](https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2) | [Beacon of Hope](https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O) | 10:25 | 2026-06-02 |  |
+| [Beast Mode](https://open.spotify.com/track/1AuoDWRc4SgCr1hwdQEZ0G) | [Jackson Box](https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE), [Aru\-2](https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0), [Asei Muraguchi](https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx) | [Jaz](https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY) | 3:26 | 2026-09-02 |  |
 | [Beat Birds](https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Beat Birds](https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS) | 2:46 | 2025-09-25 | 2026-02-18 |
 | [Belly Of The Beast](https://open.spotify.com/track/2Z5wZj94gz4c2s9gBNfFFv) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM) | [Belly Of The Beast](https://open.spotify.com/album/0uj4yuLfpb983l8uwgT5h4) | 2:35 | 2025-07-10 | 2025-10-01 |
 | [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 | 2024-08-01 | 2024-12-06 |
@@ -446,7 +447,9 @@
 | [Sasanoha](https://open.spotify.com/track/6OXEeA8RMV4SlKtvhL86qM) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Sasanoha](https://open.spotify.com/album/4RZWJl02NHjDMwHJ8yA5bq) | 6:28 | 2026-08-13 |  |
 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 | 2025-04-24 | 2025-09-26 |
 | [Say Yeah](https://open.spotify.com/track/33ByCdR2CMznkCHXp2zsJi) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Say Yeah](https://open.spotify.com/album/7y4NQUMgDS2GdToFChFkjq) | 4:48 | 2026-07-02 |  |
+| [Searching](https://open.spotify.com/track/0jZnWxR0VHhh0Of49xORCW) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Searching](https://open.spotify.com/album/1iJDQ2KJKoy9aHH3PxR6uH) | 6:01 | 2026-09-02 |  |
 | [Season of Harvest](https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ウィーディー・ブライマー](https://open.spotify.com/artist/1H5VMlyi86K6m02awVdsa7) | [Season of Harvest](https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF) | 4:21 | 2024-08-08 | 2024-12-06 |
+| [Sepiageshiki](https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Mabui](https://open.spotify.com/album/6razfP1h1f2P4hQ6AyeBwp) | 7:42 | 2026-09-02 |  |
 | [Set Free](https://open.spotify.com/track/3cP5ydT8hYdFmWzJKv6OLX) | [RINA](https://open.spotify.com/artist/3ABOdJFarjLxw2UgIowVyl) | [JOKER](https://open.spotify.com/album/4QSZHGfXMGNnvNyw0HuzE6) | 4:23 | 2025-12-04 |  |
 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 | 2026-02-17 | 2026-04-03 |
 | [Shedding](https://open.spotify.com/track/6BtCXB1U52fzKc8oWTvfwm) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Shedding](https://open.spotify.com/album/3EoTwixFrvPz9t4ILcZo4t) | 3:30 | 2024-11-21 | 2025-05-02 |

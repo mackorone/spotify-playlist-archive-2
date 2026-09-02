@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: rusowsky, KAROL G y Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,943 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,876 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Tutu Turú \- con Paula Koops](https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Tutu Turú \(con Paula Koops\)](https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd) | 3:01 |
 | 50 | [Pistoletazo de salida](https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR) | [Lola Tuduri](https://open.spotify.com/artist/0RvRK3lAtCszsu5IaYvCtm) | [Pistoletazo de salida](https://open.spotify.com/album/0laCOGaD7dAgqIFagBEZnQ) | 2:43 |
 
-Snapshot ID: `AAAAACbXEALt2leklSDQSOEbMKuwkCE0`
+Snapshot ID: `AAAAAJBeHS3sf1ZnHMecjwImgR6B/k05`

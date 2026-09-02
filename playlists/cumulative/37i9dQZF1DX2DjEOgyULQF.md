@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-506 songs - 23 hr 53 min
+507 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-06-26 | 2026-07-03 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
-| [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 | 2026-08-19 |  |
+| [Opening Trees](https://open.spotify.com/track/5hDelgYCQGTZioqIl7SH2E) | [Morouj](https://open.spotify.com/artist/5YpF6faZSd7Pz7U7gyF4sK) | [Opening Trees](https://open.spotify.com/album/1ve1MD9koLWiujPSXZxOXO) | 3:05 | 2026-08-19 | 2026-09-02 |
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Orlithan](https://open.spotify.com/track/29phtIWzxNHi76o4bH3qeq) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Orlithan](https://open.spotify.com/album/68894zg6ctvRgb4nw4CQAV) | 2:28 | 2026-06-26 | 2026-07-12 |
@@ -436,6 +436,7 @@
 | [Temple of Wisdom](https://open.spotify.com/track/422zAkZWnFYsYBKBEz4ETV) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Temple of Wisdom](https://open.spotify.com/album/77K6oTNgMz5Q6LOfF7Lysx) | 3:02 | 2026-04-03 | 2026-06-27 |
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 | 2024-08-24 |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 | 2025-05-22 |
+| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 |  |
 | [The Breathing Woods](https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Live from Nature](https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p) | 2:13 | 2025-10-02 | 2026-05-28 |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-04-28 | 2026-02-24 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |

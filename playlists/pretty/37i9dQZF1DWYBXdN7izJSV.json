@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 117324,
+  "num_followers": 117340,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAD/LtA0r1pCnj11KSFzLJCkQkC",
+  "snapshot_id": "AAAAAKJ0n/E1ZM34Tb5HPITVNgpXKA3u",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "The Silos (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg"
-      },
-      "artists": [
-        {
-          "name": "The Silos",
-          "url": "https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih"
-        }
-      ],
-      "duration_ms": 298026,
-      "name": "I'm Over You",
-      "url": "https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Post to Wire",
         "url": "https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 133026,
       "name": "Post to Wire",
       "url": "https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "The Silos (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg"
+      },
+      "artists": [
+        {
+          "name": "The Silos",
+          "url": "https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih"
+        }
+      ],
+      "duration_ms": 298026,
+      "name": "I'm Over You",
+      "url": "https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK"
     },
     {
       "added_at": "2026-06-19 04:01:42",

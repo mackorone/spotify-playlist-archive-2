@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Theo Kandel
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,558 likes - 86 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,655 likes - 86 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 85 | [Six String](https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Six String](https://open.spotify.com/album/5v6BHPf3ikQi9d4kFih5PB) | 3:11 |
 | 86 | [Virginia Pastoral](https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [The Crowning](https://open.spotify.com/album/5RKs56AFtKc48TwoMk6620) | 3:32 |
 
-Snapshot ID: `AAAAAKKmamdOvnC27WdIjvWgnv4oWVnT`
+Snapshot ID: `AAAAALFJZZPNe+toluep7mWNy4PGdFLO`

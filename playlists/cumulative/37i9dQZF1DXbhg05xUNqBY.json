@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 157894,
       "name": "It Is Done",
       "url": "https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn"
@@ -6596,6 +6596,24 @@
       "duration_ms": 217600,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/6YYMiOqiUpaP2oPL18Qx15"
+    },
+    {
+      "album": {
+        "name": "The Secret Place, Vol. 3",
+        "url": "https://open.spotify.com/album/6jjv5ZyAoSpnpA6pwHovs2"
+      },
+      "artists": [
+        {
+          "name": "Harborside Music",
+          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357541,
+      "name": "Shalom",
+      "url": "https://open.spotify.com/track/5uHlpFrLkq5PxgmF6h1Pqw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 211281,
+  "num_followers": 211322,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF3asZWSexxo8wgaee0l1JwhxhON",
+  "snapshot_id": "AAAAADhbA4VfYzfthzwqk/BZxBOwhp/h",
   "tracks": [
     {
       "added_at": "2025-12-23 11:35:17",
@@ -311,26 +311,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Debussy: Deux arabesques: Arabesque No. 1",
-        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Tiffany Poon",
-          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Deux arabesques, L. 66: Arabesque No. 1",
-      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -363,18 +343,22 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Sea Notes",
-        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+        "name": "Debussy: Deux arabesques: Arabesque No. 1",
+        "url": "https://open.spotify.com/album/5Btir3Nai2A2d3SMbHLOFI"
       },
       "artists": [
         {
-          "name": "Joanna Finnis",
-          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Tiffany Poon",
+          "url": "https://open.spotify.com/artist/6GoYLHh7cVvUyGjXbFKlDS"
         }
       ],
-      "duration_ms": 128684,
-      "name": "Flight of the Sea Birds",
-      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
+      "duration_ms": 232480,
+      "name": "Deux arabesques, L. 66: Arabesque No. 1",
+      "url": "https://open.spotify.com/track/1eRJRTr2tIZLkJ3gqq6a7w"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -391,6 +375,22 @@
       "duration_ms": 399544,
       "name": "No Time But Eternity",
       "url": "https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Sea Notes",
+        "url": "https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl"
+      },
+      "artists": [
+        {
+          "name": "Joanna Finnis",
+          "url": "https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y"
+        }
+      ],
+      "duration_ms": 128684,
+      "name": "Flight of the Sea Birds",
+      "url": "https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
+      },
+      "artists": [
+        {
+          "name": "Cysur",
+          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
+        }
+      ],
+      "duration_ms": 132755,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
         "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
         "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 206195,
       "name": "Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
       "url": "https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
-      },
-      "artists": [
-        {
-          "name": "Cysur",
-          "url": "https://open.spotify.com/artist/4HCIz5lkrc1mvJwHrGFL8l"
-        }
-      ],
-      "duration_ms": 132755,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
     },
     {
       "added_at": "2025-12-23 11:35:17",

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-521 songs - 1 day 8 hr 42 min
+522 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 2:49 | 2025-08-22 |  |
 | [ITVLO](https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [ITVLO](https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR) | 4:47 | 2026-06-25 | 2026-08-02 |
 | [I’m your girl right? \- Fcukers Remix](https://open.spotify.com/track/0xu869oKDmbWv66goofbFq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I’m your girl right? \(Fcukers Remix\)](https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY) | 5:43 | 2026-06-18 |  |
+| [Jersey \(feat\. Jam City\)](https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Jersey \(feat\. Jam City\)](https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h) | 3:30 | 2026-08-20 |  |
 | [Jini](https://open.spotify.com/track/4Pmg2EBOWFZVvi3zFs3SC3) | [Justin Faust](https://open.spotify.com/artist/3txM1X4je9gqlxE9IKqVsl) | [Jini](https://open.spotify.com/album/2blDmIqLlzYOP6F2JRL0Ze) | 4:20 | 2021-10-28 | 2024-03-29 |
 | [Jomox](https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Jomox](https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82) | 2:56 | 2026-08-20 |  |
 | [Journey \(feat\. Mysie\)](https://open.spotify.com/track/3aZ8RfhiOdUJEP6h2H17y6) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Journey \(feat\. Mysie\)](https://open.spotify.com/album/7ctNCieIMcJdrHIgdLmJKW) | 5:00 | 2024-02-02 | 2024-10-25 |
@@ -395,7 +396,7 @@
 | [Scramble](https://open.spotify.com/track/74H93B3sLLkit4im854HkM) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Crystallise Divergence](https://open.spotify.com/album/1jMDKefom70yCafnJlYLW3) | 1:31 | 2026-07-23 | 2026-08-21 |
 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 | 2024-04-12 | 2026-05-08 |
 | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Shaun J\. Wright](https://open.spotify.com/artist/31iZW0Zin2Ibzfr1BzXqpJ), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi) | [Secretariat \(feat\. Shaun J\. Wright & Kon\)](https://open.spotify.com/album/0uqwUBeEk4WYoLt5ZJdirW) | 4:08 | 2024-09-19 | 2025-02-14 |
-| [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-26 |  |
+| [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2025-06-26 | 2026-09-02 |
 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 | 2024-03-29 | 2026-05-08 |
 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 | 2026-04-16 |  |
 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 | 2024-11-08 | 2025-01-17 |

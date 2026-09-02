@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1khK3JafpRo.md) - [plain]
 
 > <a href="spotify:artist:6RsLLSkSTcL4YrvgRcBTQd">Jimi Jules</a>' favorite tracks\. Curated by Jimi Jules\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250 likes - 67 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266 likes - 67 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1khK3JafpRo.md) - [plain]
 | 66 | [Dream Gasoline](https://open.spotify.com/track/0tEYJ9Gz6xMdZDIlIsNKrw) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Acid and Honey](https://open.spotify.com/album/4WZeErVrjIa9LTgwu2DWo9) | 4:11 |
 | 67 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 |
 
-Snapshot ID: `AAAAAI02NPUQnfDbXNwJPJNGVuWbsDYX`
+Snapshot ID: `AAAAAHuAmmVgAzZ5Un79G2JPp06llZVW`

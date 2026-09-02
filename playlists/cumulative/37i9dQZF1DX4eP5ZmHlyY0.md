@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: NCT 127
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TAEMIN
 
-1,096 songs - 2 day 11 hr 17 min
+1,098 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [LEVEL UP \- Sam Feldt Remix / Bonus Track](https://open.spotify.com/track/4jCreA0WDZfTX6htUzGg5I) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Road to A \(Global Edition\)](https://open.spotify.com/album/5KjdUUdo3ErrnbM3Tw0iXb) | 2:47 | 2024-02-13 | 2024-03-20 |
 | [LIFE GOES ON](https://open.spotify.com/track/5WZlSBK4l9o4pxlzBbY9ec) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [LIFE GOES ON](https://open.spotify.com/album/337Exd3bddJsbVGEuJ8nm3) | 4:57 | 2024-12-03 | 2024-12-11 |
 | [Light Up The Night](https://open.spotify.com/track/7jBSMTXOTrYZrsQ1x0xmJs) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [24karats GOLD GENESIS](https://open.spotify.com/album/3PQkZD1u6awEojZLSgilCs) | 3:35 | 2024-07-26 | 2024-07-31 |
+| [Like Fire](https://open.spotify.com/track/0V3iJWPutcLhPId4q2LjxZ) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [HEAT](https://open.spotify.com/album/2XRfS9sTg9ncblI4SsJosi) | 2:41 | 2026-09-01 |  |
 | [LILMATIC](https://open.spotify.com/track/7FgaqhCQPHDfLfB9At78TQ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [NEOMATIC](https://open.spotify.com/album/25RMWEe9l89mCPZ8uUuzG0) | 2:09 | 2026-02-03 | 2026-02-18 |
 | [LIVE FAST DIE SLOW](https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [QUINTESSENCE](https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb) | 3:00 | 2026-05-18 |  |
 | [Lollipop](https://open.spotify.com/track/53WRoCbjgRtPdi7es1zGnZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [TRICKSTER](https://open.spotify.com/album/2cDSI73Vw84p1vCL9W2evB) | 2:09 | 2024-02-27 | 2024-04-17 |
@@ -751,7 +752,7 @@
 | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W) | 3:06 | 2023-11-23 | 2024-02-14 |
 | [show time...](https://open.spotify.com/track/0SdzkJ0rQjdDUjf4KWRPyU) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [AMENITY](https://open.spotify.com/album/6aEBnBIfPvLSedFSC3UjRJ) | 3:45 | 2026-08-24 |  |
 | [Show U Light](https://open.spotify.com/track/32JkY06bxiHieuinm8E7GB) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/4kCizxhZvJic1cUOuXNXLY) | 3:32 | 2024-04-23 | 2024-05-22 |
-| [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 | 2026-07-28 |  |
+| [Sign](https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [FEELM](https://open.spotify.com/album/0U8OEGNR5aYwlY3TLXGVYS) | 2:49 | 2026-07-28 | 2026-09-02 |
 | [Silence](https://open.spotify.com/track/4JZZ7HMom41hWql5C97kNF) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Humanity](https://open.spotify.com/album/1YPnixUqWPRZgfAz4nWoHm) | 2:56 | 2025-04-23 | 2025-08-18 |
 | [Silhouette](https://open.spotify.com/track/08p4TJG7E1TtabAdPQ5uCg) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [Present](https://open.spotify.com/album/4wpxSGDKIfjqmJcYW39le3) | 3:21 | 2024-12-24 | 2025-03-26 |
 | [Simmer \(Japanese Ver.\)](https://open.spotify.com/track/16MjZTUg4p646phx0t4hF2) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Simmer \(Japanese Ver.\)](https://open.spotify.com/album/4aZhX5TMq56qe1D99M296n) | 3:09 | 2025-06-24 | 2025-07-16 |
@@ -762,6 +763,7 @@
 | [SLAM DUNK](https://open.spotify.com/track/0dvPM5OyBYKAwoo5eszlCA) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/1pTD8hn63VyGChIfexGEw4) | 2:57 | 2025-07-22 | 2025-09-01 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-04-24 |
 | [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 | 2024-08-27 | 2024-10-02 |
+| [Slow It Down](https://open.spotify.com/track/6rbE0DZpklcHtyTrqLNsc7) | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [Slow It Down](https://open.spotify.com/album/6lwS4xGibwiF4dC4c4mjVp) | 2:45 | 2026-09-01 |  |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 | 2024-03-27 |
 | [Snakebite](https://open.spotify.com/track/0PwsFK4H8amy5HsRu3ZyOx) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Snakebite](https://open.spotify.com/album/5RQ9TITRANy2tw5FobGABd) | 3:34 | 2025-08-10 | 2025-08-20 |
 | [SNAPBACK](https://open.spotify.com/track/3CVdqafJ9WtmiCGkR2d9rJ) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [SNAPBACK](https://open.spotify.com/album/25CmZCmdlDSKjQ1CyBuysZ) | 2:33 | 2026-06-15 |  |
@@ -1034,7 +1036,7 @@
 | [ブレイクライン](https://open.spotify.com/track/3GGkjydRMWrCXeQmvwmIeP) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ブレイクライン](https://open.spotify.com/album/0mlnvdLh3Ew8ifBg6ybayZ) | 3:50 | 2024-05-28 | 2024-07-31 |
 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 | 2024-10-16 | 2025-02-19 |
 | [ポケット](https://open.spotify.com/track/0IHBe0KFpJ2QeasyRprvUx) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ポケット](https://open.spotify.com/album/3H30hm2wmhuvrnU1OpS30f) | 4:12 | 2025-01-07 | 2025-01-15 |
-| [マイオンリー](https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [マイオンリー](https://open.spotify.com/album/5uEUJGYo4OU4Ap254o0FUA) | 3:46 | 2026-07-13 |  |
+| [マイオンリー](https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [マイオンリー](https://open.spotify.com/album/5uEUJGYo4OU4Ap254o0FUA) | 3:46 | 2026-07-13 | 2026-09-02 |
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 | 2025-02-03 |
 | [メタルなかよし](https://open.spotify.com/track/6V02BcehQcu2u2ugSjvIQj) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [メタルなかよし](https://open.spotify.com/album/39j9M9qIcQtue6TmiAtJ7F) | 3:54 | 2025-04-07 | 2025-04-18 |

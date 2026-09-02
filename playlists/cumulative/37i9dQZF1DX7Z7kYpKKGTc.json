@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 281573,
       "name": "A Room With A View",
       "url": "https://open.spotify.com/track/6SLy5ivll6pCt5bPHKy6Aq"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 271986,
       "name": "Dreamin' About You",
       "url": "https://open.spotify.com/track/6faKvPqhbvI2OVEF7dzaIa"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 257706,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/0rPOAr0WydCb79Wst4coUP"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 273506,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/1YV5Lms920tGuUZhy7AoXu"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Hello, Again",
       "url": "https://open.spotify.com/track/6KdQTIVUmKRlMsQcC0pmbS"
@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Triumph: Rock And Roll Machine (Music From The Documentary)",
+        "url": "https://open.spotify.com/album/0d4cv652NvhdSMGb4R58Fa"
+      },
+      "artists": [
+        {
+          "name": "Triumph",
+          "url": "https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365706,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/31NmUqi4gvfhKMLJ7q2igl"
+    },
+    {
+      "album": {
         "name": "Reidolized (The Soundtrack to the Crimson Idol)",
         "url": "https://open.spotify.com/album/2ZGxasj0CTNUWQF954teKk"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 249266,
       "name": "Hold on to You",
       "url": "https://open.spotify.com/track/1mSqcdYiCrXqJV1zHW6F66"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 433360,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/0QlV47zdJlcpzi9gNhdspl"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 461773,
       "name": "I Never Said Goodbye",
       "url": "https://open.spotify.com/track/2mrxbcjEZ3rwUkLzpHQ8ZT"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 241600,
       "name": "I Will Be There",
       "url": "https://open.spotify.com/track/42jhACsvbJ02QwfE66JB2s"
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 289200,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/0WNyq9XhfmHMxMhMelh0c0"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
+      "date_removed": null,
       "duration_ms": 254733,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/3FMaoRyUZ07NQIMlCDAEOi"
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 248733,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3U3fD2sOVMG2YzVCdNi88J"
@@ -5196,7 +5214,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 227826,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1iwFYbXq7q0cOOet8uyfb8"
@@ -6500,7 +6518,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 231626,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/4mpxuJyBRxoiutRLrWCwAY"
@@ -6796,7 +6814,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Strange Things",
       "url": "https://open.spotify.com/track/2fdByfikJFeIsV5irX5rIu"
@@ -7758,7 +7776,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-04",
+      "date_removed": null,
       "duration_ms": 295426,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2QfjV18pg4Ye7Vo4TsSobq"
@@ -7920,7 +7938,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 298066,
       "name": "What Happens To Me",
       "url": "https://open.spotify.com/track/6CyBCVrrl6yWIpFk8KTUmy"
@@ -8446,7 +8464,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 278069,
       "name": "WITHOUT YOU - Full Band + Orchestra",
       "url": "https://open.spotify.com/track/3tCmAhps9HuJGyVS8bO4iR"
@@ -8482,7 +8500,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 230786,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/4LKlwXTUIiuxU9kRbX0MGq"

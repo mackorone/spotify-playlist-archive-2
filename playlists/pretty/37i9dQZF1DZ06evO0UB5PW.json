@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 64217,
+  "num_followers": 64244,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAADv+pAbf1c58tGcDLmfuv9P",
+  "snapshot_id": "apTEAAAAAADoqn4nKHWtFvSRX8uarRop",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Ghost Again",
-        "url": "https://open.spotify.com/album/03rT8X0sUnxyKN8TECd1xA"
+        "name": "Emperor of Sand",
+        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 275717,
-      "name": "Your Ghost Again",
-      "url": "https://open.spotify.com/track/0DR0WsV57b7ZyiHCEBvKQY"
+      "duration_ms": 303106,
+      "name": "Steambreather",
+      "url": "https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emperor of Sand",
-        "url": "https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Steambreather",
-      "url": "https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crack the Skye",
         "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 346573,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 411932,
+      "name": "More Than I Could Chew",
+      "url": "https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro"
     },
     {
       "added_at": null,
@@ -180,25 +180,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 314205,
-      "name": "They're Coming For You",
-      "url": "https://open.spotify.com/track/4IYnrlAKQ7TSPnTX2YDQ8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 411932,
-      "name": "More Than I Could Chew",
-      "url": "https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro"
+      "duration_ms": 275717,
+      "name": "Your Ghost Again",
+      "url": "https://open.spotify.com/track/0QPNizbrSaI72kjEONXx9E"
     },
     {
       "added_at": null,
@@ -235,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marrow Deep",
-        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 339315,
-      "name": "Golden Spires",
-      "url": "https://open.spotify.com/track/7GunJUfMn0WFZASAaD3yy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 320507,
       "name": "Teardrinker",
       "url": "https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marrow Deep",
+        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 314205,
+      "name": "They're Coming For You",
+      "url": "https://open.spotify.com/track/4IYnrlAKQ7TSPnTX2YDQ8P"
     },
     {
       "added_at": null,
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marrow Deep",
-        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 286460,
-      "name": "Moth and Bone",
-      "url": "https://open.spotify.com/track/3kLOmLCER6xmhPBnqqPOoV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 183013,
       "name": "Iron Tusk",
       "url": "https://open.spotify.com/track/7zF8QWnnpQ1xNTWmCdsQCX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marrow Deep",
+        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 339315,
+      "name": "Golden Spires",
+      "url": "https://open.spotify.com/track/7GunJUfMn0WFZASAaD3yy0"
     },
     {
       "added_at": null,
@@ -363,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marrow Deep",
-        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 290936,
-      "name": "A Vampire's Demeanor",
-      "url": "https://open.spotify.com/track/5bAGMYI3iwa3CIUtPB401o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -391,6 +359,22 @@
       "duration_ms": 165853,
       "name": "I Am Ahab",
       "url": "https://open.spotify.com/track/0gr97EET1vP85jcFESMYRK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marrow Deep",
+        "url": "https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 286460,
+      "name": "Moth and Bone",
+      "url": "https://open.spotify.com/track/3kLOmLCER6xmhPBnqqPOoV"
     },
     {
       "added_at": null,
@@ -491,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Floods of Triton",
-        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
+        "name": "Hushed and Grim",
+        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
       "artists": [
         {
           "name": "Mastodon",
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 269583,
-      "name": "Floods of Triton",
-      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+      "duration_ms": 363454,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/334K6B7IWJUFFWxWdYjdXq"
     },
     {
       "added_at": null,
@@ -543,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hushed and Grim",
-        "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
+        "name": "Floods of Triton",
+        "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
       "artists": [
         {
           "name": "Mastodon",
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 363454,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/334K6B7IWJUFFWxWdYjdXq"
+      "duration_ms": 269583,
+      "name": "Floods of Triton",
+      "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 199240,
       "name": "Circle of Cysquatch",
       "url": "https://open.spotify.com/track/02YSFQqaj2WClCrMmfIW4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunter (Deluxe)",
+        "url": "https://open.spotify.com/album/7lObP1GanG65wToWzufQtq"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 330880,
+      "name": "The Sparrow",
+      "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"
     }
   ],
   "unique_name": "This Is Mastodon",

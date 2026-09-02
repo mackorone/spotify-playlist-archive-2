@@ -4,7 +4,7 @@
 
 > Nieuw: Alex Warren, Samuel Welten & Russo, Olivia Rodrigo, Sarah Julia, DI\-RECT, Bokoesam en meer..
 
-17,226 songs - 37 day 11 hr 7 min
+17,226 songs - 37 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1774,7 +1774,7 @@
 | [Bij Mij Zijn](https://open.spotify.com/track/61gJZi8r1UjFYw5VmZ875X) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Bij Mij Zijn](https://open.spotify.com/album/7DJAavMV4mY9EpcAvGWNvU) | 3:18 | 2026-03-12 | 2026-03-20 |
 | [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 | 2023-08-03 | 2023-08-11 |
 | [Bijna Vergeten](https://open.spotify.com/track/2jxhCxeCc7pdWUkKaMx81n) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/0QCaSYScrUx2UNQIHNH7xE) | 3:04 | 2025-02-21 | 2025-02-28 |
-| [BIJNAAM](https://open.spotify.com/track/3DPapi32GqBviOrFZjIjip) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [BIJNAAM](https://open.spotify.com/album/0kitTDgQMrybL8fQFbTsle) | 2:51 | 2026-08-28 |  |
+| [BIJNAAM](https://open.spotify.com/track/3DPapi32GqBviOrFZjIjip) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [BIJNAAM](https://open.spotify.com/album/0kitTDgQMrybL8fQFbTsle) | 2:06 | 2026-08-28 |  |
 | [Bijstand \- Freestyle](https://open.spotify.com/track/5FfenWRho5n688RiwmZLFS) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Bijstand \(Freestyle\)](https://open.spotify.com/album/2CUgGnd0GCo9seKsd1jtUh) | 2:27 | 2023-10-12 | 2023-10-21 |
 | [Bika](https://open.spotify.com/track/44GIREnuRBBdraJNI4uy5x) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Bika](https://open.spotify.com/album/0iiZc4y4cdNjUbLO3lj4VF) | 2:39 | 2023-06-15 | 2023-06-23 |
 | [Bike Air Anthem](https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bike Air Anthem](https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q) | 1:27 | 2025-08-14 | 2025-08-22 |

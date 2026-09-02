@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Juanita du Plessis, Franja du Plessis, Ruan Josh, Francois van Coke, Zaan Sonnekus en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,327 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,325 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 79 | [Vêr Van Die Huis Af](https://open.spotify.com/track/2Tsi2JPhmT0p1AiD4TwUoo) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Vêr Van Die Huis Af](https://open.spotify.com/album/27vixl2BCIve2VNi5HY41G) | 2:39 |
 | 80 | [Hallo My Hart](https://open.spotify.com/track/3eT7kDYndBjQQiZr5owF6V) | [Willem Botha](https://open.spotify.com/artist/1a5SzY0uh6NYXvmzPHPug7) | [Hallo My Hart](https://open.spotify.com/album/2R2veLkBR5IUfjaX7BkYI9) | 3:50 |
 
-Snapshot ID: `AAAAAL9i+YieHPcl/VQY6qDeHnPU3nyV`
+Snapshot ID: `AAAAAM12kxOppFGCkOU394NXFjB/TqoP`

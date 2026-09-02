@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,404 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,408 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 47 | [understood](https://open.spotify.com/track/6ckr4QzYRqDQ1COrVSST9w) | [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [understood](https://open.spotify.com/album/0e6Vetk0r0IOvgntCewZXB) | 2:18 |
 | 48 | [Moody \- Interlude](https://open.spotify.com/track/4gszCRGb7JVjsN7FTXwr8Y) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Moody \(Interlude\)](https://open.spotify.com/album/3by0xIg8P6so2mXRs8SDps) | 1:51 |
 
-Snapshot ID: `AAAAAEvbA62JIv5lYZ6WqIJmHU59zjbI`
+Snapshot ID: `AAAAAB10XrgvrXfAHzjah4QReaYV9JWi`

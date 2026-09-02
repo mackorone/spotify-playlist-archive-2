@@ -1,12 +1,12 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 224794,
+  "num_followers": 224816,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOckQXPn/EPX6bORuAdsEtgm4BGy",
+  "snapshot_id": "AAAAAAYveA7zU/v2zHOJZQsxXoWUr7gL",
   "tracks": [
     {
       "added_at": "2026-05-23 04:25:38",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
+        "name": "Second Verse",
+        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+      },
+      "artists": [
+        {
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Despite the Flop",
+      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+    },
+    {
+      "added_at": "2026-05-23 04:25:38",
+      "album": {
         "name": "Badi Nsafer",
         "url": "https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2026-05-23 04:25:38",
       "album": {
-        "name": "Second Verse",
-        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+        "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
+        "url": "https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym"
       },
       "artists": [
         {
-          "name": "Faraj Suleiman",
-          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+          "name": "Badr Rami",
+          "url": "https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Despite the Flop",
-      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+      "duration_ms": 772885,
+      "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
+      "url": "https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV"
     },
     {
       "added_at": "2026-05-23 04:25:38",
@@ -1107,22 +1123,6 @@
       "duration_ms": 202879,
       "name": "thank you, goodnight",
       "url": "https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1"
-    },
-    {
-      "added_at": "2026-05-23 04:25:38",
-      "album": {
-        "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
-        "url": "https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym"
-      },
-      "artists": [
-        {
-          "name": "Badr Rami",
-          "url": "https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB"
-        }
-      ],
-      "duration_ms": 772885,
-      "name": "\u0642\u0644 \u0644\u0644\u0645\u0644\u064a\u062d\u0629",
-      "url": "https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV"
     },
     {
       "added_at": "2026-05-23 04:25:38",

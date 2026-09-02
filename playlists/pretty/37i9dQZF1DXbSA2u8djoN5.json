@@ -1,12 +1,12 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23529,
+  "num_followers": 23532,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrKqnWK+y1ZkdR3fccoOlFhCoza",
+  "snapshot_id": "AAAAAKf/2y5+hLS4zMhMksOWUGW7CCfH",
   "tracks": [
     {
       "added_at": "2026-08-13 21:00:11",
@@ -731,26 +731,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "C\u00e2te pietre ai aruncat",
-        "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
-      },
-      "artists": [
-        {
-          "name": "Daria Lupi",
-          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
-        },
-        {
-          "name": "Tata Vlad",
-          "url": "https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "C\u00e2te pietre ai aruncat",
-      "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Ani \u0218i Ani La R\u00e2nd",
         "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 200610,
       "name": "Ani \u0218i Ani La R\u00e2nd",
       "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "C\u00e2te pietre ai aruncat",
+        "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "Tata Vlad",
+          "url": "https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "C\u00e2te pietre ai aruncat",
+      "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -899,8 +899,8 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Eu Beu / 3 Pahare",
-        "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
+        "name": "Auzeam, Gheorghe",
+        "url": "https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx"
       },
       "artists": [
         {
@@ -910,15 +910,11 @@
         {
           "name": "Feoctist",
           "url": "https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql"
-        },
-        {
-          "name": "Pavel Stratan",
-          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
         }
       ],
-      "duration_ms": 200100,
-      "name": "Eu Beu / 3 Pahare",
-      "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
+      "duration_ms": 186598,
+      "name": "Auzeam, Gheorghe",
+      "url": "https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x"
     },
     {
       "added_at": "2026-08-13 21:00:11",

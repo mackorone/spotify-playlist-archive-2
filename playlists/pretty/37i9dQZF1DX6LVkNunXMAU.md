@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Dulce y Agraz
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,351 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,352 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [La Torpeza \- Reversión](https://open.spotify.com/track/4sIakhIDONACHNWGMkTgqG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/0VnKh4aSjhxcGRjCoH538m) | 3:52 |
 | 100 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAAP3h2ePve0FyM+vSxV0ep8o/wd1O`
+Snapshot ID: `AAAAAEEmBpthbJmKNA076pUT7GkgICDc`

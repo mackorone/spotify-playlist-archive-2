@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 他們就是本年度的重點雷達及力推星人！Let's meet the future！Cover: LAWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,978 likes - 31 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,982 likes - 31 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 30 | [回郵 \(Re:\)](https://open.spotify.com/track/4y1LtJIJGiJYReJJONM4hP) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [回郵 \(Re:\)](https://open.spotify.com/album/64ecbogy9LO3DiTXGgwZrk) | 4:22 |
 | 31 | [序章•漁夫](https://open.spotify.com/track/66s6gNhfiso7c2Ah5IGREJ) | [Forty 顏世琳](https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V), [HenrV](https://open.spotify.com/artist/79k6W22oUEOBoquMIvQmh1) | [顏牧](https://open.spotify.com/album/4NdTkm4FlcRjbaAlnknHDF) | 3:34 |
 
-Snapshot ID: `AAAAAGMo3zJsYRdKho4QPiRZR1CSXMTZ`
+Snapshot ID: `AAAAAGMGNsFB6SE7AJu0m4+h7/iNwaMS`

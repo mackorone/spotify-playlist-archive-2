@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 36 | [Over the Dune](https://open.spotify.com/track/3cHLDKI6zWPFtczejY5kGw) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [David Moore](https://open.spotify.com/artist/7xEnx9zeKaSs5WeZWPnpW8), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Let the Moon Be a Planet](https://open.spotify.com/album/3wFY9XEusAnyUY5GxTE6vu) | 6:44 |
 | 37 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
 
-Snapshot ID: `AAAAAFysIjU6iGTDTIn7LXk8Vn9mKAy0`
+Snapshot ID: `AAAAAMxHEccf49LIF1Htp/U84EAF93CW`

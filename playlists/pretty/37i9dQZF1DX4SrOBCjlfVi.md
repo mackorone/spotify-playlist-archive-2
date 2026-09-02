@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring AZ Chike and Tyler, The Creator,  Rod Wave, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,353 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,427 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 75 | [Nothing Is Private](https://open.spotify.com/track/4GezRtFPoeXcUhdYFdyJkF) | [KUR](https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB) | [ARD YO](https://open.spotify.com/album/4Q4tb8Zu43NeJm1oJW0rtP) | 3:23 |
 | 76 | [2 Turnt Gang 2](https://open.spotify.com/track/3RQfWTBgfpWxg9d0boSHrQ) | [Paradise Modd](https://open.spotify.com/artist/6kUhRTzEWqrPjoZcFa09SN) | [2 Turnt Gang 2](https://open.spotify.com/album/1cdtXZxVMCwC8feP8gp8vv) | 2:00 |
 
-Snapshot ID: `AAAAAN3/M0YCDhM9JvscP2Tcv9+ZtaAi`
+Snapshot ID: `AAAAAGS8z4Smt1bH9ABvInwmoHMR7CU5`

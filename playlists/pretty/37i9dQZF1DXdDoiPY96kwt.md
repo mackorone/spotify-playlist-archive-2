@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Every couple meets their match\. Listen to the music from BEEF Season 2, now playing on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,852 likes - 59 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,862 likes - 59 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 | 58 | [The Birds Don't Sing, They Screech in Pain](https://open.spotify.com/track/2VeV0h40xsSK74CL0e9yE4) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:13 |
 | 59 | [The Drama of Original Choice](https://open.spotify.com/track/6zTNkNW9DzQy5D5kivid1D) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF: The Bonus Tracks](https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP) | 0:54 |
 
-Snapshot ID: `AAAAADCAGfuwsh+IxBcVxXRBbAmkxuVD`
+Snapshot ID: `AAAAAIQWgrA7F53xKzqJkSs+/Mvz3sie`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,768 likes - 106 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,796 likes - 106 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 105 | [We're All in This Together](https://open.spotify.com/track/2VDNt5vmaOUOpP6jy93tuF) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 3:52 |
 | 106 | [Zoo](https://open.spotify.com/track/1aLsZ2cYTMvNdvLBBR4t78) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Dream Ami](https://open.spotify.com/artist/6Oeb6i0acXNe1Q1MqqfkPX) | [Zoo](https://open.spotify.com/album/1bxGBiMcY6kn503VQiYSZ3) | 3:10 |
 
-Snapshot ID: `AAAAAKI7SEfEakYmrCWWZYF+GWb/6Rhb`
+Snapshot ID: `AAAAAO14YWI4lak6ZYFXxycS6opDVLDa`

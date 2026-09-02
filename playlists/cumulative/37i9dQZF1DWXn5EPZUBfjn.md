@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-64 songs - 3 hr 37 min
+66 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,9 +28,10 @@
 | [I Know](https://open.spotify.com/track/5La5RH6MdDgT6fkBdb0RD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Know](https://open.spotify.com/album/0uSwIF5VDu0GBRTf7JYbzd) | 2:41 | 2025-12-09 |  |
 | [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 | 2026-03-09 |  |
 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-05-26 |  |
-| [KING](https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:06 | 2026-06-22 |  |
+| [KING](https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 2:06 | 2026-06-22 | 2026-09-02 |
 | [Laugh Now Cry Later](https://open.spotify.com/track/4c78oL1P2Zqeh1fwm0I9h4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Laugh Now Cry Later](https://open.spotify.com/album/3GhJYDQIkSHGEXYp9TMcnB) | 5:01 | 2025-12-09 |  |
 | [Lick Or Sum](https://open.spotify.com/track/35aMkiQStUB9OBw4UJotEI) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/5q6jmPdh6K3SzvaW5lpCo3) | 2:21 | 2025-12-09 |  |
+| [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Look Like My Mama \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K) | 3:16 | 2026-09-01 |  |
 | [Lovin On Me](https://open.spotify.com/track/0C6SJd1VY35GjQJvmp1F1S) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/4NNjS9CmnHwFjVlKn7ILka) | 2:21 | 2025-12-09 |  |
 | [luther](https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [luther](https://open.spotify.com/album/1015FLq4dfE55BwjmLZnVN) | 5:11 | 2025-12-09 |  |
 | [Made It On Our Own](https://open.spotify.com/track/1sbKhxoxB3FtrMZiSmI8Rx) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Made It On Our Own](https://open.spotify.com/album/4k0TPXr0TpuE3ZFUAoNyRK) | 2:56 | 2026-03-09 |  |
@@ -40,6 +41,7 @@
 | [NISSAN ALTIMA](https://open.spotify.com/track/3FyZuf7Lmi5vf1Af3SM1VB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/7b9vrdtS34R289wwRJmC1A) | 2:08 | 2025-12-09 |  |
 | [No Idea](https://open.spotify.com/track/1UMh84TkkryEyu0ECwpyhw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Idea](https://open.spotify.com/album/5kOXQsc47kkPkMe0CnLoAu) | 2:34 | 2025-12-09 |  |
 | [No Pole](https://open.spotify.com/track/6RJTQlCfG4K5wDhZB47Dg6) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [No Pole](https://open.spotify.com/album/1TzqwaIgWaZ0x15gdjlcAD) | 4:17 | 2026-01-27 |  |
+| [OK \(feat\. Don Toliver\)](https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:38 | 2026-09-01 |  |
 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0zVWX3fDULXxtS8krbAdo2) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/album/14XWT2AvEjVWIojcj7OE6g) | 3:58 | 2026-07-22 |  |
 | [Paint The Town Red](https://open.spotify.com/track/6FZSpeskRlhogcrGqPA76w) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/2YllXSbf2UqKcQ3LGiUUIk) | 4:55 | 2025-12-09 |  |
 | [Pardon Me](https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Pardon Me](https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25) | 3:04 | 2025-12-09 |  |

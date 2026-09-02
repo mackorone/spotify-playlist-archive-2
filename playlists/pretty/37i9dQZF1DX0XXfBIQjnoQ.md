@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XXfBIQjnoQ.md) - [plain]
 
 > Black authors rewrite reality in these otherworldly sci\-fi & fantasy novels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAE3sFVI2cs2+QsVAudXO7ew1C5lH`
+Snapshot ID: `AAAAAF/I1sxyey8xtt0Hhhtn2pym1xXY`

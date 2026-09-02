@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tbIsLEZuCd.md) - [plain]
 
 > Great taste always comes back around\. Discover it here\. Amira Elfeky, Estevie, House of Protection, and Lily Meola pass down the sounds and styles they keep on repeat\. A Spotify x Depop experience\. Hit play\. Get put on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,719 likes - 61 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,720 likes - 61 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tbIsLEZuCd.md) - [plain]
 | 60 | [The Sellout](https://open.spotify.com/track/4btZHbqpH2BdMdx7sU4OIr) | [É Arenas](https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC) | [The Sellout](https://open.spotify.com/album/61QypwBcGMdnrKiH1weYib) | 3:38 |
 | 61 | [Dime Lo Que Piensas](https://open.spotify.com/track/7izzO2Begx5cU1lV4o39ow) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Si el Hubiera No Existe](https://open.spotify.com/album/6U8gEEZtCClxChtP63jNzG) | 2:46 |
 
-Snapshot ID: `AAAAAEClOFrvDXZ0bGhuqEgzb1KIhRCx`
+Snapshot ID: `AAAAADJWLc5/8bf+wAbcSxBXtEZ6MFuc`

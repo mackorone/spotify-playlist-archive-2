@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,524 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,536 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 2 | [WHAT THA HELLY \(SOMEONE CALL THE AMBULANCE\)](https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [WHAT THA HELLY \(SOMEONE CALL THE AMBULANCE\)](https://open.spotify.com/album/5nKOeJM9R1jMkJHUAuyWgf) | 3:09 |
 | 3 | [Party Accommodant 2K26](https://open.spotify.com/track/6yj1K43XSUWdMNjEOvifwC) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [DJ Mutante](https://open.spotify.com/artist/5frybGd7YkcpOhjI4P0kzy) | [Party Accommodant 2K26](https://open.spotify.com/album/488DoxcWXfa4o72jpunSvH) | 2:10 |
 | 4 | [DOMINATION](https://open.spotify.com/track/78VeKgICcwKD49o0Hruf4X) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Rekkt](https://open.spotify.com/artist/3IbjiicwEQaLiQGRG36EFj) | [DOMINATION](https://open.spotify.com/album/0T1h0qzzDKwViptWSvQalk) | 2:48 |
-| 5 | [L.P.A.](https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [L.P.A.](https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq) | 2:31 |
-| 6 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
+| 5 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
+| 6 | [L.P.A.](https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e), [Missy](https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9) | [L.P.A.](https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq) | 2:31 |
 | 7 | [BKJN](https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo) | [Lekkerfaces](https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349) | [BKJN](https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv) | 2:18 |
 | 8 | [Gathering Of Gods](https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Gathering Of Gods](https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4) | 2:08 |
 | 9 | [Our Rebirth](https://open.spotify.com/track/7sQac0UpatNuJCPo15GnBm) | [Kili](https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV) | [Our Rebirth](https://open.spotify.com/album/5Q74UPvG65cYivPmCHHu3y) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/track/4FEKWUDChRiAbJZpgVrV7z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/album/4oFYkPDrLs77KONze5TbhJ) | 3:54 |
 | 50 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 
-Snapshot ID: `AAAAAIpLzuQR4R2sEqypWVcCrvMz68j2`
+Snapshot ID: `AAAAAJ4RSoKAzpmCeRqm4DGpRM64aYgb`

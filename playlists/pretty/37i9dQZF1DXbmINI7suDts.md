@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Vyroota
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,614 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,624 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 49 | [Tanimba](https://open.spotify.com/track/2Hafw2FRF7RAHyRPnxPgpm) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Tanimba](https://open.spotify.com/album/4w8Gb7vP6EK6glctX9NyiE) | 2:20 |
 | 50 | [Akigusa](https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [Akigusa](https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH) | 4:48 |
 
-Snapshot ID: `AAAAAI3eyZ1buXiecwbEukhAs++4blJv`
+Snapshot ID: `AAAAAH1dTHh3Ma04Yf5wwGY+2UB3e2HW`

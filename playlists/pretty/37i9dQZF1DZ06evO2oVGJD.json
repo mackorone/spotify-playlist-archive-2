@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Peque\u00f1os Musical. The essential tracks, all in one playlist.",
-  "num_followers": 130543,
+  "num_followers": 130602,
   "original_name": "This Is Banda Peque\u00f1os Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAADx420I2lYCSM+ifF0dqPud",
+  "snapshot_id": "apTEAAAAAAAV4rXWIjIdOIWRpt6fI+BG",
   "tracks": [
     {
       "added_at": null,
@@ -52,7 +52,7 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 192853,
+      "duration_ms": 227853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
     },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Peque\u00f1os Musical",
-        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "Tengo que regresar",
-      "url": "https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 197626,
       "name": "Desnudos",
       "url": "https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un loco solitario",
+        "url": "https://open.spotify.com/album/1KFQSNKFlb2DYyi7x001OQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Ahora que no est\u00e1s aqu\u00ed",
+      "url": "https://open.spotify.com/track/09Rj5jUSHgRpzoF5RDHk23"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un loco solitario",
-        "url": "https://open.spotify.com/album/1KFQSNKFlb2DYyi7x001OQ"
+        "name": "Banda Peque\u00f1os Musical",
+        "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Ahora que no est\u00e1s aqu\u00ed",
-      "url": "https://open.spotify.com/track/09Rj5jUSHgRpzoF5RDHk23"
+      "duration_ms": 204813,
+      "name": "Tengo que regresar",
+      "url": "https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 180906,
       "name": "Luna llena",
       "url": "https://open.spotify.com/track/1SHsgQdBllRc2q46WwpHQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con paso sensual",
+        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "El retrato de mam\u00e1",
+      "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con paso sensual",
-        "url": "https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A"
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 225173,
-      "name": "El retrato de mam\u00e1",
-      "url": "https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F"
+      "duration_ms": 167786,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX"
     },
     {
       "added_at": null,

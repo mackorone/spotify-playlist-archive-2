@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 13 | [Fuck](https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 3:33 |
 | 14 | [Ligemeget Hvor Vi Er](https://open.spotify.com/track/3GGpmbJ5HLUPKpbiiFhrBg) | [KLIKEN](https://open.spotify.com/artist/67BbnG370WnGcK7Thdx7OC) | [Ligemeget Hvor Vi Er](https://open.spotify.com/album/5Khg1jRO295dv0WVCqKEkt) | 2:25 |
 | 15 | [Amira](https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Amira](https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb) | 2:03 |
-| 16 | [KIKI](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
+| 16 | [KIKI \(feat\. PAY\)](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI \(feat\. PAY\)](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
 | 17 | [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 |
 | 18 | [Bottom Up](https://open.spotify.com/track/5WZXMyPCr7raV0xwiwoZGF) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [Bottom Up](https://open.spotify.com/album/73GwCJkfPEYTuhUY1iukLX) | 3:19 |
 | 19 | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/track/27U7IT8vYLgI4tZnKTKf0r) | [Blaadage](https://open.spotify.com/artist/0ttQJRduN0NrldVyK7WRDy), [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [HEL IGEN \(feat\. Chris Abolade\)](https://open.spotify.com/album/6lvkflWV8rpLiRSWKVkqkT) | 3:35 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 94 | [Make A Boy Cry](https://open.spotify.com/track/2WLYqRSbVDr5uR8C7RWL5O) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Make A Boy Cry](https://open.spotify.com/album/34ZrA5s98UtfcU0gasVL80) | 2:50 |
 | 95 | [Blurred Dimensions](https://open.spotify.com/track/6JU3p05o6B9SEaw4pEnJwo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn) | [Blurred Dimensions](https://open.spotify.com/album/6wvgaHDoxRLGlxTf7H6enM) | 3:45 |
 
-Snapshot ID: `AAAAAFH/mRWbaHpzoY8a0oWcgsm4q0z2`
+Snapshot ID: `AAAAAN6RkAzLfznEthKKajTQbfM1mcjJ`

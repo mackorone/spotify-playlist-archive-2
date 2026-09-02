@@ -52251,24 +52251,6 @@
     },
     {
       "album": {
-        "name": "\u604b\u3092\u3057\u3066\u3044\u308b",
-        "url": "https://open.spotify.com/album/0S4qVv6m6QPkCavehjRmPl"
-      },
-      "artists": [
-        {
-          "name": "\u3060\u3066\u3043\u304c",
-          "url": "https://open.spotify.com/artist/3Zc9pEydPihuJeGx8yprfo"
-        }
-      ],
-      "date_added": "2026-09-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286293,
-      "name": "in love",
-      "url": "https://open.spotify.com/track/2dqWEFh414Lg0OYID7qZ4P"
-    },
-    {
-      "album": {
         "name": "in my arms (so far away)",
         "url": "https://open.spotify.com/album/0JOYR08ic8IUxF9Edh7OWO"
       },
@@ -203970,6 +203952,24 @@
       "duration_ms": 241500,
       "name": "\u604b\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/35Oc6AcN2B4eQ7n8PjMBs4"
+    },
+    {
+      "album": {
+        "name": "\u604b\u3092\u3057\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/0S4qVv6m6QPkCavehjRmPl"
+      },
+      "artists": [
+        {
+          "name": "\u3060\u3066\u3043\u304c",
+          "url": "https://open.spotify.com/artist/3Zc9pEydPihuJeGx8yprfo"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286293,
+      "name": "\u604b\u3092\u3057\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/2dqWEFh414Lg0OYID7qZ4P"
     },
     {
       "album": {

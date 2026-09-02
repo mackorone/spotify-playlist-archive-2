@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 59 songs - 3 hr 24 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 61 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 57 | [Chemicals](https://open.spotify.com/track/43PAtXAIIMItWW4B2kJAiQ) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Almost There](https://open.spotify.com/album/3EE1IuA4bLvWiYNL6RyeOZ) | 2:30 |
 | 58 | [Queen in Jean](https://open.spotify.com/track/1sUs9h3q5rebfy6ztPWQdK) | [Astrid Pflaum](https://open.spotify.com/artist/30q7EKGQD9fRamv3ZrSa6z) | [Queen in Jean](https://open.spotify.com/album/6xpeNxfXUN0oVl4S9JAZod) | 2:53 |
 | 59 | [Permeate](https://open.spotify.com/track/4azd1Y7g9cWYGumNTMZcFq) | [fifth forgotten](https://open.spotify.com/artist/4joGAdzSMqBIPbovcTaHUM) | [Permeate](https://open.spotify.com/album/2PrloaxRVjvxR9PoOPJtUp) | 2:19 |
+| 60 | [Stall](https://open.spotify.com/track/5L53EUM56JL5Onpyd393rM) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Stall](https://open.spotify.com/album/47Oyl3hqIWQNY0oX3dHAUG) | 4:02 |
+| 61 | [SURF GREEN](https://open.spotify.com/track/3jiaah6eN1dhcilAWfOnFu) | [Secret radio](https://open.spotify.com/artist/41HBxuuVOLeQkFNGZ3Tyer) | [SURF GREEN](https://open.spotify.com/album/2dZCmI8Sv54L4YPUK8skZu) | 2:41 |
 
-Snapshot ID: `AAAQGWXBwFOyTaLx5oqu8XzEv/0vR6fy`
+Snapshot ID: `AAAQG84MpHwLVTCU7dzKTCAC8R8J1RIS`

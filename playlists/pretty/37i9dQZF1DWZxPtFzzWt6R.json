@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 114734,
+  "num_followers": 114751,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIZl4gRYrnSnZy03QBxQYmciCxz",
+  "snapshot_id": "AAAAAMvEt6SaRr+WaibO52/vXWjBVlTN",
   "tracks": [
     {
       "added_at": "2026-07-02 21:48:45",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1IKbxFWytL86ORGEJNwah9"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 293540,
       "name": "A Casa",
       "url": "https://open.spotify.com/track/7eGog1Th59073Z0xojqyLG"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
+      },
+      "artists": [
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
+        }
+      ],
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+        "name": "O Noivo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
       },
       "artists": [
         {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+      "duration_ms": 295946,
+      "name": "O Noivo Vem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -667,38 +667,18 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "O Noivo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
         }
       ],
-      "duration_ms": 295946,
-      "name": "O Noivo Vem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Encontrar Meu Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        },
-        {
-          "name": "Talita Dias",
-          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
-        }
-      ],
-      "duration_ms": 172487,
-      "name": "Encontrar Meu Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -719,6 +699,26 @@
       "duration_ms": 352085,
       "name": "Guerreiro Adorador",
       "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Encontrar Meu Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        },
+        {
+          "name": "Talita Dias",
+          "url": "https://open.spotify.com/artist/2ii8I9jF45XSJ5kVV0oFee"
+        }
+      ],
+      "duration_ms": 172487,
+      "name": "Encontrar Meu Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
     },
     {
       "added_at": "2026-07-02 21:48:45",

@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "157 VERDADEIRO REAL TRAP",
+        "url": "https://open.spotify.com/album/6xCEKHHuQEOUKDdA48QNlB"
+      },
+      "artists": [
+        {
+          "name": "DJ WG DO MIRIAMBI O PORRADEIRO",
+          "url": "https://open.spotify.com/artist/0ZoXxojOUsWG4lcvYcIDCV"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115941,
+      "name": "157 TRUE REAL TRAP",
+      "url": "https://open.spotify.com/track/5bTwmHwPgeDWBUAl8MNmDU"
+    },
+    {
+      "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
       },
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 233003,
       "name": "DEMORO A DORMIR",
       "url": "https://open.spotify.com/track/2jT4BeLP0YxXXleJijuPsq"

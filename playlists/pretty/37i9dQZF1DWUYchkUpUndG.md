@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,317 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,374 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Ovie Rode](https://open.spotify.com/track/4JFxJxQOms6EkUnIcSZMpl) | [Cynthia Assifah](https://open.spotify.com/artist/0wKKzuMzUQZaHjpxJQEtKD) | [Ovie Rode](https://open.spotify.com/album/3p2Ix81sSeMpFAv8tH370X) | 3:42 |
 | 100 | [My Life](https://open.spotify.com/track/2Eq8rgc7yZTA3W0BSdNR8s) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [My Life](https://open.spotify.com/album/2EKlhZx3BijRYwpVI8sCc2) | 3:26 |
 
-Snapshot ID: `AAAAAMt+YMMcs2CMATn/NnN64B7F43t8`
+Snapshot ID: `AAAAADtUvroQoZUA17Vjps9TezR734Vq`

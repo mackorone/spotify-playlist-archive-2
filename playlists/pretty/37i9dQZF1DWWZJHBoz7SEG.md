@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mucha variedad y rolitas chidas esta semana, DANNA y Belinda en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,327 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,284 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 89 | [Más Allá](https://open.spotify.com/track/3HsXYSiXB9XVFisG8bFIMe) | [Ricardo Pérez](https://open.spotify.com/artist/3Qax4sJ7V7GoZMfFDqbuM2) | [Más Allá](https://open.spotify.com/album/2SsDqQiSLxuusD7qvZNmVV) | 2:33 |
 | 90 | [me brillan los ojos en el club](https://open.spotify.com/track/24n6510sCQfN6rP0PMz5Oi) | [TINU](https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8) | [me brillan los ojos en el club](https://open.spotify.com/album/75lXxlhpuZushnV9axC02b) | 3:01 |
 
-Snapshot ID: `AAAAAALjUivzWy/GW9fGlwdluOINdOvD`
+Snapshot ID: `AAAAAEV0MNwFpa+p+PP3PlxrXyjHGoNQ`

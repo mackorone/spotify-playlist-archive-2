@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > asia menor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,005 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,994 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 44 | [Imborrable](https://open.spotify.com/track/1DZzPHQMSXuBbYpFlAgCVj) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Imborrable](https://open.spotify.com/album/0KQD9QsvxJx9pW8q0ESvCQ) | 4:15 |
 | 45 | [roger](https://open.spotify.com/track/4rUJUCW9QdNVijNY1ifzop) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [roger](https://open.spotify.com/album/0bwLHbRjrKW9uituCrG4q7) | 2:52 |
 
-Snapshot ID: `AAAAAExP74QZ/Orpw2zpc1QD4e+GU2p8`
+Snapshot ID: `AAAAAHbz1ne9hBqrmQ8kAz0UrD2n0ej5`

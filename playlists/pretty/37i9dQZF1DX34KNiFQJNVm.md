@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã, Pabllo Vitar, Bruno & Marrone, Carol Biazin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,306,769 likes - 68 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,306,488 likes - 68 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 21 | [Flutuar](https://open.spotify.com/track/1JAnwYCUWmifwXIroyEFLn) | [QueOnda](https://open.spotify.com/artist/6es4XUNmVSBaj3FoCMkJyw), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Flutuar](https://open.spotify.com/album/3UU7ogCdspv9z5KxqSV5Bz) | 4:57 |
 | 22 | [Era Eu\. \- Ao Vivo](https://open.spotify.com/track/5Pn6jqeTeNwiiyv1eATJGT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Era Eu.](https://open.spotify.com/album/1eVUIEnPGHhFL0QzZixAdg) | 3:35 |
 | 23 | [Ficante Premium \- Ao Vivo](https://open.spotify.com/track/5dAwiI8V2VflTyCGyokLCj) | [Bruno Diegues](https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Ficante Premium \(Ao Vivo\)](https://open.spotify.com/album/7xZizopuRwsdx7vIRgcQHJ) | 2:29 |
-| 24 | [Trisal](https://open.spotify.com/track/2K22RlK0xmq9cznhzPMRpF) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Trick](https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf), [Mc Lele JP](https://open.spotify.com/artist/1gZ5b2Lr34s0K1563qWHtL) | [A Era de Ouro](https://open.spotify.com/album/0vCGZZCK88fD2GuxxTYvQw) | 5:30 |
+| 24 | [Trisal](https://open.spotify.com/track/2K22RlK0xmq9cznhzPMRpF) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Trick](https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf), [C.Z](https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU), [Mc Lele JP](https://open.spotify.com/artist/1gZ5b2Lr34s0K1563qWHtL) | [A Era de Ouro](https://open.spotify.com/album/0vCGZZCK88fD2GuxxTYvQw) | 5:30 |
 | 25 | [Passar Visão de Maloqueiro](https://open.spotify.com/track/1eNfMluOVgkdYbwInCQ6m0) | [Dj Rhuivo](https://open.spotify.com/artist/16nxxy3xbRtRtcK7buR2PQ), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Passar Visão de Maloqueiro](https://open.spotify.com/album/5HzYdfQKPrEm2oizYcshdG) | 2:44 |
 | 26 | [Onda da Bala](https://open.spotify.com/track/5aJK8VoXdQW9HxW1yOaXuG) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [MC Donzela](https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Lindão](https://open.spotify.com/artist/1ZlEiKjgbQVsuyyocxFdyc) | [Onda da Bala](https://open.spotify.com/album/0EKv5OMRLTRJi2ooCclnt3) | 2:19 |
 | 27 | [O Sussurro](https://open.spotify.com/track/0a9miizVuiz2sBTo48KLfW) | [Flamha](https://open.spotify.com/artist/7lOLfXrHGsOi23UAhshyJh), [Bozzo Barretti](https://open.spotify.com/artist/0hMBC8xOp90xGc7717TGmn) | [O Sussurro](https://open.spotify.com/album/6xwgVYurTnftBMIfB3awj8) | 2:13 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 67 | [Pior Saudade \- Ao Vivo](https://open.spotify.com/track/3e9J1EWtARfE9TNMiUEnuf) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Du Nada \(Ao Vivo\)](https://open.spotify.com/album/3DZcguKrqF2GKsDBBfYvhi) | 3:02 |
 | 68 | [Laia \- Ao Vivo](https://open.spotify.com/track/7kaESRmp0AE9yMdKoFeFH2) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Laia \(Ao Vivo\)](https://open.spotify.com/album/3EFfsNMlj3BooJaX8MOx5X) | 2:29 |
 
-Snapshot ID: `AAAAAJNlu8sKUnivnlnv08l9Pb/beY27`
+Snapshot ID: `AAAAAGZNWTTEYbP17KPsacZ4GwkJ6zHR`

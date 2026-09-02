@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: EVITA
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,470 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,487 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 62 | [Oh, What A Beautiful Mornin'](https://open.spotify.com/track/5wVidmEl5KfwzZ1jlF0wgy) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2) | [Oklahoma! \(1998 Royal National Theatre Recording\)](https://open.spotify.com/album/2HniCCShVLvJUGyoE8QoAN) | 3:22 |
 | 63 | [Requiem](https://open.spotify.com/track/4BoTrCdVPZHU4iBC0kcid7) | [Laura Dreyfuss](https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK), [Michael Park](https://open.spotify.com/artist/2fPpoCU3oYJkQERSp1nXY2), [Jennifer Laura Thompson](https://open.spotify.com/artist/3P8W0rYcexMlnGDDPoh5I3) | [Requiem \[from Dear Evan Hansen \(Original Broadway Cast Recording\)\]](https://open.spotify.com/album/6hDxdAyBmHZO0ClRUI5wQs) | 4:19 |
 | 64 | [I'd Rather Be Me](https://open.spotify.com/track/2UNt0aiJNNXbbtSN5Aag0x) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [I'd Rather Be Me](https://open.spotify.com/album/0VcdcVK5S1CTyZ22KjrbGf) | 2:50 |
-| 65 | [Dead Girl Walking](https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:24 |
+| 65 | [Dead Girl Walking](https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG) | [Barrett Wilbert Weed](https://open.spotify.com/artist/417KN08R5x90PqWWZUGTsE), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:24 |
 | 66 | [The American Dream](https://open.spotify.com/track/2P2jms3uC1jfg42WY5oFIY) | [Jonathan Pryce](https://open.spotify.com/artist/6VbOMhVhn2spGcedn91mEA) | [Miss Saigon](https://open.spotify.com/album/1k8Tj7gO931OlzYe5EQzjO) | 6:03 |
 | 67 | [Ex\-Wives](https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:50 |
 | 68 | [Me And The Sky](https://open.spotify.com/track/6N4bifNtBKSSDmIL3qZRh8) | [Jenn Colella](https://open.spotify.com/artist/0mMxiSfN607CgfSsPEWj7N), ['Come From Away' Company](https://open.spotify.com/artist/3yVB4N2PhQy60dAxzCoNdQ) | [Come From Away \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z) | 4:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 | 79 | [Memory](https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), ["Cats" 1981 Original London Cast](https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD) | [Cats \(Original 1981 London Cast\)](https://open.spotify.com/album/5AyRxc2YXLMjJoG23TPKTE) | 1:23 |
 | 80 | [Michael in the Bathroom](https://open.spotify.com/track/5ZvJjo2CyVO7SxAemvBjRA) | [George Salazar](https://open.spotify.com/artist/4VluulYWhcwWaD1pV7CtKB), [Be More Chill](https://open.spotify.com/artist/5Pjk0CjONGk3zq9SnKKx3r) | [Be More Chill \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1mbjEsFVnhw0v5dJMv9axG) | 5:07 |
 
-Snapshot ID: `AAAAAJe0W2DViZi6wvGpUvMybc115E3T`
+Snapshot ID: `AAAAAH/3KEMfBR5c3YNixE2GZPu+n4ik`

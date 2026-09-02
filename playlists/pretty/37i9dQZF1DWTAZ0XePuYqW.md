@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > BAMBII's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,583 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,594 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [Loose Pt\. 3](https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2) | 2:49 |
 | 50 | [95 South](https://open.spotify.com/track/45Nc6oQkbwLOQ3Os3wTghx) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Sir Michael Rocks](https://open.spotify.com/artist/2F3zBRfrDfm2FyNT0YKyAx), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv) | [95 South](https://open.spotify.com/album/2vq6pGthUZehQCtrToxqYX) | 3:09 |
 
-Snapshot ID: `AAAAAGeJrZk3kVNmneIJQmQ1L8rTSRiI`
+Snapshot ID: `AAAAABVMjMwLAJCFSkr3QJ+/+oNOX0jj`

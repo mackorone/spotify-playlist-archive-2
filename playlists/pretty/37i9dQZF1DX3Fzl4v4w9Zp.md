@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Jim James
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,548 likes - 99 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,520 likes - 99 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [The Highway Knows](https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [The Highway Knows](https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR) | 4:10 |
 | 99 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
 
-Snapshot ID: `AAAAAEhD8cBNPT5q/Fl75PE/XS1PwPd5`
+Snapshot ID: `AAAAAKQPilx+FaGruWp/pbPe1K82zEre`

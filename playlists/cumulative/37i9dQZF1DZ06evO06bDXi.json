@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 462773,
       "name": "Accolay: Violin Concerto No. 1 in A Minor",
       "url": "https://open.spotify.com/track/5LEr2CzrqK4jpXa8ZXXLBM"
@@ -1706,6 +1706,28 @@
       "duration_ms": 300906,
       "name": "Slavonic Dances, Op. 72, B. 147: No. 2, Dumka, Allegretto grazioso",
       "url": "https://open.spotify.com/track/2rNRM5wJuBxApcNhh3GVlP"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0GoKIi2ahb18yecU6ualW9"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260699,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6ZftPd2YNPVovPzDqZcIuo"
     },
     {
       "album": {

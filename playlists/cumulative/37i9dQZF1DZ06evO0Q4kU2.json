@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Prosecution (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100851,
+      "name": "Courtroom",
+      "url": "https://open.spotify.com/track/2QqRYsqmUZLqPvd5WJMh1l"
+    },
+    {
+      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 115364,
       "name": "Ocean Variation II",
       "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"

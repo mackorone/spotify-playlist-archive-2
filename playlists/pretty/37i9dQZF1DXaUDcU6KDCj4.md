@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Le Ren
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,678 likes - 175 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,768 likes - 175 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 174 | [Box Store](https://open.spotify.com/track/2Gz6xg1P7AxKfPgML46aUa) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Box Store](https://open.spotify.com/album/6XncKjOsZLWWAd7x4bZoW2) | 2:38 |
 | 175 | [Special](https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [You Are Spring!](https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT) | 4:36 |
 
-Snapshot ID: `AAAAACMsxZoR9r/klD23f++c7JAwG65C`
+Snapshot ID: `AAAAAOzz9AObSxZOb4wn1EgpQdLsr8J5`

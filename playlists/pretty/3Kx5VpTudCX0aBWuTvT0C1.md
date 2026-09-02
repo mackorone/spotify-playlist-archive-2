@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,117 likes - 95 songs - 5 hr 43 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,132 likes - 97 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 93 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 |
 | 94 | [Will](https://open.spotify.com/track/3Y7ek3umLkIb5hGcJLO9N4) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Will](https://open.spotify.com/album/2Q6BfCI53rsu63f6TRTHQ9) | 3:34 |
 | 95 | [Hippie Mod Girl](https://open.spotify.com/track/1qz2eta0XlOZ46pS0rcL5V) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [Hippie Mod Girl](https://open.spotify.com/album/2M94LQrN0zNTmBSHTP8QpP) | 3:53 |
+| 96 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
+| 97 | [One Last Song](https://open.spotify.com/track/1DT7XGTsCepsPtNrDhouUL) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 6:01 |
 
-Snapshot ID: `AAAC0965VTof9nBJ82iHM6aetvAlDYrs`
+Snapshot ID: `AAAC1UKZVRLLEZAykA8GDUH5+czJnU+W`

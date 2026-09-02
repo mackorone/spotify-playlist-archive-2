@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49H7UBWpZWR.md) - [plain]
 | 7 | [With Love, Lava La Rue](https://open.spotify.com/episode/5Pr3f8xvhErWAlqtnMDDDh) | [With Love, An Artist](https://open.spotify.com/show/2nGMSPrkflbixgevlwuSDc) | [With Love, An Artist](https://open.spotify.com/album/2nGMSPrkflbixgevlwuSDc) | 5:24 |
 | 8 | [With Love, Ashley McBryde](https://open.spotify.com/episode/6DUYyGuZdOltgkkZLheMQQ) | [With Love, An Artist](https://open.spotify.com/show/2nGMSPrkflbixgevlwuSDc) | [With Love, An Artist](https://open.spotify.com/album/2nGMSPrkflbixgevlwuSDc) | 4:46 |
 
-Snapshot ID: `AAAAAPNgRoPWPzb+pft2wX9GsF4mfefc`
+Snapshot ID: `AAAAAJ7sVshNenDFb+7eFHgejD8anYta`

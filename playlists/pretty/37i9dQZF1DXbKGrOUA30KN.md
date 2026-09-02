@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: OK KID, Clueso
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,786 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,743 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [TIPICO!](https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [TIPICO!](https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV) | 2:11 |
 | 90 | [erst recht](https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [erst recht](https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC) | 2:43 |
 
-Snapshot ID: `AAAAAGNZ+ADKucMOT+iOV5IQCwuRQhP9`
+Snapshot ID: `AAAAAMQkAQN7Yk6OISxpI7GVYbtNW0D3`

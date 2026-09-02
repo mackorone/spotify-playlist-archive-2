@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Paloma Morphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,743 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,756 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [mientras pueDa](https://open.spotify.com/track/7ELYHzcSOCDrdQTJaXH5bU) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [ANTES DE QUE SEA TARDE](https://open.spotify.com/album/7z513StymZaeATXNoCBeDr) | 2:55 |
 | 50 | [PELICULEAR](https://open.spotify.com/track/3nFGVyhcnu5rrYYWjYl6FF) | [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [PELICULEAR](https://open.spotify.com/album/41PRTcTS2TI4kvddMLrbbB) | 2:21 |
 
-Snapshot ID: `AAAAAFM+l/A/3aLBZG55Noar9oxBN4M5`
+Snapshot ID: `AAAAAPfoFBprw0mLpCPjpRHshWe1KcI6`

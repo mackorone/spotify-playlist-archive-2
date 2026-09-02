@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 113274,
+  "num_followers": 113285,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFioQ1UYjbnKnxoT1/zmeRN0Lu5m",
+  "snapshot_id": "AAAAAKBICagGkgdJSL4b4lA0smFJBFgg",
   "tracks": [
     {
       "added_at": "2026-01-21 14:43:12",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Bleu Blanc Vert",
-        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
-      },
-      "artists": [
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Voil\u00e0 c'est fini",
-      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
         "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Bleu Blanc Vert",
+        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Voil\u00e0 c'est fini",
+      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Best Of & Variations",
-        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        },
-        {
-          "name": "Jeanne Moreau",
-          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "Le tourbillon de la vie",
-      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        },
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "Le tourbillon de la vie",
+      "url": "https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
-        "name": "Sanson comme ils l'imaginent",
-        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Quelques mots d'amour",
-      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
         "name": "Au Nom D'Une Femme",
         "url": "https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 305493,
       "name": "Elle, tu l'aimes",
       "url": "https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
+        "name": "Sanson comme ils l'imaginent",
+        "url": "https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Quelques mots d'amour",
+      "url": "https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "Les p'tites jolies choses",
+        "url": "https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Les p'tites jolies choses",
+      "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Fredericks, Goldman, Jones : Du New Morning au Z\u00e9nith (Live)",
         "url": "https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 323093,
       "name": "Pas toi - au New Morning 1994 (concert acoustique)",
       "url": "https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "Les p'tites jolies choses",
-        "url": "https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S"
-      },
-      "artists": [
-        {
-          "name": "Joyce Jonathan",
-          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "Les p'tites jolies choses",
-      "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
     },
     {
       "added_at": "2026-01-21 14:43:12",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-21 14:43:12",
       "album": {
+        "name": "Rose des vents (Version deluxe)",
+        "url": "https://open.spotify.com/album/3Aex91qb2mhCvvcMlwMAwj"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Si j'avais su - Acoustique",
+      "url": "https://open.spotify.com/track/6JWxvM4BAy4YCGneIdJ4Lp"
+    },
+    {
+      "added_at": "2026-01-21 14:43:12",
+      "album": {
         "name": "Loin des yeux",
         "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 167933,
       "name": "Allez reste (feat. Vianney)",
       "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
-    },
-    {
-      "added_at": "2026-01-21 14:43:12",
-      "album": {
-        "name": "Rose des vents (Version deluxe)",
-        "url": "https://open.spotify.com/album/3Aex91qb2mhCvvcMlwMAwj"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Si j'avais su - Acoustique",
-      "url": "https://open.spotify.com/track/6JWxvM4BAy4YCGneIdJ4Lp"
     },
     {
       "added_at": "2026-01-21 14:43:12",

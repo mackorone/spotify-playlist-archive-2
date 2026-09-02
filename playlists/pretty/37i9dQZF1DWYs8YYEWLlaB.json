@@ -1,12 +1,12 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Lvbel C5",
-  "num_followers": 588036,
+  "num_followers": 588080,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxZCONSAZRYikJkPFQnTbxlWxMB",
+  "snapshot_id": "AAAAAOKkuiofBNY+QZs7FkM8EjGNLZIq",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:24",
@@ -407,18 +407,22 @@
     {
       "added_at": "2026-08-27 21:00:24",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
+        "name": "\u00c7\u0131kmaz Bir Sokakta",
+        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
       },
       "artists": [
         {
-          "name": "KARM6",
-          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
         }
       ],
-      "duration_ms": 146470,
-      "name": "\u0130htimal",
-      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
+      "duration_ms": 162745,
+      "name": "\u00c7\u0131kmaz Bir Sokakta",
+      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
     },
     {
       "added_at": "2026-08-27 21:00:24",
@@ -471,22 +475,18 @@
     {
       "added_at": "2026-08-27 21:00:24",
       "album": {
-        "name": "\u00c7\u0131kmaz Bir Sokakta",
-        "url": "https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC"
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
       },
       "artists": [
         {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        },
-        {
-          "name": "B\u00fcken",
-          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
         }
       ],
-      "duration_ms": 162745,
-      "name": "\u00c7\u0131kmaz Bir Sokakta",
-      "url": "https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm"
+      "duration_ms": 146470,
+      "name": "\u0130htimal",
+      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
     },
     {
       "added_at": "2026-08-27 21:00:24",

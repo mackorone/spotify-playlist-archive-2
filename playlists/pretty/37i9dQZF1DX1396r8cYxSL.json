@@ -1,12 +1,12 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Asil G\u00f6k",
-  "num_followers": 292289,
+  "num_followers": 292333,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKdnCsEC/MqmC0dlAv+B8R8yf1I4",
+  "snapshot_id": "AAAAAL9755kc0rzZu7o3Ud8ZhT+6pcBg",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:29",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-08-27 21:00:29",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
-      },
-      "artists": [
-        {
-          "name": "KARM6",
-          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "\u0130htimal",
-      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
-    },
-    {
-      "added_at": "2026-08-27 21:00:29",
-      "album": {
         "name": "Kalpsiz Bir Serseri (Live)",
         "url": "https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 224962,
       "name": "Kalpsiz Bir Serseri - Live",
       "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
+    },
+    {
+      "added_at": "2026-08-27 21:00:29",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
+      },
+      "artists": [
+        {
+          "name": "KARM6",
+          "url": "https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "\u0130htimal",
+      "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
     },
     {
       "added_at": "2026-08-27 21:00:29",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-08-27 21:00:29",
       "album": {
+        "name": "\u00d6n\u00fcm\u00fcz Yaz",
+        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "\u00d6n\u00fcm\u00fcz Yaz",
+      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+    },
+    {
+      "added_at": "2026-08-27 21:00:29",
+      "album": {
         "name": "Sabrettim",
         "url": "https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 185114,
       "name": "Sabrettim",
       "url": "https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr"
-    },
-    {
-      "added_at": "2026-08-27 21:00:29",
-      "album": {
-        "name": "\u00d6n\u00fcm\u00fcz Yaz",
-        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "\u00d6n\u00fcm\u00fcz Yaz",
-      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
     },
     {
       "added_at": "2026-08-27 21:00:29",

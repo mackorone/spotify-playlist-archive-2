@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udde3\ufe0fdoisdeee, doisdeee // Maru2D",
-  "num_followers": 103736,
+  "num_followers": 103761,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALmQdwL6nZLaNToX0mm2ytuvRCy7",
+  "snapshot_id": "AAAAAHmwKjqRcA1kdQXis1wdz6E7hV4n",
   "tracks": [
     {
       "added_at": "2026-08-21 17:34:50",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-08-21 17:34:50",
       "album": {
-        "name": "FORA DA CAIXA",
-        "url": "https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl"
-      },
-      "artists": [
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Zstudios",
-          "url": "https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9"
-        }
-      ],
-      "duration_ms": 114893,
-      "name": "FORA DA CAIXA",
-      "url": "https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ"
-    },
-    {
-      "added_at": "2026-08-21 17:34:50",
-      "album": {
         "name": "Monop\u00f3lio Das Gostosas",
         "url": "https://open.spotify.com/album/2TH5NCqrndKoDlp9V2E9hW"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 189387,
       "name": "Monop\u00f3lio Das Gostosas",
       "url": "https://open.spotify.com/track/5pQtycrKv2IxXx0RXIvB8H"
+    },
+    {
+      "added_at": "2026-08-21 17:34:50",
+      "album": {
+        "name": "FORA DA CAIXA",
+        "url": "https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl"
+      },
+      "artists": [
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Zstudios",
+          "url": "https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9"
+        }
+      ],
+      "duration_ms": 114893,
+      "name": "FORA DA CAIXA",
+      "url": "https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ"
     },
     {
       "added_at": "2026-08-21 17:34:50",

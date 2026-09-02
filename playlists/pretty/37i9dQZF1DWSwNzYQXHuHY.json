@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12860,
+  "num_followers": 12865,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCzaxRiOaORmY6uL0qVVBgmr6ix",
+  "snapshot_id": "AAAAAAJgPX2DtqN+bHlxgwwm0swD5KsA",
   "tracks": [
     {
       "added_at": "2026-07-03 07:31:26",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Wanna Love You",
-        "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 220472,
-      "name": "Wanna Love You",
-      "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "One-way Love (Feat. h3hyeon)",
         "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 156976,
       "name": "One-way Love (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Wanna Love You",
+        "url": "https://open.spotify.com/album/3Eam0dNMM4SGKL3oP6rwEf"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 220472,
+      "name": "Wanna Love You",
+      "url": "https://open.spotify.com/track/2XXPhWXi5yEh8p3LL6FYyk"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 257666,
       "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-07-03 07:31:26",

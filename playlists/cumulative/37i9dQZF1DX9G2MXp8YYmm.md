@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Feride Hilal Akın
 
-720 songs - 1 day 12 hr 34 min
+721 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [IDI DIDI](https://open.spotify.com/track/4lXSghkK5EMqRa8nkG3Jgh) | [Aydilge](https://open.spotify.com/artist/0cjA9XY1jx3RlniZbMkCWy), [Yaren Özaydın](https://open.spotify.com/artist/3uPE296pAZPNAko0tAliut), [Heybensena](https://open.spotify.com/artist/146UWYVJXG95QSDpOqjawp) | [IDI DIDI](https://open.spotify.com/album/0h0bPPHluMCcwXmAvxwhrD) | 2:13 | 2026-06-18 | 2026-07-10 |
 | [Issız Duvarlar](https://open.spotify.com/track/1nSJoh7pPSHkMX8pXGE33H) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Issız Duvarlar](https://open.spotify.com/album/6zyInuDlsBKGYXwK5IhpR9) | 2:59 | 2025-05-29 | 2026-06-26 |
 | [İhanet](https://open.spotify.com/track/3dR9YEPi2Or5atvqfS4jcA) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İhanet](https://open.spotify.com/album/3hbhhLrt7tloTR1awunqBh) | 2:54 | 2026-05-22 | 2026-08-11 |
+| [İki Yabancı](https://open.spotify.com/track/7ziok35B6HXWDLMo4d0YjC) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1), [Tolga Akdoğan](https://open.spotify.com/artist/6qfpiBjLIkkfapbGYAi4G6), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [İki Yabancı](https://open.spotify.com/album/2bmWjyhKTfoEvwuypTJEFC) | 4:03 | 2026-08-27 |  |
 | [İki Yaka](https://open.spotify.com/track/5fBu0qebD0Mrg85A6WYZgG) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [İki Yaka](https://open.spotify.com/album/2gpEMkg9lKUsCkETQINPOi) | 2:58 | 2026-07-02 |  |
 | [İlaç](https://open.spotify.com/track/6RRRcmV4Vu4AfuImAxIJc6) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [İlaç](https://open.spotify.com/album/3ehOYFz1tCCCUWNDTps4Hb) | 2:44 | 2025-01-16 | 2025-01-24 |
 | [İlk Görüşte Diyenler](https://open.spotify.com/track/2Nl4cwR8yS6DOhm1EPiLYD) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr), [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [İlk Görüşte Diyenler](https://open.spotify.com/album/72X7xDZufFTCg3zxNOCYtV) | 2:33 | 2025-09-04 | 2025-09-19 |
@@ -549,7 +550,7 @@
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 | 2026-08-28 |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 | 2025-10-24 |
-| [Sev Seveceksen](https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z) | [Sev Seveceksen](https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc) | 2:58 | 2026-04-09 |  |
+| [Sev Seveceksen](https://open.spotify.com/track/6WUrBOSZKPjtTU1DWCkUwn) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Seda Erciyes](https://open.spotify.com/artist/2YtsPILTsVJVwFcTe6n31z) | [Sev Seveceksen](https://open.spotify.com/album/0BxCrn7S1cGNCk0DhUMAIc) | 2:58 | 2026-04-09 | 2026-09-02 |
 | [Sevda Treni](https://open.spotify.com/track/1E14MPC2yAEbABOqVf4U0n) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevda Treni](https://open.spotify.com/album/4emRxiAVJFfRSxf0erdzz4) | 2:32 | 2025-07-17 | 2026-07-11 |
 | [Sevdam](https://open.spotify.com/track/1kxyTI6tIkozvTlLXaa4ER) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3), [Zehra](https://open.spotify.com/artist/2kdaYJfJVIGBaNcMmrg13p) | [Sevdam](https://open.spotify.com/album/1dz1wwRN1kFoxNCimPiDm6) | 3:11 | 2024-06-27 | 2025-02-07 |
 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 | 2025-11-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u4f50\u702c\u60a0\u8f14",
-  "num_followers": 65223,
+  "num_followers": 65219,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEak8TtA61HHIlyoVjH+/JQvssZo",
+  "snapshot_id": "AAAAAATrW9B4zE5DsQBiUnJ+rN08sowO",
   "tracks": [
     {
       "added_at": "2026-08-25 15:00:06",
@@ -23,6 +23,74 @@
       "duration_ms": 198474,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/1tOghAIXFvGHobnjgqvwtS"
+    },
+    {
+      "added_at": "2026-09-02 00:36:15",
+      "album": {
+        "name": "Mabui",
+        "url": "https://open.spotify.com/album/6razfP1h1f2P4hQ6AyeBwp"
+      },
+      "artists": [
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u9ad8\u6a4b\u4f51\u6210",
+          "url": "https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv"
+        },
+        {
+          "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30db\u30ed\u30d9\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 462994,
+      "name": "Sepiageshiki",
+      "url": "https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0"
+    },
+    {
+      "added_at": "2026-09-02 00:36:15",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1iJDQ2KJKoy9aHH3PxR6uH"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "duration_ms": 361188,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0jZnWxR0VHhh0Of49xORCW"
+    },
+    {
+      "added_at": "2026-09-02 00:36:15",
+      "album": {
+        "name": "Jaz",
+        "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
+      },
+      "artists": [
+        {
+          "name": "Jackson Box",
+          "url": "https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE"
+        },
+        {
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        },
+        {
+          "name": "Asei Muraguchi",
+          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/1AuoDWRc4SgCr1hwdQEZ0G"
     },
     {
       "added_at": "2026-08-18 15:47:36",

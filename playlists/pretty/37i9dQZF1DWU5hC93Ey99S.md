@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,346 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,448 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Just a Memory](https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t) | [Emmy Adelle](https://open.spotify.com/artist/6wYMMrkpIsZle8uBBR8pVv) | [Just a Memory](https://open.spotify.com/album/040JO7fThaJlmBQnhLV4hk) | 3:13 |
 | 200 | [Klaxon](https://open.spotify.com/track/2yrEhvz214GnCzJP9Mofoc) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Klaxon](https://open.spotify.com/album/3PaynQhB82ZFNGaPL97DNn) | 3:57 |
 
-Snapshot ID: `AAAAAKsBLyntmd88h5oq1NLNo0LW4cyA`
+Snapshot ID: `AAAAAOrYP8JjZKWUjaVEWBfJb8FWMUrH`

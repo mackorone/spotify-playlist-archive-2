@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: NCT 127",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: TAEMIN",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -9101,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/2XRfS9sTg9ncblI4SsJosi"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161246,
+      "name": "Like Fire",
+      "url": "https://open.spotify.com/track/0V3iJWPutcLhPId4q2LjxZ"
+    },
+    {
+      "album": {
         "name": "NEOMATIC",
         "url": "https://open.spotify.com/album/25RMWEe9l89mCPZ8uUuzG0"
       },
@@ -13882,7 +13900,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 169039,
       "name": "Sign",
       "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
@@ -14070,6 +14088,24 @@
       "duration_ms": 242802,
       "name": "Slogan",
       "url": "https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z"
+    },
+    {
+      "album": {
+        "name": "Slow It Down",
+        "url": "https://open.spotify.com/album/6lwS4xGibwiF4dC4c4mjVp"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/6rbE0DZpklcHtyTrqLNsc7"
     },
     {
       "album": {
@@ -19156,7 +19192,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 226733,
       "name": "\u30de\u30a4\u30aa\u30f3\u30ea\u30fc",
       "url": "https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc"

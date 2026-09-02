@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KiiiKiii\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: g0nny\)
 
-1,454 songs - 3 day 9 hr 29 min
+1,456 songs - 3 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Can I love you without worrying?](https://open.spotify.com/track/2Zv3G7RUcEqROV5U0c5xiJ) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Can I love you without worrying?](https://open.spotify.com/album/3YDEMzvNx7eJVSktN4dOK3) | 3:28 | 2023-02-28 | 2023-04-05 |
 | [Can I tell you every day](https://open.spotify.com/track/3aH4dmxXRI3ieDsra3turz) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [The Witch's Game \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/56yWScgtOoc0g8QanCwbpH) | 3:53 | 2022-11-10 | 2022-12-01 |
 | [Can we get back together](https://open.spotify.com/track/3gWWEs7vkpa1C62m3S8qaF) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Can we get back together](https://open.spotify.com/album/3oe8J5cVP99dSzA6SsYXsm) | 3:25 | 2023-10-04 | 2023-11-30 |
+| [can you keep me a secret?](https://open.spotify.com/track/0gaRMbG3nYtlCGb1loykrc) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [what am i afraid of when there′s nothing there](https://open.spotify.com/album/7fzhLZwPujCYQuM5oCbFF5) | 3:32 | 2026-09-01 |  |
 | [Can't Forget You](https://open.spotify.com/track/3ODn544fLs6rry546kYIgr) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7vR5lJPpjkD9g58zyQhknQ) | 3:59 | 2022-05-04 | 2022-06-01 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-04-05 | 2023-01-04 |
 | [CANADA](https://open.spotify.com/track/0nnBNJCB4r9nVkCZ2YEzgJ) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:55 | 2023-02-28 | 2023-04-05 |
@@ -522,6 +523,7 @@
 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 | 2025-05-12 | 2025-09-03 |
 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 | 2025-02-04 | 2025-03-05 |
 | [Hertz](https://open.spotify.com/track/5p0aJa6Kr7l23VTbA9egQt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [REV](https://open.spotify.com/album/7skbbJ5CI0jApB3Eg0eHbM) | 2:28 | 2026-07-01 |  |
+| [hey friend](https://open.spotify.com/track/62SAJVcTawajqiOEyozZXb) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [what am i afraid of when there′s nothing there](https://open.spotify.com/album/7fzhLZwPujCYQuM5oCbFF5) | 3:44 | 2026-09-01 |  |
 | [Hide and Seek](https://open.spotify.com/track/2riocrScVZzE82LRNtvpqt) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Hide and Seek](https://open.spotify.com/album/4UfLjjmUcYcVy9lzyqDWdo) | 2:54 | 2023-01-31 | 2023-03-01 |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2025-02-04 | 2025-03-05 |
 | [High \(feat\. PENOMECO\)](https://open.spotify.com/track/4mcD6ATEodghiUStUKib5B) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [High](https://open.spotify.com/album/7sp7Hn3y126PbO4s1RQwRb) | 3:19 | 2024-06-04 | 2025-02-05 |
@@ -534,7 +536,7 @@
 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-05-02 | 2023-05-10 |
 | [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 | 2024-02-20 | 2024-04-03 |
 | [Home](https://open.spotify.com/track/6yuH5UXxQd2qubrMo7SKrD) | [Raina](https://open.spotify.com/artist/21dQ70DS91icGLN9J4mH7h) | [Your Honor OST Part.5](https://open.spotify.com/album/1uCHzNoPsURYD5mRBwNFas) | 4:39 | 2025-03-04 | 2025-05-13 |
-| [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 | 2026-07-01 |  |
+| [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 | 2026-07-01 | 2026-09-02 |
 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2021-12-08 | 2022-01-05 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-04-05 | 2022-05-05 |
 | [Honey Tea](https://open.spotify.com/track/4H7u20alxuJTXEhPdYECbE) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Honey Tea](https://open.spotify.com/album/4vWJjTl7oF8HzP87GMnmyI) | 3:55 | 2023-07-04 | 2023-08-04 |
@@ -993,7 +995,7 @@
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-08-02 | 2023-02-01 |
 | [Queen](https://open.spotify.com/track/2PootWaHxtFUp1145yHm5Q) | [Lee Ji Young](https://open.spotify.com/artist/2ne02tX1RLBwPU8Cfpzhsj) | [Queen](https://open.spotify.com/album/2RWj1PNJPwL6fTkKUP9E5Z) | 2:44 | 2023-01-03 | 2023-02-01 |
 | [Queen of Hearts](https://open.spotify.com/track/3sOEVB8DirQtZc0qhw8lJc) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:06 | 2022-09-06 | 2023-03-01 |
-| [r u ok?](https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:44 | 2026-07-01 |  |
+| [r u ok?](https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:44 | 2026-07-01 | 2026-09-02 |
 | [RA TA TA \(Feat\. Lil Cherry\)](https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [RA TA TA](https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap) | 2:57 | 2024-02-06 | 2024-04-03 |
 | [RACER](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:12 | 2022-08-02 | 2022-09-07 |
 | [Rain](https://open.spotify.com/track/70nBCF6839C8ba2touRgud) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 4:17 | 2021-12-08 | 2022-01-05 |

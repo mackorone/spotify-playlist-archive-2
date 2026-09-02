@@ -1,12 +1,12 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 151101,
+  "num_followers": 151117,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBNJK2R6d6nxSeFixvt084hA1eK",
+  "snapshot_id": "AAAAAHFaQ1A8CrPh06CnEYeLcB7WWowg",
   "tracks": [
     {
       "added_at": "2026-08-21 22:01:20",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Acha que Eu N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
         "name": "Sentido \u00e0 Zona Leste",
         "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 123508,
       "name": "Sentido \u00e0 Zona Leste",
       "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Acha que Eu N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
     },
     {
       "added_at": "2026-08-21 22:01:20",
@@ -1007,6 +1007,34 @@
     {
       "added_at": "2026-08-21 22:01:20",
       "album": {
+        "name": "Lealdade Primeiro",
+        "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
+      },
+      "artists": [
+        {
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+        },
+        {
+          "name": "Dactes",
+          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
+        },
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        }
+      ],
+      "duration_ms": 198771,
+      "name": "Grandeza",
+      "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
+    },
+    {
+      "added_at": "2026-08-21 22:01:20",
+      "album": {
         "name": "Ruas Frias",
         "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
       },
@@ -1043,34 +1071,6 @@
       "duration_ms": 173852,
       "name": "PRETO DE VITRINE",
       "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
-    },
-    {
-      "added_at": "2026-08-21 22:01:20",
-      "album": {
-        "name": "Lealdade Primeiro",
-        "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
-      },
-      "artists": [
-        {
-          "name": "Suiky",
-          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
-        },
-        {
-          "name": "Dactes",
-          "url": "https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS"
-        },
-        {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
-        },
-        {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        }
-      ],
-      "duration_ms": 198771,
-      "name": "Grandeza",
-      "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
     },
     {
       "added_at": "2026-08-21 22:01:20",

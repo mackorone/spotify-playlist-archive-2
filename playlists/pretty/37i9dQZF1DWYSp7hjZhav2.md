@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:4iBwchw0U0GZv5RfVYSMxN">Anyma</a>'s favorite tracks\. Updated regularly\. Curated by Anyma\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,399 likes - 72 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,417 likes - 72 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 71 | [Every Night](https://open.spotify.com/track/4dP9nPtvtLMGmFBMsdNwPH) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Deomid](https://open.spotify.com/artist/63JoSzT83QhPoyMoNEExxb) | [Every Night](https://open.spotify.com/album/7sSJ0DtcnCalK7GNNshZG0) | 3:54 |
 | 72 | [Hold It Down \(DARE\)](https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Hold It Down \(DARE\)](https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm) | 3:46 |
 
-Snapshot ID: `AAAAAAm6V6cZhFkTVegtVbDIgo/fjc/+`
+Snapshot ID: `AAAAANXrDT4DRTBk88s+qoCBl8xv7xf0`

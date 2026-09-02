@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Prodígio & Edgar Domingos entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,997 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,006 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Traumas](https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Traumas](https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg) | 3:20 |
 | 70 | [NÃO DÁ](https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [NÃO DÁ](https://open.spotify.com/album/5Eq9OGs1dupKf85rnOsVOV) | 3:14 |
 
-Snapshot ID: `AAAAAM1ak7QGPr340FqKHd9KVWvcOpHK`
+Snapshot ID: `AAAAAEYn1q+kInxiMxKyQRr8RFui3Efy`

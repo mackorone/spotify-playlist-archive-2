@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 261463,
       "name": "Andalusian (feat. Ribale Wehbe)",
       "url": "https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo"
@@ -1155,6 +1155,32 @@
     },
     {
       "album": {
+        "name": "Just A Feeling",
+        "url": "https://open.spotify.com/album/1JVSqPkuXhxuu1BCXd9bpu"
+      },
+      "artists": [
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        },
+        {
+          "name": "Eric Reyes",
+          "url": "https://open.spotify.com/artist/4UfJCLIUH1rWXHH0J2CozO"
+        },
+        {
+          "name": "Nick Tew",
+          "url": "https://open.spotify.com/artist/6kAltUK8dRKYEec1oMHSpG"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Just A Feeling",
+      "url": "https://open.spotify.com/track/0YIoeV2Do5hzZCsZGPv6Gk"
+    },
+    {
+      "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
       },
@@ -1178,6 +1204,28 @@
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4l5N7329RCDBmB59VYaf8u"
+      },
+      "artists": [
+        {
+          "name": "Funkerman",
+          "url": "https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU"
+        },
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/2A9N0ECrmbRIwLpSiRF1fq"
     },
     {
       "album": {
@@ -1226,7 +1274,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 162280,
       "name": "Kimbe (feat. Tay Iwar)",
       "url": "https://open.spotify.com/track/1Dvr0gNVK3Z1D0eOZ8OvFV"
@@ -2580,7 +2628,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 186554,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY"
@@ -2606,6 +2654,24 @@
       "duration_ms": 228870,
       "name": "Sunrise (Adam Ten Remix)",
       "url": "https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk"
+    },
+    {
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/10aJoyfBqpfg1NA6gLmgep"
+      },
+      "artists": [
+        {
+          "name": "Drumstone",
+          "url": "https://open.spotify.com/artist/7tCFigbe2WuE8DzGoNrMvj"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342295,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx"
     },
     {
       "album": {
@@ -3004,6 +3070,24 @@
       "duration_ms": 208166,
       "name": "Wale Wale (feat. Sofiya Nzau)",
       "url": "https://open.spotify.com/track/3gf2xwSXTOTnvVz7VjzbgE"
+    },
+    {
+      "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },
     {
       "album": {

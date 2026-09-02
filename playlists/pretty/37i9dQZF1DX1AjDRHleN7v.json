@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7Clz6g8B0kJeXyGWrNKY30YC+f",
+  "snapshot_id": "AAAAAOFnqjgNDto5piYk4iWDc3gIqz45",
   "tracks": [
     {
       "added_at": "2026-08-21 17:06:32",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 153165,
-      "name": "Vestido De Seda",
-      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
         "name": "At\u00e9 Outro Dia Amor",
         "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 208492,
       "name": "At\u00e9 Outro Dia Amor",
       "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
+        "name": "Na Calada da Tarde",
+        "url": "https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "Na Calada da Tarde",
+      "url": "https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5"
     },
     {
       "added_at": "2026-08-21 17:06:32",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "Na Calada da Tarde",
-        "url": "https://open.spotify.com/album/7w151uzc6yuG4CnBKYkK6v"
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
       },
       "artists": [
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 195805,
-      "name": "Na Calada da Tarde",
-      "url": "https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5"
+      "duration_ms": 153165,
+      "name": "Vestido De Seda",
+      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
     },
     {
       "added_at": "2026-08-21 17:06:32",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
-        },
-        {
-          "name": "zebidart",
-          "url": "https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw"
-        }
-      ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
         "name": "Minha Varanda",
         "url": "https://open.spotify.com/album/4MwXKFT82r7pVKp1ty3mCp"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 140571,
       "name": "Minha Varanda",
       "url": "https://open.spotify.com/track/3haGgMWMiTeKIa1Ejeb9oc"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+        },
+        {
+          "name": "zebidart",
+          "url": "https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw"
+        }
+      ],
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2026-08-21 17:06:32",

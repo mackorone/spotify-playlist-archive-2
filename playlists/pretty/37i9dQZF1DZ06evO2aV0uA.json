@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 146093,
+  "num_followers": 146109,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAABGUjneVXCEn+W8vwgcu5Ju",
+  "snapshot_id": "apTEAAAAAABALKNdP5Sy5GsQbDibAKse",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Set To Fail",
-      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Set To Fail",
+      "url": "https://open.spotify.com/track/2YjQjUJjwKLxsi9RUG2n73"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 288657,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/2hYjtvY9ppeDodbSjeEJ5F"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "In Your Words",
-      "url": "https://open.spotify.com/track/2hYjtvY9ppeDodbSjeEJ5F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 275924,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Dead Seeds",
+      "url": "https://open.spotify.com/track/6NMwWuHv7dueV6Xma2RHbU"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/15xKnfFFL6irBbev4swb8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -735,8 +735,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId"
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/15xKnfFFL6irBbev4swb8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/479KqDnKRTPYptLEkbZNRp"
       },
       "artists": [
         {
@@ -746,7 +762,7 @@
       ],
       "duration_ms": 233466,
       "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/6H0IqPZXG4kK0RQk9YyROv"
+      "url": "https://open.spotify.com/track/6NiSeUWwcyWVN6F55fCTZS"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 202040,
       "name": "Contractor",
       "url": "https://open.spotify.com/track/3AYvw5XXAiUbdCVUDXPalt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath",
-        "url": "https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Dead Seeds",
-      "url": "https://open.spotify.com/track/3jadFJbzgsjaBcZyp8x5X6"
     }
   ],
   "unique_name": "This Is Lamb of God",

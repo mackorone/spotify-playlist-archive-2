@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9, PLK",
-  "num_followers": 23512,
+  "num_followers": 23535,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgiupW9jqy01PAfKd/GTSWiiM+2",
+  "snapshot_id": "AAAAADgZGHqyiOBHu/y7Ni5ML6U/RPfC",
   "tracks": [
     {
       "added_at": "2026-08-28 04:03:34",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
+        "name": "Pangor (Swalalala)",
+        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
+      },
+      "artists": [
+        {
+          "name": "Djaksparo",
+          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
+        }
+      ],
+      "duration_ms": 121704,
+      "name": "Pangor (Swalalala)",
+      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
         "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
         "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 177230,
       "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
       "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
-        "name": "Pangor (Swalalala)",
-        "url": "https://open.spotify.com/album/4UwlWbjvPePc5PS1YvjfCt"
-      },
-      "artists": [
-        {
-          "name": "Djaksparo",
-          "url": "https://open.spotify.com/artist/6bVOzLEn1sLSoMHUIr6rtA"
-        }
-      ],
-      "duration_ms": 121704,
-      "name": "Pangor (Swalalala)",
-      "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "L'humain",
-        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
+        "name": "Insolent",
+        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
       },
       "artists": [
         {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+          "name": "Mous-K",
+          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
         }
       ],
-      "duration_ms": 176933,
-      "name": "L'humain",
-      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
+      "duration_ms": 262557,
+      "name": "Le Bon Samaritain",
+      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "Insolent",
-        "url": "https://open.spotify.com/album/1uNh41ZBdu8WpKPlDjbSlW"
+        "name": "L'humain",
+        "url": "https://open.spotify.com/album/0iL2qBxWhrhEccFz37OaQG"
       },
       "artists": [
         {
-          "name": "Mous-K",
-          "url": "https://open.spotify.com/artist/3Gcn7eKPiTv6jwqoyIhVMO"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 262557,
-      "name": "Le Bon Samaritain",
-      "url": "https://open.spotify.com/track/4FDa3VkaNbBXEx1oo7CwC6"
+      "duration_ms": 176933,
+      "name": "L'humain",
+      "url": "https://open.spotify.com/track/4TK7vNav592pavcStbeTsD"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "Casus Belli",
-        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
-      },
-      "artists": [
-        {
-          "name": "Le Crime",
-          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Ballon D'or",
-      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
         "name": "Dans la temp\u00eate",
         "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 150741,
       "name": "Saison",
       "url": "https://open.spotify.com/track/1ajWju5j00x9HeUXzGtuxb"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
+        "name": "Casus Belli",
+        "url": "https://open.spotify.com/album/14hA41kJGeJi4MfY3EcMqk"
+      },
+      "artists": [
+        {
+          "name": "Le Crime",
+          "url": "https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Ballon D'or",
+      "url": "https://open.spotify.com/track/3ygslH1eoPaSrhW8ewR4Og"
     },
     {
       "added_at": "2026-08-28 04:03:34",

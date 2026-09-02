@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:6VaYrjshHIPyNBnmVdLdgQ">Hugo Tarres</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,674 likes - 121 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,722 likes - 121 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 120 | [nerw](https://open.spotify.com/track/1aAaSTXKjnVA9c0ZsnwbND) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [nerw](https://open.spotify.com/album/59Xgro4RsujClc1AFmwuuF) | 3:46 |
 | 121 | [jest ok](https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [xoxo](https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf) | 1:20 |
 
-Snapshot ID: `AAAAAHMBkDakDiWjo8AhrBfhVcVajT+D`
+Snapshot ID: `AAAAAKhsjSMI6RnlFselzmT1CBz9BDJg`

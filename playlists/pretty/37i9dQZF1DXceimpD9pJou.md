@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Nate Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,000 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,054 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Avivamiento \- En Vivo Desde Perú](https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Israel Chaparro](https://open.spotify.com/artist/1OLRSnF2sTYBx7lSbfgWeK) | [Avivamiento \(En Vivo Desde Perú\)](https://open.spotify.com/album/3AUHt7xuiteY3gj7SVZloB) | 5:19 |
 | 100 | [Mil Gracias](https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Mil Gracias](https://open.spotify.com/album/5CgRDcS03qWsuab2zn0mSl) | 7:50 |
 
-Snapshot ID: `AAAAABZQSbhMT49AhgM4UK4dASjk1678`
+Snapshot ID: `AAAAAJQdtESecODJFwpz/YB/pXKhavrT`

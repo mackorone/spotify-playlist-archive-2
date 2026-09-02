@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 山中千尋
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石若 駿
 
-566 songs - 1 day 22 hr 5 min
+567 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Sea Wasp](https://open.spotify.com/track/3jcntFs79rOVzxiyLPh7hE) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Sea Wasp](https://open.spotify.com/album/141pR22qsorIeF9MXqZBAn) | 6:23 | 2023-02-21 | 2023-03-08 |
 | [Season of Harvest](https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ウィーディー・ブライマー](https://open.spotify.com/artist/1H5VMlyi86K6m02awVdsa7) | [Season of Harvest](https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF) | 4:21 | 2024-08-06 | 2024-09-04 |
 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 | 2022-09-06 | 2024-04-19 |
+| [Sepiageshiki](https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0) | [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [高橋佑成](https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv), [マーティ・ホロベック](https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Mabui](https://open.spotify.com/album/6razfP1h1f2P4hQ6AyeBwp) | 7:42 | 2026-09-01 |  |
 | [Serendipity](https://open.spotify.com/track/0j7iNGrIc7Sye3rMbpPn8h) | [小沢咲希](https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1) | [Serendipity](https://open.spotify.com/album/54t9EAdUVqNEPyZTD0y43y) | 5:56 | 2023-05-23 | 2023-11-22 |
 | [Session zero \- Feat\. 馬場智章](https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP) | [HHMM](https://open.spotify.com/artist/1XPTvuhra2ygPO1E9UQcfi), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Session zero \(Feat\. 馬場智章\)](https://open.spotify.com/album/4TFS3YoYDhYzieXw6PQWms) | 3:16 | 2023-02-21 | 2023-04-19 |
 | [Shamanite](https://open.spotify.com/track/16f2bdMXq1AxIjl5XRym5Z) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Shamanite](https://open.spotify.com/album/0c9JSYQsWHsTTai1JVzxAc) | 4:41 | 2024-05-01 | 2024-05-29 |

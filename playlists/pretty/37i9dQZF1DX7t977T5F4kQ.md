@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   KiDi
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,349 likes - 84 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,390 likes - 84 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 83 | [Mon Bébé \(with King Promise\)](https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Mon Bébé \(with King Promise\)](https://open.spotify.com/album/5lQrNveZHKVrsG16jYOVzc) | 2:48 |
 | 84 | [SEXY & BAD](https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [SEXY & BAD](https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3) | 3:37 |
 
-Snapshot ID: `AAAAAAQUVqcXJRBD1n8PW2LBL2kQ3mCP`
+Snapshot ID: `AAAAAEiv5TRT3VTOIkCogrzKMnZHbUER`

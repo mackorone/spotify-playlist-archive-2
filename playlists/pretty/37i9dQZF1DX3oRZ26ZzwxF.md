@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Tazeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,940 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,018 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MATATA](https://open.spotify.com/track/5do88OelExklNmPNf17iu1) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa) | [MATATA](https://open.spotify.com/album/4F7jRvnwDtwF5bD66NyxVh) | 2:13 |
 | 2 | [PLUS DE LOVE](https://open.spotify.com/track/2OiQyIqqhqkaJJ83JuiZRH) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 4:13 |
-| 3 | [Quand Même](https://open.spotify.com/track/492o8L8FLt1u5iLZiZTyhA) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778) | [LE POIDS DE L'ÂME \(partie 1\)](https://open.spotify.com/album/0x6HuvIaGl6NuPaNUxXPRK) | 2:38 |
+| 3 | [Quand Même](https://open.spotify.com/track/492o8L8FLt1u5iLZiZTyhA) | [Tenor](https://open.spotify.com/artist/6yroy4hk9Daq02TQAWl778) | [LE POIDS DE L'ÂME, Pt\. 1](https://open.spotify.com/album/0x6HuvIaGl6NuPaNUxXPRK) | 2:38 |
 | 4 | [Adriano](https://open.spotify.com/track/3BSbM6PrlqWHRL2uci4kAz) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Flâ Ni](https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j) | 2:44 |
 | 5 | [Comment](https://open.spotify.com/track/20QJGEOvJ8UHY9v3Ner3r7) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [Comment](https://open.spotify.com/album/4bxuDXWLfdLt9pfcW7emLl) | 2:42 |
 | 6 | [OKULU](https://open.spotify.com/track/5EYzkAbjF5CEY2SWtyUeYl) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [AFRO\-N\-TCHAM 2](https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [Ba Lali](https://open.spotify.com/track/76oUep7iz6H16hIwcCdBh0) | [Houze Gvng](https://open.spotify.com/artist/5jjHEzi1nD2FAPKB6aAjHk) | [Ba Lali](https://open.spotify.com/album/01GVC8jPP6kI1VEQZmK2Jm) | 3:11 |
 | 50 | [BRAMOGO](https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt) | [JOPAPI](https://open.spotify.com/artist/51YvT0bgf9HKKRtcripRT7), [The shirurgian on the beatz](https://open.spotify.com/artist/1ymJIefHhbqjZXbFJvEMDE) | [BRAMOGO](https://open.spotify.com/album/4ME6XM6XrlNmRBWYUfhrLV) | 2:42 |
 
-Snapshot ID: `AAAAAA75RgIVULZfMQZ3x9NIKiqxA1Og`
+Snapshot ID: `AAAAAOBXgWyALx7ovozVgAhgyakzK6k4`

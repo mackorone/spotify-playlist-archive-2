@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 89230,
+  "num_followers": 89242,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcTQcCFsInTu1zLuP9m/ixNHYoM",
+  "snapshot_id": "AAAAACren8N4mjTyis5fAeygkF1JNTAs",
   "tracks": [
     {
       "added_at": "2026-06-25 22:00:27",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Adio Amore (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
       },
@@ -867,22 +847,22 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Vette Boeren (Radio Edit - Daani Remix)",
-        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
       },
       "artists": [
         {
-          "name": "Jorieke Sterken",
-          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Daani",
-          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
         }
       ],
-      "duration_ms": 148235,
-      "name": "Vette Boeren - Radio Edit - Daani Remix",
-      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -907,6 +887,26 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Vette Boeren (Radio Edit - Daani Remix)",
+        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        },
+        {
+          "name": "Daani",
+          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Vette Boeren - Radio Edit - Daani Remix",
+      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
     },
     {
       "added_at": "2026-06-25 22:00:27",

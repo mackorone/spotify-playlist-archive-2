@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from F3miii, Alex Warren, Olivia Rodrigo, Chase &  Status and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,259 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,179 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Quantum Loop](https://open.spotify.com/track/1GMjcZBvlOwh0p049TQ3lT) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Quantum Loop](https://open.spotify.com/album/5KqUNU7Ins1qaVeBwtFYGf) | 3:30 |
 | 100 | [I'M NOT CRAZY, YOU ARE](https://open.spotify.com/track/45oKOagooBsz0SQoACoXym) | [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [FOR THE HELL OF IT](https://open.spotify.com/album/4T0WS2ZJPHTY48Szqz4Ml0) | 3:04 |
 
-Snapshot ID: `AAAAAIi/R/OnwALxxU6DbPw9O10Y4v3D`
+Snapshot ID: `AAAAAAzQTsmP95A87CSI2KODv/kUzDrM`

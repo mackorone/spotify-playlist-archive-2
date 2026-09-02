@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367936,
+  "num_followers": 367924,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUka8qLQdXyFoVdeVLDBKdvJqgN",
+  "snapshot_id": "AAAAAOgeyi4pdES0YlH1Y372fjzWo0Y3",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:41",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-08-27 22:00:41",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2026-08-27 22:00:41",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-08-27 22:00:41",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2026-08-27 22:00:41",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-08-27 22:00:41",
       "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2026-08-27 22:00:41",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-08-27 22:00:41",
-      "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2026-08-27 22:00:41",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-27 22:00:41",
       "album": {
-        "name": "Sometimes I Love You",
-        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
-      },
-      "artists": [
-        {
-          "name": "Mistasy",
-          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
-        }
-      ],
-      "duration_ms": 177938,
-      "name": "Sometimes I Love You",
-      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
-    },
-    {
-      "added_at": "2026-08-27 22:00:41",
-      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
+    },
+    {
+      "added_at": "2026-08-27 22:00:41",
+      "album": {
+        "name": "Sometimes I Love You",
+        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
+      },
+      "artists": [
+        {
+          "name": "Mistasy",
+          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
+        }
+      ],
+      "duration_ms": 177938,
+      "name": "Sometimes I Love You",
+      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
     },
     {
       "added_at": "2026-08-27 22:00:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-08-27 22:00:41",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
-      },
-      "artists": [
-        {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
-        }
-      ],
-      "duration_ms": 180071,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
-    },
-    {
-      "added_at": "2026-08-27 22:00:41",
-      "album": {
         "name": "Someday Soon",
         "url": "https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 204802,
       "name": "Someday Soon",
       "url": "https://open.spotify.com/track/4rscYJB15d31PhkminLefg"
+    },
+    {
+      "added_at": "2026-08-27 22:00:41",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6itWOqDXkixKxRimD02770"
+      },
+      "artists": [
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 180071,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd"
     },
     {
       "added_at": "2026-08-27 22:00:41",

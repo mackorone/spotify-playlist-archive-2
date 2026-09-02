@@ -833,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Hide It",
+        "url": "https://open.spotify.com/album/21DgU2Mf37NartRgz8oxGp"
+      },
+      "artists": [
+        {
+          "name": "SWAE",
+          "url": "https://open.spotify.com/artist/4hTYekkMnNjpuHFTFNJ1qi"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Hide It",
+      "url": "https://open.spotify.com/track/2lHFM6fXSqvoKyDyIMIcQ7"
+    },
+    {
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -1756,7 +1778,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 238571,
       "name": "Worth The Wait (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"

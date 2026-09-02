@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21038,
+  "num_followers": 21041,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNbiyATTMT2x7Lo9u0Gv8JpHAcs",
+  "snapshot_id": "AAAAAMzRs/D2Gn/vyBN4hRfKzlEwV0ru",
   "tracks": [
     {
       "added_at": "2026-06-25 15:51:09",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "T's Romance",
-        "url": "https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "T's Romance",
-      "url": "https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203425,
       "name": "so this is love",
       "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "T's Romance",
+        "url": "https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "T's Romance",
+      "url": "https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 195042,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 195042,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Ours",
         "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 206781,
       "name": "Secret of Ours",
       "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "CHAMELEON",
-        "url": "https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5"
-      },
-      "artists": [
-        {
-          "name": "YOON SAN-HA",
-          "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Love you like fools",
-      "url": "https://open.spotify.com/track/2ZV3IpmuSujOXa9RwsGHbO"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "5.6 [Late Night Walk]",
         "url": "https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 234466,
       "name": "Late Night Walk",
       "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "CHAMELEON",
+        "url": "https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5"
+      },
+      "artists": [
+        {
+          "name": "YOON SAN-HA",
+          "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Love you like fools",
+      "url": "https://open.spotify.com/track/2ZV3IpmuSujOXa9RwsGHbO"
     },
     {
       "added_at": "2026-06-25 15:51:09",

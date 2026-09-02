@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Maybe Happy Ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,718 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,719 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 13 | [Why Look Around The Corner](https://open.spotify.com/track/7b7eQyaNI1cQ84aWd7Ttai) | [Jasmine Amy Rogers](https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp), [Original Broadway Cast of Boop! The Musical](https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Ainsley Melham](https://open.spotify.com/artist/0BLHPEZNAUa4U0AGjdADTM) | [Why Look Around The Corner](https://open.spotify.com/album/4rU435RIfQVkM3kz91r6Zx) | 3:54 |
 | 14 | [Love Changes Everything \- From "Aspects Of Love"](https://open.spotify.com/track/4uQqE8J8Yn4izuKz9Eu9x3) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI) | [Unmasked: The Platinum Collection \(Deluxe\)](https://open.spotify.com/album/6lfGhIVE8by4922uwuCxla) | 3:26 |
 | 15 | [Something Good](https://open.spotify.com/track/2unr8CLDdBMKRtff7lhcEr) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 3:33 |
-| 16 | [Seventeen](https://open.spotify.com/track/2p0FjrYZlNhEejQOLXHP2n) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:11 |
+| 16 | [Seventeen](https://open.spotify.com/track/2p0FjrYZlNhEejQOLXHP2n) | [Barrett Wilbert Weed](https://open.spotify.com/artist/417KN08R5x90PqWWZUGTsE), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:11 |
 | 17 | [My Man](https://open.spotify.com/track/101tKsNj1azODLsJbZZNiM) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Funny Girl \- Original Soundtrack Recording](https://open.spotify.com/album/0G8qWYPobQUV9wDm2XABPp) | 2:11 |
 | 18 | [So in Love](https://open.spotify.com/track/3SBLAWTQrtfm5kiGV8x9dt) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9) | [Kiss Me Kate \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/514Zxs8m8XYkKoEgNQ1cyH) | 4:21 |
 | 19 | [You Matter to Me](https://open.spotify.com/track/3OIoLMnnWzAUORFQxRAhdF) | [Drew Gehling](https://open.spotify.com/artist/2wqWxxwnJHTRMEst9OsREa), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Waitress \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 74 | [Without Love](https://open.spotify.com/track/2nYchL9d0SXuX2krMUSZOF) | [Matthew Morrison](https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z), [Marissa Jaret Winokur](https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX), [Corey Reynolds](https://open.spotify.com/artist/71aNC2tlIsDHJd5OBmlycC), [Kerry Butler](https://open.spotify.com/artist/4GDiwGz4YZDRaYzMJ3jPWi), [Hairspray Ensemble](https://open.spotify.com/artist/429JG9MlqrYJuazWbIN0ng), [Original Broadway Cast of Hairspray](https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E) | [Hairspray \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW) | 4:26 |
 | 75 | [All I've Ever Known](https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:03 |
 
-Snapshot ID: `AAAAAPFm+tjiNIF3sQWmptfIk0c8kYjY`
+Snapshot ID: `AAAAAJfPB/yaIas/aNvbUsTXfE7lP+Cr`

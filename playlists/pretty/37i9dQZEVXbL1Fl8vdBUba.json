@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 40588,
+  "num_followers": 40596,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mij52AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MipB+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-08-28 15:48:08",
@@ -810,6 +810,14 @@
         {
           "name": "Fronti",
           "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        },
+        {
+          "name": "Prodmonja",
+          "url": "https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO"
+        },
+        {
+          "name": "Bravvs",
+          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
         }
       ],
       "duration_ms": 152000,

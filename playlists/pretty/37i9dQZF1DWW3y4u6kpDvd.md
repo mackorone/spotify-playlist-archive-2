@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3y4u6kpDvd.md) - [plain]
 
 > Enjoy the BOYNEXTDOOR TOUR \[KNOCK ON Vol.2\] LIVE SET including the voices from stage! \(보이넥스트도어 맴버들의 무대 멘트가 포함된 KNOCK ON Vol.2 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,850 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,881 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3y4u6kpDvd.md) - [plain]
 | 31 | [Count To Love](https://open.spotify.com/track/0gRKC80njPggr3BL3ZYKN8) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [BOYLIFE](https://open.spotify.com/album/2aYLos5rGoksik4BH6G5Oe) | 2:38 |
 | 32 | [But I Like You](https://open.spotify.com/track/3cJgwAm8FRkgjRIGatdRct) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:17 |
 
-Snapshot ID: `AAAAAAaaYDRJ1F3BVKQKwikyiji4CS2m`
+Snapshot ID: `AAAAAADj2eA1WLKbPCdr5qKBvZpZGjLz`

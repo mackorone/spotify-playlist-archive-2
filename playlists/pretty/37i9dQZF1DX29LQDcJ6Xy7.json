@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 379726,
+  "num_followers": 379773,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3HqUU/JpJmQH4mhhjQhiV0Quyh",
+  "snapshot_id": "AAAAAJYZbBjV1Sn2dKnDuGMjRt7pKBIm",
   "tracks": [
     {
       "added_at": "2025-02-10 19:48:47",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Terapunk",
-        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
-      },
-      "artists": [
-        {
-          "name": "Dope Stars Inc.",
-          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
-        }
-      ],
-      "duration_ms": 238590,
-      "name": "Many Thanks",
-      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
         "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
         "url": "https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 247040,
       "name": "The Triumph of King Freak (A Crypt of Preservation and Superstition)",
       "url": "https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
+        "name": "Terapunk",
+        "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
+      },
+      "artists": [
+        {
+          "name": "Dope Stars Inc.",
+          "url": "https://open.spotify.com/artist/0b3Ih1VYdJfBfCPulSWBoA"
+        }
+      ],
+      "duration_ms": 238590,
+      "name": "Many Thanks",
+      "url": "https://open.spotify.com/track/0VTDOr2TTKXeTAeXTfSLQH"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
+        "name": "Re-Industrialized",
+        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Recharger",
+      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
+    },
+    {
+      "added_at": "2025-02-10 19:48:47",
+      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 280125,
       "name": "To The Hilt - Live",
       "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
-    },
-    {
-      "added_at": "2025-02-10 19:48:47",
-      "album": {
-        "name": "Re-Industrialized",
-        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Recharger",
-      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
     },
     {
       "added_at": "2025-02-10 19:48:47",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2025-02-10 19:48:47",
       "album": {
-        "name": "Pain Killer (Remixes)",
-        "url": "https://open.spotify.com/album/6VEbUccU7tPRKcObK26kwe"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/7obVVwbCYGkxqDqlWJGPOl"
       },
       "artists": [
         {
-          "name": "PIG",
-          "url": "https://open.spotify.com/artist/5riS4sDqcjVAwvC37jxTP0"
-        },
-        {
-          "name": "Jagz Kooner",
-          "url": "https://open.spotify.com/artist/3SN6EWQeA35CQctMefRkcd"
+          "name": "Oberschlesien",
+          "url": "https://open.spotify.com/artist/0bj5RvsOqc7OKarlzSAskZ"
         }
       ],
-      "duration_ms": 256298,
-      "name": "Drugged Dangerous & Damned - Jagz Kooner Remix - Edit",
-      "url": "https://open.spotify.com/track/57RSLuRekrQmayp76jvrov"
+      "duration_ms": 385000,
+      "name": "Annaberg",
+      "url": "https://open.spotify.com/track/1dovC16SR9HjqN4Pal8BM4"
     }
   ],
   "unique_name": "Industrial Metal",

@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Aretuza Lovi, Linn da Quebrada",
-  "num_followers": 247906,
+  "num_followers": 247899,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxbysA2/tKd5T5qH3txXJ18uUEz",
+  "snapshot_id": "AAAAAAbtoZ7JfsOsIc/DA+PwU/lYqNlY",
   "tracks": [
     {
       "added_at": "2026-08-28 03:00:18",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-08-28 03:00:18",
       "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
-    },
-    {
-      "added_at": "2026-08-28 03:00:18",
-      "album": {
         "name": "BODY TYPE",
         "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 146500,
       "name": "BODY TYPE",
       "url": "https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo"
+    },
+    {
+      "added_at": "2026-08-28 03:00:18",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2026-08-28 03:00:18",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-08-28 03:00:18",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
-    },
-    {
-      "added_at": "2026-08-28 03:00:18",
-      "album": {
         "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
         "url": "https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
+    },
+    {
+      "added_at": "2026-08-28 03:00:18",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "added_at": "2026-08-28 03:00:18",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-08-28 03:00:18",
       "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
+      },
+      "artists": [
+        {
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
+    },
+    {
+      "added_at": "2026-08-28 03:00:18",
+      "album": {
         "name": "Deixa a Gira Girar",
         "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 228542,
       "name": "Deixa a Gira Girar",
       "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
-    },
-    {
-      "added_at": "2026-08-28 03:00:18",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-08-28 03:00:18",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-28 03:00:18",
       "album": {
-        "name": "2 PUNKS NEON",
-        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 235031,
-      "name": "2 PUNKS NEON",
-      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
-    },
-    {
-      "added_at": "2026-08-28 03:00:18",
-      "album": {
         "name": "AMOR PROIBIDO",
         "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
+    },
+    {
+      "added_at": "2026-08-28 03:00:18",
+      "album": {
+        "name": "2 PUNKS NEON",
+        "url": "https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 235031,
+      "name": "2 PUNKS NEON",
+      "url": "https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn"
     },
     {
       "added_at": "2026-08-28 03:00:18",

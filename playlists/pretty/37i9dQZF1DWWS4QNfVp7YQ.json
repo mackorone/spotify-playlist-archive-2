@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 104173,
+  "num_followers": 104197,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG9hfZOl/4KPUw3HGsx1m1jyBUeI",
+  "snapshot_id": "AAAAANGXjxdZKqjrI6H6tH9BaGE7FnfW",
   "tracks": [
     {
       "added_at": "2024-07-05 22:41:57",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
-      },
-      "artists": [
-        {
-          "name": "Dj Moys",
-          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
-        }
-      ],
-      "duration_ms": 90292,
-      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
-      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "vaMos",
         "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 171432,
       "name": "vaMos",
       "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+        "url": "https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C"
+      },
+      "artists": [
+        {
+          "name": "Dj Moys",
+          "url": "https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa"
+        }
+      ],
+      "duration_ms": 90292,
+      "name": "Aqui Llego Tu Tiburon Huapango (Tribal MIX)",
+      "url": "https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U"
     },
     {
       "added_at": "2024-07-05 22:41:57",

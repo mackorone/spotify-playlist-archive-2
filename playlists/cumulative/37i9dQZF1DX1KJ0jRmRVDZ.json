@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: DUSTCELL",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Hatsune Miku & slayr",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 172300,
       "name": "Aftermath (feat. aruma, \u6c34\u69fd)",
       "url": "https://open.spotify.com/track/19lPtNNM4qwKzeMcI7JvRv"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 205333,
       "name": "Ash\uff06Ember (feat. LiSA, \u30ca\u30ca\u30db\u30b7\u7ba1\u5f26\u697d\u56e3)",
       "url": "https://open.spotify.com/track/6Cl7zIrLFYuHhu4iR5zTK1"
@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "GUM&DROP",
+        "url": "https://open.spotify.com/album/1UrRVoRFsslGvbiUDUvtIQ"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171796,
+      "name": "GUM&DROP",
+      "url": "https://open.spotify.com/track/52mNHkd1oWF0LVKy549iOO"
+    },
+    {
+      "album": {
         "name": "Gyakutengeki",
         "url": "https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf"
       },
@@ -6675,6 +6693,40 @@
     },
     {
       "album": {
+        "name": "Light (with Hatsune Miku, slayr, XAMIYA, & picco)",
+        "url": "https://open.spotify.com/album/0GngqNi2wFXiFpsihDeOQm"
+      },
+      "artists": [
+        {
+          "name": "BEYOND BORDERs",
+          "url": "https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        },
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        },
+        {
+          "name": "XAMIYA",
+          "url": "https://open.spotify.com/artist/6pscTrZm8WmvDi2oABuwgC"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Light (with Hatsune Miku, slayr, XAMIYA, & picco)",
+      "url": "https://open.spotify.com/track/1b9ufliXS0LXrbazXewa5j"
+    },
+    {
+      "album": {
         "name": "Link",
         "url": "https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7"
       },
@@ -7863,6 +7915,32 @@
     },
     {
       "album": {
+        "name": "mugicha",
+        "url": "https://open.spotify.com/album/035Bd8fO74kq5YGo0CnRet"
+      },
+      "artists": [
+        {
+          "name": "ANEMON\u00c9",
+          "url": "https://open.spotify.com/artist/6fH6mny6zxHQmfdrnN3zVH"
+        },
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236576,
+      "name": "mugicha",
+      "url": "https://open.spotify.com/track/5ac09H3iUXEMuCSJydz4ME"
+    },
+    {
+      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/3obgXX4aSK1cckluCjtmNH"
       },
@@ -8314,6 +8392,28 @@
       "duration_ms": 167250,
       "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
       "url": "https://open.spotify.com/track/0AmLImb5bR5gu2WtxvyKAL"
+    },
+    {
+      "album": {
+        "name": "N\u00ffart Beat feat.Chogakusei",
+        "url": "https://open.spotify.com/album/6wmRA5qX4l3uUEe8T70vAj"
+      },
+      "artists": [
+        {
+          "name": "issey",
+          "url": "https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt"
+        },
+        {
+          "name": "Chogakusei",
+          "url": "https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "N\u00ffart Beat feat.Chogakusei",
+      "url": "https://open.spotify.com/track/2MdwCSyA8I8rpIz2mAv42C"
     },
     {
       "album": {
@@ -16709,6 +16809,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30c1\u30b5\u30a4\u30ce\u30a6",
+        "url": "https://open.spotify.com/album/2FSOUzN3hM7QtcjlbYKErN"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "\u30a2\u30f3\u30c1\u30b5\u30a4\u30ce\u30a6",
+      "url": "https://open.spotify.com/track/3KvJPexXqenDgcP6RKRPip"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30c1\u30c6\u30fc\u30bc\u8cb4\u69d8 -\u6539-",
         "url": "https://open.spotify.com/album/2YBG927bnt3cfIzqEufmzK"
       },
@@ -21679,6 +21797,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a9\u30fc\u30e2",
+        "url": "https://open.spotify.com/album/7HclLdzkh7w0xoLUvtqJh8"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u771f\u4e2d",
+          "url": "https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131389,
+      "name": "\u30d5\u30a9\u30fc\u30e2",
+      "url": "https://open.spotify.com/track/4nfy4uNZASRTRyrmlLDoqW"
+    },
+    {
+      "album": {
         "name": "\u30d5\u30af\u30ed\u30a6\u3055\u3093 (\u3059\u308a\u3043 ver.)",
         "url": "https://open.spotify.com/album/6vy3w7RDsDufuB7nufONEF"
       },
@@ -22352,7 +22488,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 152750,
       "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
       "url": "https://open.spotify.com/track/3mhX7RepAwqeoz04q0wCYn"
@@ -22570,7 +22706,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 151000,
       "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5"
@@ -28396,7 +28532,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 227600,
       "name": "\u6211\u304c\u6804\u5149\u3088",
       "url": "https://open.spotify.com/track/2wnHoEJNXPQCCGnwem96tr"
@@ -30952,7 +31088,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 298787,
       "name": "\u751f\u6d3b",
       "url": "https://open.spotify.com/track/4Nmki31FGggNIRruzEDU7r"

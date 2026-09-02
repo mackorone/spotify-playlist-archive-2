@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,826 likes - 155 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,254 likes - 155 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 154 | [Self Realization Delta \(91\-94hz\)](https://open.spotify.com/track/5TyAojtGBI2mSpgbITM0xd) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Self Realization Delta \(91\-94hz\)](https://open.spotify.com/album/4ctE2IBEdaU2vzoRqUFoWO) | 2:42 |
 | 155 | [Deep Delta 81.4 \- 83.4 Hz](https://open.spotify.com/track/5sxDqiU7pTobSiJteikNx9) | [Soulström](https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6) | [Deep Delta 81.4 \- 83.4 Hz](https://open.spotify.com/album/2NT7cpQx056zL4d4eXlaoL) | 2:38 |
 
-Snapshot ID: `AAAAACYn0/6HfmYkCJg46NGvU4USqg5v`
+Snapshot ID: `AAAAAKslVU6hDlqnM6rwOknp23sty1rj`

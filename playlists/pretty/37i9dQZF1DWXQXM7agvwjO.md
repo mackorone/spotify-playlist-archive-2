@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Silica Gel \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,881 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,901 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [moody](https://open.spotify.com/track/2L1W7BoVajQJxiuNmhGOlD) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [moody](https://open.spotify.com/album/3pt1EcqfVLgp2aI8sbfgOr) | 2:36 |
 | 100 | [Falling](https://open.spotify.com/track/0fThTgVxDDxhVlKFFxWmJh) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [reprises](https://open.spotify.com/album/7e139dy9f2osNgjowaJogS) | 4:17 |
 
-Snapshot ID: `AAAAALbqpIxSzrylSXdggXWCgeJGTYTr`
+Snapshot ID: `AAAAAP98hp8AK0w91yvSQ1uBRrLh5FgW`

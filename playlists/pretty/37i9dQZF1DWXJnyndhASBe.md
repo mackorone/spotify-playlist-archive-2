@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Otsochodzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,462 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,460 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [700 koni](https://open.spotify.com/track/2KhFSKETirak72KCS1S8Ov) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Lot808](https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [700 koni](https://open.spotify.com/album/4ACe5SdQTrvmOgCvrIgw8a) | 2:32 |
 | 50 | [Maybi](https://open.spotify.com/track/1bd5oTxUCLape7uo5HzI4e) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Maybi](https://open.spotify.com/album/5InyAmFm9UYWbCNOQKhtEs) | 2:11 |
 
-Snapshot ID: `AAAAAHmjeLCtsauNo9NAZ4jf9mtuGlsu`
+Snapshot ID: `AAAAAPCJFIyOGOqLf3yKMC3rtGeJlZXx`

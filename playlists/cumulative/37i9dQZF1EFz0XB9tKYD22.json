@@ -4155,6 +4155,24 @@
     },
     {
       "album": {
+        "name": "Expecting Good Things",
+        "url": "https://open.spotify.com/album/50SEjxMSGtnGiWTrYpvH1U"
+      },
+      "artists": [
+        {
+          "name": "Jeff & Sheri Easter",
+          "url": "https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "Love Remains - Expecting Good Things Album Version",
+      "url": "https://open.spotify.com/track/5HOt6DcFCABXsoXPiJPCzB"
+    },
+    {
+      "album": {
         "name": "Our Glory",
         "url": "https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS"
       },

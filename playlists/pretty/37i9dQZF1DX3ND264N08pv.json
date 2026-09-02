@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96524,
+  "num_followers": 96536,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpLzuQR4R2sEqypWVcCrvMz68j2",
+  "snapshot_id": "AAAAAJ4RSoKAzpmCeRqm4DGpRM64aYgb",
   "tracks": [
     {
       "added_at": "2026-08-17 11:28:00",
@@ -99,26 +99,6 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "L.P.A.",
-        "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
-      },
-      "artists": [
-        {
-          "name": "Akimbo",
-          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
-        },
-        {
-          "name": "Missy",
-          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "L.P.A.",
-      "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 177750,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "L.P.A.",
+        "url": "https://open.spotify.com/album/7apMNc1x0JwSdJyY6jTmeq"
+      },
+      "artists": [
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+        },
+        {
+          "name": "Missy",
+          "url": "https://open.spotify.com/artist/5SeJLGdhPUcgMJ6pOiPQT9"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "L.P.A.",
+      "url": "https://open.spotify.com/track/7MSOUwJDcG3IviJc9jqVNk"
     },
     {
       "added_at": "2026-08-17 11:28:00",

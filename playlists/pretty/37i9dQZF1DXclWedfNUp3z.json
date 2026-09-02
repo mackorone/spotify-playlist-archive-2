@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 281377,
+  "num_followers": 281416,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEX5EDvfI/mF2IzCzN1YP+GDwefR",
+  "snapshot_id": "AAAAAEb5cR5sNWXxThsOr+8G3AYYCB2c",
   "tracks": [
     {
       "added_at": "2026-08-28 18:52:17",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "San",
-        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 414106,
-      "name": "Spirales",
-      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Music for Growing Plants",
         "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 364133,
       "name": "Beginning, Becoming",
       "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Nature Calling",
-      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "Music for Tomato Plants",
-        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
-      },
-      "artists": [
-        {
-          "name": "Loris S. Sarid",
-          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
-        }
-      ],
-      "duration_ms": 266277,
-      "name": "Orizzontale Verticale",
-      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Good Places",
         "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
       },
@@ -1283,6 +1251,38 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Nature Calling",
+      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Music for Tomato Plants",
+        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "duration_ms": 266277,
+      "name": "Orizzontale Verticale",
+      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "For Shirasu",
         "url": "https://open.spotify.com/album/3ZZ2XUCYf8pfH30e0noXHz"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 486000,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "\u74b0\u97ff\u97f3",
-        "url": "https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV"
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
       "artists": [
         {
-          "name": "LOLOET",
-          "url": "https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 132673,
-      "name": "encore",
-      "url": "https://open.spotify.com/track/6j9ZkqEmEjpuNIarmiwum2"
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "\u74b0\u97ff\u97f3",
+        "url": "https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "LOLOET",
+          "url": "https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq"
         }
       ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+      "duration_ms": 132673,
+      "name": "encore",
+      "url": "https://open.spotify.com/track/6j9ZkqEmEjpuNIarmiwum2"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1687,26 +1687,18 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Espiral (\u51a5\u4e01 Remix)",
-        "url": "https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2"
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
       },
       "artists": [
         {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        },
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        },
-        {
-          "name": "\u51a5\u4e01",
-          "url": "https://open.spotify.com/artist/1MFolUggfCDsdJVAcG9acN"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 251823,
-      "name": "Espiral - \u51a5\u4e01 Remix",
-      "url": "https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX"
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
     }
   ],
   "unique_name": "Music for Plants",

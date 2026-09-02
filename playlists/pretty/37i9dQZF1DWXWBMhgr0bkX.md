@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Bea
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,455 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,458 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 74 | [Solo](https://open.spotify.com/track/5E0hXNBZHBVNa67rIzlACp) | [Ruby Poole](https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o) | [Solo](https://open.spotify.com/album/0zL2XiJgWo3Hck6lF97oCS) | 2:59 |
 | 75 | [Dreamer](https://open.spotify.com/track/4DT4rt1BHsETJU3lfklyTz) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Dreamer](https://open.spotify.com/album/27FEIdgPMqqfTxGrBGa3qx) | 3:38 |
 
-Snapshot ID: `AAAAAEUYtXa7ejqCCmRIgSLJjf8sj057`
+Snapshot ID: `AAAAADAFOymqdiT/iuoOL2QJhVuI+SkB`

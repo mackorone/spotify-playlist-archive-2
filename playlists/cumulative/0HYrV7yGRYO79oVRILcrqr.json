@@ -5739,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Just My Style",
+        "url": "https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188873,
+      "name": "Just My Style",
+      "url": "https://open.spotify.com/track/0usJsw64exL53A5maMb5V2"
+    },
+    {
+      "album": {
         "name": "Kalamas",
         "url": "https://open.spotify.com/album/0KC4ARwnP7p9odNqWyuvlK"
       },

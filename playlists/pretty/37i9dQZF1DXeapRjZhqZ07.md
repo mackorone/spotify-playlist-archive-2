@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeapRjZhqZ07.md) - [plain]
 
 > Celebrate Frozen's 10th anniversary and listen to all of your Frozen favorites in this official playlist\. Stream the Frozen Collection on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,839 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,165 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeapRjZhqZ07.md) - [plain]
 | 57 | [Epilogue](https://open.spotify.com/track/3SGUkNKEJLr13RqO6YYsJ8) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:25 |
 | 58 | [Reindeer Circle](https://open.spotify.com/track/6XuQJwADFpvgT9i7wPViJd) | [Cantus](https://open.spotify.com/artist/13tmEptE5NPMTxY29lVoEf) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:40 |
 
-Snapshot ID: `AAAAAKMs3vJPngBXKKf3e/URbU/d6WHm`
+Snapshot ID: `AAAAAC32QMTPcBizITHtsf/7GVoY+iX2`

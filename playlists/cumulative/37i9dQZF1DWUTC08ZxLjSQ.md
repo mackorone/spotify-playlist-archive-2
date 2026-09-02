@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Aziz Konkrite\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Omaarr\. Artwork: Isu Kim
 
-542 songs - 1 day 4 hr 24 min
+543 songs - 1 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [3 Shoroot](https://open.spotify.com/track/3nISIjEGMkx6gddsXOcImZ) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [3 Shoroot](https://open.spotify.com/album/4ltpcjb8jfevv5AmQDQuKq) | 2:24 | 2023-10-04 | 2024-05-15 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-24 |
 | [3arf El Matloob](https://open.spotify.com/track/2r4IgKomtMEcNpcCX5RZ1f) | [KAREEM POLONIUM](https://open.spotify.com/artist/6geyQiR1FR8DicVfTA4aJQ) | [3arf El Matloob](https://open.spotify.com/album/2rM90lNf19890vBtkySPN1) | 2:34 | 2026-04-01 |  |
+| [3Lafekra](https://open.spotify.com/track/4RNzC5hvSCqt6Lva182bKj) | [Omaarr](https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M) | [3Lafekra](https://open.spotify.com/album/1oak3gCOnKERIyG2QN4ZFg) | 3:11 | 2026-09-01 |  |
 | [3WASF](https://open.spotify.com/track/5MP1iB1ErqjEUztOU7h1IX) | [OTT](https://open.spotify.com/artist/038gck90liF5ILjX8xJhrr), [AFYOON](https://open.spotify.com/artist/6d9Gz70K2H80BR3OyHqQk0), [Nxptune](https://open.spotify.com/artist/7ErBXnmLu4a6BNs0tvPik7) | [3WASF](https://open.spotify.com/album/09q62UUzEX2zwHm8nEzhiB) | 3:04 | 2026-03-04 |  |
 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 | 2024-06-26 | 2024-10-02 |
 | [5 shai](https://open.spotify.com/track/3Ppc8kj5WDH71xVNKl1u30) | [3osman](https://open.spotify.com/artist/479S6JSd0M1O2BuaRrylu7), [KATCHTHEKASH](https://open.spotify.com/artist/2jgevVmndhswUX4CsYQO7f) | [5 shai](https://open.spotify.com/album/797GVWhPAMWStbp9w1Q7Ev) | 2:19 | 2026-05-05 |  |
@@ -81,7 +82,7 @@
 | [Breathe](https://open.spotify.com/track/2bvF4YCECIcSSplYinvLfD) | [Fell'g](https://open.spotify.com/artist/2GZ2Ds7aWRKK1sgfZGwhmv) | [Breathe](https://open.spotify.com/album/0QRPtbmSN78AztDmyK10Ij) | 2:26 | 2022-09-20 | 2022-11-16 |
 | [Breaze](https://open.spotify.com/track/6RJB9x8Dc1u22AbEMr2rH6) | [Tamer ElDerini](https://open.spotify.com/artist/6FWjqnwmfy9SqMJk40jpcW) | [Breaze](https://open.spotify.com/album/3xDxCUg4lEY0bmk84YmGKe) | 5:00 | 2022-09-20 | 2023-02-15 |
 | [Btebrom](https://open.spotify.com/track/5Nks9uLwSQkCQ8QmBqcdUA) | [Farah Nakhoul](https://open.spotify.com/artist/6gAH3YNlApB84dCoFgCSZZ) | [Btebrom](https://open.spotify.com/album/2TrO6IjRgmrs2BRcncV5tT) | 2:27 | 2024-07-09 | 2024-10-03 |
-| [Btnsh](https://open.spotify.com/track/5bZmNDsnBvvQHlOGU0JckW) | [Omaarr](https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M) | [U Can’t Do It Better](https://open.spotify.com/album/6lvtObHS3zndXdpXVZCyL9) | 2:07 | 2026-05-05 |  |
+| [Btnsh](https://open.spotify.com/track/5bZmNDsnBvvQHlOGU0JckW) | [Omaarr](https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M) | [U Can’t Do It Better](https://open.spotify.com/album/6lvtObHS3zndXdpXVZCyL9) | 2:07 | 2026-05-05 | 2026-09-02 |
 | [BY NIGHT](https://open.spotify.com/track/5hXkNiIGBafBId7qYdm8Il) | [BADFOX](https://open.spotify.com/artist/4ndoh7kBuC86wEpuAUXoVJ) | [BY NIGHT : The Nocturnal Fox](https://open.spotify.com/album/6XvYprTGwuNGKtbh5JjNNZ) | 3:26 | 2026-02-10 | 2026-06-17 |
 | [Bye](https://open.spotify.com/track/66odrdtPiGyJNXLFvUdY0A) | [Roy YunGod](https://open.spotify.com/artist/0krZz1kM4FvOmrzu0QR3w7) | [Bye](https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ) | 1:45 | 2022-09-20 | 2022-10-05 |
 | [Bye Bye](https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Bye Bye](https://open.spotify.com/album/4Tk57fBzUK6VOLXExtFWFe) | 2:29 | 2022-09-27 | 2022-11-02 |

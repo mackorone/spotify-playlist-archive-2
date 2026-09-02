@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "Ma fahla Ma fik Lfal (La Poubelle)",
+        "url": "https://open.spotify.com/album/0XJZAoU43fuEOxl0OyqUF2"
+      },
+      "artists": [
+        {
+          "name": "Habib Himoune",
+          "url": "https://open.spotify.com/artist/5zlkHM4lIFIrXq4P41Dn6K"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342146,
+      "name": "Ma fahla Ma fik Lfal (La Poubelle)",
+      "url": "https://open.spotify.com/track/3m4gT8fFtVaWMZwdFKyn7k"
+    },
+    {
+      "album": {
         "name": "Ma Khradjch Alik Tahdjal",
         "url": "https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A"
       },
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 346870,
       "name": "Ma3lich Ya 9albi",
       "url": "https://open.spotify.com/track/7yckIvJtO4FII0703PgoQ2"
@@ -3304,6 +3322,24 @@
       "duration_ms": 349310,
       "name": "Nti T9alchi \u0648\u0627\u0646\u0627 \u0646\u062e\u0644\u0635 \u0643\u0644\u0634\u064a",
       "url": "https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu"
+    },
+    {
+      "album": {
+        "name": "Nti Tebghini w Ana Nebghik",
+        "url": "https://open.spotify.com/album/2Dh01GxkzUiVyZpP8B5qHV"
+      },
+      "artists": [
+        {
+          "name": "Houari Djazira",
+          "url": "https://open.spotify.com/artist/20nZDYemICJNepwRHMOU4r"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464875,
+      "name": "Nti Tebghini w Ana Nebghik",
+      "url": "https://open.spotify.com/track/27bSDMIceNvGdZ0NOwc7kl"
     },
     {
       "album": {
@@ -4572,7 +4608,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 236193,
       "name": "\u0642\u0648\u0644\u0648 \u0644\u0644\u062d\u0628 \u0644\u064a \u063a\u0627\u064a\u0628 \u064a\u0646\u0633\u0627\u0646\u064a \u0645\u0627 \u064a\u062c\u064a\u0634",
       "url": "https://open.spotify.com/track/59AfVijg1Yo10WsYaJEBxe"

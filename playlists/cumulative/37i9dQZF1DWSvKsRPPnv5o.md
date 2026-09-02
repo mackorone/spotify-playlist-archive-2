@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: AZ Chike and Tyler, The Creator
 
-1,733 songs - 3 day 8 hr 29 min
+1,734 songs - 3 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 | 2023-07-14 | 2023-12-09 |
 | [CHILDREN OF THE SLUMS](https://open.spotify.com/track/6xTd7UidPoM8IQ7ONnqxaP) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [CHILDREN OF THE SLUMS](https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz) | 2:55 | 2024-04-19 | 2024-06-29 |
 | [Chill](https://open.spotify.com/track/6u6DLXSWnwhpeBftBx0M0p) | [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [TUESDAY IN LA 2](https://open.spotify.com/album/5BxuY8sGuXYTA8118XxJNm) | 2:38 | 2024-10-25 | 2024-11-09 |
+| [Chip on My Shoulder](https://open.spotify.com/track/4TzAe4DbirFJCa3EWeeCPy) | [Alvin Allure](https://open.spotify.com/artist/4mRNIWrbjkLsALWzqSqFN9), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E) | [Kids With Dreams](https://open.spotify.com/album/7y8Zb4RZBf9Q7tGFiqXqlL) | 3:21 | 2026-09-01 |  |
 | [chips n queso](https://open.spotify.com/track/3wcLgWc0YjIc76Cj7iEFUL) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Under My Influence](https://open.spotify.com/album/3ajGEfVzjOjerZ9tSrUIWu) | 1:56 | 2024-08-30 | 2024-09-07 |
 | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/track/5b9FYnAB7KeFOvBywwvnfO) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Choose Up \(feat\. 03 Greedo\)](https://open.spotify.com/album/25Zl2PLtuUGx14eqL3eaYQ) | 2:50 | 2023-06-02 | 2023-11-11 |
 | [Choosing Shoes](https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Choosing Shoes](https://open.spotify.com/album/3Lomo0k5ws6mbFTRZN2RpK) | 2:47 | 2025-07-25 | 2025-08-09 |

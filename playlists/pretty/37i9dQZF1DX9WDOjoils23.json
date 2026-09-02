@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 44581,
+  "num_followers": 44615,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM78eUnQztlU0sbmajAGosn3TZp3",
+  "snapshot_id": "AAAAABfagStpuK6m8Z9FleuifixdValN",
   "tracks": [
     {
       "added_at": "2026-08-14 12:11:38",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Ranjhe",
-        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
-      },
-      "artists": [
-        {
-          "name": "Hassrat",
-          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
-        },
-        {
-          "name": "HARJINDER JOHAL",
-          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Ranjhe",
-      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
-    },
-    {
-      "added_at": "2026-08-14 12:11:38",
-      "album": {
         "name": "Nit Khair Manga",
         "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
       },
@@ -395,26 +375,6 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Seasons of Sartaaj",
-        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Nargis Fakhri",
-          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
-        }
-      ],
-      "duration_ms": 310658,
-      "name": "Tere Vaastey",
-      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
-    },
-    {
-      "added_at": "2026-08-14 12:11:38",
-      "album": {
         "name": "Nazaraa",
         "url": "https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3"
       },
@@ -439,6 +399,46 @@
       "duration_ms": 310195,
       "name": "Nazaraa",
       "url": "https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX"
+    },
+    {
+      "added_at": "2026-08-14 12:11:38",
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Nargis Fakhri",
+          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
+        }
+      ],
+      "duration_ms": 310658,
+      "name": "Tere Vaastey",
+      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
+    },
+    {
+      "added_at": "2026-08-14 12:11:38",
+      "album": {
+        "name": "Ranjhe",
+        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
+      },
+      "artists": [
+        {
+          "name": "Hassrat",
+          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
+        },
+        {
+          "name": "HARJINDER JOHAL",
+          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Ranjhe",
+      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
     },
     {
       "added_at": "2026-08-14 12:11:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-14 12:11:38",
       "album": {
-        "name": "Bemisaal Jagjit Singh",
-        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
-      },
-      "artists": [
-        {
-          "name": "Chitra Singh",
-          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Bawa",
-      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
-    },
-    {
-      "added_at": "2026-08-14 12:11:38",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 358536,
       "name": "Bismillah",
       "url": "https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE"
+    },
+    {
+      "added_at": "2026-08-14 12:11:38",
+      "album": {
+        "name": "Bemisaal Jagjit Singh",
+        "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
+      },
+      "artists": [
+        {
+          "name": "Chitra Singh",
+          "url": "https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Bawa",
+      "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
     },
     {
       "added_at": "2026-08-14 12:11:38",

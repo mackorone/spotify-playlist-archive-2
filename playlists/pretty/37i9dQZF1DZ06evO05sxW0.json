@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9472,
+  "num_followers": 9479,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAAD54M7fNfM3M/QHHuaGOqPG",
+  "snapshot_id": "apTEAAAAAAAgGWjnhtsnASnfbAOki9be",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reject All American",
         "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148760,
-      "name": "Daddy's L'il Girl",
-      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 154173,
       "name": "Jet Ski",
       "url": "https://open.spotify.com/track/1nIAfunQnMb64VPivMjstf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "Daddy's L'il Girl",
+      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
     },
     {
       "added_at": null,

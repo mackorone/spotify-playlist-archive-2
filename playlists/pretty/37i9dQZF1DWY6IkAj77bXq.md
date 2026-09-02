@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,752 likes - 120 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,760 likes - 120 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 19 | [Evening Veil](https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Evening Veil](https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w) | 2:16 |
 | 20 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 |
 | 21 | [Echo Shore](https://open.spotify.com/track/0MjeX7SD9zfdIATLXRaYdr) | [Sereluna](https://open.spotify.com/artist/1ZFdGnslzGSf1huxJ3yzev) | [Echo Shore](https://open.spotify.com/album/3ERRny9YXJqClGg5pAp4aH) | 3:05 |
-| 22 | [Uncharted Realm](https://open.spotify.com/track/1zHSkgMqxbaFYiIagaIORC) | [Luminescence Love](https://open.spotify.com/artist/0tbkbhvaoPYMmQ5ERDAxuR) | [Uncharted Realm](https://open.spotify.com/album/6TgaQwm8W1uBiLLUor2AWe) | 4:16 |
-| 23 | [Where Silence Heals](https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8) | [Ocealis](https://open.spotify.com/artist/6bTSQUJFV2QX32Hx639Ht1) | [Where Silence Heals](https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3) | 3:22 |
+| 22 | [Where Silence Heals](https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8) | [Ocealis](https://open.spotify.com/artist/6bTSQUJFV2QX32Hx639Ht1) | [Where Silence Heals](https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3) | 3:22 |
+| 23 | [Uncharted Realm](https://open.spotify.com/track/1zHSkgMqxbaFYiIagaIORC) | [Luminescence Love](https://open.spotify.com/artist/0tbkbhvaoPYMmQ5ERDAxuR) | [Uncharted Realm](https://open.spotify.com/album/6TgaQwm8W1uBiLLUor2AWe) | 4:16 |
 | 24 | [Somnum](https://open.spotify.com/track/0QpXIbRh2TsDxjQcdBX4of) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Somnum](https://open.spotify.com/album/08aZ6GMYcj7QPJAFFzJGHP) | 2:15 |
 | 25 | [Simple wonders](https://open.spotify.com/track/3vBKVMeeWosEmAqqx0FWxd) | [Löve](https://open.spotify.com/artist/7MGZxfJkKBLp1oAnFkNTEz) | [Simple wonders](https://open.spotify.com/album/7FMMeVOfu8AVtyjvzB3vC2) | 3:06 |
 | 26 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 |
-| 27 | [Flower Peak](https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw) | [Dormira Y Fluir](https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK) | [Flower Peak](https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn) | 2:31 |
-| 28 | [Follow Me](https://open.spotify.com/track/3WEi8ia9hiFQRVzHQKZpE8) | [Healing Wind](https://open.spotify.com/artist/3tEA9FD13CnUsicwThXa7P) | [Follow Me](https://open.spotify.com/album/1xJBxHTXy1WKXx7cAaRYK0) | 3:30 |
+| 27 | [Follow Me](https://open.spotify.com/track/3WEi8ia9hiFQRVzHQKZpE8) | [Healing Wind](https://open.spotify.com/artist/3tEA9FD13CnUsicwThXa7P) | [Follow Me](https://open.spotify.com/album/1xJBxHTXy1WKXx7cAaRYK0) | 3:30 |
+| 28 | [Flower Peak](https://open.spotify.com/track/5iUc2rN3bd2C33qyAMdcBw) | [Dormira Y Fluir](https://open.spotify.com/artist/6p4EOjFaxKI2qalYsz4pAK) | [Flower Peak](https://open.spotify.com/album/65FYABLO74OLHqnN1SWnxn) | 2:31 |
 | 29 | [Resonance](https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k) | [Evanesce](https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8) | [Resonance](https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln) | 2:23 |
 | 30 | [Coastal Day](https://open.spotify.com/track/4anG3kAHgtrTnn8aZd444Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Coastal Day](https://open.spotify.com/album/46qfLAjD8zAQC5a2PlGwbX) | 2:31 |
 | 31 | [Constellation](https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO) | [Renoir Rose](https://open.spotify.com/artist/5CAi5m67hzXUmCv1XtHjZZ) | [Constellation](https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D) | 2:34 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 35 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 |
 | 36 | [Unwind](https://open.spotify.com/track/5gLITXErIKVyey5JNinATB) | [Solros](https://open.spotify.com/artist/1nYR0YG5gsvYQFqiFW76RA) | [Unwind](https://open.spotify.com/album/6cpSrWzOJ4os7xncWtp3oj) | 2:06 |
 | 37 | [Oshier \- 963Hz](https://open.spotify.com/track/2jI9ubWWveL2f6ldWfVNgY) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Oshier \- 963Hz](https://open.spotify.com/album/1aRsa1uchv9flnrSZ3VrcQ) | 2:35 |
-| 38 | [Silent slumber](https://open.spotify.com/track/4g9v29eabQuJBbbCT5CWYI) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Silent slumber](https://open.spotify.com/album/7HGWndf2VOWichCVXIhvnk) | 2:27 |
-| 39 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 |
-| 40 | [Drowsy Time\-Sway](https://open.spotify.com/track/6FcLDc9RL33JNXEmzwWN0V) | [Vibrant Bouquet](https://open.spotify.com/artist/3corO20Y3Q5QVFueEADiEz) | [Drowsy Time\-Sway](https://open.spotify.com/album/4ZhyLXgTKvHgBqCQpqwTfC) | 3:05 |
-| 41 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 |
+| 38 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 |
+| 39 | [Silent slumber](https://open.spotify.com/track/4g9v29eabQuJBbbCT5CWYI) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Silent slumber](https://open.spotify.com/album/7HGWndf2VOWichCVXIhvnk) | 2:27 |
+| 40 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 |
+| 41 | [Drowsy Time\-Sway](https://open.spotify.com/track/6FcLDc9RL33JNXEmzwWN0V) | [Vibrant Bouquet](https://open.spotify.com/artist/3corO20Y3Q5QVFueEADiEz) | [Drowsy Time\-Sway](https://open.spotify.com/album/4ZhyLXgTKvHgBqCQpqwTfC) | 3:05 |
 | 42 | [Moon Over Quiet Hills](https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH) | [Tellus Gardens](https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT) | [Moon Over Quiet Hills](https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L) | 3:39 |
 | 43 | [Prudence](https://open.spotify.com/track/11vNvIPRoBMJ70Ypz6IZet) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Prudence](https://open.spotify.com/album/5KzOJ4MEF2yLyNUWKrdIpi) | 2:42 |
 | 44 | [Sense](https://open.spotify.com/track/6NRZxHpQhH1GRlD3GG8b60) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Sense](https://open.spotify.com/album/1Wq0MG7JIVZOzRRu9yaPFI) | 3:25 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 56 | [Grains of the Golden Sand](https://open.spotify.com/track/0FKabfqMVicNNykyhpjniV) | [Eternal Light](https://open.spotify.com/artist/45Wnto3MekB5K0mL5aBiYv) | [Grains of the Golden Sand](https://open.spotify.com/album/7DP6yEBXCyuih8gc5j4G7p) | 2:31 |
 | 57 | [Silent Aurora](https://open.spotify.com/track/3mpAyQ4QANg2RXImWKvqDH) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Silent Aurora](https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn) | 3:13 |
 | 58 | [Mist Over Mountains](https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Mist Over Mountains](https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG) | 2:48 |
-| 59 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 |
-| 60 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
-| 61 | [Evening Waves](https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Evening Waves](https://open.spotify.com/album/2NqrAVFASSLXpLTuftQOBq) | 2:34 |
-| 62 | [Astral Shore](https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Astral Shore](https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs) | 3:36 |
+| 59 | [Mountain View](https://open.spotify.com/track/07JjsRf87eOxsv2RD6UpN7) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mountain View](https://open.spotify.com/album/1ChiYF18iNSzQZW5Ibk9jw) | 2:32 |
+| 60 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 |
+| 61 | [Astral Shore](https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Astral Shore](https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs) | 3:36 |
+| 62 | [Evening Waves](https://open.spotify.com/track/3qfv2OFBqpSDGBFxVjrSgB) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Evening Waves](https://open.spotify.com/album/2NqrAVFASSLXpLTuftQOBq) | 2:34 |
 | 63 | [Aube](https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Aube](https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy) | 3:00 |
 | 64 | [Lumen](https://open.spotify.com/track/482J65aOwVVsf01c7ktAvM) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Lumen](https://open.spotify.com/album/025PjPtslp6pG3gm40PJ8n) | 2:56 |
 | 65 | [Meditatio Lux](https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Meditatio Lux](https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO) | 3:45 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 83 | [Spiritual Connection](https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Spiritual Connection](https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve) | 3:18 |
 | 84 | [Seclusion](https://open.spotify.com/track/2Y9VAYUD3sxilHgfGG3kwR) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Seclusion](https://open.spotify.com/album/0yFxdEoWf0rw9OuSrswun6) | 3:06 |
 | 85 | [Airy](https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Airy](https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa) | 2:49 |
-| 86 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
-| 87 | [Glacial Views](https://open.spotify.com/track/5akSLRCugbmnEkbIFqnVsc) | [Eartharmonics](https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7) | [Glacial Views](https://open.spotify.com/album/056OKAZ5jCLKD0KnQCdxZV) | 3:28 |
+| 86 | [Glacial Views](https://open.spotify.com/track/5akSLRCugbmnEkbIFqnVsc) | [Eartharmonics](https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7) | [Glacial Views](https://open.spotify.com/album/056OKAZ5jCLKD0KnQCdxZV) | 3:28 |
+| 87 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 |
 | 88 | [Golden Age](https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Golden Age](https://open.spotify.com/album/1gWhdIMJ1bGoLTbj0hBQri) | 3:03 |
 | 89 | [Hills Of Clarity](https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL) | [Elevated Minds](https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6) | [Hills Of Clarity](https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA) | 4:15 |
 | 90 | [ISSA](https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ) | [Sufi Pyramid](https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa) | [Issa](https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw) | 2:52 |
@@ -117,16 +117,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 107 | [Above All Else](https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo) | [Sir Edmund](https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH) | [Above All Else](https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A) | 2:55 |
 | 108 | [Dawn to Dusk](https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ) | [Nelson Talstad](https://open.spotify.com/artist/4dntdK3Sws28zy1M8Ak5q6) | [Dawn to Dusk](https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll) | 2:56 |
 | 109 | [Protection](https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Pilgrimage](https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq) | 2:57 |
-| 110 | [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 |
+| 110 | [Intangible](https://open.spotify.com/track/6fZTcyBMlwlCc6PYzR2Odx) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Intangible](https://open.spotify.com/album/5deAB4dzBQkIZ56zsXkgSk) | 3:04 |
 | 111 | [Oh so Quiet](https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9) | [The Silent Ocean](https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN) | [Oh so Quiet](https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4) | 3:10 |
-| 112 | [Intangible](https://open.spotify.com/track/6fZTcyBMlwlCc6PYzR2Odx) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Intangible](https://open.spotify.com/album/5deAB4dzBQkIZ56zsXkgSk) | 3:04 |
+| 112 | [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 |
 | 113 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 |
 | 114 | [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 |
 | 115 | [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 |
 | 116 | [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 |
 | 117 | [Embodied Awareness](https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Embodied Awareness](https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG) | 3:15 |
 | 118 | [Shasta \- Meditation Mix](https://open.spotify.com/track/7pOo8zgxmkZVMEO0B4fH4Y) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso \(Meditation Mix\)](https://open.spotify.com/album/2NWm5EjnnTktWmN2pI87XH) | 3:01 |
-| 119 | [Rebirth](https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y) | [Georgia Vesper](https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99) | [Rebirth](https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR) | 2:24 |
-| 120 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 |
+| 119 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 |
+| 120 | [Rebirth](https://open.spotify.com/track/0zoLn35Bnc2byxEe4Y8N8Y) | [Georgia Vesper](https://open.spotify.com/artist/53LTi2F3qGLtMUJaROlx99) | [Rebirth](https://open.spotify.com/album/01iV3VoDYYuC4Oz82XaYCR) | 2:24 |
 
-Snapshot ID: `AAAAAP3/ZXhC/iD+HtPyykeqPOcyWtJ5`
+Snapshot ID: `AAAAADim/dXhQupvdkutrtrtWiZW3Wp6`

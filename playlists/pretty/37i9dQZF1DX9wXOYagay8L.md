@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Marcus Harvey
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,095 likes - 95 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,141 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 12 | [Indlela](https://open.spotify.com/track/0N28AEFORE5Sy1ipduBpEt) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Indlela](https://open.spotify.com/album/59NY0i8MgMP4JjijQCDosy) | 3:34 |
 | 13 | [Sabela](https://open.spotify.com/track/18CIBGXAkIeZhwzJt4uT2k) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Sabela](https://open.spotify.com/album/6kjGl8dtVWhzH8Cz8gL2ga) | 4:44 |
 | 14 | [Igama](https://open.spotify.com/track/5HluhfaqX9cBkqVWmJdX4l) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Mr Luu](https://open.spotify.com/artist/30f7PK6kTtrOc4HkSVGjgb) | [Igama](https://open.spotify.com/album/3uVznnYiHoGD8madKHx6RM) | 4:02 |
-| 15 | [Lilizela](https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH) | [Sandy6eats](https://open.spotify.com/artist/3ARApb0rh3I8ySYAMzlrF1), [ManQue](https://open.spotify.com/artist/2zLJDKBzv56akarlJ7uxPZ), [Ntaxmu6iQue](https://open.spotify.com/artist/76jXO5dOMQL82c2sGxYOa7), [Noex](https://open.spotify.com/artist/1RWPqByB4FdlcKT9nZV8f3), [Buhle Ndalow](https://open.spotify.com/artist/6bC7qLrjHfTutuZu5QH52m) | [Lilizela](https://open.spotify.com/album/7fu3HcalZOuFuIsFTZ0NQA) | 7:26 |
+| 15 | [Lilizela](https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH) | [Sandy6eats](https://open.spotify.com/artist/3ARApb0rh3I8ySYAMzlrF1), [ManQue](https://open.spotify.com/artist/2zLJDKBzv56akarlJ7uxPZ), [Ntaxmu6iQue](https://open.spotify.com/artist/76jXO5dOMQL82c2sGxYOa7), [Noex](https://open.spotify.com/artist/1RWPqByB4FdlcKT9nZV8f3), [Buhle Ndalow](https://open.spotify.com/artist/6bC7qLrjHfTutuZu5QH52m) | [Lilizela](https://open.spotify.com/album/7fu3HcalZOuFuIsFTZ0NQA) | 6:45 |
 | 16 | [Selfish](https://open.spotify.com/track/0BanfnmhAdJdrnVGlNcJST) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Selfish](https://open.spotify.com/album/7dW4a3EzeFAHqwIQCShVsu) | 5:22 |
 | 17 | [Olunjena](https://open.spotify.com/track/2mERNWBjBpMlpPCOCHw3xJ) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5) | [Iscoco Sam](https://open.spotify.com/album/6FXXNl2RmMemouQ84aHGnw) | 3:19 |
 | 18 | [Lo engizomthola manje](https://open.spotify.com/track/5Ud9AglmSQDILqTS0sDn3n) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK) | [Lo engizomthola manje](https://open.spotify.com/album/6QTfpbJVuRJBtPdxi38F9N) | 4:41 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 94 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 |
 | 95 | [Mangibona Wena](https://open.spotify.com/track/4tsZyrzMjg17NoQQtrqojq) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Mangibona Wena](https://open.spotify.com/album/3LopGgCBqT5oOiATRsWMsh) | 3:50 |
 
-Snapshot ID: `AAAAABnyOW9o9/M5I3UNcZLEyVudYqhj`
+Snapshot ID: `AAAAALHnHTWUJ7c0B7d6tQMn9/XmVDFw`

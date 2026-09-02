@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 82619,
+  "num_followers": 82645,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAAArbXV4lt2Lkuk7Esyql4FF",
+  "snapshot_id": "apTEAAAAAAAMMeppra9q9X/72M9c4Mmu",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+        "name": "Salt And The Sea",
+        "url": "https://open.spotify.com/album/1ksJBCHOs130iPjAPz7yTz"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 239480,
-      "name": "Appaloosa Bones",
-      "url": "https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS"
+      "duration_ms": 262525,
+      "name": "Salt And The Sea",
+      "url": "https://open.spotify.com/track/6n2aRBhuQX54nQChcYYLmT"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salt And The Sea",
-        "url": "https://open.spotify.com/album/1ksJBCHOs130iPjAPz7yTz"
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 262525,
-      "name": "Salt And The Sea",
-      "url": "https://open.spotify.com/track/6n2aRBhuQX54nQChcYYLmT"
+      "duration_ms": 239480,
+      "name": "Appaloosa Bones",
+      "url": "https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS"
     },
     {
       "added_at": null,

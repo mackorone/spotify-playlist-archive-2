@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 
 > the best beats from new lofi in 2025, picked by our editors\. focus, chill, see you in 2026\. cover: Leavv
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,158 likes - 98 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,166 likes - 98 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 | 97 | [Solo](https://open.spotify.com/track/5RImZc9H7YL09uYtGJOyQ2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Solo](https://open.spotify.com/album/7gH5CBKgAqawLXRmbTFxnp) | 1:45 |
 | 98 | [Coffee Visit](https://open.spotify.com/track/27ms1wvWsuFCwUUEPtmmna) | [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Coffee Visit](https://open.spotify.com/album/5scRAyP8mVQVsWhoH0u4MZ) | 1:51 |
 
-Snapshot ID: `AAAAAIyYQwqToiliv3VJ9alF8oV5/rdu`
+Snapshot ID: `AAAAALKctBJDwhyLIem5C2QJTwzIikCq`

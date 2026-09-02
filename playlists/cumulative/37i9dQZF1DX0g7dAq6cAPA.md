@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-86 songs - 4 hr 28 min
+87 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [叶えちゃお](https://open.spotify.com/track/0DuKZazK7hATT0ycnAqqyA) | [カミハ☆マギカ](https://open.spotify.com/artist/24qLRcIuc6jVxzD82fcFAF) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection 2](https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ) | 3:51 | 2022-08-23 |  |
 | [君の銀の庭](https://open.spotify.com/track/5z0sTqtZ73NliGt9LYjUO4) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n) | 5:07 | 2022-08-23 |  |
 | [山茶花の跡](https://open.spotify.com/track/1ewrd7yGNQUquQgby3HD8C) | [時女静香\(CV:内田秀\)](https://open.spotify.com/artist/2jUOqvas7LKVBv5Z3apT6J), [広江ちはる\(CV:相良茉優\)](https://open.spotify.com/artist/4UPLP5kPamHkAVUhl2wk7q), [土岐すなお\(CV:大西亜玖璃\)](https://open.spotify.com/artist/2KRUEY27Eo3lC79i0ytDxj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection 2](https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ) | 4:22 | 2022-08-23 |  |
+| [彼方](https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [彼方](https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ) | 5:29 | 2026-09-01 |  |
 | [旬ノ痞、夢ノ痣](https://open.spotify.com/track/57hmF2LB04duuagw5mks2w) | [夜明すみれ\(CV:伊藤美来\)](https://open.spotify.com/artist/3ThhEBHZQDfXjRGLjASXZO), [日暮ふうか\(CV:豊田萌絵\)](https://open.spotify.com/artist/3pwju1HzFlGD6ryNVFabZY) | [旬ノ痞、夢ノ痣](https://open.spotify.com/album/0RUKC5eVQUJmbX8tvf4vZp) | 3:19 | 2025-10-21 |  |
 | [未来](https://open.spotify.com/track/210tDGTwv4EKo08kv3Az3K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt) | 4:32 | 2022-08-23 |  |
 | [演葬](https://open.spotify.com/track/0h14PnOE5asXq6oNAE8XxR) | [氷室ラビ\(CV:指出毬亜\)](https://open.spotify.com/artist/3KnV3YQwxB3xbMSNtyNw8P), [三浦旭\(CV:入江麻衣子\)](https://open.spotify.com/artist/6qu5SinDVQbFjTxDnjHpul), [栗栖アレクサンドラ\(CV:早瀬莉花\)](https://open.spotify.com/artist/6uzbFDfk3jMV7ZY2Mj8POe), [有愛うらら\(CV:丸岡和佳奈\)](https://open.spotify.com/artist/6fryL9K2Ph0foymc7biynb) | [演葬](https://open.spotify.com/album/1TCsRPEMCRgQ30tvw7aT1k) | 4:16 | 2022-08-23 |  |

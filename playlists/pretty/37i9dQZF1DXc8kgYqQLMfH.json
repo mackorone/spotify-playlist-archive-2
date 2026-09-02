@@ -1,12 +1,12 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1118343,
+  "num_followers": 1118392,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKN8G7EmLdHmQiz2DRk7pP/BCd7d",
+  "snapshot_id": "AAAAAD4KBI2ULf7ldG5JfcO1BvmCcNBS",
   "tracks": [
     {
       "added_at": "2026-08-28 09:02:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "amber flow",
-        "url": "https://open.spotify.com/album/0HJrM0DBWb9eHTrzOrKVIr"
-      },
-      "artists": [
-        {
-          "name": "quiet arcade",
-          "url": "https://open.spotify.com/artist/5rriJFWWklMuztCTeJLauH"
-        }
-      ],
-      "duration_ms": 167603,
-      "name": "amber flow",
-      "url": "https://open.spotify.com/track/0C5sdAiJAV1HwTaqJGgqrU"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 102447,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "amber flow",
+        "url": "https://open.spotify.com/album/0HJrM0DBWb9eHTrzOrKVIr"
+      },
+      "artists": [
+        {
+          "name": "quiet arcade",
+          "url": "https://open.spotify.com/artist/5rriJFWWklMuztCTeJLauH"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "amber flow",
+      "url": "https://open.spotify.com/track/0C5sdAiJAV1HwTaqJGgqrU"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "water lilies",
-        "url": "https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa"
-      },
-      "artists": [
-        {
-          "name": "wuy-wuy",
-          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "water lilies",
-      "url": "https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "mellow out",
         "url": "https://open.spotify.com/album/6UQUFb9OwDxj1Nm8H15tcf"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 122919,
       "name": "mellow out",
       "url": "https://open.spotify.com/track/3Nrvm4lMBMb7yem6dUnOdt"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "water lilies",
+        "url": "https://open.spotify.com/album/0j8qrnO2gN6lL6W9fGYiWa"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "water lilies",
+      "url": "https://open.spotify.com/track/3yMn2sp3d6BBdb1xXaBVK3"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -611,6 +611,22 @@
       "duration_ms": 175238,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Quietude",
+        "url": "https://open.spotify.com/album/2bQqjXPv0U52wf7p1bohPj"
+      },
+      "artists": [
+        {
+          "name": "Rainbows & Clouds",
+          "url": "https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Quietude",
+      "url": "https://open.spotify.com/track/4y3mdViy762R955psB5OhT"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -643,22 +659,6 @@
       "duration_ms": 138483,
       "name": "desert lake",
       "url": "https://open.spotify.com/track/2CNhdFBEzpNIDqkjBew6kN"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Quietude",
-        "url": "https://open.spotify.com/album/2bQqjXPv0U52wf7p1bohPj"
-      },
-      "artists": [
-        {
-          "name": "Rainbows & Clouds",
-          "url": "https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Quietude",
-      "url": "https://open.spotify.com/track/4y3mdViy762R955psB5OhT"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "Dew",
-        "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
-      },
-      "artists": [
-        {
-          "name": "Indigo Songs",
-          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Dew",
-      "url": "https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "Pattern",
         "url": "https://open.spotify.com/album/0qSjBjBTS4PoP3hi7uaVJg"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 122181,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/6zDF9n0JB6caYu47scY6Fi"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Dew",
+        "url": "https://open.spotify.com/album/5KpuEUwL4XynImLdxGg8c4"
+      },
+      "artists": [
+        {
+          "name": "Indigo Songs",
+          "url": "https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Dew",
+      "url": "https://open.spotify.com/track/6gbLL8NhpJ4PVTvII1MWp7"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -935,6 +935,22 @@
       "duration_ms": 132727,
       "name": "Lantern",
       "url": "https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "when it is gone",
+        "url": "https://open.spotify.com/album/29I8NfLlSHlmMZ61GXaDEU"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "when it is gone",
+      "url": "https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "Blocks EP",
-        "url": "https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx"
-      },
-      "artists": [
-        {
-          "name": "iasilma",
-          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
-        }
-      ],
-      "duration_ms": 153637,
-      "name": "Open Sea",
-      "url": "https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "City Slumber",
         "url": "https://open.spotify.com/album/3LFKhcJRHralwHO3i24jeL"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 140000,
       "name": "City Slumber",
       "url": "https://open.spotify.com/track/2fJpL4FueJLloOBvP0NevD"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Blocks EP",
+        "url": "https://open.spotify.com/album/191XhtmTNCKVKH9qEgbhgx"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "duration_ms": 153637,
+      "name": "Open Sea",
+      "url": "https://open.spotify.com/track/2U6agF4eXkclFkvVH6vipD"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "when it is gone",
-        "url": "https://open.spotify.com/album/29I8NfLlSHlmMZ61GXaDEU"
-      },
-      "artists": [
-        {
-          "name": "Kichiro",
-          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "when it is gone",
-      "url": "https://open.spotify.com/track/0zF8x6GLmKw9Qg5L8ydvAG"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "Dotted Eyes",
         "url": "https://open.spotify.com/album/6Z5JF5945fPZl8fTyDvKCZ"
       },
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
+        "name": "Him & Her",
+        "url": "https://open.spotify.com/album/0OCVJHGPMUguZzz8jxSiPb"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Him & Her",
+      "url": "https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/3ATlgaIBgAPLH2inuQTQfm"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 130909,
       "name": "mixing it up",
       "url": "https://open.spotify.com/track/0k885tXqIL3MkJtBxIZzTN"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Him & Her",
-        "url": "https://open.spotify.com/album/0OCVJHGPMUguZzz8jxSiPb"
-      },
-      "artists": [
-        {
-          "name": "Pearldiver",
-          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "Him & Her",
-      "url": "https://open.spotify.com/track/6kUwrt8mM8wf0Od8UvoxOa"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V"
+      },
+      "artists": [
+        {
+          "name": "Oroshi",
+          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
         "name": "BLANKETS & TEA",
         "url": "https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 153600,
       "name": "Theoretical",
       "url": "https://open.spotify.com/track/0PZZO3Ja2oqiKS6DkSDn5r"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V"
-      },
-      "artists": [
-        {
-          "name": "Oroshi",
-          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
-        }
-      ],
-      "duration_ms": 153362,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "Floating Motion",
-        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
-      },
-      "artists": [
-        {
-          "name": "Lazarus best for us",
-          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
-        }
-      ],
-      "duration_ms": 150051,
-      "name": "Turning Into Something Else",
-      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "no stress",
         "url": "https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy"
       },
@@ -1623,34 +1607,18 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "Isiah",
-        "url": "https://open.spotify.com/album/1ggc6pcvji5xQkEbZKuwnK"
+        "name": "Floating Motion",
+        "url": "https://open.spotify.com/album/3Qy1MIESJijAvAAQbLs5EZ"
       },
       "artists": [
         {
-          "name": "Dream Web",
-          "url": "https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES"
+          "name": "Lazarus best for us",
+          "url": "https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH"
         }
       ],
-      "duration_ms": 158273,
-      "name": "Isiah",
-      "url": "https://open.spotify.com/track/4gvMukwB7duTnNiZCEojuc"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Tatami Haze",
-        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
-      },
-      "artists": [
-        {
-          "name": "Cloudroom",
-          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
-        }
-      ],
-      "duration_ms": 124153,
-      "name": "Tatami Haze",
-      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
+      "duration_ms": 150051,
+      "name": "Turning Into Something Else",
+      "url": "https://open.spotify.com/track/6jEzUbuKsjTVbphohOyz82"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1671,6 +1639,38 @@
       "duration_ms": 106400,
       "name": "night sky",
       "url": "https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Isiah",
+        "url": "https://open.spotify.com/album/1ggc6pcvji5xQkEbZKuwnK"
+      },
+      "artists": [
+        {
+          "name": "Dream Web",
+          "url": "https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES"
+        }
+      ],
+      "duration_ms": 158273,
+      "name": "Isiah",
+      "url": "https://open.spotify.com/track/4gvMukwB7duTnNiZCEojuc"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Multiverse",
+        "url": "https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR"
+      },
+      "artists": [
+        {
+          "name": "Glow Down",
+          "url": "https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1711,38 +1711,6 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "Multiverse",
-        "url": "https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR"
-      },
-      "artists": [
-        {
-          "name": "Glow Down",
-          "url": "https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Multiverse",
-      "url": "https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Pisa",
-        "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
-      },
-      "artists": [
-        {
-          "name": "Tuva Sersh",
-          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Pisa",
-      "url": "https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
         "name": "rainy nights",
         "url": "https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U"
       },
@@ -1763,6 +1731,22 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
+        "name": "Pisa",
+        "url": "https://open.spotify.com/album/5z1vV0FxJ7UNcmHp4aRVfj"
+      },
+      "artists": [
+        {
+          "name": "Tuva Sersh",
+          "url": "https://open.spotify.com/artist/7iM8O4ZKvjeOFDPBkxncPk"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Pisa",
+      "url": "https://open.spotify.com/track/46atmNl6nPzZuj6qAzBgpi"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
         "name": "Urban Summer",
         "url": "https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 162000,
       "name": "Urban Summer",
       "url": "https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "Tatami Haze",
+        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "Tatami Haze",
+      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
+        "name": "bubble push",
+        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "bubble push",
+      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
         "name": "ripple",
         "url": "https://open.spotify.com/album/2aDD0xJyadV6hisCeSiAhP"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 79820,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/3dvmaIJTD7TA8WTabeXweY"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "bubble push",
-        "url": "https://open.spotify.com/album/4VYVzBgByeQ3ZVXNZH00t8"
-      },
-      "artists": [
-        {
-          "name": "skrn",
-          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "bubble push",
-      "url": "https://open.spotify.com/track/4Czm8OnKq6sZ2RFpbgVjai"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
+        "name": "Chin Up",
+        "url": "https://open.spotify.com/album/3MlBKLOvLgdc3cfjAoWlhu"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Chin Up",
+      "url": "https://open.spotify.com/track/73OzFFh7XcY1okTKqVopXS"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
         "name": "Staring Out The Window",
         "url": "https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR"
       },
@@ -2107,6 +2123,22 @@
       "duration_ms": 138082,
       "name": "Staring Out The Window",
       "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
+    },
+    {
+      "added_at": "2026-08-28 09:02:47",
+      "album": {
+        "name": "oxnard village",
+        "url": "https://open.spotify.com/album/6d5FWl7uVJszLxZIJk4Q6C"
+      },
+      "artists": [
+        {
+          "name": "moodsinger",
+          "url": "https://open.spotify.com/artist/5Sb19EofLxyxtjsQH7BDjn"
+        }
+      ],
+      "duration_ms": 104049,
+      "name": "oxnard village",
+      "url": "https://open.spotify.com/track/30IZjGcc7u67oUoyXnjFgp"
     },
     {
       "added_at": "2026-08-28 09:02:47",
@@ -2131,54 +2163,18 @@
     {
       "added_at": "2026-08-28 09:02:47",
       "album": {
-        "name": "oxnard village",
-        "url": "https://open.spotify.com/album/6d5FWl7uVJszLxZIJk4Q6C"
+        "name": "Channel 4",
+        "url": "https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2"
       },
       "artists": [
         {
-          "name": "moodsinger",
-          "url": "https://open.spotify.com/artist/5Sb19EofLxyxtjsQH7BDjn"
+          "name": "Gibbon Baby",
+          "url": "https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz"
         }
       ],
-      "duration_ms": 104049,
-      "name": "oxnard village",
-      "url": "https://open.spotify.com/track/30IZjGcc7u67oUoyXnjFgp"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "Chin Up",
-        "url": "https://open.spotify.com/album/3MlBKLOvLgdc3cfjAoWlhu"
-      },
-      "artists": [
-        {
-          "name": "Plaxon",
-          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Chin Up",
-      "url": "https://open.spotify.com/track/73OzFFh7XcY1okTKqVopXS"
-    },
-    {
-      "added_at": "2026-08-28 09:02:47",
-      "album": {
-        "name": "your touch",
-        "url": "https://open.spotify.com/album/0FizTcx2RkNHAlWjTs2Dbt"
-      },
-      "artists": [
-        {
-          "name": "Kichiro",
-          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
-        },
-        {
-          "name": "jeppa.",
-          "url": "https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69"
-        }
-      ],
-      "duration_ms": 148872,
-      "name": "your touch",
-      "url": "https://open.spotify.com/track/4yMVLHxIKJT3s4vwReJCMJ"
+      "duration_ms": 127058,
+      "name": "Channel 4",
+      "url": "https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna"
     }
   ],
   "unique_name": "slow living",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/774bhbkjlCL3S34aYXreF4"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165610,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/5Zt8EeE4G0oRRWCcNG5M3X"
+    },
+    {
+      "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/5MmlbyI4DHDu6jqlkapGw8"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 154261,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg"
+    },
+    {
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/7yYMssiAqkt52ZuqSuxUS6"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
     },
     {
       "album": {
@@ -270,7 +306,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -292,6 +328,28 @@
       "duration_ms": 341994,
       "name": "FALLEN ANGEL",
       "url": "https://open.spotify.com/track/2fv6hCSa1vTBCcEyjbuBAP"
+    },
+    {
+      "album": {
+        "name": "Free Melly (feat. YNW Melly)",
+        "url": "https://open.spotify.com/album/3tUIXwxd8UEdhgU63MKWz9"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231146,
+      "name": "Free Melly (feat. YNW Melly)",
+      "url": "https://open.spotify.com/track/7FqvHKhdmWeAbKC0xaCwO3"
     },
     {
       "album": {
@@ -567,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/4oAhKpfMVpiMDKqnMHha7Q"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201850,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
+    },
+    {
+      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/6HFlR3HLQuVA9KLassXjmb"
       },
@@ -585,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255284,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/5vKwre9PNjKt6RLyDIaZ11"
       },
@@ -596,7 +690,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -614,7 +708,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 274285,
       "name": "Move Like You Do",
       "url": "https://open.spotify.com/track/3mkiclDD4FKpWTAQLDHzBM"
@@ -723,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/4BfXBNMwUjRE82v8yy7Gre"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185365,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/22CA8GnsXHYdTmuuF4ZGOb"
+    },
+    {
+      "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/0dhHvaHUgsi23dD2NypxZu"
       },
@@ -752,7 +864,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 141424,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/1EHCnOWgVYDT73IrJU9Je3"
@@ -777,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/5NqwgBT4ZeQzVIr9r0YbxN"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341290,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
+    },
+    {
+      "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/6HllSbh2yFTzs0xmQpq6RF"
       },
@@ -788,7 +918,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 565866,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/7nXL24YeHwgPdHZ4bdIMST"
@@ -878,7 +1008,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 193097,
       "name": "This & That",
       "url": "https://open.spotify.com/track/31hZPeh2miFTgV9CliokH0"
@@ -918,7 +1048,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 199893,
       "name": "Waka Waka (This Time For Africa) (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/1u9rMxeJOgGjzEWBpZdzw3"

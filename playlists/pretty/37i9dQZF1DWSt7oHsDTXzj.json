@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 271219,
+  "num_followers": 271207,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbOauhnvbDliFN1rTtZSA95q9S9",
+  "snapshot_id": "AAAAABFtvOhZZT8W0L9gDplYjB4AoKUB",
   "tracks": [
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "santa baby",
         "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 159209,
       "name": "santa baby",
       "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
     },
     {
       "added_at": "2025-12-17 22:42:18",

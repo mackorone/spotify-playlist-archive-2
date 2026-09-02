@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > Listen to women at full volume! 香港EQUAL女聲力量！\(cover: WHIZZ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,793 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,792 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [請勿打擾](https://open.spotify.com/track/7twG2CRpGRXfsaOagX74zR) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [請勿打擾](https://open.spotify.com/album/5BxQn7C8EmSKxNPq1fdoac) | 3:27 |
 | 50 | [作賤](https://open.spotify.com/track/55jgSPkET7IS8KORroxhXy) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [作賤](https://open.spotify.com/album/2SBJ4J3u7IWe308Ah4KVVi) | 3:22 |
 
-Snapshot ID: `AAAAALCA6T2P+v7CwKreI3+Ux5uzS1hY`
+Snapshot ID: `AAAAAHC/4cYkteYT51i2ujCMhBfdyyk3`

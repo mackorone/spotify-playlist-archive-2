@@ -4,7 +4,7 @@
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-428 songs - 1 day 1 hr 38 min
+429 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Carita de Ángel](https://open.spotify.com/track/7oeWNxDXjmD6fLyunLunVa) | [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn), [Los Graduados](https://open.spotify.com/artist/1JldSq8x5MHlqxHVMDEnlF) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 2:53 | 2023-12-20 | 2025-12-02 |
 | [Cariñito](https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Listos para Bailar](https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM) | 3:46 | 2023-12-20 | 2026-08-25 |
 | [Cariñito](https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [De Peligro](https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k) | 3:50 | 2023-12-20 | 2024-04-19 |
+| [Cariñito](https://open.spotify.com/track/36Hsi77ifXxU6nxmgnzjWx) | [Rodolfo Aicardi Con Los Hispanos](https://open.spotify.com/artist/1Gtxrj70lCbBUqzW01Ohtv) | [Grandes Hits: Rodolfo Aicardi](https://open.spotify.com/album/71j4EEfYaoeR1gACT0QCvd) | 3:46 | 2026-02-23 |  |
 | [Cariñito \(Live\)](https://open.spotify.com/track/3vPtbRkj6qGEm244ULVQ4R) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:46 | 2023-12-05 | 2024-02-17 |
 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 | 2023-11-09 | 2026-02-24 |
 | [Cayetano Baila](https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 2:49 | 2024-10-17 | 2025-11-17 |
@@ -228,7 +229,7 @@
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 |  |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-11-09 | 2026-02-24 |
 | [La Verraquera](https://open.spotify.com/track/1JesvLqnsuoB0JD9bv8SxT) | [Octavio Mesa Y Su Conjunto](https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr) | [Relajos del Arriero](https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB) | 2:14 | 2026-05-29 | 2026-08-25 |
-| [La Vida Es un Rato](https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU) | [Dueto Revelación](https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW) | [La Bohemia Popular](https://open.spotify.com/album/63q9tqt6o9nMgBqyRNOOp9) | 3:43 | 2026-02-23 |  |
+| [La Vida Es un Rato](https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU) | [Dueto Revelación](https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW) | [La Bohemia Popular](https://open.spotify.com/album/63q9tqt6o9nMgBqyRNOOp9) | 3:43 | 2026-02-23 | 2026-09-02 |
 | [La Yerbita](https://open.spotify.com/track/5pGhOX0wMnLlTNt24lSQmW) | [Los Corraleros del Majagual](https://open.spotify.com/artist/1LwOYG7BXK00xst0F5LrGn) | [2 Estilos Colombianos](https://open.spotify.com/album/1itueHqAKtSBJAcGbvV0sO) | 2:48 | 2025-09-09 | 2025-10-04 |
 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 | 2024-09-01 | 2025-10-04 |
 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 | 2023-12-20 | 2025-11-03 |

@@ -1,12 +1,12 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 841871,
+  "num_followers": 841721,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMo23eB6aKi2KaU4RYRpsflf011k",
+  "snapshot_id": "AAAAABoq0eKogUyntEq1FX2CItmWQEO/",
   "tracks": [
     {
       "added_at": "2026-08-05 08:45:46",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "So Into You",
+      "url": "https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 247226,
+      "name": "High For This",
+      "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 247226,
-      "name": "High For This",
-      "url": "https://open.spotify.com/track/5fohLPNqO6TqwrZ7BoUWUT"
     },
     {
       "added_at": "2026-08-05 08:45:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "Pano Na",
-        "url": "https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX"
-      },
-      "artists": [
-        {
-          "name": "Lo ki",
-          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
-        }
-      ],
-      "duration_ms": 200878,
-      "name": "Pano Na",
-      "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
-    },
-    {
-      "added_at": "2026-08-05 08:45:46",
-      "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
+    {
+      "added_at": "2026-08-05 08:45:46",
+      "album": {
+        "name": "Pano Na",
+        "url": "https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "duration_ms": 200878,
+      "name": "Pano Na",
+      "url": "https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY"
     },
     {
       "added_at": "2026-08-05 08:45:46",

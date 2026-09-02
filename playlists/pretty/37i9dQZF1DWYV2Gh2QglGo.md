@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Jess Moskaluke
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,319 likes - 185 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,377 likes - 185 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 184 | [Fools](https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Paradise & Hurricanes](https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx) | 3:24 |
 | 185 | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/track/6Q3lIX5uEqiTxt2cwvyl0R) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [the acrobat \(feat\. Lori McKenna\)](https://open.spotify.com/album/3n4Sz8AuTYmtgbPA58X9MK) | 3:54 |
 
-Snapshot ID: `AAAAACMbt34j8NRk6OZ1w1gBcgXv1pR+`
+Snapshot ID: `AAAAACDh+bHeYLuUqUP7evhukzxpZ02E`

@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 129469,
+  "num_followers": 129460,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGf48tGcQZ9j4xptoDo2PyNjyKP",
+  "snapshot_id": "AAAAADZptsMhJtlGcC0ukUmiRuZ9h2VJ",
   "tracks": [
     {
       "added_at": "2024-07-12 23:20:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Ma\u00e7ka Yollar\u0131",
-      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 210850,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Ma\u00e7ka Yollar\u0131",
+      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 240399,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "It's Still Cool If You Don't",
         "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 237413,
       "name": "It's Still Cool If You Don't",
       "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 240399,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Awkward",
-        "url": "https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX"
-      },
-      "artists": [
-        {
-          "name": "San Cisco",
-          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
-        }
-      ],
-      "duration_ms": 153933,
-      "name": "Awkward - EP Version",
-      "url": "https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Tasmania",
         "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 244253,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Awkward",
+        "url": "https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX"
+      },
+      "artists": [
+        {
+          "name": "San Cisco",
+          "url": "https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0"
+        }
+      ],
+      "duration_ms": 153933,
+      "name": "Awkward - EP Version",
+      "url": "https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Strong Feelings",
-        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Strong Feelings",
-      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Prisoners",
         "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 266586,
       "name": "Prisoners",
       "url": "https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Strong Feelings",
+        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Strong Feelings",
+      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
     },
     {
       "added_at": "2024-07-12 23:20:36",

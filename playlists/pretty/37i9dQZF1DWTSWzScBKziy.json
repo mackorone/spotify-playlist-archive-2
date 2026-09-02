@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Anne Wilson",
-  "num_followers": 438016,
+  "num_followers": 438092,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFl58sfGQqUU6yhkb9IzEMB4bs2o",
+  "snapshot_id": "AAAAABMy+IM8OnoQxm1U5TQXG4PbJywH",
   "tracks": [
     {
       "added_at": "2026-08-21 09:34:27",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "For Christ Alone",
-        "url": "https://open.spotify.com/album/6XyZQneh11X5ZCESjUbIDc"
+        "name": "alle",
+        "url": "https://open.spotify.com/album/36aAA4soWIatiSyF7oJaBD"
       },
       "artists": [
         {
-          "name": "2819 Worship",
-          "url": "https://open.spotify.com/artist/6d6h6Yy5YXwnyM1AZpomir"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 779330,
-      "name": "For Christ Alone",
-      "url": "https://open.spotify.com/track/7Bo3bNQF6DJ9mKHwvymFZb"
+      "duration_ms": 196498,
+      "name": "alle",
+      "url": "https://open.spotify.com/track/1HHxQeNb0BwrhUIbQegebj"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "alle",
-        "url": "https://open.spotify.com/album/36aAA4soWIatiSyF7oJaBD"
+        "name": "For Christ Alone",
+        "url": "https://open.spotify.com/album/6XyZQneh11X5ZCESjUbIDc"
       },
       "artists": [
         {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "2819 Worship",
+          "url": "https://open.spotify.com/artist/6d6h6Yy5YXwnyM1AZpomir"
         }
       ],
-      "duration_ms": 196498,
-      "name": "alle",
-      "url": "https://open.spotify.com/track/1HHxQeNb0BwrhUIbQegebj"
+      "duration_ms": 779330,
+      "name": "For Christ Alone",
+      "url": "https://open.spotify.com/track/7Bo3bNQF6DJ9mKHwvymFZb"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Lover Of My Life (I Need You)",
+        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "duration_ms": 247094,
+      "name": "Lover Of My Life (I Need You)",
+      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "His Favorite",
         "url": "https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI"
       },
@@ -443,18 +459,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Lover Of My Life (I Need You)",
-        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
       },
       "artists": [
         {
-          "name": "Charles Weems",
-          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matt Janney",
+          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
         }
       ],
-      "duration_ms": 247094,
-      "name": "Lover Of My Life (I Need You)",
-      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
+      "duration_ms": 280250,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -499,26 +519,6 @@
       "duration_ms": 231901,
       "name": "YOU CAN ALWAYS COME BACK HOME",
       "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Matt Janney",
-          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
-        }
-      ],
-      "duration_ms": 280250,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "The Art Of Letting Go",
-        "url": "https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "How Great Is The Greatness Of God",
         "url": "https://open.spotify.com/album/6kxhiPvCosAl1WkkEwDghM"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 211353,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "Younger Days",
         "url": "https://open.spotify.com/album/6TpOtiUS1oU0mnQWQ4HQwC"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 198576,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/5cxYW5l0N2Zw5V6ha1ME4j"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "The Art Of Letting Go",
+        "url": "https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 211353,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -751,6 +751,22 @@
       "duration_ms": 359723,
       "name": "What Can I Say But Thank You - Live",
       "url": "https://open.spotify.com/track/5BxcFUyiqA7hbCQVI0UMvN"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "duration_ms": 594825,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -803,22 +819,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 594825,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "Keep Praying",
         "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
+        "name": "Known and Loved (Oliver's Song)",
+        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 174750,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
+      "duration_ms": 229835,
+      "name": "Known and Loved (Oliver's Song)",
+      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Known and Loved (Oliver's Song)",
-        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 229835,
-      "name": "Known and Loved (Oliver's Song)",
-      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
+      "duration_ms": 174750,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "ascent",
-        "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 173734,
-      "name": "ascent",
-      "url": "https://open.spotify.com/track/5yLxxBV99TdWRa9tHPsu58"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "LOOKING FOR WATER",
         "url": "https://open.spotify.com/album/1PZMcy9WWf7iksvBarSRqY"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "My Hope",
-        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
+        "name": "ascent",
+        "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
       },
       "artists": [
         {
-          "name": "Caleb & John",
-          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 185676,
-      "name": "My Hope",
-      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
+      "duration_ms": 173734,
+      "name": "ascent",
+      "url": "https://open.spotify.com/track/5yLxxBV99TdWRa9tHPsu58"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Jesus Girl",
+        "url": "https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 230988,
+      "name": "Jesus Girl",
+      "url": "https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/0uJ6qnelHIR2ZilKEVn9QL"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 205682,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/4CVx0LREKIUAbcvUMDoWvy"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "My Hope",
+        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        }
+      ],
+      "duration_ms": 185676,
+      "name": "My Hope",
+      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1035,18 +1051,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Jesus Girl",
-        "url": "https://open.spotify.com/album/3tlOXJ3edt3rFexxz6I9Fj"
+        "name": "Adonai (Satisfied)",
+        "url": "https://open.spotify.com/album/4GAOw7vI7I4bzLPrhQbhwf"
       },
       "artists": [
         {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+          "name": "Circle Worship",
+          "url": "https://open.spotify.com/artist/5WT2vDQ8P4yY5fvX8ErjHf"
+        },
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 230988,
-      "name": "Jesus Girl",
-      "url": "https://open.spotify.com/track/5oNoj8Zpm2y2BUM8TVxLO0"
+      "duration_ms": 305542,
+      "name": "Adonai (Satisfied)",
+      "url": "https://open.spotify.com/track/0JI7YvinW8vYLXxS6J3GTC"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1067,26 +1087,6 @@
       "duration_ms": 534833,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/5Ieh8xRdasawppGqAALQJc"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Adonai (Satisfied)",
-        "url": "https://open.spotify.com/album/4GAOw7vI7I4bzLPrhQbhwf"
-      },
-      "artists": [
-        {
-          "name": "Circle Worship",
-          "url": "https://open.spotify.com/artist/5WT2vDQ8P4yY5fvX8ErjHf"
-        },
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 305542,
-      "name": "Adonai (Satisfied)",
-      "url": "https://open.spotify.com/track/0JI7YvinW8vYLXxS6J3GTC"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "DEAD IN THE WATER",
-        "url": "https://open.spotify.com/album/6MbOzUTYBPzcKFym4mStnG"
-      },
-      "artists": [
-        {
-          "name": "TEMITOPE",
-          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
-        }
-      ],
-      "duration_ms": 229592,
-      "name": "DEAD IN THE WATER",
-      "url": "https://open.spotify.com/track/7EVdKmLwyM7EaoztxoZzOU"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "Wake Up Sleeper",
         "url": "https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 194192,
       "name": "Wake Up Sleeper",
       "url": "https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "DEAD IN THE WATER",
+        "url": "https://open.spotify.com/album/6MbOzUTYBPzcKFym4mStnG"
+      },
+      "artists": [
+        {
+          "name": "TEMITOPE",
+          "url": "https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25"
+        }
+      ],
+      "duration_ms": 229592,
+      "name": "DEAD IN THE WATER",
+      "url": "https://open.spotify.com/track/7EVdKmLwyM7EaoztxoZzOU"
     },
     {
       "added_at": "2026-08-21 09:34:27",

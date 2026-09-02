@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist frá Alaska1867, Alex Warren og mörgum fleirum!
 
-12,001 songs - 26 day 20 hr 20 min
+12,002 songs - 26 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2687,7 +2687,7 @@
 | [Don't Say It's Too Late](https://open.spotify.com/track/6DXNA62WqkPUM1WBpub0KG) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25) | [Don't Say It's Too Late](https://open.spotify.com/album/4fCpB8yDhUiKQybqbGxGDt) | 4:25 | 2024-12-06 | 2024-12-14 |
 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 | 2026-03-20 | 2026-03-27 |
 | [Don't Say You Love Me](https://open.spotify.com/track/5GwYOyIbkCS9HVdOBAwRog) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Don't Say You Love Me](https://open.spotify.com/album/3c8XPyoCW8d30Jmhlye9TF) | 2:43 | 2026-03-06 | 2026-03-13 |
-| [Don't Sleep](https://open.spotify.com/track/2RojgoqZTUPgAUZHisz7tZ) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Don't Sleep](https://open.spotify.com/album/2hUcfW8MmeYUSdomygWWuh) | 4:13 | 2026-08-28 | 2026-08-30 |
+| [Don't Sleep](https://open.spotify.com/track/2RojgoqZTUPgAUZHisz7tZ) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Don't Sleep](https://open.spotify.com/album/2hUcfW8MmeYUSdomygWWuh) | 4:13 | 2026-08-28 |  |
 | [Don't Speak](https://open.spotify.com/track/3iegKMcDwOdWtOUgwa4afJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Don't Speak](https://open.spotify.com/album/72AWK6AZ95LODDCjLJnoqX) | 2:46 | 2024-06-07 | 2024-06-14 |
 | [Don't Stop](https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX) | [Ludwig Hart](https://open.spotify.com/artist/74ELd1GTp5fY2NFCiY5RNl) | [Stay Young](https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79) | 3:15 | 2024-09-27 | 2024-10-04 |
 | [Don't Stop](https://open.spotify.com/track/1exrUHaSRlgqZspTt4iRpB) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Don't Stop](https://open.spotify.com/album/55vK8u3nIuOGLwg2t2TwmE) | 2:57 | 2024-09-20 | 2024-09-27 |
@@ -5744,7 +5744,7 @@
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-03 | 2024-05-10 |
 | [Kimpton](https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kimpton](https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21) | 3:48 | 2025-04-18 | 2025-04-25 |
 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 | 2026-07-24 | 2026-07-31 |
-| [Kind of Fantasy](https://open.spotify.com/track/0ZYfDHrKS3Rnh1LbvOUlxp) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Kind of Fantasy](https://open.spotify.com/album/4kDvsNQQjUwqvLQ2p0AVfw) | 4:06 | 2026-08-28 |  |
+| [Kind of Fantasy](https://open.spotify.com/track/0ZYfDHrKS3Rnh1LbvOUlxp) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Kind of Fantasy](https://open.spotify.com/album/4kDvsNQQjUwqvLQ2p0AVfw) | 4:06 | 2026-08-28 | 2026-09-02 |
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-05-17 | 2024-05-24 |
 | [Kind to You](https://open.spotify.com/track/365hkQZvqYIDGhCGm8ZXwu) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Kind to You](https://open.spotify.com/album/63MKGs5hv3278XjoQblvf3) | 3:15 | 2024-08-30 | 2024-09-06 |
 | [Kinda Single \(feat\. Lee Brice\)](https://open.spotify.com/track/2Bo0E6nycSb3XzjHkvKOQ0) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Kinda Single \(feat\. Lee Brice\)](https://open.spotify.com/album/45Dwlv50JKT3nkDRIr13rv) | 3:19 | 2025-08-29 | 2025-09-06 |
@@ -10912,7 +10912,8 @@
 | [U know](https://open.spotify.com/track/3kS86aHE3z4zRiNBRybTRC) | [Linnea Awad](https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU) | [Hear me, see me](https://open.spotify.com/album/0ZPM92L33pbfILOp2nEjR2) | 3:24 | 2025-02-07 | 2025-02-14 |
 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 | 2026-07-17 | 2026-07-24 |
 | [U know me](https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Marz Fay](https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i) | [U know me](https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw) | 3:14 | 2026-08-28 |  |
-| [U MAKE ME](https://open.spotify.com/track/3ngFA9Oyn8YcVA8saDaUAM) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [U MAKE ME](https://open.spotify.com/album/26O2AFUClKmfRL2NsCnLHT) | 2:56 | 2026-08-28 |  |
+| [U MAKE ME](https://open.spotify.com/track/3ngFA9Oyn8YcVA8saDaUAM) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [U MAKE ME](https://open.spotify.com/album/26O2AFUClKmfRL2NsCnLHT) | 2:56 | 2026-08-28 | 2026-09-02 |
+| [u make me feel alive](https://open.spotify.com/track/0YxydWXWSf9oUdftt0dXaH) | [Sindresu](https://open.spotify.com/artist/76ABe2gQodROtWDOWQRL9J) | [u make me feel alive](https://open.spotify.com/album/0hFEerEBOcAsHFKiHkHwOs) | 3:03 | 2026-08-28 |  |
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-02 | 2025-05-09 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-24 | 2024-06-01 |
 | [UFO](https://open.spotify.com/track/5gQOBdedMe34aqGm6H5eVm) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [UFO](https://open.spotify.com/album/58oyRiHptdbnSqw8lZTRdx) | 2:47 | 2026-06-19 | 2026-06-26 |

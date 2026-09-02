@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,064 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,067 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 46 | [Piece en forme de habanera: Vocalise\-etude en forme de habanera \(Arr\. For theremin and piano\)](https://open.spotify.com/track/7MHZLkzhdDKi1F46A4F4nW) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Rachmaninov, S.: Vocalise / Saint\-Saens, C.: Le Cygne / Falla, M.: El Amor Brujo / Achron, J.: Hebrew Melody \(The Art of the Theremin\)](https://open.spotify.com/album/4m0wpnl7Db40DawENitc78) | 2:45 |
 | 47 | [Theremin Sonata No\. 1: I\. Moderato](https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz) | [Christopher Tarnow](https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Tarnow: Theremin Sonatas](https://open.spotify.com/album/70enQr7njOjNNd08lKp72H) | 7:42 |
 | 48 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
-| 49 | [Je Crois Entendre Encore](https://open.spotify.com/track/1ybXUJcVT5W32Kaii6sJJo) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 4:02 |
+| 49 | [Casta Diva](https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 5:41 |
 | 50 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 
-Snapshot ID: `AAAAAAHhLLoya2Vl6H8fW3fcsPqNqhmQ`
+Snapshot ID: `AAAAAD1djcA84kMu3QtTJ9HYoN3vT4fu`

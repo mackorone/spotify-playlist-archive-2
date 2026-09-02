@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158358,
+  "num_followers": 158354,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIcq3djk+SaCzVJOoqnX1VJHmjIU",
+  "snapshot_id": "AAAAAIWWAn+W8gzWh+Ua0RLAichxxm+q",
   "tracks": [
     {
       "added_at": "2026-05-22 07:11:08",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "American Wedding",
-        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 191943,
-      "name": "American Wedding",
-      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Hjemme",
-        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 236619,
-      "name": "Hjemme",
-      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
+      "duration_ms": 191943,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1055,6 +1039,22 @@
       "duration_ms": 185338,
       "name": "jeg holder pusten til du drar",
       "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Hjemme",
+        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 236619,
+      "name": "Hjemme",
+      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
+        "name": "Skyfri himmel",
+        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "Skyfri himmel",
+      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 175360,
       "name": "Hva vi kunne bli",
       "url": "https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
-        "name": "Skyfri himmel",
-        "url": "https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "Skyfri himmel",
-      "url": "https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za"
     },
     {
       "added_at": "2026-05-22 07:11:08",

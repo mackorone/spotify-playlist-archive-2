@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u5bb6\u5165\u30ec\u30aa",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u4e0a\u767d\u77f3\u840c\u97f3",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -1282,6 +1282,24 @@
       "duration_ms": 232320,
       "name": "A Night In New York",
       "url": "https://open.spotify.com/track/5y6bE77GjfwJLtWEU5v92x"
+    },
+    {
+      "album": {
+        "name": "A Planet of Two",
+        "url": "https://open.spotify.com/album/0PrxRl8sjU2Czg6cG4pP1p"
+      },
+      "artists": [
+        {
+          "name": "mayu",
+          "url": "https://open.spotify.com/artist/13UpT9Gex05qV9ukq0e7RO"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238630,
+      "name": "A Planet of Two",
+      "url": "https://open.spotify.com/track/1VhNTQG8FWGXRuyhlurubN"
     },
     {
       "album": {
@@ -5298,7 +5316,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 254302,
       "name": "boat",
       "url": "https://open.spotify.com/track/4i4aLvZUMcfFXsb7X8wfrp"
@@ -11435,6 +11453,24 @@
     },
     {
       "album": {
+        "name": "Feelin\u2019 Wee",
+        "url": "https://open.spotify.com/album/4r5GXKiAKZfNG0gnN13wFT"
+      },
+      "artists": [
+        {
+          "name": "Kiko Mizuhara",
+          "url": "https://open.spotify.com/artist/7eVTIz5qapLlk7CgcFVRbL"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249171,
+      "name": "Feelin\u2019 Wee",
+      "url": "https://open.spotify.com/track/6EIVSrZeRMJBAJSO52rYEg"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2YaJIx0GJsRxSAQIRxL4lF"
       },
@@ -13540,6 +13576,24 @@
       "duration_ms": 204960,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/6M2rg8tbIAzl8FEbTcu6fR"
+    },
+    {
+      "album": {
+        "name": "Guin Guin Guin",
+        "url": "https://open.spotify.com/album/1J14jRkmllbcEyQvewOJpU"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119380,
+      "name": "Guin Guin Guin",
+      "url": "https://open.spotify.com/track/23ug8eyGwbN88jOr8C9fBC"
     },
     {
       "album": {
@@ -31698,7 +31752,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 207640,
       "name": "Shadow Memory",
       "url": "https://open.spotify.com/track/4kvUC1OAvOPFjDZRF7etPN"
@@ -37815,6 +37869,24 @@
     },
     {
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/6IF5v3toLpcoXyrQquZdiO"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222833,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/6jvfl3o4hfqHcYPue676OQ"
+    },
+    {
+      "album": {
         "name": "Tropical Paradise (3am girls) feat.f5ve, \u8a69\u7fbd",
         "url": "https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc"
       },
@@ -39066,6 +39138,24 @@
     {
       "album": {
         "name": "Voyage",
+        "url": "https://open.spotify.com/album/0aOiy82VnInnw3Av1NptrK"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254482,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw"
+    },
+    {
+      "album": {
+        "name": "Voyage",
         "url": "https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL"
       },
       "artists": [
@@ -39630,7 +39720,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 197401,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3b0wdHyUphrHacRitrnqPp"
@@ -50482,7 +50572,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 251548,
       "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
       "url": "https://open.spotify.com/track/2soW1r29B3VYLHZzzGLlbE"
@@ -60202,7 +60292,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 142105,
       "name": "\u5922\u306e\u6d77: \u6563\u6587, 2026 Aug.",
       "url": "https://open.spotify.com/track/0UefrHbccFn8Fx65ajpWY5"

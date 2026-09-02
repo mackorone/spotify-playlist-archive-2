@@ -2,9 +2,9 @@
 
 ### [Zouk All Stars](https://open.spotify.com/playlist/37i9dQZF1DX1yXxWD7WGcm)
 
-> Les classiques du zouk\. Photo : Slaï
+> Les classiques du zouk\. Photo : Fanny J
 
-85 songs - 6 hr 4 min
+86 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amour sans loi](https://open.spotify.com/track/2cAWUz1Z1UhBgAkyiylt3y) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq) | [Corps & âmes](https://open.spotify.com/album/4oLfPjyinyqrd2tULPsBqh) | 4:23 | 2025-04-11 |  |
 | [Amélia](https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx) | [Richard Birman](https://open.spotify.com/artist/5CdPGFgtfN127lnLJHIQxH) | [Zouker, Vol\. 1](https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC) | 4:45 | 2024-04-18 | 2026-04-11 |
 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \(Deluxe edition\)](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 | 2024-08-16 |  |
+| [An Ti Momen](https://open.spotify.com/track/69w35fY8kp1WgHvIuKDs5S) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Patrick Andrey](https://open.spotify.com/artist/3hZo7SfcYItKjxGQaUl7te) | [Face A Face Collector](https://open.spotify.com/album/1DDdGh22t3lk5BqDKFqS71) | 4:49 | 2026-09-01 |  |
 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 | 2023-03-23 |  |
 | [Avec Toi](https://open.spotify.com/track/4Kx6btrRV3OV2S7Iofckyr) | [Marysa](https://open.spotify.com/artist/15g2YTZ5MPzw6mG5JMzMc5) | [Sensual](https://open.spotify.com/album/4NHIwQDzq59aNz2hnqUpI4) | 4:00 | 2025-04-11 |  |
 | [Besoin d'amour](https://open.spotify.com/track/3WKj7OCct7oIiK4Nn8OL1u) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Gadji Celi](https://open.spotify.com/artist/4wano3p9ICDVCTllzj2qcc) | [A la recherche du bonheur](https://open.spotify.com/album/6FMHdHjTxMFO9TgKNyPpZv) | 4:07 | 2023-03-23 |  |
@@ -29,7 +30,7 @@
 | [Elles demandent](https://open.spotify.com/track/6SGLeYh7sH3auF3R40ISZw) | [Medhy Custos](https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd) | [Medhy Custos \(Bonus Elles demandent Feat\. Admiral T.\)](https://open.spotify.com/album/22XZ6XxUOPP89254uzlNQ3) | 3:03 | 2024-04-18 |  |
 | [Emmène moi](https://open.spotify.com/track/5kxKBb0icDE6kzSYRmdZLg) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Emmène moi](https://open.spotify.com/album/7s6SgzU3CsbcwclK72dqUs) | 5:26 | 2023-03-23 | 2024-01-20 |
 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 | 2023-03-23 |  |
-| [Fanm'fo](https://open.spotify.com/track/2VQi8333iX31StITeo81vD) | [Jeux De Dames](https://open.spotify.com/artist/1cUPVOhOVa6At8e7soKGGK) | [Têtes d'affiche zouk souvenirs](https://open.spotify.com/album/7sdSaNo7dRwaacLk97gfNY) | 4:30 | 2025-04-11 |  |
+| [Fanm'fo](https://open.spotify.com/track/2VQi8333iX31StITeo81vD) | [Jeux De Dames](https://open.spotify.com/artist/1cUPVOhOVa6At8e7soKGGK) | [Têtes d'affiche zouk souvenirs](https://open.spotify.com/album/7sdSaNo7dRwaacLk97gfNY) | 4:30 | 2025-04-11 | 2026-09-02 |
 | [Femmes fatales, vol\. 3](https://open.spotify.com/track/7q9zssoBwzepWhmP6z98uj) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [Femmes fatales, vol\. 3](https://open.spotify.com/album/5s4IeohOHunBRHFWhAopKk) | 4:27 | 2023-03-23 |  |
 | [Ferme Tes Yeux](https://open.spotify.com/track/1B35BUUooPRXidBN21iAFi) | [2 Wayz](https://open.spotify.com/artist/4wveO4vaceoKx3V0xQTgW1) | [Section Zouk Party, Vol\. 2](https://open.spotify.com/album/6dPPJGFDIeyYj6St7eNIFS) | 3:11 | 2023-03-23 | 2023-12-02 |
 | [Flamme \- Radio Edit](https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:37 | 2023-03-23 |  |

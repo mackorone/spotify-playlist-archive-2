@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,826 likes - 71 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,833 likes - 71 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 70 | [Fall For You \(Sandy Rivera's Classic Mix\) \[Moodymann Edit\] \- Mixed](https://open.spotify.com/track/4tn5R1MunTNzEj7SjPy7Nm) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX), [April](https://open.spotify.com/artist/34Vn43v0yvM2ib2HMLDkcx), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3) | [DJ\-Kicks \(Moodymann\) \[DJ Mix\]](https://open.spotify.com/album/4Ys4Dxj8SKCEJEmYmmvfOE) | 3:12 |
 | 71 | [Higher vibes](https://open.spotify.com/track/0VpYuut1igy8OIX38eIabD) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [The road is never easy](https://open.spotify.com/album/652BywHjB2vyUMhYJEHpL7) | 2:51 |
 
-Snapshot ID: `AAAAALH3KAsbVlGxnEPX5rjFu30rOwox`
+Snapshot ID: `AAAAAJOc9Iws79Pi+Zh+RLDAr4oT+2ca`

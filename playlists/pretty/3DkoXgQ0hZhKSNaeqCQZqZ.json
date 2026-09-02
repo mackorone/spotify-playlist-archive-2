@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1206,
+  "num_followers": 1208,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFwUp1S9WMOhsSE6NHdW6Rhi6EbBhp",
+  "snapshot_id": "AAAFwnTgNZyo9SSt59qkITNcQg986gyw",
   "tracks": [
+    {
+      "added_at": "2026-08-27 04:23:02",
+      "album": {
+        "name": "unnatural",
+        "url": "https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "duration_ms": 129056,
+      "name": "unnatural",
+      "url": "https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U"
+    },
     {
       "added_at": "2026-08-29 03:31:06",
       "album": {
@@ -59,22 +75,6 @@
       "duration_ms": 166153,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY"
-    },
-    {
-      "added_at": "2026-08-27 04:23:02",
-      "album": {
-        "name": "unnatural",
-        "url": "https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw"
-      },
-      "artists": [
-        {
-          "name": "Frizk",
-          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "unnatural",
-      "url": "https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U"
     },
     {
       "added_at": "2026-08-27 04:23:02",

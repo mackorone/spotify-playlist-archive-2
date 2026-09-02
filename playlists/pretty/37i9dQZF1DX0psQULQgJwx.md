@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a pampering spa experience
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,524 likes - 155 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,575 likes - 155 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 154 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 |
 | 155 | [Sea Levels](https://open.spotify.com/track/6OnFYKN0bmJZJtg0PZT5U5) | [Dreamlifter](https://open.spotify.com/artist/0FSs6sfUcLgEqXr8HqnMck) | [Sea Levels](https://open.spotify.com/album/4lha99HLMIiKqxfrIiqFQ4) | 3:14 |
 
-Snapshot ID: `AAAAAG8c0cQSquQrqF1bVKsF8ljFmF7F`
+Snapshot ID: `AAAAAGzishhEVuLaUgTxsCo7nh2DXvat`

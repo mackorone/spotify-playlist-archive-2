@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17824,
+  "num_followers": 17856,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAADvrb7OniolSo6EwNO+f7/V",
+  "snapshot_id": "apTEAAAAAADScljzfFF6U1mzHk5JSys7",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": null,
@@ -156,9 +140,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/53k6rqSYCCzMPk995U8fE6"
     },
     {
       "added_at": null,
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Touch\u00e9",
-      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
     },
     {
       "added_at": null,
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Small Doses",
-      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
+      "duration_ms": 153000,
+      "name": "Touch\u00e9",
+      "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
     },
     {
       "added_at": null,
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5wGL57ptOqYqpTJlhey0k7"
+      "duration_ms": 149000,
+      "name": "Small Doses",
+      "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
     },
     {
       "added_at": null,

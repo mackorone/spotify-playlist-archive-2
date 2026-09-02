@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1268673,
+  "num_followers": 1268719,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAAArgUbC+jGjlvSblFJNInVj",
+  "snapshot_id": "apTEAAAAAACM3J+UBC9gRBh07l7udS5E",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Experience (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
+        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
       },
       "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 225400,
-      "name": "You\u2019re The Best Thing About Me",
-      "url": "https://open.spotify.com/track/2dhJM2skHC9D41gHj34Kgw"
+      "duration_ms": 204690,
+      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
     },
     {
       "added_at": null,

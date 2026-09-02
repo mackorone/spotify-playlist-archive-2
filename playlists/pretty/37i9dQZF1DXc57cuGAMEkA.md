@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。The Weeknd, Olivia Rodrigo, Alex Warren, Post Malone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,222 likes - 97 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,230 likes - 97 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 96 | [In the Gold Room](https://open.spotify.com/track/4dFdunX6eXI7IvAwlo9WrK) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [In The Gold Room](https://open.spotify.com/album/6XL3NzwRBwuv1XRlS5V7SH) | 4:36 |
 | 97 | [Conversation 6](https://open.spotify.com/track/6a0PNajw3bf566IBpXaiYK) | [Alva Noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Conversation 6](https://open.spotify.com/album/2VGRLfVTiIRIB3rukwnnAT) | 7:26 |
 
-Snapshot ID: `AAAAAMgOg7gzcP2bET3OIgKhlzD1NRFM`
+Snapshot ID: `AAAAADM7QO9JE2HTHkcoqwH97qzDtwG3`

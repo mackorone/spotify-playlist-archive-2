@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122856,
+  "num_followers": 122847,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVtlPwmjeNkbgaKtTtkNZ57N9xfdRk",
+  "snapshot_id": "AAAVtw4NdoQhn14EAmbZDtgBCYKba5bE",
   "tracks": [
+    {
+      "added_at": "2026-09-01 17:47:29",
+      "album": {
+        "name": "Who Do You Run To",
+        "url": "https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m"
+      },
+      "artists": [
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Who Do You Run To",
+      "url": "https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K"
+    },
     {
       "added_at": "2026-08-28 14:23:24",
       "album": {

@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -10034,7 +10034,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -10772,7 +10772,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -12652,7 +12652,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -26398,7 +26398,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -31906,7 +31906,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -38460,7 +38460,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 291422,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/0XYP8RrumQd3Iua4NJ7DMh"
@@ -53160,7 +53160,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 270000,
       "name": "Stofi Stofoza",
       "url": "https://open.spotify.com/track/6RKspdi4VVi2NNyyDJlL8p"
@@ -53984,7 +53984,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -54840,7 +54840,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 382442,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/5z6nmZGMQoQGlrB8RhJ5s5"
@@ -56030,7 +56030,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "Thethelela Dlozi Lami (Gwijo)",
       "url": "https://open.spotify.com/track/0JlGVzWeFl2b5k4YF9ZT43"
@@ -58702,6 +58702,32 @@
       "duration_ms": 391399,
       "name": "Uku Khanya",
       "url": "https://open.spotify.com/track/13tuAoDjx2EmzOgV6Woscc"
+    },
+    {
+      "album": {
+        "name": "NGIYABABA",
+        "url": "https://open.spotify.com/album/2xgOJRD7jYdTIuOA067oKB"
+      },
+      "artists": [
+        {
+          "name": "MALIBONGWE",
+          "url": "https://open.spotify.com/artist/17YfaoJ6a8qfUcYPvNg9jD"
+        },
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "USduh Dladla",
+          "url": "https://open.spotify.com/artist/4ByrLNabomBA9SoJKeA3Pr"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196132,
+      "name": "UKUK'THANDA YEBO (feat. UMNOTHO & USDUH DLADLA)",
+      "url": "https://open.spotify.com/track/3uSZxqnUC2jcvdAgnZtiMu"
     },
     {
       "album": {

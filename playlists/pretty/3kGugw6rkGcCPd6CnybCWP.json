@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQGWXBwFOyTaLx5oqu8XzEv/0vR6fy",
+  "snapshot_id": "AAAQG84MpHwLVTCU7dzKTCAC8R8J1RIS",
   "tracks": [
     {
       "added_at": "2026-07-22 10:26:46",
@@ -951,6 +951,38 @@
       "duration_ms": 139721,
       "name": "Permeate",
       "url": "https://open.spotify.com/track/4azd1Y7g9cWYGumNTMZcFq"
+    },
+    {
+      "added_at": "2026-09-01 09:40:23",
+      "album": {
+        "name": "Stall",
+        "url": "https://open.spotify.com/album/47Oyl3hqIWQNY0oX3dHAUG"
+      },
+      "artists": [
+        {
+          "name": "LOOSER",
+          "url": "https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Stall",
+      "url": "https://open.spotify.com/track/5L53EUM56JL5Onpyd393rM"
+    },
+    {
+      "added_at": "2026-09-01 09:40:36",
+      "album": {
+        "name": "SURF GREEN",
+        "url": "https://open.spotify.com/album/2dZCmI8Sv54L4YPUK8skZu"
+      },
+      "artists": [
+        {
+          "name": "Secret radio",
+          "url": "https://open.spotify.com/artist/41HBxuuVOLeQkFNGZ3Tyer"
+        }
+      ],
+      "duration_ms": 161889,
+      "name": "SURF GREEN",
+      "url": "https://open.spotify.com/track/3jiaah6eN1dhcilAWfOnFu"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

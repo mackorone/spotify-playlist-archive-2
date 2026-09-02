@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL" series\. ©2026 Shirow Masamune/KODANSHA/THE GHOST IN THE SHELL COMMITTEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,912 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,078 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 | 49 | [flashback memory plug](https://open.spotify.com/track/7qgQ7mACjleBHbsPchKBcU) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [benedict Delmaestro](https://open.spotify.com/artist/5wLsCJYZy1re3sai21VJZj) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 1:06 |
 | 50 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版　O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 |
 
-Snapshot ID: `AAAAADXSL9ehoz4h+BeyGo7T3NDeyagC`
+Snapshot ID: `AAAAAAm7EtZL+7b2JOQv4wha9HuqjKmA`

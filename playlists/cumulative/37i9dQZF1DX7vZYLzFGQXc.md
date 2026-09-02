@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Alice Syndrome\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Shane\) \(Meet the emerging talents of Korea!\)
 
-1,707 songs - 3 day 23 hr 32 min
+1,708 songs - 3 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,6 +1018,7 @@
 | [not ours](https://open.spotify.com/track/4Mg8g6yUQSCykJKgosr2U5) | [adore](https://open.spotify.com/artist/599aVifFb724ktGNGaYRRA) | [closed eyes, daytime dreams](https://open.spotify.com/album/25iVJ5J32T4whC2NrE4VSl) | 4:25 | 2023-05-01 | 2023-06-02 |
 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 | 2023-07-27 | 2024-01-05 |
 | [Not That Girl](https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Not That Girl](https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50) | 3:38 | 2025-02-14 | 2025-05-23 |
+| [Nothing](https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR) | [Shane](https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v) | [Nothing](https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST) | 2:43 | 2026-09-01 |  |
 | [nothing \(with Yebit\)](https://open.spotify.com/track/5RNggAbcujHr65RvCMeCQO) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Record](https://open.spotify.com/album/0oVDXp878lSbLdUkzQw0zG) | 4:28 | 2022-07-04 | 2022-08-19 |
 | [Nothing New](https://open.spotify.com/track/58eqvtHUfuVpHkwlXaCJCX) | [LOLLY](https://open.spotify.com/artist/5XAPe7D5mNtkiQJgXH5L0u) | [Love$ick](https://open.spotify.com/album/1unkxiDMvcZ1JiTijotCB3) | 4:18 | 2022-02-04 | 2022-03-18 |
 | [Now is](https://open.spotify.com/track/0VTqWsNEyr2Hj1NqIbOstx) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Fall](https://open.spotify.com/album/79b8UngDryAWnAIDPL0Ngx) | 3:53 | 2022-11-07 | 2023-02-01 |

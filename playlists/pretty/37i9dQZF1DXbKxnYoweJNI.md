@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,609 likes - 119 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,607 likes - 119 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 118 | [革命家](https://open.spotify.com/track/1tjDM0F7ojg9gqDdPjubSa) | [Bobby Chen](https://open.spotify.com/artist/1KkuALrf8T61dUSezl80Y4) | [我不是搖滾歌手](https://open.spotify.com/album/2p5z0wMyiVFGDA87mBHdSL) | 4:28 |
 | 119 | [小日記](https://open.spotify.com/track/7ayVmZVEzhdXHQiSXx7Qj1) | [盧可沛](https://open.spotify.com/artist/4mkIoKpfYgK6c0AJ1rRYwb) | [小日記](https://open.spotify.com/album/7eO0fzqhmkMPIEvMR8pvpp) | 3:53 |
 
-Snapshot ID: `AAAAABnwpOYnDOvjm9uhqgJ9utYCgeMG`
+Snapshot ID: `AAAAAAARXpvI65sVG88nzPeEmBy+JwqZ`

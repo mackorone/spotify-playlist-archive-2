@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 109966,
+  "num_followers": 110005,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAWF7DHi/h/PUY1emGwaAJ1LASMJ",
+  "snapshot_id": "AAAAAEUZ1/Vi4Ddn6NuJPW72DnedjuXV",
   "tracks": [
     {
       "added_at": "2026-08-27 10:33:18",
@@ -183,26 +183,6 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Shahil Hada",
-          "url": "https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Rooba Rooba",
-      "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
         "name": "Khadgam",
         "url": "https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 333113,
       "name": "Nuvvu Nuvvu",
       "url": "https://open.spotify.com/track/2herWh0PWhDrI6XCpj3FsI"
+    },
+    {
+      "added_at": "2026-08-27 10:33:18",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
+      },
+      "artists": [
+        {
+          "name": "Shahil Hada",
+          "url": "https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Rooba Rooba",
+      "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -351,18 +351,22 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
-        "name": "Godavari",
-        "url": "https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE"
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/31evgMUroCibkdMwan4s0W"
       },
       "artists": [
         {
-          "name": "Gayathri",
-          "url": "https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM"
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
         }
       ],
-      "duration_ms": 231973,
-      "name": "Ramachakkani Sitha",
-      "url": "https://open.spotify.com/track/7l5fS4lbkdwzteVyE6s2IO"
+      "duration_ms": 327765,
+      "name": "Atu Itu Ooguthu",
+      "url": "https://open.spotify.com/track/24K2mrj2EdYowxLweHaEAl"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -383,22 +387,18 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/31evgMUroCibkdMwan4s0W"
+        "name": "Godavari",
+        "url": "https://open.spotify.com/album/2OyJ5P81elIOSPFSj2gnkE"
       },
       "artists": [
         {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+          "name": "Gayathri",
+          "url": "https://open.spotify.com/artist/2Ah48tA0TPqph0m9snNNxM"
         }
       ],
-      "duration_ms": 327765,
-      "name": "Atu Itu Ooguthu",
-      "url": "https://open.spotify.com/track/24K2mrj2EdYowxLweHaEAl"
+      "duration_ms": 231973,
+      "name": "Ramachakkani Sitha",
+      "url": "https://open.spotify.com/track/7l5fS4lbkdwzteVyE6s2IO"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -443,6 +443,30 @@
       "duration_ms": 307133,
       "name": "Muvvala Navakala",
       "url": "https://open.spotify.com/track/2ejFoHXs1ik9nCJeFaajmu"
+    },
+    {
+      "added_at": "2026-08-27 10:33:18",
+      "album": {
+        "name": "Kothabangarulokam",
+        "url": "https://open.spotify.com/album/3fyG1mITrUGtCyGtKvJYlw"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Shweta Pandit",
+          "url": "https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu"
+        },
+        {
+          "name": "Sirivennela Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "duration_ms": 309838,
+      "name": "Nenani Neevani",
+      "url": "https://open.spotify.com/track/3qcO9TrBzshhBpFZbvHwm4"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -495,30 +519,6 @@
       "duration_ms": 327563,
       "name": "Dhivara",
       "url": "https://open.spotify.com/track/1qRyggIuIDRiq87rJziifv"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
-        "name": "Kothabangarulokam",
-        "url": "https://open.spotify.com/album/3fyG1mITrUGtCyGtKvJYlw"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Shweta Pandit",
-          "url": "https://open.spotify.com/artist/4L0JycQCCwKksT3G5SVApu"
-        },
-        {
-          "name": "Sirivennela Seetharama Sastry",
-          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
-        }
-      ],
-      "duration_ms": 309838,
-      "name": "Nenani Neevani",
-      "url": "https://open.spotify.com/track/3qcO9TrBzshhBpFZbvHwm4"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
-        "name": "Sammohanam",
-        "url": "https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "O Cheli Thaara",
-      "url": "https://open.spotify.com/track/6bPRGizJcgvsREfNI76hbm"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
         "name": "Okariki Okaru",
         "url": "https://open.spotify.com/album/76e0gPp9N6NRTU3fQGGUEv"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 304383,
       "name": "Nuvve Na Shwasa",
       "url": "https://open.spotify.com/track/2G9sZ9ut0REo1BecuQNDop"
+    },
+    {
+      "added_at": "2026-08-27 10:33:18",
+      "album": {
+        "name": "Sammohanam",
+        "url": "https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "O Cheli Thaara",
+      "url": "https://open.spotify.com/track/6bPRGizJcgvsREfNI76hbm"
     },
     {
       "added_at": "2026-08-27 10:33:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-27 10:33:18",
       "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "Evare",
-      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
-    },
-    {
-      "added_at": "2026-08-27 10:33:18",
-      "album": {
         "name": "Mahanati",
         "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 197589,
       "name": "Sada Nannu",
       "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
+    },
+    {
+      "added_at": "2026-08-27 10:33:18",
+      "album": {
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        }
+      ],
+      "duration_ms": 309662,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
     },
     {
       "added_at": "2026-08-27 10:33:18",

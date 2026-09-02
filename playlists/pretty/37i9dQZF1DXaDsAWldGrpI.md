@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,406 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,397 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 64 | [Somethin' 'Bout A Woman \- Live From Fenway Park](https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Thomas Rhett Live From Fenway Park](https://open.spotify.com/album/350LbZri3dtBkAMAFqvXlS) | 5:17 |
 | 65 | [Straight and Narrow \- Live](https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:51 |
 | 66 | [Save It for a Rainy Day \(with Old Dominion\) \- Live](https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:15 |
-| 67 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 |
-| 68 | [Over Now \- Live From London](https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Live From London](https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch) | 3:34 |
+| 67 | [Over Now \- Live From London](https://open.spotify.com/track/0sUzqTXuvRZQGkWb3uhbj1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Live From London](https://open.spotify.com/album/5YHZoRo1sGcOfWVYMUP9Ch) | 3:34 |
+| 68 | [Any Man Of Mine \- Live](https://open.spotify.com/track/5V9PVHVvD7He5oWUo69YsQ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 4:30 |
 | 69 | [Forget About It \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 3:18 |
 | 70 | [Margaritaville \- Live at Coastal Credit Union Music Park at Walnut Creek, Raleigh, NC, 10.05.2023](https://open.spotify.com/track/70OjE1ads6dRCLzMMYn6jU) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [From The Road, Vol\. 1: Covers](https://open.spotify.com/album/21IWSt2SQY3fWoV4P1sbi0) | 4:24 |
 | 71 | [When The Sun Goes Down \- Duet With Uncle Kracker \(Live\)](https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 5:03 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 77 | [Rhinestone Cowboy](https://open.spotify.com/track/6AmEL7VekAzzEqfaSFlhXT) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live Anthology](https://open.spotify.com/album/0E8GZQAximOCOgCgfIM1Lx) | 3:27 |
 | 78 | [Talladega \- Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017](https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 1](https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR) | 4:19 |
 | 79 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 |
-| 80 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 |
-| 81 | [Hate How You Look \- Live From London](https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Hate How You Look \(Live From London\)](https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb) | 3:23 |
-| 82 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 |
-| 83 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
+| 80 | [Hate How You Look \- Live From London](https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Hate How You Look \(Live From London\)](https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb) | 3:23 |
+| 81 | [Honey, I'm Home \- Live](https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:42 |
+| 82 | [Lookin' For Love](https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5) | [Johnny Lee](https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu) | [Live at Billy Bob's Texas](https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm) | 4:02 |
+| 83 | [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 |
 | 84 | [Body Like A Back Road \- 15 In A 30 Tour Live](https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road \(15 In A 30 Tour Live\)](https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82) | 4:48 |
 | 85 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 |
 | 86 | [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
 | 100 | [Simple Man \- Live](https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [Simple Man \(Live\)](https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1) | 7:03 |
 
-Snapshot ID: `AAAAAEJFbuhZVG+Ebk78A+dq5+WC1fP2`
+Snapshot ID: `AAAAAL3Npe/NFW/Sa9EAgWjV/oBW4FYP`

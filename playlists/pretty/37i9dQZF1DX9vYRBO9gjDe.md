@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月30日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,768 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,788 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [愛唄](https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。はじめまして。](https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh) | 3:56 |
 | 50 | [Want it \~One of the BE:ST\-06 SHUNTO\~](https://open.spotify.com/track/1voHOqp1WDAOU7EI3ooEdA) | [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [Missing](https://open.spotify.com/album/5s3ikpH92AFAHiCSipbp63) | 2:59 |
 
-Snapshot ID: `AAAAAI8VnTWGdILwMlIPDNM3MJPbWi1l`
+Snapshot ID: `AAAAADZ5YzRBht9737Xw/ersCOGVPUQo`

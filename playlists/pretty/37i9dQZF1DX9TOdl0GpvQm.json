@@ -1,12 +1,12 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 200471,
+  "num_followers": 200520,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIl327EFo5sZYLD1m/To7101qtq3",
+  "snapshot_id": "AAAAAKXSqTBTklS2bgHsEheKVZEP1ZOq",
   "tracks": [
     {
       "added_at": "2025-11-14 17:00:34",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 57818,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Hereditary (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/1D2pqmGuOBFjqtThwcWHXS"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 231573,
       "name": "Reborn - (From \"Hereditary\" Soundtrack)",
       "url": "https://open.spotify.com/track/6pDzUazSIrRhViOqiMMraX"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 57818,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Pacific Visions of Martin Glass",
-        "url": "https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si"
-      },
-      "artists": [
-        {
-          "name": "Martin Glass",
-          "url": "https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd"
-        }
-      ],
-      "duration_ms": 92307,
-      "name": "Okinawa Fantasia",
-      "url": "https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "th1 [evnslower]",
         "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 668246,
       "name": "th1 [evnslower]",
       "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Pacific Visions of Martin Glass",
+        "url": "https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si"
+      },
+      "artists": [
+        {
+          "name": "Martin Glass",
+          "url": "https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd"
+        }
+      ],
+      "duration_ms": 92307,
+      "name": "Okinawa Fantasia",
+      "url": "https://open.spotify.com/track/7phasdQ9ODIIJlCfE1z3fY"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Sleep Games",
-        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 309334,
-      "name": "The Black Mill Video Tape",
-      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Fight",
         "url": "https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 322020,
       "name": "Fight",
       "url": "https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Sleep Games",
+        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 309334,
+      "name": "The Black Mill Video Tape",
+      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Tomb of Horror",
-        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
-      },
-      "artists": [
-        {
-          "name": "Slasher Dave",
-          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
-        }
-      ],
-      "duration_ms": 241621,
-      "name": "Half Past Midnight",
-      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Geleit ins Totenreich",
         "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200493,
       "name": "Ivory Tower II",
       "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Tomb of Horror",
+        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
+      },
+      "artists": [
+        {
+          "name": "Slasher Dave",
+          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
+        }
+      ],
+      "duration_ms": 241621,
+      "name": "Half Past Midnight",
+      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Willows",
         "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 283786,
       "name": "The Willows",
       "url": "https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
-      },
-      "artists": [
-        {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Gone Away",
         "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 241732,
       "name": "The Gone Away",
       "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mitch",
+          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
+        },
+        {
+          "name": "Social State",
+          "url": "https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3"
+        }
+      ],
+      "duration_ms": 296479,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 281414,
       "name": "Cloud Control",
       "url": "https://open.spotify.com/track/1kkwJyZZlp9WEmJvcQ0CZn"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mitch",
-          "url": "https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv"
-        },
-        {
-          "name": "Social State",
-          "url": "https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3"
-        }
-      ],
-      "duration_ms": 296479,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
     },
     {
       "added_at": "2025-11-14 17:00:34",

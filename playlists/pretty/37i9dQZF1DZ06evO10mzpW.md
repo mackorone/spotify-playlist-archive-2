@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10mzpW.md) - [plain]
 
 > This is Pauline Anna Strom\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71 likes - 26 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 26 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Freedom at the 45th Floor](https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:34 |
 | 2 | [Tropical Convergence](https://open.spotify.com/track/5bKllsJIn1Le6YJkipcuwS) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 2:41 |
 | 3 | [Quiet Joy](https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:02 |
-| 4 | [Phantom Dancer](https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:17 |
+| 4 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 |
 | 5 | [Morning Splendor](https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 6:02 |
 | 6 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:03 |
 | 7 | [Alpine Flight](https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:30 |
-| 8 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 |
+| 8 | [Phantom Dancer](https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:17 |
 | 9 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
 | 10 | [Equatorial Sunrise](https://open.spotify.com/track/7u1AULlNvkkp8Iq2K9aLAv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 6:10 |
 | 11 | [Blood Celebrants](https://open.spotify.com/track/7AyQv7X8dtIM8fJyzUIGNl) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:30 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10mzpW.md) - [plain]
 | 22 | [Temple Gardens at Midnight](https://open.spotify.com/track/6WbXm5zGLbejv5XfEmnhhm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:25 |
 | 23 | [Plot Zero](https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 4:42 |
 | 24 | [Domestic Peace](https://open.spotify.com/track/3s7YNaBBYhCHs8ACMmp6JH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Quiet Joy / Domestic Peace](https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb) | 3:28 |
-| 25 | [Freebasing](https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 9:34 |
-| 26 | [Organized Confusion](https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:09 |
+| 25 | [Organized Confusion](https://open.spotify.com/track/7bHng3qQsksxacq4WPql2j) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:09 |
+| 26 | [Freebasing](https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 9:34 |
 
-Snapshot ID: `apNygAAAAAD2CrNQFFjI6f2bIbriuTs8`
+Snapshot ID: `apTEAAAAAAA9pohHJ3qebirIoTP8p/4w`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: YUNG SAMMY
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,395 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,404 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Like That \(From "One Of A Kind"\) \[Feat\. Fijiana\]](https://open.spotify.com/track/2Zvta2GvYPX2dpyMMkZIYb) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Fijiana](https://open.spotify.com/artist/3QJKfOehAXlsFW2HXU5sx7), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [Like That \(From "One Of A Kind"\) \[Feat\. Fijiana\]](https://open.spotify.com/album/3mesJtDUhyhaJsOGsCG2in) | 2:39 |
+| 1 | [Like That \(From "ONE OF A KIND"\) \[Feat\. Fijiana\]](https://open.spotify.com/track/2Zvta2GvYPX2dpyMMkZIYb) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Fijiana](https://open.spotify.com/artist/3QJKfOehAXlsFW2HXU5sx7), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [Like That \(From "ONE OF A KIND"\) \[Feat\. Fijiana\]](https://open.spotify.com/album/3mesJtDUhyhaJsOGsCG2in) | 2:39 |
 | 2 | [Ghanni Khamma](https://open.spotify.com/track/03ir0OfqWZWHCCSnqw0A4v) | [THE U.D](https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72), [Aadduz](https://open.spotify.com/artist/2IJPDN4qVLqdxX6ZbgiFgb) | [Ghanni Khamma](https://open.spotify.com/album/4rVVZ4b78m1WIkIEn7i1r5) | 2:49 |
 | 3 | [Hooked on You](https://open.spotify.com/track/6MWOoBgbMGXWAABVl3YiO7) | [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp), [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC) | [Hooked on You](https://open.spotify.com/album/6gDIJr1KlK0P02mtv7PgIx) | 2:26 |
 | 4 | [Headshxt](https://open.spotify.com/track/6TmlX0wZrD28IyPqTEcu2a) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Headshxt](https://open.spotify.com/album/4xopMuqf2zI9j0zgYDAlga) | 2:53 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 63 | [Line Busy](https://open.spotify.com/track/286FWjpxON1OIZ3Q8TkguA) | [KNSS](https://open.spotify.com/artist/7mUW6AyQPVKtqTfKB1q4Fe), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Legacy Chapter 1, Vol\. 1](https://open.spotify.com/album/78ECRoLpHEjcyDOpWQ3FA1) | 2:40 |
 | 64 | [Baaju](https://open.spotify.com/track/0Ez2AiyKVWeS8yWfB4YdZj) | [Nunchux](https://open.spotify.com/artist/2rfcMsdqqozPSJA046yQ6u) | [Kesar](https://open.spotify.com/album/5JAALuH5NDnHyuTcfXeK1J) | 2:21 |
 | 65 | [Delhi Or Dehradun](https://open.spotify.com/track/4D8WazPAFSwZoEyau3WLh8) | [THE RDX](https://open.spotify.com/artist/1y3JioFDwjWNWRu3sADndA) | [Delhi Or Dehradun](https://open.spotify.com/album/4KHvrdeljExbyZNTgdJH4O) | 2:12 |
-| 66 | [Fasana](https://open.spotify.com/track/4x2vsptUkt5m6dYZUWsUyC) | [Anushka Baduwal](https://open.spotify.com/artist/1zB96p9vWvDwHXLpWFJjtp), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 3](https://open.spotify.com/album/2noBwTxLXKo9OJdSxJb8PT) | 3:11 |
+| 66 | [Fasana](https://open.spotify.com/track/4x2vsptUkt5m6dYZUWsUyC) | [Anushka Baduwal](https://open.spotify.com/artist/1zB96p9vWvDwHXLpWFJjtp), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 3](https://open.spotify.com/album/2noBwTxLXKo9OJdSxJb8PT) | 3:07 |
 | 67 | [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 |
 | 68 | [KHATRI](https://open.spotify.com/track/1HSFxuGk8lDxbjfNrdq5XD) | [KRasR Officials](https://open.spotify.com/artist/46yJlVJ9mExCBF1GGoUoh8), [Max Musix](https://open.spotify.com/artist/19tc3xCdRUclKlYa8aNsqp) | [KHATRI](https://open.spotify.com/album/69sRZNsiulk3hVQkJOoSK1) | 1:44 |
 | 69 | [SAFAL \- Red Bull 64 Bars](https://open.spotify.com/track/1Rc8HH8HNlclwmvobJD2WK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu) | [SAFAL \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DuekyAhrZTZxAoGR1Z0RW) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [I Go Boom!](https://open.spotify.com/track/7a4kNH1v5k9zlBBN3pmmGW) | [Siroyi](https://open.spotify.com/artist/306lommsDZyts5VuMuVzEC), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [Hustle 5 \- Episode 4](https://open.spotify.com/album/0tIyJ41YCaAb56dsmRbhEp) | 2:16 |
 | 75 | [Frustrated](https://open.spotify.com/track/6UNW1wQiaBcG5trYjIeW7o) | [Tarun Music](https://open.spotify.com/artist/0QxsEeUCnpK9Qtc8PHPv39) | [Frustrated](https://open.spotify.com/album/6DHmGtb7mIZaeIACZHuBlk) | 2:02 |
 
-Snapshot ID: `AAAAAERxN/CsxdisnScc82WWSd0x8rsZ`
+Snapshot ID: `AAAAAPavGxw8DMiQ7Ym9gHgavTXyG/72`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: KiiiKiii)",
+  "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: g0nny)",
   "name": "EQUAL Korea",
   "tracks": [
     {
@@ -3958,6 +3958,24 @@
       "duration_ms": 205520,
       "name": "Can we get back together",
       "url": "https://open.spotify.com/track/3gWWEs7vkpa1C62m3S8qaF"
+    },
+    {
+      "album": {
+        "name": "what am i afraid of when there\u2032s nothing there",
+        "url": "https://open.spotify.com/album/7fzhLZwPujCYQuM5oCbFF5"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212690,
+      "name": "can you keep me a secret?",
+      "url": "https://open.spotify.com/track/0gaRMbG3nYtlCGb1loykrc"
     },
     {
       "album": {
@@ -9581,6 +9599,24 @@
     },
     {
       "album": {
+        "name": "what am i afraid of when there\u2032s nothing there",
+        "url": "https://open.spotify.com/album/7fzhLZwPujCYQuM5oCbFF5"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "hey friend",
+      "url": "https://open.spotify.com/track/62SAJVcTawajqiOEyozZXb"
+    },
+    {
+      "album": {
         "name": "Hide and Seek",
         "url": "https://open.spotify.com/album/4UfLjjmUcYcVy9lzyqDWdo"
       },
@@ -9816,7 +9852,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 194682,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD"
@@ -18406,7 +18442,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 164000,
       "name": "r u ok?",
       "url": "https://open.spotify.com/track/7LwQfsJ7JzgfFr7ErvcTs6"

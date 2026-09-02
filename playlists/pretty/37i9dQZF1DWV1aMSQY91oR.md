@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Night Lovell
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,842 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,850 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Outside Again](https://open.spotify.com/track/3ZHFgo75lYXv1erSB9r2Af) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Outside Again](https://open.spotify.com/album/78Tcl6PDCqGV0GsfAQJ61J) | 2:40 |
 | 50 | [It Depends](https://open.spotify.com/track/1a83npO0n63NDRIIguMeAM) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [It Depends](https://open.spotify.com/album/7xtXqAAhKOBPZUYXu6wnz5) | 2:10 |
 
-Snapshot ID: `AAAAAPh2izKn3VBIjZggEyRW+sWCN/l9`
+Snapshot ID: `AAAAACOL3P74YZr21mVCjXKlIEW4x80d`

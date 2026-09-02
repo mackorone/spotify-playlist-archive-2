@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 303922,
+  "num_followers": 304062,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7Bo53f5uAaS3MMax34+sbv2HgQ",
+  "snapshot_id": "AAAAAI51QjD7LdqtOaBZFwclBWWHMfFV",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Benny Bernstein",
-        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bernstein",
-          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
-        }
-      ],
-      "duration_ms": 154246,
-      "name": "Conscious Jorney",
-      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 332333,
       "name": "At Ease",
       "url": "https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Benny Bernstein",
+        "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bernstein",
+          "url": "https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM"
+        }
+      ],
+      "duration_ms": 154246,
+      "name": "Conscious Jorney",
+      "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "OM Yoga Mix",
-        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
-      },
-      "artists": [
-        {
-          "name": "Steve Gorn",
-          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
-        }
-      ],
-      "duration_ms": 686333,
-      "name": "Indian Nights",
-      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Re-Creating",
         "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 257648,
       "name": "Spiritual Touch",
       "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "OM Yoga Mix",
+        "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
+      },
+      "artists": [
+        {
+          "name": "Steve Gorn",
+          "url": "https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC"
+        }
+      ],
+      "duration_ms": 686333,
+      "name": "Indian Nights",
+      "url": "https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7"
     },
     {
       "added_at": "2023-06-27 05:36:24",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Sleep Music With Ambient Nature",
-        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
-      },
-      "artists": [
-        {
-          "name": "Nature Sounds",
-          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
-        }
-      ],
-      "duration_ms": 148981,
-      "name": "Waves Music Relax",
-      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Tranquility: Just Relax - 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being",
         "url": "https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Indian Equanimous Repose",
-        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
+        "name": "Sleep Music With Ambient Nature",
+        "url": "https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM"
       },
       "artists": [
         {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+          "name": "Nature Sounds",
+          "url": "https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm"
         }
       ],
-      "duration_ms": 221799,
-      "name": "Soft Native Flute",
-      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
+      "duration_ms": 148981,
+      "name": "Waves Music Relax",
+      "url": "https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1031,6 +1015,22 @@
       "duration_ms": 303786,
       "name": "Healing Sounds (Nature Music)",
       "url": "https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Indian Equanimous Repose",
+        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 221799,
+      "name": "Soft Native Flute",
+      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Moon Descent Introspection",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
-      },
-      "artists": [
-        {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep The Slow Fade",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
-    },
-    {
       "added_at": "2023-06-27 05:36:24",
       "album": {
         "name": "Silhouette",
@@ -1111,6 +1095,22 @@
       "duration_ms": 169303,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Moon Descent Introspection",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep The Slow Fade",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2021-06-15 08:38:14",

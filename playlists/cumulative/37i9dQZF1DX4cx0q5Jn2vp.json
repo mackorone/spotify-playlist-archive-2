@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "At Kung Sakali",
+        "url": "https://open.spotify.com/album/3sdIXJjAFkLDPMMjpe2zLh"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        },
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204774,
+      "name": "At Kung Sakali",
+      "url": "https://open.spotify.com/track/0uUk3XmRfwu6I52fYTirI0"
+    },
+    {
+      "album": {
         "name": "The Prelude",
         "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
@@ -916,7 +938,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 165033,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/0DAYGnA7XlkWlajNTbncQ8"
@@ -934,7 +956,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 151160,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG"
@@ -1906,7 +1928,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 212430,
       "name": "Habang Tumatagal",
       "url": "https://open.spotify.com/track/3ubGwsslaMPiAiHueKBlnB"
@@ -2152,7 +2174,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 238886,
       "name": "How Bad Do U Want Me",
       "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
@@ -2932,7 +2954,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 204848,
       "name": "Lasang Seryoso",
       "url": "https://open.spotify.com/track/2t4x9AVN7boGiLX6ALLCqd"
@@ -3725,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Monday Afternoon",
+        "url": "https://open.spotify.com/album/6q3fsRJeID2rKGgHRF8Uh3"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269571,
+      "name": "Monday Afternoon",
+      "url": "https://open.spotify.com/track/3CTcje8vXcClKwy7xVOZwu"
+    },
+    {
+      "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
@@ -3779,6 +3819,24 @@
     },
     {
       "album": {
+        "name": "My Favorite Notif",
+        "url": "https://open.spotify.com/album/3Ib1iIvfwsJApPVxYCGhWk"
+      },
+      "artists": [
+        {
+          "name": "UNO",
+          "url": "https://open.spotify.com/artist/0ZidGKZEuWMKpVIlCAJOlt"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192315,
+      "name": "My Favorite Notif",
+      "url": "https://open.spotify.com/track/5XndcBTDPWVDc11EkHkS1L"
+    },
+    {
+      "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
       },
@@ -3830,6 +3888,24 @@
       "duration_ms": 190089,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a"
+    },
+    {
+      "album": {
+        "name": "Nakakabighani",
+        "url": "https://open.spotify.com/album/3p8oaj2nN2rAecQPiT6Rk4"
+      },
+      "artists": [
+        {
+          "name": "Brandon Kail",
+          "url": "https://open.spotify.com/artist/5qtaCawWuhPeW3GlHErpgt"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183857,
+      "name": "Nakakabighani",
+      "url": "https://open.spotify.com/track/0isK5sHesL3Hw3L5odItFK"
     },
     {
       "album": {
@@ -4680,7 +4756,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 201000,
       "name": "Saglit Lang",
       "url": "https://open.spotify.com/track/773eGrCsYhOyubb33IFVOL"

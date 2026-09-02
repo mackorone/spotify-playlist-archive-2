@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Sara Wakui",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: Maika Loubt\u00e9",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -2036,6 +2036,24 @@
       "duration_ms": 221029,
       "name": "Blue Shining Star",
       "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
+    },
+    {
+      "album": {
+        "name": "blueberry",
+        "url": "https://open.spotify.com/album/1pSqYqUM5tkc2kvy9IkoBw"
+      },
+      "artists": [
+        {
+          "name": "heykazma",
+          "url": "https://open.spotify.com/artist/3nDkOiRqc5IVUixtkWalrs"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270358,
+      "name": "blueberry",
+      "url": "https://open.spotify.com/track/0UjL8DXDQoWFSoM55bS2TR"
     },
     {
       "album": {
@@ -6257,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Pretty Machine Gun II",
+        "url": "https://open.spotify.com/album/3k822AXXavvXzwJ0X3hiAu"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143454,
+      "name": "Game for Girl",
+      "url": "https://open.spotify.com/track/7spQbLcL9XT7OwhjWkIpPp"
+    },
+    {
+      "album": {
         "name": "DEBUT",
         "url": "https://open.spotify.com/album/4s9NnOKqJ7MkiXilulQYEp"
       },
@@ -6726,7 +6762,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 169400,
       "name": "Going",
       "url": "https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn"
@@ -10259,6 +10295,24 @@
     },
     {
       "album": {
+        "name": "BABY! PINK! MUSIC!",
+        "url": "https://open.spotify.com/album/0KJQH4HA27llgKLf0zYene"
+      },
+      "artists": [
+        {
+          "name": "Seiko Oomori",
+          "url": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "LAST GIRL DUST",
+      "url": "https://open.spotify.com/track/2v4F7aRHRx3XDV8mRcaJ8l"
+    },
+    {
+      "album": {
         "name": "LAST TRAIN",
         "url": "https://open.spotify.com/album/72WcUwUj1kIk7sWVAjsWMB"
       },
@@ -12559,6 +12613,24 @@
     },
     {
       "album": {
+        "name": "MUSCLE",
+        "url": "https://open.spotify.com/album/5NCs8vIvupas8amL97FUZm"
+      },
+      "artists": [
+        {
+          "name": "\u3093\u30fb\u30d5\u30a7\u30cb",
+          "url": "https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208889,
+      "name": "MUSCLE",
+      "url": "https://open.spotify.com/track/21SbN2vk35fWGJg4c1NNXH"
+    },
+    {
+      "album": {
         "name": "We Are the Times",
         "url": "https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda"
       },
@@ -14050,7 +14122,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 212017,
       "name": "omoutabi",
       "url": "https://open.spotify.com/track/043e4puFkfCpTZjF52JzJe"
@@ -14274,7 +14346,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 193000,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu"
@@ -15650,6 +15722,24 @@
       "duration_ms": 199150,
       "name": "rai-rai - Prod.KM",
       "url": "https://open.spotify.com/track/4QqYaVbZiK9b5nSYzTR82V"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/4lbDFA1xxTXWSAExmb9dOy"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2RDHDpLMNnd6jtMJujLWb9"
     },
     {
       "album": {
@@ -17404,7 +17494,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 232280,
       "name": "sofa dance",
       "url": "https://open.spotify.com/track/6J4ZS19uwDVULr9N7NJC0I"
@@ -26188,7 +26278,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 184347,
       "name": "\u30e9\u30d6\u30fb\u30c7\u30e9\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD"
@@ -27896,7 +27986,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 243261,
       "name": "\u5fc3\u8c61volcano",
       "url": "https://open.spotify.com/track/4DpY4OWzsbFaL2AIb0N5mh"
@@ -28669,6 +28759,24 @@
     },
     {
       "album": {
+        "name": "\u50cd\u304f\u30b5\u30d0\u305f\u3061\u3002",
+        "url": "https://open.spotify.com/album/37JQMVM2y0STrUxOYGEy2K"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204208,
+      "name": "\u6765\u3066",
+      "url": "https://open.spotify.com/track/6xeLH3WNUtyNaEFO01TEx0"
+    },
+    {
+      "album": {
         "name": "\u6771\u4eac",
         "url": "https://open.spotify.com/album/5hCdxm2QmydZMR5dpIT9ig"
       },
@@ -29030,7 +29138,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 234877,
       "name": "\u6df1\u6d77",
       "url": "https://open.spotify.com/track/4UuPn4bcfi9Bg9E2diY26L"
@@ -30356,6 +30464,24 @@
       "duration_ms": 207080,
       "name": "\u9244\u7dda",
       "url": "https://open.spotify.com/track/7bfHQu3qAiViVs2Obeb0pA"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u99ac",
+        "url": "https://open.spotify.com/album/3lMdkrPJFwvYLanKL8FNa9"
+      },
+      "artists": [
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "\u92fc\u306e\u99ac",
+      "url": "https://open.spotify.com/track/4gw4bqJMo5WYW0fOlGVpc2"
     },
     {
       "album": {

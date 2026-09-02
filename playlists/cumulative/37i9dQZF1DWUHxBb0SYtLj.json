@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Artiste italiane da ascoltare a tutto volume \ud83d\udc9a Cover: Birthh",
+  "description": "Artiste italiane da ascoltare a tutto volume \ud83d\udc9a Cover: Ditonellapiaga",
   "name": "EQUAL Italia",
   "tracks": [
     {
@@ -824,7 +824,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 176526,
       "name": "A parte me",
       "url": "https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL"
@@ -1276,6 +1276,24 @@
       "duration_ms": 188846,
       "name": "Alberta",
       "url": "https://open.spotify.com/track/7Ip0HRkZwkhDsWb9xROQdM"
+    },
+    {
+      "album": {
+        "name": "ALE MAROC",
+        "url": "https://open.spotify.com/album/01PmjvqFGaIeRDwrFtluBQ"
+      },
+      "artists": [
+        {
+          "name": "Jasmin407",
+          "url": "https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126575,
+      "name": "ALE MAROC",
+      "url": "https://open.spotify.com/track/1SnqWvqpkeUtJS3ub9HxaU"
     },
     {
       "album": {
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 192083,
       "name": "Amore \u00e8",
       "url": "https://open.spotify.com/track/0XW2hU83XoLGKppz03cLL5"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 203333,
       "name": "Arancia",
       "url": "https://open.spotify.com/track/2jqmxMelum8kqDMWaoLEAV"
@@ -2681,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "artattack",
+        "url": "https://open.spotify.com/album/1c5SeRoIgLzP12kcT7thZk"
+      },
+      "artists": [
+        {
+          "name": "Eva Bloo",
+          "url": "https://open.spotify.com/artist/61Um32QN2K3bFQaLu6t6Of"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169021,
+      "name": "artattack",
+      "url": "https://open.spotify.com/track/5pPO93ibNn0xBGjrGmsynr"
+    },
+    {
+      "album": {
         "name": "Mi Giurano Eternit\u00e0",
         "url": "https://open.spotify.com/album/29AdvZDo2nt0b8V1sqpXpa"
       },
@@ -2692,7 +2728,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 273786,
       "name": "as I age",
       "url": "https://open.spotify.com/track/7Kj72ZtAjE39P0lA2mWwyo"
@@ -2804,7 +2840,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 164369,
       "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
       "url": "https://open.spotify.com/track/57KzV95Th155vud4KmLqLN"
@@ -5202,7 +5238,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 171147,
       "name": "candeline",
       "url": "https://open.spotify.com/track/7JnEv0Mxn0AWtjmJtXrO2M"
@@ -5920,6 +5956,28 @@
       "duration_ms": 165795,
       "name": "CHAOS PERFETTO",
       "url": "https://open.spotify.com/track/5tnxoaFOYSmGEaNVQDbyCF"
+    },
+    {
+      "album": {
+        "name": "Che Bella Vita (con Angelina Mango)",
+        "url": "https://open.spotify.com/album/1Y3WHJSYWtpVFUNqQ0zo4b"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167828,
+      "name": "Che Bella Vita (con Angelina Mango)",
+      "url": "https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G"
     },
     {
       "album": {
@@ -15362,7 +15420,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 186000,
       "name": "In Controluce",
       "url": "https://open.spotify.com/track/24uzeacrpKm4EZdytA3b4x"
@@ -16634,7 +16692,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 156000,
       "name": "La lucidit\u00e0",
       "url": "https://open.spotify.com/track/1UMEmbHtWHmAZNSY6fksRA"
@@ -18928,7 +18986,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 231893,
       "name": "Machemifai?",
       "url": "https://open.spotify.com/track/3ThF429aBXCBkXW7o3GHfC"
@@ -19000,7 +19058,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 228223,
       "name": "Maggio",
       "url": "https://open.spotify.com/track/6rEB5luZKJ3O7h1ykx1RFU"
@@ -19130,7 +19188,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 191875,
       "name": "Mai pi\u00f9",
       "url": "https://open.spotify.com/track/0FFbTg6unqjcuWAxamIorB"
@@ -19520,7 +19578,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 272773,
       "name": "Manchi",
       "url": "https://open.spotify.com/track/5cPZakfuv7yItj7wUICV7J"
@@ -22014,7 +22072,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 146868,
       "name": "Nena",
       "url": "https://open.spotify.com/track/2tldaEg5dObbWuYn1J4wKs"
@@ -23939,6 +23997,24 @@
     },
     {
       "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/6YT5QPVZzh7JIA7HK4gGHp"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206048,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/7g1CPq2enxhjC3L9VB6v4B"
+    },
+    {
+      "album": {
         "name": "Kalimera",
         "url": "https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF"
       },
@@ -24842,7 +24918,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 184670,
       "name": "Passaporti e Caramelle",
       "url": "https://open.spotify.com/track/7vy8zrm4dUdnpO0CCtwPI6"
@@ -25556,7 +25632,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 177849,
       "name": "Piume",
       "url": "https://open.spotify.com/track/3e6NpgKdxjOhzjJPVReisy"
@@ -26126,7 +26202,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 174222,
       "name": "PRIMADONNA",
       "url": "https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ"
@@ -29879,6 +29955,24 @@
     },
     {
       "album": {
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/1Uto0M3LEiKOennShYN0Ex"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179688,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/7riJihKIOy8ViGHpACwqdL"
+    },
+    {
+      "album": {
         "name": "Undici",
         "url": "https://open.spotify.com/album/0ejHIDyQgctHnVHRlKaPLa"
       },
@@ -31052,7 +31146,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 156126,
       "name": "Stasera",
       "url": "https://open.spotify.com/track/2Qcm0bkXHHP4PvrmTImdlo"
@@ -34660,7 +34754,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 167392,
       "name": "Venere e Marte",
       "url": "https://open.spotify.com/track/4YCZ5YGfcmVoUvii20xPRw"
@@ -35342,6 +35436,24 @@
       "duration_ms": 228000,
       "name": "Voglio amarti",
       "url": "https://open.spotify.com/track/6UNuErV8ejuYcWyVDDGntN"
+    },
+    {
+      "album": {
+        "name": "Voglio I Money",
+        "url": "https://open.spotify.com/album/0k99pW8EZoCBZsGKffWVdy"
+      },
+      "artists": [
+        {
+          "name": "Lil Jolie",
+          "url": "https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "Voglio I Money",
+      "url": "https://open.spotify.com/track/3kU00ujJyCJs4GmdUzaz7M"
     },
     {
       "album": {

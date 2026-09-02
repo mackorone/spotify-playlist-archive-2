@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Vianney, Angèle, Alex Warren et La Mano 1.9 x PLK au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,554 likes - 96 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,522 likes - 96 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 95 | [Boom](https://open.spotify.com/track/4bXEC4bKdmoVJMkZH3ShK3) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb), [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Boom](https://open.spotify.com/album/1gk3oGD4YnYUro6nUEPRLq) | 2:44 |
 | 96 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 
-Snapshot ID: `AAAAADAmLfe4iUK8/DYmjTJZNOe4xdxa`
+Snapshot ID: `AAAAANQtJjGKOpdGsZJhD9auuPX2JNG0`

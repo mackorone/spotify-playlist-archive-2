@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 619022,
+  "num_followers": 619073,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHkcgl1JUFEjOSdXAH4XhhZ+mql",
+  "snapshot_id": "AAAAAM356Y4UhtmOqMiyUHAIIdP8wHE4",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:16",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "Poes\u00eda B\u00e1sica",
-        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
-      },
-      "artists": [
-        {
-          "name": "Extrechinato y Tu",
-          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Rojitas",
-      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
-    },
-    {
-      "added_at": "2026-08-27 22:00:16",
-      "album": {
         "name": "Gente Impresentable",
         "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 270466,
       "name": "La senda del tiempo",
       "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
+    },
+    {
+      "added_at": "2026-08-27 22:00:16",
+      "album": {
+        "name": "Poes\u00eda B\u00e1sica",
+        "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
+      },
+      "artists": [
+        {
+          "name": "Extrechinato y Tu",
+          "url": "https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Rojitas",
+      "url": "https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI"
     },
     {
       "added_at": "2026-08-27 22:00:16",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2026-08-27 22:00:16",
-      "album": {
         "name": "Si Te Pones de Mi Parte",
         "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 319218,
       "name": "Si Te Pones de Mi Parte",
       "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:16",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-08-27 22:00:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
+    },
+    {
+      "added_at": "2026-08-27 22:00:16",
+      "album": {
         "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
         "url": "https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 193111,
       "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6"
-    },
-    {
-      "added_at": "2026-08-27 22:00:16",
-      "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2026-08-27 22:00:16",
@@ -1831,26 +1831,22 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
+        "name": "Punto de Colisi\u00f3n",
+        "url": "https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8"
       },
       "artists": [
         {
-          "name": "Melon Diesel",
-          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+          "name": "V\u00e9rtize",
+          "url": "https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz"
         },
         {
-          "name": "Gabriel De La Rosa",
-          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
-        },
-        {
-          "name": "Shinova",
-          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+          "name": "Poncho K",
+          "url": "https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz"
         }
       ],
-      "duration_ms": 262465,
-      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
-      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
+      "duration_ms": 242005,
+      "name": "Punto de Colisi\u00f3n",
+      "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
     },
     {
       "added_at": "2026-08-27 22:00:16",
@@ -1871,22 +1867,26 @@
     {
       "added_at": "2026-08-27 22:00:16",
       "album": {
-        "name": "Punto de Colisi\u00f3n",
-        "url": "https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8"
+        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
       },
       "artists": [
         {
-          "name": "V\u00e9rtize",
-          "url": "https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz"
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
         },
         {
-          "name": "Poncho K",
-          "url": "https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz"
+          "name": "Gabriel De La Rosa",
+          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
         }
       ],
-      "duration_ms": 242005,
-      "name": "Punto de Colisi\u00f3n",
-      "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
+      "duration_ms": 262465,
+      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
     },
     {
       "added_at": "2026-08-27 22:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,923 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,922 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 77 | [Makin' You Mine](https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV) | [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ), [KYA](https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9) | [Makin' You Mine/WHATCHUNEED](https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin) | 2:18 |
 | 78 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 79 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 |
-| 80 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
-| 81 | [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 |
+| 80 | [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 |
+| 81 | [Now That I Know You](https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Now That I Know You](https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7) | 3:46 |
 | 82 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 |
 | 83 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 |
 | 84 | [LIME](https://open.spotify.com/track/2hPDMrRuZYlNmea4QdCxj9) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [LIME](https://open.spotify.com/album/0cntvKHE1aJK5ysJJWPlDM) | 3:15 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 86 | [Another Life](https://open.spotify.com/track/4e4pO1c9DUlBwMEzN1iS3v) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Take Two](https://open.spotify.com/album/4h4Qdr8JqB24QhrfL98Rym) | 1:53 |
 | 87 | [White Doves](https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [White Doves](https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc) | 4:44 |
 | 88 | [Losing You](https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Losing You](https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX) | 3:27 |
-| 89 | [Stay Up](https://open.spotify.com/track/1j2nst74Fri33ZcEP3tbaP) | [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [Stay Up](https://open.spotify.com/album/05iSw1a8uWIchW2ntRaEVE) | 2:14 |
-| 90 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
+| 89 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
+| 90 | [Stay Up](https://open.spotify.com/track/1j2nst74Fri33ZcEP3tbaP) | [Gaptoof](https://open.spotify.com/artist/4I6A3EOnjIx9tjVHwDSJzZ), [Mushkilla](https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU) | [Stay Up](https://open.spotify.com/album/05iSw1a8uWIchW2ntRaEVE) | 2:14 |
 | 91 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 |
 | 92 | [Mini Excursion](https://open.spotify.com/track/41vPgM81KFafqEaJSzx6SE) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [Negro Impacto](https://open.spotify.com/album/78N4g5LjH2YYjiVlg8jlW3) | 3:07 |
 | 93 | [Boundaries](https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [Boundaries](https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 99 | [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 |
 | 100 | [LONG TERM PARKING](https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e) | [Luke RV](https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd) | [LONG TERM PARKING](https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu) | 2:42 |
 
-Snapshot ID: `AAAAAJ4NIttE/RQRgU0P534+HxKV+I1u`
+Snapshot ID: `AAAAAK8y9Gr3Sa0PMA9t1pmoI0DXvua6`

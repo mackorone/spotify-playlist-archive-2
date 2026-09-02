@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Chandler Jewels
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,972 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,964 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 31 | [Thug like me](https://open.spotify.com/track/6zTL4nbyPzJzC5DlzvTIv1) | [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot), [Mista LT](https://open.spotify.com/artist/297Nn16JjUcYBY47isCGHR) | [Thug like me](https://open.spotify.com/album/1kG3r2LtTVqf5x97TQWLCO) | 2:20 |
 | 32 | [evil again](https://open.spotify.com/track/31vBLMjRL0zLgsQzse3tmJ) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [evil again](https://open.spotify.com/album/0zZnUnudB2qNfTlLlBCjM6) | 2:08 |
 | 33 | [Making Promises](https://open.spotify.com/track/4kVLd059k0S5WGNo8ULoZh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Making Promises](https://open.spotify.com/album/7EFfR2LfIfXxSoIPQZ8b8T) | 2:24 |
-| 34 | [No L's](https://open.spotify.com/track/5Mx80gVm3n6DD1hIV1C8Xk) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [No L's](https://open.spotify.com/album/4oMbcZsjIqJBcwVYXX7PFg) | 3:41 |
+| 34 | [No L's](https://open.spotify.com/track/5Mx80gVm3n6DD1hIV1C8Xk) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [No L's](https://open.spotify.com/album/4oMbcZsjIqJBcwVYXX7PFg) | 3:44 |
 | 35 | [IDFK](https://open.spotify.com/track/0YQE5ifusjCPWgwYXc45St) | [takytheartist](https://open.spotify.com/artist/43Wy4rxJRXDA9ybTkBz2Lf) | [IDFK](https://open.spotify.com/album/3PIqa7VvJcXMRG1HBBfveF) | 2:33 |
 | 36 | [Who is this](https://open.spotify.com/track/6bMhRR5YlzitohR5xPOFHw) | [Fraksha](https://open.spotify.com/artist/1LNA0Z5On9miY8WjoEcstl), [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [GHOST EP](https://open.spotify.com/album/03g9bw3MW7LZlocBe3j3C3) | 3:39 |
 | 37 | [F\*CK YOURSELF FREESTYLE](https://open.spotify.com/track/7qn8jPsr9LLXEdZjSZPKDP) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [F\*CK YOURSELF FREESTYLE](https://open.spotify.com/album/3S2Estfuhrn3wOiX5MOaN3) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Swear Mums](https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Swear Mums](https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn) | 3:16 |
 | 100 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 |
 
-Snapshot ID: `AAAAAMQ4e65By3llkNPXEpT/VHprGznf`
+Snapshot ID: `AAAAADn+bZhgGO2jEs1IH2r+7vG6XpQq`

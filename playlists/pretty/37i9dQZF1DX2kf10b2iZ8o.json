@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24506,
+  "num_followers": 24508,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWOzOf4utl+RLZCaEghieCEd/Ta",
+  "snapshot_id": "AAAAANepMM0yTn8hVab5nTcNaO6Cg/ja",
   "tracks": [
     {
       "added_at": "2025-01-14 15:56:57",
@@ -619,6 +619,30 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 02",
+        "url": "https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n"
+      },
+      "artists": [
+        {
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
+        },
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        },
+        {
+          "name": "F-LAGS",
+          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+        }
+      ],
+      "duration_ms": 259706,
+      "name": "Fine Day\uff01Find Way\uff01",
+      "url": "https://open.spotify.com/track/1CLTmRMDS8BVK8rJXmAwZx"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
         "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
       },
@@ -663,22 +687,6 @@
       "duration_ms": 214133,
       "name": "Determined Soul",
       "url": "https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046\u3010SideM\u76e4\u3011",
-        "url": "https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1"
-      },
-      "artists": [
-        {
-          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
-          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
-        }
-      ],
-      "duration_ms": 335200,
-      "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
-      "url": "https://open.spotify.com/track/4WaImo6p8wstLV6npjIFeI"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -819,18 +827,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
-        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
+        "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046\u3010SideM\u76e4\u3011",
+        "url": "https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1"
       },
       "artists": [
         {
-          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
-          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
+          "name": "\u5929\u9053 \u8f1d (CV.\u4ef2\u6751\u5b97\u609f)",
+          "url": "https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa"
         }
       ],
-      "duration_ms": 283346,
-      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
+      "duration_ms": 335200,
+      "name": "\u306a\u3093\u3069\u3067\u3082\u7b11\u304a\u3046",
+      "url": "https://open.spotify.com/track/4WaImo6p8wstLV6npjIFeI"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -851,26 +859,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 02",
-        "url": "https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n"
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
       },
       "artists": [
         {
-          "name": "DRAMATIC STARS",
-          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
-        },
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        },
-        {
-          "name": "F-LAGS",
-          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl"
         }
       ],
-      "duration_ms": 259706,
-      "name": "Fine Day\uff01Find Way\uff01",
-      "url": "https://open.spotify.com/track/1CLTmRMDS8BVK8rJXmAwZx"
+      "duration_ms": 283346,
+      "name": "HAPPY HAPPY\u30df\u30fc\u30c6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb"
     },
     {
       "added_at": "2025-01-14 15:56:57",

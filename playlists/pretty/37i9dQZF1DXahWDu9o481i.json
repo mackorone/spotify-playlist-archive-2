@@ -1,12 +1,12 @@
 {
-  "description": "The best new songs of the month, handpicked by Spotify editors. Cover: MILLENNIUM PARADE",
-  "num_followers": 113411,
-  "original_name": "Editors' Picks: Best Songs of July",
+  "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KAROL G, rusowsky, Judeline.",
+  "num_followers": 113426,
+  "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABuyAw3drAD4aQ+QvBVuB3MXLASg",
+  "snapshot_id": "AAAAAFLAQWBp7ZrJRpaU0fJlH2LWoZYx",
   "tracks": [
     {
       "added_at": "2026-09-01 04:00:27",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "AH HA",
-        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "AH HA",
-      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Marianne",
         "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 225645,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "Look Like My Mama (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Look Like My Mama (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 169613,
       "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
       "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "Look Like My Mama (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/0EsUHWM4mccn6i0Y9PtU2K"
-      },
-      "artists": [
-        {
-          "name": "AZ Chike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Look Like My Mama (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "THRASHER",
-        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
-      },
-      "artists": [
-        {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Does It Ever Cross Your Mind?",
-      "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "ROADRUNNER",
         "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 161086,
       "name": "DADAMAN",
       "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "THRASHER",
+        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Does It Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "BIRDS: SLAYYYTER VERSION",
+      "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Gentlewoman",
         "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
@@ -571,26 +591,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "BIRDS: SLAYYYTER VERSION",
-      "url": "https://open.spotify.com/track/45vsoreF31oxkbKL9V7d3R"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "A Thousand Times",
         "url": "https://open.spotify.com/album/1Q548wgBsC8CsA27DURe1G"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 187333,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Love Me Through",
+        "url": "https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 203221,
+      "name": "Love Me Through",
+      "url": "https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -643,18 +659,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Love Me Through",
-        "url": "https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO"
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
         }
       ],
-      "duration_ms": 203221,
-      "name": "Love Me Through",
-      "url": "https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9"
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -675,22 +691,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Lean On",
-        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
-      },
-      "artists": [
-        {
-          "name": "Miles Caton",
-          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 210293,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Fur Elise",
+        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "Fur Elise",
+      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Fur Elise",
-        "url": "https://open.spotify.com/album/3lqXCKvlrQ6EjO4PrFcAcF"
+        "name": "All American",
+        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
       },
       "artists": [
         {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
         }
       ],
-      "duration_ms": 256413,
-      "name": "Fur Elise",
-      "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
+      "duration_ms": 228146,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -763,18 +779,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "All American",
-        "url": "https://open.spotify.com/album/45JLlolM49Iw5VAccAEO1M"
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
       },
       "artists": [
         {
-          "name": "Isabel Dumaa",
-          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
         }
       ],
-      "duration_ms": 228146,
-      "name": "All American",
-      "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -791,6 +807,22 @@
       "duration_ms": 167287,
       "name": "Red Wine Holiday",
       "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "fue fuerte saber que t\u00fa ya no sientes",
+        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "fue fuerte saber que t\u00fa ya no sientes",
+      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -819,38 +851,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "the cops are coming",
-        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
-      },
-      "artists": [
-        {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
-        }
-      ],
-      "duration_ms": 193615,
-      "name": "the cops are coming",
-      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "fue fuerte saber que t\u00fa ya no sientes",
-        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "fue fuerte saber que t\u00fa ya no sientes",
-      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": ".com",
         "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "The Seams",
+        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 316400,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Fell Asleep in the Sun",
         "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
       },
@@ -887,18 +903,34 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "The Seams",
-        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
       },
       "artists": [
         {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 316400,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "added_at": "2026-09-01 17:51:42",
+      "album": {
+        "name": "The Womack Sisters",
+        "url": "https://open.spotify.com/album/7DM9ZgCLCWorHqBB1GsjRh"
+      },
+      "artists": [
+        {
+          "name": "The Womack Sisters",
+          "url": "https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/4etJz8bmYnkGY7oJ3OMe5a"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -967,22 +999,6 @@
       "duration_ms": 204560,
       "name": "i wish you were here",
       "url": "https://open.spotify.com/track/2qQx55M2yKNA630JN70NnG"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "Wild Woman",
-        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 179303,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "Don't Be Funny Without Me",
+        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Otherwise, I'm Fine",
+      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "PLEASURE TO MEET YOU",
         "url": "https://open.spotify.com/album/4XqLQZQCGJea014jHi6lY0"
       },
@@ -1131,22 +1163,6 @@
       "duration_ms": 180002,
       "name": "Needle",
       "url": "https://open.spotify.com/track/0Bxh3DKY42997tK3SBY6iD"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "Don't Be Funny Without Me",
-        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Otherwise, I'm Fine",
-      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -1215,24 +1231,8 @@
       "duration_ms": 141000,
       "name": "Senses",
       "url": "https://open.spotify.com/track/7tLM1eOQl0yWkMIsn7rl3b"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/5xZ5eO5YPmdyqyWyrdnc5W"
-      },
-      "artists": [
-        {
-          "name": "Gabby Poli",
-          "url": "https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/1HJhbVuPkikmPUSSx48n4a"
     }
   ],
-  "unique_name": "Editors' Picks: Best Songs of July",
+  "unique_name": "Editors' Picks: Best Songs of August",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXahWDu9o481i"
 }

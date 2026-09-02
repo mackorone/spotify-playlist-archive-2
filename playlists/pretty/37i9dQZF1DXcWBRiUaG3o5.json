@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1112130,
+  "num_followers": 1111993,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtv+9LVQ4eWgUGsXzMDntSM89Qa",
+  "snapshot_id": "AAAAAEFmPOHkVrCUalUmqIYGNdTz/rcX",
   "tracks": [
     {
       "added_at": "2024-08-23 15:12:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Cormorant Bird",
         "url": "https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 207441,
       "name": "Cormorant Bird",
       "url": "https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Campfire, Vol. 1",
-        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Let's Go Outside - Campfire Version",
-      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 317266,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Bedouine",
-        "url": "https://open.spotify.com/album/48LoTRKcLWxQiDVCPUhW05"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/6FJYO7Oh2DaA1Tl6J0nv5O"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 331173,
       "name": "I Will Be Blessed",
       "url": "https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Bedouine",
+        "url": "https://open.spotify.com/album/48LoTRKcLWxQiDVCPUhW05"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/6FJYO7Oh2DaA1Tl6J0nv5O"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1539,22 +1555,6 @@
       "duration_ms": 168853,
       "name": "Before the Sun",
       "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck"
     },
     {
       "added_at": "2024-08-23 15:12:14",

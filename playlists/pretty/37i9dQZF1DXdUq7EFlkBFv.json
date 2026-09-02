@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 26191,
+  "num_followers": 26198,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANh40x75fv9rBGWQvIm7K0i6FqW/",
+  "snapshot_id": "AAAAAIKCAyMn3Uhmp1S/AMRPnPfStDHs",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Harley Quinn",
+        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Trip At Knight",
         "url": "https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 188025,
       "name": "Matt Hardy 999 (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/4zbr7Cp3UB00FurUovPU03"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Harley Quinn",
-        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Harley Quinn",
-      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
     },
     {
       "added_at": "2022-10-01 16:17:17",

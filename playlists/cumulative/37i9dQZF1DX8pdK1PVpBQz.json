@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: LILY B",
+  "description": "The best new music by independent artists and labels. Cover: Sammi Heaney",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -9831,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "magenta isn't real",
+        "url": "https://open.spotify.com/album/4anA05gMH90R8CYBXloChr"
+      },
+      "artists": [
+        {
+          "name": "*ssx",
+          "url": "https://open.spotify.com/artist/27a3okXRntWhm0OUHcUt1D"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123362,
+      "name": "brains",
+      "url": "https://open.spotify.com/track/6TKiTdClVp7rJNH6HZRNxL"
+    },
+    {
+      "album": {
         "name": "Brainwashing",
         "url": "https://open.spotify.com/album/1qrzjwSNA5yLu6JPOLRS8Z"
       },
@@ -18116,6 +18134,28 @@
     {
       "album": {
         "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3I8yZm1yuq7zgW6PkqKVmP"
+      },
+      "artists": [
+        {
+          "name": "HALES",
+          "url": "https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K"
+        },
+        {
+          "name": "Ezra loau",
+          "url": "https://open.spotify.com/artist/4IZfla9rVtNU8QW1262ugd"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203313,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/4KfZ3Zl2HzXerA5mgcQIMv"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
         "url": "https://open.spotify.com/album/7LR9vWBf6ZFqgoSzKI12rC"
       },
       "artists": [
@@ -20482,7 +20522,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 214174,
       "name": "Doomed",
       "url": "https://open.spotify.com/track/3BVFTEyQ3YKmrZGOYRXCD0"
@@ -30894,7 +30934,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 245052,
       "name": "green eyes",
       "url": "https://open.spotify.com/track/3WwHdeYbevafqyeePaASmn"
@@ -31192,6 +31232,24 @@
       "duration_ms": 150159,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2"
+    },
+    {
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F"
+      },
+      "artists": [
+        {
+          "name": "Sammi Heaney",
+          "url": "https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226122,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr"
     },
     {
       "album": {
@@ -37260,7 +37318,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 228853,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3w4t7Cku7fTLvQFOOwUThg"
@@ -38818,7 +38876,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 257242,
       "name": "Infected",
       "url": "https://open.spotify.com/track/0GtZ6QVU4xuQXXGlE6ZA3s"
@@ -43094,7 +43152,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 158446,
       "name": "LETTING EM KNOW",
       "url": "https://open.spotify.com/track/0Zl7WiLaAeHMyz0si3Tw8G"
@@ -59922,6 +59980,24 @@
       "duration_ms": 233585,
       "name": "Promises",
       "url": "https://open.spotify.com/track/7khZGQavMcaIdzhBngeCsR"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6YnsWTMaWwzhBofOx0HxnR"
+      },
+      "artists": [
+        {
+          "name": "MARLON",
+          "url": "https://open.spotify.com/artist/3b6PHC15TZKbHLFxvD8Zkl"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152085,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7LtRyvIdq7Yqhth3xIbQ9G"
     },
     {
       "album": {
@@ -78412,6 +78488,24 @@
     {
       "album": {
         "name": "Turbulence",
+        "url": "https://open.spotify.com/album/17c35sX2SYloFjYOIRkCHh"
+      },
+      "artists": [
+        {
+          "name": "Amourie T.",
+          "url": "https://open.spotify.com/artist/0g9c45gPRkP3xtxoFL2kb6"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224108,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6iVZYOY9tGVl5GlbipzomO"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
         "url": "https://open.spotify.com/album/73ln8EBit3P77OUxxSNdBU"
       },
       "artists": [
@@ -83460,7 +83554,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 193840,
       "name": "Who We Were",
       "url": "https://open.spotify.com/track/2Lu2hwiB6eJdN9cpiyrITe"

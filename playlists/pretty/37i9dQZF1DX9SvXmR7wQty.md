@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Angèle, Grand Corps Malade,  David Campana, Natasha St\-Pier, Phil Rxcket, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,191 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,198 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 59 | [l'amour aux temps des samouraïs](https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [un](https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc) | 2:57 |
 | 60 | [Soleil](https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Soleil](https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ) | 4:14 |
 | 61 | [Maintenant](https://open.spotify.com/track/6lbk3JDcxnz8D4J9r9zunY) | [MARIE NEIGES](https://open.spotify.com/artist/2pHSyGrMFR9MTE5jB0gOCA) | [Maintenant](https://open.spotify.com/album/20DnDLMs3qT2Svt181yw9L) | 4:02 |
-| 62 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Piket](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
+| 62 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [PIKET](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
 | 63 | [ROCKY IV](https://open.spotify.com/track/6JgEubDKmZiPlTDPjGJnWj) | [Lunaire](https://open.spotify.com/artist/2utqlnLLPdrTcaohqgDLCS) | [ROCKY IV](https://open.spotify.com/album/2coUbO0VrkCEbsGmdHmdcN) | 3:34 |
 | 64 | [Flashlight](https://open.spotify.com/track/4ZeCK8H2TlGhwRnxXvFgon) | [S’tano](https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc) | [Flashlight](https://open.spotify.com/album/6wlzIP6gHjq9tGqVCLxRKH) | 3:09 |
 | 65 | [countryside](https://open.spotify.com/track/4sabkYnGutLOU6zhDn9Phd) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW), [lilaash](https://open.spotify.com/artist/729vgKeCJUtP8bNXc8v9Rl) | [countryside](https://open.spotify.com/album/4Mo5C6wDYX0tzO0cdS1Ac9) | 3:01 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 97 | [Tout Le Monde](https://open.spotify.com/track/1finySiEWfRhJbF9YbMbSU) | [Rachel Dara](https://open.spotify.com/artist/3hF6E1ngi70xWEeDjFUYFJ) | [Tout Le Monde](https://open.spotify.com/album/48ZIzAwkze1rutccjnuU6t) | 3:45 |
 | 98 | [Bad vibes](https://open.spotify.com/track/66VhIWsixMkh4OXj8BFifW) | [Froztee](https://open.spotify.com/artist/34rfKmTt45H2yTQ7FtqICv), [Saje](https://open.spotify.com/artist/6zHxB91OwANJhj6tDKGOXV) | [Mauvais œil](https://open.spotify.com/album/6aiDOdB35YwK4io8IDJREh) | 2:35 |
 
-Snapshot ID: `AAAAAAdPJy0YjukWQ1CtgaLnwBj0qfmP`
+Snapshot ID: `AAAAAKxuC7r+wcTH6/Wsfl61opjMfNMN`

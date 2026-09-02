@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Soulitaire",
+        "url": "https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231677,
+      "name": "J'esp\u00e8re qu'on me pardonne",
+      "url": "https://open.spotify.com/track/3DjtC4ID5Te2aOyD89hfE3"
+    },
+    {
+      "album": {
         "name": "J'le promets",
         "url": "https://open.spotify.com/album/40AWLwqkJCaym3GAnVhUHl"
       },

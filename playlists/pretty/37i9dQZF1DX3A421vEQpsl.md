@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Dhurandhar The Revenge
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,636 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,777 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Haseeno Ka Deewana](https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Gourov\-Roshin](https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC), [Rajesh Roshan](https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Anjaan](https://open.spotify.com/artist/6S1g6iKAiOZjLFxlrIXm2e) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 3:49 |
 | 50 | [Haan Main Galat \(From "Love Aaj Kal"\)](https://open.spotify.com/track/068HSvCf5MbQfhV4qqaelg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Haan Main Galat \(From "Love Aaj Kal"\)](https://open.spotify.com/album/5e0lk4qOylKNYoQKe7nxhC) | 3:38 |
 
-Snapshot ID: `AAAAAJwhEMPPP+5Pv3p91tjVKYeYmCTh`
+Snapshot ID: `AAAAACs3V18XsvNDEnbE1fQpVtijhXS4`

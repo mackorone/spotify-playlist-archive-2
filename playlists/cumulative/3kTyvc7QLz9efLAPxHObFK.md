@@ -4,7 +4,7 @@
 
 > 
 
-3,189 songs - 6 day 20 hr 9 min
+3,190 songs - 6 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2926,6 +2926,7 @@
 | [Underground](https://open.spotify.com/track/6cXCOdCzCkuw6kd769g3vL) | [Bionator Project](https://open.spotify.com/artist/6IbzmZw1iBjZkVnPXTwyHt) | [Underground](https://open.spotify.com/album/0PZustmG5baBunm67mG8N1) | 2:33 | 2023-03-02 |  |
 | [Underground](https://open.spotify.com/track/0UAhTNcwJnWqMxgxbMwIcc) | [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [Underground](https://open.spotify.com/album/4OlLItspmvFMYGdd7ZCDHN) | 2:16 | 2025-08-02 |  |
 | [UNDERGROUND](https://open.spotify.com/track/71BVtETGjt7565zQgnLDHP) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb) | [VAMPIRE WEAPON: CRIMSON](https://open.spotify.com/album/6vg5S2entTryFjvJhCq4Kv) | 3:02 | 2023-10-24 |  |
+| [UNDERGROUND](https://open.spotify.com/track/75jxcaLJYPZ5rPzR8LwoS0) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw), [Detailed](https://open.spotify.com/artist/4iqEVZEav7vIiv1HStr6Gx) | [UNDERGROUND](https://open.spotify.com/album/38kjyJpTLSDfVgnEWFCrYK) | 2:24 | 2026-09-01 |  |
 | [Underground](https://open.spotify.com/track/70XJn5mL67MhBiMs9mzeFK) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Underground](https://open.spotify.com/album/4DmnDqILe4zMWKrpZcvOy3) | 3:46 | 2025-12-01 |  |
 | [Underground Circles](https://open.spotify.com/track/4VGWHTKReAWOsk4WUek08Y) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Underground Circles](https://open.spotify.com/album/1dsmFIrPiUflAdr3jBHnVK) | 3:36 | 2022-09-06 |  |
 | [UNF0UND\_LOV3](https://open.spotify.com/track/6q3UXiXOh1XlCXA2YTe62Z) | [Glockley](https://open.spotify.com/artist/157SdTNdJetkOnJhwn2Mdw), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [UNF0UND\_LOV3](https://open.spotify.com/album/7etBVyGdQiFavOZXyUjJIi) | 2:44 | 2023-04-10 |  |

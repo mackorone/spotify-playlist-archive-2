@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uG3nl.md) - [plain]
 | 13 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |
 | 14 | [High Fashion](https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:18 |
 
-Snapshot ID: `apNygAAAAACEH9+0DeRTRQ911myavVKl`
+Snapshot ID: `apTEAAAAAABtMoIfFTHDbCzlw6kwzOG0`

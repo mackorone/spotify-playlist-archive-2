@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,729 likes - 114 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,888 likes - 114 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 113 | [Mukti Tabla](https://open.spotify.com/track/3UjpG0dPWvSS8tsDsgvuy8) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Mukti Tabla](https://open.spotify.com/album/2FMS4ESQD2agh4k7bbo1vk) | 2:33 |
 | 114 | [Temple of Resonance](https://open.spotify.com/track/4Y5gelCj6cTwO9fro4vTTf) | [Willow Woodgrove](https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP) | [Temple of Resonance](https://open.spotify.com/album/5iMFCM0K718XF9eWKq8vfr) | 2:55 |
 
-Snapshot ID: `AAAAAEGpqFCrL7ZuxI3jK+cNSOh3N3v2`
+Snapshot ID: `AAAAANDZq44KM3pLBsb5cCOEWLseaBCv`

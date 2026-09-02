@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,460 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,427 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I miss ur friends](https://open.spotify.com/track/34n32rHxDmPhbosbqY2LDr) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [I miss ur friends](https://open.spotify.com/album/3vAdGsmrDarDG4cl7urAEJ) | 2:01 |
 | 75 | [There Goes Ma Head](https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/0Q7HPYmrJWTXUnf3QqRx3W) | 2:36 |
 
-Snapshot ID: `AAAAAD06AlOTQPJ2SIWgsl1WJ/jOhf2Z`
+Snapshot ID: `AAAAAEbFEUW/VcFElGgk1Lua9cLOczC/`

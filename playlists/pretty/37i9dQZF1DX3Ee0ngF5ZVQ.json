@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 399733,
+  "num_followers": 399695,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADqmIXM6mb1HEIrWtb5tsbUU1JNd",
+  "snapshot_id": "AAAAAEwmbU8kwkFSXNl5viUrzZe6mFrt",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:44",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Fan of You",
-        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 221816,
-      "name": "Fan of You",
-      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Fan of You",
+        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 221816,
+      "name": "Fan of You",
+      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "When I Write The Song",
+        "url": "https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw"
+      },
+      "artists": [
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "duration_ms": 248053,
+      "name": "Two First Names",
+      "url": "https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Hard Land",
         "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "When I Write The Song",
-        "url": "https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        }
-      ],
-      "duration_ms": 248053,
-      "name": "Two First Names",
-      "url": "https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Another Man",
-        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
-      },
-      "artists": [
-        {
-          "name": "Caiden Wallace",
-          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "Another Man",
-      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Old Fashioned Feeling",
         "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 202280,
       "name": "Old Fashioned Feeling",
       "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Another Man",
+        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Pancho and Lefty",
+        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        },
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 309510,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "God Blessed Texas",
         "url": "https://open.spotify.com/album/23oHCXpMbOCGkvEgvsbSfG"
       },
@@ -1455,22 +1475,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Pancho and Lefty",
-        "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
+        "name": "Hearts Don't",
+        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        },
-        {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
         }
       ],
-      "duration_ms": 309510,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+      "duration_ms": 218000,
+      "name": "Hearts Don't",
+      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1499,18 +1515,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Hearts Don't",
-        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
       },
       "artists": [
         {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        },
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Hearts Don't",
-      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
+      "duration_ms": 206266,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1531,26 +1551,6 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Two Hands",
-        "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        },
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Two Hands",
-      "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
     },
     {
       "added_at": "2026-08-07 04:01:44",

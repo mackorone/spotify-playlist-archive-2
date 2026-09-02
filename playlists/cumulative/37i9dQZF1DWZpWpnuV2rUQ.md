@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-695 songs - 1 day 12 hr 37 min
+696 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bichigyal \- Remix](https://open.spotify.com/track/4v45rww5vNHvlu3iqdwa9u) | [PRIZE](https://open.spotify.com/artist/2Xd2pJZdm7FjIFnfuMi66R), [Sautu](https://open.spotify.com/artist/1uhbSZzf1a3lwdRzlX302B), [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o), [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Tiano](https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D) | [Bichigyal \(Remix\)](https://open.spotify.com/album/6fp2lUFm34oeOuwRC5t9Jf) | 5:30 | 2024-06-28 | 2024-08-18 |
 | [BIENVENIDA](https://open.spotify.com/track/3LQigrdxIRn7KD4GaRzGRR) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [BIENVENIDA](https://open.spotify.com/album/0ESp6bF0Ur4LEREJqihybn) | 1:45 | 2026-02-13 | 2026-06-27 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-10 | 2024-07-17 |
-| [Black Russian](https://open.spotify.com/track/5Gj48C8xVPJyTOJpSyllmY) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Perfume de la Tempestad](https://open.spotify.com/album/54Tzuw0docS29npLiT9D3A) | 4:19 | 2026-08-24 |  |
+| [Black Russian](https://open.spotify.com/track/5Gj48C8xVPJyTOJpSyllmY) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [El Perfume de la Tempestad](https://open.spotify.com/album/54Tzuw0docS29npLiT9D3A) | 4:19 | 2026-08-24 | 2026-09-02 |
 | [Blame It on the Rain](https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Blame It On The Rain \(Sped Up\)](https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp) | 4:08 | 2024-10-17 | 2024-10-23 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-24 | 2024-02-20 |
 | [Bomba Bomba \(tacones, uñas, pelo largo\)](https://open.spotify.com/track/69xk9ZJcndRRZgR9mcrerO) | [Jeremias Suez](https://open.spotify.com/artist/6WBJf1wKuMZvRN8RkB9UDa) | [Bomba Bomba \(tacones, uñas, pelo largo\)](https://open.spotify.com/album/75ezWv0q5rjEpU5R0PuFY4) | 1:12 | 2025-05-29 | 2026-04-03 |
@@ -590,6 +590,7 @@
 | [Tan Mala](https://open.spotify.com/track/0u7IFZB1z9Z2u5Q9DasVKd) | [salas flaco](https://open.spotify.com/artist/35DjUjNHUUlFxsEPS3kF6a) | [La Doble Vida Soy un Super Heroe](https://open.spotify.com/album/6qFUIhNdmvQcOBFFSIa46e) | 1:48 | 2025-08-19 | 2026-06-27 |
 | [TE AMO ♡](https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [TE AMO ♡](https://open.spotify.com/album/6bviD87DMgRYC2qqckILTx) | 2:33 | 2024-05-27 | 2024-10-18 |
 | [Te Encanta](https://open.spotify.com/track/3WUFTFFz8hVOKLiXd6notP) | [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Te Encanta](https://open.spotify.com/album/6UWvjfpdcAgINIoCzmdib0) | 3:44 | 2023-12-28 | 2024-06-29 |
+| [Te Estoy Correteando](https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:13 | 2026-09-01 |  |
 | [TE FUI A SEGUIR](https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:33 | 2023-12-26 | 2024-01-17 |
 | [Te llevo tatuada](https://open.spotify.com/track/2i5QOIGSKHw8TP5ljZJg5w) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:10 | 2026-05-01 | 2026-06-27 |
 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 | 2024-04-09 | 2024-07-30 |

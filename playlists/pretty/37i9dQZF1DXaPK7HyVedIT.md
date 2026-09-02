@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: RUBACK, Roddy Lima, Sarah de Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,700 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,561 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Rebel Boogie Nights](https://open.spotify.com/track/6H7Vhpkq4yNqFPWkmpfjn3) | [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT) | [Rebel Boogie Nights](https://open.spotify.com/album/6aSpT40FF1z6k1ODlIjpp6) | 5:03 |
 | 80 | [Crazy](https://open.spotify.com/track/2JK3u8ADAVeZIV0jIHkxro) | [Dre Guazzelli](https://open.spotify.com/artist/4NnfyZ8ExJjtf6vuWHPoNl), [Tom Keller](https://open.spotify.com/artist/47tRWcCRai6k1FiR33rX5V), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Crazy](https://open.spotify.com/album/4sQQVxHM7n5r40or6e6cZZ) | 5:55 |
 
-Snapshot ID: `AAAAAN6fnWKVusM1G3dMtNktn5DQK06a`
+Snapshot ID: `AAAAAFWKAxzbPtilGkcyWfAlDupPZIcH`

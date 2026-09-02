@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 91 songs - 5 hr 21 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 89 | [Rooh Ka Sakoon](https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN) | [Temur Roy](https://open.spotify.com/artist/6bSFAMMAwCAYd4BuoTztFR) | [Ishq Aur Rooh](https://open.spotify.com/album/698myUVMT6dq9C4uC0VfUV) | 4:19 |
 | 90 | [Dream Again](https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [Dream Again](https://open.spotify.com/album/5shHelhedh5mUBcZqtsy9d) | 2:42 |
 | 91 | [Loophole](https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Loophole](https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe) | 4:34 |
+| 92 | [Happy for a while](https://open.spotify.com/track/57Plzqe9EDEkswEGkWz9Jw) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Happy for a while](https://open.spotify.com/album/5SUtQyc13S3UYryPMT2OqN) | 3:19 |
+| 93 | [The Junkie](https://open.spotify.com/track/0gcl4atoMxcPJ50DD8RM9D) | [The Magenta](https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s) | [May Cause Addiction](https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo) | 5:52 |
+| 94 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 |
+| 95 | [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 |
+| 96 | [The Death of Rock & Roll](https://open.spotify.com/track/3UGcLV6On36MbHWAbMM8Ip) | [The Armchair Captains](https://open.spotify.com/artist/7k6u8kbWjs1j3L1K4H5ROs) | [Better Late than Never.](https://open.spotify.com/album/3tLQwTBEBYLmF7NOX97oWt) | 3:47 |
+| 97 | [Adonde quiera que voy](https://open.spotify.com/track/2Zm0CSYLIxmgp3qX1siXB5) | [saulo osorio gonzález](https://open.spotify.com/artist/5X0TYsqyphhYpJrNpT0eh4) | [Adonde quiera que voy](https://open.spotify.com/album/182R6hxnTOnG2fZ4oPxOlZ) | 3:43 |
+| 98 | [L.O.M.L](https://open.spotify.com/track/6IlOhijUsHBqFw8ZPcAnKV) | [Wireless Connection](https://open.spotify.com/artist/2NzB0aUWHQVbu6DPlBYhuX) | [When the Rain Starts Falling Down](https://open.spotify.com/album/3mDtWm0mEmdXEGSwOsGEUo) | 3:01 |
+| 99 | [Il ritmo della natura](https://open.spotify.com/track/5xOzT3bXDAwkfyBsl9Q781) | [Dorian once again](https://open.spotify.com/artist/6EgYtL5WbkJhU72NH3PVie) | [Noumeno](https://open.spotify.com/album/0autHRNoIcfDvfRXSSl2vQ) | 5:22 |
+| 100 | [camouflaging \- demo](https://open.spotify.com/track/6ZN0wjcbOzuG9OBDk63arf) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [puzzle peaces \(live demo EP\)](https://open.spotify.com/album/3SRMMHmTEQHFXixSMWOdu8) | 4:09 |
+| 101 | [Tap Your Toe And Follow Me](https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:52 |
 
-Snapshot ID: `AAAXhrBvbRvwCDoxS24N0JKgSKOZJROr`
+Snapshot ID: `AAAXkK4jkWzECNnD6FVASgTaYuWp4Mj/`

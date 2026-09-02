@@ -1,12 +1,12 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 47345,
+  "num_followers": 47356,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMRM6w8DddSKEyJbKpEkPER6ZoBS",
+  "snapshot_id": "AAAAANUtPKsCauDSlkSxmFtvRL7YI3/K",
   "tracks": [
     {
       "added_at": "2026-07-16 22:01:26",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Wat Is Dan Liefde",
-        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
-      },
-      "artists": [
-        {
-          "name": "Silver Metz",
-          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
-        }
-      ],
-      "duration_ms": 156813,
-      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
-      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
         "name": "Dit Is Zo'n Dag",
         "url": "https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 207905,
       "name": "Dit Is Zo'n Dag",
       "url": "https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
+        "name": "Wat Is Dan Liefde",
+        "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
+      },
+      "artists": [
+        {
+          "name": "Silver Metz",
+          "url": "https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt"
+        }
+      ],
+      "duration_ms": 156813,
+      "name": "Wat Is Dan Liefde - Hazes Is De Basis",
+      "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Hardop",
-        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
-      },
-      "artists": [
-        {
-          "name": "Danique",
-          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Onzeker Van Liefde",
-      "url": "https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
         "name": "Droom Een Beetje Meer",
         "url": "https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 205472,
       "name": "Droom Een Beetje Meer",
       "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
+        "name": "Hardop",
+        "url": "https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5"
+      },
+      "artists": [
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Onzeker Van Liefde",
+      "url": "https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Echte Liefde",
-        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
-      },
-      "artists": [
-        {
-          "name": "Maxim Froger",
-          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
-        }
-      ],
-      "duration_ms": 155724,
-      "name": "Echte Liefde",
-      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
         "name": "Achterbank",
         "url": "https://open.spotify.com/album/0dUbHeTKK4QUnzuwShg4y0"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 168260,
       "name": "Achterbank",
       "url": "https://open.spotify.com/track/3BCCcJO19QKG54M2EAgGMT"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
+        "name": "Echte Liefde",
+        "url": "https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD"
+      },
+      "artists": [
+        {
+          "name": "Maxim Froger",
+          "url": "https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te"
+        }
+      ],
+      "duration_ms": 155724,
+      "name": "Echte Liefde",
+      "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Alles Wat Ik Zoek (Radio Edit)",
-        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Alles Wat Ik Zoek - Radio Edit",
-      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 149470,
       "name": "Half Open",
       "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
+        "name": "Alles Wat Ik Zoek (Radio Edit)",
+        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Alles Wat Ik Zoek - Radio Edit",
+      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
     },
     {
       "added_at": "2026-07-16 22:01:26",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-07-16 22:01:26",
       "album": {
-        "name": "Echo Zonder Naam",
-        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        }
-      ],
-      "duration_ms": 213340,
-      "name": "Echo Zonder Naam",
-      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
-    },
-    {
-      "added_at": "2026-07-16 22:01:26",
-      "album": {
         "name": "Ik Voel Me Zo Verdomd Alleen",
         "url": "https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197799,
       "name": "Ik Voel Me Zo Verdomd Alleen",
       "url": "https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG"
+    },
+    {
+      "added_at": "2026-07-16 22:01:26",
+      "album": {
+        "name": "Echo Zonder Naam",
+        "url": "https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        }
+      ],
+      "duration_ms": 213340,
+      "name": "Echo Zonder Naam",
+      "url": "https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq"
     },
     {
       "added_at": "2026-07-16 22:01:26",

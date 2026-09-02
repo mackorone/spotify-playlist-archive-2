@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Nadin Amizah, Pamungkas, The Weeknd, Tomoko Aran, Mahalini dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,125 likes - 109 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,105 likes - 109 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 108 | [Out of Breath](https://open.spotify.com/track/68uvU2I6BWeqUWxrDo7oSL) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [Out of Breath](https://open.spotify.com/album/5231nAnqPTaY8Cu7iUAZ1a) | 2:58 |
 | 109 | [suara](https://open.spotify.com/track/5WVbrLVjDrsPzRPdt6aLVF) | [REI SARAH](https://open.spotify.com/artist/2QkqTXubFT19pCJGoCKsRm) | [suara](https://open.spotify.com/album/18S0Eb2VAyKZDeMEnxzMa2) | 3:26 |
 
-Snapshot ID: `AAAAAJ3mwKWQveJ0MWd/WoTsBZWezJ9d`
+Snapshot ID: `AAAAAPpPGoyGIJ+VhCSE68tJPBoQbmcU`

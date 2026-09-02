@@ -1,12 +1,12 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 174803,
+  "num_followers": 174866,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALa/M5NDuQu8p2l7OPqh2Zhx4Vxz",
+  "snapshot_id": "AAAAAGTlHC1t4qJkNN4Q5R+dLDGYHhhV",
   "tracks": [
     {
       "added_at": "2025-01-28 15:41:46",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Solo Baladas",
-        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Palabras Tristes",
-      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+        "name": "Solo Baladas",
+        "url": "https://open.spotify.com/album/6ThVFZhZjPiHwkeoxjJZjh"
       },
       "artists": [
         {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+      "duration_ms": 206000,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/57xX3bw17BSVUu5WXGwoNw"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "15 Exitos Del Recuerdo",
-        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
-      },
-      "artists": [
-        {
-          "name": "Polo Y Los Apson",
-          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "Anoche Me Enamore",
-      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Lo Basico",
         "url": "https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 187786,
       "name": "Porque Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "15 Exitos Del Recuerdo",
+        "url": "https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2"
+      },
+      "artists": [
+        {
+          "name": "Polo Y Los Apson",
+          "url": "https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "Anoche Me Enamore",
+      "url": "https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "El Disco de Oro de la Tropa Loca",
         "url": "https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 205813,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1160,13 +1160,13 @@
       },
       "artists": [
         {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+          "name": "Los Barbaros",
+          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
         }
       ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
+      "duration_ms": 206066,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1176,13 +1176,13 @@
       },
       "artists": [
         {
-          "name": "Los Barbaros",
-          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Pecado Mortal",
-      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2025-01-28 15:41:46",

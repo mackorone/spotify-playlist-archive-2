@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 88725,
+  "num_followers": 88741,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAACOKQBJvWLpDWnGFJLgJ5Ov",
+  "snapshot_id": "apTEAAAAAACrMgO2XSovpwBGXRllqrp+",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 291213,
-      "name": "Pull Harder on the Strings of Your Martyr",
-      "url": "https://open.spotify.com/track/0UXaslpoA81no74N7U56U9"
+      "duration_ms": 173160,
+      "name": "Dying in Your Arms",
+      "url": "https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 173160,
-      "name": "Dying in Your Arms",
-      "url": "https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm"
+      "duration_ms": 291213,
+      "name": "Pull Harder on the Strings of Your Martyr",
+      "url": "https://open.spotify.com/track/0UXaslpoA81no74N7U56U9"
     },
     {
       "added_at": null,

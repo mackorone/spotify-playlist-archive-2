@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring moonvine\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,780 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,833 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 68 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 |
 | 69 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
 
-Snapshot ID: `AAAAABDsKpURrbp0BNO9eGnGqbncPNE2`
+Snapshot ID: `AAAAAADGOFaIvFGJyvYHd5nXamTBAdGU`

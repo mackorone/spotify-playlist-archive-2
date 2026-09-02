@@ -757,6 +757,24 @@
     },
     {
       "album": {
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243210,
+      "name": "lungs (from the motion picture)",
+      "url": "https://open.spotify.com/track/0QtAdzNUP7iVjanZWWGyLh"
+    },
+    {
+      "album": {
         "name": "A Belle to Remember",
         "url": "https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 183919,
       "name": "notice (from the motion picture)",
       "url": "https://open.spotify.com/track/0kGRDkchKT0aV3PlnCfsxy"

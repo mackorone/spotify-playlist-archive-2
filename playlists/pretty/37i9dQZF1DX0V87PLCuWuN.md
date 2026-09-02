@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 
 > Powerful Classical 💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,588 likes - 91 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,651 likes - 91 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 | 90 | [I\. Vivace](https://open.spotify.com/track/4rT9L5H10QBXKE9oD8nTff) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Rachel Barton Pine](https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf), [Ars Antigua](https://open.spotify.com/artist/6o674M7Z1UpS2xRo157aY4) | [Vivaldi: The Complete Viola d'amore Concertos](https://open.spotify.com/album/5poEFBL5AsxtvgLiYZEbOv) | 3:10 |
 | 91 | [Symphony No\. 8 in B Minor, D\. 759 "Unfinished": I\. Allegro moderato](https://open.spotify.com/track/2fEbuFSksIThthle3Kj6uj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Schubert: Symphonies Nos.8 "Unfinished" & 9 "The Great"](https://open.spotify.com/album/4COQRzQmwvab3nOVtGubwD) | 11:33 |
 
-Snapshot ID: `AAAAAFOLa1sm+eZn04TBmPHO3fsmYBab`
+Snapshot ID: `AAAAAJO/pmMcTPifsbXAqLFNGw8q7FMJ`

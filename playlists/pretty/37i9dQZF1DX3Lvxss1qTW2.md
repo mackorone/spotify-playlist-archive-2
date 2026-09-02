@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Muyeez
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,281 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,370 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Ibadi](https://open.spotify.com/track/5gW4aRg8397RTmSzK7K4gl) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Ibadi](https://open.spotify.com/album/0W0sj2804Ktk3tSkZriX2G) | 3:01 |
 | 80 | [Lonely World](https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lonely World](https://open.spotify.com/album/09FHjhBG2ymGRc7IHEKyZD) | 3:06 |
 
-Snapshot ID: `AAAAAFQ6dabEq/NwSto/ImTgQMl9GzcO`
+Snapshot ID: `AAAAAKqdQyAphTbcDw8CMX3PD6H7+2NO`

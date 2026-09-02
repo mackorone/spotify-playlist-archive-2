@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,700 likes - 51 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,858 likes - 51 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 50 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 |
 | 51 | [YOU ARE GOOD](https://open.spotify.com/track/3OBCah0meHK9O5Ss3dztNZ) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Flames Of A Wildfire](https://open.spotify.com/album/21wuL307v10SocLogEugfv) | 5:06 |
 
-Snapshot ID: `AAAAAMXRLmSxqREAyR01HG+I2bQ5ZH6G`
+Snapshot ID: `AAAAAP21/D5MSf5xSHmq2gBPPzpyGadx`

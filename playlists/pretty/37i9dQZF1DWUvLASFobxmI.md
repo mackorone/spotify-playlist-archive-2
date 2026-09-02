@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Bolela, Bohemio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,692 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,718 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,17 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 47 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
 | 48 | [RED FLAG](https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [RED FLAG](https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9) | 3:06 |
 | 49 | [Dos Pa’ Llevar](https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Dos Pa’ Llevar](https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez) | 3:11 |
-| 50 | [El RG 2](https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [EL RG 2](https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0) | 3:34 |
-| 51 | [Loco Jodido](https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Loco Jodido](https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8) | 3:08 |
+| 50 | [Loco Jodido](https://open.spotify.com/track/0Fkc7mopyiSWLMQSYOhDMy) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Loco Jodido](https://open.spotify.com/album/6CyVv4Gu9Y3ZXrpS6ldfD8) | 3:08 |
+| 51 | [El RG 2](https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [EL RG 2](https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0) | 3:34 |
 | 52 | [COZUMEL](https://open.spotify.com/track/5d3ahxrqTUwsmPH08KlLPR) | [Plan de Escape](https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R), [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [COZUMEL](https://open.spotify.com/album/6DuZAzkAYXFOfgZMmFon28) | 2:27 |
-| 53 | [Vibra Perfecta](https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Entre Besos](https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV) | 3:07 |
-| 54 | [Terco Y Que](https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V) | [Lui Santo](https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Terco Y Que](https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV) | 2:22 |
-| 55 | [Etapa Migajera](https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Etapa Migajera](https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o) | 2:52 |
+| 53 | [Terco Y Que](https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V) | [Lui Santo](https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Terco Y Que](https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV) | 2:22 |
+| 54 | [Vibra Perfecta](https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Entre Besos](https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV) | 3:07 |
+| 55 | [Se Pudo](https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Pudo](https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t) | 2:50 |
 | 56 | [Concédeme El Honor](https://open.spotify.com/track/5Lk2YI8YpvqV7f5F3OIJLS) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [EnerGítimo](https://open.spotify.com/album/5GJ6cfGildyJHI9yP3DoYh) | 3:00 |
 | 57 | [Ni Tu Perro Ni Tu Gato](https://open.spotify.com/track/4j4FrTLZf7O92PLZ4UekoN) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Grupo Escalón](https://open.spotify.com/artist/2rF3zUvGtxvO1W1E4AHqIl) | [Ni Tu Perro Ni Tu Gato](https://open.spotify.com/album/3PbUM4389tkvMKmgTnf8XA) | 2:38 |
-| 58 | [El Baron del Desierto \- En Vivo](https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | ["De Rancho en Rancho" Vol\. 1 Edicion: Guasave \(En Vivo\)](https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz) | 3:03 |
-| 59 | [KBRON](https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 2:24 |
-| 60 | [Se Pudo](https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Pudo](https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t) | 2:50 |
+| 58 | [KBRON](https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 2:24 |
+| 59 | [El Baron del Desierto \- En Vivo](https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | ["De Rancho en Rancho" Vol\. 1 Edicion: Guasave \(En Vivo\)](https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz) | 3:03 |
+| 60 | [Etapa Migajera](https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Etapa Migajera](https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o) | 2:52 |
 | 61 | [Lo Que Yo Más Quiero](https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Lo Que Yo Más Quiero](https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY) | 2:33 |
 | 62 | [HOME RUN](https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [HOME RUN](https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV) | 3:27 |
 | 63 | [Cosas Del Amor \- Live](https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC) | [Predilecto](https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2) | [Jammin' sessions](https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 99 | [No Pudo Funcionar](https://open.spotify.com/track/0WrgZfl7jkamgEo5mxjqKo) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [No Pudo Funcionar](https://open.spotify.com/album/62lHJTyeivT4pAvdNUOgE0) | 3:02 |
 | 100 | [Los Principios](https://open.spotify.com/track/5LgPgNARHG64IaXuwtvuNw) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Queridos Amigos](https://open.spotify.com/album/2UTqapZ5jcnjT5s2NR5UWX) | 2:53 |
 
-Snapshot ID: `AAAAAOg8zAhe7QURUnw2/7juAW4kYcM9`
+Snapshot ID: `AAAAAM6aOuUU9UBedXfNakgJV/SZWdQo`

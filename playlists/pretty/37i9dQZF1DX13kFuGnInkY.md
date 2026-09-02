@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > Congratulations to all of the ACM Awards nominees and winners! Cover: Kelsea Ballerini, Ella Langley, Miranda Lambert and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,988 likes - 57 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,981 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 | 56 | [I Dare You](https://open.spotify.com/track/0o5fZ3L5LpYEVyxNhDJke7) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:48 |
 | 57 | [No Tellin'](https://open.spotify.com/track/5tv0DQJ2dzGc7lJiS6f26J) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Good Omen](https://open.spotify.com/album/2UuB0j6smukXejVkz4ntXH) | 3:48 |
 
-Snapshot ID: `AAAAAGjBZJpBHGzEfXio9i72ztcWK7Da`
+Snapshot ID: `AAAAABHaku7baVp0OyWPb4bypBEi1Axo`

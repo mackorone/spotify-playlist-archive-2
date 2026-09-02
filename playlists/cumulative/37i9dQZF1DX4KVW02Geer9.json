@@ -969,6 +969,32 @@
     },
     {
       "album": {
+        "name": "Jaz",
+        "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
+      },
+      "artists": [
+        {
+          "name": "Jackson Box",
+          "url": "https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE"
+        },
+        {
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        },
+        {
+          "name": "Asei Muraguchi",
+          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "Beast Mode",
+      "url": "https://open.spotify.com/track/1AuoDWRc4SgCr1hwdQEZ0G"
+    },
+    {
+      "album": {
         "name": "Beat Birds",
         "url": "https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS"
       },
@@ -9245,6 +9271,24 @@
     },
     {
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1iJDQ2KJKoy9aHH3PxR6uH"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361188,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/0jZnWxR0VHhh0Of49xORCW"
+    },
+    {
+      "album": {
         "name": "Season of Harvest",
         "url": "https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF"
       },
@@ -9264,6 +9308,36 @@
       "duration_ms": 261273,
       "name": "Season of Harvest",
       "url": "https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU"
+    },
+    {
+      "album": {
+        "name": "Mabui",
+        "url": "https://open.spotify.com/album/6razfP1h1f2P4hQ6AyeBwp"
+      },
+      "artists": [
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u9ad8\u6a4b\u4f51\u6210",
+          "url": "https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv"
+        },
+        {
+          "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30db\u30ed\u30d9\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462994,
+      "name": "Sepiageshiki",
+      "url": "https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0"
     },
     {
       "album": {

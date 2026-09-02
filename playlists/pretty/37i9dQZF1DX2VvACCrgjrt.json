@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311750,
+  "num_followers": 1311710,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABcnP1VnR5rQDmGF6Etnu83hS9Vx",
+  "snapshot_id": "AAAAAPipZeiOpMu26b81dBdu6HUH0jIv",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:19",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Louis V",
-        "url": "https://open.spotify.com/album/0Uivh5n2bxgzgqoqPkY0B1"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 194687,
-      "name": "Louis V",
-      "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
-    },
-    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Caramel",
@@ -1415,6 +1399,22 @@
       "duration_ms": 190153,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/117jjc0cq3aoUHXkK8wwzp"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/0Uivh5n2bxgzgqoqPkY0B1"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 194687,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "At The Disco",
+        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "At The Disco",
+      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "TWINKLE",
         "url": "https://open.spotify.com/album/1wlXyNg9Mf7SHt1PmirLvi"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 169141,
       "name": "TWINKLE",
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "At The Disco",
-        "url": "https://open.spotify.com/album/5w3BNfdlLz339pUpattTTl"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "At The Disco",
-      "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Fashion From France",
         "url": "https://open.spotify.com/album/4XgWx25OZd07OphjZQxsvz"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "CODEINE",
         "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
       },
@@ -1703,22 +1723,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1749,22 +1765,6 @@
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "Take A Ride",
@@ -1779,6 +1779,22 @@
       "duration_ms": 196363,
       "name": "Take A Ride",
       "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1799,22 +1815,6 @@
       "duration_ms": 168029,
       "name": "B2U",
       "url": "https://open.spotify.com/track/67CkO6Qva8D78RISimeX1n"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Hooligans",
-        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 239090,
-      "name": "Hooligans",
-      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
     },
     {
       "added_at": "2026-07-24 04:02:19",
@@ -1953,22 +1953,6 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Bangarang",
-        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Bangarang",
-      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -1987,6 +1971,46 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Bangarang",
+        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Bangarang",
+      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Move It 2 The Drum",
+        "url": "https://open.spotify.com/album/0lFDSIIvQTrwlgCjAUy8pD"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Chuckie",
+          "url": "https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ"
+        },
+        {
+          "name": "MC Ambush",
+          "url": "https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Move It 2 The Drum",
+      "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
       "added_at": "2026-03-20 04:00:50",
@@ -2035,30 +2059,6 @@
       "duration_ms": 186315,
       "name": "UNA UNA",
       "url": "https://open.spotify.com/track/77HkcYkReYScRpxOKU3oTo"
-    },
-    {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Move It 2 The Drum",
-        "url": "https://open.spotify.com/album/0lFDSIIvQTrwlgCjAUy8pD"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        },
-        {
-          "name": "Chuckie",
-          "url": "https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ"
-        },
-        {
-          "name": "MC Ambush",
-          "url": "https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Move It 2 The Drum",
-      "url": "https://open.spotify.com/track/2r0b3hzXvDfOTyyefgbzk4"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2177,6 +2177,22 @@
       "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+    },
+    {
       "added_at": "2026-06-12 04:01:37",
       "album": {
         "name": "Confessions",
@@ -2193,20 +2209,20 @@
       "url": "https://open.spotify.com/track/0vJh9MCniJ6z9Tj1zoVw9Q"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-01-16 05:00:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+        "name": "Try Again",
+        "url": "https://open.spotify.com/album/2JCGaCPj0RnyiVPtwbVtoL"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "James Kennedy",
+          "url": "https://open.spotify.com/artist/5bayykQX2eN93SZW3Av1PJ"
         }
       ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+      "duration_ms": 108398,
+      "name": "Try Again",
+      "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -2227,22 +2243,6 @@
       "duration_ms": 175000,
       "name": "YOU GOT ME",
       "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
-    },
-    {
-      "added_at": "2026-01-16 05:00:37",
-      "album": {
-        "name": "Try Again",
-        "url": "https://open.spotify.com/album/2JCGaCPj0RnyiVPtwbVtoL"
-      },
-      "artists": [
-        {
-          "name": "James Kennedy",
-          "url": "https://open.spotify.com/artist/5bayykQX2eN93SZW3Av1PJ"
-        }
-      ],
-      "duration_ms": 108398,
-      "name": "Try Again",
-      "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
     },
     {
       "added_at": "2026-05-15 15:18:31",
@@ -2325,6 +2325,22 @@
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
       "added_at": "2026-08-07 04:01:21",
       "album": {
         "name": "Jungle Gem",
@@ -2343,38 +2359,6 @@
       "duration_ms": 185777,
       "name": "Jungle Gem",
       "url": "https://open.spotify.com/track/6p74OOY5V3vnWfGRgfjgWM"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-07-17 04:01:08",
-      "album": {
-        "name": "Down To The Sound",
-        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 196158,
-      "name": "Down To The Sound",
-      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
     },
     {
       "added_at": "2026-05-01 04:01:35",
@@ -2403,26 +2387,38 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-        "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
+        "name": "That's the Spot",
+        "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
         },
         {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        },
-        {
-          "name": "RYA",
-          "url": "https://open.spotify.com/artist/64TQUhovZNp3Vt3N49yGTZ"
+          "name": "Sven Lochenhoer",
+          "url": "https://open.spotify.com/artist/2APmJd80WsbJQoMwnL1buU"
         }
       ],
-      "duration_ms": 181384,
-      "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
-      "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
+      "duration_ms": 182769,
+      "name": "That's the Spot",
+      "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
+    },
+    {
+      "added_at": "2026-07-17 04:01:08",
+      "album": {
+        "name": "Down To The Sound",
+        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 196158,
+      "name": "Down To The Sound",
+      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
     },
     {
       "added_at": "2026-04-17 04:02:12",

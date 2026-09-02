@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 126000,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/0UHxCuJX87skxim5kCST4H"
@@ -7216,7 +7216,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 141000,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/1jdEOZyXjhqP1ItM5kfH2K"
@@ -19279,6 +19279,28 @@
     },
     {
       "album": {
+        "name": "Moment With You",
+        "url": "https://open.spotify.com/album/1wz81KZ3YG2V4URf1xFzdd"
+      },
+      "artists": [
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "M2chael",
+          "url": "https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133090,
+      "name": "Moment With You",
+      "url": "https://open.spotify.com/track/7Kajq05oNzkBw11wVVow0t"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/40hf18neRyyqznCePUzcw9"
       },
@@ -23964,7 +23986,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 130778,
       "name": "Salt",
       "url": "https://open.spotify.com/track/4QRfqPX2BCmmGd46qEQ8xG"
@@ -25580,6 +25602,28 @@
       "duration_ms": 158484,
       "name": "Sober",
       "url": "https://open.spotify.com/track/6Ymv5LdoC3IFBcIhSurQHj"
+    },
+    {
+      "album": {
+        "name": "Soft Sand Sundays",
+        "url": "https://open.spotify.com/album/2MVoLvIOJkunw6hgxZFkfd"
+      },
+      "artists": [
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        },
+        {
+          "name": "Youngmin",
+          "url": "https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Soft Sand Sundays",
+      "url": "https://open.spotify.com/track/36v1W4izjUKia0RTQ7rTzU"
     },
     {
       "album": {
@@ -27372,7 +27416,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 133608,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/49dFZOSQrUNRHRhxNBqnve"

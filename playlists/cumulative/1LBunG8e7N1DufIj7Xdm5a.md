@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,704 songs - 10 day 13 hr 41 min
+4,707 songs - 10 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,6 +1042,7 @@
 | [DI TRITONI](https://open.spotify.com/track/3YEHbqK9A1yvkZ3Pgi3g39) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 3:13 | 2026-02-01 |  |
 | [Diafani lividi](https://open.spotify.com/track/08cBoSgjqXSn4sp7xRKIH7) | [Unità di Produzione](https://open.spotify.com/artist/0rRsE3wADulMq6yY14Ef4z) | [Diafani lividi](https://open.spotify.com/album/0B6BMp2lF9w7Xa3nJvbUHF) | 3:04 | 2025-11-12 |  |
 | [Dialogue](https://open.spotify.com/track/5jTtFpU3zCgkl49APptKEn) | [WENTSEAT](https://open.spotify.com/artist/0h8yR4GIwy4apc8uyoJqb0) | [Dichroic](https://open.spotify.com/album/54EzKPYnOuffEdpnOLb64D) | 4:12 | 2025-08-24 |  |
+| [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 | 2026-09-01 |  |
 | [Diamonds](https://open.spotify.com/track/57YSg5r6666Xl1skDDBwni) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Diamonds](https://open.spotify.com/album/1jtERwNAd3oHEYrgyMYPH8) | 3:49 | 2025-07-16 |  |
 | [Dices](https://open.spotify.com/track/0nXutinLEwCNvqkS2vPHbT) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 2:44 | 2026-04-12 |  |
 | [Did You Ever](https://open.spotify.com/track/4scFMFKzBAI0pyTC6WEiZc) | [THE FAKE WHALES](https://open.spotify.com/artist/0hrZ1udgUJVcxEN1Rh9JJW) | [Did You Ever](https://open.spotify.com/album/60tRACPoTtWwiM1lfpROn2) | 3:51 | 2025-09-11 |  |
@@ -1474,6 +1475,7 @@
 | [Fall In Luv](https://open.spotify.com/track/2U4FhFOMGWnmsHu6XjkvPm) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Fall In Luv](https://open.spotify.com/album/09RmMKiCxWXacewYilGFnu) | 1:37 | 2026-01-17 |  |
 | [Fallen](https://open.spotify.com/track/7rL3uju1dGb33Un6IqK3mO) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Fallen](https://open.spotify.com/album/7JsR93BfyOTZZWplglV6Qk) | 3:53 | 2025-09-26 |  |
 | [Fallen Angels \#Music \#NewMusic \#Viral](https://open.spotify.com/track/7IPuaVKx36f7KBHZvJDgN0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:33 | 2025-09-15 |  |
+| [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-09-01 |  |
 | [Falling In Love](https://open.spotify.com/track/28yZeYquAx8MqXWkpD8jb2) | [Pracash](https://open.spotify.com/artist/4KA9NvYMwG4eTsB2y6FoDB) | [Falling In Love](https://open.spotify.com/album/6uYVQkBv5MM1pmKMmOf7Lc) | 3:06 | 2025-07-04 |  |
 | [Falling in the Dark](https://open.spotify.com/track/01zOtRs3ClJ6SZrmIKaS1K) | [Light Off](https://open.spotify.com/artist/5uYuktR3yWTTxykLPNHcUu) | [Falling in the Dark](https://open.spotify.com/album/1si9sSzG0ASlUuKRfr5n5A) | 4:00 | 2026-08-05 |  |
 | [Falling Leaves](https://open.spotify.com/track/51qsPWF4eiQgTKoPjPt2OB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Autumn Sweet Music](https://open.spotify.com/album/7s7aLLFz83nSCg8JQpFSrD) | 3:34 | 2025-09-18 |  |
@@ -2987,6 +2989,7 @@
 | [One Click Away \(another\)](https://open.spotify.com/track/2FShHvZdZ63DCvycc7HoUG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 3:05 | 2025-09-17 |  |
 | [One Day at a Time](https://open.spotify.com/track/7l77vgHFap2UbzxXEm27Dt) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [In Training](https://open.spotify.com/album/263UBnTGtpwkrwjIZ0bp3V) | 3:33 | 2026-01-10 |  |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-07-08 |  |
+| [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 | 2026-09-01 |  |
 | [One More Dungeon](https://open.spotify.com/track/5w0PaeefR9P7DbEgckVJoE) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [One More Dungeon](https://open.spotify.com/album/1bbU8JKcZjSqjbQZKRZwMK) | 3:28 | 2025-10-03 |  |
 | [One More For The Road](https://open.spotify.com/track/0kPJMGW3CYsEcT2C5Admnt) | [The Ruins](https://open.spotify.com/artist/6UGANrLJliRxIcRpn4JGFj), [Rob Lundgren](https://open.spotify.com/artist/3CXPg5iixXzuMX1RUhd7Ni), [Brad Henderson](https://open.spotify.com/artist/1GdjlceK7vw8n7e0KNvBB8) | [One More For The Road](https://open.spotify.com/album/62pkpoMOXZuvJpcO57kzwf) | 3:55 | 2026-08-14 |  |
 | [One More Time](https://open.spotify.com/track/3BAVKeHXjW1IvxyZkyTdVh) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:13 | 2025-04-09 |  |

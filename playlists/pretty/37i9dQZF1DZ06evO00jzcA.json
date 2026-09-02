@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 487987,
+  "num_followers": 488000,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apNygAAAAADibTHxAWGL4Ba3REJbok6w",
+  "snapshot_id": "apTEAAAAAADVvBAtntGyRfnhN2mdpQ9h",
   "tracks": [
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell (Remastered 1997)",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
+        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Hotter Than Hell - Remastered 1997",
-      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
+      "duration_ms": 76802,
+      "name": "Gene Simmons Bass Solo - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
+      "url": "https://open.spotify.com/track/2ahL7PVtMsvAfN4o3wh8GB"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroys Anaheim '76 (Live At Anaheim Stadium, Anaheim, California - August 20, 1976)",
-        "url": "https://open.spotify.com/album/31IAux3brkUl6hPTIrW8Sa"
+        "name": "Hotter Than Hell (Remastered 1997)",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 76802,
-      "name": "Gene Simmons Bass Solo - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
-      "url": "https://open.spotify.com/track/2ahL7PVtMsvAfN4o3wh8GB"
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell - Remastered 1997",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
     }
   ],
   "unique_name": "This Is KISS",

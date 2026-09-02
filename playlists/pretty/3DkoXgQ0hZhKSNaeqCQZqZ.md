@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,206 likes - 419 songs - 21 hr 35 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,208 likes - 419 songs - 21 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Turn Back](https://open.spotify.com/track/0sFk61kDNLWaEuGloyrOih) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [\(AGAIN\)](https://open.spotify.com/album/5mlD5eRizyOvq4TGOT2w2a) | 7:42 |
-| 2 | [stay away](https://open.spotify.com/track/2qb2ojSVUTvD74xnrbZuw2) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [stay away](https://open.spotify.com/album/2jvb7ofZBr4HmbTZ8LNfYn) | 2:15 |
-| 3 | [Like That](https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [Pink Girl](https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS) | 2:46 |
-| 4 | [unnatural](https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [unnatural](https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw) | 2:09 |
+| 1 | [unnatural](https://open.spotify.com/track/0j5qyShUNV8rfsf6NKPZ7U) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [unnatural](https://open.spotify.com/album/4SE527rqdn3uWmkFbISANw) | 2:09 |
+| 2 | [Turn Back](https://open.spotify.com/track/0sFk61kDNLWaEuGloyrOih) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [\(AGAIN\)](https://open.spotify.com/album/5mlD5eRizyOvq4TGOT2w2a) | 7:42 |
+| 3 | [stay away](https://open.spotify.com/track/2qb2ojSVUTvD74xnrbZuw2) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [stay away](https://open.spotify.com/album/2jvb7ofZBr4HmbTZ8LNfYn) | 2:15 |
+| 4 | [Like That](https://open.spotify.com/track/7DyStmOv5VbnGK7JGOVtlY) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [Pink Girl](https://open.spotify.com/album/4o1A532b9cZXas6wgjYnHS) | 2:46 |
 | 5 | [Have you heard the one about alfred?](https://open.spotify.com/track/5jiqzU02rJ4F3gvO6jONUS) | [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Have you heard the one about alfred?](https://open.spotify.com/album/2WzqJTCyliIsXYs9hhmOW4) | 4:47 |
 | 6 | [Make It Last](https://open.spotify.com/track/4akjWFeO6vOQ8pjan1yJk6) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/0hlw0btDHxurzzHQvPnm5V) | 3:13 |
 | 7 | [Counting Sheep](https://open.spotify.com/track/7nEuQWH4JH1fQ4S9u7hRSG) | [Daniel Shaye](https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF) | [Counting Sheep](https://open.spotify.com/album/1wQAW0rnbLCLXT9prUf5zX) | 2:43 |
@@ -428,4 +428,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 418 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 419 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFwUp1S9WMOhsSE6NHdW6Rhi6EbBhp`
+Snapshot ID: `AAAFwnTgNZyo9SSt59qkITNcQg986gyw`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,293 songs - 2 day 23 hr 37 min
+1,294 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [Wherever You Go](https://open.spotify.com/track/3azfPD8DGtZRjcYNjPA8HR) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Wherever You Go](https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6) | 4:27 | 2023-07-17 | 2023-12-14 |
 | [WHIPLASH](https://open.spotify.com/track/6nRw81vRRVM2cuU0yB08q3) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [WHIPLASH](https://open.spotify.com/album/5Kvs6QtVAMvmrAaOdkvZY4) | 2:34 | 2026-07-27 |  |
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-16 | 2024-02-29 |
+| [Who Do You Run To](https://open.spotify.com/track/336qwnx84ZYM0hnxvSLb6K) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Who Do You Run To](https://open.spotify.com/album/1CZTy3CowxpmOmMBqkDw4m) | 3:13 | 2026-09-01 |  |
 | [Who Knew](https://open.spotify.com/track/7cXmJP7TDbzzf9ONkSOhtt) | [Jay Mark](https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6), [Livvy Lauren](https://open.spotify.com/artist/7H525GcgGfiktDgxDHGcX1) | [Who Knew](https://open.spotify.com/album/4F2I2ZBLo2ncuhMIA1Dlr2) | 2:41 | 2026-05-14 |  |
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |
 | [Who's Laughing Now](https://open.spotify.com/track/6gjSaRvPS9Nv5yAfNfp19n) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Who's Laughing Now](https://open.spotify.com/album/48EADwiXTyVHcFPjllMsww) | 2:55 | 2024-02-16 | 2024-05-08 |

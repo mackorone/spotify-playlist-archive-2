@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Vianney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,424 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,417 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [J'aurais fini par te plaire](https://open.spotify.com/track/62oSX7tJzNjwy0LlZYwIkY) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [J'aurais fini par te plaire](https://open.spotify.com/album/5lCzJYnqSP53CgAtSMmA4d) | 3:00 |
 | 50 | [Je fais de mon mieux](https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ) | [Victor Aupecle](https://open.spotify.com/artist/0mHcsoJwqKXHePZRpzssvk) | [Je fais de mon mieux](https://open.spotify.com/album/3C2sUgiKo8PXIzlOLaOQm6) | 2:49 |
 
-Snapshot ID: `AAAAABBeNwMivVtZHKsRu0+qgcoAbV+M`
+Snapshot ID: `AAAAAMtwhggQ4i+d9xd7CjRbPlDkGsKX`

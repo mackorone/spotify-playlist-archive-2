@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHrHyqXxR1L23wWoOLqUGJ39K4Y",
+  "snapshot_id": "AAAAAM39JKZDMprpqoAOFHXIpu1dIToZ",
   "tracks": [
     {
       "added_at": "2026-08-27 21:01:09",
@@ -246,6 +246,10 @@
         {
           "name": "DJ.Silence",
           "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Hustle House w/ Gio Kay",
+          "url": "https://open.spotify.com/artist/7cxlHes1NLJERXmxVhWW1y"
         }
       ],
       "duration_ms": 147692,

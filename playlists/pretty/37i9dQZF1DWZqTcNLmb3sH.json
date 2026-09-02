@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 73420,
+  "num_followers": 73541,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFVaADlSgfj9MV4zoiCBUjvVsBB",
+  "snapshot_id": "AAAAAEwgIuO4ccQOl1Ges2yg/otdgqd1",
   "tracks": [
     {
       "added_at": "2026-08-26 06:00:35",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/1TiURAdPM0MeUdLPTYnGIo"
     },
     {
+      "added_at": "2026-09-01 13:03:13",
+      "album": {
+        "name": "Namma Range Rover",
+        "url": "https://open.spotify.com/album/12q8cCIyugAfH332i89BTh"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "duration_ms": 242925,
+      "name": "Thugadhiruva Uyyaleli",
+      "url": "https://open.spotify.com/track/6yJvdnTNE0tasixpcUBchs"
+    },
+    {
       "added_at": "2026-08-19 05:31:46",
       "album": {
         "name": "No No (From \"Nee Nange Allava\")",
@@ -295,6 +311,26 @@
       "duration_ms": 273644,
       "name": "Loser Song - From \"I'M Game - Kannada\"",
       "url": "https://open.spotify.com/track/5DSjhGYJ9iph6h8d5Ymzce"
+    },
+    {
+      "added_at": "2026-09-01 13:04:54",
+      "album": {
+        "name": "Swami Ayyappa (From \"Manikanta\")",
+        "url": "https://open.spotify.com/album/22y8sOT85LuT05VAhskDEy"
+      },
+      "artists": [
+        {
+          "name": "Swaroop.R",
+          "url": "https://open.spotify.com/artist/2PthYVohS3cQTQaRgxNTwA"
+        },
+        {
+          "name": "Ajay Warrior",
+          "url": "https://open.spotify.com/artist/7fTvRL21JC6eq6DPfxIcaH"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Swami Ayyappa (From \"Manikanta\")",
+      "url": "https://open.spotify.com/track/2LXVR8KMfxCgjPfn2uCaj0"
     },
     {
       "added_at": "2026-08-07 06:53:06",

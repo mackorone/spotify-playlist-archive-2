@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Beltran
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,340 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,255 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Ex Machina](https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Ex Machina](https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1) | 2:01 |
 | 50 | [Baby Boy](https://open.spotify.com/track/3bMmU5C3OOeG2MiEEnzSaD) | [Malik Mustache](https://open.spotify.com/artist/5FcXaC6DLXy2s4HFGqERWU) | [Baby Boy](https://open.spotify.com/album/1bYCy4wdRo9gq2aZbL9rFo) | 3:30 |
 
-Snapshot ID: `AAAAALH35zdHmQ95G1Ap1PKd58GFGuI/`
+Snapshot ID: `AAAAAPFyXJUvOrn6acSy/KE6yZAUWnkn`

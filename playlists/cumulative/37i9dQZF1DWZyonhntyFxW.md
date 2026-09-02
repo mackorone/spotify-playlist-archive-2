@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: شاهين، دبل زوكش، كول بيكس
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أرسينِك
 
-492 songs - 23 hr 58 min
+494 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,12 +331,13 @@
 | [OK](https://open.spotify.com/track/6R4KDVj2wQfGWkqmYa9pzh) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [OK](https://open.spotify.com/album/5BVlixDJAb8ud51gE6lSpE) | 2:30 | 2022-12-29 | 2023-03-16 |
 | [OPPS](https://open.spotify.com/track/1UTRr55P3GJIk6A9V4p4Ad) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [OPPS](https://open.spotify.com/album/6zc7KGo3ghbc7Mn5WE8ght) | 2:12 | 2023-01-26 | 2023-05-12 |
 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 | 2024-02-16 | 2024-08-16 |
+| [Pacco](https://open.spotify.com/track/4kueqwLvfEq6yaqaYF5OfF) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [ELKVP](https://open.spotify.com/artist/29LG4T58zgrsL4DD9BeABK), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [Pacco](https://open.spotify.com/album/6OVW2ARzplYjv1zs6Fzj93) | 3:07 | 2026-09-01 |  |
 | [PAGHIIIIIIIIIIZ](https://open.spotify.com/track/6I1Nu4OyIr7xnja8tAOBGf) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [PAGHIIIIIIIIIIZ](https://open.spotify.com/album/3MADWJj5uRlmXYzHpZMQ9X) | 2:22 | 2024-04-09 | 2024-05-25 |
 | [PARIS](https://open.spotify.com/track/535QXmpOSHUMTw46lNJkj5) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Dabl De](https://open.spotify.com/artist/5aCqsScJyvSLpNLCl9ZikA) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:50 | 2024-03-29 | 2024-09-06 |
 | [Please](https://open.spotify.com/track/0YHNbqd916UBseBu2qv0xX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Please](https://open.spotify.com/album/48GGUy02bmdLkROqggBbXi) | 2:19 | 2024-08-04 | 2024-09-05 |
 | [QESA HAZENA](https://open.spotify.com/track/2mBLOKrLsZbVfFKWjKadqe) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:07 | 2022-05-10 | 2022-08-24 |
 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 | 2024-02-20 |
-| [RADAR](https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [RADAR](https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs) | 2:20 | 2026-06-04 |  |
+| [RADAR](https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [RADAR](https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs) | 2:20 | 2026-06-04 | 2026-09-02 |
 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 | 2024-09-05 | 2025-02-19 |
 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 | 2024-09-06 | 2025-02-13 |
 | [Reda](https://open.spotify.com/track/3Lw2N67l3dIo4AX6Umm8RS) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Reda](https://open.spotify.com/album/0xXnSMTkeuL3oudS2Jcr4V) | 2:37 | 2025-08-06 | 2025-08-13 |
@@ -346,7 +347,7 @@
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |
 | [Saa'e3](https://open.spotify.com/track/0Fbl0jYUJkLzz5BIUJ2t7r) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [OV \(The Mixtape\)](https://open.spotify.com/album/4krw20D1j4humTzgD8l8GM) | 2:51 | 2022-10-10 | 2022-12-30 |
 | [SAFINA](https://open.spotify.com/track/2imCmZa01FzAv5j0BiD9ab) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 3:07 | 2022-05-10 | 2022-05-17 |
-| [Saheb Mama](https://open.spotify.com/track/3fSjgQNEmdPml4KRR9HAL7) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:17 | 2026-05-29 |  |
+| [Saheb Mama](https://open.spotify.com/track/3fSjgQNEmdPml4KRR9HAL7) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:17 | 2026-05-29 | 2026-09-02 |
 | [SALEM](https://open.spotify.com/track/13IgYNe8Wm0CtPmJEfoyS5) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [SALEM](https://open.spotify.com/album/3B8uIcXsXw8SA8FU6oTZjM) | 3:18 | 2024-01-30 | 2024-02-04 |
 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 | 2023-05-11 | 2024-06-16 |
 | [SAM3 AKHINA](https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 2:08 | 2023-07-26 | 2024-04-27 |
@@ -484,6 +485,7 @@
 | [كابتن](https://open.spotify.com/track/5F1eUkCHs9dnokkni8xfkC) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/6JdMK7OgNySNirfOn5Vg3G) | 2:58 | 2022-11-28 | 2023-03-03 |
 | [كابتن](https://open.spotify.com/track/6dR03uJtlIIIfQsf6EuesI) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [كابتن](https://open.spotify.com/album/04RBwKhmlQubyTNNu70Xx1) | 2:58 | 2022-05-10 | 2022-12-04 |
 | [كاشحه](https://open.spotify.com/track/4pLH2e0EEPca9BIIx67lNv) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr) | [كاشحه](https://open.spotify.com/album/4Mwb4WSZuyYO6ZEG8UQOV6) | 3:12 | 2024-01-18 | 2024-02-02 |
+| [كاموفلاچ](https://open.spotify.com/track/3ModQsJjyPfW5hXRuGlNgz) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [كاموفلاچ](https://open.spotify.com/album/11ZwwJrK0azXgGZiplgBEu) | 2:34 | 2026-09-01 |  |
 | [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-14 | 2023-09-01 |
 | [كله زي بعضه](https://open.spotify.com/track/5ScRMOHU9d6bB5AmIOD1hh) | [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [كله زي بعضه](https://open.spotify.com/album/56WEUqyhZ5ODxJIFhyvuEs) | 2:48 | 2026-05-29 |  |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 | 2022-12-04 |

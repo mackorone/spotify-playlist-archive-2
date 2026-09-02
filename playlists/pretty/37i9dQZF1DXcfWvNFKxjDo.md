@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Armin van Buuren
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,011 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,020 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Odyssey](https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Odyssey](https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG) | 3:51 |
 | 75 | [Bells of Eternity](https://open.spotify.com/track/0cyvh9s1hszGFr68LDfobC) | [Pawlowski](https://open.spotify.com/artist/433bbqlxHokixaQTTkXZ0S), [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Bells of Eternity](https://open.spotify.com/album/2SszxLGLCctbkg1zxeMpqI) | 3:25 |
 
-Snapshot ID: `AAAAALmNjyiV91ExIH2mkoxb33F0zqx1`
+Snapshot ID: `AAAAABN3NGgo8C2R0ZjhLRxvEAnQKq//`

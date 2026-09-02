@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: zoo zoo sea
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,494 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,504 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [Summer Magic](https://open.spotify.com/track/6aNdIVu8bfqaqSApVEDLOo) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3), [Emerald](https://open.spotify.com/artist/1d7tus0MFvl8SEin6MIRAs) | [Summer Magic](https://open.spotify.com/album/49bJfBJic58ZQpUFtUSPn9) | 3:03 |
 | 75 | [空耳](https://open.spotify.com/track/4dfSqi5WWCgwm4oS9NkDY4) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [空耳](https://open.spotify.com/album/2H181UbVFHjfcGw0wtYHx3) | 2:40 |
 | 76 | [SARARI FUWARI](https://open.spotify.com/track/5Ygyt060NRtxDW53os9wqu) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [SARARI FUWARI](https://open.spotify.com/album/73WMOeFr9ko2jxNmXU9FdO) | 2:21 |
-| 77 | [in love](https://open.spotify.com/track/2dqWEFh414Lg0OYID7qZ4P) | [だてぃが](https://open.spotify.com/artist/3Zc9pEydPihuJeGx8yprfo) | [恋をしている](https://open.spotify.com/album/0S4qVv6m6QPkCavehjRmPl) | 4:46 |
+| 77 | [恋をしている](https://open.spotify.com/track/2dqWEFh414Lg0OYID7qZ4P) | [だてぃが](https://open.spotify.com/artist/3Zc9pEydPihuJeGx8yprfo) | [恋をしている](https://open.spotify.com/album/0S4qVv6m6QPkCavehjRmPl) | 4:46 |
 | 78 | [white nights \(feat\. 永井琳子\)](https://open.spotify.com/track/4sKGmh4fgLc4NIGLjbApmC) | [Gingersamm](https://open.spotify.com/artist/7zJKwa30x2YooSpPCEaNQx), [永井琳子](https://open.spotify.com/artist/6lKa4ZKIvgDWO8z87DBa8r) | [white nights \(feat\. 永井琳子\)](https://open.spotify.com/album/129ndMkZF9hYBFPB90xMIU) | 4:07 |
 | 79 | [記憶と、こころ](https://open.spotify.com/track/29fKnocsXZLQKscmIERvwA) | [夜桐蒼](https://open.spotify.com/artist/46VkT9e4RcJFJtuMYshEL4) | [記憶と、こころ](https://open.spotify.com/album/1o6i2xQs8DEkbAUEl2Q90w) | 1:57 |
 | 80 | [八月の最後](https://open.spotify.com/track/6oQRlCBO4utFTYaoagmKVr) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [八月の最後](https://open.spotify.com/album/3KwCuhe9MP0Q66ZogTTWpu) | 3:51 |
 
-Snapshot ID: `AAAAANYNQ5E06WEbLoJF6F0RRgbQw0vg`
+Snapshot ID: `AAAAAFOstCxXK+y+rUgTvlheqs0SviZb`

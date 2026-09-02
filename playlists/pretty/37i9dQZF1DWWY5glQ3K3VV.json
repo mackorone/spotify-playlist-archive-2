@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 117641,
+  "num_followers": 117653,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyUPc7IO/UdOBpTdp1CVsV1WgBB",
+  "snapshot_id": "AAAAAMTj4GWiwNCvpJqs5K0In45kz9eS",
   "tracks": [
     {
       "added_at": "2026-08-05 08:16:35",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "Reinsertado 2.0",
-        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "OGNI MUSICA",
         "url": "https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 115312,
       "name": "A.D.H.D. (con Datkid, Melons)",
       "url": "https://open.spotify.com/track/0Zw0ZJkTplOO3weqcZHxjF"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "Reinsertado 2.0",
+        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
     }
   ],
   "unique_name": "Club Rap ",

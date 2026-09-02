@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 17472,
+  "num_followers": 17478,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN6VnLrpG7lFfUQ9UwWhE+QKuQJy",
+  "snapshot_id": "AAAAACS2Y+2Kt8pF75P7dho19jbf0k9n",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Autobahn (2009 Remaster)",
-        "url": "https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr"
+        "name": "Switched On",
+        "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
       },
       "artists": [
         {
-          "name": "Kraftwerk",
-          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 1367093,
-      "name": "Autobahn - 2009 Remaster",
-      "url": "https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN"
+      "duration_ms": 322360,
+      "name": "Super-Electric",
+      "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
     },
     {
       "added_at": "2024-03-12 18:16:53",
@@ -575,18 +575,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Switched On",
-        "url": "https://open.spotify.com/album/3WZI3BhUd4TQl4CmNNm1HS"
+        "name": "Autobahn (2009 Remaster)",
+        "url": "https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Kraftwerk",
+          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
         }
       ],
-      "duration_ms": 322360,
-      "name": "Super-Electric",
-      "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
+      "duration_ms": 1367093,
+      "name": "Autobahn - 2009 Remaster",
+      "url": "https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN"
     },
     {
       "added_at": "2024-04-09 16:27:14",

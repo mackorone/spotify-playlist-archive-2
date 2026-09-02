@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > Pop you need to hear 🐬 cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,399 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,317 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 | 80 | [Man of the House](https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9](https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk) | 2:35 |
 
-Snapshot ID: `AAAAAO+RLlZBXvyRN+839FXeWZ2nTaCb`
+Snapshot ID: `AAAAAP4jypSzOIDBTkwmbBahegBVOk78`

@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u062d\u0644\u0649 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \ud83d\udcfa\u2728",
-  "num_followers": 56888,
+  "num_followers": 56908,
   "original_name": "\u0623\u063a\u0627\u0646\u064a \u0645\u0633\u0644\u0633\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYY1GvAIcmZy4P0LsXsGblXGvVv",
+  "snapshot_id": "AAAAAF+DuISM1HG+m/IIVuA+Pnp7m9NY",
   "tracks": [
     {
       "added_at": "2026-03-06 17:51:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a \u0633\u0648\u0627",
-        "url": "https://open.spotify.com/album/0l5B4ZOolT5fasPcru5Qc7"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "duration_ms": 154883,
-      "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a \u0633\u0648\u0627",
-      "url": "https://open.spotify.com/track/1f2hNkDAGoVfjH4wIY7kzJ"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
         "name": "Chou Nater (\u2018\u2018Bel Haram\u2019\u2019 Series Soundtrack)",
         "url": "https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 281532,
       "name": "Millionaire - Music from 100 Wesh TV Series",
       "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a \u0633\u0648\u0627",
+        "url": "https://open.spotify.com/album/0l5B4ZOolT5fasPcru5Qc7"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "duration_ms": 154883,
+      "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a \u0633\u0648\u0627",
+      "url": "https://open.spotify.com/track/1f2hNkDAGoVfjH4wIY7kzJ"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "Mabrouk",
-        "url": "https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96"
-      },
-      "artists": [
-        {
-          "name": "Hatim Ammor",
-          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
-        }
-      ],
-      "duration_ms": 157782,
-      "name": "Mabrouk",
-      "url": "https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "HARAZEEK",
@@ -967,6 +951,22 @@
       "duration_ms": 158848,
       "name": "HARAZEEK",
       "url": "https://open.spotify.com/track/4KkZaDtLIuCiCUH6Zwy0rx"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "Mabrouk",
+        "url": "https://open.spotify.com/album/4mkwlYIgQ4zHk5Xkz6Ih96"
+      },
+      "artists": [
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp"
+        }
+      ],
+      "duration_ms": 157782,
+      "name": "Mabrouk",
+      "url": "https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
-        "name": "\u064a\u0627\u0645\u0627 \u0646\u0641\u0633\u064a \u0627\u0642\u0648\u0644\u0643 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0627\u064a\u0634\u0629 \u0627\u0644\u062f\u0648\u0631)",
-        "url": "https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth"
-      },
-      "artists": [
-        {
-          "name": "Donia Samir Ghanem",
-          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "\u064a\u0627\u0645\u0627 \u0646\u0641\u0633\u064a \u0627\u0642\u0648\u0644\u0643 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0627\u064a\u0634\u0629 \u0627\u0644\u062f\u0648\u0631",
-      "url": "https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
         "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u062d\u0636\u0631\u0629 \u0627\u0644\u0645\u062a\u0647\u0645 \u0627\u0628\u0649",
         "url": "https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 234080,
       "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u062d\u0636\u0631\u0629 \u0627\u0644\u0645\u062a\u0647\u0645 \u0627\u0628\u0649",
       "url": "https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u064a\u0627\u0645\u0627 \u0646\u0641\u0633\u064a \u0627\u0642\u0648\u0644\u0643 (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0627\u064a\u0634\u0629 \u0627\u0644\u062f\u0648\u0631)",
+        "url": "https://open.spotify.com/album/6qSeWoOhTW8AfeH1Ox9Xth"
+      },
+      "artists": [
+        {
+          "name": "Donia Samir Ghanem",
+          "url": "https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "\u064a\u0627\u0645\u0627 \u0646\u0641\u0633\u064a \u0627\u0642\u0648\u0644\u0643 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0627\u064a\u0634\u0629 \u0627\u0644\u062f\u0648\u0631",
+      "url": "https://open.spotify.com/track/59cwzz2NQK3P67tajUi05K"
     },
     {
       "added_at": "2026-03-06 17:51:55",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/2eyEsqY6J8b4KqaVEkXa8l"
     },
     {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "\u0645\u062d\u062f\u0634 \u0645\u0631\u062a\u0627\u062d",
-        "url": "https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc"
-      },
-      "artists": [
-        {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
-        }
-      ],
-      "duration_ms": 238124,
-      "name": "\u0645\u062d\u062f\u0634 \u0645\u0631\u062a\u0627\u062d",
-      "url": "https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ"
-    },
-    {
       "added_at": "2026-07-10 14:41:36",
       "album": {
         "name": "\u0645\u062e\u0628\u064a\u0627\u0644\u0646\u0627 \u0627\u064a\u0647 \u064a\u0627 \u062f\u0646\u064a\u0627 (\u0645\u0648\u0627\u0644 \u0637\u0627\u0631\u0642)",
@@ -1267,6 +1251,22 @@
       "duration_ms": 200000,
       "name": "\u0645\u062e\u0628\u064a\u0627\u0644\u0646\u0627 \u0627\u064a\u0647 \u064a\u0627 \u062f\u0646\u064a\u0627 (\u0645\u0648\u0627\u0644 \u0637\u0627\u0631\u0642)",
       "url": "https://open.spotify.com/track/7j0fEOT00aQkzmtNV0hRvL"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
+        "name": "\u0645\u062d\u062f\u0634 \u0645\u0631\u062a\u0627\u062d",
+        "url": "https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "\u0645\u062d\u062f\u0634 \u0645\u0631\u062a\u0627\u062d",
+      "url": "https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ"
     },
     {
       "added_at": "2026-07-10 14:41:36",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-03-06 17:51:55",
       "album": {
+        "name": "\u062a\u0639\u064a\u0634 \u0648\u062a\u062c\u0631\u062d (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u064a \u0643\u0644\u0627\u064a)",
+        "url": "https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU"
+      },
+      "artists": [
+        {
+          "name": "Yara Mohamed",
+          "url": "https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD"
+        }
+      ],
+      "duration_ms": 127320,
+      "name": "\u062a\u0639\u064a\u0634 \u0648\u062a\u062c\u0631\u062d (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u064a \u0643\u0644\u0627\u064a)",
+      "url": "https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm"
+    },
+    {
+      "added_at": "2026-03-06 17:51:55",
+      "album": {
         "name": "\u062a\u0639\u0627\u0644\u0627\u0644\u064a \u062d\u0628\u064a\u0628\u064a \u0627\u0644\u0644\u064a\u0644\u0629",
         "url": "https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 109997,
       "name": "\u062a\u0639\u0627\u0644\u0627\u0644\u064a \u062d\u0628\u064a\u0628\u064a \u0627\u0644\u0644\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI"
-    },
-    {
-      "added_at": "2026-03-06 17:51:55",
-      "album": {
-        "name": "\u062a\u0639\u064a\u0634 \u0648\u062a\u062c\u0631\u062d (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u064a \u0643\u0644\u0627\u064a)",
-        "url": "https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU"
-      },
-      "artists": [
-        {
-          "name": "Yara Mohamed",
-          "url": "https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD"
-        }
-      ],
-      "duration_ms": 127320,
-      "name": "\u062a\u0639\u064a\u0634 \u0648\u062a\u062c\u0631\u062d (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0644\u064a \u0643\u0644\u0627\u064a)",
-      "url": "https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm"
     },
     {
       "added_at": "2026-07-10 14:41:36",

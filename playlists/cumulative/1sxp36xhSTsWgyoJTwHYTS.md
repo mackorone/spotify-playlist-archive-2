@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-253 songs - 13 hr 31 min
+254 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Insomnie](https://open.spotify.com/track/4yzeM3WcIcVd649yvktMY3) | [Kailys](https://open.spotify.com/artist/57PDGjJgwxrUFCLlkxJZZn) | [Insomnie](https://open.spotify.com/album/07lCcMGbJkSGeeyc293klT) | 3:35 | 2026-06-25 |  |
 | [Intempéries matinales](https://open.spotify.com/track/1xQVGT6jeGmd7LjjgAbcMx) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV) | [Entre les gouttes](https://open.spotify.com/album/0JISNHqqgZMbrNODCD9blh) | 2:31 | 2025-02-19 |  |
 | [It Still Hurts](https://open.spotify.com/track/1ofaUTC0BiUeb4XMtx49L2) | [John Blvck](https://open.spotify.com/artist/360goglak05MPXGbQ7kIJE) | [It Still Hurts](https://open.spotify.com/album/76Ti89RgQ4vH3vzgoE9rLl) | 4:10 | 2023-04-22 |  |
+| [J'espère qu'on me pardonne](https://open.spotify.com/track/3DjtC4ID5Te2aOyD89hfE3) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Soulitaire](https://open.spotify.com/album/0Yu63iTCPXTq825WvqWqDQ) | 3:51 | 2026-09-01 |  |
 | [J'le promets](https://open.spotify.com/track/0XFSzZVY04oRg58SBsZVDq) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG) | [J'le promets](https://open.spotify.com/album/40AWLwqkJCaym3GAnVhUHl) | 2:42 | 2023-03-19 |  |
 | [Jacques Chirac](https://open.spotify.com/track/0kKT2farMuJi5cvRZY7m32) | [El Piñolito](https://open.spotify.com/artist/1zDKtNxBnapISvVa72z5WG) | [Mathusalem](https://open.spotify.com/album/4weU4FdqD5fDcLTqX9GtaY) | 3:44 | 2024-03-01 |  |
 | [Jalouse](https://open.spotify.com/track/3NKpninEsVVX3SNEwLslbm) | [Meg Dumas](https://open.spotify.com/artist/5BRNw1EzuRKiiu2wmgSUOK) | [Jalouse](https://open.spotify.com/album/0KSDmGBjrjyEDzgkpu77Ar) | 3:31 | 2025-02-03 |  |

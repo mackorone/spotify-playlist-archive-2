@@ -70,10 +70,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 235333,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/5F7YXLSiFYPuVKXdVTb0N5"
+    },
+    {
+      "album": {
+        "name": "Tardes Fr\u00edas De Verano",
+        "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240626,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/3ounRzrjVz2MWljpHX1Ulr"
     },
     {
       "album": {
@@ -178,7 +196,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 227597,
       "name": "Corrientes Subterraneas",
       "url": "https://open.spotify.com/track/0GklidlwoggiJ9XDoYjcO5"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 250880,
       "name": "Disnei",
       "url": "https://open.spotify.com/track/3HWakFXPrhNf8zSJzI77eN"

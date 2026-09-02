@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Emanuel Satie
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,136 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,185 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 109 | [Get Ready](https://open.spotify.com/track/6DrLQJZll9RhvG7sPMng6R) | [Souler \(ES\)](https://open.spotify.com/artist/2vxxV79qNNZZd6IU03fC9e), [Sera De Villalta](https://open.spotify.com/artist/36QNZGUOB4BqczrvthRI3T) | [Get Ready EP](https://open.spotify.com/album/6VGxvRqh5GyMsdPGd16TfG) | 3:35 |
 | 110 | [Snakes](https://open.spotify.com/track/7KvYoLTnCDc5DtsOqKj5T2) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Rami](https://open.spotify.com/artist/69JMnvEdSQznAmeSWKH8kQ) | [Back 2 Tha Funk EP](https://open.spotify.com/album/2J3M1KVjW4rtgoCclYylbb) | 3:56 |
 
-Snapshot ID: `AAAAANFAfT0U94n1U+Be0ALY/8TCWw+7`
+Snapshot ID: `AAAAANXqqtMUTZxEH+yOsYaT1hR45FQ+`

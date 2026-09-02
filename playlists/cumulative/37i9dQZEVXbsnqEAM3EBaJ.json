@@ -852,7 +852,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 88386,
       "name": "3 German Dances, K. 605: No. 2 in G Major",
       "url": "https://open.spotify.com/track/2PIaxB1kbLUgD1aDJkWw3W"
@@ -16200,7 +16200,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 100040,
       "name": "Divertimento in B-Flat Major, K. 270: IV. Presto",
       "url": "https://open.spotify.com/track/172f94o36htnVTqqmTaq5s"
@@ -30026,7 +30026,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 346840,
       "name": "I Was the Sword",
       "url": "https://open.spotify.com/track/0qazxP5gIyWm77OeKaRSii"
@@ -34488,7 +34488,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 160360,
       "name": "King Of The Hill - bonus track",
       "url": "https://open.spotify.com/track/5dw9r6s2NqGcNbPyt3IC2B"
@@ -46240,7 +46240,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 188121,
       "name": "Oneness (Raghupati Raghav)",
       "url": "https://open.spotify.com/track/6UK98Qwr7Aw1Aw4SWygtAY"
@@ -48312,7 +48312,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 217320,
       "name": "Peter Criss Drum Solo / God Of Thunder - Live at Anaheim Stadium, Anaheim, California - August 20, 1976",
       "url": "https://open.spotify.com/track/1WLCEV65lrULhDoYBoN7qG"
@@ -49502,6 +49502,24 @@
       "duration_ms": 237800,
       "name": "Prayer of a Child",
       "url": "https://open.spotify.com/track/4MKDPj4JBiB53xdT4m5jRa"
+    },
+    {
+      "album": {
+        "name": "A Conspiracy Of Stars",
+        "url": "https://open.spotify.com/album/6vd6qe7hH474Zd9hgjZ3pl"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351520,
+      "name": "Precious Cargo",
+      "url": "https://open.spotify.com/track/2el3ykMHzzdRIBdBg1EfGv"
     },
     {
       "album": {
@@ -57841,6 +57859,32 @@
     },
     {
       "album": {
+        "name": "Yogis of Ukraine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yY5TUO7ErWlDx6UTaamMO"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Rudaz",
+          "url": "https://open.spotify.com/artist/07C3Q7d8Tr0RPZyAdYIKhM"
+        },
+        {
+          "name": "Luanne Homzy",
+          "url": "https://open.spotify.com/artist/49jCb5sMXG4rU9UajcvSsf"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121212,
+      "name": "Soldiers Go to Yoga",
+      "url": "https://open.spotify.com/track/5WQw3fc4ltJrCwcZCDgV7S"
+    },
+    {
+      "album": {
         "name": "Heart (1st)",
         "url": "https://open.spotify.com/album/1aPGbqbJ5ts9FRLo0XR6v9"
       },
@@ -58144,16 +58188,16 @@
           "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         },
         {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
           "name": "The Apostle Voices",
           "url": "https://open.spotify.com/artist/2lBkdMa6KzDyQFMbMG4hbU"
         },
         {
           "name": "The Brent Fischer Orchestra",
           "url": "https://open.spotify.com/artist/6Ee8FU4OF3VhlelcBUBt0F"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         },
         {
           "name": "The Fellowship Collective",
@@ -60982,7 +61026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 87000,
       "name": "Swan Lake Suite, Op. 20a: III. Danse des cygnes. Allegro moderato",
       "url": "https://open.spotify.com/track/2H4RNRwF3jvxY2eovhp7VR"
@@ -64225,6 +64269,24 @@
     },
     {
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335013,
+      "name": "The Last Generation",
+      "url": "https://open.spotify.com/track/03igeUdBEdN5wrj3vww9Mq"
+    },
+    {
+      "album": {
         "name": "The Last Imagination",
         "url": "https://open.spotify.com/album/4rZlDpT9yufJYWhzDaxbjX"
       },
@@ -65096,7 +65158,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 296440,
       "name": "The Poetry of the Real World",
       "url": "https://open.spotify.com/track/2EX3tA289WH6k4iqiF791p"
@@ -69289,6 +69351,24 @@
     },
     {
       "album": {
+        "name": "Bag of Holding",
+        "url": "https://open.spotify.com/album/5qun8E4utITs5XmRypLi4Q"
+      },
+      "artists": [
+        {
+          "name": "Funeral Diner",
+          "url": "https://open.spotify.com/artist/1jrFpzxw0c4MAAC0suBH9Q"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320733,
+      "name": "Two More",
+      "url": "https://open.spotify.com/track/0dBuEsIPM724UXqhYiGHqv"
+    },
+    {
+      "album": {
         "name": "Two-Love",
         "url": "https://open.spotify.com/album/7dL2YCEBRRTacTUikI7PJJ"
       },
@@ -70484,6 +70564,32 @@
       "duration_ms": 182599,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/0EYQhfsTUtViwb0BgygGHF"
+    },
+    {
+      "album": {
+        "name": "\"Academia\": A Classical Education: Chopin, Vivaldi and More",
+        "url": "https://open.spotify.com/album/61olE3POMOmhZjY1WLZp9q"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90232,
+      "name": "Variations on a Rococo Theme, Op. 33: Theme. Moderato semplice",
+      "url": "https://open.spotify.com/track/3MF5fxr6f2dkO5QdnJ0eMo"
     },
     {
       "album": {

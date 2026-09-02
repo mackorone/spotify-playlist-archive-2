@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 60153,
       "name": "Badli Si Hawa",
       "url": "https://open.spotify.com/track/4gdNShQMSrct8oV1MZ6hWU"
@@ -3248,7 +3248,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 349657,
       "name": "Bidaaii",
       "url": "https://open.spotify.com/track/15bc9RnSDFrNuD8TLwgfY7"
@@ -3456,7 +3456,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 175032,
       "name": "Boohe Baarian",
       "url": "https://open.spotify.com/track/7yUZ8noW5So1bqbxCPyUIh"
@@ -3828,6 +3828,28 @@
       "duration_ms": 232653,
       "name": "Chal Musafir - From \"Gustaakh Ishq\"",
       "url": "https://open.spotify.com/track/7zgLG4YuF9rsD9csn0KqJZ"
+    },
+    {
+      "album": {
+        "name": "Chalte Chalte",
+        "url": "https://open.spotify.com/album/2mjzMyncnTCg2wiZXHCYfA"
+      },
+      "artists": [
+        {
+          "name": "Zubeen Garg",
+          "url": "https://open.spotify.com/artist/3mpgtUc7wYBNjr04gEiQ4u"
+        },
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302896,
+      "name": "Chalte Chalte",
+      "url": "https://open.spotify.com/track/00rt0FfY3DqP5ZVydn5DcB"
     },
     {
       "album": {
@@ -4288,6 +4310,10 @@
         {
           "name": "Sunny M.R.",
           "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
         }
       ],
       "date_added": "2026-08-10",
@@ -5336,7 +5362,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 189055,
       "name": "Dil Farzi (From \"Aryabhatt Ka Zero\")",
       "url": "https://open.spotify.com/track/5imaV3fDPKIEoVUJm1rILB"
@@ -6933,6 +6959,24 @@
     },
     {
       "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/3oh78sSYIUUeRvMMZAbgPe"
+      },
+      "artists": [
+        {
+          "name": "Dushyant Bhatt",
+          "url": "https://open.spotify.com/artist/5Lh55pfwm77zTtZTeCtjyK"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"
+    },
+    {
+      "album": {
         "name": "Ghar Kab Aaoge (From \"BORDER 2\")",
         "url": "https://open.spotify.com/album/2amNpWNEXTRS2g5zXMQOhH"
       },
@@ -7208,7 +7252,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 218333,
       "name": "God Knows!",
       "url": "https://open.spotify.com/track/5yc050oPGKzbzXCnqLA7JP"
@@ -9286,7 +9330,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 171932,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
@@ -12994,7 +13038,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 245541,
       "name": "Madhosh - From \"Toxic\"",
       "url": "https://open.spotify.com/track/02rpiI8EvSgXic7uj7Qarr"
@@ -16640,7 +16684,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 223578,
       "name": "Piya Bedardi",
       "url": "https://open.spotify.com/track/5hdztw08uTjf2HT7bj26zJ"
@@ -17791,6 +17835,36 @@
     },
     {
       "album": {
+        "name": "Rangiyara (From \"Haiwaan\")",
+        "url": "https://open.spotify.com/album/6VDUlMEJYxXFLEiYgxhQor"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Rangiyara - From \"Haiwaan\"",
+      "url": "https://open.spotify.com/track/4L9GG0a2VyHrsX0wtj3DiV"
+    },
+    {
+      "album": {
         "name": "Ranjhe Nu Heer (From the Movie \"Kis Kisko Pyaar Karoon 2\")",
         "url": "https://open.spotify.com/album/5lBl2cPYPKySfJTXA1XH9j"
       },
@@ -17814,6 +17888,28 @@
       "duration_ms": 227553,
       "name": "Ranjhe Nu Heer - From the Movie \"Kis Kisko Pyaar Karoon 2\"",
       "url": "https://open.spotify.com/track/65MpaipbdpEDPmmNme7ZcJ"
+    },
+    {
+      "album": {
+        "name": "Rasiya",
+        "url": "https://open.spotify.com/album/63EXgdl9expV6sju79VzQm"
+      },
+      "artists": [
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        },
+        {
+          "name": "Adrita",
+          "url": "https://open.spotify.com/artist/2CFiOAOQOrCQitXrEfpyRH"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182781,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/6Xuecs5a5jW5WC82zi5U58"
     },
     {
       "album": {
@@ -19695,6 +19791,24 @@
     },
     {
       "album": {
+        "name": "Sochun Main",
+        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sochun Main",
+      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
+    },
+    {
+      "album": {
         "name": "Son Of Sardaar 2 Title Track (From \"Son Of Sardaar 2\")",
         "url": "https://open.spotify.com/album/2cdIukG5KKA52JihVaXQB4"
       },
@@ -20828,6 +20942,36 @@
       "duration_ms": 218858,
       "name": "Tera Yaar Hoon Main Title Track - From \"Tera Yaar Hoon Main\"",
       "url": "https://open.spotify.com/track/7EbEeGxCLas28jD7jFy7bL"
+    },
+    {
+      "album": {
+        "name": "Tere Alava",
+        "url": "https://open.spotify.com/album/464djR3O3N07jXelC7lpFy"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266125,
+      "name": "Tere Alava",
+      "url": "https://open.spotify.com/track/1m3YMwToiCq4Yt06n4xSfX"
     },
     {
       "album": {
@@ -22203,6 +22347,24 @@
     },
     {
       "album": {
+        "name": "Tu Koi Aur Hai",
+        "url": "https://open.spotify.com/album/40LLE4DnPPXwdbInq6TYIR"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304166,
+      "name": "Tu Koi Aur Hai",
+      "url": "https://open.spotify.com/track/3LQqccXWKya2nHcCawVwxe"
+    },
+    {
+      "album": {
         "name": "Tu Meri Dhadak Hai (From \"Dhadak 2\")",
         "url": "https://open.spotify.com/album/5IAE0VIJD8bdzpOYLBP2Kr"
       },
@@ -22920,6 +23082,24 @@
       "duration_ms": 214516,
       "name": "Ucha Lamba Kad Forever (From \"Welcome To The Jungle\")",
       "url": "https://open.spotify.com/track/7J9m7Heb1kdSVdqRgSIDGq"
+    },
+    {
+      "album": {
+        "name": "Udd Chale",
+        "url": "https://open.spotify.com/album/6KGrydZeoQezebA1lpCunl"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271112,
+      "name": "Udd Chale",
+      "url": "https://open.spotify.com/track/2jtdNa7D1xtwen2Y9awjTc"
     },
     {
       "album": {

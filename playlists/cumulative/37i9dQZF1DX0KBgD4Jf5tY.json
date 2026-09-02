@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:58lKFq1ZTU6IH6NWkmObn0\">Gloria Tricamo</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:2Xwx1kR7nPcZlhuHCMTHQO\">Joe Elle</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4320,7 +4320,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 201054,
       "name": "bathroom stalls",
       "url": "https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v"
@@ -11083,6 +11083,24 @@
     },
     {
       "album": {
+        "name": "Dormi",
+        "url": "https://open.spotify.com/album/1C7mEq21FTW3kySFMOUdEs"
+      },
+      "artists": [
+        {
+          "name": "Galeone",
+          "url": "https://open.spotify.com/artist/5OvpsN7bKDRO3KfbKSUBI5"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185696,
+      "name": "Dormi",
+      "url": "https://open.spotify.com/track/4qiIlhxtlqQ6O3iuRVIjUy"
+    },
+    {
+      "album": {
         "name": "dormire",
         "url": "https://open.spotify.com/album/5JAWxK06Q60JLXbjchtla4"
       },
@@ -11738,7 +11756,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 217217,
       "name": "eco",
       "url": "https://open.spotify.com/track/2JwjMGTmsop9VkWiDyJ69s"
@@ -32084,7 +32102,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 193530,
       "name": "Restituire",
       "url": "https://open.spotify.com/track/4a02hrhdKCbz14iNmfXVKZ"
@@ -33964,7 +33982,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 143813,
       "name": "Sei meglio di cos\u00ec",
       "url": "https://open.spotify.com/track/6YsMNh1xGtlXuPqf1Y1JFV"
@@ -35042,6 +35060,24 @@
       "duration_ms": 143079,
       "name": "slow down",
       "url": "https://open.spotify.com/track/5tdSu7tH9X8VmLHh0oiFa0"
+    },
+    {
+      "album": {
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/1Uto0M3LEiKOennShYN0Ex"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179688,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/7riJihKIOy8ViGHpACwqdL"
     },
     {
       "album": {
@@ -37474,6 +37510,24 @@
       "duration_ms": 224000,
       "name": "T-RIP",
       "url": "https://open.spotify.com/track/407xsMEzZSnm0wtYcBayXS"
+    },
+    {
+      "album": {
+        "name": "t4rdi",
+        "url": "https://open.spotify.com/album/5vQbHps4luUqj9oyKe8pcx"
+      },
+      "artists": [
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137926,
+      "name": "t4rdi",
+      "url": "https://open.spotify.com/track/4oYFdkYlgAggqNYp0TjWgO"
     },
     {
       "album": {
@@ -42224,6 +42278,24 @@
       "duration_ms": 164347,
       "name": "ZAGARA",
       "url": "https://open.spotify.com/track/6kFOTCImd2Dzopo4OQyMbI"
+    },
+    {
+      "album": {
+        "name": "ZAMPIRONI",
+        "url": "https://open.spotify.com/album/3qjXUtL974aMV5OyH8IrMv"
+      },
+      "artists": [
+        {
+          "name": "Zizzu",
+          "url": "https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "ZAMPIRONI",
+      "url": "https://open.spotify.com/track/77MJc2Z6QCNaG0MDuwNGOw"
     },
     {
       "album": {

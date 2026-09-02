@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1410569,
+  "num_followers": 1410753,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdZY99hbtEv8BasQzLlnC3ssW5r",
+  "snapshot_id": "AAAAAP+zqAqeHKuDTjo5vUln+e57Ri4P",
   "tracks": [
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Brave New World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "The Wicker Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Saturday Night Wrist",
         "url": "https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 249320,
       "name": "Hole in the Earth",
       "url": "https://open.spotify.com/track/5MLwqi4ybLiYq6dfCpECWT"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "The Wicker Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
+        "name": "Desensitized",
+        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
+      },
+      "artists": [
+        {
+          "name": "Drowning Pool",
+          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
         "name": "Soundtrack to Your Escape (The Quiet Place Version)",
         "url": "https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 302360,
       "name": "Nymphetamine Fix",
       "url": "https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
-        "name": "Desensitized",
-        "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
-      },
-      "artists": [
-        {
-          "name": "Drowning Pool",
-          "url": "https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Step Up",
-      "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
     },
     {
       "added_at": "2026-04-05 20:45:13",

@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 93000,
       "name": "13 Pieces for Piano, Op. 76: No. 2, Etude in A Minor",
       "url": "https://open.spotify.com/track/4FWGEOjwmFTauuGNxNtBEc"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 86986,
       "name": "Lyric Pieces Book 7, Op. 62: No. 1, Sylph",
       "url": "https://open.spotify.com/track/08oqeEr0T44DzoZAKgD1Tv"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 44653,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
       "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 96640,
       "name": "Piano Sonata No. 2 in B-Flat Minor, Op. 35 \"Funeral March\": IV. Finale. Presto",
       "url": "https://open.spotify.com/track/3tTrBGXpdEbBTcP3ByfR9J"
@@ -1759,6 +1759,28 @@
     },
     {
       "album": {
+        "name": "\"'The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129946,
+      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
+    },
+    {
+      "album": {
         "name": "Yu-Hsien: Spring Breeze Prelude (Arr. Hough for Piano)",
         "url": "https://open.spotify.com/album/56EXJS1jqCManutDOSqUJw"
       },
@@ -1814,7 +1836,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 259333,
       "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
       "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 118333,
       "name": "Travel Diaries, New York: V. Broadway (Midnight)",
       "url": "https://open.spotify.com/track/4Q9OgbelW1iKZCi5RyYzhp"

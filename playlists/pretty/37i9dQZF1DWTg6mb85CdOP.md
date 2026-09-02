@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > una selección para que prendas el mechón o mueves ese botecito antes y después de la reta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,725 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,728 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 29 | [Vasito en mano](https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [Vasito en mano](https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw) | 2:32 |
 | 30 | [Rock 'n' Roll \(Part 2\)](https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [Glitter](https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO) | 3:13 |
 
-Snapshot ID: `AAAAAOwf5CnR/OO7F8Ox9Y0T0tRsNssg`
+Snapshot ID: `AAAAACsH7AUQksL8i5mIda37rlyXxHiZ`

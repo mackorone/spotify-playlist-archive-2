@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLBTOzBzJlQ.md) - [plain]
 
 > enjoy the ILLIT LIVE \[PRESS START♥︎\] LIVE SET including the voices of them on stage! \(아일릿의 무대 멘트와 목소리가 포함된 \[PRESS START♥︎\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,724 likes - 23 songs - 57 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 32,822 likes - 23 songs - 57 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLBTOzBzJlQ.md) - [plain]
 | 22 | [Ending Ment](https://open.spotify.com/track/754PGs7lZHNRqrH0smqpGO) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [ILLIT LIVE \[PRESS START♥︎\]](https://open.spotify.com/album/2prUD0wjmvgCVm2urjvcQv) | 2:24 |
 | 23 | [NOT ME](https://open.spotify.com/track/1zEDtR1s5RwARukQ28PHvT) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:34 |
 
-Snapshot ID: `AAAAADkWEdhndgq+ve/dcf24Zt1S9QKP`
+Snapshot ID: `AAAAADJ3W4m03yx5m9YaHRxe2b2x/p01`

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191516,
+  "num_followers": 191518,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCMXK/BFe247dioyChNfvlNN0nY",
+  "snapshot_id": "AAAAAHj3e7VkR9LBBMlt2JRD90v+jLhI",
   "tracks": [
     {
       "added_at": "2026-08-21 22:02:04",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 179389,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -787,30 +787,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "Cansei De Chorar Seu Nome",
-        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
-      },
-      "artists": [
-        {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
-        },
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        }
-      ],
-      "duration_ms": 224938,
-      "name": "Cansei De Chorar Seu Nome",
-      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 134571,
       "name": "Al\u00f4? \u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "Cansei De Chorar Seu Nome",
+        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        },
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        }
+      ],
+      "duration_ms": 224938,
+      "name": "Cansei De Chorar Seu Nome",
+      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -1059,18 +1059,26 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+        "name": "Desse Meu Mel",
+        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
       "artists": [
         {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+          "name": "BIA DOXUM",
+          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
+        },
+        {
+          "name": "Vibox",
+          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
+        },
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+      "duration_ms": 282352,
+      "name": "sexta de manh\u00e3",
+      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -1095,26 +1103,18 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "Desse Meu Mel",
-        "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
       },
       "artists": [
         {
-          "name": "BIA DOXUM",
-          "url": "https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV"
-        },
-        {
-          "name": "Vibox",
-          "url": "https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x"
-        },
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
         }
       ],
-      "duration_ms": 282352,
-      "name": "sexta de manh\u00e3",
-      "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-08-21 22:02:04",

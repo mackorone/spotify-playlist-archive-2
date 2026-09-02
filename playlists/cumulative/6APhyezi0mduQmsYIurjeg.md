@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-589 songs - 1 day 11 hr 44 min
+595 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [can you?](https://open.spotify.com/track/1zlLTjLoqR2N66xxrtY1hV) | [Jesse Cleaves](https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds) | [can you?](https://open.spotify.com/album/06u75g7TcKl5VOLOZnj8Vo) | 2:09 | 2025-02-20 |  |
 | [Can't Be for Real](https://open.spotify.com/track/3U0lOFQY5NhvtjS4eNkB3B) | [Bloody Bananas](https://open.spotify.com/artist/3aBQPiZucgsQEVWQyeou7o) | [Can't Be for Real](https://open.spotify.com/album/2sSqhfuFfHrpUZSNt5ckI8) | 3:18 | 2024-10-08 |  |
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-11-05 |  |
+| [Can't Get Away \- Instrumental](https://open.spotify.com/track/7h7W75GUu2vLqKrswjFGN7) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away \(Instrumental\)](https://open.spotify.com/album/6n0QFCB4He47WwpJpcyGfz) | 2:32 | 2026-09-01 |  |
 | [Candle](https://open.spotify.com/track/3s6xsXQSOsc6rldSxLMynj) | [KLIMFA](https://open.spotify.com/artist/6kB0ONCi2Cq063ZZcjX0vT) | [Candle](https://open.spotify.com/album/4og4yaZ9B3VR1HYjDLYRUH) | 3:27 | 2026-08-28 |  |
 | [CAPATA](https://open.spotify.com/track/0VmCSFtc1F0SVucjEorToC) | [Lucas Antonelli](https://open.spotify.com/artist/1OEvkdafNbLnGUhbNo8uPd) | [CAPATA](https://open.spotify.com/album/0Q4h3Fts5qx6a9r29z60tc) | 2:41 | 2025-02-19 |  |
 | [Caramelos](https://open.spotify.com/track/78C8EGE1S3Nk5T7Cf8k06J) | [Mono Loco](https://open.spotify.com/artist/4CZR9EpFMQuqqDMP8ql8fC) | [Rock de la Selva, Vol\. 1](https://open.spotify.com/album/6Iu1V1aqcsxLJyb916YrTz) | 3:10 | 2024-12-04 |  |
@@ -143,6 +144,7 @@
 | [Eles Pensam](https://open.spotify.com/track/0jTzRIlNcst6kVZWFO1gBL) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Eles Pensam](https://open.spotify.com/album/2JKrh95CovXC4pQYKQeIh5) | 2:29 | 2025-02-21 |  |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2023-10-17 |  |
 | [Elon Musk the Money Man](https://open.spotify.com/track/7rR7H4wxaquBMHaJSw5FoJ) | [Levi One](https://open.spotify.com/artist/6u4jNfiaF30DqG38JSFzf5) | [Elon Musk the Money Man](https://open.spotify.com/album/2yghL4vhXt85pI43DhWaUv) | 4:27 | 2023-10-28 |  |
+| [Endgame](https://open.spotify.com/track/6NIIn3IrbzMPviJ1hSceZL) | [Accentuator](https://open.spotify.com/artist/4dnPNxQvkKkniAVp5ohx51) | [Endgame](https://open.spotify.com/album/5BycyyA2vRM2cQQ7yAoBtM) | 4:07 | 2026-09-01 |  |
 | [Endorfine a Go Go](https://open.spotify.com/track/3X4iQR2VRIyEQXaJ7kZDAr) | [Nosexfor](https://open.spotify.com/artist/5cSqNiNzNdO1juc0qXx7lU) | [Endorfine a Go Go](https://open.spotify.com/album/2AEdnRDN5CvtYqzqesu3V7) | 3:28 | 2024-10-03 |  |
 | [Enemies](https://open.spotify.com/track/3LBLmC8gqvt1l43kdpx43w) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:41 | 2023-01-10 |  |
 | [Enjoy The Ride](https://open.spotify.com/track/6EvjakKvhHKwiUagqypAZW) | [Rob Fitzgerald](https://open.spotify.com/artist/20qDnAzxoDhdA6eU6Ua6UT) | [Enjoy The Ride](https://open.spotify.com/album/6OxgCK5rVsB4JhCyfukC7c) | 3:40 | 2024-10-03 |  |
@@ -243,6 +245,7 @@
 | [Il habitait en face](https://open.spotify.com/track/3GxQ0LnUDIJV70zUK36KJh) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 4:24 | 2024-03-01 |  |
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-01-23 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2023-01-10 |  |
+| [In Between](https://open.spotify.com/track/6sBtirJIbyIG2UdviBt0rx) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [In Between](https://open.spotify.com/album/0Dwc2X79NdDJy0Oaz4aaO4) | 3:45 | 2026-09-01 |  |
 | [In the Pub](https://open.spotify.com/track/12Mpj78mexJWVy76hpotWi) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [In the Pub](https://open.spotify.com/album/69wUm9UjvCcQDcicqimur6) | 4:08 | 2025-10-27 |  |
 | [Incenso](https://open.spotify.com/track/4A7fsdfluCm9lIWeeipaVI) | [Rota de Pedestre](https://open.spotify.com/artist/71Ci4K0dc7xkAryKA5EXP7), [Artur Wais](https://open.spotify.com/artist/184Ys0QKQNoWGyYysbmevt) | [Nós Nessa Cidade](https://open.spotify.com/album/4imeUCQvR7QFx3e7k6FD4V) | 3:36 | 2023-01-10 |  |
 | [Infinite \#23](https://open.spotify.com/track/6CxKptiTnVUBEX5MkfGMBB) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 2:58 | 2023-04-24 |  |
@@ -443,6 +446,7 @@
 | [Sex Buddies](https://open.spotify.com/track/0EXUQU9XPEpLkcOWuj9ixq) | [SUS](https://open.spotify.com/artist/53ouCiAkhaZin8Jygfikbr) | [Sex Buddies](https://open.spotify.com/album/0gNW6tsgwtOJ5bbqprY9HI) | 3:51 | 2024-10-08 |  |
 | [Sexy Zeppelin \(The Orkney Tapes\)](https://open.spotify.com/track/2iJRzYcRGvZo34TUlEJgw3) | [flakebelly](https://open.spotify.com/artist/3GqvNO9hh3uHjhvmQpg5rU) | [The Orkney Tapes: 2022 Singles](https://open.spotify.com/album/0QjpRXyQZ87EEtBDmdAk9S) | 3:48 | 2023-03-13 |  |
 | [Shake Your Body](https://open.spotify.com/track/406BrFOm6OwkqXb4sJT0m8) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of \(Guitar Licks\)](https://open.spotify.com/album/4VDWVvYWSSpt04cgoTLzEI) | 3:56 | 2023-03-19 |  |
+| [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 | 2026-09-01 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2025-10-28 |  |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-28 |  |
 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 | 2023-01-10 |  |
@@ -555,6 +559,7 @@
 | [Unseen](https://open.spotify.com/track/7JlIobxcyxqVEcix7RtcyV) | [Glenn Joseph Beats](https://open.spotify.com/artist/6CNGJJVoEwfqmLwq2HDLGc) | [Unseen Pieces \(Dual\)](https://open.spotify.com/album/6GCqWMNKGeLyywhUIaIsVw) | 3:38 | 2026-06-08 |  |
 | [Viernes](https://open.spotify.com/track/7nlK8sV7FUC6BaKcvL7hYU) | [Jonatan Ulises](https://open.spotify.com/artist/0c6eLKC7ent1tYp7iXlMgn) | [Viernes](https://open.spotify.com/album/2DkNkTpuTf14wpHHzd8tFB) | 2:22 | 2024-12-20 |  |
 | [Vodka soda](https://open.spotify.com/track/06Dz7mteBrSTJ9QDMa5BpB) | [Camping Lagon](https://open.spotify.com/artist/5FUG0uZPhmWPMRo0ztzgBH) | [Vodka soda](https://open.spotify.com/album/3iCMVBrLCJmdXDdSdKSTd0) | 2:48 | 2025-03-16 |  |
+| [Volver a Brillar](https://open.spotify.com/track/1Wjxe6g0BBQWZzFiWDUfuz) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 4:51 | 2026-09-01 |  |
 | [Waiting For It](https://open.spotify.com/track/4APidGIaSMpkIQCNJx2I26) | [Hucksters](https://open.spotify.com/artist/2YIuxsSEfrQeWq3ispbQ7G) | [Better Late Than Never](https://open.spotify.com/album/6SXCtYDzyKU6Wuv3RhsHWF) | 3:01 | 2024-12-31 |  |
 | [Want To](https://open.spotify.com/track/2vnSINnkrYJQQaDIkX9ve4) | [Hot Buttered Bland](https://open.spotify.com/artist/56IBHA9MPYviuxuA90FT4c), [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [Hot Fried Bland EP](https://open.spotify.com/album/5mwQdSRTsfG32SI1I9GBgI) | 2:30 | 2025-03-31 |  |
 | [Water](https://open.spotify.com/track/60tkxa6c2q95YGn6Zgf79w) | [w3stt](https://open.spotify.com/artist/4kjNXjzlZxlfm3wHj7bP94) | [Water](https://open.spotify.com/album/1SlvXUsy7qOGs8ohhFzyF1) | 2:26 | 2024-06-26 |  |
@@ -568,6 +573,7 @@
 | [When You Know \(Where You Come From\)](https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:22 | 2023-01-10 |  |
 | [Where I'm Going](https://open.spotify.com/track/6pu2mfkkCe5Mkk53J7MBzE) | [Papa Satch](https://open.spotify.com/artist/1KtGpfVZwrSIZlaitv87q4) | [Waiting on a Sunny Day](https://open.spotify.com/album/70SElP6rt9NiAefcv3eXFE) | 3:58 | 2024-10-03 |  |
 | [Which Way To Go](https://open.spotify.com/track/6p7KGAh7XEP68BgaIYx7f6) | [HKH](https://open.spotify.com/artist/1VlSCVqiUQUbHyuYTtTMih) | [Which Way To Go](https://open.spotify.com/album/0cwRfXqS7gBZ1VidLNyF94) | 2:21 | 2025-02-03 |  |
+| [Whisky con Helado](https://open.spotify.com/track/6NvqFY6VW75LiYXtjfW2nr) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:47 | 2026-09-01 |  |
 | [Why](https://open.spotify.com/track/72EtiNkMgm3hgnByvlQBC6) | [Kyle Cruse](https://open.spotify.com/artist/6eHyafvY87Av9HbXTC4RnJ) | [All I Am](https://open.spotify.com/album/6CXUFc5U9Zfi0OlmxEEQoH) | 4:38 | 2025-02-19 |  |
 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 | 2023-01-10 |  |
 | [WILLST MICH](https://open.spotify.com/track/4HOJH8YnxAwkQcDHD2070f) | [THOMMY LEE MILLER](https://open.spotify.com/artist/7yvwkFdCJCbrlxDNr86xjw) | [WILLST MICH](https://open.spotify.com/album/23AqlVYmfKLhLhseIRBawZ) | 3:55 | 2026-08-28 |  |

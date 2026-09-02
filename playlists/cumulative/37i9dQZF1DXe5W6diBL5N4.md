@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NCT127\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,795 songs - 39 day 19 hr 42 min
+16,799 songs - 39 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5780,6 +5780,7 @@
 | [home](https://open.spotify.com/track/6HICMp4ZI9Uzxkgtoy06Ts) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Shane](https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v) | [home](https://open.spotify.com/album/44SKiPutWGnToVKtemR6b1) | 3:16 | 2025-12-17 | 2025-12-30 |
 | [home](https://open.spotify.com/track/3jG8a4wuhuMz4BQ80t5uY4) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [home](https://open.spotify.com/album/3CheZaNlAZvl0uCjfgPtF5) | 3:36 | 2022-12-21 | 2023-01-11 |
 | [HOME](https://open.spotify.com/track/39AIGxDZhfRre2EPJeLQsh) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Wonderland](https://open.spotify.com/album/4TQZElOUCYn4M6IUHFe0Ag) | 3:02 | 2025-10-30 | 2025-11-07 |
+| [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 | 2026-09-01 |  |
 | [Home \(away from home\)](https://open.spotify.com/track/3XEeAlrVUxxS23NOJaF6CC) | [Dazzling Jihye](https://open.spotify.com/artist/5T6o5MUD02GoAhKjiJgCgB) | [Home \(away from home\)](https://open.spotify.com/album/1O7cZLq8I2Aq2M1n603g10) | 4:48 | 2022-06-21 | 2022-07-05 |
 | [Home \(Feat\. Kimmuseum, nov\)](https://open.spotify.com/track/3odQxisNCKjmgM2y3eQ82X) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [nov](https://open.spotify.com/artist/3gyUm6cPk4sChNCVb3fFaC) | [Shelter](https://open.spotify.com/album/1xnCeYpux132f4rBEwElc0) | 3:26 | 2022-09-02 | 2022-09-09 |
 | [home \(Feat\. Korean\)](https://open.spotify.com/track/0EyGUDmehvBiZ6RQDtn7Ai) | [TOMMY YANG](https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y), [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [home](https://open.spotify.com/album/73QaRFhvRzb5s2XyBC5aqO) | 2:39 | 2022-11-16 | 2022-12-22 |
@@ -7830,6 +7831,7 @@
 | [Like Crazy](https://open.spotify.com/track/3UP93ZfvCcreTrNutrqcCC) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [talks about pain](https://open.spotify.com/album/56HfP8AGEFwJTcUCbtCiUl) | 3:59 | 2022-05-17 | 2022-05-31 |
 | [Like Crazy \(Deep House Remix\)](https://open.spotify.com/track/6D90VTeGEWYX5AkAtjHZh1) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Like Crazy \(Remixes\)](https://open.spotify.com/album/639nejcoHHwxJCKqr35ww2) | 3:00 | 2023-03-27 | 2023-04-02 |
 | [like dream](https://open.spotify.com/track/4dHoXSXSCwJ7jLizt3IwUL) | [Dee A Nii](https://open.spotify.com/artist/52lCx678rN32hGYUMplAFQ) | [like dream](https://open.spotify.com/album/5td2FTwChY9ypeNghsTBDR) | 3:02 | 2023-12-21 | 2024-01-11 |
+| [Like Fire](https://open.spotify.com/track/0V3iJWPutcLhPId4q2LjxZ) | [82MAJOR](https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663) | [HEAT](https://open.spotify.com/album/2XRfS9sTg9ncblI4SsJosi) | 2:41 | 2026-09-01 |  |
 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 | 2023-11-10 | 2023-12-14 |
 | [Like I Do](https://open.spotify.com/track/7uFnqp6qMAP0UAI7SUzxev) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [Like I Do](https://open.spotify.com/album/1hONaNEbCdb1Aoneosd7qE) | 1:57 | 2026-03-27 | 2026-04-09 |
 | [Like I won't see](https://open.spotify.com/track/0WJgcCPh6TDnG4AoGogjA1) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8), [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [photo album](https://open.spotify.com/album/5vlKpMEwj3YRFmfwtrXNvZ) | 3:35 | 2025-03-24 | 2025-04-10 |
@@ -9411,6 +9413,7 @@
 | [Mysterious](https://open.spotify.com/track/7nNneH2zYisyjRwfEDFlkZ) | [Nicole](https://open.spotify.com/artist/00rHhOjnxKfnwVyJAOSACS) | [Mysterious](https://open.spotify.com/album/2XeVmSn6IR5pKErdshoPxT) | 3:04 | 2023-03-09 | 2023-03-28 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-06-27 | 2022-07-05 |
 | [MZ MDNG](https://open.spotify.com/track/1OKkegh4k9X3F760IDwEiE) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [MZ MDNG](https://open.spotify.com/album/6KOBnOVPfm7iGrHEiJYbge) | 3:09 | 2026-07-06 | 2026-07-21 |
+| [México](https://open.spotify.com/track/7B6hyoYY4ODxOqB2PkWW80) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [México](https://open.spotify.com/album/18DhSaSrbJwTWKSSUybLtl) | 3:12 | 2026-09-01 |  |
 | [n \(number of cases\)](https://open.spotify.com/track/33nC9lajf4bWI12PooiOKF) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [n: number of cases](https://open.spotify.com/album/2TqBXeAVeC8lQ1ThQqjY4I) | 2:53 | 2025-07-01 | 2025-07-12 |
 | [N the Front](https://open.spotify.com/track/1RIyqzVoYqADXfAWjWNFz8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/2tLs0fD9QQuBIWKIsyxNSw) | 3:00 | 2025-09-01 | 2025-09-15 |
 | [N the Front \(H.ONE Remix\)](https://open.spotify.com/track/3SSPtHVwipgXWlJobffEm1) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X \(Deluxe Ver.\)](https://open.spotify.com/album/27U5YOvo0uPXLx4w5qKx19) | 3:46 | 2025-09-05 | 2025-09-19 |
@@ -12139,6 +12142,7 @@
 | [Slow Down](https://open.spotify.com/track/4i0AQFbvu7AlRCtNi4azrf) | [ROSESIA](https://open.spotify.com/artist/4mVq0iiFXS8kUerXWCNK2W) | [Dazed](https://open.spotify.com/album/6smXQpQbpHx5a8f1yTnQwe) | 3:16 | 2024-12-03 | 2024-12-14 |
 | [SLOW DOWN](https://open.spotify.com/track/0lWvnOZiCG6j6g96ZtSGnY) | [RUDALS](https://open.spotify.com/artist/2gmDfDbae0ZWIws0bvsCn8) | [SLOW DOWN](https://open.spotify.com/album/1ceay01I0RqueX1dNotT37) | 3:06 | 2022-10-31 | 2022-12-22 |
 | [Slow Goodbye](https://open.spotify.com/track/4BouxLINKD148mxASBRTWK) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [Slow Goodbye](https://open.spotify.com/album/3O9AbaVhJ7wEmOoVUOs1BF) | 3:43 | 2025-10-27 | 2025-11-03 |
+| [Slow It Down](https://open.spotify.com/track/3hb3HLD9O7AQj3fjjFo5cL) | [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [Slow It Down](https://open.spotify.com/album/7vgqv558zafyp4qZIL5C51) | 2:45 | 2026-09-01 |  |
 | [Slow It Down](https://open.spotify.com/track/0CNfF7viDNyqTdUo6jwWtM) | [KIMSOHEE](https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3) | [BEGIN AGAIN](https://open.spotify.com/album/1CMVW0r3etkymx3JQq6Mog) | 2:45 | 2026-06-29 | 2026-07-14 |
 | [Slow motion](https://open.spotify.com/track/6CKJFWkucDi25C99S4JQkY) | [Wuno](https://open.spotify.com/artist/0TG5INfgw15hDRdRdhg45J), [Seein Seo](https://open.spotify.com/artist/6ZsBJrFsJRvviTNtuxHvP2) | [Slow motion](https://open.spotify.com/album/6LWYEgzZEVSSy8flnROFmZ) | 2:43 | 2024-05-21 | 2024-06-20 |
 | [Slow Motion \(With Jazzy J\)](https://open.spotify.com/track/6VNvrGntDdvYUHTaovldcM) | [DOF](https://open.spotify.com/artist/6N0yR9mf6opmDEH7tuPpwC) | [DOF ep \#motion](https://open.spotify.com/album/0As3gl6d3OnLM8mVNJFd5B) | 3:29 | 2025-03-19 | 2025-04-05 |

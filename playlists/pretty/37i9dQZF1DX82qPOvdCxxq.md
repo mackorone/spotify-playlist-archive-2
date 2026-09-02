@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Issac Mansfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,218 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,244 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [AFTERTHOUGHT](https://open.spotify.com/track/609hWqlx2oY44Iy2F9uoXy) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [AFTERTHOUGHT](https://open.spotify.com/album/3J9hrYwgauuZQGFSV16Mg5) | 3:30 |
 | 75 | [song of healing](https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [seeing green](https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3) | 5:21 |
 
-Snapshot ID: `AAAAAPORb1rLId1T8zPAHLF30W69kAfo`
+Snapshot ID: `AAAAAEJrZzCOJLw8EbGazF/S0zF6Sk9k`

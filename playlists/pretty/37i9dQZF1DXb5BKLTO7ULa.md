@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Alex Warren, Samuel Welten & Russo, Olivia Rodrigo, Sarah Julia, DI\-RECT, Bokoesam en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,140 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,100 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 91 | [2017](https://open.spotify.com/track/5DGeJrmkia0RZS2m1qzOlt) | [Zakmes](https://open.spotify.com/artist/2BwsNDoJpoq6wk8ZK6UZgt) | [2017](https://open.spotify.com/album/0CVtpDDCVCvB4dWoBngolU) | 2:53 |
 | 92 | [Zeg me dat je blijft](https://open.spotify.com/track/4CvRVxngWceqtBSnTiNRB8) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Zeg me dat je blijft](https://open.spotify.com/album/6Rb1b32VAXog0q4LAdY1Jw) | 2:12 |
 | 93 | [Strangers](https://open.spotify.com/track/3pgXNASOzt7C0QRby6FSbR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/0Vc48CANIrBcl0VBDy1TTX) | 3:23 |
-| 94 | [BIJNAAM](https://open.spotify.com/track/3DPapi32GqBviOrFZjIjip) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [BIJNAAM](https://open.spotify.com/album/0kitTDgQMrybL8fQFbTsle) | 2:51 |
+| 94 | [BIJNAAM](https://open.spotify.com/track/3DPapi32GqBviOrFZjIjip) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [BIJNAAM](https://open.spotify.com/album/0kitTDgQMrybL8fQFbTsle) | 2:06 |
 | 95 | [SAME GIRL](https://open.spotify.com/track/0QHAHhG1cM9UNowzu9Yk6H) | [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw) | [SAME GIRL](https://open.spotify.com/album/0rAU4iVr9t7oOUB6h8jcyY) | 2:04 |
 | 96 | [Emotionally Unavailable](https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Emotionally Unavailable](https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4) | 2:20 |
 | 97 | [Hold Me Down](https://open.spotify.com/track/0Nzpn5aTMzBfTsNxp7kANn) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [TOS](https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX) | [Hold Me Down](https://open.spotify.com/album/2ajcHV3SsmPVbw3UTl8z6b) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Rollercoaster](https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Rollercoaster](https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY) | 2:32 |
 | 100 | [Litter in Japan](https://open.spotify.com/track/5Gwq6Oefxhub81prd9Ib00) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Litter in Japan](https://open.spotify.com/album/6P5cUz4tpCK6b1uCnSrgE5) | 4:10 |
 
-Snapshot ID: `AAAAAPn7otmTzRpdLNzVJIm5pSHFPhdo`
+Snapshot ID: `AAAAAHKPlm90u/H640qtewnEJ3DTSWSE`

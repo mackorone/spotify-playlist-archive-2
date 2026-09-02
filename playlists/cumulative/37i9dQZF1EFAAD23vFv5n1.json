@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Antidoto",
+        "url": "https://open.spotify.com/album/1NcnAWVkPQOYUxdJa5fpZx"
+      },
+      "artists": [
+        {
+          "name": "UNO",
+          "url": "https://open.spotify.com/artist/1NLsoj0FUUQh3Vm34Ji4nS"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166098,
+      "name": "Antidoto",
+      "url": "https://open.spotify.com/track/2TjbA4cbxicD2JlCWNC27d"
+    },
+    {
+      "album": {
         "name": "UN-POPULAR",
         "url": "https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y"
       },

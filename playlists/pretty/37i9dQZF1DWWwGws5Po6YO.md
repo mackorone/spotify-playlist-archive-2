@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Kayla Pichichero
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,775 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,808 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [the other Shoulder](https://open.spotify.com/track/41swHVGLVFZcsaN13iqDbh) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [cathy, quietly](https://open.spotify.com/album/6Zk2Zg8OKiOp9FxSacG3Ja) | 2:41 |
 | 100 | [Sunlight Zone](https://open.spotify.com/track/46YhbNVUyPEFQ9N4KymBGu) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Sunlight Zone](https://open.spotify.com/album/4qQy2EJsZNVvrRgXZJe2Ez) | 11:12 |
 
-Snapshot ID: `AAAAAMk39VX2faSl6+rZq4Q2uK7V73X2`
+Snapshot ID: `AAAAAPF63GbpJyMVGwlHqcPvF2oVbZGH`

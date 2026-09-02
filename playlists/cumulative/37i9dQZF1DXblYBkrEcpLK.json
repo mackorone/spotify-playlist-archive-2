@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 300916,
       "name": "1.2.3 - from CrosSing",
       "url": "https://open.spotify.com/track/3tMXqZLaFHk3VnSdRsvFoq"
@@ -1005,6 +1005,76 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/0zzINECUPOJ7iO0DNw60fQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)",
+          "url": "https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2"
+        },
+        {
+          "name": "\u30ca\u30ea\u30bf\u30d6\u30e9\u30a4\u30a2\u30f3 (CV. \u8863\u5ddd\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO"
+        },
+        {
+          "name": "\u30d3\u30ef\u30cf\u30e4\u30d2\u30c7 (CV. \u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk"
+        },
+        {
+          "name": "\u30c8\u30e9\u30f3\u30bb\u30f3\u30c9 (CV. \u585a\u7530\u60a0\u8863)",
+          "url": "https://open.spotify.com/artist/7IxilqqfqYRowm1sO9y8ey"
+        },
+        {
+          "name": "\u30c9\u30a5\u30e9\u30e1\u30f3\u30c6 (CV. \u79cb\u5948)",
+          "url": "https://open.spotify.com/artist/4lTTjcjh8UlGSJEKskZnoF"
+        },
+        {
+          "name": "\u30d6\u30a8\u30ca\u30d3\u30b9\u30bf (CV. \u548c\u6cc9\u98a8\u82b1)",
+          "url": "https://open.spotify.com/artist/3ma40KMu3hLS3xNTSmUrjd"
+        },
+        {
+          "name": "\u30a8\u30d4\u30d5\u30a1\u30cd\u30a4\u30a2 (CV. \u5343\u8cc0\u5149\u8389)",
+          "url": "https://open.spotify.com/artist/7vI36mvsWrpfa834C53X81"
+        },
+        {
+          "name": "\u30ed\u30b4\u30bf\u30a4\u30d7 (CV. \u9ad9\u6a4b\u7f8e\u7a7a)",
+          "url": "https://open.spotify.com/artist/51pb9lS7U3nemKSk5vNAgU"
+        },
+        {
+          "name": "\u30f4\u30a3\u30af\u30c8\u30ef\u30fc\u30eb\u30d4\u30b5 (CV. \u5d8b\u91ce \u82b1)",
+          "url": "https://open.spotify.com/artist/348qmJy6ym6VYVcxpviRMr"
+        },
+        {
+          "name": "\u30eb\u30fc\u30e9\u30fc\u30b7\u30c3\u30d7 (CV. \u6d77\u91ce\u6c34\u7389)",
+          "url": "https://open.spotify.com/artist/5BSVB6yLcPsN0xpqQKce5Z"
+        },
+        {
+          "name": "\u30a8\u30d5\u30d5\u30a9\u30fc\u30ea\u30a2 (CV. \u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3Vx7sGNK3imQeT1ugyRY1g"
+        },
+        {
+          "name": "\u30bf\u30a4\u30c8\u30eb\u30db\u30eb\u30c0\u30fc (CV. \u83ef\u6210 \u7d50)",
+          "url": "https://open.spotify.com/artist/0vOasrpivvPjuRcG0GtNbK"
+        },
+        {
+          "name": "\u30d5\u30a1\u30ec\u30ce\u30d7\u30b7\u30b9 (CV. \u6d45\u898b\u6625\u90a3)",
+          "url": "https://open.spotify.com/artist/3L2qOGNaUjIVJn02Atwe9Q"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211847,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/5RX9b0oBHxD19tORiLj3J2"
+    },
+    {
+      "album": {
         "name": "Beyond Selves (feat. L)",
         "url": "https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5"
       },
@@ -1544,7 +1614,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 192994,
       "name": "Cold Night",
       "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
@@ -2176,6 +2246,24 @@
       "duration_ms": 246893,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+    },
+    {
+      "album": {
+        "name": "everscape",
+        "url": "https://open.spotify.com/album/73IukgpKUvwAR9qtOIuDMO"
+      },
+      "artists": [
+        {
+          "name": "millsage",
+          "url": "https://open.spotify.com/artist/7cBKwPovugxX15beVkPZGA"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274045,
+      "name": "everscape",
+      "url": "https://open.spotify.com/track/0utAB6DxbjrUQfdG4pHn2H"
     },
     {
       "album": {
@@ -3110,7 +3198,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 234679,
       "name": "Hearts Glow",
       "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
@@ -3236,7 +3324,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "HIDE AND SEEK",
       "url": "https://open.spotify.com/track/0b4CYurHJcazTtxNpE2OBG"
@@ -3982,7 +4070,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 153230,
       "name": "Kawaii Kaiwai",
       "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
@@ -5764,7 +5852,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 221700,
       "name": "POWER OF STARS",
       "url": "https://open.spotify.com/track/7yx6ZBk9IbpGkDUWYzuGuR"
@@ -7741,6 +7829,32 @@
     },
     {
       "album": {
+        "name": "Tokyo Gals",
+        "url": "https://open.spotify.com/album/2X6CWtnyUomcImTENjLC1S"
+      },
+      "artists": [
+        {
+          "name": "GROTESQQQUE",
+          "url": "https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn"
+        },
+        {
+          "name": "\u91ce\u53e3\u8863\u7e54",
+          "url": "https://open.spotify.com/artist/7aKpjS6dHog2q6gK5ICr2v"
+        },
+        {
+          "name": "MIRI",
+          "url": "https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "Tokyo Gals",
+      "url": "https://open.spotify.com/track/2FRf5fgRzgZ6cKBeEy9e8U"
+    },
+    {
+      "album": {
         "name": "Tokyo Sunny Party",
         "url": "https://open.spotify.com/album/2EfBXXdiFkhQdxthS4RXO0"
       },
@@ -8790,7 +8904,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 236946,
       "name": "\u300c\u306d\u3048\u3001\u8a00\u3063\u3061\u3083\u3046\u3088\u3002\u300d",
       "url": "https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9"
@@ -9286,7 +9400,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 234766,
       "name": "\u3053\u308c\u306f\u307c\u304f\u305f\u3061\u306e\u751f\u5b58\u306e\u3042\u3089\u3059\u3058",
       "url": "https://open.spotify.com/track/51pypU0qsKgWwiPdMuCzmi"
@@ -9504,7 +9618,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 207544,
       "name": "\u305f\u308a\u306a\u3044",
       "url": "https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ"
@@ -12303,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "MY \u00c9TOILE",
+        "url": "https://open.spotify.com/album/0RaOVr6KB7jxZEqhiJj8jK"
+      },
+      "artists": [
+        {
+          "name": "Miho Okasaki",
+          "url": "https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "\u30da\u30ea\u30b9\u30b3\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/3FzVb7q4XWr3dihD9YrFQ1"
+    },
+    {
+      "album": {
         "name": "\u30de\u30b8\u308b\u308b\uff01\u30ca\u30a4\u30b9\u30d0\u30eb\u30af",
         "url": "https://open.spotify.com/album/6GhzWQXzDvR8rkT3jmRBwO"
       },
@@ -12536,7 +12668,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 237868,
       "name": "\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab",
       "url": "https://open.spotify.com/track/6rAEhMCtqizqu2sKQ4b9TI"
@@ -12648,7 +12780,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 194560,
       "name": "\u30e9\u30d6\u30ab\u30eb\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/6NVb6b8PK625eLcKkZnrEx"
@@ -13098,7 +13230,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 141813,
       "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
       "url": "https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn"
@@ -14075,6 +14207,24 @@
     },
     {
       "album": {
+        "name": "\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329311,
+      "name": "\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u8eab\u7121\u53cc\u306e\u5263\u306b\u306a\u308c",
         "url": "https://open.spotify.com/album/7tQTMRy1tWaBrO0AwWgLWX"
       },
@@ -14564,7 +14714,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 228214,
       "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"

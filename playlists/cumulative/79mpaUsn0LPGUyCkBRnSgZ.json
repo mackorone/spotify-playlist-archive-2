@@ -12311,6 +12311,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
+    },
+    {
+      "album": {
         "name": "Have Moicy!",
         "url": "https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd"
       },

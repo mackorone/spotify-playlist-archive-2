@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > TUANA ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,053 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,028 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 125 | [İnadına](https://open.spotify.com/track/1btodgOSe84UfQ6iJsX6T3) | [Özgürcayn](https://open.spotify.com/artist/0yQjgWBKebp4fKHQhWijet), [RASH](https://open.spotify.com/artist/7HePKGjMU8Eofq2Bp65pLX) | [İnadına](https://open.spotify.com/album/2I1L2tXWJ75oyLlCWorIym) | 1:53 |
 | 126 | [Say](https://open.spotify.com/track/5Bl5ARbS1woGhcCzcPuiqP) | [menek](https://open.spotify.com/artist/1itEjGFxYcsXmzeNyIrTLk), [Seri](https://open.spotify.com/artist/7sBDingt5MSbVaEW3hHoI3) | [Say](https://open.spotify.com/album/14hx4UtjyWLKvWZaQWJrDT) | 2:05 |
 
-Snapshot ID: `AAAAAKqt7nPF1/45wIiUcD6Gi/9xMu23`
+Snapshot ID: `AAAAAHBKNlVnW4Q6Ec13TevIk1DEbxx1`

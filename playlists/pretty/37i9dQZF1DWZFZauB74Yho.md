@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Two Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,869 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,874 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Magic Accident](https://open.spotify.com/track/5vypHtcvQNHK2TNFaednYJ) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Magic Accident](https://open.spotify.com/album/5LwlAnEWE4l7TSydKpuEDh) | 3:51 |
 | 100 | [The Devil Went Down to Deep Gap](https://open.spotify.com/track/0pUBXgIdM27fY0qFx7eq5o) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Devil Went Down to Deep Gap](https://open.spotify.com/album/51H5dgdCD3fTgYfYEXWfTB) | 5:02 |
 
-Snapshot ID: `AAAAAIsY21qaX1GAb4VD1KEzfVY/y2ts`
+Snapshot ID: `AAAAAHrUySP0Q0aOKJqDG5sxhPQLgb6j`

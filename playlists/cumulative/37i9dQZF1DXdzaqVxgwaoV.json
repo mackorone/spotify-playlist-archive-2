@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Grandes Hits: Rodolfo Aicardi",
+        "url": "https://open.spotify.com/album/71j4EEfYaoeR1gACT0QCvd"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi Con Los Hispanos",
+          "url": "https://open.spotify.com/artist/1Gtxrj70lCbBUqzW01Ohtv"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226730,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/36Hsi77ifXxU6nxmgnzjWx"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
       },
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 223712,
       "name": "La Vida Es un Rato",
       "url": "https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU"

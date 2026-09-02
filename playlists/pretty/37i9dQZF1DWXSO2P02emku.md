@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Conoce a los 14 artistas de México Canta y a los invitados especiales que los acompañan\. 📸 La Arrolladora Banda El Limón De René Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,167 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,170 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 5 | [LABIOS DE CEREZA](https://open.spotify.com/track/5HUvqNztSssvtTzNnE9ZyA) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [BRYAN SOTO \(CLAVE 5/7\)](https://open.spotify.com/artist/1t00RRRwsQu3zI26i61xT0) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:26 |
 | 6 | [ADIVINEN QUIEN](https://open.spotify.com/track/1GFEakLpZgXZ2HPsTfigli) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Grecia Delgado](https://open.spotify.com/artist/7rSTzimIe69drZh8LtPxI2) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:37 |
 | 7 | [BELLA](https://open.spotify.com/track/4WQxMH1Tu1yVXVprlASflS) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Emi Macias](https://open.spotify.com/artist/3k4qmQflWS96vrLhRL1xWE) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 1:55 |
-| 8 | [DEVUÉLVEME EL EGO](https://open.spotify.com/track/0VPcJsTsa3Hseygh28HsER) | [GRECIA MARÍN](https://open.spotify.com/artist/2jMS41pCUeU5aYEmzsjQau) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:50 |
-| 9 | [TERCO CALLEJERO](https://open.spotify.com/track/6XWr9Qqg7GXNtUw9yuiszs) | [JOSHUA SOTO](https://open.spotify.com/artist/5wnyErTq9BvVh8LYrY71hS) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:22 |
-| 10 | [POR BONITA](https://open.spotify.com/track/1ntjNzundi7ySzulWbHA5D) | [Rosalba Valdez](https://open.spotify.com/artist/3ov5AF1teejbXtVbAPmJuy) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:38 |
-| 11 | [DOLOR A PRIMERA VISTA](https://open.spotify.com/track/08qP273MtdpEJjr1V1ekVB) | [DANIEL OCHOA](https://open.spotify.com/artist/6MzXCFmEu8bfwmTGGjXiQD) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 3:02 |
-| 12 | [COSA FINA DEL PAÍS](https://open.spotify.com/track/2YzxckhaK1THeoYij47Rqg) | [TIFFANY GALAVIZ](https://open.spotify.com/artist/4z5GqXDUZJg58nvwAWsPRf) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:53 |
-| 13 | [RESET](https://open.spotify.com/track/5lqAOZ7gawP4B9OcEOStWR) | [MIRANDA GONZÁLEZ](https://open.spotify.com/artist/4W5WVVeA9l5sek5YFuCPY3) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:30 |
-| 14 | [PENA DE LA BUENA](https://open.spotify.com/track/4yeVW90PiBnIxAIT8X7FLN) | [Lizandro Espinoza](https://open.spotify.com/artist/6NHRlbZWi7nypmVsRO5VDl) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:13 |
+| 8 | [DEVUÉLVEME EL EGO](https://open.spotify.com/track/0VPcJsTsa3Hseygh28HsER) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [GRECIA MARÍN](https://open.spotify.com/artist/2jMS41pCUeU5aYEmzsjQau) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:50 |
+| 9 | [TERCO CALLEJERO](https://open.spotify.com/track/6XWr9Qqg7GXNtUw9yuiszs) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [JOSHUA SOTO](https://open.spotify.com/artist/5wnyErTq9BvVh8LYrY71hS) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:22 |
+| 10 | [POR BONITA](https://open.spotify.com/track/1ntjNzundi7ySzulWbHA5D) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Rosalba Valdez](https://open.spotify.com/artist/3ov5AF1teejbXtVbAPmJuy) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:38 |
+| 11 | [DOLOR A PRIMERA VISTA](https://open.spotify.com/track/08qP273MtdpEJjr1V1ekVB) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [DANIEL OCHOA](https://open.spotify.com/artist/6MzXCFmEu8bfwmTGGjXiQD) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 3:02 |
+| 12 | [COSA FINA DEL PAÍS](https://open.spotify.com/track/2YzxckhaK1THeoYij47Rqg) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [TIFFANY GALAVIZ](https://open.spotify.com/artist/4z5GqXDUZJg58nvwAWsPRf) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:53 |
+| 13 | [RESET](https://open.spotify.com/track/5lqAOZ7gawP4B9OcEOStWR) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [MIRANDA GONZÁLEZ](https://open.spotify.com/artist/4W5WVVeA9l5sek5YFuCPY3) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:30 |
+| 14 | [PENA DE LA BUENA](https://open.spotify.com/track/4yeVW90PiBnIxAIT8X7FLN) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Lizandro Espinoza](https://open.spotify.com/artist/6NHRlbZWi7nypmVsRO5VDl) | [México Canta\. Semifinal EUA](https://open.spotify.com/album/7spWswaSx8YfQb8Qy6bJbl) | 2:13 |
 | 15 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 |
 | 16 | [No Pude Enamorarme Mas](https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Unidos Para Siempre](https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy) | 3:34 |
 | 17 | [Callate y Besame](https://open.spotify.com/track/4I7u8l7P2A409S1emPOUhX) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 3:26 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 42 | [Reggaeton Chakalon](https://open.spotify.com/track/2ZjWAOt7mpzdOYobjoEt8L) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg) | 3:45 |
 | 43 | [Si Tú No Vuelves](https://open.spotify.com/track/0neogNQcR4Zq7dbsPqaSYH) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío \(Deluxe\)](https://open.spotify.com/album/4p1A2yuhbQo7M3S18ltyXh) | 3:27 |
 
-Snapshot ID: `AAAAAJGX35/fxHRBYtKwgtzWmd+lsL9S`
+Snapshot ID: `AAAAAKyOtvTEdYcnpFN2MKoJtSAFlo4+`

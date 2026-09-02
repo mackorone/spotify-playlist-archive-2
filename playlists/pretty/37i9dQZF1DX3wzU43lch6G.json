@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113789,
+  "num_followers": 113793,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANmGlzZtSOZP3dSQKmhqtPotcx3n",
+  "snapshot_id": "AAAAAKkKl2UpxrAD7G6XrUvhKGenfq01",
   "tracks": [
     {
       "added_at": "2025-07-10 21:06:57",
@@ -59,18 +59,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Akustik Travma",
-        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
+        "name": "Sevmek Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
       },
       "artists": [
         {
-          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
-          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
         }
       ],
-      "duration_ms": 235817,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
+      "duration_ms": 219554,
+      "name": "Sevmek Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Sevmek Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/5E2nMHCHr2zP65wVY1SEfL"
+        "name": "Akustik Travma",
+        "url": "https://open.spotify.com/album/0Erg7yjR99NFQcdh9rYMZU"
       },
       "artists": [
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+          "name": "Y\u00fczy\u00fczeyken Konu\u015furuz",
+          "url": "https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU"
         }
       ],
-      "duration_ms": 219554,
-      "name": "Sevmek Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2ULdX4jhNzXF6hiYHmcKfp"
+      "duration_ms": 235817,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/7DarbtpxRUG5POF3ifwu61"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Kaybolur",
-        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
-      },
-      "artists": [
-        {
-          "name": "Soft Analog",
-          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
-        }
-      ],
-      "duration_ms": 292794,
-      "name": "Kaybolur",
-      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Esirinim",
-        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+        "name": "Kaybolur",
+        "url": "https://open.spotify.com/album/4bgRuglgYS6Q99NjqIJtgQ"
       },
       "artists": [
         {
-          "name": "Ya\u015far",
-          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+          "name": "Soft Analog",
+          "url": "https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82"
         }
       ],
-      "duration_ms": 217186,
-      "name": "\u015eark\u0131lar G\u00fczelse Hala",
-      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
+      "duration_ms": 292794,
+      "name": "Kaybolur",
+      "url": "https://open.spotify.com/track/4RTMLwvWQosoJko4MklnBo"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -455,6 +439,22 @@
       "duration_ms": 212608,
       "name": "Hissettin mi",
       "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Esirinim",
+        "url": "https://open.spotify.com/album/5daXmEjk9uMHlmS8Lav6xs"
+      },
+      "artists": [
+        {
+          "name": "Ya\u015far",
+          "url": "https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "\u015eark\u0131lar G\u00fczelse Hala",
+      "url": "https://open.spotify.com/track/0LdI4bEAhDYxkOXNdl5cOk"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
-        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
-      },
-      "artists": [
-        {
-          "name": "MF\u00d6",
-          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
-        }
-      ],
-      "duration_ms": 237514,
-      "name": "Bodrum",
-      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
         "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 150000,
       "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
       "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
+        "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
+      },
+      "artists": [
+        {
+          "name": "MF\u00d6",
+          "url": "https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND"
+        }
+      ],
+      "duration_ms": 237514,
+      "name": "Bodrum",
+      "url": "https://open.spotify.com/track/33xcUviev85baFUelQYX9y"
     },
     {
       "added_at": "2025-07-10 21:06:57",

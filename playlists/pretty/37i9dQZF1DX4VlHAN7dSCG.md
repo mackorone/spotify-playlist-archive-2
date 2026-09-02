@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 66 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
 | 67 | [晚安台灣](https://open.spotify.com/track/5KPsY3b1af7O6v1vFeYx7d) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [進擊下半場](https://open.spotify.com/album/2PkESw7qmj3Vc4X2R4KSPy) | 3:35 |
 
-Snapshot ID: `AAAAANEExVZtZOvcxKEHh5w9636QYTUc`
+Snapshot ID: `AAAAAI6NcGzNnOFRIs7/SrAym8U6/WpS`

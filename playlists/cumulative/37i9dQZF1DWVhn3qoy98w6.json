@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Radio Palmer.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Patronato.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -4676,6 +4676,24 @@
       "duration_ms": 255000,
       "name": "A(Mor)A",
       "url": "https://open.spotify.com/track/6vPd1S3Jm9NNSjEVF1fXvr"
+    },
+    {
+      "album": {
+        "name": "A63",
+        "url": "https://open.spotify.com/album/46KHuUOHYKvamF8F8Rv02c"
+      },
+      "artists": [
+        {
+          "name": "from",
+          "url": "https://open.spotify.com/artist/5JOOLcf9vpeO0Lk5YsHXKU"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167295,
+      "name": "A63",
+      "url": "https://open.spotify.com/track/2WRE7xI1BS8hZQZS9cQjTR"
     },
     {
       "album": {
@@ -42585,6 +42603,24 @@
     },
     {
       "album": {
+        "name": "Duelo a primera sangre",
+        "url": "https://open.spotify.com/album/1rAx6R5THx5CSaZ28guBSp"
+      },
+      "artists": [
+        {
+          "name": "Mallo",
+          "url": "https://open.spotify.com/artist/3CgfZzO5rQuYKISJyCxfAc"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295081,
+      "name": "Duelo a primera sangre",
+      "url": "https://open.spotify.com/track/1vNmiskYFKCpQcGlo9xGem"
+    },
+    {
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/0H01X1EZq69Ivr4U5ChTna"
       },
@@ -44980,7 +45016,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 192750,
       "name": "El disco de mi hermana",
       "url": "https://open.spotify.com/track/3L0G9IPHWaP2rc6Ua4969c"
@@ -58036,7 +58072,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 188931,
       "name": "Fotos y Postales",
       "url": "https://open.spotify.com/track/6zjIR1LRnRYTEnZAvLAHKH"
@@ -79514,7 +79550,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 165332,
       "name": "Lo Malo Que Eres",
       "url": "https://open.spotify.com/track/4cE0uGwa0kRDqsThZmhnrG"
@@ -86850,7 +86886,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 121874,
       "name": "martyrs 11",
       "url": "https://open.spotify.com/track/7GmKwbiDMHtcqVGmSGMYG9"
@@ -91202,6 +91238,24 @@
       "duration_ms": 148000,
       "name": "mi amor.. </3",
       "url": "https://open.spotify.com/track/0CxAARXVHcxnue0kdQPwje"
+    },
+    {
+      "album": {
+        "name": "Mi Aria",
+        "url": "https://open.spotify.com/album/2UHk8poGz6aYTVquOk3v0B"
+      },
+      "artists": [
+        {
+          "name": "Julia Sabat\u00e9",
+          "url": "https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120806,
+      "name": "Mi Aria",
+      "url": "https://open.spotify.com/track/7qeei9mXzxVorLRaYYqlWL"
     },
     {
       "album": {
@@ -122531,6 +122585,24 @@
     },
     {
       "album": {
+        "name": "Quiero conciliar",
+        "url": "https://open.spotify.com/album/1aEhTGD3P4MbmBUb5POXye"
+      },
+      "artists": [
+        {
+          "name": "Patronato",
+          "url": "https://open.spotify.com/artist/2VQIzOxFnYy0bNOwjevel2"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155365,
+      "name": "Quiero conciliar",
+      "url": "https://open.spotify.com/track/0nbXISiQVENOL0JVKPuR7G"
+    },
+    {
+      "album": {
         "name": "Quiero Estar Contigo",
         "url": "https://open.spotify.com/album/2SKeeoxp6sIckIvTiPb0Y3"
       },
@@ -126532,7 +126604,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 234260,
       "name": "Robotika",
       "url": "https://open.spotify.com/track/3c1KvTCUN6v7zYWdomBtGs"
@@ -129202,7 +129274,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 238208,
       "name": "San Antonio",
       "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
@@ -137424,7 +137496,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 174058,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/3Iy9oyy7hcx4tySdRosEJX"

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ4UBONn+SARozjaBXmMcPJvL3BDhL",
+  "snapshot_id": "AAAJ5JcHzTJ0z1c/4oSZSVsRrfhaqsLn",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -2672,7 +2672,7 @@
           "url": "https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo"
         }
       ],
-      "duration_ms": 207625,
+      "duration_ms": 207699,
       "name": "AmoR Conversely",
       "url": "https://open.spotify.com/track/6vg64cW3pYw3og3vEYPw21"
     },
@@ -77811,6 +77811,54 @@
       "duration_ms": 238600,
       "name": "Ways Beyond This Day",
       "url": "https://open.spotify.com/track/0L2R4HAzQyMbWrCup7yAh2"
+    },
+    {
+      "added_at": "2026-09-01 08:21:44",
+      "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z"
+      },
+      "artists": [
+        {
+          "name": "Caskey",
+          "url": "https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk"
+        }
+      ],
+      "duration_ms": 204117,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO"
+    },
+    {
+      "added_at": "2026-09-01 17:28:07",
+      "album": {
+        "name": "Seasons In Exile",
+        "url": "https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9"
+      },
+      "artists": [
+        {
+          "name": "Unquiet Nights",
+          "url": "https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot"
+        }
+      ],
+      "duration_ms": 196219,
+      "name": "Diamond and the Missing Son",
+      "url": "https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9"
+    },
+    {
+      "added_at": "2026-09-01 17:28:10",
+      "album": {
+        "name": "Falling Ashes",
+        "url": "https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9"
+      },
+      "artists": [
+        {
+          "name": "DOJOKUN",
+          "url": "https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN"
+        }
+      ],
+      "duration_ms": 259008,
+      "name": "Falling Ashes",
+      "url": "https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl"
     }
   ],
   "unique_name": "playlist spotify free",

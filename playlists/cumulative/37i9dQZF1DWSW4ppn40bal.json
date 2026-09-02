@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Brown Noise Wall",
+        "url": "https://open.spotify.com/album/6ryiWSVqkn2K5jMCu2IRYA"
+      },
+      "artists": [
+        {
+          "name": "Alm Bark",
+          "url": "https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154388,
+      "name": "City Underlayer Drift",
+      "url": "https://open.spotify.com/track/6PB479LoK8ltKuHxEFdyPz"
+    },
+    {
+      "album": {
         "name": "Pink Noise 2017",
         "url": "https://open.spotify.com/album/1TarMiqXyN0uSwpN0rr35s"
       },
@@ -5855,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Hidden Highway Noise",
+        "url": "https://open.spotify.com/album/4HtmYbhdWYkp5tn562W2Gi"
+      },
+      "artists": [
+        {
+          "name": "Nebularity",
+          "url": "https://open.spotify.com/artist/41SRniyeD8nJ7HDfSRm92m"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143992,
+      "name": "Garage Thrum",
+      "url": "https://open.spotify.com/track/0nKVLfa90DfEeCUEv0HbuG"
+    },
+    {
+      "album": {
         "name": "Gentle Dust",
         "url": "https://open.spotify.com/album/5S7pZeDAnSTpRN9Hd265WB"
       },
@@ -6734,6 +6770,24 @@
       "duration_ms": 178000,
       "name": "Low Pink Noise",
       "url": "https://open.spotify.com/track/4LFqQzq8xlTZyhpDnvp0dG"
+    },
+    {
+      "album": {
+        "name": "Soundshield for Thoughts",
+        "url": "https://open.spotify.com/album/7p9mx3275dSA2lIiPsrADU"
+      },
+      "artists": [
+        {
+          "name": "Siltwave Library",
+          "url": "https://open.spotify.com/artist/0V0sLW2XdwFsJkLAActfmw"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133592,
+      "name": "Low Rumble",
+      "url": "https://open.spotify.com/track/6AAPYzsxF0z5gloVy50ORu"
     },
     {
       "album": {
@@ -8260,7 +8314,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 218000,
       "name": "Pink Noise 217Hz",
       "url": "https://open.spotify.com/track/0Xyc1643zBZ5kSHwevhR4x"
@@ -9934,7 +9988,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 191500,
       "name": "Pink Perfect",
       "url": "https://open.spotify.com/track/0itto7XEGoA9yj8Wl1AhjL"
@@ -9988,7 +10042,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 173871,
       "name": "Pink Rest Noise",
       "url": "https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7"

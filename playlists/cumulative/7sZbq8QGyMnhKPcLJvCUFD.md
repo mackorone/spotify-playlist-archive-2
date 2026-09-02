@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-890 songs - 1 day 20 hr 12 min
+891 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [jealous](https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq) | [The Trinity](https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY) | [jealous](https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1) | 2:30 | 2024-07-16 | 2025-01-08 |
 | [jeans off.](https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr) | [Jancs](https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK) | [jeans off.](https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV) | 2:01 | 2026-02-19 | 2026-03-07 |
 | [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 | 2023-08-10 |
+| [Just Need Ya](https://open.spotify.com/track/3vEma89ARUb3djFK0rQvfE) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5), [STREETSINEZ](https://open.spotify.com/artist/3tVkKqNwApYmnxf6xDmYqN) | [Just Need Ya](https://open.spotify.com/album/6tzfr87ShI64Q6NhELQWX0) | 3:04 | 2026-09-01 |  |
 | [Just The Way It Goes](https://open.spotify.com/track/17BTpUvdCQBZd5wBJPa3rI) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Just The Way It Goes](https://open.spotify.com/album/6wXde8nnDrHZArLo5uAzLI) | 3:12 | 2026-01-16 |  |
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-04-28 |
 | [Kapoeira Phonk](https://open.spotify.com/track/6Z5uARi7p14D527FvssFEl) | [HXDES](https://open.spotify.com/artist/70bgV7fa5H6sTah58wm73l), [DYNAMIS](https://open.spotify.com/artist/2Wt4l7cu2A5QctQ04QCR6S) | [Kapoeira Phonk](https://open.spotify.com/album/2iOKeLLyIB2dkVqvmEZj7a) | 1:32 | 2024-04-26 | 2024-11-20 |

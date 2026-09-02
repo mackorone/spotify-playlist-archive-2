@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 
 > This is Jennifer Lopez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,385 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,356 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 | 31 | [Play](https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:31 |
 | 32 | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/album/5ekcwlR6IVNcv2OMjcuz0G) | 3:35 |
 | 33 | [Te Guste](https://open.spotify.com/track/0ifLplTQxXkFZKMQpWCHii) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Te Guste](https://open.spotify.com/album/0TV9iQEnYeQeKZOfXhok1D) | 3:42 |
-| 34 | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt) | 3:35 |
-| 35 | [Try Me \(feat\. Jennifer Lopez and Matoma\)](https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:20 |
+| 34 | [Try Me \(feat\. Jennifer Lopez and Matoma\)](https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:20 |
+| 35 | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt) | 3:35 |
 | 36 | [Llegaste](https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Amor Sin Límite](https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN) | 3:56 |
-| 37 | [Una Noche Más](https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 4:05 |
-| 38 | [Pa Ti](https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:50 |
+| 37 | [Pa Ti](https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:50 |
+| 38 | [Una Noche Más](https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 4:05 |
 | 39 | [Dinero](https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Dinero](https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S) | 3:33 |
 | 40 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Olvídame y Pega la Vuelta](https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN) | 3:31 |
 | 41 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vOtdC.md) - [plain]
 | 49 | [After Love \(Part 1\)](https://open.spotify.com/track/68ZolUi1wARFSDGQCeybgy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:45 |
 | 50 | [Get Right](https://open.spotify.com/track/1TnHtrxIEhzanaRWoxbPVb) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4) | 2:56 |
 
-Snapshot ID: `apNygAAAAADtoeZ2jdYAMsAcBZwvRHFj`
+Snapshot ID: `apTEAAAAAABNRqMjZeQzWpnd9s6bdj6i`

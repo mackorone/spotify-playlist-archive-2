@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 
 > The official soundtrack and score of Project Hail Mary, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,803 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,066 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vRjxgTh2K7.md) - [plain]
 | 48 | [Believe in the Hail Mary \- from "Project Hail Mary"](https://open.spotify.com/track/5PPz4cYhvi0ZWCO9xj8fNN) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:57 |
 | 49 | [Amaze Amaze Amaze \(Life on Erid\) \- from "Project Hail Mary"](https://open.spotify.com/track/7hw7VMjvTVoF58kVgWeLNM) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Project Hail Mary \(Original Motion Picture Score\)](https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84) | 3:04 |
 
-Snapshot ID: `AAAAAHkc1ozVmHHE0pAgHDVcaokBPOgP`
+Snapshot ID: `AAAAAJHPIwP3IEDKOoE8wYJ4Gok5Zcl9`

@@ -1,12 +1,12 @@
 {
   "description": "Sweet sounds and welcoming vibes\u2014come on in and stay for a while",
-  "num_followers": 240516,
+  "num_followers": 240519,
   "original_name": "Front Porch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxcKmagRVg4MEOQEo2/7bwFBxZN",
+  "snapshot_id": "AAAAANKQKuWwREI8FJ37QX+cGZvFPJAl",
   "tracks": [
     {
       "added_at": "2026-07-10 04:01:48",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Meet You There",
-        "url": "https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR"
-      },
-      "artists": [
-        {
-          "name": "Katie Lynne Sharbaugh",
-          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
-        }
-      ],
-      "duration_ms": 220072,
-      "name": "Meet You There",
-      "url": "https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
         "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 256352,
       "name": "Santa Ana Winds",
       "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR"
+      },
+      "artists": [
+        {
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
+        }
+      ],
+      "duration_ms": 220072,
+      "name": "Meet You There",
+      "url": "https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Lean On Me EP",
-        "url": "https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe"
-      },
-      "artists": [
-        {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
-        }
-      ],
-      "duration_ms": 242885,
-      "name": "It Knows Me - Alt Version",
-      "url": "https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Thomas Csorba",
         "url": "https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4"
       },
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+        "name": "Lean On Me EP",
+        "url": "https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe"
       },
       "artists": [
         {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
         }
       ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+      "duration_ms": 242885,
+      "name": "It Knows Me - Alt Version",
+      "url": "https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
       "artists": [
         {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2026-07-10 04:01:48",

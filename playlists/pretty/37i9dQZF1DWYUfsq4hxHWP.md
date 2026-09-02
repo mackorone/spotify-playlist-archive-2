@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbie Callahan, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,787 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,855 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [underneath the harvest moon](https://open.spotify.com/track/1E2S6NnWOXPsEVfiUNflSm) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [underneath the harvest moon](https://open.spotify.com/album/7ftpvn3fSxRREHIeKgLXcO) | 3:26 |
 | 75 | [Spend My Time Lovin’](https://open.spotify.com/track/3YyBZmhDe5E0sY1vogv9Q1) | [Trey Pendley](https://open.spotify.com/artist/2oOEyLAK9imfmtCtg591wy) | [Spend My Time Lovin'](https://open.spotify.com/album/5J2ys29uYcWkuYIyH4zHdo) | 3:06 |
 
-Snapshot ID: `AAAAAK1DHf3WJ8IpfEALKR0q8UWP9nTV`
+Snapshot ID: `AAAAAAllM2H+n84vUnXtJBXRx0Dvdrgm`

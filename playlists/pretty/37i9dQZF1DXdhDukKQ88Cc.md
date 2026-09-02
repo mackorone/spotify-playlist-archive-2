@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Cizzo på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,747 likes - 58 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,741 likes - 58 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amira](https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Amira](https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb) | 2:03 |
 | 2 | [Ud Af Boksen](https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Ud Af Boksen](https://open.spotify.com/album/31eba2dt9qS1Q3d82G2uCX) | 2:26 |
-| 3 | [KIKI](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
+| 3 | [KIKI \(feat\. PAY\)](https://open.spotify.com/track/3exqXtZOZUm1G1YalFGlpY) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU) | [KIKI \(feat\. PAY\)](https://open.spotify.com/album/7xOuZkk7IGKsuUJIRKla8p) | 2:46 |
 | 4 | [Hunger 4 Livet](https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Hunger 4 Livet](https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi) | 2:39 |
 | 5 | [COGNAC](https://open.spotify.com/track/4tbFTazzCGUll4DaUXSAp9) | [Tyrees](https://open.spotify.com/artist/7FXMEeXMVK0qPi84nttz1o) | [COGNAC](https://open.spotify.com/album/3Jy1JIJ3Fr5kCxWj8jwlBL) | 2:06 |
 | 6 | [Mr\. Entreprenør](https://open.spotify.com/track/3vVhoKIX9vEaUVCOactWym) | [YAWO](https://open.spotify.com/artist/2djIkthTh1g6Pu2mVCEHdZ) | [Mr\. Entreprenør](https://open.spotify.com/album/1e7Q69hjmf9gVzDHzGNU8O) | 2:42 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 57 | [fuck frejlev](https://open.spotify.com/track/4NRc74wcetGguuuGrg28h1) | [yungholgi](https://open.spotify.com/artist/5VCUpUqOArU81gOjm8SBHS), [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs) | [fuck frejlev](https://open.spotify.com/album/6SvDMejT078Zo10WIk426L) | 2:24 |
 | 58 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 
-Snapshot ID: `AAAAAO2EtuJJirWEbrb52fX3pl+GD5fi`
+Snapshot ID: `AAAAAGcQwfTXMkQ5eKznbfIUat8WDGKW`

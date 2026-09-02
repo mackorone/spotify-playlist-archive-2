@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,394 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,420 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 81 | [Coffee Time \(from "The Subterraneans"\)](https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [The Subterraneans \(Original Soundtrack Recording\)](https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK) | 2:44 |
 | 82 | [Flirtibird](https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:10 |
 | 83 | [The Bed](https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Blow\-Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs) | 2:36 |
-| 84 | [Lullaby Of Birdland \- From "Fabulous Baker Boys" Soundtrack](https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG) | [The Earl Palmer Trio](https://open.spotify.com/artist/3MYbWvnIkAnKH2sAfFS6j6) | [The Fabulous Baker Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD) | 2:31 |
-| 85 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
+| 84 | [Lonely at the Top](https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [You've Got Mail](https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB) | 2:32 |
+| 85 | [Lullaby Of Birdland \- From "Fabulous Baker Boys" Soundtrack](https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG) | [The Earl Palmer Trio](https://open.spotify.com/artist/3MYbWvnIkAnKH2sAfFS6j6) | [The Fabulous Baker Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD) | 2:31 |
 | 86 | [Brass Brazilians](https://open.spotify.com/track/75Dg910bcWUB6ZimH4OrDn) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Rounders \(Music From The Miramax Motion Picture\)](https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt) | 2:50 |
 | 87 | [The Feeling Of Love](https://open.spotify.com/track/4lFk0O1MprjoBYo128ZEtP) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Les Liasions Dangereuses](https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO) | 7:18 |
 | 88 | [Fair Weather](https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 6:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [Moonglow \- From ''Annie Hall''](https://open.spotify.com/track/672kfm9lVBKz3UFk3ODzFo) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Songs from Woody Allen' Films](https://open.spotify.com/album/5slK3tmbISN1eOcigqpLtZ) | 3:27 |
 | 100 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
 
-Snapshot ID: `AAAAAJ6Z9Ptf0GV0cH0IaVBYyeLG0htr`
+Snapshot ID: `AAAAAIEUnBZtnhFZ0FyBGTlkQbZkXF/s`

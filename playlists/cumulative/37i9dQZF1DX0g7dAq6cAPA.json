@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/3wHbN0ndkziKqj3epXmvEJ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329311,
+      "name": "\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2XxE57jv7wFNmJ9FuaDKaT"
+    },
+    {
+      "album": {
         "name": "\u65ec\u30ce\u75de\u3001\u5922\u30ce\u75e3",
         "url": "https://open.spotify.com/album/0RUKC5eVQUJmbX8tvf4vZp"
       },

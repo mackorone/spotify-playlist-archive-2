@@ -4179,6 +4179,40 @@
     },
     {
       "album": {
+        "name": "Ti Thelo Na Gino Otan Megaloso?",
+        "url": "https://open.spotify.com/album/6pTRhiIWARm2p7eE9559Aq"
+      },
+      "artists": [
+        {
+          "name": "Magda Varoucha",
+          "url": "https://open.spotify.com/artist/5Mw4GzF9beZH7rq1If4CxC"
+        },
+        {
+          "name": "Aeon",
+          "url": "https://open.spotify.com/artist/5zWF4nQXb3UtlFtG7bHwRu"
+        },
+        {
+          "name": "James Basdanis",
+          "url": "https://open.spotify.com/artist/0TNuKoRcvIDzhpQznN5lZR"
+        },
+        {
+          "name": "Tiny Jackal",
+          "url": "https://open.spotify.com/artist/1VTsa5QAJvlbP6dFUd4gpM"
+        },
+        {
+          "name": "Thanasimos",
+          "url": "https://open.spotify.com/artist/4YoN5V5F6zpHFq5Z8unNk5"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178083,
+      "name": "Derbenterisa",
+      "url": "https://open.spotify.com/track/3Q5azGGp0IK5epMp2y0n2X"
+    },
+    {
+      "album": {
         "name": "Derbenterisa",
         "url": "https://open.spotify.com/album/1Nic9Cvp6yhsKxFAa5cms5"
       },
@@ -6224,6 +6258,32 @@
       "duration_ms": 267480,
       "name": "Epitelous",
       "url": "https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2"
+    },
+    {
+      "album": {
+        "name": "Epitelous Megalosa",
+        "url": "https://open.spotify.com/album/2tkqwgfZTwpjIGfwRpDMBV"
+      },
+      "artists": [
+        {
+          "name": "Despina Olympiou",
+          "url": "https://open.spotify.com/artist/30hCtgi8aveay3j5jdN5bI"
+        },
+        {
+          "name": "Doxa Kagiouli",
+          "url": "https://open.spotify.com/artist/7fOrXRh4n8p9dEXKdLpALq"
+        },
+        {
+          "name": "Evie Eracleous",
+          "url": "https://open.spotify.com/artist/6GfMsGWj4pD2EzSBxGay9v"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217040,
+      "name": "Epitelous Megalosa",
+      "url": "https://open.spotify.com/track/1sxdrqXCbuPfU1FpebtgmT"
     },
     {
       "album": {
@@ -9762,6 +9822,24 @@
       "duration_ms": 200970,
       "name": "Kamia Epafi",
       "url": "https://open.spotify.com/track/2C3cn5Yy1Cyg9VH7EWrvcj"
+    },
+    {
+      "album": {
+        "name": "KANE",
+        "url": "https://open.spotify.com/album/7y6BqT4yU92ltoTH7XvXvI"
+      },
+      "artists": [
+        {
+          "name": "xristina",
+          "url": "https://open.spotify.com/artist/2XlMHgDX7yY9JCxzYAwDBy"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "KANE",
+      "url": "https://open.spotify.com/track/2PANLwx17QYSbdxyY4Ysy2"
     },
     {
       "album": {
@@ -21978,7 +22056,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 138181,
       "name": "TILEFONO",
       "url": "https://open.spotify.com/track/2r1yUTsBABJ4oSmGcO9nqf"
@@ -24794,7 +24872,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 182837,
       "name": "\u03a4\u03bf \u03a6\u03bb\u03c5\u03c4\u03b6\u03ac\u03bd\u03b9",
       "url": "https://open.spotify.com/track/38j2jGqqRXCRFWVX3IJQPF"

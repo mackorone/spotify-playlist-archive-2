@@ -1,12 +1,12 @@
 {
   "description": "Chilled out dance classics to set the mood.",
-  "num_followers": 74530,
+  "num_followers": 74541,
   "original_name": "Chill Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqMm0384l1/I5iGRxrXOHdpqkiK",
+  "snapshot_id": "AAAAAJ2ZrGYib8Mdmvdr4pDUHA4ra64m",
   "tracks": [
     {
       "added_at": "2024-12-17 13:01:13",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+    },
+    {
+      "added_at": "2024-12-17 13:01:13",
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2024-12-17 13:01:13",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+        "name": "Machine Dreams",
+        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
+      "duration_ms": 293786,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
     },
     {
       "added_at": "2024-12-17 13:01:13",
@@ -807,22 +823,6 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
-    },
-    {
-      "added_at": "2024-12-17 13:01:13",
-      "album": {
-        "name": "Machine Dreams",
-        "url": "https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 293786,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb"
     },
     {
       "added_at": "2024-12-17 13:01:13",

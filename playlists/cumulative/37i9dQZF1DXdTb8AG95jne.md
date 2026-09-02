@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: g0nny \(거니\)\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,394 songs - 3 day 12 hr 25 min
+1,395 songs - 3 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [Not Reaching Words 사잇말](https://open.spotify.com/track/1848CKG45LsRmk9JwziyIm) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Not Reaching Words 사잇말](https://open.spotify.com/album/768aQ9gVMGpnlamNYPN3L4) | 4:04 | 2022-04-12 | 2022-04-19 |
 | [Not That Girl](https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Not That Girl](https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50) | 3:38 | 2025-02-12 | 2025-04-11 |
 | [Not to fade](https://open.spotify.com/track/6mTTquypTU75v59JzzLF7N) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [A Place of Use](https://open.spotify.com/album/22c6Z507yCVXzH44KRva3E) | 4:14 | 2026-02-02 | 2026-05-12 |
+| [Nothing](https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR) | [Shane](https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v) | [Nothing](https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST) | 2:43 | 2026-09-01 |  |
 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 | 2025-03-14 | 2025-04-11 |
 | [O\`Chunnki](https://open.spotify.com/track/4zvIT9fIJxLXZc5RDMuYZR) | [Mono\. J](https://open.spotify.com/artist/2sCSfdtkRpjNWt2O2GabKA) | [Ready For Run](https://open.spotify.com/album/62te8mLl9wITyzuyOAalut) | 3:55 | 2022-03-31 | 2022-04-09 |
 | [Oasis](https://open.spotify.com/track/1AnnFOJdf5zFPup7VoXRbn) | [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [The Human Condition](https://open.spotify.com/album/3HBvQMuv6pS21E2Tz6R6by) | 3:59 | 2026-04-01 | 2026-04-10 |
@@ -1222,7 +1223,7 @@
 | [Unconditional love](https://open.spotify.com/track/0KXSnbjfcF3MLOK1RNWNgJ) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [Unconditional love](https://open.spotify.com/album/6v2Sga9KGrbiYUwbbkVE1n) | 3:50 | 2025-05-14 | 2025-05-23 |
 | [undefined](https://open.spotify.com/track/6kkBsWMqkyqe3RtSYUuUGl) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [undefined](https://open.spotify.com/album/4b8VZ8cCzAXecskgIwyTE4) | 3:42 | 2026-03-24 | 2026-05-20 |
 | [Undelivered](https://open.spotify.com/track/6CKUQCPdVYwmqRf0ffGwGg) | [nib](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [Undelivered](https://open.spotify.com/album/6SRWV3F4mdqKNu5czq34XT) | 2:24 | 2026-03-23 | 2026-05-08 |
-| [Under The Blue Moon](https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Under The Blue Moon](https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ) | 3:46 | 2026-04-23 |  |
+| [Under The Blue Moon](https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Under The Blue Moon](https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ) | 3:46 | 2026-04-23 | 2026-09-02 |
 | [Under the night we were facing our breakup](https://open.spotify.com/track/0H1aG96BRR4VfDayFuEZ4C) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:46 | 2022-06-13 | 2022-06-19 |
 | [Under the Sea](https://open.spotify.com/track/67fKXyqK3xnvMYlw4FQymk) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Under the Sea](https://open.spotify.com/album/4InYjC8pfuvMnE0Qih3Fs6) | 4:53 | 2023-03-06 | 2023-03-28 |
 | [Underwater](https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9) | [coldnight](https://open.spotify.com/artist/0lkK1zrc663DxBxvR13yEj) | [Underwater](https://open.spotify.com/album/3JEfQIglXMJz3D5imP88m0) | 3:26 | 2023-01-10 | 2023-01-26 |

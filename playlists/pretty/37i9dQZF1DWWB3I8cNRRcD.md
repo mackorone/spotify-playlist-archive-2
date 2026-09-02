@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3I8cNRRcD.md) - [plain]
 
 > enjoy the setlist of BTS WORLD TOUR \[ARIRANG\] \(BTS WORLD TOUR \[ARIRANG\]의 셋리스트를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,545 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,885 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3I8cNRRcD.md) - [plain]
 | 19 | [Please](https://open.spotify.com/track/1XpVhaI4HzWrhRWIpdfyJB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:52 |
 | 20 | [Into the Sun](https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:47 |
 
-Snapshot ID: `AAAAAKZ2YdmswvhxBcUqdvgG6lNCnV+S`
+Snapshot ID: `AAAAADwC0nDz4xZb4q9yNPQcTKoEoZl3`

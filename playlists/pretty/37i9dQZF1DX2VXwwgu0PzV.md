@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,387 likes - 130 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,390 likes - 130 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 61 | [Only You](https://open.spotify.com/track/5bKRpBxsrcsJYZ2K9o4nSa) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Lapel J Datpastorboi](https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6) | [Only You](https://open.spotify.com/album/5fs2RETOQhsDuBUUalf4ZY) | 2:41 |
 | 62 | [NEVER](https://open.spotify.com/track/51NtndNrs8iGiYCiFiDjUP) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK) | [NEVER](https://open.spotify.com/album/5hCf02rm3CLa0dY42Falzz) | 3:00 |
 | 63 | [Victory II](https://open.spotify.com/track/0wHtW8xL9e8ZcmYHZF2Z56) | [Trulyf](https://open.spotify.com/artist/5ZUa3dmEgvwGwb8h8bA3hl), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Victory II](https://open.spotify.com/album/1jNXrlwsFkS9n1nr4JU65u) | 2:45 |
-| 64 | [God Never Fail](https://open.spotify.com/track/68m2S0C12izLaPTs94JOZ7) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Temple](https://open.spotify.com/artist/53G1NuuwDiT9VltQ2kae0E) | [God Never Fail](https://open.spotify.com/album/0aOud1Zlzf6Rl7YVADBSrV) | 4:30 |
+| 64 | [God Never Fail](https://open.spotify.com/track/68m2S0C12izLaPTs94JOZ7) | [Great Godwin](https://open.spotify.com/artist/32aRAuhgYPnJhfCOrw0ZCZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [God Never Fail](https://open.spotify.com/album/0aOud1Zlzf6Rl7YVADBSrV) | 4:30 |
 | 65 | [Self](https://open.spotify.com/track/4eqDfX5jMdki9ZHWK1GiVk) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Self](https://open.spotify.com/album/4aFskmoIwJi2rmMOIkFgaK) | 2:52 |
 | 66 | [Forgive Them](https://open.spotify.com/track/7AKGAXjgLwJqjlDiRgPRzm) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Forgive Them](https://open.spotify.com/album/52NdNfeH0aHfuijcc1IEi4) | 2:26 |
 | 67 | [Can't Complain](https://open.spotify.com/track/1chiJJA7erNtjXXmBf5niT) | [BUKTheArtist](https://open.spotify.com/artist/2TlfA8Gn3mvNpwd6K0s9yu), [Damola Davis](https://open.spotify.com/artist/14nWb44eQATdBHGsxOTQ2m), [TeeFamous](https://open.spotify.com/artist/5t6vdzlbZf28kIKuz7ts9e) | [Can't Complain](https://open.spotify.com/album/1il0wxGn1i1PpsZwu0BnF5) | 4:18 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 129 | [Oyel](https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Oyel](https://open.spotify.com/album/46iEosVS7TwsIywW7JWS8E) | 3:00 |
 | 130 | [Your will](https://open.spotify.com/track/0WyM9i8aRgbvWuPy6qQKdo) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Your will](https://open.spotify.com/album/0v9QbMy40LCLV418NrkXtQ) | 2:19 |
 
-Snapshot ID: `AAAAAE8YJPlQUhrUSSvCDG9Gj6kNlrBB`
+Snapshot ID: `AAAAAFz6UI3tYR4Nly54OL0d2Hr2FEy9`

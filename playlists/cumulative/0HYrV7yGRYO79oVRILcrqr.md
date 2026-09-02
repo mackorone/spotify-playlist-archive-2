@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-707 songs - 1 day 20 hr 1 min
+708 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
 | [Just Me and This Trans Am](https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:35 | 2026-04-26 | 2026-05-26 |
+| [Just My Style](https://open.spotify.com/track/0usJsw64exL53A5maMb5V2) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Just My Style](https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp) | 3:08 | 2026-09-01 |  |
 | [Kalamas](https://open.spotify.com/track/0G74mEK1JrsmXCElWi2Juv) | [Callider](https://open.spotify.com/artist/6f0DQd5eFmaMlG93D0IWrE) | [Kalamas](https://open.spotify.com/album/0KC4ARwnP7p9odNqWyuvlK) | 4:36 | 2026-08-02 |  |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-31 | 2025-12-17 |
 | [Keeping Pace](https://open.spotify.com/track/35YrQi7mkqLcsbkOpGS6gn) | [Randy Ellefson](https://open.spotify.com/artist/6x4QyTflA6R6xOvtXHsyNI) | [Now Weaponized!](https://open.spotify.com/album/3S79mUMMfO1orW6ubEsTY0) | 5:41 | 2026-05-26 | 2026-06-18 |

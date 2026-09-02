@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 > The biggest hits from the 2000s and 2010s! Cover: The Black Eyed Peas
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 19,221 likes - 80 songs - 4 hr 59 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 19,219 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

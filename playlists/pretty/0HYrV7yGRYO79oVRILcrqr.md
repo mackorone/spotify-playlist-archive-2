@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 94 songs - 6 hr 11 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 95 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 92 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 |
 | 93 | [Midnight Patrol](https://open.spotify.com/track/7ifVeohjksbPzebDHd6lZs) | [Sage Ironheart](https://open.spotify.com/artist/6i2Btj5JPkCHG2JfXjjsae) | [Midnight Patrol](https://open.spotify.com/album/5CmPSQVLr5AROqpNzLu6cJ) | 5:04 |
 | 94 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
+| 95 | [Just My Style](https://open.spotify.com/track/0usJsw64exL53A5maMb5V2) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Just My Style](https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp) | 3:08 |
 
-Snapshot ID: `AAAMWZ78QytNu1LzJsQkBonhSSSVMCOR`
+Snapshot ID: `AAAMWhmtzXlJA0Ednk9SYe1pvskpb3Yj`

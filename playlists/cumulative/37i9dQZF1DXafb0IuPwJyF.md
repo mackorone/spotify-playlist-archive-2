@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: スピッツ
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  <br/>EBiDAN \(恵比寿学園男子部\)
 
-1,849 songs - 4 day 18 hr 20 min
+1,850 songs - 4 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [Yae](https://open.spotify.com/track/6GcVf0wzXw0F1WQx5xXHbb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [HANAYODO \-flower and dust\-](https://open.spotify.com/album/2L8zOjcxhs8D7w04N9XIDe) | 4:21 | 2023-04-09 | 2023-04-24 |
 | [Yasashisa Ni Afureta Sekaide](https://open.spotify.com/track/3PGlB1DpDki7Bb5sIG6Nd9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Sunny Bottle](https://open.spotify.com/album/1lgYCVITev3MpgbsAkP2Or) | 4:18 | 2022-07-25 | 2022-08-29 |
 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 | 2024-02-11 | 2024-03-13 |
+| [Yes! 東京](https://open.spotify.com/track/7L1UsUbSqowTKwrgT0v8AS) | [EBiDAN \(恵比寿学園男子部\)](https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm), [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU), [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ), [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6), [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W), [Sakurashimeji](https://open.spotify.com/artist/4GEJn9D9CbxI4UV8zQHxCY), [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB), [BUDDiiS](https://open.spotify.com/artist/68hd7ONzgN98uAZDWMlmAQ), [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP), [Lienel](https://open.spotify.com/artist/2OqRcm0u2f7DpFoQZQiIoj) | [Yes! 東京](https://open.spotify.com/album/6VkfaTRYTWIpJQbNFVoz9n) | 3:40 | 2026-09-01 |  |
 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 | 2023-06-18 | 2023-07-10 |
 | [YONA YONA DANCE \- フレデリズム Ver.](https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [YONA YONA DANCE \(フレデリズム Ver.\)](https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj) | 3:49 | 2022-01-23 | 2022-02-14 |
 | [YOSOMI](https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [YOSOMI](https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8) | 3:35 | 2022-10-23 | 2022-11-01 |
@@ -1765,7 +1766,7 @@
 | [花](https://open.spotify.com/track/44OxrvlXzAao1iIASR8I5j) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [花](https://open.spotify.com/album/3sho9cirh8faBkktavxD18) | 4:52 | 2022-11-27 | 2022-12-05 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-05 | 2024-01-29 |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-04 | 2023-08-28 |
-| [花咲く道](https://open.spotify.com/track/7hsXgNruHoMTXrapRR1oNP) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [花咲く道](https://open.spotify.com/album/7aKEem9xZIhIzHhMeR77Op) | 3:08 | 2026-07-14 |  |
+| [花咲く道](https://open.spotify.com/track/7hsXgNruHoMTXrapRR1oNP) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [花咲く道](https://open.spotify.com/album/7aKEem9xZIhIzHhMeR77Op) | 3:08 | 2026-07-14 | 2026-09-02 |
 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-09 | 2023-05-01 |
 | [花束](https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:46 | 2026-05-26 | 2026-07-22 |
 | [花瓶](https://open.spotify.com/track/3S5obhtZyw30dJ2lfCualn) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:27 | 2022-06-05 | 2022-07-29 |

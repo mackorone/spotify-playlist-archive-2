@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 
 > The official soundtrack and score of Euphoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,870 likes - 322 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,868 likes - 322 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,4 +331,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVMeW0SUm35.md) - [plain]
 | 321 | [Run Cried the Crawling](https://open.spotify.com/track/4w8i7d8Qw3Z0jkBhVS3F2I) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 4:24 |
 | 322 | [Snow Flake](https://open.spotify.com/track/0DLK58LYnZzbbanpuqhY3O) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Distant Drums](https://open.spotify.com/album/3ledIn54AFqn7qORaYBMWF) | 2:09 |
 
-Snapshot ID: `AAAAAHD2huqDZQucVCwx7Or0KF1awQAL`
+Snapshot ID: `AAAAAFDQV9c6gHfjSVkwkfj8CLnrzE3t`

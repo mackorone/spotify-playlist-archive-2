@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: Mustafa Zahid
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,871 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,874 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 69 | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/track/6Z4CqbQZOgrQHGHHlgGkEa) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP), [Damsaaz](https://open.spotify.com/artist/3LRZBrgGGCFYMwjDvuYd1i), [Shahid Hussain](https://open.spotify.com/artist/1wadN23m2ThzgO3bGdRFCL) | [Lost In Love \(feat\. Shahid Hussain\)](https://open.spotify.com/album/1849WiGK8CzEIBS6Y4wOCY) | 8:19 |
 | 70 | [Tu Hai Wohi](https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Tu Hai Wohi](https://open.spotify.com/album/5AAyhb4xNYCV97FTVtV0Xl) | 2:29 |
 
-Snapshot ID: `AAAAAL/g0+pKOAwl5YbNgCV/ik8VSmaP`
+Snapshot ID: `AAAAAH9s4M8U/h6j3Fetaz1TsrkucLC9`

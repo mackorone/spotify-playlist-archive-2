@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-640 songs - 1 day 14 hr 3 min
+641 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [L'astronaute](https://open.spotify.com/track/1Tb15nJ6x06nh6S2p6n1k1) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/3yLlXDAx1AuwUjL9GnL1ad) | 5:06 | 2021-01-03\* | 2022-01-29 |
 | [L'eau vive](https://open.spotify.com/track/5LIEYSV0w4kg0VYQFJCuCf) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/4lhSuncMrM8ojDRyvrITsL) | 4:01 | 2021-01-03\* | 2022-07-29 |
 | [L'eau vive](https://open.spotify.com/track/5TIBLZ1wnbx0msA94PLSrb) | [Coco Méliès](https://open.spotify.com/artist/6zjvUH1H89kLUdrSWCUEPX) | [L'eau vive](https://open.spotify.com/album/5j81vIkGAdMDg52RLtf5P0) | 4:01 | 2023-12-15 | 2024-04-19 |
-| [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 | 2026-06-26 |  |
+| [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 | 2026-06-26 | 2026-09-02 |
 | [L'hiver en espoir](https://open.spotify.com/track/5QTWxF0vCzFuggJACa0TzH) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP1](https://open.spotify.com/album/5yJDbcgy6p2sBqhTAsVpGK) | 2:49 | 2021-01-03\* | 2021-01-23 |
 | [L'impasse](https://open.spotify.com/track/1zXz9HAxMVvqnVRED2PQXy) | [Moran](https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm) | [L'impasse](https://open.spotify.com/album/2pQ4KWozkrWLmCXFeJJWJf) | 4:02 | 2022-04-15 | 2023-10-06 |
 | [L'oeil de la tempête](https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [L'oeil de la tempête](https://open.spotify.com/album/1G3KTeszRhkqwK5oK4QVZ8) | 3:34 | 2022-05-20 | 2022-07-19 |
@@ -625,6 +625,7 @@
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 | 2026-06-13 |
 | [Wicked Game](https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH), [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Wicked Game](https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t) | 3:58 | 2026-06-12 | 2026-08-10 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
+| [Win of the Century](https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh) | [Aidan Rex](https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9) | [Win of the Century](https://open.spotify.com/album/791e4R93yIduaysv9IRthG) | 2:52 | 2026-08-28 |  |
 | [Wish You Well](https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ) | [Cath Darbouze](https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV) | [Wish You Well](https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID) | 3:27 | 2025-11-07 | 2026-05-05 |
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2021-10-03 | 2025-03-20 |

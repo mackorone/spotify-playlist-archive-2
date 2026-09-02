@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Rito Riba, Hansika Pareek, Shekhar Ravjiani, Swanand Kirkire and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,068 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,091 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 18 | [Chinaron Se](https://open.spotify.com/track/61Ech8oWWxwB1acs2Z9hD0) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Chinaron Se](https://open.spotify.com/album/4WvbcJLTRdYDa8heb0RzkA) | 3:30 |
 | 19 | [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 |
 | 20 | [Iss Baarish Mein](https://open.spotify.com/track/45SRRK89L134g875lh5cn4) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Faisal Miya Photuwale](https://open.spotify.com/artist/3Fqd8tulb5mkZm3qXJD4th) | [Iss Baarish Mein](https://open.spotify.com/album/77XwGMgmzDHPN8UK3QEQxZ) | 3:19 |
-| 21 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 |
+| 21 | [Cold Showers](https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w), [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Cold Showers](https://open.spotify.com/album/2vcu1JmTKHFZKL1CoHzaSH) | 4:17 |
 | 22 | [Jo Koi Pooche](https://open.spotify.com/track/3wzl1dUmYWoOrgqgElh2oF) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Jo Koi Pooche](https://open.spotify.com/album/7ByNYtE7AGDQi3d1zOCVtU) | 2:50 |
 | 23 | [Tere Sang Rehna](https://open.spotify.com/track/560vnIacH4ZnxLwa00DvTi) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Harsh Aviral](https://open.spotify.com/artist/6CubMMfX7jm8MABuC9YKo1), [Saviimusic](https://open.spotify.com/artist/1ksypzEHG5BZh9DUGs1MLr) | [Tere Sang Rehna](https://open.spotify.com/album/0Oxdv58bdaOBD5xkHiu0Hi) | 3:13 |
 | 24 | [Aadat](https://open.spotify.com/track/2qnZVR8W9RiWIk43Gc609b) | [Soumya Kumaar](https://open.spotify.com/artist/1D1n7hRcCDqWBjlO10E7ZU), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Aadat](https://open.spotify.com/album/3cxtYL0BPYAWFo03RmGgsI) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Tu Mileya](https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Tu Mileya](https://open.spotify.com/album/2qG7b9E3cDSSncXO5nfjWC) | 3:09 |
 | 49 | [Meri Saansein](https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Meri Saansein](https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW) | 2:39 |
 
-Snapshot ID: `AAAAACFppUNLoukHfFEPX6mvzEqXMWUn`
+Snapshot ID: `AAAAADPzZr5y/vUVPG22VG4CP0Di0qkN`

@@ -1,12 +1,12 @@
 {
   "description": "Latest music from Rito Riba, Hansika Pareek, Shekhar Ravjiani, Swanand Kirkire and more.",
-  "num_followers": 100068,
+  "num_followers": 100091,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACFppUNLoukHfFEPX6mvzEqXMWUn",
+  "snapshot_id": "AAAAADPzZr5y/vUVPG22VG4CP0Di0qkN",
   "tracks": [
     {
       "added_at": "2026-08-28 05:26:34",
@@ -466,6 +466,10 @@
         {
           "name": "Sunny M.R.",
           "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Ruaa Kayy",
+          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
         }
       ],
       "duration_ms": 257454,

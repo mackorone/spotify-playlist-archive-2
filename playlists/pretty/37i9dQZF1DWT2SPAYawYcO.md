@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Alex Warren, Olivia Rodrigo, The Kid LAROI, Dominic Fike, JENNIE + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,331 likes - 99 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,306 likes - 99 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [Faithless](https://open.spotify.com/track/0nzPqWQ3PB4RppGzGHCofI) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [Faithless](https://open.spotify.com/album/3nsTNp9SXPIaLZRhPyIH4U) | 3:36 |
 | 99 | [Midnight](https://open.spotify.com/track/0qoxLuj7o4rXxRE1sBh9Nc) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Midnight](https://open.spotify.com/album/4VlEieXh642gBzNfGCKICs) | 2:32 |
 
-Snapshot ID: `AAAAAIH17D65yr68ObQyEeu7vSeK24Yd`
+Snapshot ID: `AAAAAOMpDyWKmzCBI+SUblm1fecROj0Y`

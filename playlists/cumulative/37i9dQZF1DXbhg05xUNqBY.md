@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-459 songs - 1 day 6 hr 27 min
+460 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [In Returning and Rest](https://open.spotify.com/track/2Xn3rQuKYB24vE05FmVrBT) | [Doyina](https://open.spotify.com/artist/73qNTHegO6mcJzMrkaZN91) | [In Returning and Rest](https://open.spotify.com/album/749ia6qL8OJmKlQ2YgP7pl) | 2:56 | 2026-03-23 |  |
 | [Is He Worthy?](https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Is He Worthy?](https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw) | 4:42 | 2024-06-23 | 2025-04-05 |
 | [it all belongs to You](https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude](https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP) | 5:22 | 2025-08-08 |  |
-| [It Is Done](https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [It Is Done](https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q) | 2:37 | 2025-04-05 |  |
+| [It Is Done](https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [It Is Done](https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q) | 2:37 | 2025-04-05 | 2026-09-02 |
 | [It Is I](https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy) | [Pathway](https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY), [Larine Torikian](https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW), [KEO](https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2) | [renatus](https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5) | 4:49 | 2024-07-26 | 2025-04-05 |
 | [it is mine](https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD) | [Morgan J](https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1) | [it is mine](https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6) | 3:32 | 2026-07-29 |  |
 | [It Is Well](https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo) | [Sky Hymnal](https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba) | [It Is Well](https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu) | 3:00 | 2024-07-26 | 2026-04-18 |
@@ -345,6 +345,7 @@
 | [Seen What I Have Seen](https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Where You Found Me](https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7) | 5:20 | 2025-12-13 |  |
 | [SELAH](https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SELAH](https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI) | 3:22 | 2025-08-08 | 2026-03-24 |
 | [Serenity](https://open.spotify.com/track/6YYMiOqiUpaP2oPL18Qx15) | [Steph Macleod](https://open.spotify.com/artist/3pdrv2oYJFmI3DC2lqaaYq) | [Serenity](https://open.spotify.com/album/5cpmTiPoponu0DZlfqP5wH) | 3:37 | 2025-12-13 | 2026-03-24 |
+| [Shalom](https://open.spotify.com/track/5uHlpFrLkq5PxgmF6h1Pqw) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [The Secret Place, Vol\. 3](https://open.spotify.com/album/6jjv5ZyAoSpnpA6pwHovs2) | 5:57 | 2026-07-29 |  |
 | [Shalom](https://open.spotify.com/track/2ZXWSdd7SufihL5Jf5BYFy) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Shalom](https://open.spotify.com/album/1rTB3LVsO0KH1BAdLPiv7M) | 3:59 | 2023-02-07 | 2025-04-07 |
 | [Shameless](https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [This Bed I Made](https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA) | 3:44 | 2026-07-29 |  |
 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 | 2021-10-31 | 2024-07-27 |

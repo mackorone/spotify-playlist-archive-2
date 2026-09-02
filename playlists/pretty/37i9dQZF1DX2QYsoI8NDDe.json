@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJCFlZ0WZyaVzTFtHhuD/lEYzFPg",
+  "snapshot_id": "AAAAAHWmStB3+L0Fu+WTW+EhAu2HdhPw",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:37",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
+        "name": "Sombrero en Alto",
+        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
+      },
+      "artists": [
+        {
+          "name": "Ximena ramos",
+          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
+        }
+      ],
+      "duration_ms": 161204,
+      "name": "Sombrero en Alto",
+      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/2eBOyNtC1dh7Ur4cHHzNn3"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 185121,
       "name": "No Llega El Olvido - Banda",
       "url": "https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
-        "name": "Sombrero en Alto",
-        "url": "https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb"
-      },
-      "artists": [
-        {
-          "name": "Ximena ramos",
-          "url": "https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD"
-        }
-      ],
-      "duration_ms": 161204,
-      "name": "Sombrero en Alto",
-      "url": "https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "El Que Se Lleva Se Aguanta",
-        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
-      },
-      "artists": [
-        {
-          "name": "Silvia Mendivil",
-          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "El Que Se Lleva Se Aguanta",
-      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "El Que Se Lleva Se Aguanta",
+        "url": "https://open.spotify.com/album/43FKCTGvshv4pvkaeKHVfM"
+      },
+      "artists": [
+        {
+          "name": "Silvia Mendivil",
+          "url": "https://open.spotify.com/artist/7b2vY5BkWXM9DxDLPR6jLq"
+        }
+      ],
+      "duration_ms": 175841,
+      "name": "El Que Se Lleva Se Aguanta",
+      "url": "https://open.spotify.com/track/4sexQX2h9B05nF916DuN3k"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "T\u00fa Ser\u00e1s Mi Baby",
-        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
-      },
-      "artists": [
-        {
-          "name": "Susana Zabaleta",
-          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
-        }
-      ],
-      "duration_ms": 172944,
-      "name": "T\u00fa Ser\u00e1s Mi Baby",
-      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Eterna e Inolvidable",
         "url": "https://open.spotify.com/album/3Mq3GqLLtZbkP6L6u4icY6"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 222730,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/1AxXCwNLvlPVrLIJ7RagFz"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "T\u00fa Ser\u00e1s Mi Baby",
+        "url": "https://open.spotify.com/album/5Bi4HNvi7RkD35jLJqqObs"
+      },
+      "artists": [
+        {
+          "name": "Susana Zabaleta",
+          "url": "https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q"
+        }
+      ],
+      "duration_ms": 172944,
+      "name": "T\u00fa Ser\u00e1s Mi Baby",
+      "url": "https://open.spotify.com/track/5AyIzkvWCgH7IY8qCoJbYo"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Cap\u00edtulo 8 (La Historia Completa)",
-        "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ni Al 50",
-      "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
         "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254227,
       "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
       "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Cap\u00edtulo 8 (La Historia Completa)",
+        "url": "https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ni Al 50",
+      "url": "https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "De Beso En Cuando",
-        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
-      },
-      "artists": [
-        {
-          "name": "Vilax",
-          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
-        }
-      ],
-      "duration_ms": 156013,
-      "name": "De Beso En Cuando",
-      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3WdLKbUHPxNbHmJXe2BVeu"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213237,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2xyOmSHmjWQN1JrIIcZdpz"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "De Beso En Cuando",
+        "url": "https://open.spotify.com/album/6TVICULyTlgdXqhY06Ecuq"
+      },
+      "artists": [
+        {
+          "name": "Vilax",
+          "url": "https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr"
+        }
+      ],
+      "duration_ms": 156013,
+      "name": "De Beso En Cuando",
+      "url": "https://open.spotify.com/track/2Djiqy1ptXFvlKizkaga2a"
     },
     {
       "added_at": "2026-08-21 04:02:37",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-08-21 04:02:37",
       "album": {
-        "name": "Ya Pa' Que",
-        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
-      },
-      "artists": [
-        {
-          "name": "Gabby Tamez",
-          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
-        }
-      ],
-      "duration_ms": 157317,
-      "name": "Ya Pa' Que",
-      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
-    },
-    {
-      "added_at": "2026-08-21 04:02:37",
-      "album": {
         "name": "Sufriendo a Solas (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 294002,
       "name": "Sufriendo a Solas",
       "url": "https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ"
+    },
+    {
+      "added_at": "2026-08-21 04:02:37",
+      "album": {
+        "name": "Ya Pa' Que",
+        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
+      },
+      "artists": [
+        {
+          "name": "Gabby Tamez",
+          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
+        }
+      ],
+      "duration_ms": 157317,
+      "name": "Ya Pa' Que",
+      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
     },
     {
       "added_at": "2026-08-21 04:02:37",

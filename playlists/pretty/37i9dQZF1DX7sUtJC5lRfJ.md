@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,253 likes - 33 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,264 likes - 33 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 32 | [let me go](https://open.spotify.com/track/2cWeuIH1VFqhBdm88oFtCm) | [KIMLONG](https://open.spotify.com/artist/26GpU9jkhwkZCyWBw6Prbf) | [bittersweet](https://open.spotify.com/album/0DcvcMfRccgIZI9bQSjOp5) | 2:56 |
 | 33 | [Dù Cho Mai Về Sau \- Chọn Gì? Chọn ĐI! Version](https://open.spotify.com/track/5xlhJGf3H8ID3cxHYpPq6C) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau \(Chọn Gì? Chọn ĐI! Version\)](https://open.spotify.com/album/2C7brYSwWEvGyXuwwUM4IM) | 3:40 |
 
-Snapshot ID: `AAAAAAXivnu+djKQ9t7k9UEeapY8fjQS`
+Snapshot ID: `AAAAAK83dfojjVIB35Y0DX5vXoJh9LkN`

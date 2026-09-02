@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Casper TNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,863 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,925 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Child's Play](https://open.spotify.com/track/3ofU3PYSZr5wD5ycRfjVE9) | [Tara Lord](https://open.spotify.com/artist/50q2a8AjaqlujP7y9MMdHJ) | [Child's Play](https://open.spotify.com/album/2Iz5d8CqyTVg0QiV7tLuQV) | 2:34 |
 | 100 | [YellowGreenBlue](https://open.spotify.com/track/37Pt6RacSdDNeR7CiEsiFX) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [YellowGreenBlue](https://open.spotify.com/album/7IRJ0Q7GCqoqGaURNKbqlP) | 1:43 |
 
-Snapshot ID: `AAAAADQekFfaHB4q3EufM359HxCaFmJ5`
+Snapshot ID: `AAAAAPKo5p6FeD61EzxaEZTx6r+pSvP0`

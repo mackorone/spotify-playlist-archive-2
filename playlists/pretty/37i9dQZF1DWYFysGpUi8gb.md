@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring ugly \(uk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,597 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,571 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Crashing 8](https://open.spotify.com/track/1upNRmdtZafyfKYToWzXCL) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [Crashing 8](https://open.spotify.com/album/5kx4DPZ6pwEeO2ahIjmwbv) | 1:51 |
 | 80 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 |
 
-Snapshot ID: `AAAAAMdy8ZX5xxsMtrjh6Rv7Z8BmJZv1`
+Snapshot ID: `AAAAAJ0GR5TYWj9rfpB57mr+dDeQRm5m`

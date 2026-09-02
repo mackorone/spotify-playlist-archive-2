@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,963 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,966 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 43 | [Broadway Baby](https://open.spotify.com/track/1HqTfnxh75Tz7LwHQfoPkk) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Jayne Houdyshell](https://open.spotify.com/artist/6zpBHseSGMVwMh35Gb0eub), [Mary Beth Peil](https://open.spotify.com/artist/2QQcdCmfjnTkoKVrEpERZT), [Susan Watson](https://open.spotify.com/artist/10tHiM5SzvOOdToUgE7wso), [Don Correia](https://open.spotify.com/artist/0WZNwCY7f0rL8b0mYSBRyd) | [Follies: New Broadway Cast Recording](https://open.spotify.com/album/7vx2IsGyWN0lim75r1pdau) | 3:23 |
 | 44 | [Show Off](https://open.spotify.com/track/2pMas1kINft5X1tz1dm9AR) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), ['The Drowsy Chaperone' Original Broadway Cast](https://open.spotify.com/artist/6WnYGqfmqjmRIIO6FZdmHo) | [The Drowsy Chaperone \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1xV9B2D7B2rW9HaGcYWlkH) | 4:41 |
 | 45 | [It All Fades Away](https://open.spotify.com/track/7LLhQMq2KPuFz61V18FKGH) | [Steven Pasquale](https://open.spotify.com/artist/6eN9Ls5x8Ey7GhuIkaBn8z) | [Bridges of Madison County \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3LaPdSklCPjDDz9etyDvIb) | 4:55 |
-| 46 | [Dead Girl Walking](https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:24 |
+| 46 | [Dead Girl Walking](https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG) | [Barrett Wilbert Weed](https://open.spotify.com/artist/417KN08R5x90PqWWZUGTsE), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 3:24 |
 | 47 | [Kiss Of The Spider Woman](https://open.spotify.com/track/3olvRkd8DUlDlzQeJXsWtR) | [Chita Rivera](https://open.spotify.com/artist/55DHRcQ9oxUu76VNuQz48P) | [Kiss of the Spider Woman \(Original Cast Recording\)](https://open.spotify.com/album/5siyxD2uVjKd2W0rFzt9k0) | 2:32 |
 | 48 | [My New Philosophy](https://open.spotify.com/track/3ZZcnhEbohNn1rXgcahmwK) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Stanley Wayne Mathis](https://open.spotify.com/artist/7IwQ8Cr68eQr3UxrLzcmlv), [Ilana Levine](https://open.spotify.com/artist/5TiaTkECtgVhFaTdVW7Kg9) | [You're a Good Man, Charlie Brown \(New Broadway Cast Recording \(1999\)\)](https://open.spotify.com/album/1LpzcTUzuRoDCCUEREcqkX) | 2:56 |
 | 49 | [River Deep \- Mountain High](https://open.spotify.com/track/2YfGw6FHk2pzQJ3mxNi9sI) | [Adrienne Warren](https://open.spotify.com/artist/6Fa9ZDsa97z3apsVwp4KMC), [Tina: The Tina Turner Musical Original London Company](https://open.spotify.com/artist/5WLqdm01xNiarxqIaoPTKt) | [Tina: The Tina Turner Musical \(Original Cast Recording\)](https://open.spotify.com/album/2RElyIqIsej16k08yLEBiX) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 74 | [What I Was Born To Do](https://open.spotify.com/track/76x2S7qF5cw6AuXbuNiehl) | [Bring It On: The Musical \- Original Broadway Cast](https://open.spotify.com/artist/5VbVlOyCYdM5ikZMoz3dRg) | [Bring It On: The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0lni1TITfl755CC5wYA0QO) | 4:53 |
 | 75 | [Annie: Tomorrow](https://open.spotify.com/track/1AXO42HiJSTgPq7KbJAEjp) | [Charles Strouse](https://open.spotify.com/artist/1HO6dUh3pea34OKnmsmjQx), [Andrea McArdle](https://open.spotify.com/artist/74AUP6Y3N7vo7s043wFa0m), [Annie \(Original Broadway Cast\)](https://open.spotify.com/artist/3RreZNGP8ixMXsm1iHabA3), [Peter Howard](https://open.spotify.com/artist/6kSSIddrp6LMEAUfbiacVv) | [Annie \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0T1lQv20NNCoFlZkVHN3SQ) | 2:07 |
 
-Snapshot ID: `AAAAANTpTrWsbZfVf6bqzMhf83a0rhoa`
+Snapshot ID: `AAAAAFlGdiK2BmLS9vfDIr0XDqUTZr/z`

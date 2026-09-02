@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOV6zBIanmCpNFQcwe7jnP2xeT04",
+  "snapshot_id": "AAAAABaF/rtxZPrEmRXGPZBIyn0XHpqG",
   "tracks": [
     {
       "added_at": "2025-03-14 06:00:04",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
-        "name": "Danzones y Boleros",
-        "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Reyna Tuxtleca",
-          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
-        }
-      ],
-      "duration_ms": 222906,
-      "name": "Como Han Pasado los A\u00f1os",
-      "url": "https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo"
-    },
-    {
-      "added_at": "2025-03-14 06:00:04",
-      "album": {
         "name": "Aires de Mexico/ Corridos de caballos",
         "url": "https://open.spotify.com/album/1TFh0vHVkHlryfgp1SPj31"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
+        "name": "Danzones y Boleros",
+        "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Reyna Tuxtleca",
+          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
+        }
+      ],
+      "duration_ms": 222906,
+      "name": "Como Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo"
+    },
+    {
+      "added_at": "2025-03-14 06:00:04",
+      "album": {
         "name": "Recordando a Hugo Reyes, Con Lo Mejor de Irma Ventura",
         "url": "https://open.spotify.com/album/3E5vkzHGNY42XLddOs1vlV"
       },
@@ -971,38 +971,6 @@
       "duration_ms": 175106,
       "name": "Zanatenco",
       "url": "https://open.spotify.com/track/1WcCFZP97CPHI1AErrom9w"
-    },
-    {
-      "added_at": "2025-03-14 06:00:04",
-      "album": {
-        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
-      },
-      "artists": [
-        {
-          "name": "Marimba Sonora Ideal",
-          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
-    },
-    {
-      "added_at": "2025-03-14 06:00:04",
-      "album": {
-        "name": "Exitos Con Marimba",
-        "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
-      },
-      "artists": [
-        {
-          "name": "Marimba Orquesta Reyna Tuxtleca",
-          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Yo No Fui",
-      "url": "https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s"
     },
     {
       "added_at": "2025-03-14 06:00:04",
@@ -1027,6 +995,22 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
+        "name": "A Nuestro Estilo. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/64rtxgs5otTtlQao2alrfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Sonora Ideal",
+          "url": "https://open.spotify.com/artist/3D7Sm0ChnKWC6XyA7VjCwX"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/5zfGySDgKJhu7HX1us2JV3"
+    },
+    {
+      "added_at": "2025-03-14 06:00:04",
+      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 222133,
       "name": "El Valle de la Esmeralda",
       "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
+    },
+    {
+      "added_at": "2025-03-14 06:00:04",
+      "album": {
+        "name": "Exitos Con Marimba",
+        "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Reyna Tuxtleca",
+          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Yo No Fui",
+      "url": "https://open.spotify.com/track/7G5YcICaR0V8DO1bih6X9s"
     },
     {
       "added_at": "2025-03-14 06:00:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
-        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "El Gato Pachucon",
-      "url": "https://open.spotify.com/track/57wZxoaookNejUwcczKvPF"
-    },
-    {
-      "added_at": "2025-03-14 06:00:04",
-      "album": {
         "name": "De Lo Selecto a Lo Cl\u00e1sico Vol. 2 - Zeferino Nandayapa y Su Marimba Cl\u00e1sica",
         "url": "https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212253,
       "name": "Marcha Alla Turca",
       "url": "https://open.spotify.com/track/5FtkyaM1DPkN8jbss587DM"
+    },
+    {
+      "added_at": "2025-03-14 06:00:04",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Exitos Bailables",
+        "url": "https://open.spotify.com/album/6dMRTitrzCM8wxOI058AfY"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "El Gato Pachucon",
+      "url": "https://open.spotify.com/track/57wZxoaookNejUwcczKvPF"
     },
     {
       "added_at": "2025-03-14 06:00:04",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
-        "name": "World Music Guatemala - Danzas Mayas (Mayan Dances)",
-        "url": "https://open.spotify.com/album/4fAkdvEpAB9h7WgBxySn5q"
-      },
-      "artists": [
-        {
-          "name": "Marimba Chuimekena",
-          "url": "https://open.spotify.com/artist/6gtQbH46Ktw3cTLrbrJyoN"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "El Son De Mama Tina",
-      "url": "https://open.spotify.com/track/2KXnwNrClX8TTM3oAyx7Ib"
-    },
-    {
-      "added_at": "2025-03-14 06:00:04",
-      "album": {
         "name": "De Lo Selecto a Lo Cl\u00e1sico Vol. 2 - Zeferino Nandayapa y Su Marimba Cl\u00e1sica",
         "url": "https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 257519,
       "name": "Concierto de Aranjuez",
       "url": "https://open.spotify.com/track/4v5wKjXi2j4HHOp9FAoDJN"
+    },
+    {
+      "added_at": "2025-03-14 06:00:04",
+      "album": {
+        "name": "World Music Guatemala - Danzas Mayas (Mayan Dances)",
+        "url": "https://open.spotify.com/album/4fAkdvEpAB9h7WgBxySn5q"
+      },
+      "artists": [
+        {
+          "name": "Marimba Chuimekena",
+          "url": "https://open.spotify.com/artist/6gtQbH46Ktw3cTLrbrJyoN"
+        }
+      ],
+      "duration_ms": 311077,
+      "name": "El Son De Mama Tina",
+      "url": "https://open.spotify.com/track/2KXnwNrClX8TTM3oAyx7Ib"
     },
     {
       "added_at": "2025-03-14 06:00:04",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
@@ -1490,15 +1490,11 @@
         {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 181465,
-      "name": "Ansia Marimba",
-      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
+      "duration_ms": 202532,
+      "name": "La Valentina",
+      "url": "https://open.spotify.com/track/2z9QAii7LHxC112enTEmSM"
     },
     {
       "added_at": "2025-03-14 06:00:04",
@@ -1567,8 +1563,8 @@
     {
       "added_at": "2025-03-14 06:00:04",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
       "artists": [
         {
@@ -1578,11 +1574,15 @@
         {
           "name": "Felipe Gutierrez",
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 202532,
-      "name": "La Valentina",
-      "url": "https://open.spotify.com/track/2z9QAii7LHxC112enTEmSM"
+      "duration_ms": 181465,
+      "name": "Ansia Marimba",
+      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
     },
     {
       "added_at": "2025-03-14 06:00:04",

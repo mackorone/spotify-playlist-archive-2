@@ -4,7 +4,7 @@
 
 > i just want a bit of your unlimited love
 
-2,763 songs - 5 day 6 hr 38 min
+2,764 songs - 5 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-06 | 2023-07-29 |
 | [@location](https://open.spotify.com/track/0LZfOTFwtgIdWr7n2ngOty) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [@location](https://open.spotify.com/album/5j0R8rL8HwF558PZbPHFkn) | 2:44 | 2024-04-26 | 2025-12-13 |
 | [\_2gether\_4ever](https://open.spotify.com/track/63RhlW6kxgnaoClxphMaIO) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [\_2gether\_4ever](https://open.spotify.com/album/3tqDJqYcxyGuhxvEtvGxgj) | 2:37 | 2023-04-07 | 2023-04-22 |
-| [A Fairy Bitch Like U](https://open.spotify.com/track/2vcvI9e2fOMGd9azh1mWiC) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm), [Swelle](https://open.spotify.com/artist/4eJLFac0KE64G6JB2hlzMs) | [A Fairy Bitch Like U](https://open.spotify.com/album/6O1hWedqd9NoP7V5aHFeBi) | 2:50 | 2026-07-03 |  |
+| [A Fairy Bitch Like U](https://open.spotify.com/track/2vcvI9e2fOMGd9azh1mWiC) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm), [Swelle](https://open.spotify.com/artist/4eJLFac0KE64G6JB2hlzMs) | [A Fairy Bitch Like U](https://open.spotify.com/album/6O1hWedqd9NoP7V5aHFeBi) | 2:50 | 2026-07-03 | 2026-09-02 |
 | [A Figure 8](https://open.spotify.com/track/4DU0IacckQaoeY2ps6P5R3) | [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [Icebreaker](https://open.spotify.com/album/73oc8wiXpfxsWu6HMSqWM7) | 2:28 | 2021-02-10 | 2021-12-20 |
 | [a friend](https://open.spotify.com/track/3TKRwSY9389uPAnGgUpx79) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [a friend](https://open.spotify.com/album/65mOWmm5Y0fiGs4YWcXG6G) | 3:15 | 2023-02-24 | 2023-05-06 |
 | [a lie](https://open.spotify.com/track/3iAudZdHSkeMrT1t6L1vIk) | [Skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [a lie](https://open.spotify.com/album/3Li5su802AiQprh70LJlaK) | 2:22 | 2022-03-04 | 2022-05-12 |
@@ -1303,6 +1303,7 @@
 | [INDUSTRii SHIT](https://open.spotify.com/track/2nU5IgEh1y5utd28pSG9o4) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [VVRED](https://open.spotify.com/album/06GbnqDeTUnB0i3pJk5Iwt) | 1:51 | 2021-09-24 | 2021-11-13 |
 | [indécise](https://open.spotify.com/track/6SEe7zJMS3bXfEBTXb0rnl) | [ovrwrld](https://open.spotify.com/artist/0kHhOtZNg1evDu1d9y9PNJ) | [indécise](https://open.spotify.com/album/6vwAF4sa2p1AKiGzy2wAgm) | 1:42 | 2021-08-07 | 2021-09-24 |
 | [inertia status](https://open.spotify.com/track/5MK1xCq3fBQIrU5vYj9X3s) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [suffering from melancholia](https://open.spotify.com/album/2Ut0TruYDAjtlkKaUuo8GQ) | 4:24 | 2021-10-29 | 2022-02-24 |
+| [Inside Your Light](https://open.spotify.com/track/4ragvZ6bncbPc34ZqgZFth) | [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [Inside Your Light](https://open.spotify.com/album/380ZZ2AeiyPiGdyYkNnH9t) | 3:39 | 2026-09-01 |  |
 | [insomnia](https://open.spotify.com/track/24Y6ZUvXsrLW9eIQUulaSn) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp) | [insomnia](https://open.spotify.com/album/0owheNQcz97Bxij45JGoja) | 1:33 | 2021-01-23 | 2021-11-13 |
 | [Instant Sobriety](https://open.spotify.com/track/75Kx1FtkVw9EWYTWV9stYG) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Instant Sobriety](https://open.spotify.com/album/5ZbTu1z6JDR8eyqDYkgCmR) | 2:27 | 2021-10-29 | 2022-01-29 |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-05-27 | 2022-07-25 |

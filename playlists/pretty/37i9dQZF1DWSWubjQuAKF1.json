@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3K+2DbZwOw4P06D3QM0tPL2YFM",
+  "snapshot_id": "AAAAAOUvjtB+gtKkyE4T1Gs8333EVJvj",
   "tracks": [
     {
       "added_at": "2026-08-13 22:01:33",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "TRYSK",
-        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 177454,
-      "name": "noktowizja",
-      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "t\u0142uk\u0119 si\u0119 o asfalt",
         "url": "https://open.spotify.com/album/7pmBjZp0VrLY95tqdHdZxQ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 178387,
       "name": "t\u0142uk\u0119 si\u0119 o asfalt",
       "url": "https://open.spotify.com/track/5FO3zFjF0Cp8QhQF7Bu91i"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "TRYSK",
+        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "noktowizja",
+      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
     },
     {
       "added_at": "2026-08-13 22:01:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-08-13 22:01:33",
       "album": {
-        "name": "Dreszcze",
-        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 159567,
-      "name": "Dreszcze",
-      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
-    },
-    {
-      "added_at": "2026-08-13 22:01:33",
-      "album": {
         "name": "STILL PRETTY WHEN I CRY",
         "url": "https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 159473,
       "name": "STILL PRETTY WHEN I CRY",
       "url": "https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h"
+    },
+    {
+      "added_at": "2026-08-13 22:01:33",
+      "album": {
+        "name": "Dreszcze",
+        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 159567,
+      "name": "Dreszcze",
+      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
     },
     {
       "added_at": "2026-08-13 22:01:33",

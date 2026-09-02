@@ -1,12 +1,12 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 131987,
+  "num_followers": 131980,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClZeHgnondkkhf4bdvOBnj5ALG2",
+  "snapshot_id": "AAAAAFSzodIXj4siuZGKL8C6kNUYk7yA",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:21",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "Perhonen",
-        "url": "https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Perhonen",
-      "url": "https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 152706,
       "name": "DND",
       "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "Perhonen",
+        "url": "https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Perhonen",
+      "url": "https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        },
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 209941,
-      "name": "Ulkopuolinen (feat. ibe)",
-      "url": "https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "KILLING SZN/BBL",
         "url": "https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 167111,
       "name": "KILLING SZN (feat. keiju)",
       "url": "https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "Ulkopuolinen (feat. ibe)",
+      "url": "https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96"
     },
     {
       "added_at": "2026-08-27 21:00:21",

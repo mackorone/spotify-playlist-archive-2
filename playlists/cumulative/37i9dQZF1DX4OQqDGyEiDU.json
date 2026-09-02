@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: r-906",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -2981,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "NORMAL END",
+        "url": "https://open.spotify.com/album/0v4YCiIqNRFBplJSmcB5nj"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "NORMAL END",
+      "url": "https://open.spotify.com/track/4mpEYGgoYYGqu1ZD0H5LYg"
+    },
+    {
+      "album": {
         "name": "NORO",
         "url": "https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L"
       },
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 148000,
       "name": "QUIET (feat. \u91cd\u97f3\u30c6\u30c8, \u53ef\u4e0d & \u96e8\u8863)",
       "url": "https://open.spotify.com/track/7iFCc4f4jVHWUDmSLapYUg"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 191000,
       "name": "Shogi Ichiban\uff01",
       "url": "https://open.spotify.com/track/0wu9Z0ZIqhAO7WJSUXLD9Q"
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 122482,
       "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
       "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
@@ -6153,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30f3\u30c1\u30b5\u30a4\u30ce\u30a6",
+        "url": "https://open.spotify.com/album/2FSOUzN3hM7QtcjlbYKErN"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "\u30a2\u30f3\u30c1\u30b5\u30a4\u30ce\u30a6",
+      "url": "https://open.spotify.com/track/3KvJPexXqenDgcP6RKRPip"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30f3\u30c1\u30b8\u30e7\u30fc\u30ab\u30fc",
         "url": "https://open.spotify.com/album/5GhivkEsjcmUmHIjxmYP88"
       },
@@ -6312,7 +6348,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 236068,
       "name": "\u30a6\u30df\u30e6\u30ea\u6d77\u5e95\u8b5a",
       "url": "https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77"
@@ -7489,6 +7525,32 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/0jHu9G89uLq3ZCOBWFK5cN"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179872,
+      "name": "\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6xNwd1pjUjTfHwzN2yyndS"
+    },
+    {
+      "album": {
         "name": "VOCALOUDER",
         "url": "https://open.spotify.com/album/2SkpuPrYBxphiWTT1SsQHx"
       },
@@ -8090,7 +8152,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 201265,
       "name": "\u30c7\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9",
       "url": "https://open.spotify.com/track/5W6i71A1a4cZL9bQ6CN4qv"
@@ -9059,6 +9121,24 @@
     },
     {
       "album": {
+        "name": "\u30d5\u30a9\u30fc\u30e2",
+        "url": "https://open.spotify.com/album/7HclLdzkh7w0xoLUvtqJh8"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u771f\u4e2d",
+          "url": "https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131389,
+      "name": "\u30d5\u30a9\u30fc\u30e2",
+      "url": "https://open.spotify.com/track/4nfy4uNZASRTRyrmlLDoqW"
+    },
+    {
+      "album": {
         "name": "plotoplan",
         "url": "https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9"
       },
@@ -9554,7 +9634,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 152750,
       "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
       "url": "https://open.spotify.com/track/3mhX7RepAwqeoz04q0wCYn"
@@ -11254,7 +11334,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 109818,
       "name": "\u521d\u97f3\u30df\u30af\u306e\u71b1\u5531 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/24STJuziq0fMsav7YI0y8E"
@@ -12300,6 +12380,24 @@
       "duration_ms": 342400,
       "name": "\u602a\u96fb\u8a71",
       "url": "https://open.spotify.com/track/1G11WncwuyUIBJXSTiy67J"
+    },
+    {
+      "album": {
+        "name": "\u604b",
+        "url": "https://open.spotify.com/album/41UhRjZuWVZC0TDCqkmAdV"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206481,
+      "name": "\u604b",
+      "url": "https://open.spotify.com/track/72obTVs06gGRgUlAWt0fnd"
     },
     {
       "album": {

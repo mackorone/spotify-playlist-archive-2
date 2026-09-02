@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, JUST LIZZY, Alien Skin and more",
+  "description": "With VELATINE, Whispergun, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 264823,
       "name": "Back to Square Two",
       "url": "https://open.spotify.com/track/5kjfpgQYoeayosZdOnGOAd"
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -6288,6 +6288,24 @@
       "duration_ms": 224512,
       "name": "Falling Short",
       "url": "https://open.spotify.com/track/6QqKu0OKFjIqq9OjGuwwh5"
+    },
+    {
+      "album": {
+        "name": "Falling Star",
+        "url": "https://open.spotify.com/album/15xgOuWwNdUrPHbsUte6mh"
+      },
+      "artists": [
+        {
+          "name": "SALVIA",
+          "url": "https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203574,
+      "name": "Falling Star",
+      "url": "https://open.spotify.com/track/3zmsrZsBKhQsCLEHcuiMWc"
     },
     {
       "album": {
@@ -8773,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "I Only See You When I'm Dancing",
+        "url": "https://open.spotify.com/album/5NeCr1KyLslD5owJaZgIbe"
+      },
+      "artists": [
+        {
+          "name": "The Exbats",
+          "url": "https://open.spotify.com/artist/7gDtEXhShKhmqrdh2lpSsD"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260063,
+      "name": "I Only See You When I'm Dancing",
+      "url": "https://open.spotify.com/track/6DowLPrUvNw7sn6hLnJnH6"
+    },
+    {
+      "album": {
         "name": "Black Cloud / I Tried to Kill the Beat",
         "url": "https://open.spotify.com/album/3EbTHRbDlk0VUIfrU3Ozq9"
       },
@@ -8946,7 +8982,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9714,7 +9750,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 207857,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/651tjNUNVFetut4ghwJHCT"
@@ -9966,7 +10002,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -10118,7 +10154,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/26mnIZ04a0hV0nVTY9kZ2S"
@@ -10320,7 +10356,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 361080,
       "name": "Last Transmission Elegy II",
       "url": "https://open.spotify.com/track/015hep8yPIi22IsyZMqMda"
@@ -10771,6 +10807,24 @@
     },
     {
       "album": {
+        "name": "Like We Do",
+        "url": "https://open.spotify.com/album/1VvAV5ytfDxHJ37LxXZaTA"
+      },
+      "artists": [
+        {
+          "name": "UNMET",
+          "url": "https://open.spotify.com/artist/3DNs8UqLT2nyB2oAgbBy04"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225520,
+      "name": "Like We Do",
+      "url": "https://open.spotify.com/track/3Y4Mg4esHNP5my44vm9L5P"
+    },
+    {
+      "album": {
         "name": "Appendices",
         "url": "https://open.spotify.com/album/1OQgKWwS9Z9yfZ5CcpFqPw"
       },
@@ -10854,7 +10908,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -11154,6 +11208,24 @@
       "duration_ms": 238250,
       "name": "Lovers of Evil",
       "url": "https://open.spotify.com/track/0N51Zo2VvTHyewvhIYjJd9"
+    },
+    {
+      "album": {
+        "name": "Lovestruck",
+        "url": "https://open.spotify.com/album/62Wrnztu39fjRd0PZDLVVM"
+      },
+      "artists": [
+        {
+          "name": "Cold Showers",
+          "url": "https://open.spotify.com/artist/101BwjqEzjeBNjiYDnLZwC"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Lovestruck",
+      "url": "https://open.spotify.com/track/4GJZiWmz54qSClXTdeUsQj"
     },
     {
       "album": {
@@ -11710,7 +11782,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 216687,
       "name": "Milles visages",
       "url": "https://open.spotify.com/track/1bXNBmEgwr3zg69qbXc3f7"
@@ -12512,7 +12584,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 171500,
       "name": "Night/Day",
       "url": "https://open.spotify.com/track/0zLfDNmSw2hCe7V5nsiC7Z"
@@ -13830,7 +13902,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "psychological barbed wire",
       "url": "https://open.spotify.com/track/5XMZ3AhSuJUgDyR06eWwdo"
@@ -14256,7 +14328,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -15659,6 +15731,24 @@
     },
     {
       "album": {
+        "name": "3 Poisons",
+        "url": "https://open.spotify.com/album/0s3LqD6s89OZ4Tkmy5WR8D"
+      },
+      "artists": [
+        {
+          "name": "Ingo Swann",
+          "url": "https://open.spotify.com/artist/0RuRabQWdOfY5IJnAMd8yf"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Slain",
+      "url": "https://open.spotify.com/track/6KPCzPVCrKqWMFAxPXUtSF"
+    },
+    {
+      "album": {
         "name": "Embrace the Condemnation",
         "url": "https://open.spotify.com/album/70CtmYAViawPqaK25n75lC"
       },
@@ -15674,6 +15764,24 @@
       "duration_ms": 307500,
       "name": "Slave",
       "url": "https://open.spotify.com/track/5koPjIJhddd6omkAhnd4jq"
+    },
+    {
+      "album": {
+        "name": "cntrl/alt/delete",
+        "url": "https://open.spotify.com/album/0sWBt36b4G6hV8fNaAqs1p"
+      },
+      "artists": [
+        {
+          "name": "soooshimi",
+          "url": "https://open.spotify.com/artist/2bkQZWnKE8wRrkw0kb4lwq"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184073,
+      "name": "sleep_walk",
+      "url": "https://open.spotify.com/track/3LoihMhzPeZQ1X6vTxz7Kx"
     },
     {
       "album": {
@@ -15706,7 +15814,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 212188,
       "name": "Slicer",
       "url": "https://open.spotify.com/track/7CeWB1joj3cQe2udfnrW2B"
@@ -16302,7 +16410,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -16934,7 +17042,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 276106,
       "name": "Superior Love - In My Rosary RMX",
       "url": "https://open.spotify.com/track/3b6wlNcCCQ4YMjlisaS3A2"
@@ -17698,7 +17806,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 273933,
       "name": "The Desert Inside",
       "url": "https://open.spotify.com/track/4YJXajzFrDy7NO9TNYU1Rl"
@@ -18693,6 +18801,24 @@
     },
     {
       "album": {
+        "name": "The Lost Theatre",
+        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207936,
+      "name": "This Dance",
+      "url": "https://open.spotify.com/track/27GtVpyrQcZ1Gtp74vPOFG"
+    },
+    {
+      "album": {
         "name": "This Elegant Deal",
         "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
       },
@@ -19624,7 +19750,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 366200,
       "name": "Under Your Skin",
       "url": "https://open.spotify.com/track/3UbZxHjScqE6eWmXbR9zX4"
@@ -19646,7 +19772,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 374488,
       "name": "Unexpected Love - The Axiom Divide Remix",
       "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
@@ -20004,7 +20130,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-02",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20026,6 +20152,28 @@
       "duration_ms": 184730,
       "name": "Violent Things",
       "url": "https://open.spotify.com/track/1Po5qHzjgj5DIhIRHOrqQN"
+    },
+    {
+      "album": {
+        "name": "Voices Carry",
+        "url": "https://open.spotify.com/album/2eLkHGrd6iMGWK4BXz4XOf"
+      },
+      "artists": [
+        {
+          "name": "All The Damn Vampires",
+          "url": "https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH"
+        },
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263428,
+      "name": "Voices Carry",
+      "url": "https://open.spotify.com/track/19v6qPIt0mObDc0eUvp1nP"
     },
     {
       "album": {
@@ -20930,7 +21078,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -21204,7 +21352,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 150526,
       "name": "Wolves Surrounding Me",
       "url": "https://open.spotify.com/track/1YllL7HsQfFLdlcFfwpiYD"
@@ -21510,7 +21658,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

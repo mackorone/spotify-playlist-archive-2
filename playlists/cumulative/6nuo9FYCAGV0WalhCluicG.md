@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-200 songs - 9 hr 1 min
+201 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 | 2025-10-03 | 2026-03-14 |
 | [Baja Blast](https://open.spotify.com/track/3uDa6lqSqmgU8dOWkztU9f) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Baja Blast](https://open.spotify.com/album/1keplZOkrZEQliIiR0p61N) | 2:21 | 2026-06-19 |  |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2025-10-03 | 2026-03-14 |
+| [Bando \(feat\. Pharrell Williams & Quavo\) \- Orchestral](https://open.spotify.com/track/0lBoWB1rFFeN4NFnkR94sI) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [HOPE!!](https://open.spotify.com/album/17Grm8FoBWNyw4f9u2Ykec) | 3:19 | 2026-09-01 |  |
 | [BBK](https://open.spotify.com/track/1dbnMK6t2B51VCvgyUmBK1) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [BBK](https://open.spotify.com/album/1TgotWmUl0eqF8XGe9Deh2) | 2:20 | 2026-03-13 | 2026-06-20 |
 | [Bellingham](https://open.spotify.com/track/5ADKlijj1VChfluBVbK7WG) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Bellingham](https://open.spotify.com/album/2sYhWXdK36j3u3BCiGD7sD) | 2:39 | 2026-05-08 | 2026-06-20 |
 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 | 2025-10-03 | 2026-05-02 |
@@ -122,7 +123,7 @@
 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-10-03 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-10-03 | 2026-03-14 |
 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2026-05-01 |  |
-| [LYRIC BOOK BOY](https://open.spotify.com/track/0jxCmJPFoIWePWnXTgAGHk) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 3:00 | 2026-07-24 |  |
+| [LYRIC BOOK BOY](https://open.spotify.com/track/0jxCmJPFoIWePWnXTgAGHk) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 3:00 | 2026-07-24 | 2026-09-02 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2025-10-03 | 2026-03-14 |
 | [Manny](https://open.spotify.com/track/3Eecd74H22V1TPURmJ6Xm3) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [TRU](https://open.spotify.com/album/0qqdO3p3vA4R7K2yhBmpXx) | 3:08 | 2025-10-03 | 2026-05-02 |
 | [Mazzaleen](https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Mazzaleen](https://open.spotify.com/album/22gub81LW7QBIJIIK8J1gg) | 3:47 | 2026-06-05 |  |

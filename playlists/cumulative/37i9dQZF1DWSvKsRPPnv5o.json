@@ -6629,6 +6629,32 @@
     },
     {
       "album": {
+        "name": "Kids With Dreams",
+        "url": "https://open.spotify.com/album/7y8Zb4RZBf9Q7tGFiqXqlL"
+      },
+      "artists": [
+        {
+          "name": "Alvin Allure",
+          "url": "https://open.spotify.com/artist/4mRNIWrbjkLsALWzqSqFN9"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Jayson Cash",
+          "url": "https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201465,
+      "name": "Chip on My Shoulder",
+      "url": "https://open.spotify.com/track/4TzAe4DbirFJCa3EWeeCPy"
+    },
+    {
+      "album": {
         "name": "Under My Influence",
         "url": "https://open.spotify.com/album/3ajGEfVzjOjerZ9tSrUIWu"
       },

@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-171 songs - 11 hr 28 min
+172 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Lagoon](https://open.spotify.com/track/3NLMY8Wh4hUC32sPANETIA) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Lagoon](https://open.spotify.com/album/2QGfhTS180MI7eSFO0Uc8E) | 4:17 | 2023-02-16 |  |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-11-16 | 2024-04-19 |
 | [Last Train \(ラストトレイン\) feat\. THREE1989](https://open.spotify.com/track/1F4K1lri0LDhIdgUZXrsB4) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train \(ラストトレイン\) feat\. THREE1989](https://open.spotify.com/album/284nyVnKxahjLinogbkHx5) | 3:37 | 2024-02-29 | 2025-09-17 |
-| [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 | 2022-05-26 |  |
+| [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 | 2022-05-26 | 2026-09-02 |
 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 | 2022-05-26 | 2024-04-19 |
 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 | 2024-01-06 |  |
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/5B9pSYUOuY2CMaLedqpvXI) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:44 | 2024-09-27 |  |
@@ -92,7 +92,7 @@
 | [Noisy Love](https://open.spotify.com/track/6FmPut7Qe0PIfdw4SLucPo) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Noisy Love](https://open.spotify.com/album/1Z7ZRVIIrML6E5wTxPXjrv) | 2:45 | 2023-10-19 | 2025-09-17 |
 | [not alright](https://open.spotify.com/track/3qvK5qHvwP1mX6g9lOF2dJ) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [not alright](https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB) | 4:04 | 2022-05-26 |  |
 | [One Way My Love](https://open.spotify.com/track/3HxDFhicGXxE5hlvypryCU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [Ladies In The City](https://open.spotify.com/album/4aq2qIVPFSS5mkKKKKKSO7) | 3:17 | 2022-05-26 | 2023-02-17 |
-| [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-05-26 |  |
+| [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-05-26 | 2026-09-02 |
 | [Para Sa Bawat Tala](https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/26oMuuJGRoanfk3lyUOoHs) | 3:46 | 2022-05-26 |  |
 | [Para Sa Bawat Tala](https://open.spotify.com/track/3jU6WHhEH37QrkcLx1f9UR) | [Rob & the Hitmen](https://open.spotify.com/artist/403zqZkXe0eu3LaDHRzXan) | [Offshore Music, Vol\. 1](https://open.spotify.com/album/0UDbHdqYWUnSdjYJEXljbt) | 3:46 | 2023-07-06 | 2024-04-19 |
 | [Password](https://open.spotify.com/track/3Th1HFNWilrRJyIvjBxNj5) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [Password](https://open.spotify.com/album/4rgVJF3Omwi23EJ0Nvc8ec) | 3:59 | 2022-05-26 |  |
@@ -148,6 +148,7 @@
 | [Virtual World](https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/3sU1srdjbJdz6pGLGtWWuD) | 3:24 | 2024-01-25 | 2024-04-19 |
 | [Virtual World](https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Just because of the sudden wind](https://open.spotify.com/album/5xiBNgDcroZnam0CXegDOu) | 3:24 | 2022-05-26 |  |
 | [Wakai Koro](https://open.spotify.com/track/0diQ8YqtdoCaxy2xovKsMi) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [Wakai Koro](https://open.spotify.com/album/63teHEBVLWZYKuQtUDIjtL) | 4:39 | 2023-02-16 | 2023-03-10 |
+| [What Am I \(我是啥\)](https://open.spotify.com/track/6tnILM2FetUPbg3v0DoIEQ) | [鬼冢猫 Great John's Cat](https://open.spotify.com/artist/4w8udrX5EPpG8BvJByaX2m) | [香料、水果、回鍋肉](https://open.spotify.com/album/26i8igCL8jEmVVUhthSMry) | 3:24 | 2026-09-01 |  |
 | [With The Star](https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP) | 3:32 | 2022-05-26 |  |
 | [With The Star](https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [East Shore](https://open.spotify.com/album/0VtXOyIh7WJCKBe3KbRch8) | 3:32 | 2022-05-26 | 2025-09-17 |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2024-01-06 |  |

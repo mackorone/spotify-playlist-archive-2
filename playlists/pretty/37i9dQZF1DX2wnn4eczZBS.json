@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11514,
+  "num_followers": 11512,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINENUMQsK3eOHzRwkZJrMgCaT/3",
+  "snapshot_id": "AAAAAGRx51lww7dRrsSz8A23UNia1fE0",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kubus In Een Ballenbak",
-        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Komt Goed",
-      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "In NL Mag Je Een Vrouw Slaan",
         "url": "https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+        "name": "Kubus In Een Ballenbak",
+        "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
         }
       ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+      "duration_ms": 153428,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -671,6 +655,22 @@
       "duration_ms": 181539,
       "name": "Niks is zeker",
       "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vlammen!",
-        "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
-      },
-      "artists": [
-        {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "Vlammen!",
-      "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 165210,
       "name": "Niemandsland",
       "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Vlammen!",
+        "url": "https://open.spotify.com/album/5ttJNiwtPhkCMzLz9YlGOE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "Vlammen!",
+      "url": "https://open.spotify.com/track/2GXZ1LZ1Br2cUyMudL6vBa"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Sneeuw In De Zomer",
-        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
-      },
-      "artists": [
-        {
-          "name": "Alice Olsthoorn",
-          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
-        }
-      ],
-      "duration_ms": 164794,
-      "name": "Sneeuw In De Zomer",
-      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "GEEN TITEL",
         "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 152413,
       "name": "CONFLICT",
       "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Sneeuw In De Zomer",
+        "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
+      },
+      "artists": [
+        {
+          "name": "Alice Olsthoorn",
+          "url": "https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA"
+        }
+      ],
+      "duration_ms": 164794,
+      "name": "Sneeuw In De Zomer",
+      "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
     },
     {
       "added_at": "2026-05-28 11:50:51",

@@ -4,12 +4,13 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-141 songs - 8 hr 51 min
+142 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2090](https://open.spotify.com/track/5JUmUQ2s1EecIwGEYbddT6) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:04 | 2023-09-18 | 2023-11-11 |
-| [24hs](https://open.spotify.com/track/4XMAR4YrL2Yhygkw0YlXko) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [24hs](https://open.spotify.com/album/7CWUChdbiLrXe7ZYQH29na) | 2:22 | 2026-05-17 |  |
+| [24hs](https://open.spotify.com/track/4XMAR4YrL2Yhygkw0YlXko) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [24hs](https://open.spotify.com/album/7CWUChdbiLrXe7ZYQH29na) | 2:22 | 2026-05-17 | 2026-09-02 |
+| [24HS](https://open.spotify.com/track/5786SR4APfRjxgwirZCJQe) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [MERITOCASSINO](https://open.spotify.com/album/3gavyeifIDe6OGBMRTnhrp) | 2:22 | 2026-09-02 |  |
 | [AFORTUNADO](https://open.spotify.com/track/62OXYcRxQENTFUN9dqXl4L) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Wesley Camilo](https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 5:31 | 2026-08-10 | 2026-08-18 |
 | [Alvo](https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 | 2023-09-18 | 2025-11-26 |
 | [Alvo](https://open.spotify.com/track/7nG2vsMFNE9W4McyrQu7BF) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti) | 2:38 | 2025-11-29 |  |

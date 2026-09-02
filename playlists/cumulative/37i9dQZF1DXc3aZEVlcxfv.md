@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-677 songs - 1 day 21 hr 27 min
+678 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Goodness Of The Lord II](https://open.spotify.com/track/3l9LAWKObVbji81BbWT8Ky) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Goodness Of The Lord II](https://open.spotify.com/album/4rJ3UPyCmY7j14LRUCO0Mm) | 3:40 | 2026-05-15 | 2026-05-22 |
 | [Grace](https://open.spotify.com/track/7rgj1XqBc4rfO606H3oKRg) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r) | [Grace](https://open.spotify.com/album/5GklgMCajHkEtvTBbD7N4m) | 3:06 | 2025-07-11 | 2025-08-08 |
 | [Grace](https://open.spotify.com/track/5XVmn6b4EvfC8em0H4npoM) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [Grace](https://open.spotify.com/album/09ekn90nArRemGFpxyAdph) | 2:30 | 2026-07-03 | 2026-08-07 |
-| [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 | 2026-07-10 |  |
+| [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 | 2026-07-10 | 2026-09-02 |
 | [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 | 2025-09-12 |
 | [Grace Vibes](https://open.spotify.com/track/7zpYlUQxoYJOzMdXT7fN3G) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Smile More](https://open.spotify.com/album/35A3DFaTm0Iz3pXBBeSA8k) | 2:43 | 2024-11-29 | 2025-02-28 |
 | [Grateful](https://open.spotify.com/track/6LpCFvnMavPbR5mgKIY497) | [Ezekiel Okesola](https://open.spotify.com/artist/1UVWelRHKzIEOm4n6jhTcU), [Wole Isaiah](https://open.spotify.com/artist/7eTXw4sDCHCyWuPVwhmtLp) | [Grateful](https://open.spotify.com/album/2q6qSnyyhcofI7Mqd8I1X3) | 7:20 | 2026-01-16 | 2026-04-03 |
@@ -283,6 +283,7 @@
 | [Home](https://open.spotify.com/track/3rKKtRTL4MaQRkEb74GLP0) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [Home](https://open.spotify.com/album/766dgkiseXkzBGcGvZicLu) | 3:07 | 2025-05-09 | 2025-05-30 |
 | [How Beautiful \- I Love You Lord Album Version](https://open.spotify.com/track/6sRcuKFjF2BordZxd6tHL2) | [I Love You Lord Performers](https://open.spotify.com/artist/7pWZRausRqxia6Og2ezPxz) | [I Love You Lord](https://open.spotify.com/album/0vD08lwfExgCo2odwgVDEj) | 4:40 | 2024-09-27 | 2025-03-28 |
 | [How Can I Forget?](https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [How Can I Forget?](https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is) | 3:18 | 2025-06-27 | 2025-11-28 |
+| [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 | 2026-08-28 |  |
 | [How Love Is Done](https://open.spotify.com/track/5eIEpqK3gqaDNEvxEJC96W) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [How Love Is Done](https://open.spotify.com/album/7mXpmhWRAwTBjVim6OnfFS) | 3:12 | 2025-05-30 | 2025-06-20 |
 | [I am blessed](https://open.spotify.com/track/1QYpJIF5WBn4lmdK1wkcAV) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I am blessed](https://open.spotify.com/album/0RcyUlcMRtm06uXuMR2ZDF) | 4:06 | 2025-02-28 | 2025-04-18 |
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 | 2025-02-28 |

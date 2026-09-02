@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Beartooth are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,655,692 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,655,696 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Ultraviolet Parasite](https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR) | [Frontierer](https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt) | [Ultraviolet Parasite](https://open.spotify.com/album/4XmwXNFhfeEC8OqmwAEDha) | 2:41 |
 | 80 | [PEN I S MALL](https://open.spotify.com/track/2ZzD7MEqfjMuUlqYwUGZjx) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [PEN I S MALL](https://open.spotify.com/album/52HIKPlRueQJLVO1XoMBHn) | 4:58 |
 
-Snapshot ID: `AAAAAMdHPgnCAUiL1X0deM7cEWNMk7Dg`
+Snapshot ID: `AAAAAEJC5rjZ6t3T/9OllrLvyNKeP3OP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,987 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,980 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 48 | [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 |
 | 49 | [Poikaystävä](https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Poikaystävä](https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF) | 2:19 |
 | 50 | [Nelisilmä](https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg) | [DOG HUSTLERS](https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Nelisilmä](https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5) | 2:00 |
-| 51 | [Perhonen](https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Perhonen](https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl) | 3:38 |
-| 52 | [DND](https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO) | [Nathanael](https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [DND](https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD) | 2:32 |
+| 51 | [DND](https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO) | [Nathanael](https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [DND](https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD) | 2:32 |
+| 52 | [Perhonen](https://open.spotify.com/track/7AS2J1GYKoVkZ82eGhDNuz) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Perhonen](https://open.spotify.com/album/1zSJ45smNtH2UbWaxonzYl) | 3:38 |
 | 53 | [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 |
 | 54 | [Vitun Inee](https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vitun Inee](https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn) | 2:58 |
 | 55 | [TEENAGE DREAM](https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [TEENAGE DREAM](https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw) | 2:27 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 65 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
 | 66 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
 | 67 | [Kipee](https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Kipee](https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf) | 3:08 |
-| 68 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
-| 69 | [KILLING SZN \(feat\. keiju\)](https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq), [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [KILLING SZN/BBL](https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8) | 2:47 |
+| 68 | [KILLING SZN \(feat\. keiju\)](https://open.spotify.com/track/6YzFhKEWWGF8PUc1PfBvBq) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq), [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [KILLING SZN/BBL](https://open.spotify.com/album/7oN4yHDWIQreYzauSJ0IW8) | 2:47 |
+| 69 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
 | 70 | [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 |
 
-Snapshot ID: `AAAAAClZeHgnondkkhf4bdvOBnj5ALG2`
+Snapshot ID: `AAAAAFSzodIXj4siuZGKL8C6kNUYk7yA`
