@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188266,
+  "num_followers": 188265,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Things Take Time",
+        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Things Take Time",
+      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "A Real Hero EP",
         "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 267859,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Things Take Time",
-        "url": "https://open.spotify.com/album/2RsdNUtkxHHG30160YqS2e"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Things Take Time",
-      "url": "https://open.spotify.com/track/6FDIHTvOLT5HC4LqtZPWaE"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Everything in Between",
-        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
-      },
-      "artists": [
-        {
-          "name": "Munan",
-          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
-        }
-      ],
-      "duration_ms": 213642,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 218010,
       "name": "Quand on arrive en ville",
       "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Everything in Between",
+        "url": "https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK"
+      },
+      "artists": [
+        {
+          "name": "Munan",
+          "url": "https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE"
+        }
+      ],
+      "duration_ms": 213642,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Jardin d'hiver",
-        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "found u/me",
         "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 169818,
       "name": "found u/me",
       "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Jardin d'hiver",
+        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "On Reste L\u00e0",
         "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 237430,
       "name": "On Reste L\u00e0",
       "url": "https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Fool of Myself",
         "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 204520,
       "name": "Fool of Myself",
       "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "SUBURBIA",
+        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "pool party",
+      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 201973,
       "name": "Don't Forget Yourself",
       "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "SUBURBIA",
-        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "pool party",
-      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
+        "name": "the plushies, they love you bro",
+        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "the plushies, they love you bro",
+      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
         "name": "Blue Summer",
         "url": "https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 220533,
       "name": "Blue Summer",
       "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
-        "name": "the plushies, they love you bro",
-        "url": "https://open.spotify.com/album/7b6ztDIWYP4CjLcNPnI6AS"
-      },
-      "artists": [
-        {
-          "name": "Clara Kimera",
-          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "the plushies, they love you bro",
-      "url": "https://open.spotify.com/track/1n6r2NDSVjsSbVULU6ZMmD"
     },
     {
       "added_at": "2026-08-21 08:52:55",

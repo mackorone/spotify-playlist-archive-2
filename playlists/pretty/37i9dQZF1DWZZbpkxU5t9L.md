@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: アカシック
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,107 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,103 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 34 | [Seaside Story](https://open.spotify.com/track/5aBsEcu4aPdLqlmJjAn3Ml) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Banquet](https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H) | 3:10 |
 | 35 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
 | 36 | [Be on Your side](https://open.spotify.com/track/1fi0X16iiqzfJaUvvaJb05) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/1MXQr820zZCx1Es1AnGIb1) | 3:39 |
-| 37 | [東京](https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [う、ちゅー。](https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo) | 3:19 |
+| 37 | [東京](https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP) | [Super social sandr](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [う、ちゅー。](https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo) | 3:19 |
 | 38 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
 | 39 | [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 |
 | 40 | [新女神](https://open.spotify.com/track/5DUPMDswQK8U0eAEKmsOI9) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [新女神](https://open.spotify.com/album/3wDVBZTSQpIevDMFVoFWr0) | 3:03 |

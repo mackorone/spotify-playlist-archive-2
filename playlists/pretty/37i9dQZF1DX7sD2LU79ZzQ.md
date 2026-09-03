@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Nadhif Basalamah, Hursa
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,555 likes - 111 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,568 likes - 111 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

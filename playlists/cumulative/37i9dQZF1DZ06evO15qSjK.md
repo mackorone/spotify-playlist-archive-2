@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-194 songs - 9 hr 45 min
+195 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,12 +108,13 @@
 | [Lose Control](https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lose Control](https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti) | 3:10 | 2024-04-14 | 2024-07-01 |
 | [Love Again](https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:11 | 2023-02-16 | 2023-06-10 |
 | [Love Me Not](https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:08 | 2026-02-01 |  |
+| [Lush Life](https://open.spotify.com/track/2DklK50mZv41mrFdZFOojw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 54](https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw) | 3:18 | 2026-09-03 |  |
 | [Made You Look](https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:15 | 2023-09-15 | 2025-06-11 |
 | [Manchild](https://open.spotify.com/track/13bQmqqTXXpQt4qmHPcINr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Manchild](https://open.spotify.com/album/613lPhAJS6bj7VxuwkFFkS) | 3:20 | 2025-10-05 |  |
 | [Messy](https://open.spotify.com/track/5QVnZ3YuUSIPaOd4NXeQAb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Messy](https://open.spotify.com/album/5SSL3rCkTFgJjrRIDogO2J) | 4:04 | 2025-06-15 | 2025-08-22 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7HPYVH6m34l6XdA5nfSxJ9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MI EX TENÍA RAZÓN](https://open.spotify.com/album/2kS4RNfnbylHRU61Cg6NpO) | 2:19 | 2023-12-16 | 2024-01-19 |
 | [Midnight Sun](https://open.spotify.com/track/3K2sq4GzFkLFA3u0lhYWeR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Midnight Sun](https://open.spotify.com/album/5nIgD5ISbeiUEtyDNsuHUc) | 3:03 | 2026-07-12 | 2026-09-02 |
-| [Midnight Sun](https://open.spotify.com/track/3XwkQfXEL9dU0DLQC45bKG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 54](https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw) | 3:03 | 2026-09-02 |  |
+| [Midnight Sun](https://open.spotify.com/track/3XwkQfXEL9dU0DLQC45bKG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 54](https://open.spotify.com/album/5RwCNophFbxHCdH6igEalw) | 3:03 | 2026-09-02 | 2026-09-03 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MILLION DOLLAR BABY](https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K) | 2:35 | 2024-08-25 | 2024-10-28 |
 | [Miracle](https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miracle](https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU) | 2:51 | 2023-11-10 | 2024-03-08 |
 | [Monster Mash \- 2022](https://open.spotify.com/track/5W6qF7cYCdhFjKqZVDeKfe) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 2:46 | 2025-10-24 | 2025-12-07 |

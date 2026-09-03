@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-311 songs - 19 hr 25 min
+313 songs - 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-06-01 | 2026-08-08 |
 | [Freefalling](https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Freefalling](https://open.spotify.com/album/38JXKYxSiJBLn3sdPOI4Us) | 3:09 | 2026-06-18 | 2026-08-08 |
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 | 2025-12-28 |
+| [Fáilte Ar Ais](https://open.spotify.com/track/1gyWpdvX41YmRY7IZ8wuQE) | [The Falls](https://open.spotify.com/artist/1idQKjppJVYq4aFbffUKEs) | [Fáilte Ar Ais](https://open.spotify.com/album/4GTOxYl0JiXsDst6BcbaAT) | 3:11 | 2026-09-02 |  |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 | 2026-03-04 | 2026-04-01 |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2026-05-12 | 2026-06-14 |
@@ -163,6 +164,7 @@
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2026-01-07 | 2026-02-02 |
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2025-11-04 | 2025-12-28 |
 | [KARMA](https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi) | [James Ec](https://open.spotify.com/artist/3WausLWOfDcxxAr2Bm7Ly9) | [KARMA](https://open.spotify.com/album/5Bq8ujUGlIipkRlVi8Erwt) | 2:52 | 2026-02-07 |  |
+| [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 | 2026-09-02 |  |
 | [King Tide](https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 4:05 | 2025-11-08 | 2025-12-28 |
 | [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-08-26 |  |
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 | 2025-12-28 |

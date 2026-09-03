@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "El Amor En 48 Compases",
+        "url": "https://open.spotify.com/album/6D1PFyTxsic9JoAuAG7C7Q"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134601,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2u3WO2kkjrf9HamtkRPRlY"
+    },
+    {
+      "album": {
         "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/4QLMLcfJ4AzN5ORH3rKSEm"
       },
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -10468,7 +10486,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -10490,7 +10508,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -16142,7 +16160,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 257713,
       "name": "LA GRACIOSA",
       "url": "https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw"
@@ -28801,6 +28819,28 @@
     },
     {
       "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/6R0fIFcUqDgQMyYdRWZJje"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267746,
+      "name": "Salgo Pa' la Calle",
+      "url": "https://open.spotify.com/track/4WSCQzsVo8ucr3FwGmUkHw"
+    },
+    {
+      "album": {
         "name": "Salimo de Noche",
         "url": "https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8"
       },
@@ -30028,7 +30068,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -32034,6 +32074,24 @@
       "duration_ms": 173561,
       "name": "TAY PAPO",
       "url": "https://open.spotify.com/track/2wobyrg2plnNYY9Qy8ZPBK"
+    },
+    {
+      "album": {
+        "name": "La Vida En Versos",
+        "url": "https://open.spotify.com/album/0MIvQzYZg9LJUDQURmM7Tl"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116934,
+      "name": "Te Amo En Silencio",
+      "url": "https://open.spotify.com/track/01aHmEjy11tWEVwUKRWnR9"
     },
     {
       "album": {

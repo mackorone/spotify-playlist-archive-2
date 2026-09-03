@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103860,
+  "num_followers": 103865,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAB3rdTiZSaz9uNFhUn77hmR",
+  "snapshot_id": "apYVgAAAAABoNjyubkZnta7tEgnCKv4G",
   "tracks": [
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Te Extra\u00f1ar\u00e9",
-        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 295967,
-      "name": "Yo Te Extra\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TERAPIA",
         "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 161314,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Te Extra\u00f1ar\u00e9",
+        "url": "https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 295967,
+      "name": "Yo Te Extra\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG"
     },
     {
       "added_at": null,

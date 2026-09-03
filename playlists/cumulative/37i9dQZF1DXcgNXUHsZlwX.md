@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-641 songs - 1 day 14 hr 6 min
+642 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Les hyènes](https://open.spotify.com/track/2gh61qxVfhoNJP9OJhge5j) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Les hyènes](https://open.spotify.com/album/5TUmOqdJH0FacyZceljNhe) | 3:19 | 2021-01-03\* | 2021-05-08 |
 | [Les joailliers \(piano, voix\)](https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Les joailliers \(piano, voix\)](https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o) | 3:17 | 2021-06-06 |  |
 | [Les longues migrations](https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Mémoires](https://open.spotify.com/album/6iiDJfzBCgLaQmJf8vHcfq) | 3:52 | 2021-01-03\* | 2022-07-27 |
-| [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 | 2026-05-15 |  |
+| [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 | 2026-05-15 | 2026-09-03 |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-06-08 |
 | [Les nuits incandescentes](https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Nos royaumes interdits](https://open.spotify.com/album/2OaemYlWbshatH7gXnNxyz) | 4:08 | 2021-02-22 | 2022-07-19 |
 | [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 | 2025-11-28 | 2026-08-13 |
@@ -550,6 +550,7 @@
 | [Tatouage](https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Tatouage](https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ) | 2:59 | 2021-01-03\* | 2025-10-08 |
 | [TDAH](https://open.spotify.com/track/2N1lLLY43Gm7cQyQtnp3TY) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [TDAH](https://open.spotify.com/album/5wXYc1N7JnPmdi5owg4UIh) | 2:47 | 2021-01-03\* | 2021-09-17 |
 | [Te manquer de peu](https://open.spotify.com/track/3TSyCR8MlllxxhvzjIAwSc) | [Mylène Vallée](https://open.spotify.com/artist/2Vegs6QP9dOhRbDW6wKl9T) | [Te manquer de peu](https://open.spotify.com/album/0dTRiq3mA3IFRR8iyANWZc) | 3:32 | 2021-01-21 | 2021-05-08 |
+| [Tempest](https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Tempest](https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II) | 3:25 | 2026-08-28 |  |
 | [Terre noire](https://open.spotify.com/track/1xHEbSwUjoTbVvWnLvz3gj) | [Dany Nicolas](https://open.spotify.com/artist/4RqDCZuQ8Rr65wpnZn4dTR) | [Terre noire](https://open.spotify.com/album/6XoJAvreDI9mz7vGm751fz) | 3:54 | 2021-04-19 | 2021-05-06 |
 | [Terres brûlées](https://open.spotify.com/track/4CqNS90gqsUCPBI0XIz8GY) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Terres brûlées](https://open.spotify.com/album/6Zahhq9Qh1JB4gXam2EkkZ) | 6:13 | 2024-04-19 | 2024-05-19 |
 | [Tes yeux](https://open.spotify.com/track/2dlWYj35UwwhCFRgsemKMN) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Ok](https://open.spotify.com/album/51glN59N897tCM4oRftAMP) | 5:01 | 2021-10-13 | 2022-07-29 |

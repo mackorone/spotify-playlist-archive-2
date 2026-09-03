@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,092 songs - 2 day 8 hr 0 min
+1,093 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [La Marseillaise](https://open.spotify.com/track/5VUm2SH1nTCXgIs8MA5WtE) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [La Marseillaise](https://open.spotify.com/album/32q8A5dbdkPx3kuFg5CQRv) | 3:17 | 2023-02-09 | 2023-02-17 |
 | [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 | 2024-08-08 | 2024-10-30 |
 | [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-16 | 2023-08-19 |
+| [LA SCOPO CO O' SGUARDO](https://open.spotify.com/track/4jQRIx85zOOBY07JJg61To) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:13 | 2026-09-02 |  |
 | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 | 2024-10-25 |
 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 | 2026-02-26 |  |
 | [Labubu \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/10MzYKMwqyVIg08RuG344S) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Tigerplug](https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Labubu \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/5mFelpgmMreiY7nwXX9u4q) | 2:37 | 2026-07-09 | 2026-07-31 |

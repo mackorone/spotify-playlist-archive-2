@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,343 songs - 5 day 1 hr 31 min
+2,344 songs - 5 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/track/43XDyDwka658kl7tE31LcB) | [Evert Mob](https://open.spotify.com/artist/6Rr1cWqaDnXGUHGTMAh8nN) | [Bra vibbar Del 2 \(Bra vibrationer\)](https://open.spotify.com/album/51PsFFDADd7HpUvffXAKZL) | 3:08 | 2022-03-10 | 2022-05-12 |
 | [Bra ändå](https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Bra ändå](https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA) | 4:34 | 2026-03-05 | 2026-03-20 |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-07-28 | 2023-09-09 |
+| [Brandkåren](https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Brandkåren](https://open.spotify.com/album/2LLj1tfJHmGzpTz1iclNDY) | 3:01 | 2026-08-27 |  |
 | [Break Through The Ceiling](https://open.spotify.com/track/2E3BUkRT95Uy9Saqr7HffY) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Break Through The Ceiling](https://open.spotify.com/album/3v2vCuNGvBwv9iydBwyh5M) | 2:47 | 2025-12-15 | 2026-03-20 |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-30 | 2024-06-28 |
 | [Breaking Point](https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Breaking Point](https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK) | 2:37 | 2026-04-16 | 2026-05-29 |
@@ -1751,7 +1752,7 @@
 | [Show Me Love](https://open.spotify.com/track/5GrEpYqEg0tTK9m0l2JJMf) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Show Me Love](https://open.spotify.com/album/3XREb27jlwQesTQUWSvV6d) | 3:15 | 2022-10-27 | 2023-01-06 |
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-05 | 2022-07-29 |
 | [Showdown](https://open.spotify.com/track/1sY71Tu4tLAMNHejetl4TH) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Showdown](https://open.spotify.com/album/1mFMjBJE2pkcKVVbMmT9mS) | 3:20 | 2024-05-09 | 2024-06-07 |
-| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 |  |
+| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 | 2026-09-03 |
 | [Side Effects](https://open.spotify.com/track/7uNiiku3t41VexItWzGXuT) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Side Effects](https://open.spotify.com/album/6H0HRB0vuCmUmSSy2v1k4C) | 2:12 | 2026-01-08 | 2026-01-18 |
 | [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 | 2025-08-22 |
 | [Siktar Högre](https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [Siktar Högre](https://open.spotify.com/album/2ZJxTJWYUgMJohqZ9FYu0u) | 3:15 | 2025-05-16 | 2025-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,165 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,187 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 2 | [Ammrika](https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 6:07 |
 | 3 | [Otoolege](https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 6:40 |
 | 4 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
-| 5 | [Iron Boy](https://open.spotify.com/track/3MA7sO9hG2Jx307ufi36P7) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 6:09 |
+| 5 | [Ashikele](https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo) | [George Jahraa](https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T) | [Yaw Burger](https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq) | 4:49 |
 | 6 | [Aben Wo Aha](https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wo Aha](https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2) | 5:10 |
 | 7 | [Pour Some Sugar I](https://open.spotify.com/track/1YmtpH8ihYtYVOdCfu9ln5) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Afrafra](https://open.spotify.com/album/6ICGLCCUvVr1VJUYhR1CFM) | 5:56 |
 | 8 | [Emmanuela](https://open.spotify.com/track/4aiZMWYiZxDeiqgzFNSeTw) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Emmanuella](https://open.spotify.com/album/7I0u2dlZgli071BzPJr0Ac) | 6:03 |
-| 9 | [Ashikele](https://open.spotify.com/track/2Kyl8xjffiK1FtGIK1HZEo) | [George Jahraa](https://open.spotify.com/artist/5sxAvf3rRFLHabyhuvKl7T) | [Yaw Burger](https://open.spotify.com/album/23Kc44TUjz27zLUahkuMQq) | 4:49 |
+| 9 | [Iron Boy](https://open.spotify.com/track/3MA7sO9hG2Jx307ufi36P7) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 6:09 |
 | 10 | [Mante Wo Nka](https://open.spotify.com/track/09jKaYjVrZjfWwW2IFdkEk) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Fre No Ma Me](https://open.spotify.com/album/0PWXKEWKKt6Usc7BoQCMiR) | 4:37 |
 | 11 | [Poison](https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Poison](https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC) | 5:49 |
 | 12 | [Mfa Me Nkoho](https://open.spotify.com/track/4gmJvvotDVCXVKY0ItNDOe) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:59 |
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 45 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |
 | 46 | [Cdc Mu Aniqyee Bi](https://open.spotify.com/track/5w3rcInBjwIsOmKhGxm0Sv) | [Dada KD](https://open.spotify.com/artist/0K9ryo7l90rdOcU1fYmUAF) | [Mewura](https://open.spotify.com/album/0AVLP4eqJJpUpv5WS5lTTG) | 5:01 |
 | 47 | [Odo Handkerchief](https://open.spotify.com/track/519FtZ3naaHROhiSTYoz0H) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 4:55 |
-| 48 | [Obaa Ben Ni](https://open.spotify.com/track/0UQVenafuFH54pymeINgMT) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:07 |
-| 49 | [Fa Odo Bodum](https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO) | [Tommy Wiredu & Frank Mensa](https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7) | [Fa Idi Bidim](https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW) | 5:30 |
-| 50 | [Mene Wo Begoro](https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [The Best of Charles Amoah Vol.1](https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O) | 5:59 |
+| 48 | [Fa Odo Bodum](https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO) | [Tommy Wiredu & Frank Mensa](https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7) | [Fa Idi Bidim](https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW) | 5:30 |
+| 49 | [Mene Wo Begoro](https://open.spotify.com/track/2IC7ISC96MlZhBBCcnRXT7) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [The Best of Charles Amoah Vol.1](https://open.spotify.com/album/0xeXbvlBdcG1qeZVkHlP5O) | 5:59 |
+| 50 | [Obaa Ben Ni](https://open.spotify.com/track/0UQVenafuFH54pymeINgMT) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:07 |
 | 51 | [Femo Dil](https://open.spotify.com/track/4i46wJCnmgYjfk7m95P2pH) | [Adane Best](https://open.spotify.com/artist/0iHoxGhjygQ3WczfHVuYyn) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 5:02 |
 | 52 | [Menkoaa](https://open.spotify.com/track/7CPWYXyEHbELJCsa2rLp8n) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 5:33 |
 | 53 | [Asiwa](https://open.spotify.com/track/4jOv7ddkv3hg11w4V2389q) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 5:07 |
-| 54 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
-| 55 | [Fre Me \(Call Me\)](https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980\-93](https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv) | 6:21 |
+| 54 | [Fre Me \(Call Me\)](https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980\-93](https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv) | 6:21 |
+| 55 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
 | 56 | [Maafio](https://open.spotify.com/track/79zxhAakeU9vGjXONZPf7w) | [Katamanto Highlife Orchestra](https://open.spotify.com/artist/3TbJGuRE8RDXBZs9HmOdrP) | [Katamanto Highlife Orchestra](https://open.spotify.com/album/3y3yuDBOIWUc2kfLz4uyIs) | 4:32 |
 | 57 | [Wodo Enda](https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:51 |
 | 58 | [Alomo Ketewa](https://open.spotify.com/track/2oyUbRmfq7fVTxZVa1ZgJu) | [Naa Agyeman](https://open.spotify.com/artist/0ISqwjoEAGZoZHuYFYBqAJ) | [Alomo Ketewa](https://open.spotify.com/album/2WW00lWxkXUj8oi9Tge9Yp) | 5:33 |

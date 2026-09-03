@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 117280,
+  "num_followers": 117317,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "2 \u00e9 Demais",
-        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha",
-          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Pintura \u00edntima - Compacto",
-      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Marisa Monte MM (Ao Vivo)",
         "url": "https://open.spotify.com/album/0ClnK9rwAeCZkW5Kda2dzv"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 250400,
       "name": "Lenda das Sereias, Rainha do Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/1ymzRzXjkmIgI8K5LQHsfe"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "2 \u00e9 Demais",
+        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
+      },
+      "artists": [
+        {
+          "name": "Kid Abelha",
+          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Pintura \u00edntima - Compacto",
+      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1023,26 +1023,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Nem um Dia (JAH-VAN)",
-        "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
+        "name": "Metropolitano",
+        "url": "https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M"
       },
       "artists": [
         {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Fernando Nunes",
-          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
+          "name": "Banda Eddie",
+          "url": "https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO"
         }
       ],
-      "duration_ms": 335796,
-      "name": "Nem um Dia - JAH-VAN",
-      "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
+      "duration_ms": 286800,
+      "name": "Danada",
+      "url": "https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1063,18 +1055,26 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Metropolitano",
-        "url": "https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M"
+        "name": "Nem um Dia (JAH-VAN)",
+        "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
       "artists": [
         {
-          "name": "Banda Eddie",
-          "url": "https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO"
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Fernando Nunes",
+          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
         }
       ],
-      "duration_ms": 286800,
-      "name": "Danada",
-      "url": "https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk"
+      "duration_ms": 335796,
+      "name": "Nem um Dia - JAH-VAN",
+      "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
     },
     {
       "added_at": "2025-10-04 00:28:31",

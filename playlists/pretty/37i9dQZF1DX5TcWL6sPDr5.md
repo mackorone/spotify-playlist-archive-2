@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: 💚Helena Gao💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,585 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,514 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

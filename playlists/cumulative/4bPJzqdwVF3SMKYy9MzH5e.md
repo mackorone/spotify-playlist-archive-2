@@ -4,7 +4,7 @@
 
 > 
 
-2,456 songs - 5 day 11 hr 58 min
+2,457 songs - 5 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,6 +1018,7 @@
 | [HYPNOTIZED](https://open.spotify.com/track/7sE14UBCcmorT5ACW9tKoE) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HYPNOTIZED](https://open.spotify.com/album/6nEEAuvJbrCftZIpzAPmvY) | 3:26 | 2021-08-05 |  |
 | [I <3 LATINAS](https://open.spotify.com/track/5ylWRlrMbdWfVUZTRIOJCH) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [I <3 LATINAS](https://open.spotify.com/album/5LY3Ww0m2JBMgL5Ch7AJXh) | 1:33 | 2023-05-31 |  |
 | [I Bet on Losing Dogs](https://open.spotify.com/track/3uS7pHvPRtJlyukzNZGpcO) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 2:50 | 2021-08-05 |  |
+| [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/track/0f3P2kbpIvGdgfvXN7rIKG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [I Bring My Gun To The Function \(with Boys Noize\)](https://open.spotify.com/album/5v1raNmRS2QloeEe4TzbnA) | 3:10 | 2026-09-02 |  |
 | [I Can Hardly Make You Mine](https://open.spotify.com/track/2MZpnGSXiJamWiwsXpBLHW) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:30 | 2022-02-04 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-08-05 |  |
 | [I Cannot Fucking Wait Til Morrissey Dies](https://open.spotify.com/track/0c81djsFYx69xCaNx4NHfH) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 1:26 | 2023-01-21 |  |

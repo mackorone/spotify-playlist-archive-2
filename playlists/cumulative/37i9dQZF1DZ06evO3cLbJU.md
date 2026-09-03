@@ -4,7 +4,7 @@
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 10 min
+71 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Rock Espacial \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/5cjD8QLx9te9CLMw9umUz2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:51 | 2025-03-13 |  |
 | [Rucho](https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 2:22 | 2023-11-10 | 2025-05-07 |
 | [Slippery People](https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Slippery People](https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru) | 5:40 | 2024-05-19 | 2026-09-02 |
+| [Slippery People](https://open.spotify.com/track/6D5BLgwD3eZ82e2nrAsqAE) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Slippery People](https://open.spotify.com/album/0YfopIJCKAAu8PZkUO9pOc) | 5:40 | 2026-09-03 |  |
 | [Sobredosis de Droga](https://open.spotify.com/track/5TjLFMFoiiIwSLDL1ObOWO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 2:19 | 2023-11-10 | 2024-05-11 |
 | [Sábado](https://open.spotify.com/track/77bPb4aA6Kllu8IbOi732c) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 3:08 | 2023-11-10 | 2024-11-24 |
 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 | 2024-11-24 |  |

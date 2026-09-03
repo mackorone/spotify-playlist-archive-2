@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1267,
+  "num_followers": 1277,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAG54Cg7MnkI9D2WyfpDJ9aJmTiDNYx",
+  "snapshot_id": "AAAG7sv6mBv+n6c6YlmapXR7jvbsz1Ol",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1055,6 +1055,118 @@
       "duration_ms": 136958,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA"
+    },
+    {
+      "added_at": "2026-09-02 20:39:11",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni"
+    },
+    {
+      "added_at": "2026-09-02 20:44:57",
+      "album": {
+        "name": "For You To Know",
+        "url": "https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo"
+      },
+      "artists": [
+        {
+          "name": "Groove Vultures",
+          "url": "https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj"
+        }
+      ],
+      "duration_ms": 209311,
+      "name": "For You To Know",
+      "url": "https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU"
+    },
+    {
+      "added_at": "2026-09-02 20:49:00",
+      "album": {
+        "name": "Outlaw Skirt",
+        "url": "https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7"
+      },
+      "artists": [
+        {
+          "name": "The Twinpims",
+          "url": "https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL"
+        }
+      ],
+      "duration_ms": 163606,
+      "name": "Outlaw Skirt",
+      "url": "https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W"
+    },
+    {
+      "added_at": "2026-09-02 20:49:51",
+      "album": {
+        "name": "The Language of the Voiceless",
+        "url": "https://open.spotify.com/album/4aXepZh3p0MkgFp3RC5ymm"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "The Language of the Voiceless",
+      "url": "https://open.spotify.com/track/6AOwKeyq9JumLlGlY4fneX"
+    },
+    {
+      "added_at": "2026-09-02 21:29:33",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5"
+      },
+      "artists": [
+        {
+          "name": "SINEAD",
+          "url": "https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94"
+        }
+      ],
+      "duration_ms": 150873,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT"
+    },
+    {
+      "added_at": "2026-09-02 21:32:20",
+      "album": {
+        "name": "Give Me a Break",
+        "url": "https://open.spotify.com/album/7LPBeqTDtBKfYsdpyYOF7E"
+      },
+      "artists": [
+        {
+          "name": "LIGHTNING GUSTO",
+          "url": "https://open.spotify.com/artist/3pb57MwbWCOuP4GXMq2ngs"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "Give Me a Break",
+      "url": "https://open.spotify.com/track/55kskxis0fWDhYoCbIWYDo"
+    },
+    {
+      "added_at": "2026-09-02 21:56:53",
+      "album": {
+        "name": "New West",
+        "url": "https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ryano",
+          "url": "https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT"
+        }
+      ],
+      "duration_ms": 191291,
+      "name": "Fallin' Up",
+      "url": "https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 69521,
+  "num_followers": 69558,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACQkameBtCeKVLoWU8g2rQl",
+  "snapshot_id": "apYVgAAAAADm4foGGApchLQtNf4D4U+5",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Libre",
-        "url": "https://open.spotify.com/album/5HhhlArbJJSHMOfEsdE52J"
+        "name": "Don Ismael",
+        "url": "https://open.spotify.com/album/3eBctKkHAKK88qa6XlZWut"
       },
       "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 205162,
-      "name": "Hombre Libre",
-      "url": "https://open.spotify.com/track/3SQMrUdOqjyQS78iJT8fKn"
+      "duration_ms": 158938,
+      "name": "Don Ismael",
+      "url": "https://open.spotify.com/track/2prcxod9IHy67emTpzKu47"
     },
     {
       "added_at": null,
@@ -163,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Ismael",
-        "url": "https://open.spotify.com/album/3eBctKkHAKK88qa6XlZWut"
+        "name": "Hombre Libre",
+        "url": "https://open.spotify.com/album/5HhhlArbJJSHMOfEsdE52J"
       },
       "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 158938,
-      "name": "Don Ismael",
-      "url": "https://open.spotify.com/track/2prcxod9IHy67emTpzKu47"
+      "duration_ms": 205162,
+      "name": "Hombre Libre",
+      "url": "https://open.spotify.com/track/3SQMrUdOqjyQS78iJT8fKn"
     },
     {
       "added_at": null,
@@ -227,6 +227,26 @@
       "duration_ms": 134336,
       "name": "Se Les Pelo El Ranchero",
       "url": "https://open.spotify.com/track/0aojeycz0KDO1ZHW2s2zP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Un D\u00eda",
+        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "S\u00f3lo Un D\u00eda",
+      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
     },
     {
       "added_at": null,
@@ -287,26 +307,6 @@
       "duration_ms": 161824,
       "name": "TMS",
       "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3lo Un D\u00eda",
-        "url": "https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "S\u00f3lo Un D\u00eda",
-      "url": "https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 136416,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
     },
     {
       "added_at": null,

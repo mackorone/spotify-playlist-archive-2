@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,445 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,478 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

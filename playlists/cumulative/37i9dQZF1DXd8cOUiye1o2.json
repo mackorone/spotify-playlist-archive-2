@@ -1469,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "Aur Aayenge (From \"The Revolutionaries\")",
+        "url": "https://open.spotify.com/album/4bDCiXLYjb9HmAMd8F9uNI"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163038,
+      "name": "Aur Aayenge (From \"The Revolutionaries\")",
+      "url": "https://open.spotify.com/track/37vGfloTuBBhG3Cn9nV6Na"
+    },
+    {
+      "album": {
         "name": "Aur Kya Chahiye",
         "url": "https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe"
       },
@@ -3802,6 +3828,36 @@
       "duration_ms": 241593,
       "name": "Chal Anjaane - From \"Batwara 1947\"",
       "url": "https://open.spotify.com/track/6BuhilvEP5X8G3tWFegekE"
+    },
+    {
+      "album": {
+        "name": "Babita Singh Reporting",
+        "url": "https://open.spotify.com/album/3bR6bHp4VVEN9etgBmBFoY"
+      },
+      "artists": [
+        {
+          "name": "digV",
+          "url": "https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK"
+        },
+        {
+          "name": "Ajay Jayanthi",
+          "url": "https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        },
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259038,
+      "name": "Chal Chhapaak",
+      "url": "https://open.spotify.com/track/5CpdvaNmQkXONp9b6gfb6U"
     },
     {
       "album": {
@@ -6776,7 +6832,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 174159,
       "name": "Fursat",
       "url": "https://open.spotify.com/track/5BsCCxp6jEOyWdsI86PbrU"
@@ -9182,7 +9238,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 289411,
       "name": "Ishq Tamasha",
       "url": "https://open.spotify.com/track/4xp2oaVZ4gjhV5wKepTilN"
@@ -10894,6 +10950,40 @@
       "duration_ms": 200052,
       "name": "Kaari Kaari",
       "url": "https://open.spotify.com/track/3AJgkXNeJCjYOt759OE6l6"
+    },
+    {
+      "album": {
+        "name": "Babita Singh Reporting",
+        "url": "https://open.spotify.com/album/3bR6bHp4VVEN9etgBmBFoY"
+      },
+      "artists": [
+        {
+          "name": "Ajay Jayanthi",
+          "url": "https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        },
+        {
+          "name": "Vidhya Gopal",
+          "url": "https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B"
+        },
+        {
+          "name": "Rubeena Khan",
+          "url": "https://open.spotify.com/artist/5h54kN4JwoYC7qxqL1Ck14"
+        },
+        {
+          "name": "Eslam Khan",
+          "url": "https://open.spotify.com/artist/2b0LyWrFB6oonWOV36mCxG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225043,
+      "name": "Kaay Kaay",
+      "url": "https://open.spotify.com/track/0w8xKVvUh6kWuhGRprwn59"
     },
     {
       "album": {
@@ -17901,7 +17991,7 @@
         },
         {
           "name": "Adrita",
-          "url": "https://open.spotify.com/artist/2CFiOAOQOrCQitXrEfpyRH"
+          "url": "https://open.spotify.com/artist/4ehEdwiTCKxm3pZ4WM4P0e"
         }
       ],
       "date_added": "2026-09-01",
@@ -18604,7 +18694,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 163915,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/2q7JlEbJtAaujw9w7FXt6v"
@@ -22644,7 +22734,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 202235,
       "name": "Tum Dekho Na",
       "url": "https://open.spotify.com/track/6ZH04ETWQzPsj5Pl5SYNJf"

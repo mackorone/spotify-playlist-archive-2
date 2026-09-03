@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397747,
+  "num_followers": 397754,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "The Ones We Seek",
-        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 274955,
-      "name": "The Ones We Seek",
-      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Say You'll Stay",
         "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 169993,
       "name": "Say You'll Stay",
       "url": "https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "The Ones We Seek",
+        "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 274955,
+      "name": "The Ones We Seek",
+      "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Never Felt The Rain (feat. FENNE)",
         "url": "https://open.spotify.com/album/5l1lpfVQcauzbECuyD5BxQ"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
       },
       "artists": [
         {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
         }
       ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -759,6 +743,22 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Illusion (feat. Tangarine) [acoustic]",
         "url": "https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
         "name": "Happy, Pt. 2",
         "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Muscle Shoals",
-        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Save It For Later",
         "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 208575,
       "name": "Not The One",
       "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Muscle Shoals",
+        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168433,
       "name": "What Makes A King",
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Brotherhood",
-        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
-    },
-    {
-      "added_at": "2026-08-17 13:11:32",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 145403,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-08-17 13:11:32",
+      "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2026-08-17 13:11:32",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-08-17 13:11:32",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
       "artists": [
         {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
         }
       ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2026-08-17 13:11:32",

@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 27291,
+  "num_followers": 27301,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABdyjlEUK/nbkVx8P5HX0+H",
+  "snapshot_id": "apYVgAAAAAADfJ7zLsQj5D9EnSbeWfdL",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irrenhaus",
-        "url": "https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 203599,
-      "name": "Irrenhaus",
-      "url": "https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Million Dreams",
         "url": "https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 187355,
       "name": "Million Dreams",
       "url": "https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irrenhaus",
+        "url": "https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 203599,
+      "name": "Irrenhaus",
+      "url": "https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6"
     },
     {
       "added_at": null,

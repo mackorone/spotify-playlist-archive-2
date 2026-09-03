@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 189120,
       "name": "Bang",
       "url": "https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy"
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Hyperballad - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/6YOgoaTuNryUPexyDH5esI"
+    },
+    {
+      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
@@ -622,6 +640,24 @@
       "duration_ms": 230346,
       "name": "Hysteric",
       "url": "https://open.spotify.com/track/5rtaBnrHSnGUFWb8UYRspA"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87080,
+      "name": "In Heaven - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0hHhSZVbkKEsfVcweDIDl3"
     },
     {
       "album": {
@@ -892,7 +928,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 177693,
       "name": "Mystery Girl",
       "url": "https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI"

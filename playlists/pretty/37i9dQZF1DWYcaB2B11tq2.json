@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 520847,
+  "num_followers": 520948,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Lo Peor de Mi",
         "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 280450,
       "name": "Lo Peor de Mi",
       "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2026-05-12 05:08:23",

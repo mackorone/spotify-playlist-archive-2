@@ -2,9 +2,9 @@
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 探索女性音樂人的精彩作品，收聽精選女歌手歌曲！Cover: 蘇慧倫
+> 探索女性音樂人的精彩作品，收聽精選女歌手歌曲！Cover: LAWA
 
-1,109 songs - 3 day 0 hr 22 min
+1,110 songs - 3 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [原諒](https://open.spotify.com/track/68t93R8cYeAKKfRZJl08Pw) | [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [心疼](https://open.spotify.com/album/2IUrMA8NJsJlNsFckhLBu0) | 4:26 | 2025-08-05 | 2025-09-03 |
 | [反覆拉扯](https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [反覆拉扯](https://open.spotify.com/album/00ZZJIk8UrLsl1cS0GHB0E) | 2:56 | 2025-08-05 | 2025-09-03 |
 | [只要你開心](https://open.spotify.com/track/4nCeJgyU5WcIDPC90qNQaN) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [只要你開心](https://open.spotify.com/album/0ToQwehgVrcNkg1C5GTrm4) | 3:44 | 2025-11-04 | 2026-01-15 |
-| [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 | 2026-04-07 |  |
+| [可不可以別讓風吹亂我的心](https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY) | [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [9OF9 ARCANA](https://open.spotify.com/album/6iqbRneVOIIJGbwHfUC9rS) | 4:00 | 2026-04-07 | 2026-09-03 |
 | [可不可以別讓風吹亂我的心](https://open.spotify.com/track/7KN1QAbbx3icKyXXXDWuGi) | [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe), [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [可不可以別讓風吹亂我的心](https://open.spotify.com/album/56aSp2vvMkJ93sxXQsi4eG) | 4:00 | 2026-01-06 | 2026-06-03 |
 | [可惜你不在](https://open.spotify.com/track/0H4eatQOon5nA8RIo8iGrW) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [Magic 戴愛玲](https://open.spotify.com/album/1Kw55IbZ6jJJl1XlTwSdyo) | 4:37 | 2025-01-07 | 2025-07-02 |
 | [可惜嗎](https://open.spotify.com/track/2IuMqyWON4u1v0XhpCkuip) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [可惜嗎](https://open.spotify.com/album/3e6whyqFyVtjTWvxEE8UGG) | 4:51 | 2025-03-04 | 2025-04-02 |
@@ -806,6 +806,7 @@
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-03-05 | 2024-04-03 |
 | [漢堡包](https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [漢堡包](https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt) | 3:21 | 2022-02-01 | 2023-11-30 |
 | [火大借過](https://open.spotify.com/track/7GMb9U34mKP3Yf59pRoFwW) | [余佩真](https://open.spotify.com/artist/6DHgvg8leMhBE7itUz8LgN) | [火大借過](https://open.spotify.com/album/5iq5Og6r8ZoR1tVXXaLaWx) | 4:03 | 2025-09-02 | 2025-10-01 |
+| [火花](https://open.spotify.com/track/005eESnSIcR99N474aIINN) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [火花](https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb) | 4:23 | 2026-09-02 |  |
 | [灰姑娘的眼淚](https://open.spotify.com/track/6MIyKhP7MqtvYDmpfovRmR) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp) | 4:38 | 2023-05-02 | 2023-06-07 |
 | [炒雞喜歡你](https://open.spotify.com/track/3G7qxNluF8hqNbwaeWFL1k) | [Yuki Hsu](https://open.spotify.com/artist/06w51RzkHkpkp2x09REY7v) | [光致．蛻變](https://open.spotify.com/album/72qXQjXcbEENF5T2ZhCGzv) | 3:27 | 2025-01-07 | 2025-02-05 |
 | [炙愛 \- 女聲版](https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Am I Who I Am](https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1) | 3:01 | 2022-11-30 | 2025-03-05 |

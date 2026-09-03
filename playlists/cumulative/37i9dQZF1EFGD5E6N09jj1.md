@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-280 songs - 15 hr 5 min
+281 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Be Right Here](https://open.spotify.com/track/6Yk4HTvs1Ww41l4c7iyBlH) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Be Right Here](https://open.spotify.com/album/2b9FyXvupIJe3lFCc8TGOv) | 3:11 | 2023-12-30 |  |
 | [Beg For It](https://open.spotify.com/track/5lVabPJOwU8e6sAptZQs9Y) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reclassified](https://open.spotify.com/album/4z4Pgh0fNUQkmGP4K1XxDb) | 2:58 | 2023-12-30 |  |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2023-12-30 |  |
+| [Bel Air](https://open.spotify.com/track/6G38IZWN4qvVqxavzepr0I) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 3:30 | 2026-09-02 |  |
 | [Black Roses](https://open.spotify.com/track/5Nx7AnBwrM1tyS0ciuIvv9) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:28 | 2025-04-18 |  |
 | [Black Roses](https://open.spotify.com/track/6KHaAM65eCWE0KGZCoqfFi) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:28 | 2023-12-30 | 2025-04-19 |
 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 | 2023-12-30 |  |

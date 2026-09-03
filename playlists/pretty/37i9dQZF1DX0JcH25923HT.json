@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 603100,
+  "num_followers": 603231,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -2051,6 +2051,34 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
+        "url": "https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 244971,
+      "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
+      "url": "https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
         "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
       },
@@ -2079,34 +2107,6 @@
       "duration_ms": 236965,
       "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
       "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
-        "url": "https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        }
-      ],
-      "duration_ms": 244971,
-      "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
-      "url": "https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu"
     },
     {
       "added_at": "2026-08-11 14:10:49",

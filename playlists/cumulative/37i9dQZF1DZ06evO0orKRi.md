@@ -4,7 +4,7 @@
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 4 min
+78 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Give Me Room](https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:54 | 2023-06-17 |  |
 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 | 2023-06-17 | 2026-09-02 |
 | [Haulin' For The Double 'T'](https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:42 | 2023-06-17 |  |
+| [He's A Good Bloke When He's Sober](https://open.spotify.com/track/5hhMH3eWhfR5bgt1BgF8Up) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 3:37 | 2026-09-03 |  |
 | [Highway Fever \- 1992 Digital Remaster](https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [To Whom It May Concern](https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto) | 2:49 | 2025-07-18 |  |
 | [Highway Fever \- 2009 Digital Remaster](https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:48 | 2023-06-17 | 2025-07-12 |
 | [I Love to Have a Dance with Dorothy](https://open.spotify.com/track/4gNCBZzCfdDpxjq5RczDMG) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP) | 2:34 | 2025-05-27 | 2025-08-17 |

@@ -22943,6 +22943,24 @@
     },
     {
       "album": {
+        "name": "My aloe",
+        "url": "https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57"
+      },
+      "artists": [
+        {
+          "name": "Mimi Moon",
+          "url": "https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "leaf",
+      "url": "https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua"
+    },
+    {
+      "album": {
         "name": "Leaving Babylon Behind",
         "url": "https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG"
       },
@@ -25140,6 +25158,24 @@
       "duration_ms": 270127,
       "name": "Mash It Up",
       "url": "https://open.spotify.com/track/4nlS83eTficExFLaRatoW4"
+    },
+    {
+      "album": {
+        "name": "Chela",
+        "url": "https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F"
+      },
+      "artists": [
+        {
+          "name": "KraHbichT",
+          "url": "https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435721,
+      "name": "Mass Apotheosis",
+      "url": "https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH"
     },
     {
       "album": {
@@ -28308,6 +28344,28 @@
       "duration_ms": 149416,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz"
+    },
+    {
+      "album": {
+        "name": "New York City - Deluxe",
+        "url": "https://open.spotify.com/album/3NttzlbI9zLLOtmkeHdzXX"
+      },
+      "artists": [
+        {
+          "name": "Peter Malick",
+          "url": "https://open.spotify.com/artist/6T38e05zaTbse5F2gOBcKj"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307160,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/508BlNtpbo6KaJF0cTplwt"
     },
     {
       "album": {
@@ -37143,6 +37201,24 @@
     },
     {
       "album": {
+        "name": "Fresh Beats",
+        "url": "https://open.spotify.com/album/2AmVDeeaizA342YJPuq08F"
+      },
+      "artists": [
+        {
+          "name": "Brandon Wolf Hill Beats",
+          "url": "https://open.spotify.com/artist/5jmdyJX8m6wyUCs8e6wDaJ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173611,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/3XNqldYiG9yjybANACOLea"
+    },
+    {
+      "album": {
         "name": "Elettricit\u00e0 (Radio Version)",
         "url": "https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A"
       },
@@ -37788,6 +37864,24 @@
       "duration_ms": 230050,
       "name": "Spiral Dreams",
       "url": "https://open.spotify.com/track/0Xa5kZ6d8Jq1aRjYEcUvGc"
+    },
+    {
+      "album": {
+        "name": "Spiralling",
+        "url": "https://open.spotify.com/album/2bAhCw8O8n33HUdmzWS9Te"
+      },
+      "artists": [
+        {
+          "name": "Woodshed Collective",
+          "url": "https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240873,
+      "name": "Spiralling",
+      "url": "https://open.spotify.com/track/3L7c36jPHgRGB3kzHyqwSz"
     },
     {
       "album": {

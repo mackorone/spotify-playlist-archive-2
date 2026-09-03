@@ -4,7 +4,7 @@
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Theo Rose
 
-573 songs - 1 day 3 hr 10 min
+574 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 | 2025-04-01 | 2025-07-02 |
 | [Luna și Stelele](https://open.spotify.com/track/56Oz8aheDELcGHiAEr4NSy) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Luna și Stelele](https://open.spotify.com/album/7INqZNhTaZEl8rcNWzXo2k) | 2:58 | 2024-11-05 | 2024-12-05 |
 | [LÂNGĂ TINE E FAIN](https://open.spotify.com/track/4mNnUpzpOMqBdnew4wbB9x) | [Kamelia](https://open.spotify.com/artist/5eTYZk0BrCzlQ1JiLRSwW1), [George Hora](https://open.spotify.com/artist/4uHCVd0E4sjWhy6ipMfALw) | [LÂNGĂ TINE E FAIN](https://open.spotify.com/album/3MD8csHCBSfPrHcwxuSikh) | 2:46 | 2025-01-07 | 2025-02-05 |
+| [M\-am Trezit Aici](https://open.spotify.com/track/3F6ysAAtQroeGmfWCVUVzL) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [M\-am Trezit Aici](https://open.spotify.com/album/1sLlpst1Nd6yQE8see9X89) | 3:05 | 2026-09-01 |  |
 | [Ma Bebe](https://open.spotify.com/track/6YB4SUZCSTJuAzRY5hwApq) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy), [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g) | [Ma Bebe](https://open.spotify.com/album/71vurgYIkjbo2hLVDeHf2w) | 2:40 | 2025-11-04 | 2026-01-15 |
 | [Macarena](https://open.spotify.com/track/0DCxlfakEyG4HTzTRGhVVB) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Macarena](https://open.spotify.com/album/1Aq0XSnCN8yn2FuFFp6bFh) | 2:26 | 2024-12-04 | 2026-04-08 |
 | [made you cry](https://open.spotify.com/track/1Dd6rQWeJCWRDULkmN5ioJ) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [made you cry](https://open.spotify.com/album/35jHspHi3rG9PUkuEPhgjY) | 2:40 | 2025-12-03 | 2026-01-15 |

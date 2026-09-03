@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Sarodi",
+  "description": "The best new music by independent artists and labels in India. Cover - Keane Cotta",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 247500,
       "name": "Batohi",
       "url": "https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr"
@@ -4364,6 +4364,28 @@
       "duration_ms": 197007,
       "name": "Berukh Hai Hum",
       "url": "https://open.spotify.com/track/6ZQNURIWEs7XMVB93nmM5a"
+    },
+    {
+      "album": {
+        "name": "Besharam Behaya",
+        "url": "https://open.spotify.com/album/5aQ3A46AF1n9LrHvAbByIo"
+      },
+      "artists": [
+        {
+          "name": "Spryk",
+          "url": "https://open.spotify.com/artist/16U1VoCTUdHaTWUMKx2dUM"
+        },
+        {
+          "name": "Gunda",
+          "url": "https://open.spotify.com/artist/7qviR9RWRL1V3aM0yQ8V0D"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138954,
+      "name": "Besharam Behaya",
+      "url": "https://open.spotify.com/track/6P9cDk7s7PWu5TM5EbxOfc"
     },
     {
       "album": {
@@ -10548,7 +10570,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 186124,
       "name": "For life",
       "url": "https://open.spotify.com/track/3JoRKuCLXiRMrj6V0QCtm1"
@@ -17834,7 +17856,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 234652,
       "name": "Kash Tum",
       "url": "https://open.spotify.com/track/36uQHtHRzkUu56QLRJUyOh"
@@ -19368,6 +19390,32 @@
       "duration_ms": 207741,
       "name": "Kiran",
       "url": "https://open.spotify.com/track/3cPDGhfU49Q3deykmayjDb"
+    },
+    {
+      "album": {
+        "name": "Kirchiya",
+        "url": "https://open.spotify.com/album/4wrOVkjYCv5lzPjBz8BW8x"
+      },
+      "artists": [
+        {
+          "name": "Sumit",
+          "url": "https://open.spotify.com/artist/3gVIh8xL73AYFWWxkhx0Li"
+        },
+        {
+          "name": "Barnill",
+          "url": "https://open.spotify.com/artist/5nhvlenyPf1GiQ81ndYkdk"
+        },
+        {
+          "name": "Priyankshu Aryya",
+          "url": "https://open.spotify.com/artist/0UwTpVmC2zkNze1ZFef0IF"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274016,
+      "name": "Kirchiya",
+      "url": "https://open.spotify.com/track/0gMWCuqMRciygqlt5zOFfE"
     },
     {
       "album": {
@@ -25284,7 +25332,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 348000,
       "name": "Neer Bharan",
       "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
@@ -26371,6 +26419,28 @@
     },
     {
       "album": {
+        "name": "Pahado Ki Sard Hawa",
+        "url": "https://open.spotify.com/album/1ekYTk7JlId97HhmwtAYKC"
+      },
+      "artists": [
+        {
+          "name": "Rawmats",
+          "url": "https://open.spotify.com/artist/4KXoWPrIQ7PSI7HtIBHrRa"
+        },
+        {
+          "name": "Krishna Singh",
+          "url": "https://open.spotify.com/artist/4ifdSiZUjHXOn3rQ3Od6R8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170886,
+      "name": "Pahado Ki Sard Hawa",
+      "url": "https://open.spotify.com/track/3m083t4HzUoU5jv5EQzIr8"
+    },
+    {
+      "album": {
         "name": "Pahadon Mein",
         "url": "https://open.spotify.com/album/6nO8SSVHoUq9GiOGUl1RK6"
       },
@@ -27412,6 +27482,28 @@
       "duration_ms": 219500,
       "name": "Phir se",
       "url": "https://open.spotify.com/track/6B7hsVfPBpgLuAiIJQy418"
+    },
+    {
+      "album": {
+        "name": "Phir Se Milenge",
+        "url": "https://open.spotify.com/album/1ys5zyIGMOmtaj5YsGEtDb"
+      },
+      "artists": [
+        {
+          "name": "Aeymanntara",
+          "url": "https://open.spotify.com/artist/6BIZ9742moGoJcAZFv7GMM"
+        },
+        {
+          "name": "Amar Kashyap",
+          "url": "https://open.spotify.com/artist/5BGz5Hm8d5579HQOhgbwtM"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Phir Se Milenge",
+      "url": "https://open.spotify.com/track/77D0gduGbVpmLLeqZpXEP1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166968,
+  "num_followers": 166983,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/7nyQq9UwNu6U3PXihBCI5t"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/1AZi5pbLqIP0uHt1iiVLMH"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 150653,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "U & I",
-        "url": "https://open.spotify.com/album/7nyQq9UwNu6U3PXihBCI5t"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "U & I",
-      "url": "https://open.spotify.com/track/1AZi5pbLqIP0uHt1iiVLMH"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -471,26 +471,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Metaphors",
-        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
-      },
-      "artists": [
-        {
-          "name": "Benny L",
-          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
-        },
-        {
-          "name": "Cleveland Watkiss",
-          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
-        }
-      ],
-      "duration_ms": 570514,
-      "name": "Metaphors",
-      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Cut Em Down",
         "url": "https://open.spotify.com/album/6BDTKombhaeXnr5ZWHWQY6"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 195000,
       "name": "Cut Em Down",
       "url": "https://open.spotify.com/track/1G5w9cbAUXuI1wZRoqsiBM"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Metaphors",
+        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
+      },
+      "artists": [
+        {
+          "name": "Benny L",
+          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
+        },
+        {
+          "name": "Cleveland Watkiss",
+          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
+        }
+      ],
+      "duration_ms": 570514,
+      "name": "Metaphors",
+      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -535,30 +535,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Strong Like Lion",
-        "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "Stylo G",
-          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
-        },
-        {
-          "name": "Lady Leshurr",
-          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Strong Like Lion",
-      "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Winner",
         "url": "https://open.spotify.com/album/6zyPEuxwgovdnQQAAhv5SQ"
       },
@@ -583,18 +559,26 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "One Last Tear",
-        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+        "name": "Strong Like Lion",
+        "url": "https://open.spotify.com/album/2Cs03yrg3fBzjMlw2YTv4x"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Lady Leshurr",
+          "url": "https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF"
         }
       ],
-      "duration_ms": 140232,
-      "name": "One Last Tear",
-      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
+      "duration_ms": 156000,
+      "name": "Strong Like Lion",
+      "url": "https://open.spotify.com/track/16PLoogX8O3nOQh1NmKG7s"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -619,6 +603,22 @@
       "duration_ms": 200500,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/323rqeIcQxJCc0gZjYegUN"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "One Last Tear",
+        "url": "https://open.spotify.com/album/2stkaLcP9D1jPlKtDJkjGm"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "One Last Tear",
+      "url": "https://open.spotify.com/track/4iDMzzJstoH44cNx2pzuma"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Under The Lights",
-        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Under The Lights",
-      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Legit",
         "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 181028,
       "name": "Legit",
       "url": "https://open.spotify.com/track/2wNNglZs6fWPNZjyOwATos"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Shots",
+        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "OH YEAH",
         "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Shots",
-        "url": "https://open.spotify.com/album/6sMdtZ7XvgQkKXLN8GOaYJ"
-      },
-      "artists": [
-        {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Shots",
-      "url": "https://open.spotify.com/track/6n2dsqVfYlSCAcTqOkS61R"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
       },
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Do You",
+        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
+      },
+      "artists": [
+        {
+          "name": "Upgrade (UK)",
+          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Dem Not Ready",
         "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 202970,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/63pDrdeYyMZ9kmMtzRB8Uj"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Do You",
-        "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
-      },
-      "artists": [
-        {
-          "name": "Upgrade (UK)",
-          "url": "https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Send Dem Out (feat. Capo Lee)",
+        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Send Dem Out (feat. Capo Lee)",
+      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Next Day Cleaning",
         "url": "https://open.spotify.com/album/1G2i1b1GgPMsoWXfMQDT9g"
       },
@@ -1459,30 +1483,6 @@
       "duration_ms": 194485,
       "name": "Dis Badman - BAKEY Remix",
       "url": "https://open.spotify.com/track/7dFdyPT5T9ynBe9raSMn2u"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Send Dem Out (feat. Capo Lee)",
-        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Send Dem Out (feat. Capo Lee)",
-      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Murky",
-        "url": "https://open.spotify.com/album/5awH4uJjSG0mymBMlKpB0f"
-      },
-      "artists": [
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        },
-        {
-          "name": "Van Wilder",
-          "url": "https://open.spotify.com/artist/1b2mQwNasnH274XTxYPMUO"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Murky",
-      "url": "https://open.spotify.com/track/5l7r7iVhr8MzjFrkqhbBzE"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Vigilante Kru",
         "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 214588,
       "name": "Vigilante Kru",
       "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Murky",
+        "url": "https://open.spotify.com/album/5awH4uJjSG0mymBMlKpB0f"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        },
+        {
+          "name": "Van Wilder",
+          "url": "https://open.spotify.com/artist/1b2mQwNasnH274XTxYPMUO"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Murky",
+      "url": "https://open.spotify.com/track/5l7r7iVhr8MzjFrkqhbBzE"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Run The Track",
+        "url": "https://open.spotify.com/album/6R1CDiAN555zJ0MD9JuFAC"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        }
+      ],
+      "duration_ms": 161413,
+      "name": "Run The Track",
+      "url": "https://open.spotify.com/track/2wCmgp46u0jaUgVccieNRF"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Mixtape 3: #Bars",
         "url": "https://open.spotify.com/album/5txos8riEKfpxCgXJdmVdy"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 192857,
       "name": "Hold It Down",
       "url": "https://open.spotify.com/track/6PLIpSkUhvggHJb4vzeHUa"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Run The Track",
-        "url": "https://open.spotify.com/album/6R1CDiAN555zJ0MD9JuFAC"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        }
-      ],
-      "duration_ms": 161413,
-      "name": "Run The Track",
-      "url": "https://open.spotify.com/track/2wCmgp46u0jaUgVccieNRF"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 161641,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Snakebite",
         "url": "https://open.spotify.com/album/6VtiEiTYQ29acY098UhKrG"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 223542,
       "name": "Snakebite",
       "url": "https://open.spotify.com/track/2qU8YCJQbCxPayPa8CZGHE"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 161641,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Step Up",
-        "url": "https://open.spotify.com/album/30XK7hgmO5AI6o8xlX7hyU"
-      },
-      "artists": [
-        {
-          "name": "DJ Jackum",
-          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
-        }
-      ],
-      "duration_ms": 238195,
-      "name": "Step Up",
-      "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "DAY ONE (Edits)",
         "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 211885,
       "name": "CHARGIE - Rendah Edit",
       "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/30XK7hgmO5AI6o8xlX7hyU"
+      },
+      "artists": [
+        {
+          "name": "DJ Jackum",
+          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
+        }
+      ],
+      "duration_ms": 238195,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
     },
     {
       "added_at": "2026-08-27 23:00:38",

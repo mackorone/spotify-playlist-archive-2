@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Cedar",
+        "url": "https://open.spotify.com/album/1rEqvJGEDnhAZ2hvsyzhpx"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/4RPXl1ny7eosyP1y7YlMuC"
+    },
+    {
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/046UDQYp92ZrRdQpOMc30n"
       },
@@ -1104,6 +1122,24 @@
       "duration_ms": 216560,
       "name": "Cloud Shadows",
       "url": "https://open.spotify.com/track/0KJ8zvBX7nSC12M1gTZNxj"
+    },
+    {
+      "album": {
+        "name": "Cloudgaze",
+        "url": "https://open.spotify.com/album/7yVLlGcIToRjLtR2aZxlSX"
+      },
+      "artists": [
+        {
+          "name": "Toni Ludwig-Grapha\u00fcs",
+          "url": "https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187059,
+      "name": "Cloudgaze",
+      "url": "https://open.spotify.com/track/4Ju8S5l7FJdgX6JYJKrCBd"
     },
     {
       "album": {
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 152000,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/5xZlldHYyU7xeQXzJKwpVF"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 144119,
       "name": "Grateful Mind",
       "url": "https://open.spotify.com/track/3WZl8qAYCJWKhaN5wog2OG"
@@ -2706,7 +2742,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 106375,
       "name": "latent",
       "url": "https://open.spotify.com/track/6xGYELSExpPI4kVX6Yt5gY"
@@ -3156,7 +3192,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 143464,
       "name": "Monsoons",
       "url": "https://open.spotify.com/track/6G2KWnp5o4V6nb7eqkb8zy"
@@ -3577,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/3PaokbWqzprU5NvY9cmHCr"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/2PtLGbF6SA4FM7YY6uyMg1"
+    },
+    {
+      "album": {
         "name": "Philosophy of Mind",
         "url": "https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG"
       },
@@ -3660,7 +3714,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 170046,
       "name": "Purified Senses",
       "url": "https://open.spotify.com/track/3ryTyiJWGjeXkOJ95PyUAI"
@@ -3826,6 +3880,24 @@
       "duration_ms": 153634,
       "name": "Rain Dreams",
       "url": "https://open.spotify.com/track/4xQqw7SczmmHPCJFm4zC8c"
+    },
+    {
+      "album": {
+        "name": "Rain Drones",
+        "url": "https://open.spotify.com/album/4eZ4bHwRaUqzZBVXbwXXoD"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Rain Drones",
+      "url": "https://open.spotify.com/track/0rdXmSHQcubaNQJFUnBAwi"
     },
     {
       "album": {
@@ -4164,7 +4236,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 244000,
       "name": "Returning to the Moment (in the Rain)",
       "url": "https://open.spotify.com/track/3UqcyeFWIvvZRp8gHvqzsH"
@@ -4200,7 +4272,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 177374,
       "name": "Ripple Veil",
       "url": "https://open.spotify.com/track/5KFoneRQal7k83hviDUnCJ"
@@ -4817,6 +4889,42 @@
     },
     {
       "album": {
+        "name": "Storm Gazing",
+        "url": "https://open.spotify.com/album/41tAOJwItqeBGSSlFHqhlK"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Storm Gazing",
+      "url": "https://open.spotify.com/track/15bE1vmbsJAX7k9QWFYkVw"
+    },
+    {
+      "album": {
+        "name": "Stratus Silence",
+        "url": "https://open.spotify.com/album/5QtnR25xXW0tYb4OqRut62"
+      },
+      "artists": [
+        {
+          "name": "Sullen Sky",
+          "url": "https://open.spotify.com/artist/0ptQgQTBR2qUJzNVSrkBQO"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181772,
+      "name": "Stratus Silence",
+      "url": "https://open.spotify.com/track/3cAQd65j4UpYIR9iOZ6AJU"
+    },
+    {
+      "album": {
         "name": "Summer Rain",
         "url": "https://open.spotify.com/album/2USskpfI3GbbosrGK1D6RZ"
       },
@@ -5152,7 +5260,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 170892,
       "name": "thoughts",
       "url": "https://open.spotify.com/track/72mRvY4UR5IszoPLtFHnKD"
@@ -5357,6 +5465,24 @@
     },
     {
       "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/5LsjAhFQfDEepUuGFYYbfR"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169999,
+      "name": "Unfolding",
+      "url": "https://open.spotify.com/track/5TVNtWDioPMh0P9fQou0qp"
+    },
+    {
+      "album": {
         "name": "Unidad (528Hz)",
         "url": "https://open.spotify.com/album/1F1c3YXUFUh6ypFTt4KvbA"
       },
@@ -5408,6 +5534,24 @@
       "duration_ms": 158582,
       "name": "Velora",
       "url": "https://open.spotify.com/track/7EOw4qInUepF9gZTPJj1TK"
+    },
+    {
+      "album": {
+        "name": "Velvet Galaxy",
+        "url": "https://open.spotify.com/album/0AJxage8llQEY5dn7ZOp6D"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Velvet Galaxy",
+      "url": "https://open.spotify.com/track/1KNsPl7caLWB4LpYZGbNa8"
     },
     {
       "album": {

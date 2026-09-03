@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
@@ -903,6 +921,28 @@
     },
     {
       "album": {
+        "name": "MINI SKIRT WARRIOR",
+        "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202651,
+      "name": "girls will be girls (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -1143,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1176,7 +1238,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 177173,
       "name": "Hvnly (feat. JIHYO)",
       "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
@@ -1248,7 +1310,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 217946,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
@@ -1872,7 +1934,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 210600,
       "name": "NIGHT DANCER",
       "url": "https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX"
@@ -1912,7 +1974,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 178477,
       "name": "no more regrets",
       "url": "https://open.spotify.com/track/7lgx7t5ZLkdOjiOAjSx9d6"
@@ -2072,6 +2134,28 @@
       "duration_ms": 200889,
       "name": "Please Me",
       "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "album": {
+        "name": "Pretty Eyes",
+        "url": "https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189469,
+      "name": "Pretty Eyes (feat. FLO)",
+      "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
     },
     {
       "album": {

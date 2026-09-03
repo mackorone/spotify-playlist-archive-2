@@ -3087,6 +3087,28 @@
     },
     {
       "album": {
+        "name": "Am I Dreaming",
+        "url": "https://open.spotify.com/album/6Kyr2QhnMkRUrhybeydroX"
+      },
+      "artists": [
+        {
+          "name": "Poolhaus",
+          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
+        },
+        {
+          "name": "Beni Hana",
+          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Am I Dreaming",
+      "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
+    },
+    {
+      "album": {
         "name": "Am I Enough",
         "url": "https://open.spotify.com/album/42Ov4DbHkVAtxTKGLkjCjJ"
       },
@@ -14376,6 +14398,28 @@
       "duration_ms": 218437,
       "name": "Dancing & Crying",
       "url": "https://open.spotify.com/track/4GMHG9W3ZPjICGYH1O8mVm"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Unknown",
+        "url": "https://open.spotify.com/album/2sRKHWY18joMLcf1PtEgDB"
+      },
+      "artists": [
+        {
+          "name": "Blossom Hill",
+          "url": "https://open.spotify.com/artist/1XDRiF92Udd46NuFLTKnIb"
+        },
+        {
+          "name": "aint about me",
+          "url": "https://open.spotify.com/artist/0pRD3uRIaAwqUvvD1lOkMK"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228632,
+      "name": "Dancing With The Unknown",
+      "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
     },
     {
       "album": {
@@ -29818,7 +29862,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 151153,
       "name": "I Can Make You (Feel Good)",
       "url": "https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu"
@@ -44748,7 +44792,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 183797,
       "name": "Onda 7",
       "url": "https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70"
@@ -47110,6 +47154,28 @@
       "duration_ms": 251960,
       "name": "Pied Piper",
       "url": "https://open.spotify.com/track/6i0QKX6wnpt9nMycdaSEKz"
+    },
+    {
+      "album": {
+        "name": "Pile Up",
+        "url": "https://open.spotify.com/album/1VbaE3ZQQmZj0lqkZQeHXn"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        },
+        {
+          "name": "RISCAT",
+          "url": "https://open.spotify.com/artist/6goXtuLYgacfLbAxCq0oye"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200643,
+      "name": "Pile Up",
+      "url": "https://open.spotify.com/track/0M1pZHTJEJOIou6Tutsq4p"
     },
     {
       "album": {
@@ -53978,7 +54044,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 197109,
       "name": "Smash Chick",
       "url": "https://open.spotify.com/track/2Wu0SaCGEmQne7A2ul3cBn"
@@ -65520,6 +65586,24 @@
       "duration_ms": 235476,
       "name": "Watch That Tongue",
       "url": "https://open.spotify.com/track/6o2XzOSxZTZwup8tqX0PXW"
+    },
+    {
+      "album": {
+        "name": "Watching Me",
+        "url": "https://open.spotify.com/album/2cAVThPltJrgKROgd4KcPB"
+      },
+      "artists": [
+        {
+          "name": "Miro (AR)",
+          "url": "https://open.spotify.com/artist/13uRSbjdNhmJbQwpUCtqYJ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192723,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/2a28OspY80WeudpFUro4wq"
     },
     {
       "album": {

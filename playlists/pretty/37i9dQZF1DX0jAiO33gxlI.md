@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: VANDAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,960 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,948 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 56 | [Rewind](https://open.spotify.com/track/662AR0cLZ2ME9V0nK59y2r) | [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Rewind](https://open.spotify.com/album/0B1cCh61xTE9E64Z5lWM0o) | 2:40 |
 | 57 | [COMO Q OFUSCA O BRILHO?](https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [COMO Q OFUSCA O BRILHO? \(STUDIO\#9\)](https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6) | 2:16 |
 | 58 | [Uma Rapper Gangster](https://open.spotify.com/track/5woiLYYNtgLJHI9ij3l3BY) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Chris Silva](https://open.spotify.com/artist/0GldIdq1mfJ4q4BiUvxRMy) | [Uma Rapper Gangster](https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM) | 3:27 |
-| 59 | [Bungee Jump](https://open.spotify.com/track/4MR4cil2SSrNnTCWBLNnyu) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Heitor Gomes](https://open.spotify.com/artist/3aAnnSl8dwEO2UvxptirhZ) | [Bungee Jump](https://open.spotify.com/album/6SIKq1CsQRXqIAomcyn6Po) | 3:00 |
+| 59 | [Bungee Jump](https://open.spotify.com/track/4MR4cil2SSrNnTCWBLNnyu) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Heitor Gomes](https://open.spotify.com/artist/3aAnnSl8dwEO2UvxptirhZ) | [Bungee Jump](https://open.spotify.com/album/6SIKq1CsQRXqIAomcyn6Po) | 2:59 |
 | 60 | [Nosso Brilho](https://open.spotify.com/track/0eKKHpdAGTaKYy2150ihb4) | [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [Subverse Club](https://open.spotify.com/artist/58y8qlSnLzaW8bkKyrFNYQ) | [BR Wave \- Vol\. 2](https://open.spotify.com/album/2Hpt6nIZ9apGwhSJq7sMVU) | 1:38 |
 | 61 | [ALPHA](https://open.spotify.com/track/3FEFoD95hvRqtXzACABki0) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr), [Malik](https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK) | [ALPHA](https://open.spotify.com/album/4ACtY34Pl1FI17U7z3nskX) | 2:35 |
 | 62 | [Putaria no Boombap](https://open.spotify.com/track/7vddjt22PeLxiU54BGXOQJ) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [CACAU CHUU](https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [MC Lobão](https://open.spotify.com/artist/4UsXonEelicgeKAD7MTN7F) | [BASE: Mandelão Futurista](https://open.spotify.com/album/6U1cBGt0r6IPJKbL9DSH3j) | 4:00 |

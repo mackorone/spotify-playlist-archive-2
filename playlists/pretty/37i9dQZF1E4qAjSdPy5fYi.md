@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, Joshua Lanuarii, UrvTek and more
+> With SPARKLEWOLF RADIO, UrvTek, Learke and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 684 likes - 50 songs - 2 hr 18 min
 

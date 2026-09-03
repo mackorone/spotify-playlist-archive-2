@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. GRECAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,903 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,911 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 15 | [En Pompa](https://open.spotify.com/track/0IWjoDzB7kKXwrbhXhFxyV) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [POR SI MUERO MAÑANA](https://open.spotify.com/album/08p0HYnhmDt1GE54sHC8nu) | 3:10 |
 | 16 | [Rayito de luz](https://open.spotify.com/track/7yIlHa3Wa45snxPGK9zYtg) | [Dirty Porko](https://open.spotify.com/artist/4JjXXU4m428s8xODTaVuNV), [Folss](https://open.spotify.com/artist/2gOv3zIMMi4v0O4QQ66Kzj) | [Rayito de luz](https://open.spotify.com/album/1faxCgqzf1WwbBJynevHmU) | 2:49 |
 | 17 | [TiramiSUUU](https://open.spotify.com/track/3wCjI0GFGyJAxR1NrQR0Oj) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4) | [TiramiSUUU](https://open.spotify.com/album/2N2uXjxHjFC6yzG1JtUuWt) | 2:21 |
-| 18 | [AC Black Flag Resynced](https://open.spotify.com/track/2mSJNIzdmibHEWiURgqrvd) | [Zarcort](https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6) | [AC Black Flag Resynced](https://open.spotify.com/album/3q1IaxIZfselJHae7MzLxT) | 2:47 |
+| 18 | [AC Black Flag Resynced](https://open.spotify.com/track/2mSJNIzdmibHEWiURgqrvd) | [Zarcort](https://open.spotify.com/artist/3ljuRRLVJKgXJKO0xNqzi6), [VIVIETTE](https://open.spotify.com/artist/1pEDNUg8HjAtvEUU8jXlSE) | [AC Black Flag Resynced](https://open.spotify.com/album/3q1IaxIZfselJHae7MzLxT) | 2:47 |
 | 19 | [Mírame](https://open.spotify.com/track/4pLUvROI1M0yGjv18emZeI) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Jime](https://open.spotify.com/artist/0bUcULI0fhYFY8rfhBqm47) | [Mírame](https://open.spotify.com/album/5Qxsq3C0PFNpnIXg4qC5z5) | 2:57 |
 | 20 | [CHEKI](https://open.spotify.com/track/5d7AXylq0DJxs5T3RGhn9v) | [Los Diozes](https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc), [Xokas](https://open.spotify.com/artist/2mEPPNWEQm7d7yhYSRlKRf) | [MESÓN MASÓN](https://open.spotify.com/album/2EW1VjUpqyOLoqIMoc0xt1) | 3:19 |
 | 21 | [No Hard Feelings](https://open.spotify.com/track/5AlUy9BAKk0MJNiRIZgAst) | [Sara Socas](https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [No Hard Feelings](https://open.spotify.com/album/5HFqh7ByxzWqQG41FFg6zj) | 2:29 |

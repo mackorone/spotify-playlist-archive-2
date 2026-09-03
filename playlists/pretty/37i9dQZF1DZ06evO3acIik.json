@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65806,
+  "num_followers": 65818,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADx2LGZTXZszLPfrL5cguls",
+  "snapshot_id": "apYVgAAAAADUkgaVFjdIdoOyNx4ZwGFX",
   "tracks": [
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Beautiful.",
-        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
+        "name": "CHARLOTTE",
+        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 182857,
-      "name": "3:35am",
-      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
+      "duration_ms": 80945,
+      "name": "God or The Devil?",
+      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0"
+        "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 80945,
-      "name": "God or The Devil?",
-      "url": "https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G"
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC"
     },
     {
       "added_at": null,

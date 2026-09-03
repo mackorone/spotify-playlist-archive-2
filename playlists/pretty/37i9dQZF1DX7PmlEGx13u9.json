@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 64144,
+  "num_followers": 64147,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
+        "name": "For The Streets",
+        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 145605,
+      "name": "For The Streets",
+      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -759,18 +775,22 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
-        "name": "For The Streets",
-        "url": "https://open.spotify.com/album/1O17dsUsuI7Rb423Pxj1y2"
+        "name": "COMING HOME",
+        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 145605,
-      "name": "For The Streets",
-      "url": "https://open.spotify.com/track/5rbCN6PGBWjYt8aMxftGpX"
+      "duration_ms": 181646,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/6qltYwOOeBPILmT9qYuAYd"
     },
     {
       "added_at": "2026-03-17 14:32:26",
@@ -791,26 +811,6 @@
       "duration_ms": 225444,
       "name": "BAD BITCHES",
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
-        "name": "COMING HOME",
-        "url": "https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 181646,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/6qltYwOOeBPILmT9qYuAYd"
     },
     {
       "added_at": "2026-03-17 14:32:26",

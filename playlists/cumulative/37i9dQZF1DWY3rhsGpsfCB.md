@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,004 songs - 2 day 3 hr 34 min
+1,005 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-21 | 2023-09-29 |
 | [Henny Talk](https://open.spotify.com/track/468SYRGypmd3GEQuTrMOiN) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Henny Talk](https://open.spotify.com/album/0r1Eqg2JzE6gPXxjoIj1VT) | 2:56 | 2023-11-03 | 2024-06-28 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-12 | 2023-02-11 |
+| [Here They Come II](https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Here They Come II](https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs) | 3:07 | 2026-08-28 |  |
 | [HERicane](https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Algorithm](https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55) | 3:47 | 2024-07-05 | 2025-07-26 |
 | [Hero](https://open.spotify.com/track/31iNSE9TF3ehPE7cX8OSek) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Journey to Idan](https://open.spotify.com/album/2U6DR87NV7jBoc2d5cHRxt) | 3:47 | 2023-10-13 | 2023-11-03 |
 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 | 2025-09-05 |
@@ -697,7 +698,7 @@
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-24 | 2024-05-13 |
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-01-05 | 2024-01-26 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 | 2022-11-26 |
-| [PROSTITUTE](https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [PROSTITUTE](https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk) | 3:08 | 2026-05-01 |  |
+| [PROSTITUTE](https://open.spotify.com/track/3xlYPnKHDeZvsmWIFvWP1H) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [PROSTITUTE](https://open.spotify.com/album/22We2HMdk4hkYZVSfm1Jrk) | 3:08 | 2026-05-01 | 2026-09-03 |
 | [Proud Of You](https://open.spotify.com/track/55uNgltxzPBajGmczKAmGg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y) | [Road To Nirvana](https://open.spotify.com/album/5BHWoiwBKnvOXyBCYingCi) | 2:50 | 2024-03-15 | 2024-03-22 |
 | [prove it](https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:27 | 2024-01-12 | 2024-05-09 |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-24 | 2022-11-26 |

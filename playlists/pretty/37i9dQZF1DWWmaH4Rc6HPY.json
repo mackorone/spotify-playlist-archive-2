@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
-  "num_followers": 39342,
+  "num_followers": 39352,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Ya Es Ma\u00f1ana",
         "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 186581,
       "name": "Vuelvo A Ti",
       "url": "https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "T\u00fa y Yo y T\u00fa",
-        "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 246073,
-      "name": "T\u00fa y Yo y T\u00fa",
-      "url": "https://open.spotify.com/track/2x8hADKmsUOZNSJPEKGFED"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Faltas T\u00fa",
         "url": "https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "T\u00fa y Yo y T\u00fa",
+        "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 246073,
+      "name": "T\u00fa y Yo y T\u00fa",
+      "url": "https://open.spotify.com/track/2x8hADKmsUOZNSJPEKGFED"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -299,26 +299,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 243234,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Me Toca A M\u00ed",
         "url": "https://open.spotify.com/album/3RCKLNKwB3g7i4UVxkTsY5"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 180340,
       "name": "Me Toca A M\u00ed",
       "url": "https://open.spotify.com/track/3SWXwV7jo4NFtRBVkpAq1U"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -375,38 +375,18 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Jet Love",
-        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+        "name": "Tormentas Inesperadas",
+        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 203193,
-      "name": "Cinco Horas Menos",
-      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Esc\u00e1pate Conmigo",
-        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 252079,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
+      "duration_ms": 264749,
+      "name": "Amanecidos",
+      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -427,18 +407,38 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Tormentas Inesperadas",
-        "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
+        "name": "Esc\u00e1pate Conmigo",
+        "url": "https://open.spotify.com/album/6xUYY9VhicvxFXES4q1MJ4"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 264749,
-      "name": "Amanecidos",
-      "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+      "duration_ms": 252079,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/5dDXf3Ev3Cj10GHJJPhrgb"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -511,18 +491,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "D\u00edscolo",
-        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Haditas",
-      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -547,6 +531,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "D\u00edscolo",
+        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Haditas",
+      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "CUERPOS, Vol. 1",
         "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -595,6 +579,22 @@
       "duration_ms": 192649,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/4xGoFJhcxyhgHC0pm6Pu1D"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Vivos",
+        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Mentiras Arriesgadas",
         "url": "https://open.spotify.com/album/7CY5pnkyNQT1T5uR2TaF80"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 159227,
       "name": "Soy Tuyo",
       "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "Vivos",
-        "url": "https://open.spotify.com/album/1X4qVzX9VIvwyhiWK5cK4p"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/7BDQNZamnUfc0JVJTDJ29E"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
         "name": "Quiero saber si es amor (feat. Joy)",
         "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-08-14 06:00:34",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
         "name": "Bruma",
         "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 201120,
       "name": "Bruma",
       "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+    },
+    {
+      "added_at": "2026-08-14 06:00:34",
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-08-14 06:00:34",
@@ -1247,22 +1263,6 @@
       "duration_ms": 277557,
       "name": "Dreams - Spanish Mix (2026)",
       "url": "https://open.spotify.com/track/05T4MrrXyH4HvBCFieKqKY"
-    },
-    {
-      "added_at": "2026-08-14 06:00:34",
-      "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-08-14 06:00:34",

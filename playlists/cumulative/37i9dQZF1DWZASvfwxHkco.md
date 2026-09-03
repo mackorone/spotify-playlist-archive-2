@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Madeon
 
-820 songs - 1 day 18 hr 19 min
+821 songs - 1 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [hit me where it hurts x](https://open.spotify.com/track/1kWbPGEMBUHv2XMIqHZayL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [hit me where it hurts x](https://open.spotify.com/album/1KggQ6cWyi3bTQ2dK5V352) | 3:58 | 2025-11-13 | 2025-12-12 |
 | [Hold Me Tight](https://open.spotify.com/track/7KBy269iiwoiod6DB8HBOD) | [Sloppy Disk](https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Lil' Leise But Gold](https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n) | [So Sloppy Vol.1](https://open.spotify.com/album/6GVdnlARdw1ZgoFCWXqQ41) | 5:17 | 2023-11-02 | 2024-04-05 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 | 2025-07-22 |
+| [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 | 2026-08-30 |  |
 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 | 2026-02-05 | 2026-05-23 |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-07-26 | 2024-10-10 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2023-03-16 | 2023-09-01 |
@@ -459,7 +460,7 @@
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-05-30 | 2024-06-07 |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-06-01 | 2023-06-16 |
 | [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 | 2026-05-07 | 2026-06-26 |
-| [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-15 |  |
+| [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-15 | 2026-09-03 |
 | [Love Me](https://open.spotify.com/track/5TZnCu5vibZW8AqEFgsqgY) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH1](https://open.spotify.com/album/0Qqcg8QRranPHtp3IkGN1v) | 2:29 | 2024-02-29 | 2024-04-26 |
 | [Love Me Up \- DJ DISK Remix](https://open.spotify.com/track/2YG6vvrD4PmiMyY8e27cut) | [DJ DISK](https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Love Me Up \(DJ DISK Remix\)](https://open.spotify.com/album/3kbBuIcHFtCfN9WhPrLI63) | 4:30 | 2023-04-07 | 2023-04-21 |
 | [Love U Bring](https://open.spotify.com/track/2UIiQInyqvCqmA1ZaXj22X) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Love U Bring](https://open.spotify.com/album/2Q1jYDR25sGrFDg8xmoOnU) | 4:00 | 2025-02-20 | 2025-03-07 |

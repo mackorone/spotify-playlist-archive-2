@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,880 likes - 355 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,892 likes - 355 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

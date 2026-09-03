@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Cizzo på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,741 likes - 58 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,728 likes - 58 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

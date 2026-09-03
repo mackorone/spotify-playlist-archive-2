@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > The official soundtrack and score of Tony, plus tracks curated by Dominic Sessa that inspired his performance in the film.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,645 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,627 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

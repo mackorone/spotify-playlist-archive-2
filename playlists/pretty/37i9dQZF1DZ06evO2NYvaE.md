@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,529 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,558 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 2 | [TYG \(feat\. Spiritbox\)](https://open.spotify.com/track/39bBo9c52p4bcUMWBbuOaO) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:27 |
 | 3 | [Circle With Me](https://open.spotify.com/track/3FI0iAAAjmR31xpZEwbdys) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:53 |
 | 4 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
-| 5 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
-| 6 | [Blessed Be](https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Blessed Be](https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5) | 4:05 |
+| 5 | [Blessed Be](https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Blessed Be](https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5) | 4:05 |
+| 6 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 |
 | 7 | [Sun Killer](https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:47 |
 | 8 | [Perfect Soul](https://open.spotify.com/track/7CoiOXsrfI58wUZBt45HgL) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:59 |
 | 9 | [Ultraviolet](https://open.spotify.com/track/5AYeGLu0KlyZUe6bS2tgdh) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:08 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NYvaE.md) - [plain]
 | 39 | [Electric Cross](https://open.spotify.com/track/0ADnhZNVVnSApQStXz2XxK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:23 |
 | 40 | [10:16](https://open.spotify.com/track/7cHXbLD2MHOwGTezFgAQIc) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 1:08 |
 
-Snapshot ID: `apTEAAAAAAB9Nss54EeXpQugtSMH4E7/`
+Snapshot ID: `apYVgAAAAABpDQuhkRu5qGP6JOtQrpFV`

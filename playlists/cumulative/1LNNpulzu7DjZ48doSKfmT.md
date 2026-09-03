@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,199 songs - 2 day 13 hr 32 min
+1,200 songs - 2 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2026-07-17 |  |
 | [KARMA](https://open.spotify.com/track/7JPZQW1FpALYaJ5NCsOwp0) | [Elíndigo](https://open.spotify.com/artist/3bvB7IAYhGSZotQL0249nL) | [KARMA](https://open.spotify.com/album/0ekEZdRCc3sx3OMNttXuBX) | 2:46 | 2026-01-26 |  |
 | [Keep Control](https://open.spotify.com/track/79CnRwsxV6q9KpdLbxotA3) | [NR10](https://open.spotify.com/artist/6wJVDuIEoNAms82scclL1i), [Broken Twinz](https://open.spotify.com/artist/5OirmsBsAeV1w4zLGTYZjK) | [Keep Control](https://open.spotify.com/album/0jNxHaCtJCWqOTmxFFCdyl) | 2:08 | 2026-02-16 | 2026-07-23 |
+| [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 | 2026-09-03 |  |
 | [Keep Going Up](https://open.spotify.com/track/6x3ceZ8YpFB5LJliZz01TB) | [Chris Kellah](https://open.spotify.com/artist/6KHK8bvEQe9wmK7QnIPh37), [MikeTheDawn](https://open.spotify.com/artist/0R0VymT3mJIaDU1lH3ni1H) | [I'm From Africa](https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh) | 2:18 | 2026-02-08 | 2026-07-23 |
 | [Keep Pushin'](https://open.spotify.com/track/6ioWYCebaSxqXnIGyRUgXS) | [Lorenz Koin](https://open.spotify.com/artist/7yzXj2QmcZKis5V7qetC7A), [Carl Lazy](https://open.spotify.com/artist/6gyMxOyNvsTT7WbuFNbUKi) | [Keep Pushin'](https://open.spotify.com/album/0jiHHNu0nhSEimpaNDdzaJ) | 2:56 | 2025-09-15 | 2026-01-15 |
 | [Killua](https://open.spotify.com/track/6mgFssnrdG7RI1devrQpdA) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4), [MV PTK](https://open.spotify.com/artist/1UfHfs7fNHz0C1lomxWFSH) | [Killua](https://open.spotify.com/album/3uWnuaEGm93RWuAa3n6tFm) | 3:41 | 2026-07-17 |  |

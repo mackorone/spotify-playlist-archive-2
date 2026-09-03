@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aKMY1mSzIW.md) - [plain]
 
 > Binge watch OPM music videos! only available for Spotify Premium Subscribers! Cover: Arthur Nery
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,273 likes - 54 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,358 likes - 54 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

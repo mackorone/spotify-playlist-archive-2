@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAFVwrMcDlmuH68G+Vavkv3",
+  "snapshot_id": "apYVgAAAAAC+9HSgOQCPKSCRUNskjdv6",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 350546,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 329240,
       "name": "Vibin' W/Ayers",
       "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 350546,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 380546,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Might Be Surprised (Expanded Edition)",
         "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
       },
@@ -751,6 +735,38 @@
       "duration_ms": 269973,
       "name": "Slip n' Slide",
       "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 492960,
+      "name": "Don't Stop The Feeling",
+      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 380546,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
     },
     {
       "added_at": null,
@@ -779,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 492960,
-      "name": "Don't Stop The Feeling",
-      "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
+      "duration_ms": 181756,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
     },
     {
       "added_at": null,
@@ -815,30 +839,6 @@
       "duration_ms": 350293,
       "name": "Oh What A Lonely Feeling - Delfonic Rework",
       "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 181756,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Dark (Expanded Edition)",
         "url": "https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change Up The Groove",
-        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "The Boogie Back",
-      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffy",
         "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 138146,
       "name": "Escape",
       "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change Up The Groove",
+        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "The Boogie Back",
+      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
     }
   ],
   "unique_name": "This Is Roy Ayers",

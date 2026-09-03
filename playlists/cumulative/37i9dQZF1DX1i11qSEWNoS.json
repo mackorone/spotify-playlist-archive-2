@@ -4599,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "K\u00fcss mich (Ivo Martin x Techno Mix)",
+        "url": "https://open.spotify.com/album/4kIYJzc4kN2W8jxEsYs7zd"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140200,
+      "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
+      "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
+    },
+    {
+      "album": {
         "name": "LA PLENA",
         "url": "https://open.spotify.com/album/0IuvSeeJ7YWHRbvLnGkK1d"
       },
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 158778,
       "name": "Vielleicht",
       "url": "https://open.spotify.com/track/5ZFQvHGT7YzHXjL0m4X4Em"

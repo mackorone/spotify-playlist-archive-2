@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 65036,
+  "num_followers": 65062,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST"
+      },
+      "artists": [
+        {
+          "name": "Shane",
+          "url": "https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v"
+        }
+      ],
+      "duration_ms": 163972,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
         "name": "Film Love",
         "url": "https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/0ZKoQKPuoU4Rp5oJlBmsST"
-      },
-      "artists": [
-        {
-          "name": "Shane",
-          "url": "https://open.spotify.com/artist/3BBmWyvut6k6gHFeIzlx5v"
-        }
-      ],
-      "duration_ms": 163972,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2ASsYNmcpoWXEVF9kvpcHR"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "<Dall>",
-        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
-      },
-      "artists": [
-        {
-          "name": "ARTMS",
-          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "FLIGHT",
         "url": "https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167106,
       "name": "FLIGHT",
       "url": "https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "<Dall>",
+        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Seoul Check-in OST Part 5",
-        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 200460,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "City View / Her",
         "url": "https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 208875,
       "name": "City View",
       "url": "https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Seoul Check-in OST Part 5",
+        "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 200460,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
-      },
-      "artists": [
-        {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "Blue City",
         "url": "https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 231409,
       "name": "Blue City",
       "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
     },
     {
       "added_at": "2026-09-01 05:48:58",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-09-01 05:48:58",
       "album": {
-        "name": "Marry My Husband OST Special Track",
-        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 230617,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
-    },
-    {
-      "added_at": "2026-09-01 05:48:58",
-      "album": {
         "name": "Like Heaven",
         "url": "https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 209453,
       "name": "Like Heaven (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm"
+    },
+    {
+      "added_at": "2026-09-01 05:48:58",
+      "album": {
+        "name": "Marry My Husband OST Special Track",
+        "url": "https://open.spotify.com/album/3iQ2MAowzcgVZupdIuonYh"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 230617,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/4dgspE323L82XYAjpnlXsv"
     },
     {
       "added_at": "2026-09-01 05:48:58",

@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: KATSEYE",
-  "num_followers": 625159,
+  "num_followers": 625120,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
-      },
-      "artists": [
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 145756,
-      "name": "work",
-      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
-    },
-    {
-      "added_at": "2026-08-13 16:26:29",
-      "album": {
         "name": "ATTITUDE",
         "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
       },
@@ -635,18 +619,34 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "WE GO UP",
-        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
+        "name": "work",
+        "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
         }
       ],
-      "duration_ms": 186973,
-      "name": "WE GO UP",
-      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
+      "duration_ms": 145756,
+      "name": "work",
+      "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
+    },
+    {
+      "added_at": "2026-08-13 16:26:29",
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR"
+      },
+      "artists": [
+        {
+          "name": "Celine Wanyi",
+          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
+        }
+      ],
+      "duration_ms": 151160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG"
     },
     {
       "added_at": "2026-08-13 16:26:29",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-08-13 16:26:29",
       "album": {
-        "name": "Cosmic",
-        "url": "https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR"
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
       },
       "artists": [
         {
-          "name": "Celine Wanyi",
-          "url": "https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 151160,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/7dTVx630q32E7NBBylFnfG"
+      "duration_ms": 186973,
+      "name": "WE GO UP",
+      "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
     },
     {
       "added_at": "2026-08-13 16:26:29",

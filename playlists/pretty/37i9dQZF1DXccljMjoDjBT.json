@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 367482,
+  "num_followers": 367555,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Cool Night",
-        "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
-      },
-      "artists": [
-        {
-          "name": "Paul Davis",
-          "url": "https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Cool Night",
-      "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Living In A Fantasy",
         "url": "https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 220533,
       "name": "More Than I Can Say - Remastered",
       "url": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Cool Night",
+        "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
+      },
+      "artists": [
+        {
+          "name": "Paul Davis",
+          "url": "https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "Cool Night",
+      "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Dan Hill (1987)",
         "url": "https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 226533,
       "name": "Carmelia",
       "url": "https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 272933,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+        "name": "The Essential Playlist",
+        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
         }
       ],
-      "duration_ms": 362466,
-      "name": "The Last Worthless Evening",
-      "url": "https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg"
+      "duration_ms": 198946,
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
     }
   ],
   "unique_name": "80s Soft Rock",

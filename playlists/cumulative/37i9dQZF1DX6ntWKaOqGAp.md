@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Chilli Beans\. + WurtS + PEOPLE1
 
-3,527 songs - 9 day 3 hr 50 min
+3,527 songs - 9 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Happiness](https://open.spotify.com/track/2vvkuYwy56F6jYhjPN57xE) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Happiness](https://open.spotify.com/album/5PJDxrHdmN6S7tM1xwWyTh) | 3:37 | 2024-09-10 | 2024-11-20 |
 | [Happy](https://open.spotify.com/track/03SVU0wsBZydTt8xg1LTmY) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [Happy](https://open.spotify.com/album/0JhddpeS8jePnNMl351M1H) | 4:45 | 2025-09-02 | 2025-09-11 |
 | [HAPPY](https://open.spotify.com/track/3HC6lWVTRtFMwqo47uAfH2) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [HAPPY](https://open.spotify.com/album/262C2bESKPglUZwbCs8PGX) | 4:43 | 2025-04-22 | 2025-04-30 |
+| [Happy](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 2:34 | 2026-09-01 |  |
 | [HAPPY](https://open.spotify.com/track/5eBUtO6pXUCCAShR6vlt0N) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [HAPPY](https://open.spotify.com/album/1DD9VeeuEvCgnG1s6AW4ci) | 3:11 | 2026-01-20 | 2026-02-04 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2023-10-26 |
@@ -1718,7 +1719,6 @@
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
 | [Toy Box](https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Who am I?](https://open.spotify.com/album/75SzOy9IS2koE6VeYtHYeR) | 3:00 | 2026-09-01 |  |
-| [Track 1](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 0:00 | 2026-09-01 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

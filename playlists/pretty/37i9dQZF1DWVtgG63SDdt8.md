@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,756 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,790 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 40 | [Lamb of God](https://open.spotify.com/track/1dg1IAHj1NRh453WjXTrTC) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Sam Daniel](https://open.spotify.com/artist/5qCmiCJixflA5aXSdH8GXB) | [Lamb of God](https://open.spotify.com/album/00wvON3sTe5UlmxowXe53K) | 3:38 |
 | 41 | [Let God Arise \- Live](https://open.spotify.com/track/0Lpl2mO3A1Q8kuIc3zxOQE) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Chris Burns](https://open.spotify.com/artist/3E4c1Fq51LkCGfVngrEHlm) | [Let God Arise \(Live\)](https://open.spotify.com/album/3ye0Ef75LtQ2iQ0EhyhVX7) | 5:00 |
 | 42 | [Beautiful One](https://open.spotify.com/track/1ms0tgdzLRJ6ZkJ0GnPCLi) | [Rockharbor](https://open.spotify.com/artist/3hs7sVHxEz4lSff1a2IcPu), [Anna Hellebronth](https://open.spotify.com/artist/2wcIL6FNIm7VRtM2LBMDPz), [Luke Hellebronth](https://open.spotify.com/artist/26RpO1zRTbfhvP4DlHKn6I) | [Beautiful One](https://open.spotify.com/album/6JpWupMVqwpyeEcd6uL389) | 5:24 |
-| 43 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Kaestrings](https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
+| 43 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
 | 44 | [Thank You For Everything \(with Karen Clark\-Sheard\)](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
 | 45 | [Through the Fire](https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5) | [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Lillian Loyd](https://open.spotify.com/artist/74BPXshSaCwHGRi5oJfAg6) | [Through the Fire](https://open.spotify.com/album/2wKkih6MFWiCjNdbmVsF82) | 4:26 |
 | 46 | [Have You Ever](https://open.spotify.com/track/2u8XdqQo3TtkfkYR6nvIf4) | [FK&M](https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Keith Staten](https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe), [Marcus Cole](https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB), [New Rain](https://open.spotify.com/artist/1GECSLvvJg1fzJkbuKqWzq) | [Time Capsule II](https://open.spotify.com/album/6AvTDERfl2eGNa7vVwxF9V) | 3:50 |

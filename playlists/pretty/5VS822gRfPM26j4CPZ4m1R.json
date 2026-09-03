@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 18125,
+  "num_followers": 18126,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMkekkMCpSALipYELchRgdV1czTXBO",
+  "snapshot_id": "AAAMkgyl4d4K8lm4uLUyWQovrI2l3Roo",
   "tracks": [
+    {
+      "added_at": "2026-09-02 08:26:22",
+      "album": {
+        "name": "Backroads",
+        "url": "https://open.spotify.com/album/2XS7exBkgGc8oReKKnOPfx"
+      },
+      "artists": [
+        {
+          "name": "Grayson Hamm",
+          "url": "https://open.spotify.com/artist/1zQbqJWYcdrVXef2iatspr"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/5Ue710uILIzMHDOFOnWoyA"
+    },
     {
       "added_at": "2026-07-22 08:43:13",
       "album": {

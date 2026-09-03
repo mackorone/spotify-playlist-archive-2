@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,951 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,965 likes - 59 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 | 56 | [All I Do](https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 5:06 |
 | 57 | [Runway J](https://open.spotify.com/track/0wagEJiJSu5DwpMP77wGCH) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Fashion Week](https://open.spotify.com/album/0T0hdMTypoYTFhgk4ugXkN) | 4:09 |
 | 58 | [Fuck That](https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:24 |
-| 59 | [Uncatena](https://open.spotify.com/track/2f5l2vw6KZXb6cbE0nl0pb) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/5Abelpx4c3FzhTOZP3ZIvS) | 4:15 |
-| 60 | [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/0d6RQcen3fnEVTWHES7IYy) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/2EuKpzSQ9RQ2n06Iu0pDop) | 6:37 |
+| 59 | [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/0d6RQcen3fnEVTWHES7IYy) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/2EuKpzSQ9RQ2n06Iu0pDop) | 6:37 |
 
-Snapshot ID: `AAAAAPKbnGqwEpg2lCmAycEW6z4p2YHQ`
+Snapshot ID: `AAAAAAzmj4f1DQ7I7XKKPm2isHLXCqFQ`

@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 261946,
+  "num_followers": 261955,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "hero",
+        "url": "https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "duration_ms": 184142,
+      "name": "hero",
+      "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
-        "name": "hero",
-        "url": "https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ"
-      },
-      "artists": [
-        {
-          "name": "starfall",
-          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
-        }
-      ],
-      "duration_ms": 184142,
-      "name": "hero",
-      "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "life update",
-        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
-      },
-      "artists": [
-        {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
-        }
-      ],
-      "duration_ms": 245647,
-      "name": "hey, i'm tired",
-      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "bet",
         "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 206293,
       "name": "Sexy Goodbye",
       "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "all in",
-        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "all in",
-      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+        "name": "all in",
+        "url": "https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
         }
       ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+      "duration_ms": 226000,
+      "name": "all in",
+      "url": "https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1339,6 +1323,22 @@
       "duration_ms": 185600,
       "name": "Tell Me The Name",
       "url": "https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Dancing with my phone",
-        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "put it on me",
         "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "KOLORCOASTER",
-        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
+        "name": "Dancing with my phone",
+        "url": "https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH"
       },
       "artists": [
         {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 166595,
-      "name": "INDIGO (with u)",
-      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1423,6 +1407,22 @@
       "duration_ms": 204555,
       "name": "Almost over you",
       "url": "https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "KOLORCOASTER",
+        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 166595,
+      "name": "INDIGO (with u)",
+      "url": "https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx"
     },
     {
       "added_at": "2026-08-07 04:12:22",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
         "name": "to love in the 21st century",
         "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-08-07 04:12:22",
       "album": {
-        "name": "let me know",
-        "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 208387,
-      "name": "let me know",
-      "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
-    },
-    {
-      "added_at": "2026-08-07 04:12:22",
-      "album": {
         "name": "Infatuated",
         "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 226714,
       "name": "Infatuated",
       "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
+    },
+    {
+      "added_at": "2026-08-07 04:12:22",
+      "album": {
+        "name": "let me know",
+        "url": "https://open.spotify.com/album/4w3RXqpRkmFVijVJbN3NDw"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 208387,
+      "name": "let me know",
+      "url": "https://open.spotify.com/track/4MMPUUQG3ygmS0aHvDBVGL"
     },
     {
       "added_at": "2026-08-07 04:12:22",

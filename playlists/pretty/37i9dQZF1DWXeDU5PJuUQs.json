@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 273646,
+  "num_followers": 273713,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -575,26 +591,6 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Esto Es Roze! - Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7COPLNQOq9WfJwD7866tg4"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Pinky SD",
-          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
-        }
-      ],
-      "duration_ms": 102417,
-      "name": "Turreo Sessions #22 (En Vivo)",
-      "url": "https://open.spotify.com/track/5Sn6SEfGDWIcGbwHPock2D"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -619,38 +615,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+        "name": "Esto Es Roze! - Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7COPLNQOq9WfJwD7866tg4"
       },
       "artists": [
         {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Pega la Vuelta / La Ventanita",
-        "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         },
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
         }
       ],
-      "duration_ms": 278301,
-      "name": "Pega la Vuelta / La Ventanita",
-      "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
+      "duration_ms": 102417,
+      "name": "Turreo Sessions #22 (En Vivo)",
+      "url": "https://open.spotify.com/track/5Sn6SEfGDWIcGbwHPock2D"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -671,6 +651,26 @@
       "duration_ms": 194894,
       "name": "No Voy A Llorar / Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Pega la Vuelta / La Ventanita",
+        "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 278301,
+      "name": "Pega la Vuelta / La Ventanita",
+      "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -795,18 +795,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Luna Park (En Vivo)",
-        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
       "artists": [
         {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         }
       ],
-      "duration_ms": 198267,
-      "name": "Pa' la Selecci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -827,22 +831,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Tu Falta de Querer (En Vivo)",
-        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+        "name": "Luna Park (En Vivo)",
+        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Tu Falta de Querer - En Vivo",
-      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+      "duration_ms": 198267,
+      "name": "Pa' la Selecci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 278133,
       "name": "Como Podr\u00e9",
       "url": "https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
         "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 111605,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 283977,
-      "name": "Tu C\u00e1rcel - En Vivo",
-      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 121087,
       "name": "Tu Carcel - En Vivo",
       "url": "https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 283977,
+      "name": "Tu C\u00e1rcel - En Vivo",
+      "url": "https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Buscala (Live)",
-        "url": "https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        },
-        {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
-        }
-      ],
-      "duration_ms": 183919,
-      "name": "Buscala - Live",
-      "url": "https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "La Guerra de los Colores",
         "url": "https://open.spotify.com/album/5G7tVYBJxPKUYCrUPAAtNh"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 124253,
       "name": "La Ultima Cancion - En Vivo",
       "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Buscala (Live)",
+        "url": "https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        },
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "Buscala - Live",
+      "url": "https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8"
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
       "artists": [
         {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 106272,
-      "name": "Enamorado de ti - Live",
-      "url": "https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ"
+      "duration_ms": 462272,
+      "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
+      "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
     }
   ],
   "unique_name": "Vivo de Cumbia",

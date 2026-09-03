@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 776 songs - 2 day 1 hr 59 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 777 songs - 2 day 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -780,9 +780,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 770 | [Brain](https://open.spotify.com/track/7HtJdBWRJpVVQhDlk6NndR) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:43 |
 | 771 | [Etiquette I.D.](https://open.spotify.com/track/5n7VnQbx6A4C01afTZln8D) | [Casiotone For The Painfully Alone](https://open.spotify.com/artist/4FdSsjcX7vzOnN5zNqQWAy) | [Etiquette](https://open.spotify.com/album/1fMaPBDIcOsEpW4tz6gUhi) | 0:05 |
 | 772 | [The White Tent the Raft](https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [The Walking](https://open.spotify.com/album/7cv1OYN3ovq1sXi1Qwj2KW) | 9:12 |
-| 773 | [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 |
-| 774 | [I Wear a Shirt That Says Australia](https://open.spotify.com/track/0iA5kbj14o3IMfjkN0Fgtp) | [Champion Trees](https://open.spotify.com/artist/2TGA8WEasn5tdn6MZ7FWzw) | [A Duck's Water Off My Back](https://open.spotify.com/album/2gXbHIPYnZN1AejPIUyyQC) | 3:56 |
-| 775 | [Suffer Less](https://open.spotify.com/track/6RGrCdcFVQ4QggKyLkwAya) | [Whait](https://open.spotify.com/artist/4Ic46u36imWbA6I0fdFqhX), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Icarus in Training](https://open.spotify.com/album/7fEN2NCC6LKKqowqqKN4ip) | 4:22 |
-| 776 | [Middle of Nowhere](https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:36 |
+| 773 | [I Wear a Shirt That Says Australia](https://open.spotify.com/track/0iA5kbj14o3IMfjkN0Fgtp) | [Champion Trees](https://open.spotify.com/artist/2TGA8WEasn5tdn6MZ7FWzw) | [A Duck's Water Off My Back](https://open.spotify.com/album/2gXbHIPYnZN1AejPIUyyQC) | 3:56 |
+| 774 | [Suffer Less](https://open.spotify.com/track/6RGrCdcFVQ4QggKyLkwAya) | [Whait](https://open.spotify.com/artist/4Ic46u36imWbA6I0fdFqhX), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Icarus in Training](https://open.spotify.com/album/7fEN2NCC6LKKqowqqKN4ip) | 4:22 |
+| 775 | [Middle of Nowhere](https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:36 |
+| 776 | [Junkie In The Sun](https://open.spotify.com/track/2sJEw4to3z7kW0Q82OsuI9) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Junkie in The Sun](https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw) | 3:46 |
+| 777 | [THE NEW SUBLIME](https://open.spotify.com/track/5G5PVQTylw22ClQKIlXpto) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:43 |
 
-Snapshot ID: `AAAJhXD/VX2AS5VYgfJZ7WIZFknFo0YO`
+Snapshot ID: `AAAJi13H/vg6epLOIN97REHVQmf8lgXw`

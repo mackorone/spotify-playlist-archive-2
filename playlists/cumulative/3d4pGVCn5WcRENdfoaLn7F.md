@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-427 songs - 1 day 1 hr 34 min
+428 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 | 2026-03-27 |
 | [Space and Time](https://open.spotify.com/track/64BHgShtqVoY2OUoKBy13L) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Space and Time](https://open.spotify.com/album/4KQzRcZuLBQxYPdVnz0eNc) | 3:19 | 2026-07-08 | 2026-08-08 |
+| [sparkles](https://open.spotify.com/track/2USvuzXtQIR05I6kP7IEt6) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [sparkles](https://open.spotify.com/album/1iFXnOBQejkpHOsFJcPZ2n) | 4:06 | 2026-09-02 |  |
 | [SPECKS](https://open.spotify.com/track/3MqmmpXA0BHiUthZJ7kMgH) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 3:32 | 2026-02-28 | 2026-06-14 |
 | [Spent My Whole Life Loving You](https://open.spotify.com/track/3NeYvY7holTVNCpaQt8BH1) | [Alexandra Klee](https://open.spotify.com/artist/3SbQ1Fwzf6okKXEXfCkTLP), [Andreas Wallner](https://open.spotify.com/artist/02u2I6IenqojYw6JMPnat6) | [Spent My Whole Life Loving You](https://open.spotify.com/album/52Ac8NvHzJ6pxVDMvM23yC) | 3:14 | 2026-06-15 | 2026-08-08 |
 | [Start Again](https://open.spotify.com/track/4Rr8Ohu3YyBtrcqfRmP1GI) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Before Dawn](https://open.spotify.com/album/1Go3wfxRNGAc870RqO2IHP) | 3:19 | 2026-08-04 |  |

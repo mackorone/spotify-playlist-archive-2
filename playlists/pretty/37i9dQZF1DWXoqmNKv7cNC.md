@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen! ANASOF en portada 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,425 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,431 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

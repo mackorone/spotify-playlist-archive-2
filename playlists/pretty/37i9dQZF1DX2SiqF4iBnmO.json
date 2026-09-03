@@ -1,6 +1,6 @@
 {
   "description": "Only music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 171177,
+  "num_followers": 171236,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "The Good Times",
-        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
-      },
-      "artists": [
-        {
-          "name": "Afroman",
-          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Because I Got High",
-      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "Selected Ambient Works 85-92",
         "url": "https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "The Good Times",
+        "url": "https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0"
+      },
+      "artists": [
+        {
+          "name": "Afroman",
+          "url": "https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Because I Got High",
+      "url": "https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Don't Stop the Rock",
-        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
-      },
-      "artists": [
-        {
-          "name": "Freestyle",
-          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
-        }
-      ],
-      "duration_ms": 328515,
-      "name": "Don't Stop the Rock",
-      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 202840,
       "name": "The Crying Game",
       "url": "https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Don't Stop the Rock",
+        "url": "https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z"
+      },
+      "artists": [
+        {
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg"
+        }
+      ],
+      "duration_ms": 328515,
+      "name": "Don't Stop the Rock",
+      "url": "https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q"
     },
     {
       "added_at": "2024-07-10 08:31:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-10 08:31:19",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Let The Beat Build",
-      "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
-    },
-    {
-      "added_at": "2024-07-10 08:31:19",
-      "album": {
         "name": "In Vitro - Volume One",
         "url": "https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 372924,
       "name": "Peace Of Mind (Electrosoul)",
       "url": "https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD"
+    },
+    {
+      "added_at": "2024-07-10 08:31:19",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 309000,
+      "name": "Let The Beat Build",
+      "url": "https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb"
     },
     {
       "added_at": "2024-07-10 08:31:19",

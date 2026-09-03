@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u4ed6\u5011\u5c31\u662f\u672c\u5e74\u5ea6\u7684\u91cd\u9ede\u96f7\u9054\u53ca\u529b\u63a8\u661f\u4eba\uff01Let's meet the future\uff01Cover: LAWA",
+  "description": "\u4ed6\u5011\u5c31\u662f\u672c\u5e74\u5ea6\u7684\u91cd\u9ede\u96f7\u9054\u53ca\u529b\u63a8\u661f\u4eba\uff01Let's meet the future\uff01Cover: CClaire \u99ac\u6137\u4f36",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -4415,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u5927\u4eba2",
+        "url": "https://open.spotify.com/album/0xPwaCcrzwOCtCQogeEocJ"
+      },
+      "artists": [
+        {
+          "name": "Quanzo",
+          "url": "https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "scuba diving",
+      "url": "https://open.spotify.com/track/1U0wlGCP2aB88ZFDjYu1CE"
+    },
+    {
+      "album": {
         "name": "scuba diving",
         "url": "https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT"
       },
@@ -7841,6 +7859,32 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u5927\u4eba2",
+        "url": "https://open.spotify.com/album/0xPwaCcrzwOCtCQogeEocJ"
+      },
+      "artists": [
+        {
+          "name": "Quanzo",
+          "url": "https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn"
+        },
+        {
+          "name": "O.Dkizzya",
+          "url": "https://open.spotify.com/artist/4cHSZs664sR3WPBFAevIHN"
+        },
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185641,
+      "name": "\u534a\u591c\u7761\u4e0d\u8457\u89ba",
+      "url": "https://open.spotify.com/track/1o5UUWGq3DpgrYGCZAgc1W"
+    },
+    {
+      "album": {
         "name": "\u5361\u4f4f\u4e86",
         "url": "https://open.spotify.com/album/1rsu3gm5X00NlUqaEBbZP7"
       },
@@ -10242,6 +10286,24 @@
       "duration_ms": 196860,
       "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
       "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
+    },
+    {
+      "album": {
+        "name": "\u611b\u5728\u5927\u96e8\u843d\u4e0b",
+        "url": "https://open.spotify.com/album/0ZwPH0hAJEUxQRq0WwkTay"
+      },
+      "artists": [
+        {
+          "name": "\u5b8f\u5152 Kuan Hong",
+          "url": "https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263951,
+      "name": "\u611b\u5728\u5927\u96e8\u843d\u4e0b",
+      "url": "https://open.spotify.com/track/7kRk8HKO2pL41ut1u7TCrQ"
     },
     {
       "album": {
@@ -12735,6 +12797,24 @@
     },
     {
       "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263068,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
+    },
+    {
+      "album": {
         "name": "Am I Who I Am",
         "url": "https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1"
       },
@@ -14665,6 +14745,24 @@
     },
     {
       "album": {
+        "name": "\u8b0a\u8a00\u8349\u7a3f",
+        "url": "https://open.spotify.com/album/2itPvx0rGiZW12UysdjUcQ"
+      },
+      "artists": [
+        {
+          "name": "CClaire \u99ac\u6137\u4f36",
+          "url": "https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240325,
+      "name": "\u8b0a\u8a00\u8349\u7a3f",
+      "url": "https://open.spotify.com/track/6hLXEw6UBlOheD40F91Cl4"
+    },
+    {
+      "album": {
         "name": "\u8718\u86db\u611f\u61c9",
         "url": "https://open.spotify.com/album/6bYxf7apUtCugOhbkidjZR"
       },
@@ -15120,6 +15218,28 @@
       "duration_ms": 212233,
       "name": "\u8f38\u4e86\u600e\u6a23",
       "url": "https://open.spotify.com/track/5CdiPjubMoVfyG08Bczktk"
+    },
+    {
+      "album": {
+        "name": "\u8fa6\u516c\u6642\u9593",
+        "url": "https://open.spotify.com/album/1uddTJitSyeu5bSmL1HHJC"
+      },
+      "artists": [
+        {
+          "name": "Forty \u984f\u4e16\u7433",
+          "url": "https://open.spotify.com/artist/1OkGOCTTKlEi1RBg9lsb9V"
+        },
+        {
+          "name": "B.O.Z",
+          "url": "https://open.spotify.com/artist/6i4GhOJoO7H05FhJq1fQmX"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138510,
+      "name": "\u8fa6\u516c\u6642\u9593",
+      "url": "https://open.spotify.com/track/1zY5URcjXFyErGtZB3PZdu"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 328878,
+  "num_followers": 328892,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADq86/hjZl54wDHAff2SdMI",
+  "snapshot_id": "apYVgAAAAAD6sl9OL3pTcO3cKjhJvW9P",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voodoo Child (Slight Return) [Live At Berkeley - 1st Show]",
+        "url": "https://open.spotify.com/album/0jTAGDOka5CG87s8b9mPMO"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 747080,
+      "name": "Voodoo Child (Slight Return) - Live At Berkeley - 1st Show",
+      "url": "https://open.spotify.com/track/0AtLebPe7ddTCiQuswj51Z"
+    },
     {
       "added_at": null,
       "album": {
@@ -84,9 +100,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+      "duration_ms": 146573,
+      "name": "Crosstown Traffic",
+      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
     },
     {
       "added_at": null,
@@ -148,9 +164,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 146573,
-      "name": "Crosstown Traffic",
-      "url": "https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY"
+      "duration_ms": 223680,
+      "name": "Gypsy Eyes",
+      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
     },
     {
       "added_at": null,
@@ -203,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
       "artists": [
         {
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Gypsy Eyes",
-      "url": "https://open.spotify.com/track/1DfWmv1eJU1a9tuGpqKGFP"
+      "duration_ms": 457600,
+      "name": "Born Under a Bad Sign",
+      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 457600,
-      "name": "Born Under a Bad Sign",
-      "url": "https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -279,6 +279,26 @@
       "duration_ms": 130039,
       "name": "Have You Ever Been (To Electric Ladyland)",
       "url": "https://open.spotify.com/track/3Yh64aiu2ANBwDFztyPDkT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Mercy, Mercy - Single/LP Version",
+      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
     },
     {
       "added_at": null,
@@ -315,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        },
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
-        }
-      ],
-      "duration_ms": 145146,
-      "name": "Mercy, Mercy - Single/LP Version",
-      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electric Ladyland",
         "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 249373,
       "name": "Come On (Let the Good Times Roll)",
       "url": "https://open.spotify.com/track/0KqHJXm4Z42fELkW83ZW0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Izabella",
-      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206133,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7emVwhF4OMemAT65nbpuZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Izabella",
+      "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 467426,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 467426,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA"
+      "duration_ms": 222066,
+      "name": "Rainy Day, Dream Away",
+      "url": "https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY"
     },
     {
       "added_at": null,
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Things I Used to Do",
-      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+      "duration_ms": 475373,
+      "name": "Georgia Blues",
+      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
     },
     {
       "added_at": null,
@@ -792,25 +808,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 475373,
-      "name": "Georgia Blues",
-      "url": "https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live At Fillmore East, 1970)",
-        "url": "https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 418001,
-      "name": "Power To Love - Live",
-      "url": "https://open.spotify.com/track/7uYNdZA4LnxEwTsmIIUCCu"
+      "duration_ms": 221360,
+      "name": "Things I Used to Do",
+      "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

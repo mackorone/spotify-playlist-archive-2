@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: BAMBII",
-  "num_followers": 2458,
+  "num_followers": 2468,
   "original_name": "Editors' Picks: Best Canadian Songs of August",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Devoted",
-        "url": "https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Devoted",
-      "url": "https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Unforgivable Things",
         "url": "https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 155017,
       "name": "Unforgivable Things",
       "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Devoted",
+        "url": "https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Devoted",
+      "url": "https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 327446,
-      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "losing",
         "url": "https://open.spotify.com/album/7sw3EMPHHFXLSR6gPzkDTx"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Across the Pond",
-        "url": "https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz"
+        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
       },
       "artists": [
         {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/6fCBYfnfa2e2SllY8mJSGe"
+      "duration_ms": 327446,
+      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -367,6 +351,22 @@
       "duration_ms": 170826,
       "name": "Otherwise, I'm Fine",
       "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "Across the Pond",
+        "url": "https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz"
+      },
+      "artists": [
+        {
+          "name": "Ghostly Kisses",
+          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/6fCBYfnfa2e2SllY8mJSGe"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "aries baby",
-        "url": "https://open.spotify.com/album/4vS61q0dNLJXi72MhlgU54"
-      },
-      "artists": [
-        {
-          "name": "Ami Cheon",
-          "url": "https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb"
-        }
-      ],
-      "duration_ms": 152014,
-      "name": "aries baby",
-      "url": "https://open.spotify.com/track/2nHotWvTAWEpSYzv7s0Bk9"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "Angel So Bad",
         "url": "https://open.spotify.com/album/2ZOVYwXcnjCm5WnI5JPy4u"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 171460,
       "name": "East of Anything",
       "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
+        "name": "aries baby",
+        "url": "https://open.spotify.com/album/4vS61q0dNLJXi72MhlgU54"
+      },
+      "artists": [
+        {
+          "name": "Ami Cheon",
+          "url": "https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb"
+        }
+      ],
+      "duration_ms": 152014,
+      "name": "aries baby",
+      "url": "https://open.spotify.com/track/2nHotWvTAWEpSYzv7s0Bk9"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
+        "name": "Why Does the Moon",
+        "url": "https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 192566,
+      "name": "Why Does the Moon",
+      "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
         "name": "Some Kind Of Life",
         "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 196923,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
-        "name": "Why Does the Moon",
-        "url": "https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 192566,
-      "name": "Why Does the Moon",
-      "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
     },
     {
       "added_at": "2026-09-01 02:00:35",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
+        "name": "Phone Home",
+        "url": "https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 173341,
+      "name": "God Is A Woman",
+      "url": "https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
-        "name": "Phone Home",
-        "url": "https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm"
-      },
-      "artists": [
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 173341,
-      "name": "God Is A Woman",
-      "url": "https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
         "name": "YUL//LGA",
         "url": "https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv"
       },
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-09-01 02:00:35",
       "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Failing",
+      "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
+    },
+    {
+      "added_at": "2026-09-01 02:00:35",
+      "album": {
         "name": "Don't Sleep",
         "url": "https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 237153,
       "name": "what doesn't kill me",
       "url": "https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP"
-    },
-    {
-      "added_at": "2026-09-01 02:00:35",
-      "album": {
-        "name": "Reunion",
-        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
-      },
-      "artists": [
-        {
-          "name": "Mama's Broke",
-          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Failing",
-      "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
     },
     {
       "added_at": "2026-09-01 02:00:35",

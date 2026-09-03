@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Bollywood songs that ruled hearts in the Y2K decade. Cover - Jab We Met",
+  "description": "The 2000s called. We picked up. Celebrating 25 years of the iconic music of Dil Chahta Hai.",
   "name": "All Out 00s Hindi",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 324053,
       "name": "Chale Jaise Hawaien",
       "url": "https://open.spotify.com/track/3pRF060IEOI5XSQAvONgSt"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 310080,
       "name": "Dil Chahta Hai",
       "url": "https://open.spotify.com/track/2r1CHpKRDdzHGJScn5UqjX"
@@ -2734,11 +2734,15 @@
         {
           "name": "KK",
           "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
         }
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 324880,
       "name": "Haan Tu Hain",
       "url": "https://open.spotify.com/track/4vgCpNUUcpEIBifidhQOnR"
@@ -3122,7 +3126,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 289386,
       "name": "Jaane Kyon Log Pyar",
       "url": "https://open.spotify.com/track/2NouPVwXUlBF0wDm5bpAbp"
@@ -3628,7 +3632,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 328066,
       "name": "Kaisi Hai Ye Rut",
       "url": "https://open.spotify.com/track/4x6hxkEuw1XLIwUkUJcDbf"
@@ -3776,7 +3780,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 412970,
       "name": "Kay Sera Sera",
       "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
@@ -4114,6 +4118,32 @@
       "duration_ms": 252840,
       "name": "Kya Mujhe Pyar Hai (Remix)",
       "url": "https://open.spotify.com/track/11MVHPAE4fu7rbGuNboXqs"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa",
+        "url": "https://open.spotify.com/album/4BKbiFqwZBaBG6MeDdkwID"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341027,
+      "name": "Labon Ko",
+      "url": "https://open.spotify.com/track/5WncH5iZ5GFlnXm7jKEXVP"
     },
     {
       "album": {
@@ -6666,7 +6696,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 339591,
       "name": "Teri Ore",
       "url": "https://open.spotify.com/track/7lJNQFaBPlm3XhNUWnVk55"
@@ -7246,7 +7276,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 280974,
       "name": "Ye Ishq Hai",
       "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"
@@ -7502,7 +7532,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"

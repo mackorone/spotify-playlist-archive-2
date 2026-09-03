@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 239079,
+  "num_followers": 239238,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Reason To Dance",
+        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 220296,
+      "name": "Reason To Dance",
+      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 232802,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Reason To Dance",
-        "url": "https://open.spotify.com/album/4PNYpJEGOowrL5RdbWvbRt"
-      },
-      "artists": [
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        }
-      ],
-      "duration_ms": 220296,
-      "name": "Reason To Dance",
-      "url": "https://open.spotify.com/track/5ZIsOPJmE5vWCcq2pjhwZi"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1551,18 +1551,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
       "artists": [
         {
-          "name": "Nathan G",
-          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        },
+        {
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
         }
       ],
-      "duration_ms": 187086,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1595,26 +1599,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
       },
@@ -1627,6 +1611,38 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4S80CkwQ8lpwX69leEAHat"
+      },
+      "artists": [
+        {
+          "name": "Nathan G",
+          "url": "https://open.spotify.com/artist/5sY89xuf8fkENxCnGT3d6P"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/4513QEtGKMQ2OYnJEa1jlG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
+      },
+      "artists": [
+        {
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1647,22 +1663,6 @@
       "duration_ms": 394371,
       "name": "Fall on Me - House Remix",
       "url": "https://open.spotify.com/track/1YIqGBIku5uVh8SsnpuaAW"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
-      },
-      "artists": [
-        {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "HOLY",
-        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
-      },
-      "artists": [
-        {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
-        }
-      ],
-      "duration_ms": 181671,
-      "name": "HOLY",
-      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Deliver (Higher)",
         "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 200433,
       "name": "Deliver (Higher)",
       "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        }
+      ],
+      "duration_ms": 181671,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1783,6 +1783,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Better Off (Ok Evan Remix)",
+        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
+      },
+      "artists": [
+        {
+          "name": "Rachel Jane",
+          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
+        },
+        {
+          "name": "Ok Evan",
+          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Better Off (Ok Evan Remix)",
+      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Praise Him",
         "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
@@ -1803,22 +1823,38 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Better Off (Ok Evan Remix)",
-        "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
+        "name": "Floating (okay.benny Remix)",
+        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
       "artists": [
         {
-          "name": "Rachel Jane",
-          "url": "https://open.spotify.com/artist/42LKoMQUXBn37kdDeXarFJ"
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         },
         {
-          "name": "Ok Evan",
-          "url": "https://open.spotify.com/artist/5iJUXaFSPL6usNmx30GNuP"
+          "name": "okay.benny",
+          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Better Off (Ok Evan Remix)",
-      "url": "https://open.spotify.com/track/1ybhxQzinBAIKAVKMeLDUG"
+      "duration_ms": 155520,
+      "name": "Floating - okay.benny Remix",
+      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1863,38 +1899,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+        "name": "Fire Fall (Paris Jones Remix)",
+        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Floating (okay.benny Remix)",
-        "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+          "name": "Seth & Nirva",
+          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
         },
         {
-          "name": "okay.benny",
-          "url": "https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x"
+          "name": "Paris Jones",
+          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Floating - okay.benny Remix",
-      "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+      "duration_ms": 250378,
+      "name": "Fire Fall - Paris Jones Remix",
+      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1923,26 +1943,6 @@
       "duration_ms": 194227,
       "name": "Beacon of Hope",
       "url": "https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Fire Fall (Paris Jones Remix)",
-        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
-      },
-      "artists": [
-        {
-          "name": "Seth & Nirva",
-          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
-        },
-        {
-          "name": "Paris Jones",
-          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
-        }
-      ],
-      "duration_ms": 250378,
-      "name": "Fire Fall - Paris Jones Remix",
-      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",

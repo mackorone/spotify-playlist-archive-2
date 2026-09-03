@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lauren Juzang Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SEREN Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -13667,6 +13667,24 @@
     },
     {
       "album": {
+        "name": "CHOOSY",
+        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138433,
+      "name": "CHOOSY",
+      "url": "https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu"
+    },
+    {
+      "album": {
         "name": "Christine",
         "url": "https://open.spotify.com/album/2eMJSmqimbm9hE5fR5miBE"
       },
@@ -15571,6 +15589,24 @@
     },
     {
       "album": {
+        "name": "Course It Matters",
+        "url": "https://open.spotify.com/album/3Lb3HkMdD9cW9ehfHgad7K"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161197,
+      "name": "Course It Matters",
+      "url": "https://open.spotify.com/track/7sRTG3ShIvak9i5d8b6e7G"
+    },
+    {
+      "album": {
         "name": "covent garden",
         "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
       },
@@ -15802,6 +15838,24 @@
       "duration_ms": 184918,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/4Rd4gkqEWrqZutrCFVwt70"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1j4woMGd04ZJv3tzhoNe3W"
+      },
+      "artists": [
+        {
+          "name": "Conor Burns",
+          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240476,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0oiGdy7Zp6ZTbm2cdFnvRO"
     },
     {
       "album": {
@@ -28858,7 +28912,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 136193,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
@@ -39610,6 +39664,24 @@
       "duration_ms": 197052,
       "name": "it's not my job to save you",
       "url": "https://open.spotify.com/track/4DCYJmtXwK3UGRPokm2fos"
+    },
+    {
+      "album": {
+        "name": "it's not so much what you say",
+        "url": "https://open.spotify.com/album/0qr2AZLY268WNTgGWl8lW9"
+      },
+      "artists": [
+        {
+          "name": "Louella",
+          "url": "https://open.spotify.com/artist/7ssfxtXuXQOsRmfjQIp6R1"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "it's not so much what you say",
+      "url": "https://open.spotify.com/track/49WUuKWnuapWT4jgxDsMFv"
     },
     {
       "album": {
@@ -50623,6 +50695,24 @@
     },
     {
       "album": {
+        "name": "Myriad Reflector",
+        "url": "https://open.spotify.com/album/7JEEAscH1dvsz0dr6lCEXV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198509,
+      "name": "Myriad Reflector",
+      "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
+    },
+    {
+      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/6BJKDMnroir6WccEoib30h"
       },
@@ -51596,7 +51686,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 218500,
       "name": "Newborn",
       "url": "https://open.spotify.com/track/3th0jbVno6NuaUCIvKMzQu"
@@ -52722,7 +52812,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 203360,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/7EwUOa9eqaDRiEkPgOh6bf"
@@ -53428,7 +53518,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 139354,
       "name": "N\u00c9GATIF",
       "url": "https://open.spotify.com/track/0w6Vy1gKQEAEnRYuEngGmM"
@@ -59138,6 +59228,24 @@
       "duration_ms": 191310,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/0ZcGUnRDKJZNfcVavJlt8R"
+    },
+    {
+      "album": {
+        "name": "Confessions Of A People Pleaser",
+        "url": "https://open.spotify.com/album/31pRdcwhgldaFjuTmaAqtS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/4l2yt3rEAQ6K61UjL0EwLP"
     },
     {
       "album": {
@@ -67418,7 +67526,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 171000,
       "name": "Sorry Mister",
       "url": "https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw"
@@ -76228,7 +76336,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 185148,
       "name": "Traveling Man",
       "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoALgva1Aqr.md) - [plain]
 
 > The biggest sounds for the beautiful game ⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,238 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,304 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

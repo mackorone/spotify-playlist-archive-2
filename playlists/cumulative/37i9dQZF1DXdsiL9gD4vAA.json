@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Ghar",
+        "url": "https://open.spotify.com/album/3oh78sSYIUUeRvMMZAbgPe"
+      },
+      "artists": [
+        {
+          "name": "Dushyant Bhatt",
+          "url": "https://open.spotify.com/artist/5Lh55pfwm77zTtZTeCtjyK"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182161,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/14ED7vlhejBpPwvIwPIIaD"
+    },
+    {
+      "album": {
         "name": "Ghazal Ho Gayi",
         "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
       },
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 313631,
       "name": "Saiyaan Hatto Jaao",
       "url": "https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q"

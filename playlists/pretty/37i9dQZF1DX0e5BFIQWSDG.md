@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,865 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,842 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 31 | [Eipes](https://open.spotify.com/track/1ibvHjnMqZZmayckoA4W5Y) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Oso Tha Gyrizei I Gi](https://open.spotify.com/album/3XDV3HEvwiUiOZqplYyDMD) | 4:03 |
 | 32 | [AVANTAGE](https://open.spotify.com/track/2px5Fplo9yVFFBqlFKWn74) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [AVANTAGE](https://open.spotify.com/album/5cwuxnk3TewfALIK5rLUWK) | 3:31 |
 | 33 | [123](https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc) | [JACK](https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf), [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [DPC](https://open.spotify.com/artist/2xfRh1ugELbF7WtA6MkSu1) | [123](https://open.spotify.com/album/1tYBcgettNOMqx658UdDyV) | 2:13 |
-| 34 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 |
+| 34 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 |
 | 35 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
 | 36 | [POIOS NA SOU TO PEI](https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:55 |
 | 37 | [Strip For Me](https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Strip For Me](https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq) | 3:30 |

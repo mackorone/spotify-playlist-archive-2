@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210094,
+  "num_followers": 210096,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Here In Your Arms",
-        "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 172702,
-      "name": "Here In Your Arms",
-      "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Here In Your Arms",
+        "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 172702,
+      "name": "Here In Your Arms",
+      "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
+      },
+      "artists": [
+        {
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Just Too Good",
         "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "evergreen love",
-        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "evergreen love",
-      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201526,
       "name": "Look At Love",
       "url": "https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "evergreen love",
+        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "evergreen love",
+      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
-      },
-      "artists": [
-        {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
-        },
-        {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "With Love, Anike",
         "url": "https://open.spotify.com/album/0LHtU4Hcv2OEfW3xaBHX4p"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 216446,
       "name": "SHOW ME LOVE AGAIN",
       "url": "https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+      },
+      "artists": [
+        {
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
       "artists": [
         {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Capuchino de Amor",
         "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
@@ -1491,6 +1475,38 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "A Red, Red Rose",
+        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 203699,
+      "name": "A Red, Red Rose",
+      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1511,22 +1527,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "A Red, Red Rose",
-        "url": "https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 203699,
-      "name": "A Red, Red Rose",
-      "url": "https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Without The Risk",
-        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
+        "name": "Giving In",
+        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 223518,
-      "name": "Without The Risk",
-      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
+      "duration_ms": 207620,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Breathe Life",
         "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
@@ -1675,8 +1659,24 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Giving In",
-        "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Without The Risk",
+        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
       },
       "artists": [
         {
@@ -1684,9 +1684,9 @@
           "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 207620,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
+      "duration_ms": 223518,
+      "name": "Without The Risk",
+      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
     },
     {
       "added_at": "2026-07-29 15:15:10",

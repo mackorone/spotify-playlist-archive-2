@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 747751,
+  "num_followers": 747769,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -891,26 +891,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 182861,
-      "name": "Teu Segredo - Ao Vivo",
-      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 182861,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Resenha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 182417,
-      "name": "Quase - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Errejota (Ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -1103,22 +1087,34 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Sogra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
+        "name": "Resenha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 182417,
+      "name": "Quase - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "O Cara Certo",
+        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
       },
       "artists": [
         {
           "name": "Dilsinho",
           "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 177067,
-      "name": "Sogra - Ao Vivo",
-      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
+      "duration_ms": 223813,
+      "name": "Trov\u00e3o",
+      "url": "https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "O Cara Certo",
-        "url": "https://open.spotify.com/album/46AcQjehXf14WEIzG7X780"
+        "name": "Sogra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2JIKCyhUqzmfiDWYcZbKiH"
       },
       "artists": [
         {
           "name": "Dilsinho",
           "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 223813,
-      "name": "Trov\u00e3o",
-      "url": "https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd"
+      "duration_ms": 177067,
+      "name": "Sogra - Ao Vivo",
+      "url": "https://open.spotify.com/track/4x8XaoLvpo6kd51PZD16RK"
     },
     {
       "added_at": "2025-11-07 18:47:10",

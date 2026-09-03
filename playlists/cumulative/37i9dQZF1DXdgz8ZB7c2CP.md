@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring Juelz
 
-1,514 songs - 3 day 9 hr 52 min
+1,514 songs - 3 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,7 +1061,7 @@
 | [Revolving door \- Louis The Child remix](https://open.spotify.com/track/6hSzNFmW6LIGDzasoz2Rax) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Revolving door \(remixes\)](https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg) | 3:24 | 2025-04-17 | 2025-04-25 |
 | [REWIND](https://open.spotify.com/track/2tYLwCuSefEkUmNUDo09Mz) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m) | [REWIND](https://open.spotify.com/album/2GKHbiAi8odFJi2Ukps9XE) | 2:12 | 2025-03-20 | 2025-05-02 |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-10 | 2024-11-29 |
-| [RIDE](https://open.spotify.com/track/0ioRYvi1i84n7JsZfYq3yD) | [CURE97](https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO), [YZENIA](https://open.spotify.com/artist/5FLXUFIdxqhy9t1Gk3G0uN) | [RIDE](https://open.spotify.com/album/68cZf1fDJmmV0ZtYioJyWx) | 2:25 | 2026-05-15 |  |
+| [RIDE](https://open.spotify.com/track/0ioRYvi1i84n7JsZfYq3yD) | [CURE97](https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO), [YZENIA](https://open.spotify.com/artist/5FLXUFIdxqhy9t1Gk3G0uN) | [RIDE](https://open.spotify.com/album/68cZf1fDJmmV0ZtYioJyWx) | 2:22 | 2026-05-15 |  |
 | [Right Now](https://open.spotify.com/track/1h91DNP67Ht4aMHq8qqYJy) | [Maazel](https://open.spotify.com/artist/4w5LgUT6bfJnNq6wSFbND7), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Right Now](https://open.spotify.com/album/0lRqKAf7bzegVWpTWArHMo) | 3:14 | 2021-08-06 | 2022-07-27 |
 | [Right On Time](https://open.spotify.com/track/1FGqruzMwh8dfG5rH1XdwB) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [Right On Time](https://open.spotify.com/album/4oawfeRSPqgo4hYjzaHYPw) | 3:23 | 2025-08-29 | 2025-09-13 |
 | [Right Time](https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [The Moab Tapes](https://open.spotify.com/album/1cNIJ8WBmOj3fTMbRDHrXR) | 3:59 | 2025-11-21 | 2026-02-14 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12865,
+  "num_followers": 12866,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "It\u2019s secret",
         "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 257666,
       "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-07-03 07:31:26",

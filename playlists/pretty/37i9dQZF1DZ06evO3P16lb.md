@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,855 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,857 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 48 | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS) | 7:11 |
 | 49 | [Hay Unos Ojos](https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC) | [Mariachi Herencia De Mexico](https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Herederos](https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY) | 2:36 |
 
-Snapshot ID: `apTEAAAAAABjBCOZYdRtWmaEK66ZHLSK`
+Snapshot ID: `apYVgAAAAAAbHED0kfDWeBkj9hE6tQYs`

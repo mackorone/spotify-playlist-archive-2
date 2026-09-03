@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1311710,
+  "num_followers": 1311688,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
+      "added_at": "2026-05-15 15:18:31",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 183998,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Work",
@@ -1527,22 +1543,6 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2026-05-15 15:18:31",
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 183998,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
     },
     {
       "added_at": "2026-08-14 04:01:19",
@@ -1765,22 +1765,6 @@
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
-      },
-      "artists": [
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Hooligans",
@@ -1795,6 +1779,22 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/5NyCvm5NgnBuWnW6pEth7k"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/2gx8dqHQfS3uSRvCGwlEPY"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1909,26 +1909,6 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
-      "added_at": "2026-08-07 04:01:21",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "SPEND IT",
@@ -1953,6 +1933,42 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
+      "added_at": "2026-08-07 04:01:21",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
+    },
+    {
+      "added_at": "2026-07-10 04:01:45",
+      "album": {
+        "name": "Bangarang",
+        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Bangarang",
+      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -1971,22 +1987,6 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2026-07-10 04:01:45",
-      "album": {
-        "name": "Bangarang",
-        "url": "https://open.spotify.com/album/3St4FoQ34rsoZPNLbindT6"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Bangarang",
-      "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2121,22 +2121,6 @@
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Gimme That Money",
-        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Gimme That Money",
-      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
-    },
-    {
       "added_at": "2026-08-14 04:01:19",
       "album": {
         "name": "Mask Off",
@@ -2155,6 +2139,38 @@
       "duration_ms": 168000,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Gimme That Money",
+        "url": "https://open.spotify.com/album/4SGGU2KzI9HnljEl6EjKIJ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Gimme That Money",
+      "url": "https://open.spotify.com/track/1oGns5fvUsvrsm9TtYQdmN"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 194076,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
     },
     {
       "added_at": "2026-07-24 04:02:19",
@@ -2179,18 +2195,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/31TlX2Ge3rHi1fDpC87REU"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 194076,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/17WGZkgxe1U2qYpT7wjUQV"
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-06-12 04:01:37",
@@ -2287,26 +2303,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
         "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
       },
@@ -2327,18 +2323,58 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
       },
       "artists": [
         {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
         }
       ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2026-08-21 04:01:29",
+      "album": {
+        "name": "EXES IN TEXAS",
+        "url": "https://open.spotify.com/album/7m9tqzACi2vGXz6Oir9E3n"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Rhyder",
+          "url": "https://open.spotify.com/artist/3eoOvS1AeEVfYwSF1HVr0S"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "EXES IN TEXAS",
+      "url": "https://open.spotify.com/track/1tl8N5xqVezqcA6xtITbfi"
+    },
+    {
+      "added_at": "2026-05-22 04:01:19",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-08-07 04:01:21",
@@ -2361,30 +2397,6 @@
       "url": "https://open.spotify.com/track/6p74OOY5V3vnWfGRgfjgWM"
     },
     {
-      "added_at": "2026-05-01 04:01:35",
-      "album": {
-        "name": "Bass Down Low (feat. DEV)",
-        "url": "https://open.spotify.com/album/4Uh4CwIOGDKCnYXEXoNInQ"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        },
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 139147,
-      "name": "Bass Down Low (feat. DEV)",
-      "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "That's the Spot",
@@ -2405,36 +2417,24 @@
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     },
     {
-      "added_at": "2026-07-17 04:01:08",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Down To The Sound",
-        "url": "https://open.spotify.com/album/1ueCEnO7sgkc6JeA0rV4Wl"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 196158,
-      "name": "Down To The Sound",
-      "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
-    },
-    {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "In My System",
-        "url": "https://open.spotify.com/album/0YnjAx0aZhETxrbYILoGLn"
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
       },
       "artists": [
         {
           "name": "Julian Jordan",
           "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
         }
       ],
-      "duration_ms": 180004,
-      "name": "In My System",
-      "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     }
   ],
   "unique_name": "Nasty Bits",

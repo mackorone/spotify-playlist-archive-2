@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 211322,
+  "num_followers": 211335,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAADhbA4VfYzfthzwqk/BZxBOwhp/h",
   "tracks": [
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
-      },
-      "artists": [
-        {
-          "name": "Florian Christl",
-          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Vivaldi Variation (meno mosso)",
-      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
-    },
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Vivaldi Variation (meno mosso)",
+      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -579,18 +579,22 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
       },
       "artists": [
         {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
+      "duration_ms": 408791,
+      "name": "Inside Me",
+      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -611,22 +615,18 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
       },
       "artists": [
         {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
         }
       ],
-      "duration_ms": 408791,
-      "name": "Inside Me",
-      "url": "https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ"
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Low Sun",
-        "url": "https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc"
-      },
-      "artists": [
-        {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Hristo Dunev",
-          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
-        }
-      ],
-      "duration_ms": 196537,
-      "name": "Low Sun",
-      "url": "https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Procyon",
         "url": "https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
+        "name": "Low Sun",
+        "url": "https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Hristo Dunev",
+          "url": "https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF"
+        }
+      ],
+      "duration_ms": 196537,
+      "name": "Low Sun",
+      "url": "https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
         "name": "EGUZKIA GALDU",
         "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
       },
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
+        "name": "Spirituality",
+        "url": "https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Perceptions",
+      "url": "https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
         "name": "Composites",
         "url": "https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
-        "name": "Spirituality",
-        "url": "https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Zawadzki",
-          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Perceptions",
-      "url": "https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr"
     }
   ],
   "unique_name": "Instrumental Reading",

@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 13 | [Hard Livin'](https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [D.O\. Cannons](https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5), [Young Merc](https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:56 |
 | 14 | [Come\-N\-Go](https://open.spotify.com/track/2vjRhzgzI2yOykIDLKnJ7b) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 4:29 |
 
-Snapshot ID: `apTEAAAAAACegNUKBf0UZS/sFcjw13T5`
+Snapshot ID: `apYVgAAAAADkUN932aEfb8u3vsCh0dw9`

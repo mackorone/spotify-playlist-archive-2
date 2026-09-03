@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 569182,
+  "num_followers": 569157,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAyEUJrHCDrha61zx2nj1rY",
+  "snapshot_id": "apYVgAAAAADNlqn47L3YmQN+6wePR69Z",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
+        "name": "Mil Faces de um Homem Leal (Marighella)",
+        "url": "https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 289440,
-      "name": "J\u00fari Racional",
-      "url": "https://open.spotify.com/track/59bvypeOf7rKhGOrTVDvv1"
+      "duration_ms": 598736,
+      "name": "Mil Faces de um Homem Leal (Marighella)",
+      "url": "https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Faces de um Homem Leal (Marighella)",
-        "url": "https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR"
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/3RwDSMSj82TPDkKMnamGeZ"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 598736,
-      "name": "Mil Faces de um Homem Leal (Marighella)",
-      "url": "https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl"
+      "duration_ms": 289440,
+      "name": "J\u00fari Racional",
+      "url": "https://open.spotify.com/track/59bvypeOf7rKhGOrTVDvv1"
     },
     {
       "added_at": null,
@@ -555,6 +555,38 @@
       "duration_ms": 345226,
       "name": "Racistas Ot\u00e1rios",
       "url": "https://open.spotify.com/track/0zGuJbbRk2QV18xHxvHB1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escolha o Seu Caminho",
+        "url": "https://open.spotify.com/album/4wtgvCPdYPKF8yYPmRiW6a"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 296493,
+      "name": "Voz At\u00edva - Capela",
+      "url": "https://open.spotify.com/track/3dEzkrPAczba41hp5OUv50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "Beco Sem Sa\u00edda - Ao Vivo",
+      "url": "https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z"
     },
     {
       "added_at": null,
@@ -584,25 +616,9 @@
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
         }
       ],
-      "duration_ms": 214366,
-      "name": "Beco Sem Sa\u00edda - Ao Vivo",
-      "url": "https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escolha o Seu Caminho",
-        "url": "https://open.spotify.com/album/4wtgvCPdYPKF8yYPmRiW6a"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 296493,
-      "name": "Voz At\u00edva - Capela",
-      "url": "https://open.spotify.com/track/3dEzkrPAczba41hp5OUv50"
+      "duration_ms": 294683,
+      "name": "O Mal e o Bem",
+      "url": "https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 256826,
       "name": "Fio da Navalha",
       "url": "https://open.spotify.com/track/0c14FM10q46bBQUPm4EGuU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 294683,
-      "name": "O Mal e o Bem",
-      "url": "https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5"
     },
     {
       "added_at": null,

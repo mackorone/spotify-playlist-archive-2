@@ -4,7 +4,7 @@
 
 > to unge knive synger om provinsen @USSEL @MathiasRanch
 
-459 songs - 23 hr 34 min
+460 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Ik Er Her.](https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2) | [FRSLV](https://open.spotify.com/artist/7eFy8x4GPEMGr2iwf52ejZ) | [Det Frslv.](https://open.spotify.com/album/4qOSab4b42c9RoSWIxRxSr) | 2:16 | 2025-10-30 | 2025-11-14 |
 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 | 2025-06-05 | 2025-09-26 |
 | [Ildfluer](https://open.spotify.com/track/44AFri447xop1t5EblgHbE) | [First Flush](https://open.spotify.com/artist/3rdxGMdJ33uN89az9Hm9cj) | [Ildfluer](https://open.spotify.com/album/7IqD3qu5GyL4r4diTeUTpj) | 3:32 | 2024-09-19 | 2024-10-11 |
-| [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 | 2025-11-13 |  |
+| [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 | 2025-11-13 | 2026-09-03 |
 | [Ingen Bund](https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Ingen Bund](https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx) | 3:39 | 2026-06-11 |  |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa) | 3:11 | 2025-03-21 | 2025-04-24 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 | 2025-03-22 |
@@ -386,6 +386,7 @@
 | [Sæson](https://open.spotify.com/track/65Nq6t6JmdfVOf2IIkCIgX) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Sæson](https://open.spotify.com/album/0rjKYgUC4EPdh7uJz338XZ) | 3:10 | 2025-04-24 | 2025-06-20 |
 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 | 2024-10-24 |  |
 | [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 | 2025-10-02 |  |
+| [Sømand Af Verden](https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw) | [Matilde Alexandra](https://open.spotify.com/artist/49EE2hM80yLCDi8FIPBnIR) | [Sømand Af Verden](https://open.spotify.com/album/4WvHCE652kNavAltBeL97h) | 3:28 | 2026-08-28 |  |
 | [Søvnløs](https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN) | [Friða Saiya](https://open.spotify.com/artist/6IiXrasPoQjldn8FF3N7Mm) | [Søvnløs](https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN) | 2:29 | 2026-02-26 |  |
 | [Tag Mig Som Jeg Er](https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Tag Mig Som Jeg Er](https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH) | 3:15 | 2025-01-06 |  |
 | [Tandlæge](https://open.spotify.com/track/44RZ2zrp3rfeUL9yrboOxB) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Tandlæge](https://open.spotify.com/album/39knlRfz425t69wjmm0por) | 2:54 | 2025-01-30 | 2025-05-07 |

@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,267 songs - 2 day 13 hr 46 min
+1,268 songs - 2 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,13 +1203,14 @@
 | [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Ohp Sage](https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI) | 4:45 | 2024-04-19 | 2024-06-01 |
 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [WAHALA \(FEAT\. OLAMIDE\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 | 2024-04-19 | 2025-02-25 |
 | [Waist](https://open.spotify.com/track/4EZtqWVz7YEPlFgiKYWvMh) | [2Slik](https://open.spotify.com/artist/1SiEqKiBPjnYO9UoSWiyAo) | [Waist](https://open.spotify.com/album/5lQ8B4KrlV3uo6zvWX4Tbd) | 2:41 | 2024-11-07 | 2025-01-22 |
-| [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 | 2025-11-14 |  |
+| [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 | 2025-11-14 | 2026-09-03 |
 | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Waka Jeje \(feat\. Bnxn\)](https://open.spotify.com/album/1jGHHoZvMuag4ENa30G9F9) | 2:28 | 2023-07-14 | 2023-08-04 |
 | [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 | 2023-04-14 | 2023-05-05 |
 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 | 2024-01-26 | 2024-02-23 |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 | 2023-12-22 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2022-06-08 | 2023-04-06 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-02-27 |
+| [Water](https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [All Hail Muyeez](https://open.spotify.com/album/050lle0DRA4195Robnvk2l) | 2:33 | 2026-08-28 |  |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-06-21 | 2025-02-25 |
 | [Wayo](https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Wayo](https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf) | 2:29 | 2024-05-24 | 2024-07-29 |
 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 | 2022-08-25 | 2022-09-29 |

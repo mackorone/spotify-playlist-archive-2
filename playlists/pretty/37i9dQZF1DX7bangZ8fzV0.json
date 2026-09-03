@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: JACOBUS",
-  "num_followers": 150261,
+  "num_followers": 150300,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "Belowe",
         "url": "https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216923,
       "name": "Belowe",
       "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Genadewater",
-        "url": "https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 168624,
-      "name": "Genadewater",
-      "url": "https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
         "name": "My Bra",
         "url": "https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
-        "name": "Rooi Vlag",
-        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
+        "name": "Genadewater",
+        "url": "https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 246393,
-      "name": "Rooi Vlag",
-      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
+      "duration_ms": 168624,
+      "name": "Genadewater",
+      "url": "https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -983,6 +967,22 @@
       "duration_ms": 204335,
       "name": "Yskas Skuif",
       "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Rooi Vlag",
+        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 246393,
+      "name": "Rooi Vlag",
+      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2026-08-27 22:01:28",

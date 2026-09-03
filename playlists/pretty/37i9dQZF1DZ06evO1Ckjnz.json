@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABpGokYXm7UeIz3Wr4eq1Oj",
+  "snapshot_id": "apYVgAAAAABhr1lOO3vMC1K1ssl8inc3",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IT REALLY DO BE THAT DAMN PHONE",
+        "url": "https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb"
+      },
+      "artists": [
+        {
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 114400,
+      "name": "8 FEET TALL (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "? (Deluxe)",
         "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
       },
@@ -371,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RX",
         "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
       },
@@ -403,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 185806,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IT REALLY DO BE THAT DAMN PHONE",
-        "url": "https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb"
-      },
-      "artists": [
-        {
-          "name": "ERISTHEPLANET",
-          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 114400,
-      "name": "8 FEET TALL (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu"
     },
     {
       "added_at": null,
@@ -827,6 +827,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
+        "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 186472,
+      "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
+      "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 155657,
       "name": "High Heels (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
-        "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 186472,
-      "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
-      "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 203573,
       "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
       "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     }
   ],
   "unique_name": "This Is Rico Nasty",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1250247,
+  "num_followers": 1250345,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAD9iGGmEWHki/tY7uvCOs10",
+  "snapshot_id": "apYVgAAAAADcAAm9Amv+7TjwteuNyS6S",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 333053,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+      "duration_ms": 233373,
+      "name": "Fire Flies",
+      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
     },
     {
       "added_at": null,
@@ -811,6 +807,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 333053,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Ascension (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -820,9 +856,29 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Fire Flies",
-      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
+      "duration_ms": 248493,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
+        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Doncamatic (feat. Daley)",
+      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
     },
     {
       "added_at": null,
@@ -856,33 +912,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
         }
       ],
-      "duration_ms": 155973,
-      "name": "Ascension (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
-        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Daley",
-          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Doncamatic (feat. Daley)",
-      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
+      "duration_ms": 272666,
+      "name": "Strobelite (feat. Peven Everett)",
+      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
     },
     {
       "added_at": null,
@@ -896,49 +932,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 248493,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Pac-Man (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 272666,
-      "name": "Strobelite (feat. Peven Everett)",
-      "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
+      "duration_ms": 239613,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
     },
     {
       "added_at": null,
@@ -967,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 239613,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
+      "duration_ms": 192880,
+      "name": "Pac-Man (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
     },
     {
       "added_at": null,

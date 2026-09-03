@@ -996,7 +996,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -4280,6 +4280,24 @@
       "duration_ms": 247786,
       "name": "Loudest Silence",
       "url": "https://open.spotify.com/track/6twjK7WfE9PpL4wveuudwD"
+    },
+    {
+      "album": {
+        "name": "Love Ain't Fair",
+        "url": "https://open.spotify.com/album/4a74kq4VWiT3i9IdWxsnUg"
+      },
+      "artists": [
+        {
+          "name": "SemajB",
+          "url": "https://open.spotify.com/artist/6NpC4BqT6IXCRxj8YgzSo6"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156365,
+      "name": "Love Ain't Fair",
+      "url": "https://open.spotify.com/track/2HLmISN9FKV54gcMuFeBLg"
     },
     {
       "album": {

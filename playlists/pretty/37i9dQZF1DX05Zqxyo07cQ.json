@@ -1,6 +1,6 @@
 {
   "description": "A trilha perfeita pra embalar seu sono.",
-  "num_followers": 772573,
+  "num_followers": 772481,
   "original_name": "Hora de Dormir",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/57eSKJkvIywj2qc90yBEFQ"
-      },
-      "artists": [
-        {
-          "name": "Marble Sky",
-          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
-        }
-      ],
-      "duration_ms": 168254,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/3sKTHvgQztu24ZMymoPqBI"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Hesed",
         "url": "https://open.spotify.com/album/68pECpaNjShEC98gZOI4Yw"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 160500,
       "name": "Hesed",
       "url": "https://open.spotify.com/track/3EMB7zzyxmiA02zqg17rTO"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/57eSKJkvIywj2qc90yBEFQ"
+      },
+      "artists": [
+        {
+          "name": "Marble Sky",
+          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/3sKTHvgQztu24ZMymoPqBI"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Lucidity",
-        "url": "https://open.spotify.com/album/6haBGLYkEAozj08quqeStB"
-      },
-      "artists": [
-        {
-          "name": "Johann Eder",
-          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
-        }
-      ],
-      "duration_ms": 154607,
-      "name": "Lucidity",
-      "url": "https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Evenfall",
         "url": "https://open.spotify.com/album/6U7bC6k2lRuvJlDyK24TpP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 152432,
       "name": "Evenfall",
       "url": "https://open.spotify.com/track/386KJq3D6hXX3BWiPbTnKl"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Lucidity",
+        "url": "https://open.spotify.com/album/6haBGLYkEAozj08quqeStB"
+      },
+      "artists": [
+        {
+          "name": "Johann Eder",
+          "url": "https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o"
+        }
+      ],
+      "duration_ms": 154607,
+      "name": "Lucidity",
+      "url": "https://open.spotify.com/track/4eCVHeQIMNzd6LTQABHVYE"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
+        "name": "My Path",
+        "url": "https://open.spotify.com/album/7ijv9Srpi6oinJwubwsukq"
+      },
+      "artists": [
+        {
+          "name": "Ventura Lumi",
+          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
+        }
+      ],
+      "duration_ms": 185202,
+      "name": "My Path",
+      "url": "https://open.spotify.com/track/2fps9Ph2M4czjrvy7AGkst"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
         "name": "Well of Light",
         "url": "https://open.spotify.com/album/0foZ95FxbFjITQu2XRRE5D"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 140483,
       "name": "Revia",
       "url": "https://open.spotify.com/track/5ApQ5Kxc3XYDEnwM8dIOjA"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
-        "name": "My Path",
-        "url": "https://open.spotify.com/album/7ijv9Srpi6oinJwubwsukq"
-      },
-      "artists": [
-        {
-          "name": "Ventura Lumi",
-          "url": "https://open.spotify.com/artist/0jQvAwzpHfMQhQc76iWBa4"
-        }
-      ],
-      "duration_ms": 185202,
-      "name": "My Path",
-      "url": "https://open.spotify.com/track/2fps9Ph2M4czjrvy7AGkst"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Cyrene",
-        "url": "https://open.spotify.com/album/5GftmKG9oxt9uLGoe2hood"
-      },
-      "artists": [
-        {
-          "name": "SKEN",
-          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Cyrene",
-      "url": "https://open.spotify.com/track/0ba7fzDvZHSyVRrC4c5Tr7"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "The Frost Line",
         "url": "https://open.spotify.com/album/342mUFxbqazehOlAa9lOH1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 194624,
       "name": "The Frost Line",
       "url": "https://open.spotify.com/track/64JVF5lbu1ntooT77veOgN"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Cyrene",
+        "url": "https://open.spotify.com/album/5GftmKG9oxt9uLGoe2hood"
+      },
+      "artists": [
+        {
+          "name": "SKEN",
+          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Cyrene",
+      "url": "https://open.spotify.com/track/0ba7fzDvZHSyVRrC4c5Tr7"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Cynosure",
-        "url": "https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d"
-      },
-      "artists": [
-        {
-          "name": "Elio Moreno",
-          "url": "https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1"
-        }
-      ],
-      "duration_ms": 156243,
-      "name": "Cynosure",
-      "url": "https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Mane",
         "url": "https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 169123,
       "name": "Mane",
       "url": "https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "\u00c1ureo",
+        "url": "https://open.spotify.com/album/0g39Bu8NwE0N23T0DUSVAT"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "duration_ms": 175408,
+      "name": "\u00c1ureo",
+      "url": "https://open.spotify.com/track/5TooMlsbZrt4LaLY454ncm"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "\u00c1ureo",
-        "url": "https://open.spotify.com/album/0g39Bu8NwE0N23T0DUSVAT"
+        "name": "Cynosure",
+        "url": "https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d"
       },
       "artists": [
         {
-          "name": "Constantine Lupo",
-          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+          "name": "Elio Moreno",
+          "url": "https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1"
         }
       ],
-      "duration_ms": 175408,
-      "name": "\u00c1ureo",
-      "url": "https://open.spotify.com/track/5TooMlsbZrt4LaLY454ncm"
+      "duration_ms": 156243,
+      "name": "Cynosure",
+      "url": "https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Somnolence",
-        "url": "https://open.spotify.com/album/5QM7r1Z4sHLn55HW8FkQJD"
-      },
-      "artists": [
-        {
-          "name": "Dream Agent",
-          "url": "https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Somnolence",
-      "url": "https://open.spotify.com/track/3oV8YW1inAjaRJeT6z4wVe"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Nebulith",
         "url": "https://open.spotify.com/album/4Y1DKGsMwxMEefEvwLhOG3"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Alpha Fade",
-        "url": "https://open.spotify.com/album/4ypy5JDtcC0jWeLJbYg9Gs"
+        "name": "Somnolence",
+        "url": "https://open.spotify.com/album/5QM7r1Z4sHLn55HW8FkQJD"
       },
       "artists": [
         {
-          "name": "Quantum Veil",
-          "url": "https://open.spotify.com/artist/0hc3Z99zOxFF4uF8JUPit4"
+          "name": "Dream Agent",
+          "url": "https://open.spotify.com/artist/3c38G2ko0FlIdDYqW0Xqx4"
         }
       ],
-      "duration_ms": 158671,
-      "name": "Alpha Fade",
-      "url": "https://open.spotify.com/track/4SmBBEcWAQ29cHz7sf0SzE"
+      "duration_ms": 145125,
+      "name": "Somnolence",
+      "url": "https://open.spotify.com/track/3oV8YW1inAjaRJeT6z4wVe"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1111,6 +1095,22 @@
       "duration_ms": 132800,
       "name": "Lumina",
       "url": "https://open.spotify.com/track/091cKGIgsRDItpOtzfaNLR"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Alpha Fade",
+        "url": "https://open.spotify.com/album/4ypy5JDtcC0jWeLJbYg9Gs"
+      },
+      "artists": [
+        {
+          "name": "Quantum Veil",
+          "url": "https://open.spotify.com/artist/0hc3Z99zOxFF4uF8JUPit4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Alpha Fade",
+      "url": "https://open.spotify.com/track/4SmBBEcWAQ29cHz7sf0SzE"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1259,38 +1259,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B"
-      },
-      "artists": [
-        {
-          "name": "Nebula Somni",
-          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
-        }
-      ],
-      "duration_ms": 151750,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
-        "name": "Oblivious Calm",
-        "url": "https://open.spotify.com/album/0gHYwkd0Q1iXuvMQ1wjOGP"
-      },
-      "artists": [
-        {
-          "name": "Echo Ark",
-          "url": "https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Oblivious Calm",
-      "url": "https://open.spotify.com/track/05hyRFbR2y23vqu9YOA2xR"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Silent Dreams",
         "url": "https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg"
       },
@@ -1339,8 +1307,24 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Vero",
-        "url": "https://open.spotify.com/album/2tEkfVYGyaMJRI6YGHSdrX"
+        "name": "Oblivious Calm",
+        "url": "https://open.spotify.com/album/0gHYwkd0Q1iXuvMQ1wjOGP"
+      },
+      "artists": [
+        {
+          "name": "Echo Ark",
+          "url": "https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Oblivious Calm",
+      "url": "https://open.spotify.com/track/05hyRFbR2y23vqu9YOA2xR"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/3PJgFEqbNBVECfcTvgtD5B"
       },
       "artists": [
         {
@@ -1348,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
         }
       ],
-      "duration_ms": 135634,
-      "name": "Vero",
-      "url": "https://open.spotify.com/track/5YobMEz6i6p0QuT17Fk4dQ"
+      "duration_ms": 151750,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/6WSBhGwkN8DHJeE0RD2XUt"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Myriad Calm",
-        "url": "https://open.spotify.com/album/6u37Dyp2RqpfGnRgaTkvLd"
-      },
-      "artists": [
-        {
-          "name": "Noyadest",
-          "url": "https://open.spotify.com/artist/0uS9dY982xT5wrD3iwwHk9"
-        }
-      ],
-      "duration_ms": 174983,
-      "name": "Myriad Calm",
-      "url": "https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Solance",
         "url": "https://open.spotify.com/album/1XrM2dnKYRpylwBjBmq0aB"
       },
@@ -1403,6 +1371,22 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
+        "name": "Myriad Calm",
+        "url": "https://open.spotify.com/album/6u37Dyp2RqpfGnRgaTkvLd"
+      },
+      "artists": [
+        {
+          "name": "Noyadest",
+          "url": "https://open.spotify.com/artist/0uS9dY982xT5wrD3iwwHk9"
+        }
+      ],
+      "duration_ms": 174983,
+      "name": "Myriad Calm",
+      "url": "https://open.spotify.com/track/0REjyvDIwTTIydfZNxqL7y"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
         "name": "Sunlit Understory",
         "url": "https://open.spotify.com/album/5HoY4nF6IewhgaNaBAWPXo"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 135567,
       "name": "Sunlit Understory",
       "url": "https://open.spotify.com/track/1jAbNYgBCIDlQlBaOPLVDf"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Vero",
+        "url": "https://open.spotify.com/album/2tEkfVYGyaMJRI6YGHSdrX"
+      },
+      "artists": [
+        {
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+        }
+      ],
+      "duration_ms": 135634,
+      "name": "Vero",
+      "url": "https://open.spotify.com/track/5YobMEz6i6p0QuT17Fk4dQ"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "As Seasons Turn",
-        "url": "https://open.spotify.com/album/69td0JnREhF7Xy0FY8WWrz"
-      },
-      "artists": [
-        {
-          "name": "Dorian Froste",
-          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "As Seasons Turn",
-      "url": "https://open.spotify.com/track/4YOo4NUYoNqT6eFPr5tBnW"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Slowly Drifting",
         "url": "https://open.spotify.com/album/5jgv7o7Z4MlPAiS43hFdkZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 126000,
       "name": "Slowly Drifting",
       "url": "https://open.spotify.com/track/4szbOIFw8z36kyR5rOxWMJ"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "As Seasons Turn",
+        "url": "https://open.spotify.com/album/69td0JnREhF7Xy0FY8WWrz"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "As Seasons Turn",
+      "url": "https://open.spotify.com/track/4YOo4NUYoNqT6eFPr5tBnW"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Different Worlds",
-        "url": "https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o"
+        "name": "White Mist",
+        "url": "https://open.spotify.com/album/5Pm9Q853Bhwe3qyHal42i0"
       },
       "artists": [
         {
-          "name": "Aether Deem",
-          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Different Worlds",
-      "url": "https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP"
+      "duration_ms": 190000,
+      "name": "White Mist",
+      "url": "https://open.spotify.com/track/2y5hF6IeXqWkCfPbR4dVP3"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "White Mist",
-        "url": "https://open.spotify.com/album/5Pm9Q853Bhwe3qyHal42i0"
+        "name": "Different Worlds",
+        "url": "https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o"
       },
       "artists": [
         {
-          "name": "Tristan Axvall",
-          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+          "name": "Aether Deem",
+          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
         }
       ],
-      "duration_ms": 190000,
-      "name": "White Mist",
-      "url": "https://open.spotify.com/track/2y5hF6IeXqWkCfPbR4dVP3"
+      "duration_ms": 150000,
+      "name": "Different Worlds",
+      "url": "https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Margin",
-        "url": "https://open.spotify.com/album/3u7wffCg17gYqD5kp8mEDc"
-      },
-      "artists": [
-        {
-          "name": "Astral Steps",
-          "url": "https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ"
-        }
-      ],
-      "duration_ms": 171962,
-      "name": "Margin",
-      "url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/5F7yS3uaFcoHTzxJ5azc5M"
       },
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Hope Revived",
-        "url": "https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih"
+        "name": "Margin",
+        "url": "https://open.spotify.com/album/3u7wffCg17gYqD5kp8mEDc"
       },
       "artists": [
         {
-          "name": "Eztebe Matia",
-          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+          "name": "Astral Steps",
+          "url": "https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ"
         }
       ],
-      "duration_ms": 163902,
-      "name": "Hope Revived",
-      "url": "https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8"
+      "duration_ms": 171962,
+      "name": "Margin",
+      "url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
+        "name": "Hope Revived",
+        "url": "https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih"
+      },
+      "artists": [
+        {
+          "name": "Eztebe Matia",
+          "url": "https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Hope Revived",
+      "url": "https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
         "name": "Pale Hours",
         "url": "https://open.spotify.com/album/2Dp8o5PeMIUL8FEoqU4xvs"
       },
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Moonblossom",
-        "url": "https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 142687,
-      "name": "Moonblossom",
-      "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Susurrus",
         "url": "https://open.spotify.com/album/0ZuQSCYr1vVCvhIsbnn5rq"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 159316,
       "name": "Susurrus",
       "url": "https://open.spotify.com/track/5HTAFaV8M0xFgmtfKfmMT9"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Moonblossom",
+        "url": "https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 142687,
+      "name": "Moonblossom",
+      "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Ethereal Oasis",
-        "url": "https://open.spotify.com/album/3pRSJPNv9Sjr1BgsIvF9nk"
-      },
-      "artists": [
-        {
-          "name": "Sleep Envoy",
-          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Ethereal Oasis",
-      "url": "https://open.spotify.com/track/6qMubqI3HpYwSt2Riaaway"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Temprano",
         "url": "https://open.spotify.com/album/0IiKCclBY2tuuYUAOSl0cu"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 179433,
       "name": "Temprano",
       "url": "https://open.spotify.com/track/6MJ9wOK2505gYqNQyVxpsz"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Ethereal Oasis",
+        "url": "https://open.spotify.com/album/3pRSJPNv9Sjr1BgsIvF9nk"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Ethereal Oasis",
+      "url": "https://open.spotify.com/track/6qMubqI3HpYwSt2Riaaway"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Beyond The Horizon",
-        "url": "https://open.spotify.com/album/10PvdHe0YBhGeb12OWZQBl"
-      },
-      "artists": [
-        {
-          "name": "Polaria",
-          "url": "https://open.spotify.com/artist/4bnzugdxmIaM1LHUuAdoig"
-        }
-      ],
-      "duration_ms": 160759,
-      "name": "Beyond The Horizon",
-      "url": "https://open.spotify.com/track/16TEWxPhoA7HCq3AX7DPjw"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Dream Shelter",
         "url": "https://open.spotify.com/album/5RI5Lolqbrxjm6ZEj8oBWY"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 158846,
       "name": "Dream Shelter",
       "url": "https://open.spotify.com/track/7DpTaJ6WOUPKEGBlD8kGcQ"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Beyond The Horizon",
+        "url": "https://open.spotify.com/album/10PvdHe0YBhGeb12OWZQBl"
+      },
+      "artists": [
+        {
+          "name": "Polaria",
+          "url": "https://open.spotify.com/artist/4bnzugdxmIaM1LHUuAdoig"
+        }
+      ],
+      "duration_ms": 160759,
+      "name": "Beyond The Horizon",
+      "url": "https://open.spotify.com/track/16TEWxPhoA7HCq3AX7DPjw"
     },
     {
       "added_at": "2026-06-16 10:05:02",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-06-16 10:05:02",
       "album": {
-        "name": "Fortuna",
-        "url": "https://open.spotify.com/album/4PlJ2gjWWc1IAGGpG7sepV"
-      },
-      "artists": [
-        {
-          "name": "Humilis",
-          "url": "https://open.spotify.com/artist/0n8aQnJfcC3RsUNDh9nYdh"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "Fortuna",
-      "url": "https://open.spotify.com/track/0dqgEVrUJN4KB8TBlTxzjF"
-    },
-    {
-      "added_at": "2026-06-16 10:05:02",
-      "album": {
         "name": "Pale Memory",
         "url": "https://open.spotify.com/album/3xdgL0gjv3u3wjvzqh0CJI"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 157673,
       "name": "Pale Memory",
       "url": "https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97"
+    },
+    {
+      "added_at": "2026-06-16 10:05:02",
+      "album": {
+        "name": "Fortuna",
+        "url": "https://open.spotify.com/album/4PlJ2gjWWc1IAGGpG7sepV"
+      },
+      "artists": [
+        {
+          "name": "Humilis",
+          "url": "https://open.spotify.com/artist/0n8aQnJfcC3RsUNDh9nYdh"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "Fortuna",
+      "url": "https://open.spotify.com/track/0dqgEVrUJN4KB8TBlTxzjF"
     },
     {
       "added_at": "2026-06-16 10:05:02",

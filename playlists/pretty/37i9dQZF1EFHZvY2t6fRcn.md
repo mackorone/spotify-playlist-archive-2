@@ -158,9 +158,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 148 | [Even Angels \(feat\. Blas Cantó\)](https://open.spotify.com/track/6ASYGi2AtXMPlwExjle1a4) | [Carlos Marco](https://open.spotify.com/artist/7L2leV7PPUnxsoSPkxLGxd), [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Chalk Dreams](https://open.spotify.com/album/488np3gSXZtNGWUINrcTZi) | 3:46 |
 | 149 | [Vitamin P](https://open.spotify.com/track/3VayoJ5USdqDiA7aMve5Mg) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Vitamin P](https://open.spotify.com/album/1BY3L8DqvUpT1x58yRSRB9) | 2:33 |
 | 150 | [All the Way](https://open.spotify.com/track/4EKw1hTrMpJqa0R8ndbQbD) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/3o5fIfq58YkADC9gkFEfDE) | 3:30 |
-| 151 | [Happen](https://open.spotify.com/track/5TEiqjqNPhFQy1mcKApduO) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/01bVPQv63SRYWBYysr2wEN) | 3:20 |
-| 152 | [Dlt](https://open.spotify.com/track/4nYqH4HmTYVKYx7YzM2AEs) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/7KxM3NSF64uca2eNZfbmcz) | 3:46 |
-| 153 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 151 | [SMALL WORLD](https://open.spotify.com/track/0bhHPERhSMKnog5ZbOgOJT) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [SMALL WORLD](https://open.spotify.com/album/1P0SxBpLCSlXfsyY5u9u6t) | 2:26 |
+| 152 | [Happen](https://open.spotify.com/track/5TEiqjqNPhFQy1mcKApduO) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/01bVPQv63SRYWBYysr2wEN) | 3:20 |
+| 153 | [Dlt](https://open.spotify.com/track/4nYqH4HmTYVKYx7YzM2AEs) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/7KxM3NSF64uca2eNZfbmcz) | 3:46 |
 | 154 | [Conscious](https://open.spotify.com/track/3rsdgWUSYPD9YiWtieunao) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:27 |
 | 155 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 |
 | 156 | [Today](https://open.spotify.com/track/0MBbefxuupc3aYlM4hnKuX) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Today](https://open.spotify.com/album/50yapK30VJH1T9VOI8kORc) | 3:34 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 163 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 164 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AcbK4AAAAABgeQe728pP2vrQsmetUtX9`
+Snapshot ID: `AcbQvAAAAAA1nUv5xuJNnAvwkshJJE3A`

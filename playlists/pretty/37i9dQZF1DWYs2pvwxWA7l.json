@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Joshua Baraka",
-  "num_followers": 653348,
+  "num_followers": 653463,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-08-28 00:01:52",
       "album": {
-        "name": "Gimme Dat",
-        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
-    },
-    {
-      "added_at": "2026-08-28 00:01:52",
-      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "added_at": "2026-08-28 00:01:52",
+      "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
       "added_at": "2026-08-28 00:01:52",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-08-28 00:01:52",
       "album": {
-        "name": "Signature (with Lasmid)",
-        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 162935,
-      "name": "Signature (with Lasmid)",
-      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
-    },
-    {
-      "added_at": "2026-08-28 00:01:52",
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
+    },
+    {
+      "added_at": "2026-08-28 00:01:52",
+      "album": {
+        "name": "Signature (with Lasmid)",
+        "url": "https://open.spotify.com/album/38jBpb68a3lHX3yDkJvKoO"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Signature (with Lasmid)",
+      "url": "https://open.spotify.com/track/5lvBgJ7NIq4XTchoRJX4FJ"
     },
     {
       "added_at": "2026-08-28 00:01:52",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-08-28 00:01:52",
       "album": {
-        "name": "IGBO",
-        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 133852,
-      "name": "IGBO",
-      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
-    },
-    {
-      "added_at": "2026-08-28 00:01:52",
-      "album": {
         "name": "TZA",
         "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 153941,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
+    },
+    {
+      "added_at": "2026-08-28 00:01:52",
+      "album": {
+        "name": "IGBO",
+        "url": "https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 133852,
+      "name": "IGBO",
+      "url": "https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5"
     }
   ],
   "unique_name": "Afropop",

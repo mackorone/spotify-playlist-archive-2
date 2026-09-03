@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 54529,
+  "num_followers": 54558,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAB9Nss54EeXpQugtSMH4E7/",
+  "snapshot_id": "apYVgAAAAABpDQuhkRu5qGP6JOtQrpFV",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed Be",
         "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 245830,
       "name": "Blessed Be",
       "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
     },
     {
       "added_at": null,

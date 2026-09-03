@@ -5649,6 +5649,24 @@
     },
     {
       "album": {
+        "name": "M-am Trezit Aici",
+        "url": "https://open.spotify.com/album/1sLlpst1Nd6yQE8see9X89"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "M-am Trezit Aici",
+      "url": "https://open.spotify.com/track/3F6ysAAtQroeGmfWCVUVzL"
+    },
+    {
+      "album": {
         "name": "Ma Bebe",
         "url": "https://open.spotify.com/album/71vurgYIkjbo2hLVDeHf2w"
       },

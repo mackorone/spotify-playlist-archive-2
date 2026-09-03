@@ -1,6 +1,6 @@
 {
   "description": "The sound of the underground. Cover: Comeback Kid",
-  "num_followers": 489069,
+  "num_followers": 489034,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Dehumanized",
-        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 268181,
-      "name": "Dehumanized",
-      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "dark heaven",
         "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 212272,
       "name": "dark heaven",
       "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 205173,
       "name": "Fortress Down",
       "url": "https://open.spotify.com/track/63SaN607accD2T4mLJFDRd"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "\u2060Lucid Love",
-        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
+        "name": "Far",
+        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
         }
       ],
-      "duration_ms": 210555,
-      "name": "Lucid Love",
-      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
+      "duration_ms": 208615,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
+        "name": "\u2060Lucid Love",
+        "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
       "artists": [
         {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
+      "duration_ms": 210555,
+      "name": "Lucid Love",
+      "url": "https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Black & Blue (2026 Repented)",
-        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 272967,
-      "name": "Black & Blue - 2026 Repented",
-      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "Black & Blue (2026 Repented)",
+        "url": "https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Fangs",
-        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
-      },
-      "artists": [
-        {
-          "name": "Loathe",
-          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "An Ending In Itself",
         "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb"
+      },
+      "artists": [
+        {
+          "name": "Loathe",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        }
+      ],
+      "duration_ms": 249293,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Hand Me A Halo",
-        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 199251,
-      "name": "Hand Me A Halo",
-      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "NOISE",
         "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "Hand Me A Halo",
+        "url": "https://open.spotify.com/album/6OVLPlT4Eqw244iwqqbELe"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 199251,
+      "name": "Hand Me A Halo",
+      "url": "https://open.spotify.com/track/5YNpcySo8CtJhZQpE8l3m5"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "May this pain never leave",
-        "url": "https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "May this pain never leave",
-      "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "Last One Here",
         "url": "https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 200493,
       "name": "Last One Here",
       "url": "https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "May this pain never leave",
+        "url": "https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "May this pain never leave",
+      "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 204103,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
-      },
-      "artists": [
-        {
-          "name": "Profiler",
-          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
-        }
-      ],
-      "duration_ms": 262784,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "do or die",
         "url": "https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk"
       },
@@ -1179,8 +1163,24 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "Death Threat",
-        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V"
+      },
+      "artists": [
+        {
+          "name": "Profiler",
+          "url": "https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo"
+        }
+      ],
+      "duration_ms": 262784,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
       },
       "artists": [
         {
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
         }
       ],
-      "duration_ms": 182293,
-      "name": "Death Threat",
-      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
+      "duration_ms": 204103,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf"
     },
     {
       "added_at": "2026-08-28 00:00:23",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-08-28 00:00:23",
       "album": {
-        "name": "What Can I Say (09 | 26)",
-        "url": "https://open.spotify.com/album/7km6MqLpTPeuF3JvBYVUFr"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "What Can I Say - 09 | 26",
-      "url": "https://open.spotify.com/track/4zM9nCYc5PZZgmVINH7LEl"
-    },
-    {
-      "added_at": "2026-08-28 00:00:23",
-      "album": {
         "name": "Give Me Dirt",
         "url": "https://open.spotify.com/album/64gq0H6qzkiRRf0tFPtxWG"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 232135,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/78Byi7xHQziRc0dRsNMwBb"
+    },
+    {
+      "added_at": "2026-08-28 00:00:23",
+      "album": {
+        "name": "What Can I Say (09 | 26)",
+        "url": "https://open.spotify.com/album/7km6MqLpTPeuF3JvBYVUFr"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "What Can I Say - 09 | 26",
+      "url": "https://open.spotify.com/track/4zM9nCYc5PZZgmVINH7LEl"
     },
     {
       "added_at": "2026-08-28 00:00:23",

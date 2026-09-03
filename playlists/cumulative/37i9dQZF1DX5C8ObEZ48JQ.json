@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be\">Ila Nia</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt?si=9176f0232659484c\">ru.</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -5065,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "SILK",
+        "url": "https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo"
+      },
+      "artists": [
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148163,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9"
+    },
+    {
+      "album": {
         "name": "Class of '23: Class of Extraordinary Talent",
         "url": "https://open.spotify.com/album/1o2jgzWNhke2kchg5npMOX"
       },
@@ -6200,7 +6218,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 167263,
       "name": "Diaspora",
       "url": "https://open.spotify.com/track/0NyxRCbgw39IwU7QUoH1n5"
@@ -9460,7 +9478,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 187197,
       "name": "f\u00eateRock*",
       "url": "https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN"
@@ -18730,7 +18748,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 164800,
       "name": "no telling.",
       "url": "https://open.spotify.com/track/7IzGv1gLt27PfLrOwSi1vq"
@@ -21086,7 +21104,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 123750,
       "name": "PRESS AM",
       "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
@@ -23700,7 +23718,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 138214,
       "name": "Slogodo",
       "url": "https://open.spotify.com/track/5WQnzL9Phe9clUJ9lKSGEQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Toxic
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,541 likes - 78 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,607 likes - 78 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

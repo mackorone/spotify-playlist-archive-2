@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 50719,
+  "num_followers": 50733,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAB67OrUBbSWmswYre6EqSdJ",
+  "snapshot_id": "apYVgAAAAAC6rF967HTIngN+JGaQEgAX",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Dizzy",
-      "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 196618,
       "name": "Something Loud",
       "url": "https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/5xn1j6DBs769Kn3BvGQWDA"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Movielike",
-      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 227733,
+      "name": "Movielike",
+      "url": "https://open.spotify.com/track/52SauL4Z7aE1t3C4JZXT8L"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 198506,
-      "name": "Heart Is Hard To Find",
-      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
+      "duration_ms": 219906,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW"
+      "duration_ms": 198506,
+      "name": "Heart Is Hard To Find",
+      "url": "https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
+      "duration_ms": 250320,
+      "name": "(Splash) Turn Twist",
+      "url": "https://open.spotify.com/track/1gTxd0qlKXntIjENSRHofF"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+      "duration_ms": 154666,
+      "name": "What Would I Say To You Now",
+      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
       "artists": [
         {
@@ -776,9 +776,25 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 250320,
-      "name": "(Splash) Turn Twist",
-      "url": "https://open.spotify.com/track/1gTxd0qlKXntIjENSRHofF"
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "added_at": null,
@@ -792,25 +808,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 154666,
-      "name": "What Would I Say To You Now",
-      "url": "https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
+      "duration_ms": 180800,
+      "name": "Call It In The Air",
+      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
     }
   ],
   "unique_name": "This Is Jimmy Eat World",

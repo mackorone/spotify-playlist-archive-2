@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: badm\u00f3mzjay",
-  "num_followers": 50880,
+  "num_followers": 50953,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Luftkuss",
         "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 113761,
       "name": "Luftkuss",
       "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "OAKBERRY",
-        "url": "https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7"
+        "name": "Appetit",
+        "url": "https://open.spotify.com/album/5R3CNUWIz5aCJQS7EklvHU"
       },
       "artists": [
         {
-          "name": "AYCA",
-          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
+          "name": "Mieze",
+          "url": "https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU"
         }
       ],
-      "duration_ms": 111600,
-      "name": "OAKBERRY",
-      "url": "https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr"
+      "duration_ms": 119428,
+      "name": "Appetit",
+      "url": "https://open.spotify.com/track/2Ru4Mr1fRMvvq0zB5ufTW5"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "OAKBERRY",
+        "url": "https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7"
+      },
+      "artists": [
+        {
+          "name": "AYCA",
+          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
+        }
+      ],
+      "duration_ms": 111600,
+      "name": "OAKBERRY",
+      "url": "https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "Ich hoffe du hast Angst",
         "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
       },
@@ -251,38 +267,6 @@
       "duration_ms": 150822,
       "name": "Ich hoffe du hast Angst",
       "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "Appetit",
-        "url": "https://open.spotify.com/album/5R3CNUWIz5aCJQS7EklvHU"
-      },
-      "artists": [
-        {
-          "name": "Mieze",
-          "url": "https://open.spotify.com/artist/7M4NzPON3JqwE3GRfdg7eU"
-        }
-      ],
-      "duration_ms": 119428,
-      "name": "Appetit",
-      "url": "https://open.spotify.com/track/2Ru4Mr1fRMvvq0zB5ufTW5"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "2MG",
-        "url": "https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0"
-      },
-      "artists": [
-        {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
-        }
-      ],
-      "duration_ms": 127071,
-      "name": "2MG",
-      "url": "https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -307,6 +291,22 @@
       "duration_ms": 121749,
       "name": "tussis > macker",
       "url": "https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "2MG",
+        "url": "https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0"
+      },
+      "artists": [
+        {
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+        }
+      ],
+      "duration_ms": 127071,
+      "name": "2MG",
+      "url": "https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -363,54 +363,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "blair waldorf #mag mich",
-        "url": "https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM"
-      },
-      "artists": [
-        {
-          "name": "Charlize",
-          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
-        }
-      ],
-      "duration_ms": 142255,
-      "name": "blair waldorf #mag mich",
-      "url": "https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "Don't Trust Bitches",
-        "url": "https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 171628,
-      "name": "BLESSED",
-      "url": "https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "vvm",
-        "url": "https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "vvm",
-      "url": "https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "kahs l\u00e0 bas",
         "url": "https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0"
       },
@@ -431,6 +383,54 @@
       "duration_ms": 130331,
       "name": "kahs l\u00e0 bas",
       "url": "https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Don't Trust Bitches",
+        "url": "https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 171628,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "blair waldorf #mag mich",
+        "url": "https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM"
+      },
+      "artists": [
+        {
+          "name": "Charlize",
+          "url": "https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW"
+        }
+      ],
+      "duration_ms": 142255,
+      "name": "blair waldorf #mag mich",
+      "url": "https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "vvm",
+        "url": "https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "vvm",
+      "url": "https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "love of my life",
-        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Blow Sum More",
         "url": "https://open.spotify.com/album/1R0KCsLVFFmork5VL9bpq2"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD"
+        "name": "love of my life",
+        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
       },
       "artists": [
         {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj"
+      "duration_ms": 159773,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -595,6 +579,38 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "ADRENALIN",
+        "url": "https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "ADRENALIN",
+      "url": "https://open.spotify.com/track/40uLIxGcvydremPOVvcasV"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "Don't Mess With Me",
         "url": "https://open.spotify.com/album/7fNGYIwIf6gz2sXpb8qOTu"
       },
@@ -607,6 +623,22 @@
       "duration_ms": 204520,
       "name": "Don't Mess With Me",
       "url": "https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Little Silver",
+        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Little Silver",
+      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -643,22 +675,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "ADRENALIN",
-        "url": "https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ"
-      },
-      "artists": [
-        {
-          "name": "CARLI",
-          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "ADRENALIN",
-      "url": "https://open.spotify.com/track/40uLIxGcvydremPOVvcasV"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "TEST",
         "url": "https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 326400,
       "name": "Faded Echos",
       "url": "https://open.spotify.com/track/7aoiix7qtd4JMAAJaOjJ2s"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "Little Silver",
-        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Little Silver",
-      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "po\u00e8me flou",
-        "url": "https://open.spotify.com/album/0P3KJJONdWDJAx1h4X4fgN"
-      },
-      "artists": [
-        {
-          "name": "PAU",
-          "url": "https://open.spotify.com/artist/78N4EdgLLbUGyOlvJiGsM9"
-        }
-      ],
-      "duration_ms": 144789,
-      "name": "po\u00e8me flou",
-      "url": "https://open.spotify.com/track/7vBvHMgR7fw9tYqyNFknXy"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "DIVA CLUB",
         "url": "https://open.spotify.com/album/1qkc6VY7VlrJen8mBcfKbu"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 248950,
       "name": "DIVA CLUB",
       "url": "https://open.spotify.com/track/4Sb1E7Z2bAigEjtGQNSK1o"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "po\u00e8me flou",
+        "url": "https://open.spotify.com/album/0P3KJJONdWDJAx1h4X4fgN"
+      },
+      "artists": [
+        {
+          "name": "PAU",
+          "url": "https://open.spotify.com/artist/78N4EdgLLbUGyOlvJiGsM9"
+        }
+      ],
+      "duration_ms": 144789,
+      "name": "po\u00e8me flou",
+      "url": "https://open.spotify.com/track/7vBvHMgR7fw9tYqyNFknXy"
     },
     {
       "added_at": "2026-09-01 22:00:08",

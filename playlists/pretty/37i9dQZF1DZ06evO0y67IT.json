@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9866,
+  "num_followers": 9869,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADy6S6CanR1bUjhqKuqQQOg",
+  "snapshot_id": "apYVgAAAAADMER+OAnFYio048qbAcc2Q",
   "tracks": [
     {
       "added_at": null,
@@ -456,17 +456,13 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         },
         {
-          "name": "Brendan Murphy",
-          "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE"
-        },
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 172560,
-      "name": "Constant Dread",
-      "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
     },
     {
       "added_at": null,
@@ -528,13 +524,17 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         },
         {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
+          "name": "Brendan Murphy",
+          "url": "https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE"
+        },
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
+      "duration_ms": 172560,
+      "name": "Constant Dread",
+      "url": "https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT"
     },
     {
       "added_at": null,

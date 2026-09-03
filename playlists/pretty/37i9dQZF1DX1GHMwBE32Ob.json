@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Zinoleesky",
-  "num_followers": 155500,
+  "num_followers": 155665,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Anybody",
         "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 150073,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Timileyin 2.0",
-        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Where I\u2019m from",
-      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "CLAAT!",
         "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 174150,
       "name": "CLAAT!",
       "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
       "artists": [
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         }
       ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -679,6 +663,22 @@
       "duration_ms": 156428,
       "name": "Are you there?",
       "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 153070,
+      "name": "CLEAR",
+      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 153070,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -799,18 +799,42 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Rhythm Vault",
+          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
+      "duration_ms": 154800,
+      "name": "Chokehold",
+      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "WhatsApp",
+        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "WhatsApp",
+      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -835,22 +859,18 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "WhatsApp",
-        "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 134237,
-      "name": "WhatsApp",
-      "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -903,26 +923,6 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "Chokehold",
-        "url": "https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76"
-      },
-      "artists": [
-        {
-          "name": "Rhythm Vault",
-          "url": "https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "Chokehold",
-      "url": "https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "added_at": "2026-08-28 00:02:03",
+      "album": {
+        "name": "Excellent",
+        "url": "https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Excellent",
+      "url": "https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -975,22 +991,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": "2026-08-28 00:02:03",
-      "album": {
-        "name": "Excellent",
-        "url": "https://open.spotify.com/album/4QSZZ7iKC0mYdxN7GxU6OQ"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Excellent",
-      "url": "https://open.spotify.com/track/7iB4d1Hv4etq3g12IK8RHQ"
     },
     {
       "added_at": "2026-08-28 00:02:03",
@@ -1067,26 +1067,26 @@
     {
       "added_at": "2026-08-28 00:02:03",
       "album": {
-        "name": "JUNCTION",
-        "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
+        "name": "Kowope",
+        "url": "https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh"
       },
       "artists": [
         {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         },
         {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Vusic",
+          "url": "https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T"
         }
       ],
-      "duration_ms": 169411,
-      "name": "CUTLASS",
-      "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
+      "duration_ms": 211525,
+      "name": "Kowope",
+      "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"
     }
   ],
   "unique_name": "Street Energy ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159 likes - 188 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 160 likes - 188 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 118 | [Birthday](https://open.spotify.com/track/3v3TREGncEqFVExadkOhtY) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:16 |
 | 119 | [Hangover](https://open.spotify.com/track/5asegb19C7iaWFyx63UKj8) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [While You Wait](https://open.spotify.com/album/78GlZJUM3ehtYtWTxaFXT4) | 3:24 |
 | 120 | [Delete It \- Edit](https://open.spotify.com/track/7JbxK2WFeH0WGpV2c1nDTb) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Delete It \(Edit\)](https://open.spotify.com/album/6uG2d0AEFABsFwU1fSfCEi) | 2:26 |
-| 121 | [Sophie](https://open.spotify.com/track/49o7kcMGl6cu6vAvEf6pNt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 2:55 |
-| 122 | [16 Summers](https://open.spotify.com/track/7Ftzsq58catsPcpSoWzjlo) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:41 |
+| 121 | [16 Summers](https://open.spotify.com/track/7Ftzsq58catsPcpSoWzjlo) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:41 |
+| 122 | [Sophie](https://open.spotify.com/track/49o7kcMGl6cu6vAvEf6pNt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 2:55 |
 | 123 | [Things I Really Mean](https://open.spotify.com/track/46d3pupIXoXR8pH3wNclYW) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:42 |
 | 124 | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/track/4JbeTykkOPSKsFoqJLF4Iw) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Ellenor](https://open.spotify.com/artist/0REqgP6J3j3gr32k7dn4VF) | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/album/2k5DUuBioR17x2FaMBvg8g) | 2:26 |
 | 125 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 |
@@ -191,10 +191,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 181 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 |
 | 182 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
 | 183 | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/track/4uqdGFMvULvi9igshw966M) | [Music Waves](https://open.spotify.com/artist/5T0tLYHuLlEQ9ng3itmnrn) | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/album/75N26cF9ADxQQSbHl0Z4wb) | 4:57 |
-| 184 | [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 |
-| 185 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
+| 184 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
+| 185 | [Saturday](https://open.spotify.com/track/5PKcv8T4xv1IbcW1s7lklP) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Greener Grass](https://open.spotify.com/album/6Rx9pQ9UbIDAPpNXvHPmGx) | 3:05 |
 | 186 | [You Go Too Fast \- Demo](https://open.spotify.com/track/1Yn8TF5NGEZALjrl6YKYAG) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry \(20th Anniversary Edition\)](https://open.spotify.com/album/0UuAQD9Qv1Nd51Z75kgNqp) | 3:53 |
 | 187 | [Crush](https://open.spotify.com/track/5cjyHKXAV1OCX8MpjoAglp) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Super Deluxe Edition\)](https://open.spotify.com/album/1nB0GYarRd5bnenhk2FdA7) | 2:46 |
 | 188 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AcbLEgAAAABZzAJ50iadF7Wl9rT76EmI`
+Snapshot ID: `AcbQvAAAAABk0Rs3YO5kqGfWt7SPCbnA`

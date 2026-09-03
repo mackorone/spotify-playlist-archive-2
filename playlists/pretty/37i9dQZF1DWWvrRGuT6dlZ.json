@@ -1,15 +1,47 @@
 {
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Ritchie Leong. Artwork: Isu Kim.",
-  "num_followers": 7048,
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Mona Shirakawa. Artwork: Isu Kim.",
+  "num_followers": 7066,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANucNSQUzlWqswyXqQSrHDo6UQSU",
+  "snapshot_id": "AAAAAJqauKtZt1KhQL+AXbZ11WpBMIiX",
   "tracks": [
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
+      "album": {
+        "name": "Start Line",
+        "url": "https://open.spotify.com/album/3EjZaO6p4nrrxpVa95HWIB"
+      },
+      "artists": [
+        {
+          "name": "Mona Shirakawa",
+          "url": "https://open.spotify.com/artist/1oaUtsLI8ap1gtMqckeKn3"
+        }
+      ],
+      "duration_ms": 183884,
+      "name": "Start Line",
+      "url": "https://open.spotify.com/track/11KioBAgn4SKau9afEXJ7c"
+    },
+    {
+      "added_at": "2026-09-02 06:02:03",
+      "album": {
+        "name": "\u5bb6",
+        "url": "https://open.spotify.com/album/1JMkKYEodLF0dHrlo2r6Bq"
+      },
+      "artists": [
+        {
+          "name": "Jasmine C",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        }
+      ],
+      "duration_ms": 254274,
+      "name": "\u5bb6",
+      "url": "https://open.spotify.com/track/4VwDUUSNtsj7N1vaAoH3VS"
+    },
+    {
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2YF4JyTySQMQNj7Sx6UYMH"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/08YHxWGxRkjpo4SSCEfA4p"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "\u53ea\u662f\u670b\u53cb",
         "url": "https://open.spotify.com/album/1wVtLjvq5hCScvfLEmrI2a"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/12g2g9t7VYNwdp5yrWNTGb"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Big Stage Rocketfuel - Dominasi For Real",
         "url": "https://open.spotify.com/album/5qFtaVKbT03WjWsrKHG96z"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/0iELiHJoMexn3eSMGUiiEc"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "While You're Gone",
         "url": "https://open.spotify.com/album/4O9Ou3INly8zIFMwEocgN8"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/0TolqQgmzw9i5FxG1Azt6Y"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "stay here with me.",
         "url": "https://open.spotify.com/album/2b4iGs9FGpopqL6cdTKCLH"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/5dftQYvSakohW0isVkKnII"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Bed of Roses",
         "url": "https://open.spotify.com/album/4WhpnFxQ0Bz7FGdmv7Nwvj"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/1fvSjXgsitpPTIX8GnIJN8"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Tersakiti",
         "url": "https://open.spotify.com/album/58apzZ9XT1cq8ArlzmKrui"
@@ -121,7 +153,7 @@
       "url": "https://open.spotify.com/track/2Kn64PP25EtjC7pFGrS4Pu"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "TOO LONG",
         "url": "https://open.spotify.com/album/0m4KqLRmlNd4Uv8YT91y8n"
@@ -137,7 +169,7 @@
       "url": "https://open.spotify.com/track/55IaRKEQyAuwcfSs7rSmLN"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Aku Berdiri",
         "url": "https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK"
@@ -153,7 +185,7 @@
       "url": "https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Ordinary Love",
         "url": "https://open.spotify.com/album/4ydxXE12hd1YFCD7FL5BcQ"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/02bN0E0c3yZscn7WZ104rD"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Last Goodbye",
         "url": "https://open.spotify.com/album/1GXnrfJVkKA3IJ1qDrx6j7"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/0TQGjBPwI3UUM3zvKRsnad"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Takkan Menyerah",
         "url": "https://open.spotify.com/album/5bQfcQaIirkXPX2XR0g6b3"
@@ -201,7 +233,7 @@
       "url": "https://open.spotify.com/track/44wumjkitSkaorAWIiXjfu"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Wit It",
         "url": "https://open.spotify.com/album/61b0DFFuEqScHNpM7mmeAN"
@@ -217,7 +249,7 @@
       "url": "https://open.spotify.com/track/3FoZhqHeI2sKtRVbq9NoDD"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "beauty in disappearing",
         "url": "https://open.spotify.com/album/50ifT6yz3TI713VIVOubOd"
@@ -233,7 +265,7 @@
       "url": "https://open.spotify.com/track/5ALphylnpIqdnN1t1iqBZB"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Kanmai",
         "url": "https://open.spotify.com/album/6izvifWSYjkixBJmMVi2jL"
@@ -249,7 +281,7 @@
       "url": "https://open.spotify.com/track/0tEOw7DxI7dEeM4qrK7G4h"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Gembira Cinta",
         "url": "https://open.spotify.com/album/62vnv7SrxlIGA8CwvkQfs0"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/7GJrEvXQd1dqIX9OAn8Ni9"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Rayakan Dia",
         "url": "https://open.spotify.com/album/4H43hSAJEoOUvBdbVXjS7v"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/6YMV8CB1h3myG0Wi8iwvEL"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Gelanggang Rasa",
         "url": "https://open.spotify.com/album/6nO8VkLnveI1IuYDIQj1tE"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/4SBXoYisIfTYSSmYCTKz12"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "\u6700\u5f8c\u4e00\u6b21\u5728\u96e8\u88e1\u60f3\u8d77\u4f60",
         "url": "https://open.spotify.com/album/4plMFCM9gY9NuByTh6lgWt"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/2XJhu9DoqcCUkJGI8DFMsX"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "B2B",
         "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Head Inside",
         "url": "https://open.spotify.com/album/5mHB0OLAy1ctulu51ILj7i"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/3UWLMqGeWFay7BECP4EgHN"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Semanis Gula",
         "url": "https://open.spotify.com/album/6dRwSyvXEdgcti74lOUaon"
@@ -365,7 +397,7 @@
       "url": "https://open.spotify.com/track/74P4Lhfr96kWIdU6fw8Suy"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Secret Affair",
         "url": "https://open.spotify.com/album/4fY1Jqi2yh8QRa2DCu7OpM"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/23FJBnPCynZfJdO2V30cSq"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Hate That I Miss You",
         "url": "https://open.spotify.com/album/3quyJza5oICfxrt2ooYcNt"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/2ajRD6O9yfql10QFJuxPfy"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "\u521a\u597d\u7684Just nice",
         "url": "https://open.spotify.com/album/1WAeAtrSoYA4EhHhGBwUat"
@@ -413,7 +445,7 @@
       "url": "https://open.spotify.com/track/1Epv1zjABotwO1NTdWNR0J"
     },
     {
-      "added_at": "2026-08-26 05:00:09",
+      "added_at": "2026-09-02 06:02:03",
       "album": {
         "name": "Bebas",
         "url": "https://open.spotify.com/album/5OtRVC36qq6m3MCh4baQgG"
@@ -427,54 +459,6 @@
       "duration_ms": 235000,
       "name": "Bebas",
       "url": "https://open.spotify.com/track/4fH93CIlXefUz7dLNj4iUA"
-    },
-    {
-      "added_at": "2026-08-26 05:00:09",
-      "album": {
-        "name": "Nama Yang Tersimpan",
-        "url": "https://open.spotify.com/album/2iLDC6mZCEiZnifKMVMviL"
-      },
-      "artists": [
-        {
-          "name": "Erika Foo",
-          "url": "https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Nama Yang Tersimpan",
-      "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
-    },
-    {
-      "added_at": "2026-08-26 05:00:09",
-      "album": {
-        "name": "\u738b\u5b50\u7684\u65b0\u8863",
-        "url": "https://open.spotify.com/album/1e1n3ymihZHeWdBNH04x7E"
-      },
-      "artists": [
-        {
-          "name": "Calvin \u674e\u5fe0\u4f26",
-          "url": "https://open.spotify.com/artist/1vJpjk0BTpwo8fJ6OEtl0C"
-        }
-      ],
-      "duration_ms": 202406,
-      "name": "\u738b\u5b50\u7684\u65b0\u8863",
-      "url": "https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW"
-    },
-    {
-      "added_at": "2026-08-26 05:00:09",
-      "album": {
-        "name": "In Absence",
-        "url": "https://open.spotify.com/album/3nB8MJAXIEKTP825IywWYd"
-      },
-      "artists": [
-        {
-          "name": "The Baby Cosmos",
-          "url": "https://open.spotify.com/artist/4J5HK6rQIwVEgOZGG6JM4f"
-        }
-      ],
-      "duration_ms": 288923,
-      "name": "In Absence",
-      "url": "https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4"
     }
   ],
   "unique_name": "Fresh Finds SG & MY",

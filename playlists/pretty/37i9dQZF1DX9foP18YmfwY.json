@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Comunidade Cat\u00f3lica Shalom",
-  "num_followers": 381156,
+  "num_followers": 381218,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-08-07 14:21:56",
       "album": {
-        "name": "Restitui",
-        "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
-      },
-      "artists": [
-        {
-          "name": "Padre Diogo Albuquerque",
-          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 273013,
-      "name": "Restitui",
-      "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
-    },
-    {
-      "added_at": "2026-08-07 14:21:56",
-      "album": {
         "name": "Arvoreando (Ao Vivo)",
         "url": "https://open.spotify.com/album/0HfPOEYcdBEFCZOdfwl88D"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 152350,
       "name": "Arvoreando - Ao Vivo",
       "url": "https://open.spotify.com/track/0RmwZYYflofJBAD79uhthh"
+    },
+    {
+      "added_at": "2026-08-07 14:21:56",
+      "album": {
+        "name": "Restitui",
+        "url": "https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5"
+      },
+      "artists": [
+        {
+          "name": "Padre Diogo Albuquerque",
+          "url": "https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 273013,
+      "name": "Restitui",
+      "url": "https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5"
     },
     {
       "added_at": "2026-08-07 14:21:56",

@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Det ligger n\u00e5t i luften",
       "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
@@ -19628,7 +19628,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 139920,
       "name": "GG",
       "url": "https://open.spotify.com/track/6mwuhYhhovHMFvDOvr1B2Y"
@@ -28382,7 +28382,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 146718,
       "name": "Kan Inte G\u00e5",
       "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
@@ -38680,7 +38680,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 163246,
       "name": "One (Your Name) - Radio Edit",
       "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
@@ -38698,7 +38698,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 169920,
       "name": "One - Radio Edit",
       "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
@@ -48745,6 +48745,32 @@
     },
     {
       "album": {
+        "name": "ST\u00d6RD",
+        "url": "https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u"
+      },
+      "artists": [
+        {
+          "name": "KYPARN",
+          "url": "https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw"
+        },
+        {
+          "name": "DIREKT\u00d6REN",
+          "url": "https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161841,
+      "name": "ST\u00d6RD",
+      "url": "https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ"
+    },
+    {
+      "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
@@ -56738,7 +56764,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 199479,
       "name": "Wait So Long (Why Do I Have To)",
       "url": "https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT"

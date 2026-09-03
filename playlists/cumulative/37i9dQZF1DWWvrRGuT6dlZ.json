@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Ritchie Leong. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Mona Shirakawa. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -11104,7 +11104,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 288923,
       "name": "In Absence",
       "url": "https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4"
@@ -15616,7 +15616,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 259000,
       "name": "Nama Yang Tersimpan",
       "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
@@ -21478,6 +21478,24 @@
       "duration_ms": 326537,
       "name": "stars (demo)",
       "url": "https://open.spotify.com/track/5MLXnpWkB668vcqHq8zuQl"
+    },
+    {
+      "album": {
+        "name": "Start Line",
+        "url": "https://open.spotify.com/album/3EjZaO6p4nrrxpVa95HWIB"
+      },
+      "artists": [
+        {
+          "name": "Mona Shirakawa",
+          "url": "https://open.spotify.com/artist/1oaUtsLI8ap1gtMqckeKn3"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183884,
+      "name": "Start Line",
+      "url": "https://open.spotify.com/track/11KioBAgn4SKau9afEXJ7c"
     },
     {
       "album": {
@@ -27827,6 +27845,24 @@
     },
     {
       "album": {
+        "name": "\u5bb6",
+        "url": "https://open.spotify.com/album/1JMkKYEodLF0dHrlo2r6Bq"
+      },
+      "artists": [
+        {
+          "name": "Jasmine C",
+          "url": "https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254274,
+      "name": "\u5bb6",
+      "url": "https://open.spotify.com/track/4VwDUUSNtsj7N1vaAoH3VS"
+    },
+    {
+      "album": {
         "name": "\u5beb\u597d\u7684\u624b\u4fe1",
         "url": "https://open.spotify.com/album/3V4KbORBPdPfx3Jto0B8Kk"
       },
@@ -28442,7 +28478,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 202406,
       "name": "\u738b\u5b50\u7684\u65b0\u8863",
       "url": "https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW"

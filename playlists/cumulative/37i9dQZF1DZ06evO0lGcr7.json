@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 212093,
       "name": "lessons",
       "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/2HgQBy47EwhIOGMImdi7Gq"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 254230,
       "name": "rain",
       "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
@@ -1834,6 +1834,24 @@
       "duration_ms": 200920,
       "name": "wallflower",
       "url": "https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr"
+    },
+    {
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221455,
+      "name": "white out",
+      "url": "https://open.spotify.com/track/0Zl11FISchsdUuKPDKwDcF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lGcr7"

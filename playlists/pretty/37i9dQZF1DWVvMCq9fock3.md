@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvMCq9fock3.md) - [plain]
 
 > Get your pride party/pregame/kiki/brunch/afters started with these iconic new and classic videos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,401 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,445 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

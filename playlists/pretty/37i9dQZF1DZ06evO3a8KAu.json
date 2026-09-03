@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50866,
+  "num_followers": 50867,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACSuXlhsc9Lr9FAA86KUbxX",
+  "snapshot_id": "apYVgAAAAAC5TtzAPXO44dU/TtpDHSrw",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 238979,
-      "name": "Te Robar\u00e9 Una Noche",
-      "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
+      "duration_ms": 178117,
+      "name": "Quer\u00eda Que Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
     },
     {
       "added_at": null,
@@ -460,25 +460,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 178117,
-      "name": "Quer\u00eda Que Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Nunca Valiste Tanto - En Vivo",
-      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
+      "duration_ms": 238979,
+      "name": "Te Robar\u00e9 Una Noche",
+      "url": "https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 192218,
       "name": "No Tiene Comparaci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto - En Vivo",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 236009,
-      "name": "Mi Mejor Plan Eres Tu",
-      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dile Luna",
         "url": "https://open.spotify.com/album/5NqeFweZPDsG8BBaDu4t7M"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191338,
       "name": "Dile Luna",
       "url": "https://open.spotify.com/track/1Rhk3wfxtL21hp9PgPpYH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 236009,
+      "name": "Mi Mejor Plan Eres Tu",
+      "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Elegido",
         "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 222778,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
+      "duration_ms": 219149,
+      "name": "Entre Mas Te Miro",
+      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
     },
     {
       "added_at": null,
@@ -692,13 +692,13 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 218923,
-      "name": "Voy a Echarme Otra",
-      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
+      "duration_ms": 155939,
+      "name": "Toditos Somos Iguales",
+      "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 219149,
-      "name": "Entre Mas Te Miro",
-      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
+      "duration_ms": 222778,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         },
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 155939,
-      "name": "Toditos Somos Iguales",
-      "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
+      "duration_ms": 218923,
+      "name": "Voy a Echarme Otra",
+      "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 191692,
+      "name": "Ten\u00eda Que Ser As\u00ed",
+      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivo Por Vivir",
         "url": "https://open.spotify.com/album/4ePyH9eyT5Bt23sIxFkNUX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 168394,
       "name": "Vivo Por Vivir",
       "url": "https://open.spotify.com/track/21Aj47SopRYp01kVhMtYz9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 191692,
-      "name": "Ten\u00eda Que Ser As\u00ed",
-      "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
     },
     {
       "added_at": null,

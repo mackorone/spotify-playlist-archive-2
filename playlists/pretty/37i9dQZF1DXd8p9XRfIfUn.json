@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81349,
+  "num_followers": 81353,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "No Estoy",
         "url": "https://open.spotify.com/album/5L00qyZASsGZZC4L1tYDRL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 113000,
       "name": "No Estoy",
       "url": "https://open.spotify.com/track/4AOxMjHyzzcbjFnHOmd1l7"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 125615,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -739,6 +739,34 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Nada Formal",
+        "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
+      },
+      "artists": [
+        {
+          "name": "MVSIS",
+          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Nada Formal",
+      "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
         "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
       },
@@ -771,34 +799,6 @@
       "duration_ms": 127264,
       "name": "Uy k raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Nada Formal",
-        "url": "https://open.spotify.com/album/27e20XRLAglZv8waxqEeWz"
-      },
-      "artists": [
-        {
-          "name": "MVSIS",
-          "url": "https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        },
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Nada Formal",
-      "url": "https://open.spotify.com/track/5kvlGR3K69Hk3a3DwfJQED"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1083,26 +1083,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
       },
       "artists": [
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+      "duration_ms": 150105,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1123,22 +1119,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Enemigo",
-        "url": "https://open.spotify.com/album/3MpY9D0qaaL3gJLlEX3oOd"
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
       },
       "artists": [
         {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
         },
         {
-          "name": "The Prodigiez",
-          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 150105,
-      "name": "Enemigo",
-      "url": "https://open.spotify.com/track/5rsTUSxqHysadud5uwpqke"
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2025-09-18 23:00:14",

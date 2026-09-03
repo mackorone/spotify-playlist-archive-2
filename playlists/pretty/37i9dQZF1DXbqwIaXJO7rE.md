@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqwIaXJO7rE.md) - [plain]
 
 > The songs and videos we'd put on if we were feeling loose in someone's living room together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,131 likes - 46 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,138 likes - 46 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

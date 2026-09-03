@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443037,
+  "num_followers": 443000,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "157 VERDADEIRO REAL TRAP",
+        "url": "https://open.spotify.com/album/6xCEKHHuQEOUKDdA48QNlB"
+      },
+      "artists": [
+        {
+          "name": "DJ WG DO MIRIAMBI O PORRADEIRO",
+          "url": "https://open.spotify.com/artist/0ZoXxojOUsWG4lcvYcIDCV"
+        }
+      ],
+      "duration_ms": 115941,
+      "name": "157 TRUE REAL TRAP",
+      "url": "https://open.spotify.com/track/5bTwmHwPgeDWBUAl8MNmDU"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "At\u00e9 o Pr\u00f3ximo Carnaval, Vol. 3",
         "url": "https://open.spotify.com/album/6k9jVRNVQRkPrqrT8PGpGI"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 162507,
       "name": "Bloco dos Apaixonados",
       "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "157 VERDADEIRO REAL TRAP",
-        "url": "https://open.spotify.com/album/6xCEKHHuQEOUKDdA48QNlB"
-      },
-      "artists": [
-        {
-          "name": "DJ WG DO MIRIAMBI O PORRADEIRO",
-          "url": "https://open.spotify.com/artist/0ZoXxojOUsWG4lcvYcIDCV"
-        }
-      ],
-      "duration_ms": 115941,
-      "name": "157 TRUE REAL TRAP",
-      "url": "https://open.spotify.com/track/5bTwmHwPgeDWBUAl8MNmDU"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
-        "name": "Fuso",
-        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 114645,
-      "name": "Fuso",
-      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
         "name": "FUNK DE CANALHA II",
         "url": "https://open.spotify.com/album/3TOJ3mtbafW8BOYLz8iklc"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 221538,
       "name": "s\u00f3 penso em tu garota",
       "url": "https://open.spotify.com/track/3uLf4claXiAxMOy1w2cgvW"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
+        "name": "Fuso",
+        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 114645,
+      "name": "Fuso",
+      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -527,6 +527,30 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "SPAM",
+        "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "DougBeats",
+          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
+        }
+      ],
+      "duration_ms": 169924,
+      "name": "BRENDA",
+      "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 271822,
       "name": "Campo de Golf",
       "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "SPAM",
-        "url": "https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Klisman",
-          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
-        },
-        {
-          "name": "DougBeats",
-          "url": "https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w"
-        }
-      ],
-      "duration_ms": 169924,
-      "name": "BRENDA",
-      "url": "https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 139574,
+      "name": "Preta f* quente",
+      "url": "https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "2X (Os Caras da Rua) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 179669,
       "name": "2X (Os Caras da Rua) - Ao Vivo",
       "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "Cacau 50% , Vol.2",
-        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 139574,
-      "name": "Preta f* quente",
-      "url": "https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W"
     },
     {
       "added_at": "2026-09-01 20:28:48",

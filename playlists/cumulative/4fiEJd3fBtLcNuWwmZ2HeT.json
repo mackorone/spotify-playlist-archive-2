@@ -5075,6 +5075,28 @@
     },
     {
       "album": {
+        "name": "Record Red",
+        "url": "https://open.spotify.com/album/6dujauPhtha0oFyApoi6mg"
+      },
+      "artists": [
+        {
+          "name": "axopholes",
+          "url": "https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm"
+        },
+        {
+          "name": "Utatane Piko",
+          "url": "https://open.spotify.com/artist/1gU8DM5jfekks0NlNm0oNn"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196105,
+      "name": "Record Red",
+      "url": "https://open.spotify.com/track/63be4fLJ60vW9xpDLEM1pa"
+    },
+    {
+      "album": {
         "name": "Reflections on Existence",
         "url": "https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn"
       },
@@ -9710,6 +9732,24 @@
       "duration_ms": 187693,
       "name": "\u72ec\u5168\u7d75\u56f3",
       "url": "https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP"
+    },
+    {
+      "album": {
+        "name": "GALAPAGOS",
+        "url": "https://open.spotify.com/album/2SbwUk0WexA476H2UklLhe"
+      },
+      "artists": [
+        {
+          "name": "Utsu-P",
+          "url": "https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201648,
+      "name": "\u751f\u304d\u3066\u308b\u304a\u3070\u3051\u306f\u751f\u304d\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/2sWdQfVWACeiCfE0rK6Gf7"
     },
     {
       "album": {

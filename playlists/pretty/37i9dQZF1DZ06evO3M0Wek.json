@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117019,
+  "num_followers": 117018,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADtrFOi4l+XBQ7Cmo9DPxmL",
+  "snapshot_id": "apYVgAAAAACikbUMGCfOk0PU+tEelwMt",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 195880,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
+      "duration_ms": 205228,
+      "name": "Psycho Crazy",
+      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 205228,
-      "name": "Psycho Crazy",
-      "url": "https://open.spotify.com/track/5TAdz0I4uEIOnUiJ3Q6YPd"
+      "duration_ms": 195880,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 198799,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 194866,
       "name": "I'm Not an Angel",
       "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 206959,
+      "name": "Wicked Ways",
+      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 287633,
       "name": "Everest",
       "url": "https://open.spotify.com/track/0Y5ydBoqvKvwWJoY3hLsrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 206959,
-      "name": "Wicked Ways",
-      "url": "https://open.spotify.com/track/7dIObUjmQfXbs56UsaBIHT"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 230903,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReAniMate 3.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 230903,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -663,42 +663,6 @@
       "duration_ms": 207666,
       "name": "Sick Individual",
       "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shatter Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
-        },
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Shatter Me",
-      "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "White Dress",
-      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
     },
     {
       "added_at": null,
@@ -735,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "White Dress",
+      "url": "https://open.spotify.com/track/5URMqI3NUqQxSyTh5NjcnT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReAniMate 2.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
@@ -747,6 +727,42 @@
       "duration_ms": 307160,
       "name": "Shoot to Thrill",
       "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shatter Me (Deluxe)",
+        "url": "https://open.spotify.com/album/2ONNVBhYiojv9aJeK84Ghn"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Shatter Me",
+      "url": "https://open.spotify.com/track/3nd738zQd9NabAT0MRjcyT"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 254838,
-      "name": "Rain Your Blood On Me",
-      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
+      "duration_ms": 250760,
+      "name": "Gold Dust Woman",
+      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 212973,
       "name": "What Sober Couldn't Say",
       "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Gold Dust Woman",
-      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
     },
     {
       "added_at": null,

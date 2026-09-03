@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,774 likes - 36 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,788 likes - 36 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 16 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/5ROthns2NsZzi0cx6o0vcs) | 5:29 |
 | 17 | [Gou Talk](https://open.spotify.com/track/2sTP6ghDk046UnBZqsLyyO) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 5:46 |
 | 18 | [Han Pan](https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Moment EP](https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1) | 6:41 |
-| 19 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
-| 20 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
+| 19 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
+| 20 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
 | 21 | [Rose](https://open.spotify.com/track/06iR09uUfFS3kVEAJHJyeB) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Seek For Maktoop](https://open.spotify.com/album/6fwjLcIzNrgIxhqSVPcPTX) | 7:44 |
 | 22 | [All That](https://open.spotify.com/track/2iMuxgCe0aR2DYeXkDl43u) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:53 |
 | 23 | [Jen High](https://open.spotify.com/track/5a7ukZt5n6y5iyWWXJTEH0) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War \(Pt\. II\) EP](https://open.spotify.com/album/5wKpkXfZE8R4jQzlszOplp) | 6:27 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 35 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
 | 36 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `apTEAAAAAAA6bbOomSJ/P0NtPdrxUQyA`
+Snapshot ID: `apYVgAAAAADZJtUAxX0nJZkf/mSH5/Bz`

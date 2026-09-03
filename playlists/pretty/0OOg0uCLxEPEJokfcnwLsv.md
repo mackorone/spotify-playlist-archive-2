@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,267 likes - 65 songs - 3 hr 55 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,277 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 63 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 |
 | 64 | [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 |
 | 65 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 |
+| 66 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
+| 67 | [For You To Know](https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [For You To Know](https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo) | 3:29 |
+| 68 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 |
+| 69 | [The Language of the Voiceless](https://open.spotify.com/track/6AOwKeyq9JumLlGlY4fneX) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [The Language of the Voiceless](https://open.spotify.com/album/4aXepZh3p0MkgFp3RC5ymm) | 2:21 |
+| 70 | [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 |
+| 71 | [Give Me a Break](https://open.spotify.com/track/55kskxis0fWDhYoCbIWYDo) | [LIGHTNING GUSTO](https://open.spotify.com/artist/3pb57MwbWCOuP4GXMq2ngs) | [Give Me a Break](https://open.spotify.com/album/7LPBeqTDtBKfYsdpyYOF7E) | 4:16 |
+| 72 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 |
 
-Snapshot ID: `AAAG54Cg7MnkI9D2WyfpDJ9aJmTiDNYx`
+Snapshot ID: `AAAG7sv6mBv+n6c6YlmapXR7jvbsz1Ol`

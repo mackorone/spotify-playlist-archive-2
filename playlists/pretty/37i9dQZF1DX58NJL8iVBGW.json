@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 820221,
+  "num_followers": 820286,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Open Up Your Mind",
+        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
+      },
+      "artists": [
+        {
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        }
+      ],
+      "duration_ms": 184178,
+      "name": "Open Up Your Mind",
+      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "Parker Millsap",
         "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Open Up Your Mind",
-        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 184178,
-      "name": "Open Up Your Mind",
-      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -567,22 +583,6 @@
       "duration_ms": 156106,
       "name": "Hades Pleads",
       "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 323341,
+      "name": "Leaving The Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "Bottom of the River",
         "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
-      },
-      "artists": [
-        {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
-        }
-      ],
-      "duration_ms": 323341,
-      "name": "Leaving The Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Dark Feathers",
+        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+      },
+      "artists": [
+        {
+          "name": "Renee Christine",
+          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Dark Feathers",
+      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "A Blooming Body",
         "url": "https://open.spotify.com/album/3HrIhOs6N3qLz52crWhspQ"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 150293,
       "name": "Things That Scare Me",
       "url": "https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "Dark Feathers",
-        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
-      },
-      "artists": [
-        {
-          "name": "Renee Christine",
-          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
-        }
-      ],
-      "duration_ms": 237115,
-      "name": "Dark Feathers",
-      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "The Dirty River Boys",
-        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty River Boys",
-          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Down by the River",
-      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Another Man\u02bcs Grave",
         "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "The Dirty River Boys",
+        "url": "https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty River Boys",
+          "url": "https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Down by the River",
+      "url": "https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
         "name": "Bless Your Soul",
         "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
         }
       ],
-      "duration_ms": 177359,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -1003,6 +987,22 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 177359,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"
     },
     {
       "added_at": "2026-08-28 04:01:02",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-08-28 04:01:02",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
-      },
-      "artists": [
-        {
-          "name": "Joshua Quimby",
-          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
-    },
-    {
-      "added_at": "2026-08-28 04:01:02",
-      "album": {
         "name": "Ghost Brothers of Darkland County",
         "url": "https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 221346,
       "name": "How Many Days",
       "url": "https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV"
+    },
+    {
+      "added_at": "2026-08-28 04:01:02",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
+      },
+      "artists": [
+        {
+          "name": "Joshua Quimby",
+          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
     },
     {
       "added_at": "2026-08-28 04:01:02",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cleo Sol. The essential tracks, all in one playlist.",
-  "num_followers": 45371,
+  "num_followers": 45430,
   "original_name": "This Is Cleo Sol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAD7oxg18aT/j6nOxIEk1ihj",
+  "snapshot_id": "apYVgAAAAAAXjQejeV7K4mjnVPc6fHvp",
   "tracks": [
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 248837,
-      "name": "In Your Own Home",
-      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Gentlewoman",
-      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -367,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Is Impossible With You",
-        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
       "artists": [
         {
@@ -376,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 254066,
-      "name": "Nothing Is Impossible With You",
-      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
     },
     {
       "added_at": null,
@@ -392,15 +360,15 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 240708,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS"
+      "duration_ms": 248837,
+      "name": "In Your Own Home",
+      "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
+        "name": "Nothing Is Impossible With You",
+        "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
       "artists": [
         {
@@ -408,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/682G0INywuW08FQ8jpnPCU"
+      "duration_ms": 254066,
+      "name": "Nothing Is Impossible With You",
+      "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
     },
     {
       "added_at": null,
@@ -431,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
       "artists": [
         {
@@ -440,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 306186,
-      "name": "23",
-      "url": "https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk"
+      "duration_ms": 168146,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/682G0INywuW08FQ8jpnPCU"
     },
     {
       "added_at": null,
@@ -456,41 +424,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 279217,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 207239,
-      "name": "Golden Child (Jealous)",
-      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 143300,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/6X3fgvBtf9IIutyIJixSf6"
+      "duration_ms": 240708,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS"
     },
     {
       "added_at": null,
@@ -511,22 +447,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
       "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
         {
           "name": "Cleo Sol",
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 226096,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
+      "duration_ms": 143300,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/6X3fgvBtf9IIutyIJixSf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 207239,
+      "name": "Golden Child (Jealous)",
+      "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 279217,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1cwQahQmKdmKaCijjdNEv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 306186,
+      "name": "23",
+      "url": "https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 226810,
+      "name": "Rose in the Dark",
+      "url": "https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl"
     },
     {
       "added_at": null,
@@ -547,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
       },
       "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
         {
           "name": "Cleo Sol",
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 226810,
-      "name": "Rose in the Dark",
-      "url": "https://open.spotify.com/track/1x6MXwyxf4R0V0Cdy4MnYl"
+      "duration_ms": 226096,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e"
     },
     {
       "added_at": null,

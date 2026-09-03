@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 675840,
+  "num_followers": 676046,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "TOMBSTONE TOWN (feat. Slash)",
-        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
+        "name": "Black Powder Soul",
+        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
         }
       ],
-      "duration_ms": 194653,
-      "name": "TOMBSTONE TOWN (feat. Slash)",
-      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+      "duration_ms": 216153,
+      "name": "Black Powder Soul",
+      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Black Powder Soul",
-        "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
+        "name": "TOMBSTONE TOWN (feat. Slash)",
+        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
       },
       "artists": [
         {
-          "name": "Taylor McCall",
-          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         }
       ],
-      "duration_ms": 216153,
-      "name": "Black Powder Soul",
-      "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+      "duration_ms": 194653,
+      "name": "TOMBSTONE TOWN (feat. Slash)",
+      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
     },
     {
       "added_at": "2026-06-26 04:01:34",

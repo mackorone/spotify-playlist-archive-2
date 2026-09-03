@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 321102,
+  "num_followers": 321171,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "American Water",
         "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 184293,
       "name": "Son Of Sam",
       "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Disarm - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Fizzy Fuzzy Big & Buzzy",
-        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
-      },
-      "artists": [
-        {
-          "name": "The Refreshments",
-          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Banditos",
-      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Desperate Youth, Blood Thirsty Babes",
-        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "Staring at the Sun",
-      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
         "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Desperate Youth, Blood Thirsty Babes",
+        "url": "https://open.spotify.com/album/3a7OlM2onuyfcI0ldtbBSx"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "Staring at the Sun",
+      "url": "https://open.spotify.com/track/0tHRJGyVYXgZpeNlon6Zkl"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Under the Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 305533,
-      "name": "Cornflake Girl - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "Under the Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
+      "duration_ms": 305533,
+      "name": "Cornflake Girl - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1419,6 +1403,22 @@
       "duration_ms": 251933,
       "name": "When You Sleep",
       "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
-      },
-      "artists": [
-        {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "Cold Blooded Old Times",
-      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
       },
       "artists": [
         {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
         }
       ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach for My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+      "duration_ms": 254160,
+      "name": "Cold Blooded Old Times",
+      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1627,6 +1611,22 @@
       "duration_ms": 166800,
       "name": "Sucked Out",
       "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach for My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     }
   ],
   "unique_name": "Thrifted",

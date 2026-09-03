@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 429583,
+  "num_followers": 429597,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
+        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
+        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Lobo Domesticado",
+      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Rodven Clasico: Tommy Olivencia Y Su Orquesta \"30 Aniversario\"",
-        "url": "https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd"
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Lobo Domesticado",
-      "url": "https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk"
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2026-02-23 19:56:34",

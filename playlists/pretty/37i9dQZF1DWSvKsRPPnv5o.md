@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: AZ Chike and Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,183 likes - 106 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,158 likes - 106 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

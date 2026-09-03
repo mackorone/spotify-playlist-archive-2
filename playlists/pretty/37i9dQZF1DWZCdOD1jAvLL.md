@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Kelland, Rhyder
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,692 likes - 94 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,683 likes - 94 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

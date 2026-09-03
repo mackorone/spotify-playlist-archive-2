@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23532,
+  "num_followers": 23534,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/2W5Qr2MjxPTcU1I5iqmEmy"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 139354,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/7egyXWckBQjaK7UHG92btI"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "Morgana",
-        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
-      },
-      "artists": [
-        {
-          "name": "F.Charm",
-          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
-        }
-      ],
-      "duration_ms": 192890,
-      "name": "Morgana",
-      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
-    },
-    {
-      "added_at": "2026-08-13 21:00:11",
-      "album": {
         "name": "Auzeam, Gheorghe",
         "url": "https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx"
       },
@@ -915,6 +899,26 @@
       "duration_ms": 186598,
       "name": "Auzeam, Gheorghe",
       "url": "https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x"
+    },
+    {
+      "added_at": "2026-08-13 21:00:11",
+      "album": {
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
       "added_at": "2026-08-13 21:00:11",
@@ -943,22 +947,18 @@
     {
       "added_at": "2026-08-13 21:00:11",
       "album": {
-        "name": "HE$OYAM",
-        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
+        "name": "Morgana",
+        "url": "https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+          "name": "F.Charm",
+          "url": "https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I"
         }
       ],
-      "duration_ms": 183428,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
+      "duration_ms": 192890,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq"
     }
   ],
   "unique_name": "Suflet + Sunet",

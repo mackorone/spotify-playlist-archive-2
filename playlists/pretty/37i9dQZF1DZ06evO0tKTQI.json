@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14091,
+  "num_followers": 14094,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACf8FjcRBEmxkeq3m7ck7Lb",
+  "snapshot_id": "apYVgAAAAACWxi1Xdf1U0ji0r1LB/qMq",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linger [Spanish Mix (2026)]",
-        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 225216,
-      "name": "Linger - Spanish Mix (2026)",
-      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aroma A Nostalgia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Linger [Spanish Mix (2026)]",
+        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 225216,
+      "name": "Linger - Spanish Mix (2026)",
+      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
     },
     {
       "added_at": null,

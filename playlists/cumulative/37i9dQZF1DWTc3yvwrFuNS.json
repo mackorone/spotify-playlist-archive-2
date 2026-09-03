@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Kelela - Spotify Live Room",
+        "url": "https://open.spotify.com/album/6IQOXpC4MgHksTtrsGyR0T"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210827,
+      "name": "idea 1 (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/4LBVzZBuJoDyHK8xYHxpGF"
+    },
+    {
+      "album": {
         "name": "SIENNA SPIRO - Spotify Live Room",
         "url": "https://open.spotify.com/album/780e5rUfJBSlrsjMHjhtzg"
       },
@@ -356,6 +374,24 @@
       "duration_ms": 184000,
       "name": "Man I Need (Live) \u2013 Spotify Live Room",
       "url": "https://open.spotify.com/track/3yYuSzBhxR4kd4CNtfyHN7"
+    },
+    {
+      "album": {
+        "name": "Kelela - Spotify Live Room",
+        "url": "https://open.spotify.com/album/6IQOXpC4MgHksTtrsGyR0T"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258492,
+      "name": "Mexico (Incubus Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/6zjYLuiJGVCtMC9RnMypTy"
     },
     {
       "album": {

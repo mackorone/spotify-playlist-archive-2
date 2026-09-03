@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498985,
+  "num_followers": 498997,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-27 22:01:21",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+    },
+    {
+      "added_at": "2026-08-27 22:01:21",
+      "album": {
         "name": "WIR SIND DIE DEUTSCHEN",
         "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 147724,
       "name": "WIR SIND DIE DEUTSCHEN",
       "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
-    },
-    {
-      "added_at": "2026-08-27 22:01:21",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2026-08-27 22:01:21",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-08-27 22:01:21",
       "album": {
-        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
-      },
-      "artists": [
-        {
-          "name": "Kings of G\u00fcnter",
-          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
-        },
-        {
-          "name": "Reis Against The Sp\u00fclmachine",
-          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
-        }
-      ],
-      "duration_ms": 179061,
-      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
-      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
-    },
-    {
-      "added_at": "2026-08-27 22:01:21",
-      "album": {
         "name": "Gianna",
         "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 155215,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
+    },
+    {
+      "added_at": "2026-08-27 22:01:21",
+      "album": {
+        "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+        "url": "https://open.spotify.com/album/7k4m57CRV2p6lueGYH7iSH"
+      },
+      "artists": [
+        {
+          "name": "Kings of G\u00fcnter",
+          "url": "https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY"
+        },
+        {
+          "name": "Reis Against The Sp\u00fclmachine",
+          "url": "https://open.spotify.com/artist/1woaAg9umuHZpxmoRPstxP"
+        }
+      ],
+      "duration_ms": 179061,
+      "name": "Hast Du Saufen mal probiert? (1000 und 1 Nacht)",
+      "url": "https://open.spotify.com/track/5fCBl1cfgQZaOdRCzKjcqT"
     },
     {
       "added_at": "2026-08-27 22:01:21",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-27 22:01:21",
       "album": {
-        "name": "Sonne, Mond & Playa",
-        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Sonne, Mond & Playa",
-      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
-    },
-    {
-      "added_at": "2026-08-27 22:01:21",
-      "album": {
         "name": "10 von 10",
         "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 134924,
       "name": "10 von 10",
       "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
+    },
+    {
+      "added_at": "2026-08-27 22:01:21",
+      "album": {
+        "name": "Sonne, Mond & Playa",
+        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 188833,
+      "name": "Sonne, Mond & Playa",
+      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-08-27 22:01:21",

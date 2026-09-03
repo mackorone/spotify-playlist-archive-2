@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Pubs, Trucks & Plains",
+        "url": "https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "He's A Good Bloke When He's Sober",
+      "url": "https://open.spotify.com/track/5hhMH3eWhfR5bgt1BgF8Up"
+    },
+    {
+      "album": {
         "name": "To Whom It May Concern",
         "url": "https://open.spotify.com/album/6XZBEOEisv8tyv0Hq5YWto"
       },

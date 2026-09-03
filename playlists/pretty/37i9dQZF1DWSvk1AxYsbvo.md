@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,431 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,434 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 9 | [Rest](https://open.spotify.com/track/0NnQTCaZnKrOK1lojv5qYI) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 3:28 |
 | 10 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 |
 | 11 | [Orange Splash \(feat\. 진동욱\)](https://open.spotify.com/track/6s2vKdkMUVI9AwKypQYbyL) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [진동욱](https://open.spotify.com/artist/0Qh4A2i8KfhKwEQscNo48n) | [Orange Splash](https://open.spotify.com/album/1TN2cAe1oAZW2eJkUxpZ2C) | 2:23 |
-| 12 | [How's your night](https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt) | 4:23 |
-| 13 | [Late Night Calls](https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:13 |
+| 12 | [Late Night Calls](https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:13 |
+| 13 | [How's your night](https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt) | 4:23 |
 | 14 | [Koko](https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:48 |
 | 15 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 |
 | 16 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 |
 | 17 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
-| 18 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:54 |
-| 19 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
+| 18 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
+| 19 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:54 |
 | 20 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
 | 21 | [Ashen Song](https://open.spotify.com/track/2TlkdYz2tkUim8bGosbV0u) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Ashen Song](https://open.spotify.com/album/4kloJo4fzRFSgcahgoYmqs) | 3:37 |
 | 22 | [Shining](https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Still Shining OST Part.7](https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA) | 3:45 |

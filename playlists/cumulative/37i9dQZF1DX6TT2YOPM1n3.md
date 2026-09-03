@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Apne mulk ki homegrown hits 🎶 Cover: Mustafa Zahid
+> Apne mulk ki homegrown hits 🎶 Cover: Atif Aslam
 
-342 songs - 23 hr 17 min
+343 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Heer](https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Heer](https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7) | 3:16 | 2025-05-18 |  |
 | [Heer](https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC) | [Heer](https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm) | 4:10 | 2025-02-25 | 2025-10-16 |
 | [Heer](https://open.spotify.com/track/4fp8FVTdpieFTQxBwJHqNg) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC) | [Heer](https://open.spotify.com/album/3aOB56T2gNIsntm20QvF9P) | 4:10 | 2025-10-15 |  |
+| [HOME](https://open.spotify.com/track/1MKBvwicNG6Udmueu0Suck) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [DESIGNERR](https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa) | 4:36 | 2026-09-02 |  |
 | [Hona Tha Pyar](https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Bol \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l) | 3:41 | 2023-05-04 | 2026-07-09 |
 | [Hoor](https://open.spotify.com/track/09tcpqekQgXb87ETaAijXf) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/2TJkGp4JyFDLCE49DLsKvL) | 3:30 | 2025-06-29 | 2026-08-22 |
 | [Hoor](https://open.spotify.com/track/2tmlxsN78o0hR1CXuKhBpT) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/5bXnPJlYCuUK5JngUgRx3h) | 3:30 | 2026-08-07 |  |
@@ -264,7 +265,7 @@
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-29 |  |
 | [REGRETS](https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS / PROMISES](https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw) | 4:02 | 2024-10-21 | 2025-10-16 |
 | [REGRETS](https://open.spotify.com/track/5eX5btFBsv5x6Z3ZHflgaN) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS/PROMISES](https://open.spotify.com/album/2ZUI4Hf6oCRggTUuZgiW9a) | 4:02 | 2026-08-07 |  |
-| [REGRETS](https://open.spotify.com/track/6OUPWxtBj1KaAV7Ku3xgmr) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS/PROMISES](https://open.spotify.com/album/5u6i5eWsGiTk325putsGZp) | 4:02 | 2025-10-15 |  |
+| [REGRETS](https://open.spotify.com/track/6OUPWxtBj1KaAV7Ku3xgmr) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [REGRETS/PROMISES](https://open.spotify.com/album/5u6i5eWsGiTk325putsGZp) | 4:02 | 2025-10-15 | 2026-09-03 |
 | [Rehmat](https://open.spotify.com/track/4r8mhO7cHAztTNMGxpq46g) | [Aizaz Ahmad](https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm), [Aqib Afzal](https://open.spotify.com/artist/2DywjxmlsN1lyybhEzBiJ9) | [Rehmat](https://open.spotify.com/album/3dVI0e0Zn6m08ZoNPQEXFc) | 3:25 | 2025-07-24 | 2025-08-02 |
 | [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-29 | 2025-07-25 |
 | [Ronay Na Diyaa](https://open.spotify.com/track/3O6hCRofBptFDA86oyrxSJ) | [Ghayas Haider](https://open.spotify.com/artist/2tkZLbhG41sN7Kf4MsiNrw) | [Ronay Na Diyaa](https://open.spotify.com/album/5Ia8AO7FlXh26zXuPiYdNn) | 3:25 | 2025-12-21 | 2026-01-29 |

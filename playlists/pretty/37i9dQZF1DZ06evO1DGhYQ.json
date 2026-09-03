@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9744,
+  "num_followers": 9741,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAzBmTHJfe7bRnAtuBTPCyJ",
+  "snapshot_id": "apYVgAAAAABoGxAIJkWsYnQjqxuiYgYB",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOOSE LIFE",
-        "url": "https://open.spotify.com/album/4mJuvv8l6wYMLKs9bwxgtQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Ashley",
-          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
-        }
-      ],
-      "duration_ms": 207487,
-      "name": "CHOOSE LIFE",
-      "url": "https://open.spotify.com/track/5ytLPnqIkYOGp84vuUDsCl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circus Funk",
         "url": "https://open.spotify.com/album/4hBLOwItcFt69KFbMZdtrY"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 283347,
       "name": "SURVIVE\uff08feat. LEO from ALI\uff09",
       "url": "https://open.spotify.com/track/4ojAyqC0MO4dVzXr1TSUgD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHOOSE LIFE",
+        "url": "https://open.spotify.com/album/4mJuvv8l6wYMLKs9bwxgtQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        }
+      ],
+      "duration_ms": 207487,
+      "name": "CHOOSE LIFE",
+      "url": "https://open.spotify.com/track/5ytLPnqIkYOGp84vuUDsCl"
     },
     {
       "added_at": null,
@@ -375,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff3bSKA\uff3dSHOWDOWN",
-        "url": "https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN"
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
         }
       ],
-      "duration_ms": 257933,
-      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
-      "url": "https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j"
+      "duration_ms": 243000,
+      "name": "DAZE N SUNSHINE",
+      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
     },
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+        "name": "\uff3bSKA\uff3dSHOWDOWN",
+        "url": "https://open.spotify.com/album/05qBkJ2QwzCp3FMoD4O1MN"
       },
       "artists": [
         {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 243000,
-      "name": "DAZE N SUNSHINE",
-      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
+      "duration_ms": 257933,
+      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
+      "url": "https://open.spotify.com/track/6otLqvQTgaVxUit8cxBQ7j"
     },
     {
       "added_at": null,
@@ -470,11 +470,15 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "SARM",
+          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 265300,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+      "duration_ms": 269100,
+      "name": "IN THE MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
     },
     {
       "added_at": null,
@@ -542,15 +546,11 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "SARM",
-          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 269100,
-      "name": "IN THE MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
+      "duration_ms": 265300,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
     },
     {
       "added_at": null,

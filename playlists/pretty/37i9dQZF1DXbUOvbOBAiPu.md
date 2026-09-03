@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Vianney, Angèle, Alex Warren, La Mano 1.9 x PLK and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,357 likes - 133 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,351 likes - 133 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

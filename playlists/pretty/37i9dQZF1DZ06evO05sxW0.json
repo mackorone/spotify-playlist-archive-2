@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9479,
+  "num_followers": 9490,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAgGWjnhtsnASnfbAOki9be",
+  "snapshot_id": "apYVgAAAAABAXoZqd4if16JnB6xb5TgK",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
+      "duration_ms": 85826,
+      "name": "Bloody Ice Cream",
+      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 85826,
-      "name": "Bloody Ice Cream",
-      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
+      "duration_ms": 208053,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl"
     },
     {
       "added_at": null,

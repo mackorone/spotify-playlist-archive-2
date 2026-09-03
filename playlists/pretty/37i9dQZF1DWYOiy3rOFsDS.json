@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tuffic en portada.",
-  "num_followers": 537998,
+  "num_followers": 537918,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "ALIENS",
-        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 170805,
-      "name": "ALIENS",
-      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 165542,
       "name": "Bolerito - Remix",
       "url": "https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 177000,
       "name": "No Me Importa",
       "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "La Copa Rota",
+        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Idas y Vueltas",
         "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
       },
@@ -1607,38 +1623,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Copa Rota",
-        "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 207997,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/6dHtfspjlnEwvbCoKc1NYT"
       },
       "artists": [
         {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
         }
       ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
+      "duration_ms": 150564,
+      "name": "Arrancando Flores",
+      "url": "https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA"
     }
   ],
   "unique_name": "nuevo bolero",

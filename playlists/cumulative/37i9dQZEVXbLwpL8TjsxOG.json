@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 164208,
       "name": "BiiiG",
       "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
@@ -10042,7 +10042,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 244018,
       "name": "Kong",
       "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
@@ -10318,7 +10318,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
@@ -17036,7 +17036,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -17932,7 +17932,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -21459,6 +21459,28 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u4e0b\u5e8a",
+        "url": "https://open.spotify.com/album/20BQdIevfrdipZkT2imGNf"
+      },
+      "artists": [
+        {
+          "name": "Juno Mak",
+          "url": "https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62"
+        },
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275875,
+      "name": "\u4e0d\u4e0b\u5e8a",
+      "url": "https://open.spotify.com/track/6HlsNs3c4AK1bvdko0x84E"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u53ef\u611b\u6559\u4e3b",
         "url": "https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH"
       },
@@ -21832,6 +21854,24 @@
       "duration_ms": 270441,
       "name": "\u4eca\u4e16\u60c5\u4eba",
       "url": "https://open.spotify.com/track/70rtdjRhEdd0Lf3773uqXV"
+    },
+    {
+      "album": {
+        "name": "The Man, The Boy and Him",
+        "url": "https://open.spotify.com/album/2Lmk062oVwdq6L8FC8ckAa"
+      },
+      "artists": [
+        {
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274186,
+      "name": "\u4eca\u4e16\u60c5\u4eba",
+      "url": "https://open.spotify.com/track/6yt970sCf2xrgrbN1GTWgx"
     },
     {
       "album": {
@@ -30542,7 +30582,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 300000,
       "name": "\u9748\u9b42\u76f8\u9858",
       "url": "https://open.spotify.com/track/38F7uzj36i8dXS9lwDjJQF"

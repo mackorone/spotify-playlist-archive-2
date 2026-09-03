@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 > A dive into the revival of hardcore punk from DIY to mainstream stages
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,965 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,067 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

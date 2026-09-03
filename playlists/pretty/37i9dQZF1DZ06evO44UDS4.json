@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 179384,
+  "num_followers": 179461,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAA9KTEU+wKCrD/MdmFwZTS7",
+  "snapshot_id": "apYVgAAAAABREH9/ZsUZjsWy45ZYRnQU",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
-        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 162877,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All That",
         "url": "https://open.spotify.com/album/5QtIcYSfyu7OmG4Sp2sMEu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166991,
       "name": "All That",
       "url": "https://open.spotify.com/track/2rzl7pljzUTkNI66aPTz3A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
+        "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 162877,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
     },
     {
       "added_at": null,

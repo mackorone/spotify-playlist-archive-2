@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 550968,
+  "num_followers": 550996,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best of Disco",
-        "url": "https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "More Monty",
         "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 233266,
       "name": "Disco Nights (Rock Freak) - Single Remix",
       "url": "https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best of Disco",
+        "url": "https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
     },
     {
       "added_at": "2020-04-14 18:41:41",

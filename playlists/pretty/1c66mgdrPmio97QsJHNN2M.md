@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,898 likes - 207 songs - 10 hr 52 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,904 likes - 216 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -215,5 +215,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 205 | [Forget\-Me\-Not](https://open.spotify.com/track/0oGA4vdW816Yx0hRbKOsB1) | [Beach Of Diamonds](https://open.spotify.com/artist/79oochOGUxGcTYLQtJh7Pc) | [Forget\-Me\-Not](https://open.spotify.com/album/3hTIA1NpCyxxro5aT8TTxo) | 2:59 |
 | 206 | [Diva's Sins](https://open.spotify.com/track/27Q8d6iJeodOlGSTXTYBU3) | [Gabriele Raineri](https://open.spotify.com/artist/0ZNcnrpcOOiCfeH1KIDExg) | [Diva's Sins](https://open.spotify.com/album/2C1Qtejv7pakXNiivPoJ8I) | 2:16 |
 | 207 | [Centered](https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I) | [THE EM](https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v) | [Silent Avenue, Vol\. 2](https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z) | 2:54 |
+| 208 | [Ready to fly](https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x) | [The Last North](https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs) | [Ready to fly](https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs) | 3:28 |
+| 209 | [What Do You Think?](https://open.spotify.com/track/4PfAbnetZ9d8fZUIYeKZD9) | [Steve Hines](https://open.spotify.com/artist/7wnyATyxlbNuEZ8FzjIAvv) | [What Do You Think?](https://open.spotify.com/album/0oO9HH6cjXK0qGTHyW46AG) | 3:04 |
+| 210 | [Outer Space](https://open.spotify.com/track/136IV9AGzmFSy3IYDYh7lL) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [Outer Space](https://open.spotify.com/album/5BzNk2lmpxk6bvwxh0O9S3) | 2:59 |
+| 211 | [Hate You Now](https://open.spotify.com/track/03Px3tU5F6AcGSgWqUXN95) | [Ricerx](https://open.spotify.com/artist/232SXsjtuwzWqgkxVwR0xI), [Kormanec](https://open.spotify.com/artist/5r3x6fD5x2vfIp38WU3246) | [Frostbite Love](https://open.spotify.com/album/6ktkeSq14T4l4wKJEiJaWr) | 2:40 |
+| 212 | [Goodbye](https://open.spotify.com/track/48rSu3S4LLopdqHRAN7JUN) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Goodbye](https://open.spotify.com/album/1ASn0FlEtTXkGAjchc5MnK) | 2:50 |
+| 213 | [If You Never Left](https://open.spotify.com/track/4H5zrimUQYq1Kb1eYlJ7gp) | [Averlie](https://open.spotify.com/artist/7rU9o7XBeXe9KxFhkHtshR) | [Heart Shapes](https://open.spotify.com/album/0vTrreeTwPVuUnOc4wAzyD) | 3:00 |
+| 214 | [Tell Me Why](https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Tell Me Why](https://open.spotify.com/album/02QFtQGt2W4dzCWCaIvQJ7) | 3:21 |
+| 215 | [I wish](https://open.spotify.com/track/6ihooC7b37rZqSii4LzYes) | [Noxaerin](https://open.spotify.com/artist/5kzkJzCLHYzDnWjv2pgmKx) | [I wish](https://open.spotify.com/album/4ywzcV1B9fmjaX8DVpwtuX) | 3:29 |
+| 216 | [Chemicals](https://open.spotify.com/track/43PAtXAIIMItWW4B2kJAiQ) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Almost There](https://open.spotify.com/album/3EE1IuA4bLvWiYNL6RyeOZ) | 2:30 |
 
-Snapshot ID: `AAA751nNc06N5UrsOqngUxGAd8Z/vc2P`
+Snapshot ID: `AAA78E2WVaBKAwhgaVwy0SgBcAj7Xu0B`

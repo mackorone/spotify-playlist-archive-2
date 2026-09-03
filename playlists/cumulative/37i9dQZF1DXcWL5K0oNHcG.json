@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Pritesh Walia. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -8088,7 +8088,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 189993,
       "name": "Drive Z",
       "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
@@ -11117,6 +11117,28 @@
     },
     {
       "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/5d5fNx6SQAN0o3OhQGnvgH"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        },
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254522,
+      "name": "GAIA",
+      "url": "https://open.spotify.com/track/3Nv2FmkTX4GNMQdm4ofmyj"
+    },
+    {
+      "album": {
         "name": "Gallop",
         "url": "https://open.spotify.com/album/2yB2e5t3sNLJkUep1Dipi8"
       },
@@ -11311,7 +11333,7 @@
     },
     {
       "album": {
-        "name": "Geza",
+        "name": "geza",
         "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
       },
       "artists": [
@@ -11324,7 +11346,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 429019,
-      "name": "Geza",
+      "name": "geza",
       "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 232236,
+  "num_followers": 232283,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACYQ34xo87NNuWuKRqTi+SD",
+  "snapshot_id": "apYVgAAAAABrxzI1+MB12VibmGQYhMv+",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistolz & Pearlz",
-        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 305618,
-      "name": "No Love For A Thug",
-      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 192036,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 305618,
+      "name": "No Love For A Thug",
+      "url": "https://open.spotify.com/track/3gMtqjZ5dxsyfMDQcLBKed"
     },
     {
       "added_at": null,
@@ -663,42 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kodak The Blessing",
-        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
-        }
-      ],
-      "duration_ms": 149484,
-      "name": "Nunchucks (feat. 1900Rugrat)",
-      "url": "https://open.spotify.com/track/3EbLusls6K7qoQcjARRgUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 168312,
-      "name": "Day for Day",
-      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
@@ -719,22 +683,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "duration_ms": 149484,
+      "name": "Nunchucks (feat. 1900Rugrat)",
+      "url": "https://open.spotify.com/track/3EbLusls6K7qoQcjARRgUu"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 177000,
       "name": "Pimpin Ain't Eazy",
       "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kodak The Blessing",
-        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 194898,
-      "name": "Loitering",
-      "url": "https://open.spotify.com/track/19hnu2CJMj7WkvsbRDubiL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lil Big Pac",
         "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 215954,
       "name": "Can I",
       "url": "https://open.spotify.com/track/3kRJETVZOoYlCMoTY1EQGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kodak The Blessing",
+        "url": "https://open.spotify.com/album/1vTp9rFFqRm9N8UHtiLz2M"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 194898,
+      "name": "Loitering",
+      "url": "https://open.spotify.com/track/19hnu2CJMj7WkvsbRDubiL"
     }
   ],
   "unique_name": "This Is Kodak Black",

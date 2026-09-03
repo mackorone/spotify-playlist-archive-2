@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 357096,
+  "num_followers": 357032,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Eita",
-        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 183867,
-      "name": "Eita",
-      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Avoad\u00e3o",
         "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 219047,
       "name": "Avoad\u00e3o",
       "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Eita",
+        "url": "https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 183867,
+      "name": "Eita",
+      "url": "https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "olympia",
-        "url": "https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 130367,
-      "name": "olympia",
-      "url": "https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Tar\u00f4",
         "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
       },
@@ -291,18 +271,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Volto Logo",
-        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
+        "name": "olympia",
+        "url": "https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
         }
       ],
-      "duration_ms": 152978,
-      "name": "Volto Logo",
-      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
+      "duration_ms": 130367,
+      "name": "olympia",
+      "url": "https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -323,6 +307,22 @@
       "duration_ms": 294570,
       "name": "NUVEM NEGRA",
       "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Volto Logo",
+        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 152978,
+      "name": "Volto Logo",
+      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "COVARDIA",
         "url": "https://open.spotify.com/album/4bFwkRS55H0BU7nlZgNrBp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 161088,
       "name": "COVARDIA",
       "url": "https://open.spotify.com/track/5Duyx6TmQ0n1JmrRyzROyn"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 169806,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 169806,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 122628,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Emocionalmente Indispon\u00edvel",
         "url": "https://open.spotify.com/album/7Lx0lWyoJjFwPopPPdavjx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 191304,
       "name": "Emocionalmente Indispon\u00edvel",
       "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "CASA MOLHADA",
-        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
-      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "CASA MOLHADA",
+        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Dias de Mar",
-        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
+        "name": "vou dar",
+        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
       },
       "artists": [
         {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
         }
       ],
-      "duration_ms": 162206,
-      "name": "Dias de Mar",
-      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
+      "duration_ms": 143018,
+      "name": "vou dar",
+      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "vou dar",
-        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+        "name": "Dias de Mar",
+        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
         }
       ],
-      "duration_ms": 143018,
-      "name": "vou dar",
-      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
+      "duration_ms": 162206,
+      "name": "Dias de Mar",
+      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+        "name": "TRANSBORDAR",
+        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+          "name": "Mafe Peccin",
+          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
         }
       ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+      "duration_ms": 165768,
+      "name": "afinal o que \u00e9 um amor tranquilo?",
+      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
     }
   ],
   "unique_name": "Palco POP",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 Dahlin på cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,849 likes - 112 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,841 likes - 112 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

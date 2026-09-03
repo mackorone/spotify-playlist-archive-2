@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "HELADO DE VAINILLA",
+        "url": "https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "HELADO DE VAINILLA",
+      "url": "https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3"
+    },
+    {
+      "album": {
         "name": "Si Te Soy Sincera",
         "url": "https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG"
       },

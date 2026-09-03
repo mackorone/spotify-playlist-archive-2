@@ -1,6 +1,6 @@
 {
   "description": "Dance, bass, EDM, trap, phonk: the perfect gaming mix. ",
-  "num_followers": 1247567,
+  "num_followers": 1247618,
   "original_name": "Ultra Gaming",
   "owner": {
     "name": "Spotify",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-08-27 22:02:28",
       "album": {
+        "name": "AVANGARD",
+        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        }
+      ],
+      "duration_ms": 156843,
+      "name": "AVANGARD",
+      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
+    },
+    {
+      "added_at": "2026-08-27 22:02:28",
+      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
-    },
-    {
-      "added_at": "2026-08-27 22:02:28",
-      "album": {
-        "name": "AVANGARD",
-        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        }
-      ],
-      "duration_ms": 156843,
-      "name": "AVANGARD",
-      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
     },
     {
       "added_at": "2026-08-27 22:02:28",

@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-294 songs - 18 hr 5 min
+295 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Drunk & Loud](https://open.spotify.com/track/69WiLaNQxDcf4yjAWcDruZ) | [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Drunk & Loud](https://open.spotify.com/album/5v9ShaPCZn1arjR9BmkUNy) | 1:54 | 2023-08-10 | 2024-11-23 |
 | [Dry Drunk Emperor \- 2005 Recording](https://open.spotify.com/track/5xs5wIA0bTPsxYVI7qONdF) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Desperate Youth, Blood Thirsty Babes \(20th Anniversary Edition\)](https://open.spotify.com/album/3GNzcWsUHJfAfkjf59KrAA) | 6:47 | 2024-11-22 | 2025-03-26 |
 | [Easter Pink](https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Easter Pink](https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5) | 1:24 | 2025-07-25 | 2025-11-01 |
+| [Eat Ur Heart Out](https://open.spotify.com/track/3lt7ZqkryK8qsdBDIR6DGV) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Eat Ur Heart Out](https://open.spotify.com/album/5WSkaSg5qxrxDOsnbJlWC0) | 4:54 | 2026-09-02 |  |
 | [Ecstasy](https://open.spotify.com/track/6dZveJk4t5MazzX1HW2x65) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Ecstasy](https://open.spotify.com/album/2uGAnU3lDDpLKaa8vSw9Jm) | 2:21 | 2025-11-07 | 2026-04-04 |
 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 | 2022-11-10 |  |
 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 | 2023-09-05 |  |

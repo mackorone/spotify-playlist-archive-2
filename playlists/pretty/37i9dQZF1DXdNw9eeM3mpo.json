@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
-  "num_followers": 491262,
+  "num_followers": 491293,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "La Kaguama",
         "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 193170,
       "name": "La Kaguama",
       "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
-      },
-      "artists": [
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Los Madafakers",
-          "url": "https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
         "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Combativo",
-        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Los Madafakers",
+          "url": "https://open.spotify.com/artist/1SAld8ktXze42eYj6oN4xt"
         }
       ],
-      "duration_ms": 194315,
-      "name": "Combativo",
-      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
+      "duration_ms": 158000,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Combativo",
+        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 194315,
+      "name": "Combativo",
+      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Supersonico",
         "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+        "name": "Contigo Me Encontr\u00e9",
+        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
       },
       "artists": [
         {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+          "name": "Negros Vivos",
+          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
         }
       ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
+      "duration_ms": 202946,
+      "name": "Contigo Me Encontr\u00e9",
+      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1259,22 +1275,6 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Contigo Me Encontr\u00e9",
-        "url": "https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0"
-      },
-      "artists": [
-        {
-          "name": "Negros Vivos",
-          "url": "https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "Contigo Me Encontr\u00e9",
-      "url": "https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+      },
+      "artists": [
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Mandar Obedeciendo",
         "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 190580,
       "name": "Caras y Caretas",
       "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Lleva",
-        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 214997,
-      "name": "Lleva",
-      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 182685,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Lleva",
+        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 214997,
+      "name": "Lleva",
+      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Voy a curarme de ti",
         "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 199500,
       "name": "Quiero Bailar Ska!!!",
       "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1599,22 +1615,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Todo Lo Que Sube",
-        "url": "https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl"
+        "name": "Siente El Movimiento",
+        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
       },
       "artists": [
         {
-          "name": "LaNuestra",
-          "url": "https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC"
+          "name": "La Sant\u00edsima Voladora",
+          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Todo Lo Que Sube",
-      "url": "https://open.spotify.com/track/26hHZPHrNp12BTrq430u78"
+      "duration_ms": 186175,
+      "name": "Siente El Movimiento",
+      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Siente El Movimiento",
-        "url": "https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC"
+        "name": "Todo Lo Que Sube",
+        "url": "https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl"
       },
       "artists": [
         {
-          "name": "La Sant\u00edsima Voladora",
-          "url": "https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0"
+          "name": "LaNuestra",
+          "url": "https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC"
         }
       ],
-      "duration_ms": 186175,
-      "name": "Siente El Movimiento",
-      "url": "https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3"
+      "duration_ms": 226666,
+      "name": "Todo Lo Que Sube",
+      "url": "https://open.spotify.com/track/26hHZPHrNp12BTrq430u78"
     },
     {
       "added_at": "2026-08-21 04:39:10",

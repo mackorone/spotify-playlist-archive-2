@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
-  "num_followers": 28368,
+  "num_followers": 28380,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "My Huis",
+        "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
+      },
+      "artists": [
+        {
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 210092,
+      "name": "My Huis",
+      "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "F all ur Friends",
         "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 139428,
       "name": "F all ur Friends",
       "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "My Huis",
-        "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
-      },
-      "artists": [
-        {
-          "name": "Van Der Aven",
-          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 210092,
-      "name": "My Huis",
-      "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Pikkewynstraat",
         "url": "https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 180011,
       "name": "Pikkewynstraat",
       "url": "https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
+      },
+      "artists": [
+        {
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
+        }
+      ],
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Those December Nights",
-        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
-      },
-      "artists": [
-        {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
-        }
-      ],
-      "duration_ms": 245783,
-      "name": "Those December Nights",
-      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "AfterlifeSatisfaction",
         "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 282973,
       "name": "Genie",
       "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     }
   ],
   "unique_name": "SA Rock ",

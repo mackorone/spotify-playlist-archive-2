@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 159661,
+  "num_followers": 159687,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Just a Girl",
+        "url": "https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Eastwood",
+          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
+        }
+      ],
+      "duration_ms": 189830,
+      "name": "Just a Girl",
+      "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 242666,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Just a Girl",
-        "url": "https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Eastwood",
-          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
-        }
-      ],
-      "duration_ms": 189830,
-      "name": "Just a Girl",
-      "url": "https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Give Us These Days",
         "url": "https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 361813,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Blowin' In The Wind",
-      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Blowin' In The Wind",
+      "url": "https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
-      },
-      "artists": [
-        {
-          "name": "tea",
-          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
-      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
+      },
+      "artists": [
+        {
+          "name": "tea",
+          "url": "https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
+      "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Falling Grace",
-        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ballantine",
-          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 252680,
       "name": "Hey, That's No Way To Say Goodbye",
       "url": "https://open.spotify.com/track/3hYpCh0PFTvXBLmtFs5E6Y"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ballantine",
+          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 294293,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Magnetism, Vol. 1",
         "url": "https://open.spotify.com/album/7rqgZCddN1qd5kfkrjiZgw"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 220795,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/7MF6TekcON2t7g8aGijtqI"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Jamie Cullum - Twentysomething",
-        "url": "https://open.spotify.com/album/4jw9SLZArYuQOApMXWOZw7"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Wind Cries Mary",
-      "url": "https://open.spotify.com/track/6A0JLDjO5kWSCb97DpRxVN"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Jamie Cullum - Twentysomething",
+        "url": "https://open.spotify.com/album/4jw9SLZArYuQOApMXWOZw7"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Wind Cries Mary",
+      "url": "https://open.spotify.com/track/6A0JLDjO5kWSCb97DpRxVN"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Sealed with a Kiss",
         "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 196113,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/2JzWC2BLboCvHxfUTWovJA"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 294293,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
     },
     {
       "added_at": "2025-03-13 14:12:56",

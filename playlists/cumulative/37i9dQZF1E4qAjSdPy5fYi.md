@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, Joshua Lanuarii, UrvTek and more
+> With SPARKLEWOLF RADIO, UrvTek, Learke and more
 
 351 songs - 15 hr 56 min
 

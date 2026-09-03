@@ -11383,6 +11383,24 @@
     },
     {
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154098,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM"
+    },
+    {
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/1DD9VeeuEvCgnG1s6AW4ci"
       },
@@ -31310,24 +31328,6 @@
       "duration_ms": 180345,
       "name": "Toy Box",
       "url": "https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA"
-    },
-    {
-      "album": {
-        "name": "Frequency",
-        "url": "https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        }
-      ],
-      "date_added": "2026-09-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM"
     },
     {
       "album": {

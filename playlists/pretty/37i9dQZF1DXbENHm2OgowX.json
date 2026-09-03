@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 360809,
+  "num_followers": 361068,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Shall We Begin",
-        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Shall We Begin",
-      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
         "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207939,
       "name": "Non Fiction: I.I Sonore",
       "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
-      },
-      "artists": [
-        {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
-        }
-      ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "4AM ambient version",
         "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
       },
       "artists": [
         {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
         }
       ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1267,6 +1251,22 @@
       "duration_ms": 572189,
       "name": "The Promise of Snakes",
       "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Snowa",
-        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
-      },
-      "artists": [
-        {
-          "name": "Slo Mance",
-          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
-        }
-      ],
-      "duration_ms": 260482,
-      "name": "Snowa",
-      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Symmetry",
         "url": "https://open.spotify.com/album/3tN4TSBqKFF2zEFMhVcvQG"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Snowa",
+        "url": "https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61"
+      },
+      "artists": [
+        {
+          "name": "Slo Mance",
+          "url": "https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs"
+        }
+      ],
+      "duration_ms": 260482,
+      "name": "Snowa",
+      "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Line Gone Cold (Deconstructed)",
         "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 156500,
       "name": "Line Gone Cold - Deconstructed",
       "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Inertia",
-        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
-      },
-      "artists": [
-        {
-          "name": "Nobuhiro Okahashi",
-          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "Inertia",
-      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1559,6 +1543,22 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Inertia",
+        "url": "https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Inertia",
+      "url": "https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Hidden Lights",
-        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
       },
       "artists": [
         {
-          "name": "\u00d8rlund",
-          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Hidden Lights",
-      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1743,26 +1727,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Even The Horizon Knows Its Bounds",
-        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
+        "name": "Hidden Lights",
+        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
       },
       "artists": [
         {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        },
-        {
-          "name": "Chris Abrahams",
-          "url": "https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK"
-        },
-        {
-          "name": "Jim O'Rourke",
-          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
         }
       ],
-      "duration_ms": 261849,
-      "name": "Even The Horizon Knows Its Bounds VIII",
-      "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
+      "duration_ms": 176000,
+      "name": "Hidden Lights",
+      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1799,6 +1775,30 @@
       "duration_ms": 146133,
       "name": "cry - Slowed",
       "url": "https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Even The Horizon Knows Its Bounds",
+        "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        },
+        {
+          "name": "Chris Abrahams",
+          "url": "https://open.spotify.com/artist/0MM1T4gXG5NjxaIhrPdaBK"
+        },
+        {
+          "name": "Jim O'Rourke",
+          "url": "https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f"
+        }
+      ],
+      "duration_ms": 261849,
+      "name": "Even The Horizon Knows Its Bounds VIII",
+      "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
     }
   ],
   "unique_name": "gloomcore",

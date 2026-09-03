@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "roots run deep with Willow Avalon",
+  "description": "roots run deep with Corey Kent",
   "name": "homegrown",
   "tracks": [
     {
@@ -1228,6 +1228,24 @@
       "duration_ms": 132480,
       "name": "Chronically Cautious - Country Version",
       "url": "https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7"
+    },
+    {
+      "album": {
+        "name": "Cigarette Burns",
+        "url": "https://open.spotify.com/album/69YV3IXNEn03rJAJiht2zC"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161586,
+      "name": "Cigarette Burns",
+      "url": "https://open.spotify.com/track/5lg7kVzuf0zpnbcgPNfmt3"
     },
     {
       "album": {

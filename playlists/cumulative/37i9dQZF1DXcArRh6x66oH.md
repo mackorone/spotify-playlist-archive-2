@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Willow Avalon
+> roots run deep with Corey Kent
 
-498 songs - 1 day 5 hr 55 min
+499 songs - 1 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Casseroles](https://open.spotify.com/track/3hOd6gdb1GDaeA1qEstzoh) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Casseroles](https://open.spotify.com/album/6HAn1loKc6GRDhQtsHRDAR) | 3:40 | 2025-01-17 |  |
 | [Cheating](https://open.spotify.com/track/4m19odXDCKMkhM0xvVs0IN) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Cheating](https://open.spotify.com/album/46HW4Aa1974diNDl2nAxrQ) | 2:27 | 2025-04-04 | 2025-09-27 |
 | [Chronically Cautious \- Country Version](https://open.spotify.com/track/6ZrmGXr5UhSw2ymL9Bhky7) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Chronically Cautious \(Country Version\)](https://open.spotify.com/album/6MEZWd1dc8o5hvtmYP8M3s) | 2:12 | 2023-06-30 | 2024-01-27 |
+| [Cigarette Burns](https://open.spotify.com/track/5lg7kVzuf0zpnbcgPNfmt3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Cigarette Burns](https://open.spotify.com/album/69YV3IXNEn03rJAJiht2zC) | 2:41 | 2026-09-02 |  |
 | [Clinton County](https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Clinton County](https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU) | 4:49 | 2026-01-16 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2023-09-29 | 2024-04-19 |
 | [Coal](https://open.spotify.com/track/6OkWyVg3hy8w3GDlYpYiic) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward](https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V) | 3:14 | 2026-05-01 | 2026-06-27 |

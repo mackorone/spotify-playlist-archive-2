@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 329,
+  "num_followers": 328,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAvCDa98H1sKwzfB0XPvofC",
+  "snapshot_id": "apYVgAAAAABh8QDRo81a6GK1mbkX35YK",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 166688,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
     },
     {
       "added_at": null,
@@ -555,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi_TEK MZK, VOL. 1",
-        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
+        "name": "Busy (BAYLI Remix)",
+        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
       },
       "artists": [
         {
-          "name": "CONNIE",
-          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 187600,
-      "name": "PURPLE APE",
-      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
+      "duration_ms": 165086,
+      "name": "Busy - BAYLI Remix",
+      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
     },
     {
       "added_at": null,
@@ -591,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy (BAYLI Remix)",
-        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
+        "name": "Hi_TEK MZK, VOL. 1",
+        "url": "https://open.spotify.com/album/0JfA1fy7oeUWjWamy3Xgj7"
       },
       "artists": [
         {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+          "name": "CONNIE",
+          "url": "https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 165086,
-      "name": "Busy - BAYLI Remix",
-      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
+      "duration_ms": 187600,
+      "name": "PURPLE APE",
+      "url": "https://open.spotify.com/track/3HHu5kbCDG8I7oBjUduOQu"
     },
     {
       "added_at": null,

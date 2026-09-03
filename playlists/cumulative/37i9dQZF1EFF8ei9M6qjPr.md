@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-255 songs - 12 hr 1 min
+256 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2024-07-09 | 2024-09-23 |
 | [Real Life Sux](https://open.spotify.com/track/60pVjEAPLUQ30hkdfFB0TP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/3wMQxx61faMQkbUk6uJOtz) | 2:23 | 2024-09-22 |  |
 | [Red Lights](https://open.spotify.com/track/6g3egN3RHTN6z7WXjN77tS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:05 | 2025-02-04 |  |
+| [Reverse Psychology](https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Reverse Psychology](https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE) | 2:58 | 2026-09-02 |  |
 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 | 2024-07-09 |  |
 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 | 2026-04-03 |  |
 | [Same Streets](https://open.spotify.com/track/1ElVku2RbiCwpIHTtVH62l) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Same Streets](https://open.spotify.com/album/4VnYNeCLopXgVXa5btmJlc) | 2:33 | 2024-08-02 |  |

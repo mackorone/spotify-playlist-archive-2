@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 555 likes - 65 songs - 4 hr 6 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 560 likes - 67 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 63 | [Chase the Feeling](https://open.spotify.com/track/5oFYQLAdS7YlQSMl6C2PzT) | [Station 301](https://open.spotify.com/artist/1ApohnXtENC8CFKfOmuoyx) | [Chase the Feeling](https://open.spotify.com/album/3QbZWdf9GH6lOH7wlc8qRa) | 2:35 |
 | 64 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 |
 | 65 | [Power Management](https://open.spotify.com/track/1m0hOFTswQKVZoQ8BU8dIJ) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Power Management](https://open.spotify.com/album/0cbK5vCpieD5Rd0ZlnX3xM) | 2:52 |
+| 66 | [Fáilte Ar Ais](https://open.spotify.com/track/1gyWpdvX41YmRY7IZ8wuQE) | [The Falls](https://open.spotify.com/artist/1idQKjppJVYq4aFbffUKEs) | [Fáilte Ar Ais](https://open.spotify.com/album/4GTOxYl0JiXsDst6BcbaAT) | 3:11 |
+| 67 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 |
 
-Snapshot ID: `AAACIH5+hsbpr8uAabyZhp900izpDTSp`
+Snapshot ID: `AAACIp4PxvO0zr9DCnQB6idwmCsoPuQN`

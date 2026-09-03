@@ -1,13 +1,113 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Sarodi",
-  "num_followers": 62837,
+  "description": "The best new music by independent artists and labels in India. Cover - Keane Cotta",
+  "num_followers": 62848,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXRWmBXXc3xfogEHsIdjFJCgv3Q",
+  "snapshot_id": "AAAAAD94n9ln/EnU3c+7lhnffAOUXGnv",
   "tracks": [
+    {
+      "added_at": "2026-08-26 07:30:02",
+      "album": {
+        "name": "redecorate",
+        "url": "https://open.spotify.com/album/3S7IzzUQuJUClEur7UfvnZ"
+      },
+      "artists": [
+        {
+          "name": "Keane Cotta",
+          "url": "https://open.spotify.com/artist/2CkvdGZhrJrUxsALhvG8SG"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/5UtOkmTi47iJbib9ZI3hhC"
+    },
+    {
+      "added_at": "2026-09-02 07:30:17",
+      "album": {
+        "name": "Phir Se Milenge",
+        "url": "https://open.spotify.com/album/1ys5zyIGMOmtaj5YsGEtDb"
+      },
+      "artists": [
+        {
+          "name": "Aeymanntara",
+          "url": "https://open.spotify.com/artist/6BIZ9742moGoJcAZFv7GMM"
+        },
+        {
+          "name": "Amar Kashyap",
+          "url": "https://open.spotify.com/artist/5BGz5Hm8d5579HQOhgbwtM"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Phir Se Milenge",
+      "url": "https://open.spotify.com/track/77D0gduGbVpmLLeqZpXEP1"
+    },
+    {
+      "added_at": "2026-09-02 07:30:17",
+      "album": {
+        "name": "Pahado Ki Sard Hawa",
+        "url": "https://open.spotify.com/album/1ekYTk7JlId97HhmwtAYKC"
+      },
+      "artists": [
+        {
+          "name": "Rawmats",
+          "url": "https://open.spotify.com/artist/4KXoWPrIQ7PSI7HtIBHrRa"
+        },
+        {
+          "name": "Krishna Singh",
+          "url": "https://open.spotify.com/artist/4ifdSiZUjHXOn3rQ3Od6R8"
+        }
+      ],
+      "duration_ms": 170886,
+      "name": "Pahado Ki Sard Hawa",
+      "url": "https://open.spotify.com/track/3m083t4HzUoU5jv5EQzIr8"
+    },
+    {
+      "added_at": "2026-09-02 07:30:17",
+      "album": {
+        "name": "Kirchiya",
+        "url": "https://open.spotify.com/album/4wrOVkjYCv5lzPjBz8BW8x"
+      },
+      "artists": [
+        {
+          "name": "Sumit",
+          "url": "https://open.spotify.com/artist/3gVIh8xL73AYFWWxkhx0Li"
+        },
+        {
+          "name": "Barnill",
+          "url": "https://open.spotify.com/artist/5nhvlenyPf1GiQ81ndYkdk"
+        },
+        {
+          "name": "Priyankshu Aryya",
+          "url": "https://open.spotify.com/artist/0UwTpVmC2zkNze1ZFef0IF"
+        }
+      ],
+      "duration_ms": 274016,
+      "name": "Kirchiya",
+      "url": "https://open.spotify.com/track/0gMWCuqMRciygqlt5zOFfE"
+    },
+    {
+      "added_at": "2026-09-02 07:30:17",
+      "album": {
+        "name": "Besharam Behaya",
+        "url": "https://open.spotify.com/album/5aQ3A46AF1n9LrHvAbByIo"
+      },
+      "artists": [
+        {
+          "name": "Spryk",
+          "url": "https://open.spotify.com/artist/16U1VoCTUdHaTWUMKx2dUM"
+        },
+        {
+          "name": "Gunda",
+          "url": "https://open.spotify.com/artist/7qviR9RWRL1V3aM0yQ8V0D"
+        }
+      ],
+      "duration_ms": 138954,
+      "name": "Besharam Behaya",
+      "url": "https://open.spotify.com/track/6P9cDk7s7PWu5TM5EbxOfc"
+    },
     {
       "added_at": "2026-08-26 07:30:02",
       "album": {
@@ -27,22 +127,6 @@
       "duration_ms": 143571,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/0Kt9FXqUXc62tgcE5hJKhj"
-    },
-    {
-      "added_at": "2026-08-26 07:30:02",
-      "album": {
-        "name": "redecorate",
-        "url": "https://open.spotify.com/album/3S7IzzUQuJUClEur7UfvnZ"
-      },
-      "artists": [
-        {
-          "name": "Keane Cotta",
-          "url": "https://open.spotify.com/artist/2CkvdGZhrJrUxsALhvG8SG"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/5UtOkmTi47iJbib9ZI3hhC"
     },
     {
       "added_at": "2026-08-26 07:30:02",
@@ -675,22 +759,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "The heart showcase",
-        "url": "https://open.spotify.com/album/7JGbcrLC8eZ1tIQ1CdenEG"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah de Rozario",
-          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
-        }
-      ],
-      "duration_ms": 186124,
-      "name": "For life",
-      "url": "https://open.spotify.com/track/3JoRKuCLXiRMrj6V0QCtm1"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Tijori",
         "url": "https://open.spotify.com/album/1dDCqEcbjUIysTEQgVaV8r"
       },
@@ -763,34 +831,6 @@
       "duration_ms": 236204,
       "name": "Janeja",
       "url": "https://open.spotify.com/track/3ss4BuT46BfmUTqAfz6QEA"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Batohi",
-        "url": "https://open.spotify.com/album/7GXY0tYVvVzRT4cioB2gGK"
-      },
-      "artists": [
-        {
-          "name": "Sujeet Anahata Thakur",
-          "url": "https://open.spotify.com/artist/61CLoY2iiFnPYVNk4HfMcu"
-        },
-        {
-          "name": "Akansha Tripathi",
-          "url": "https://open.spotify.com/artist/38XFS9SEu4eGBCguIdmIni"
-        },
-        {
-          "name": "Ishaan Nigam",
-          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
-        },
-        {
-          "name": "Harshit Shankar",
-          "url": "https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Batohi",
-      "url": "https://open.spotify.com/track/5tX0htWh35W6wyOznMo7Nr"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -883,26 +923,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Kash Tum",
-        "url": "https://open.spotify.com/album/179dxwQ4ZaHSGsmQlsAavW"
-      },
-      "artists": [
-        {
-          "name": "Kumudini Saraswati",
-          "url": "https://open.spotify.com/artist/5w2jJ72roVBAz0C8humiw1"
-        },
-        {
-          "name": "Hriday Goswami",
-          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Kash Tum",
-      "url": "https://open.spotify.com/track/36uQHtHRzkUu56QLRJUyOh"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Daag.",
         "url": "https://open.spotify.com/album/5xw4ODck9IkU2dyU61c1oh"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 199884,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Neer Bharan",
-        "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
-      },
-      "artists": [
-        {
-          "name": "Tanmay Deochake",
-          "url": "https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR"
-        },
-        {
-          "name": "Radhika Bhide",
-          "url": "https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Neer Bharan",
-      "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
     }
   ],
   "unique_name": "Fresh Finds India",

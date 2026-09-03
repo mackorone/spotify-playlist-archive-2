@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 139885,
+  "num_followers": 139959,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 240466,
       "name": "Natural High",
       "url": "https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Thin Line Between Love & Hate: Golden Classics",
+        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
+      },
+      "artists": [
+        {
+          "name": "The Persuaders",
+          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Thin Line Between Love and Hate",
+      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Baby You Got It",
         "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Thin Line Between Love & Hate: Golden Classics",
-        "url": "https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98"
-      },
-      "artists": [
-        {
-          "name": "The Persuaders",
-          "url": "https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Thin Line Between Love and Hate",
-      "url": "https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
         }
       ],
-      "duration_ms": 151626,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
       "artists": [
         {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+      "duration_ms": 151626,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 120153,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 162172,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Bump City",
         "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
       },
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
       },
       "artists": [
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
         }
       ],
-      "duration_ms": 162172,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -1095,22 +1111,6 @@
       "duration_ms": 197826,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/35EQEi6Od5PWvI8XHEmttd"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl"
+        "name": "Heatwave's Greatest Hits",
+        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 298626,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2"
+      "duration_ms": 287266,
+      "name": "Always and Forever - Edit",
+      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2207,6 +2207,22 @@
       "duration_ms": 194000,
       "name": "I'm Still In Love With You",
       "url": "https://open.spotify.com/track/1dF7EdEalTVfJyR6zCv093"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 298626,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2"
     },
     {
       "added_at": "2025-05-23 07:54:59",
@@ -2307,22 +2323,6 @@
       "duration_ms": 175240,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
-        "name": "Heatwave's Greatest Hits",
-        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 287266,
-      "name": "Always and Forever - Edit",
-      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
     },
     {
       "added_at": "2025-05-23 07:54:59",

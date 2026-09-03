@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,566 likes - 87 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,611 likes - 87 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 66 | [Akhri Baar](https://open.spotify.com/track/6K093cKQBo3JWoX5OPP1uY) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6) | [Akhri Baar](https://open.spotify.com/album/6WaYC52DAxJZ0JeoUNQgVg) | 2:18 |
 | 67 | [Pukaar](https://open.spotify.com/track/5r6GZrpfTQDCGgdR9Jv5hk) | [Khwaab](https://open.spotify.com/artist/2mnKZOV5u0fIV4UoRQfQrR), [Asad Khan Niazi](https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m) | [Pukaar](https://open.spotify.com/album/5KFa0UEhhD9wHrooSad1ZG) | 3:14 |
 | 68 | [Ambran De Taare](https://open.spotify.com/track/4Vv92d0E3lZIdjCblsag05) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Ambran De Taare](https://open.spotify.com/album/0jB7gUuSgXDjy72P0NUrPr) | 2:53 |
-| 69 | [Chaand Aur Tara](https://open.spotify.com/track/0fLwwQHbTzvrxLsGXXZYZY) | [Asad Khan Niazi](https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m) | [Chaand Aur Tara](https://open.spotify.com/album/42mJtXNx0NUbPSMlyt6IWA) | 3:44 |
+| 69 | [Chaand Aur Taara](https://open.spotify.com/track/0fLwwQHbTzvrxLsGXXZYZY) | [Asad Khan Niazi](https://open.spotify.com/artist/2T8BuDSqvUjuRS8izP483m) | [Chaand Aur Taara](https://open.spotify.com/album/42mJtXNx0NUbPSMlyt6IWA) | 3:44 |
 | 70 | [Sway \(feat\. Peter Corser\)](https://open.spotify.com/track/3I10WagQ7sTXueaZh9zcE9) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Elijah Solo](https://open.spotify.com/artist/5fvPSWjzyFrwn0vJKscrEL), [Joshua Bwalya](https://open.spotify.com/artist/1Uu9xr2gXTTVw4i3BI32kU), [Peter Corser](https://open.spotify.com/artist/2ffiYNdtpHA2hCVMl3znQx) | [Sway \(feat\. Peter Corser\)](https://open.spotify.com/album/4kwZU9X4SBkgnAFOEa8qni) | 5:18 |
 | 71 | [Khayaal](https://open.spotify.com/track/7hIpGJXUWIhsgHXYKYGHYU) | [Hassaan Shaheer](https://open.spotify.com/artist/6WPtkGlueETTYhoz0FSyHi), [Sonny$](https://open.spotify.com/artist/1I16Q6dCWupPDIdKNsXkOU) | [Khayaal](https://open.spotify.com/album/6j2rTciEA9FGnWhsGm96ZZ) | 2:46 |
 | 72 | [Kajal](https://open.spotify.com/track/0NcASdBMMCcQnRa15YnjQL) | [Sinan Rajput](https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY) | [Kajal](https://open.spotify.com/album/5OE4SgPkFe6RVUK4zxHLkE) | 3:10 |

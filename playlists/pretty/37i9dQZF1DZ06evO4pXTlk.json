@@ -1,12 +1,12 @@
 {
   "description": "This is The XCERTS. The essential tracks, all in one playlist.",
-  "num_followers": 703,
+  "num_followers": 704,
   "original_name": "This Is The XCERTS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACyim9MV7RrE+e072sSJ2mQ",
+  "snapshot_id": "apYVgAAAAAAEub/a5adfQJemWWgmTc65",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Only You",
-        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+        "name": "We Built This City",
+        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 190390,
-      "name": "Shaking In The Water",
-      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
+      "duration_ms": 235810,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Built This City",
-        "url": "https://open.spotify.com/album/25XwdliNAo6VrO7J2U2GxJ"
+        "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 235810,
-      "name": "We Built This City",
-      "url": "https://open.spotify.com/track/6uGax7tGLYcmZ0Nk12eO9a"
+      "duration_ms": 190390,
+      "name": "Shaking In The Water",
+      "url": "https://open.spotify.com/track/4EAEzurHVgxsXmJ263P6fV"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "Slackerpop",
-      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shaking In The Water",
         "url": "https://open.spotify.com/album/4qAwGPiGVQvbgccrF34jih"
       },
@@ -535,38 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready to Call",
-        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 219405,
-      "name": "Ready to Call",
-      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -576,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 213426,
-      "name": "Young (Belane)",
-      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+      "duration_ms": 154626,
+      "name": "Slackerpop",
+      "url": "https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E"
     },
     {
       "added_at": null,
@@ -612,6 +564,54 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ready to Call",
+        "url": "https://open.spotify.com/album/4CMzznQBNj0AP2uDAxbbGS"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 219405,
+      "name": "Ready to Call",
+      "url": "https://open.spotify.com/track/5ie3gZHgWj0Tip7YxJFTn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 213426,
+      "name": "Young (Belane)",
+      "url": "https://open.spotify.com/track/6O3tpTZNeD4v0VEUvaBwSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Cold Wind We Smile (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
       "duration_ms": 170883,
       "name": "Nightschool",
       "url": "https://open.spotify.com/track/7kypxcJ3LGW1OFH0PLvpf9"
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Carnival Time",
-      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
+      "duration_ms": 195066,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
+      "duration_ms": 224160,
+      "name": "Carnival Time",
+      "url": "https://open.spotify.com/track/0d05B9yk71AD3d4PRb1LbB"
     },
     {
       "added_at": null,

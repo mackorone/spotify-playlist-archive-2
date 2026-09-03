@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,073,333 likes - 46 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,072,959 likes - 46 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

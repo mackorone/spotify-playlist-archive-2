@@ -602,7 +602,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 158260,
       "name": "\u3050\u306c\u306c",
       "url": "https://open.spotify.com/track/4VzYwXWlcjJTeHUNPU1X2s"
@@ -1605,6 +1605,32 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/0jHu9G89uLq3ZCOBWFK5cN"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6f20\u6ce2\u65b0",
+          "url": "https://open.spotify.com/artist/1YHmPcRy7ET4VRufy4GI0h"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179872,
+      "name": "\u30b9\u30de\u30a4\u30eb (feat. \u521d\u97f3\u30df\u30af & \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/6xNwd1pjUjTfHwzN2yyndS"
+    },
+    {
+      "album": {
         "name": "\u30bd\u30e9\u306e\u8b70\u4e8b\u9332 (feat. \u521d\u97f3\u30df\u30af)",
         "url": "https://open.spotify.com/album/0Ibc4PPlRwfWO685bzZQfM"
       },
@@ -1950,6 +1976,36 @@
       "duration_ms": 172840,
       "name": "\u30d0\u30c3\u30ab\u30a2\u30ce",
       "url": "https://open.spotify.com/track/3fvkfg1QFOFExUhkt78w9Q"
+    },
+    {
+      "album": {
+        "name": "\u6c34\u69fd",
+        "url": "https://open.spotify.com/album/0ks3X0iqA6pl81bH7dQbdX"
+      },
+      "artists": [
+        {
+          "name": "\u0b33",
+          "url": "https://open.spotify.com/artist/2yDoPOO7yUZ21LhS2JNjd6"
+        },
+        {
+          "name": "\u7434\u8449 \u831c\u30fb\u8475",
+          "url": "https://open.spotify.com/artist/41awN5lnLFVoEQqsqGUJy5"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "Yuki Kaai",
+          "url": "https://open.spotify.com/artist/2VLQ72xXVYB1n8lvkEWOhS"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217965,
+      "name": "\u30d2\u30c8\u30c0\u30de\u3068\u590f\u306e\u795e\u96a0\u3057 (feat. \u7434\u8449 \u831c\u30fb\u8475, \u53ef\u4e0d & \u6b4c\u611b\u30e6\u30ad)",
+      "url": "https://open.spotify.com/track/6v0TuHN5LrHiSuE48hJEGv"
     },
     {
       "album": {

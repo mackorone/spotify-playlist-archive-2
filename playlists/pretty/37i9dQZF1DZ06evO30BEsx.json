@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAC6BT698HhaaN55zzfjHaE8",
+  "snapshot_id": "apYVgAAAAAAKr/ScInO/ALFtEMkBYuV+",
   "tracks": [
     {
       "added_at": null,
@@ -123,30 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhapsody. Cello Sonatas by Rachmaninov & Prokofiev",
-        "url": "https://open.spotify.com/album/1xpzhtpjPvLWdLme7BpttC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII. Andante cantabile",
-      "url": "https://open.spotify.com/track/1faDVN6hdbj0rQXOP5Cflf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Franck & Chopin: Cello Sonatas",
         "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
       },
@@ -167,30 +143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
+        "name": "Rhapsody. Cello Sonatas by Rachmaninov & Prokofiev",
+        "url": "https://open.spotify.com/album/1xpzhtpjPvLWdLme7BpttC"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
         }
       ],
-      "duration_ms": 252360,
-      "name": "Pavane pour une infante d\u00e9funte, M. 19",
-      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
+      "duration_ms": 219093,
+      "name": "Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII. Andante cantabile",
+      "url": "https://open.spotify.com/track/1faDVN6hdbj0rQXOP5Cflf"
     },
     {
       "added_at": null,
@@ -239,6 +211,34 @@
       "duration_ms": 161080,
       "name": "Hurwitz / Arr. Bouchard: La la land: Mia and Sebastian's Theme",
       "url": "https://open.spotify.com/track/5qY0DKB7qYMHAw5qSFAUs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris - Ravel: Pavane pour un infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/5sGn4kv7LLefnFEbaMJ1e4"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/3nMesKO4nOyRrP1pUKQulO"
     },
     {
       "added_at": null,
@@ -300,8 +300,8 @@
       },
       "artists": [
         {
-          "name": "Marguerite Monnot",
-          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Monnot: Hymne \u00e0 l'amour (Orch. Ducros)",
-      "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
+      "duration_ms": 219746,
+      "name": "Nyman: The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
     },
     {
       "added_at": null,
@@ -408,8 +408,8 @@
       },
       "artists": [
         {
-          "name": "Michael Nyman",
-          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+          "name": "Marguerite Monnot",
+          "url": "https://open.spotify.com/artist/1du2ve2XIWYeHHamxUT4cC"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Nyman: The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
+      "duration_ms": 221626,
+      "name": "Monnot: Hymne \u00e0 l'amour (Orch. Ducros)",
+      "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
     },
     {
       "added_at": null,
@@ -699,34 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
-        "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
-      "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faur\u00e9: Complete Chamber Music for Strings",
         "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
@@ -751,34 +723,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+        "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
+        "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
       },
       "artists": [
         {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Deborah Nemtanu",
-          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
         },
         {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 164960,
-      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
-      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
+      "duration_ms": 149293,
+      "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
+      "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
     },
     {
       "added_at": null,
@@ -851,6 +819,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Deborah Nemtanu",
+          "url": "https://open.spotify.com/artist/1BLxBnBUSEneDphT03qpRC"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Elgar: Salut d'amour, Op. 12 (Orch. Walter)",
+      "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elgar & Walton: Cello Concertos",
         "url": "https://open.spotify.com/album/0apsTmjAkVs4ks2tfXIDOs"
       },
@@ -875,34 +875,6 @@
       "duration_ms": 485026,
       "name": "Elgar: Cello Concerto in E Minor, Op. 85: I. Adagio - Moderato",
       "url": "https://open.spotify.com/track/1xF2NucEGH7ENxEyKXW2xk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -947,6 +919,34 @@
       "duration_ms": 387440,
       "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Calm Classical for Studying",
+        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        }
+      ],
+      "duration_ms": 82306,
+      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
+      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1059,26 +1083,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Classical for Studying",
-        "url": "https://open.spotify.com/album/6E1vIbtD1nOoiQb3YDpIX1"
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/3vIOzLHn6CphNNK4f5piER"
+      "duration_ms": 313600,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: II. Adagio",
+      "url": "https://open.spotify.com/track/4KggTORwddWKbadt65VtoS"
     },
     {
       "added_at": null,
@@ -1107,34 +1135,6 @@
       "duration_ms": 223200,
       "name": "Piazzolla / Orch. Ducros: Oblivion",
       "url": "https://open.spotify.com/track/4tOxKuseWFcXCv2Ro4t6Qi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: II. Adagio",
-      "url": "https://open.spotify.com/track/4KggTORwddWKbadt65VtoS"
     },
     {
       "added_at": null,
@@ -1195,30 +1195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 294000,
       "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
       "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
     },
     {
       "added_at": null,
@@ -1351,30 +1351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
+        "name": "Focus with Bach",
+        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
       },
       "artists": [
         {
-          "name": "Samuel Barber",
-          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 496213,
-      "name": "Adagio for Strings, Op. 11",
-      "url": "https://open.spotify.com/track/4IW0wZmhQJyQfCmuDoNrQ4"
+      "duration_ms": 91093,
+      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

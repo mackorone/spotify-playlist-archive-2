@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,774 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,783 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 33 | [This is My Dance Floor](https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:07 |
 | 34 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 
-Snapshot ID: `apTEAAAAAADNDRWx72K1k07DNEWVZugK`
+Snapshot ID: `apYVgAAAAAAqUkxcteNSklD8fpKNIsRF`

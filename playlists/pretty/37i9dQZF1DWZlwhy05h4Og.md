@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: KATSEYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,091 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,129 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

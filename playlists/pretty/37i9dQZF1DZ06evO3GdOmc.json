@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 47260,
+  "num_followers": 47276,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABAeKCWL3fXsfCUq9qAi6A7",
+  "snapshot_id": "apYVgAAAAAChbmjxYGR0/yQee2gYl2N1",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Start Right Here",
-      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
+      "duration_ms": 316720,
+      "name": "Lifesong",
+      "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesong",
-        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 316720,
-      "name": "Lifesong",
-      "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
+      "duration_ms": 221053,
+      "name": "Start Right Here",
+      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
     },
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+        "name": "Desert Road",
+        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
       },
       "artists": [
         {
           "name": "Casting Crowns",
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 411733,
-      "name": "Here's My Heart - Live",
-      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
+      "duration_ms": 218484,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desert Road",
-        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
       },
       "artists": [
         {
           "name": "Casting Crowns",
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 218484,
-      "name": "Desert Road",
-      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
+      "duration_ms": 411733,
+      "name": "Here's My Heart - Live",
+      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303458,
+  "num_followers": 303474,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABAZrInh5MlMluBCT+t5RX5",
+  "snapshot_id": "apYVgAAAAACUuPdG8nxgxEkdjNya5LQN",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 236720,
-      "name": "The Rider",
-      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
+      "duration_ms": 227546,
+      "name": "The Lunatic",
+      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 227546,
-      "name": "The Lunatic",
-      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+      "duration_ms": 236720,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "The Unwritten Law",
-      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now What ?!",
         "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 261493,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "The Unwritten Law",
+      "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stormbringer (Remastered)",
-        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "The Gypsy - 2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now What ?!",
         "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 420320,
       "name": "Uncommon Man",
       "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "The Gypsy - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
     },
     {
       "added_at": null,

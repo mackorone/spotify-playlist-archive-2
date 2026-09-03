@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,785 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,991 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 52 | [Asla](https://open.spotify.com/track/65mPn0Lc8D6jE67S7raTiV) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Asla](https://open.spotify.com/album/6xshFUAjYBeEJMy6JU2jEe) | 2:24 |
 | 53 | [CEO](https://open.spotify.com/track/1EffuiWpbTNLvEhr6dSQCM) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:12 |
 | 54 | [Jattan Nu](https://open.spotify.com/track/2AZDjZ806ruqeb541XiZd9) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Ashu Sidhu](https://open.spotify.com/artist/3PRoJjmSXXvUgafoufPXW1) | [Youngsters](https://open.spotify.com/album/6Rylxh0kOTbEeMJJBlSDzM) | 2:24 |
-| 55 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:52 |
+| 55 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:54 |
 | 56 | [Mera Mann](https://open.spotify.com/track/7DKWcqsUjsjBD56kbYvx50) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Mera Mann](https://open.spotify.com/album/2zBFZJ0VhUSflzQ7rcuu0J) | 2:43 |
 | 57 | [Hypnotic](https://open.spotify.com/track/55nrl1ScrRDCv1ORLoEMlG) | [Deep Dhaliwal](https://open.spotify.com/artist/0westTqzCnTkVzfHwEsoUy), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [Hypnotic](https://open.spotify.com/album/4eQJt7I909APqRISSPDRLZ) | 2:27 |
 | 58 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 |

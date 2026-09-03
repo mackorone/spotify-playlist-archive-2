@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 29450,
+  "num_followers": 29456,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
+        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 229173,
+      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
+      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
+    },
+    {
+      "added_at": "2026-02-17 15:00:25",
+      "album": {
         "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
         "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 224633,
       "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
       "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
-    },
-    {
-      "added_at": "2026-02-17 15:00:25",
-      "album": {
-        "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-        "url": "https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "\u6669\u9910\u6b4c (\u5f3e\u304d\u8a9e\u308aver) - Bansanka (Acoustic ver)",
-      "url": "https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk"
     },
     {
       "added_at": "2026-02-17 15:00:25",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
-        "name": "\u304b\u3051\u8db3\u65cf",
-        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 224767,
-      "name": "\u304b\u3051\u8db3\u65cf",
-      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
-    },
-    {
-      "added_at": "2026-02-17 15:00:25",
-      "album": {
         "name": "098RADIO vol.2 Hosted by Awich",
         "url": "https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+        "name": "\u304b\u3051\u8db3\u65cf",
+        "url": "https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn"
       },
       "artists": [
         {
-          "name": "TOMIOKA AI",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
         }
       ],
-      "duration_ms": 201137,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+      "duration_ms": 224767,
+      "name": "\u304b\u3051\u8db3\u65cf",
+      "url": "https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd"
     },
     {
       "added_at": "2026-02-17 15:00:25",
@@ -727,6 +711,22 @@
       "duration_ms": 167400,
       "name": "\u604b\u611b\u5f8c\u907a\u75c7",
       "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "added_at": "2026-02-17 15:00:25",
+      "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+      },
+      "artists": [
+        {
+          "name": "TOMIOKA AI",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
       "added_at": "2026-02-17 15:00:25",

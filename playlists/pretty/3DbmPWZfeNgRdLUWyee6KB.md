@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 101 songs - 6 hr 0 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 105 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 99 | [Il ritmo della natura](https://open.spotify.com/track/5xOzT3bXDAwkfyBsl9Q781) | [Dorian once again](https://open.spotify.com/artist/6EgYtL5WbkJhU72NH3PVie) | [Noumeno](https://open.spotify.com/album/0autHRNoIcfDvfRXSSl2vQ) | 5:22 |
 | 100 | [camouflaging \- demo](https://open.spotify.com/track/6ZN0wjcbOzuG9OBDk63arf) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [puzzle peaces \(live demo EP\)](https://open.spotify.com/album/3SRMMHmTEQHFXixSMWOdu8) | 4:09 |
 | 101 | [Tap Your Toe And Follow Me](https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Come And Make A Circle: Twenty Terrific Songs For Kids And Teachers](https://open.spotify.com/album/0dYxuXTk8vHeGRvOkLbkHm) | 2:52 |
+| 102 | [Stay Right Here](https://open.spotify.com/track/4DFiF5BogDDoUWPqZIUzaw) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Nicholas Pierce](https://open.spotify.com/artist/5VqpFWUi3TKsv2VQ4TjDTH) | [Stay Right Here](https://open.spotify.com/album/387st1ZnAmH942aNsg9xXj) | 3:44 |
+| 103 | [Centered](https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I) | [THE EM](https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v) | [Silent Avenue, Vol\. 2](https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z) | 2:54 |
+| 104 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 |
+| 105 | [Plinthe](https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Plinthe](https://open.spotify.com/album/3QG2OmpwhZ3lCKsj27Xkqm) | 1:44 |
 
-Snapshot ID: `AAAXkK4jkWzECNnD6FVASgTaYuWp4Mj/`
+Snapshot ID: `AAAXlJXZHH6ceK18X1OIIMf5pEVKjS1+`

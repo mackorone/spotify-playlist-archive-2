@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Reverse Psychology",
+        "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178928,
+      "name": "Reverse Psychology",
+      "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
+    },
+    {
+      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8"
       },

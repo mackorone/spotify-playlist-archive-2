@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 99938,
+  "num_followers": 99943,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACPgF4uceYt97Kt4W9ezQxF",
+  "snapshot_id": "apYVgAAAAADXrvU8UauibcpTOAHVWAwx",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castles",
         "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 233314,
       "name": "Gardenia (with Stick Figure)",
       "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Visions (with Stick Figure)",
+      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 274498,
       "name": "Got Me On The Run (with Stick Figure and Pepper)",
       "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Visions (with Stick Figure)",
-      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasure (with Stick Figure)",
         "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 252693,
       "name": "In This Love",
       "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Local Motion",
-        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Warning (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 255439,
       "name": "Heartland",
       "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Local Motion",
+        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Warning (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 279323,
       "name": "Just Another Dream",
       "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266549,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Restless Soul",
         "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 256878,
       "name": "Restless Soul",
       "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266549,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX"
     },
     {
       "added_at": null,

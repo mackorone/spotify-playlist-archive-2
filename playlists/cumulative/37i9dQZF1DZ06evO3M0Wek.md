@@ -4,7 +4,7 @@
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 41 min
+75 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Rain Your Blood On Me](https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:14 | 2025-09-11 |  |
 | [Raise Your Horns](https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:18 | 2025-03-08 |  |
 | [Rock Show](https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:19 | 2025-08-08 |  |
-| [Shatter Me](https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shatter Me \(Deluxe\)](https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe) | 4:38 | 2025-09-28 |  |
+| [Shatter Me](https://open.spotify.com/track/3nd738zQd9NabAT0MRjcyT) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shatter Me \(Deluxe\)](https://open.spotify.com/album/2ONNVBhYiojv9aJeK84Ghn) | 4:38 | 2026-09-03 |  |
+| [Shatter Me](https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shatter Me \(Deluxe\)](https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe) | 4:38 | 2025-09-28 | 2026-09-03 |
 | [Shiver](https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 3:50 | 2025-08-10 |  |
 | [Shoot to Thrill](https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 2.0: The CoVeRs eP](https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA) | 5:07 | 2025-03-08 |  |
 | [Shooting Star](https://open.spotify.com/track/0gxgmkQJPIUqgHCmzHYRBW) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Shooting Star](https://open.spotify.com/album/1RVbpAB5qeezJb1Ka1z4Wp) | 6:35 | 2025-10-29 | 2026-06-01 |

@@ -1,13 +1,33 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Pritesh Walia. Artwork: Joy Yamusangie.",
-  "num_followers": 244590,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
+  "num_followers": 244636,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxFtMWg3RmvJ8KyFhJISS/MQmrE",
+  "snapshot_id": "AAAAANQncWRiTxEMVXZ/qR15szG4gCCX",
   "tracks": [
+    {
+      "added_at": "2026-09-02 16:54:55",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/5d5fNx6SQAN0o3OhQGnvgH"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        },
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        }
+      ],
+      "duration_ms": 254522,
+      "name": "GAIA",
+      "url": "https://open.spotify.com/track/3Nv2FmkTX4GNMQdm4ofmyj"
+    },
     {
       "added_at": "2026-08-12 17:47:49",
       "album": {
@@ -275,7 +295,7 @@
     {
       "added_at": "2026-05-27 16:26:59",
       "album": {
-        "name": "Geza",
+        "name": "geza",
         "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
       },
       "artists": [
@@ -285,7 +305,7 @@
         }
       ],
       "duration_ms": 429019,
-      "name": "Geza",
+      "name": "geza",
       "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {
@@ -635,22 +655,6 @@
       "duration_ms": 483363,
       "name": "Bost\u00e9",
       "url": "https://open.spotify.com/track/5qE37tGLNDz5eip472RywN"
-    },
-    {
-      "added_at": "2025-12-03 12:16:10",
-      "album": {
-        "name": "Drive Z",
-        "url": "https://open.spotify.com/album/3SPIk7QWbbQ2WqG2kGr3Qb"
-      },
-      "artists": [
-        {
-          "name": "LOTUS GUITAR",
-          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
-        }
-      ],
-      "duration_ms": 189993,
-      "name": "Drive Z",
-      "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
     },
     {
       "added_at": "2026-02-18 17:47:31",

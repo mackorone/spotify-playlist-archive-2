@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57424,
+  "num_followers": 57438,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABZ6Gv3zdAfHSpUWETTPY7p",
+  "snapshot_id": "apYVgAAAAABlFpZZEoYrSFb3Uow7XSjK",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 207310,
-      "name": "Telephone (ft. 070 Shake)",
-      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
+      "duration_ms": 126462,
+      "name": "might bang, might not",
+      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
     },
     {
       "added_at": null,
@@ -587,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 126462,
-      "name": "might bang, might not",
-      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
+      "duration_ms": 207310,
+      "name": "Telephone (ft. 070 Shake)",
+      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 135322,
-      "name": "you should call mum",
-      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stillness In Wonderland (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211285,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135322,
+      "name": "you should call mum",
+      "url": "https://open.spotify.com/track/6M4r4D0ZNqa67UDzuOJ6Po"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6671,
+  "num_followers": 6668,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADkHo+qHd+/Yd3NMrfSSJSx",
+  "snapshot_id": "apYVgAAAAAAMA65nnh56oGxJA+m6BpAS",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 205850,
+      "name": "Applejack",
+      "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backwoods Barbie",
         "url": "https://open.spotify.com/album/4s4PvM9VcZkd5DZlzmjHGe"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 240813,
       "name": "Those Memories of You - 2015 Remaster",
       "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 205850,
-      "name": "Applejack",
-      "url": "https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porter 'N' Dolly",
+        "url": "https://open.spotify.com/album/2kKDvQ24tqs9M932L3FjiN"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "Please Don't Stop Loving Me",
+      "url": "https://open.spotify.com/track/5pfw6zehxjTpLNQoHFXIwR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 267859,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/6OeVJSwLMZWI1Oai0QjMbx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porter 'N' Dolly",
-        "url": "https://open.spotify.com/album/2kKDvQ24tqs9M932L3FjiN"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 167253,
-      "name": "Please Don't Stop Loving Me",
-      "url": "https://open.spotify.com/track/5pfw6zehxjTpLNQoHFXIwR"
     },
     {
       "added_at": null,

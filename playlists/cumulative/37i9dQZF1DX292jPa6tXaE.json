@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Parakh",
+  "description": "Discover the future of Punjabi Pop! Cover: Deepa Kaler",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 180000,
       "name": "Belle",
       "url": "https://open.spotify.com/track/2QM8Dv7ODGzI2KZyCMTvrD"
@@ -6563,6 +6563,36 @@
     },
     {
       "album": {
+        "name": "Kato",
+        "url": "https://open.spotify.com/album/6lrf24y46XfDb4MScfEbEm"
+      },
+      "artists": [
+        {
+          "name": "Deepa Kaler",
+          "url": "https://open.spotify.com/artist/4Ff6tMzFXbC6P6JNUPulRh"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114059,
+      "name": "Kato",
+      "url": "https://open.spotify.com/track/5j3DhJuEAyHT5wcPQEVO9f"
+    },
+    {
+      "album": {
         "name": "Keep It Hundo",
         "url": "https://open.spotify.com/album/0hfg65x4fdR1khGEwrZF9d"
       },
@@ -7660,6 +7690,24 @@
       "duration_ms": 166827,
       "name": "Lost in eyez",
       "url": "https://open.spotify.com/track/7dI5luM3wuAItypXFb66E1"
+    },
+    {
+      "album": {
+        "name": "Love Accepted",
+        "url": "https://open.spotify.com/album/6RYOsAd89p4AoxExDqqkR7"
+      },
+      "artists": [
+        {
+          "name": "Paras Alive",
+          "url": "https://open.spotify.com/artist/228gfKcuSqjP82gQEAuDYe"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210651,
+      "name": "Love Accepted",
+      "url": "https://open.spotify.com/track/2QJlgjJGOpnzEiYtGUMzW8"
     },
     {
       "album": {
@@ -9542,7 +9590,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 133953,
       "name": "Novella",
       "url": "https://open.spotify.com/track/2TSL8yfTaoZxrd2Um4Edkx"
@@ -9638,7 +9686,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 164210,
       "name": "Ohde Wargi",
       "url": "https://open.spotify.com/track/6rkwobmsLRo28ESjIn30YA"
@@ -9868,7 +9916,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 227796,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5qY8BnZ4LOd1ZToctvLqRb"
@@ -11081,6 +11129,24 @@
     },
     {
       "album": {
+        "name": "Samundar Kinare",
+        "url": "https://open.spotify.com/album/4PSKA1jRQsiUMWOCRsF0Au"
+      },
+      "artists": [
+        {
+          "name": "Anmol Dhandra",
+          "url": "https://open.spotify.com/artist/6Nt3h2zgNgXKZ6YmiMwiZE"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Samundar Kinare",
+      "url": "https://open.spotify.com/track/6K5u7PJBBUKTnpIx738B3m"
+    },
+    {
+      "album": {
         "name": "Sand Bolde",
         "url": "https://open.spotify.com/album/71BoNRzIB8qocWy4ylTrj3"
       },
@@ -11210,6 +11276,24 @@
       "duration_ms": 182727,
       "name": "Saun Di Jhadi",
       "url": "https://open.spotify.com/track/5qqxfRniWjoW5VhYiQn0xy"
+    },
+    {
+      "album": {
+        "name": "Sawaal",
+        "url": "https://open.spotify.com/album/53U5ZReitHQnWCq5xpgaaR"
+      },
+      "artists": [
+        {
+          "name": "GRK",
+          "url": "https://open.spotify.com/artist/3LKZ2gn2oc9KokDmJZWmqa"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166921,
+      "name": "Sawaal",
+      "url": "https://open.spotify.com/track/7IZFBv4KMxlM4EfBPNcFlV"
     },
     {
       "album": {
@@ -11920,7 +12004,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 186378,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7Gldjft5dQJ9vB9XVaLNFX"
@@ -13206,6 +13290,28 @@
       "duration_ms": 157208,
       "name": "Untold",
       "url": "https://open.spotify.com/track/1jjl51M0O1cyhcnCgK7qV3"
+    },
+    {
+      "album": {
+        "name": "Vaari",
+        "url": "https://open.spotify.com/album/1XUZomjf4C3Ocaq0z0RT8O"
+      },
+      "artists": [
+        {
+          "name": "Pia Debroy",
+          "url": "https://open.spotify.com/artist/6NHIK6ho4iPrH8oegrzg7S"
+        },
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144631,
+      "name": "Vaari",
+      "url": "https://open.spotify.com/track/5Ax71OzHlADLBiBUwHczqs"
     },
     {
       "album": {

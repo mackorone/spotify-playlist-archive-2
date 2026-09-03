@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MicMac\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PENPRAPA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,404 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,438 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goodguy](https://open.spotify.com/track/3Eml3iMmwTWQcSrHRAOtui) | [Saturn's Light](https://open.spotify.com/artist/51o9Htq8zltnyHIK6cZ7Fe) | [Goodguy](https://open.spotify.com/album/5t9POAD3W9UglxX550zgsU) | 3:42 |
-| 2 | [แยกไม่ออก \(Twins\)](https://open.spotify.com/track/2eKDOFw2DquZEGAe4mZpuU) | [MicMac](https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li) | [แยกไม่ออก \(Twins\)](https://open.spotify.com/album/0YYIKdNpnr9tqBBIpbeXt7) | 3:53 |
-| 3 | [Everything](https://open.spotify.com/track/5bZKnOnbEvGowHt7JVpEDJ) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Everything](https://open.spotify.com/album/1MApKORs0FVvRdByK9FEzK) | 3:53 |
-| 4 | [BOYFRIEND MATERIAL](https://open.spotify.com/track/72qHExfYo3FPKdhcS6HHLq) | [Turbo4Wds](https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg) | [BOYFRIEND MATERIAL](https://open.spotify.com/album/1QqzPMUvlmQsgl9BgIoe8V) | 3:17 |
-| 5 | [Mask On](https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8) | [TACE](https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5) | [Mask On](https://open.spotify.com/album/7oQaXMuUb5klXybeER7LKg) | 3:34 |
-| 6 | [ในสายตา](https://open.spotify.com/track/5ZZixufL5art9LKKLE66b1) | [TakRJ](https://open.spotify.com/artist/4mWYg0DKDc6wsl8VPAUew9) | [ในสายตา](https://open.spotify.com/album/21Ceeej7vJJsU0yYB2LtKu) | 3:14 |
-| 7 | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi) | [WINNING](https://open.spotify.com/artist/0O8xugIMlXx64eukbqYVgc) | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/album/2pi4uVwZB3FEgXuIfxLdKQ) | 3:03 |
-| 8 | [Million Years \- ล้านปี](https://open.spotify.com/track/0Snx5k5SHbTAS5Q2n3sGsQ) | [RyuzilL](https://open.spotify.com/artist/06yq9b41Zua4F3rzXTQG9y) | [Million Years \(ล้านปี\)](https://open.spotify.com/album/1OU1gC0i5beOYQ2Mc3zIZO) | 4:42 |
-| 9 | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/track/0Y9SCr1oUEm7qfUQGh9zCs) | [redmango404](https://open.spotify.com/artist/4r25ksMDtsLaguQ2BAy1AK) | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/album/3KxVEL0AFcV7oNzFjrnMl3) | 4:46 |
-| 10 | [อิจฉาแฟนเธอ](https://open.spotify.com/track/5R8Cn19nEslQFyWdlM4LH3) | [ezioez](https://open.spotify.com/artist/3hDAZvufO2OAGWnnPxeCkx) | [อิจฉาแฟนเธอ](https://open.spotify.com/album/4oWJREu34FwNaJdxzOXH15) | 3:34 |
-| 11 | [อย่าทำให้ฉันเดินจากไป](https://open.spotify.com/track/25yH3IVJopldWG2NBTOvHG) | [Lateyoung](https://open.spotify.com/artist/1lPSO6afhtsM1JRRyoQS06) | [อย่าทำให้ฉันเดินจากไป](https://open.spotify.com/album/5tWowD9xFOm41T1hcHCy7C) | 3:18 |
-| 12 | [Always with you](https://open.spotify.com/track/4otIAaR66vMvLq20wwMZqr) | [tutor](https://open.spotify.com/artist/2jsNgD2LSvMduphKbtURDY) | [Always with you](https://open.spotify.com/album/5wmVdT6QO5E4dciGQhXsuE) | 3:58 |
-| 13 | [ก่อนบอกไป](https://open.spotify.com/track/0dWdoq8lLCvVEgUetD9cn3) | [Cigarettes Summer George](https://open.spotify.com/artist/1GeJxu4mpC0stTPe2jv5NP) | [ก่อนบอกไป](https://open.spotify.com/album/5BI1o3aGsLGX1NUyMEAV3u) | 4:35 |
-| 14 | [Lost \(รั้ง\)](https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G) | [Basket Valley](https://open.spotify.com/artist/3fjn6M1i9hiYhdEPsmZ1f5) | [Lost \(รั้ง\)](https://open.spotify.com/album/6xpNUlnByQwgDyPuGRa8ni) | 4:17 |
-| 15 | [ยินดีเสมอถ้าต้องหายไป](https://open.spotify.com/track/6bI1BNFkars2piVP8n4rOj) | [STEAK N' CO](https://open.spotify.com/artist/3E5hKvxFmUMQkiHkq4lJon) | [ยินดีเสมอถ้าต้องหายไป](https://open.spotify.com/album/6pAZl7iwWIRv30Yjx9lYyE) | 4:32 |
-| 16 | [ย้าย่ายะ](https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy) | [อูโน่ หลาวทอง](https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8) | [ย้าย่ายะ](https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73) | 3:40 |
-| 17 | [GIVE ME MORE](https://open.spotify.com/track/4DlxcnXHwp426Y0vDs41GN) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [GIVE ME MORE](https://open.spotify.com/album/4kYHYWCJSsUfLAEr0jg6RB) | 3:17 |
-| 18 | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 |
-| 19 | [Saw you on Tinder](https://open.spotify.com/track/4SmrLOYQ5ad3QcLGS9tpf9) | [Jduck](https://open.spotify.com/artist/7IwfHqIXDXJZXIG2VBrPE9) | [Saw you on Tinder](https://open.spotify.com/album/4W16e14ZACMcDEdohShUUG) | 2:19 |
-| 20 | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/track/1FnhxRLVOveQgtGbnjX9Ga) | [kevyn](https://open.spotify.com/artist/0BMpYlZbI8ir7DX1LukOpK) | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/album/7H5RNtXvPSubC8Eo7c6FPB) | 2:04 |
-| 21 | [ความรัก ความปลอดภัย](https://open.spotify.com/track/03eUw7cpqBoAPLhpdn1RWa) | [Yellow Butter Cult](https://open.spotify.com/artist/2kRRO1bskAHboNesK6Yv1F) | [ความรัก ความปลอดภัย](https://open.spotify.com/album/72ld6NDW02YJyrM7Zd5wum) | 4:58 |
-| 22 | [driving home to you](https://open.spotify.com/track/3WxK7bhOxu6hjOjg8mB4Nc) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [driving home to you](https://open.spotify.com/album/3W7mFoOV4E8LxjipCAkYCR) | 3:19 |
-| 23 | [ลบเลือนและจากลา](https://open.spotify.com/track/4mS8QF1wGqZDwBA5d4mAh1) | [23'O](https://open.spotify.com/artist/6EhSBsNJfsZiWYQUdjBkqB) | [ลบเลือนและจากลา](https://open.spotify.com/album/1sN7c3pcuYwWeNzAMtdI3j) | 4:34 |
-| 24 | [ใจกว้างไม่พอ](https://open.spotify.com/track/27KHfqv36rtM6sp0LyVkFM) | [WHITE LIE](https://open.spotify.com/artist/0L3cIKJy9HhPjvCq08U7JY) | [ใจกว้างไม่พอ](https://open.spotify.com/album/0I0MAOTAvacBedEKnzHmBb) | 4:28 |
-| 25 | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 |
-| 26 | [ถ้าเธอรักเขา \- Not Mine](https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl) | [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ถ้าเธอรักเขา \(Not Mine\)](https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye) | 3:34 |
+| 1 | [อิจฉาแฟนเธอ](https://open.spotify.com/track/5R8Cn19nEslQFyWdlM4LH3) | [ezioez](https://open.spotify.com/artist/3hDAZvufO2OAGWnnPxeCkx) | [อิจฉาแฟนเธอ](https://open.spotify.com/album/4oWJREu34FwNaJdxzOXH15) | 3:34 |
+| 2 | [ถ้าเธอรักเขา \- Not Mine](https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl) | [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ถ้าเธอรักเขา \(Not Mine\)](https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye) | 3:34 |
+| 3 | [Love Song \(Dante\)](https://open.spotify.com/track/0KgJNOZawBKt5WKBl3Jzci) | [PENPRAPA](https://open.spotify.com/artist/4ZF777onMoSRG9Sf2tQDuU) | [Love Song \(Dante\)](https://open.spotify.com/album/4e0o0zfb1IDGs5my2kMKDW) | 3:45 |
+| 4 | [Million Years \- ล้านปี](https://open.spotify.com/track/0Snx5k5SHbTAS5Q2n3sGsQ) | [RyuzilL](https://open.spotify.com/artist/06yq9b41Zua4F3rzXTQG9y) | [Million Years \(ล้านปี\)](https://open.spotify.com/album/1OU1gC0i5beOYQ2Mc3zIZO) | 4:42 |
+| 5 | [Goodguy](https://open.spotify.com/track/3Eml3iMmwTWQcSrHRAOtui) | [Saturn's Light](https://open.spotify.com/artist/51o9Htq8zltnyHIK6cZ7Fe) | [Goodguy](https://open.spotify.com/album/5t9POAD3W9UglxX550zgsU) | 3:42 |
+| 6 | [แยกไม่ออก \(Twins\)](https://open.spotify.com/track/2eKDOFw2DquZEGAe4mZpuU) | [MicMac](https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li) | [แยกไม่ออก \(Twins\)](https://open.spotify.com/album/0YYIKdNpnr9tqBBIpbeXt7) | 3:53 |
+| 7 | [Everything](https://open.spotify.com/track/5bZKnOnbEvGowHt7JVpEDJ) | [TIMER](https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR) | [Everything](https://open.spotify.com/album/1MApKORs0FVvRdByK9FEzK) | 3:53 |
+| 8 | [Mask On](https://open.spotify.com/track/0OLhVkAwugUjODeQgdIiC8) | [TACE](https://open.spotify.com/artist/0WLaH3FRfeusfU2M7p95s5) | [Mask On](https://open.spotify.com/album/7oQaXMuUb5klXybeER7LKg) | 3:34 |
+| 9 | [ในสายตา](https://open.spotify.com/track/5ZZixufL5art9LKKLE66b1) | [TakRJ](https://open.spotify.com/artist/4mWYg0DKDc6wsl8VPAUew9) | [ในสายตา](https://open.spotify.com/album/21Ceeej7vJJsU0yYB2LtKu) | 3:14 |
+| 10 | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi) | [WINNING](https://open.spotify.com/artist/0O8xugIMlXx64eukbqYVgc) | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/album/2pi4uVwZB3FEgXuIfxLdKQ) | 3:03 |
+| 11 | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/track/0Y9SCr1oUEm7qfUQGh9zCs) | [redmango404](https://open.spotify.com/artist/4r25ksMDtsLaguQ2BAy1AK) | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/album/3KxVEL0AFcV7oNzFjrnMl3) | 4:46 |
+| 12 | [อย่าทำให้ฉันเดินจากไป](https://open.spotify.com/track/25yH3IVJopldWG2NBTOvHG) | [Lateyoung](https://open.spotify.com/artist/1lPSO6afhtsM1JRRyoQS06) | [อย่าทำให้ฉันเดินจากไป](https://open.spotify.com/album/5tWowD9xFOm41T1hcHCy7C) | 3:18 |
+| 13 | [Always with you](https://open.spotify.com/track/4otIAaR66vMvLq20wwMZqr) | [tutor](https://open.spotify.com/artist/2jsNgD2LSvMduphKbtURDY) | [Always with you](https://open.spotify.com/album/5wmVdT6QO5E4dciGQhXsuE) | 3:58 |
+| 14 | [ก่อนบอกไป](https://open.spotify.com/track/0dWdoq8lLCvVEgUetD9cn3) | [Cigarettes Summer George](https://open.spotify.com/artist/1GeJxu4mpC0stTPe2jv5NP) | [ก่อนบอกไป](https://open.spotify.com/album/5BI1o3aGsLGX1NUyMEAV3u) | 4:35 |
+| 15 | [Lost \(รั้ง\)](https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G) | [Basket Valley](https://open.spotify.com/artist/3fjn6M1i9hiYhdEPsmZ1f5) | [Lost \(รั้ง\)](https://open.spotify.com/album/6xpNUlnByQwgDyPuGRa8ni) | 4:17 |
+| 16 | [ยินดีเสมอถ้าต้องหายไป](https://open.spotify.com/track/6bI1BNFkars2piVP8n4rOj) | [STEAK N' CO](https://open.spotify.com/artist/3E5hKvxFmUMQkiHkq4lJon) | [ยินดีเสมอถ้าต้องหายไป](https://open.spotify.com/album/6pAZl7iwWIRv30Yjx9lYyE) | 4:32 |
+| 17 | [ย้าย่ายะ](https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy) | [อูโน่ หลาวทอง](https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8) | [ย้าย่ายะ](https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73) | 3:40 |
+| 18 | [GIVE ME MORE](https://open.spotify.com/track/4DlxcnXHwp426Y0vDs41GN) | [Kiismet](https://open.spotify.com/artist/0zYU84m99b6pD9mVN1BScQ) | [GIVE ME MORE](https://open.spotify.com/album/4kYHYWCJSsUfLAEr0jg6RB) | 3:17 |
+| 19 | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/track/2ed8adZVrtxPsZiXEnUV2K) | [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เมื่อวานฉันรักเธอน้อยกว่าวันนี้](https://open.spotify.com/album/6FmtNZfhY3qXIuGMp8h5wb) | 3:30 |
+| 20 | [Saw you on Tinder](https://open.spotify.com/track/4SmrLOYQ5ad3QcLGS9tpf9) | [Jduck](https://open.spotify.com/artist/7IwfHqIXDXJZXIG2VBrPE9) | [Saw you on Tinder](https://open.spotify.com/album/4W16e14ZACMcDEdohShUUG) | 2:19 |
+| 21 | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/track/1FnhxRLVOveQgtGbnjX9Ga) | [kevyn](https://open.spotify.com/artist/0BMpYlZbI8ir7DX1LukOpK) | [ถึงพรุ่งนี้ \(On Me\)](https://open.spotify.com/album/7H5RNtXvPSubC8Eo7c6FPB) | 2:04 |
+| 22 | [ความรัก ความปลอดภัย](https://open.spotify.com/track/03eUw7cpqBoAPLhpdn1RWa) | [Yellow Butter Cult](https://open.spotify.com/artist/2kRRO1bskAHboNesK6Yv1F) | [ความรัก ความปลอดภัย](https://open.spotify.com/album/72ld6NDW02YJyrM7Zd5wum) | 4:58 |
+| 23 | [driving home to you](https://open.spotify.com/track/3WxK7bhOxu6hjOjg8mB4Nc) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [driving home to you](https://open.spotify.com/album/3W7mFoOV4E8LxjipCAkYCR) | 3:19 |
+| 24 | [ลบเลือนและจากลา](https://open.spotify.com/track/4mS8QF1wGqZDwBA5d4mAh1) | [23'O](https://open.spotify.com/artist/6EhSBsNJfsZiWYQUdjBkqB) | [ลบเลือนและจากลา](https://open.spotify.com/album/1sN7c3pcuYwWeNzAMtdI3j) | 4:34 |
+| 25 | [ใจกว้างไม่พอ](https://open.spotify.com/track/27KHfqv36rtM6sp0LyVkFM) | [WHITE LIE](https://open.spotify.com/artist/0L3cIKJy9HhPjvCq08U7JY) | [ใจกว้างไม่พอ](https://open.spotify.com/album/0I0MAOTAvacBedEKnzHmBb) | 4:28 |
+| 26 | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/track/5SwpNT2w3PTZOchtl24KSY) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ทิ้งกันไว้ที่ทางตัน \(Dream End\)](https://open.spotify.com/album/6pmGrIro8rfDeTm5GlkMkp) | 4:10 |
 | 27 | [Gimme A Rest](https://open.spotify.com/track/2jiPL8Mw9m3n3jAdkCB00Q) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Gimme A Rest](https://open.spotify.com/album/26WoCHgsfmOvIYKbUqJkGm) | 3:18 |
 | 28 | [ยาดี \(My Pills\)](https://open.spotify.com/track/3UgRR2cYc7pQRGh6GVqwSP) | [Afterwork](https://open.spotify.com/artist/1YmLUN8Hl16Sblar6cnNE5) | [ยาดี \(My Pills\)](https://open.spotify.com/album/39LrxUuBRj9SIU5pzP9uJu) | 4:26 |
 | 29 | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/track/3foSLRZfeWObI1yiH6fb9x) | [MOFO](https://open.spotify.com/artist/62bRgpDlI2vIiK5AUh6RKP) | [ตัวเลือก=ฉัน \(option\)](https://open.spotify.com/album/6fh9X8CF25ja1PS6Zhvt3Q) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 59 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 60 | [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 |
 
-Snapshot ID: `AAAAAE5xhurSthl/CpwyMO+LfiZczf6J`
+Snapshot ID: `AAAAAK/yFfax2KlJTqY3dhF0bTAekWSj`

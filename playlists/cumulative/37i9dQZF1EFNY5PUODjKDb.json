@@ -14779,6 +14779,28 @@
     },
     {
       "album": {
+        "name": "Cats (Version Fran\u00e7aise Int\u00e9grale)",
+        "url": "https://open.spotify.com/album/7t2jmmjpLP8D5iTr8za9am"
+      },
+      "artists": [
+        {
+          "name": "La Compagnie Cats",
+          "url": "https://open.spotify.com/artist/4nDAv46U1apCYtJL0ydxXi"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Monsieur Bustopher Jones",
+      "url": "https://open.spotify.com/track/46kDIjwS1bi7af9R7G0L2z"
+    },
+    {
+      "album": {
         "name": "Evita",
         "url": "https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj"
       },
@@ -19836,7 +19858,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 235200,
       "name": "Requiem: VII. Pie Jesu",
       "url": "https://open.spotify.com/track/0Xm46GVlQM2SMK4hsZYk04"
@@ -20054,6 +20076,28 @@
       "duration_ms": 249866,
       "name": "Right Place, Right Time",
       "url": "https://open.spotify.com/track/4DR9vZ4EZ4H62bVwFKOZNH"
+    },
+    {
+      "album": {
+        "name": "Cats (Version Fran\u00e7aise Int\u00e9grale)",
+        "url": "https://open.spotify.com/album/7t2jmmjpLP8D5iTr8za9am"
+      },
+      "artists": [
+        {
+          "name": "La Compagnie Cats",
+          "url": "https://open.spotify.com/artist/4nDAv46U1apCYtJL0ydxXi"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Rocky Tam Tam",
+      "url": "https://open.spotify.com/track/1nTx2NdX6FlyJpErMyBAxM"
     },
     {
       "album": {

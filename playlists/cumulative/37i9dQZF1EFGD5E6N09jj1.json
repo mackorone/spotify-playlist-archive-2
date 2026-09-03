@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210498,
+      "name": "Bel Air",
+      "url": "https://open.spotify.com/track/6G38IZWN4qvVqxavzepr0I"
+    },
+    {
+      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue"
       },

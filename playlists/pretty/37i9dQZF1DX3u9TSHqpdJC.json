@@ -1,29 +1,13 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lauren Juzang Artwork by Paola Saliby",
-  "num_followers": 242352,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: SEREN Artwork by Paola Saliby",
+  "num_followers": 242425,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0LM6kq1fNCDj1boGppnrDwEwDM",
+  "snapshot_id": "AAAAAIVe0faOcKGqd34Bl+MYWpgurHfc",
   "tracks": [
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
-        "name": "Smooth talker",
-        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
-      },
-      "artists": [
-        {
-          "name": "Lauren Juzang",
-          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Smooth talker",
-      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
-    },
     {
       "added_at": "2026-08-26 04:00:39",
       "album": {
@@ -39,6 +23,118 @@
       "duration_ms": 180768,
       "name": "Love, At The End Of The World",
       "url": "https://open.spotify.com/track/5TDzozeZNIzs6oSTDngBbd"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "Confessions Of A People Pleaser",
+        "url": "https://open.spotify.com/album/31pRdcwhgldaFjuTmaAqtS"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/4l2yt3rEAQ6K61UjL0EwLP"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "Myriad Reflector",
+        "url": "https://open.spotify.com/album/7JEEAscH1dvsz0dr6lCEXV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Bomb",
+          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
+        }
+      ],
+      "duration_ms": 198509,
+      "name": "Myriad Reflector",
+      "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "it's not so much what you say",
+        "url": "https://open.spotify.com/album/0qr2AZLY268WNTgGWl8lW9"
+      },
+      "artists": [
+        {
+          "name": "Louella",
+          "url": "https://open.spotify.com/artist/7ssfxtXuXQOsRmfjQIp6R1"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "it's not so much what you say",
+      "url": "https://open.spotify.com/track/49WUuKWnuapWT4jgxDsMFv"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1j4woMGd04ZJv3tzhoNe3W"
+      },
+      "artists": [
+        {
+          "name": "Conor Burns",
+          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
+        }
+      ],
+      "duration_ms": 240476,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0oiGdy7Zp6ZTbm2cdFnvRO"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "Course It Matters",
+        "url": "https://open.spotify.com/album/3Lb3HkMdD9cW9ehfHgad7K"
+      },
+      "artists": [
+        {
+          "name": "Leona Rue",
+          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
+        }
+      ],
+      "duration_ms": 161197,
+      "name": "Course It Matters",
+      "url": "https://open.spotify.com/track/7sRTG3ShIvak9i5d8b6e7G"
+    },
+    {
+      "added_at": "2026-09-02 04:00:29",
+      "album": {
+        "name": "CHOOSY",
+        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 138433,
+      "name": "CHOOSY",
+      "url": "https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu"
+    },
+    {
+      "added_at": "2026-08-26 04:00:39",
+      "album": {
+        "name": "Smooth talker",
+        "url": "https://open.spotify.com/album/7gjVEpS02LAsFP8qczi4jg"
+      },
+      "artists": [
+        {
+          "name": "Lauren Juzang",
+          "url": "https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Smooth talker",
+      "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
     },
     {
       "added_at": "2026-08-26 04:00:39",
@@ -993,38 +1089,6 @@
       "url": "https://open.spotify.com/track/3I6n7OQMpaaBfRFKpxl5U0"
     },
     {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/3jzIBdrWSFX8zcn6LyWGAA"
-      },
-      "artists": [
-        {
-          "name": "Chiara Savasta",
-          "url": "https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/7EwUOa9eqaDRiEkPgOh6bf"
-    },
-    {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "Sorry Mister",
-        "url": "https://open.spotify.com/album/5Bn5uZmBgIgIfDEiaiThOH"
-      },
-      "artists": [
-        {
-          "name": "Disgusting Sisters",
-          "url": "https://open.spotify.com/artist/5Lh2DW6C4L5p23wvyAheDe"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Sorry Mister",
-      "url": "https://open.spotify.com/track/4a2myfnWpnQ8ZkeB7pj7cw"
-    },
-    {
       "added_at": "2026-07-08 04:00:12",
       "album": {
         "name": "Endless Sundays",
@@ -1089,54 +1153,6 @@
       "url": "https://open.spotify.com/track/49Ct1mPN4evMO3bjmOfv61"
     },
     {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "To Feel Is To Be",
-        "url": "https://open.spotify.com/album/7IY7etBVPeZ59kzGJZszWX"
-      },
-      "artists": [
-        {
-          "name": "Bee Bran",
-          "url": "https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Newborn",
-      "url": "https://open.spotify.com/track/3th0jbVno6NuaUCIvKMzQu"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
-        "name": "Samaerica (Deluxe)",
-        "url": "https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j"
-      },
-      "artists": [
-        {
-          "name": "Samaera",
-          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
-        }
-      ],
-      "duration_ms": 136193,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
-    },
-    {
-      "added_at": "2026-07-01 15:26:55",
-      "album": {
-        "name": "Betting Woman",
-        "url": "https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK"
-      },
-      "artists": [
-        {
-          "name": "Ella Maddux",
-          "url": "https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf"
-        }
-      ],
-      "duration_ms": 185148,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"
-    },
-    {
       "added_at": "2026-07-01 15:26:55",
       "album": {
         "name": "CR33PS",
@@ -1199,22 +1215,6 @@
       "duration_ms": 168888,
       "name": "ENERGIZE",
       "url": "https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN"
-    },
-    {
-      "added_at": "2026-06-24 06:43:25",
-      "album": {
-        "name": "N\u00c9GATIF",
-        "url": "https://open.spotify.com/album/2pQJ2UhdgpAWjOytKXNkQi"
-      },
-      "artists": [
-        {
-          "name": "Teyma",
-          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "N\u00c9GATIF",
-      "url": "https://open.spotify.com/track/0w6Vy1gKQEAEnRYuEngGmM"
     }
   ],
   "unique_name": "Fresh Finds Pop",

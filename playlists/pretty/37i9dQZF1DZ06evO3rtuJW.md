@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,210 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,214 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 38 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
 | 39 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
 | 40 | [Cry No More](https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 3:41 |
-| 41 | [Mad People](https://open.spotify.com/track/6fKbp9R2cVXuaFAyWjrOIL) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb: Lil Heroin Edition](https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW) | 2:23 |
+| 41 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 |
 | 42 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
 | 43 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
-| 44 | [GooD KarMa \(feat\. G Herbo\) \(Remix\)](https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Childhood Trauma](https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH) | 2:30 |
+| 44 | [Mad People](https://open.spotify.com/track/6fKbp9R2cVXuaFAyWjrOIL) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb: Lil Heroin Edition](https://open.spotify.com/album/5Twc3EUBe2WocJkTLjszCW) | 2:23 |
 | 45 | [Coming Home \(with G Herbo\)](https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Coming Home \(with G Herbo\)](https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j) | 3:32 |
 | 46 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 |
 | 47 | [Ridin Wit It](https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:18 |
 | 48 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 |
-| 49 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
-| 50 | [Intuition](https://open.spotify.com/track/0icI5GfDfSYel9RQAnIykR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sonta](https://open.spotify.com/artist/030FjQpP38xhjIPyWgjmiv), [2PRETTY](https://open.spotify.com/artist/2gDCTIYwHifJciv9xhmlW7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 4:06 |
+| 49 | [Intuition](https://open.spotify.com/track/0icI5GfDfSYel9RQAnIykR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sonta](https://open.spotify.com/artist/030FjQpP38xhjIPyWgjmiv), [2PRETTY](https://open.spotify.com/artist/2gDCTIYwHifJciv9xhmlW7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 4:06 |
+| 50 | [Being Honest \(Remix\) \[feat\. G Herbo\]](https://open.spotify.com/track/2344qwORd0Q3bZhwssd2mw) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 2:33 |
 
-Snapshot ID: `apTEAAAAAACCbrbMNFoFMy5tNIc2WqDU`
+Snapshot ID: `apYVgAAAAAAUOAnIuMNArznL44DtWWRx`

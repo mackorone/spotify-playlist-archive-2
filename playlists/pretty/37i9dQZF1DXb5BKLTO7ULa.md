@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Alex Warren, Samuel Welten & Russo, Olivia Rodrigo, Sarah Julia, DI\-RECT, Bokoesam en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,100 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,080 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

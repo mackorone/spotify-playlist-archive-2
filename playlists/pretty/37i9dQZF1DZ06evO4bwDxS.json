@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 9417,
+  "num_followers": 9435,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAASGjlhvX4kzTnDbioVI4Uz",
+  "snapshot_id": "apYVgAAAAAA0PU+EAUja9uVklR74JAmg",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLution",
-        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 216466,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 179857,
       "name": "Couldn\u2019t Make It Any Harder",
       "url": "https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/6WC5fhc9XMaCrUNKNjm9xE"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 141393,
+      "name": "Bad Reviews",
+      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 173801,
       "name": "Cupid \u2013 Twin Ver. (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 141393,
-      "name": "Bad Reviews",
-      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
+        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 179652,
+      "name": "WOW (feat. Sabrina Carpenter) - Remix",
+      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 184156,
       "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOW (feat. Sabrina Carpenter) [Remix]",
-        "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 179652,
-      "name": "WOW (feat. Sabrina Carpenter) - Remix",
-      "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
     },
     {
       "added_at": null,

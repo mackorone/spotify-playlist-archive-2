@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-544 songs - 1 day 9 hr 26 min
+545 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Krishna Krishna \- House of Saraswati](https://open.spotify.com/track/2mgfZWIJKV4s6rCAAQVNma) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Krishna Krishna \(House of Saraswati\)](https://open.spotify.com/album/7nw7toDdqStNzJ2jBVrWMI) | 3:41 | 2025-04-21 | 2025-07-11 |
 | [KUMMBA](https://open.spotify.com/track/1Xyl21ZvU2lIz15UxvQzOT) | [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot) | [KUMMBA](https://open.spotify.com/album/4YQlEmpiyRykq6R6DuZtiK) | 3:46 | 2024-11-27 |  |
 | [Kunji Penne](https://open.spotify.com/track/1hA3nNa0T0J49ZE4vYgLKV) | [E3Y](https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL) | [Kunji Penne](https://open.spotify.com/album/2iN9DI5qa6cylJKIUmDhAy) | 1:54 | 2024-07-04 | 2025-02-19 |
-| [Kunnikkuru](https://open.spotify.com/track/2kJ5S7VLdpwC4PblqJdZ5R) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Kunnikkuru](https://open.spotify.com/album/7L29FFnRLDxCC91dLD1eJt) | 4:08 | 2025-12-13 |  |
+| [Kunnikkuru](https://open.spotify.com/track/2kJ5S7VLdpwC4PblqJdZ5R) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Kunnikkuru](https://open.spotify.com/album/7L29FFnRLDxCC91dLD1eJt) | 4:08 | 2025-12-13 | 2026-09-03 |
 | [Kunnolam anenikishtam](https://open.spotify.com/track/3Q41RloLb0lCjh52gLIKeZ) | [Prem Krishnan](https://open.spotify.com/artist/6iFo1ZetMJsCWzE25uoEOJ) | [Kunnolam anenikishtam](https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC) | 3:45 | 2023-07-18 | 2023-07-28 |
 | [Kurumulaku](https://open.spotify.com/track/5NQeWPrbqmZT63u0Zx0tyU) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Kurumulaku](https://open.spotify.com/album/5xKzpwO123l51uDepXDX7m) | 4:20 | 2025-04-25 | 2025-09-06 |
 | [Kuzhiyaana](https://open.spotify.com/track/2wRdUfBdx5LiDs09h4YsaL) | [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Sanoop.S](https://open.spotify.com/artist/1ta9W23chi8q5VHMLLkEH1), [Jinusha Mahesh](https://open.spotify.com/artist/3hcydeAnkec05nhIsrMJle) | [Kuzhiyaana](https://open.spotify.com/album/6nBOsy1LWl0ddZzwHDVOba) | 3:49 | 2025-02-19 | 2025-06-27 |
@@ -544,8 +544,9 @@
 | [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 | 2025-06-26 | 2025-10-01 |
 | [Vidha \- From Saina Indie Radar](https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7) | [Ali Najih](https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo), [Dhaliya navas](https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw), [Leno Martin](https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K) | [Vidha \(From Saina Indie Radar\)](https://open.spotify.com/album/7ys7bCJKziDqLkNRFoS8yK) | 4:16 | 2026-03-10 | 2026-08-20 |
 | [Viraha Vimanam](https://open.spotify.com/track/2WJZ2DEKs3cQDCKsbBNzNs) | [Radio Legs](https://open.spotify.com/artist/7biyxbWnxnAq0LbNvaCdiV) | [Viraha Vimanam](https://open.spotify.com/album/1KEz0ON03B5xKJkPjniE0F) | 3:25 | 2026-06-30 |  |
+| [Vrenithahridayam](https://open.spotify.com/track/2rp2IPQ2lzV3qZ80RJyD7A) | [Muhsin Ziyan](https://open.spotify.com/artist/5ZEDug9ucneHq1ocqQKRZz), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Shaheera Nazeer](https://open.spotify.com/artist/5EbsGvc4pGnqVsbPnR49nm) | [Vrenithahridayam](https://open.spotify.com/album/4nWU6axLjqsgZUEum24A2n) | 4:41 | 2026-09-02 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |
-| [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 | 2025-12-12 |  |
+| [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 | 2025-12-12 | 2026-09-03 |
 | [Wrath](https://open.spotify.com/track/4aO8R0YzvBJIi0Z2GRzXC0) | [DREAMCODE](https://open.spotify.com/artist/7mnOxPNja4UnbCqdnyQBKB), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [Wrath](https://open.spotify.com/album/6s1pHJtpNLnFrsv7VMl1Ha) | 4:03 | 2025-04-21 | 2025-07-19 |
 | [Yaanam](https://open.spotify.com/track/2k0m3S5y6J3RPBEwrYAHrU) | [Sangeeth Vijayan](https://open.spotify.com/artist/2TPRb7Pr2jsn9U2QL9RQut) | [Yaanam](https://open.spotify.com/album/2MN3tPfDAg2PsBBb78uLCs) | 3:20 | 2023-11-06 | 2024-01-04 |
 | [Yathra](https://open.spotify.com/track/7nZxElNcOuVrsAjw7Um0IE) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:05 | 2023-10-10 | 2024-02-19 |

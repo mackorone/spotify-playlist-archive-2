@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Kristina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,362 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,363 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gorrita New Era](https://open.spotify.com/track/5k6VNVFfBceQnMTZL3Zth1) | [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Gorrita New Era](https://open.spotify.com/album/3yAnMr1rIFMFvZfiNbYOCK) | 2:09 |
+| 1 | [SOY MEJOR](https://open.spotify.com/track/6AtIcWup2JBKGj6Y2NehYx) | [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [SOY MEJOR](https://open.spotify.com/album/0j7JeBSJpmiMsCruSsD5ap) | 2:35 |
 | 2 | [desde que no estas](https://open.spotify.com/track/7Kz8y4zDSqRKq5WMnxsgbJ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [desde que no estas](https://open.spotify.com/album/3qXiPBjdUCi9oLYQSPkZyn) | 3:04 |
 | 3 | [Rueda eterna](https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda eterna](https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y) | 2:59 |
 | 4 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [THOR](https://open.spotify.com/track/6scjkFt5lWcqrDBEaKfiYX) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [THOR](https://open.spotify.com/album/5gYJw8K7Jir93oXzDycePX) | 2:18 |
 | 50 | [desayunarte](https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pop blandito](https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi) | 3:08 |
 
-Snapshot ID: `AAAAAEvF/gK2+ckMbJicJ4Foc9HuzSnx`
+Snapshot ID: `AAAAAEv3P4ATlFCUXO2FtkyudRK5IdRJ`

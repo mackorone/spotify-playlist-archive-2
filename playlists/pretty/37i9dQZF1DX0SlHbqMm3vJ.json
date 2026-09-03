@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Seyi Vibez",
-  "num_followers": 266502,
+  "num_followers": 266529,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 162587,
       "name": "golibe",
       "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "22",
-      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
         "name": "Come Kulosa",
         "url": "https://open.spotify.com/album/6rlEzxImXioBflFuoAsLBV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 144444,
       "name": "Come Kulosa",
       "url": "https://open.spotify.com/track/2OJtdCzSnQ1G9rMJ6eD1Wt"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "22",
+      "url": "https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1047,26 +1047,18 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Arike (Remix)",
-        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
       },
       "artists": [
         {
           "name": "Kunmie",
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Arike - Remix",
-      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1103,22 +1095,6 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "YBTM",
-        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "YBTM",
-      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
@@ -1139,18 +1115,42 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+        "name": "YBTM",
+        "url": "https://open.spotify.com/album/75ek7OW0Sa9wa7Mj4LTPPv"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "YBTM",
+      "url": "https://open.spotify.com/track/3PfBH3KIRTmiMfKq2p4dXc"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
+        "name": "Arike (Remix)",
+        "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
       "artists": [
         {
           "name": "Kunmie",
           "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+      "duration_ms": 146823,
+      "name": "Arike - Remix",
+      "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
-        "name": "Get 2 Know",
-        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "K\u00fanl\u00e9",
-          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
-        }
-      ],
-      "duration_ms": 178488,
-      "name": "Get 2 Know",
-      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
         "name": "Stay a Little Longer",
         "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 174915,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
+        "name": "Get 2 Know",
+        "url": "https://open.spotify.com/album/58TRP9FT5giNPM2L9RVWAF"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "K\u00fanl\u00e9",
+          "url": "https://open.spotify.com/artist/1VGaz9pzUD67pQIkunTMiI"
+        }
+      ],
+      "duration_ms": 178488,
+      "name": "Get 2 Know",
+      "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
     },
     {
       "added_at": "2026-08-28 00:01:58",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-08-28 00:01:58",
       "album": {
+        "name": "WILL I EVER",
+        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 174050,
+      "name": "WILL I EVER",
+      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
+    },
+    {
+      "added_at": "2026-08-28 00:01:58",
+      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
-    },
-    {
-      "added_at": "2026-08-28 00:01:58",
-      "album": {
-        "name": "WILL I EVER",
-        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 174050,
-      "name": "WILL I EVER",
-      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
     },
     {
       "added_at": "2026-08-28 00:01:58",

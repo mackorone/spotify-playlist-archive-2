@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kaneee \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,549 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,561 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 50 | [2024 flow](https://open.spotify.com/track/5xfTpyxq82xHnfJm56SoV1) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5) | [2024 flow](https://open.spotify.com/album/4EL4KpJEDt2vHUEc7RWmf1) | 3:40 |
 | 51 | [Red Cup feat\. ¥uK\-B](https://open.spotify.com/track/2XgMSPWj6Fvv84TfnFLoIp) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO), [¥uK\-B](https://open.spotify.com/artist/0HXw2MAh588Kd52EbuTwF0) | [KOZA CITY](https://open.spotify.com/album/7pPbn1fu7FdJphgyQZNs3S) | 2:46 |
 | 52 | [賽子](https://open.spotify.com/track/42GC9FnjuXbxTngh8GDdTh) | [VCE NAVA](https://open.spotify.com/artist/4oG9mZoApHLm4xxMgl4giO) | [Aura](https://open.spotify.com/album/4BPQ6ylpb7Zpda2hkdeHEq) | 1:33 |
-| 53 | [HANDLE IT](https://open.spotify.com/track/2NJUCmjtKbCODo2mXk5ecm) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [DORUNEKO MANSION](https://open.spotify.com/artist/1CFoe1OeDrXtyQoT6egQwP), [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [HANDLE IT](https://open.spotify.com/album/77elvOcofr4zWFTfV9L8bI) | 4:47 |
+| 53 | [HANDLE IT \(feat\. Eujin, Senninsho, Loota & VANY\)](https://open.spotify.com/track/2NJUCmjtKbCODo2mXk5ecm) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [Eujin](https://open.spotify.com/artist/4N3mMp4LJVHkqU6HPLagA7), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD), [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [VANY](https://open.spotify.com/artist/6QcVj1uV9WexEV5uQRa7oa) | [HANDLE IT \(feat\. Eujin, Senninsho, Loota & VANY\)](https://open.spotify.com/album/77elvOcofr4zWFTfV9L8bI) | 4:47 |
 | 54 | [底無し沼に華 \(feat\. Masato Hayashi\)](https://open.spotify.com/track/3sGxwE8l2fzG80Vrz6UKlr) | [孫GONG](https://open.spotify.com/artist/0NoRi1aqTuue8x7qLCJKLh), [RYKEY](https://open.spotify.com/artist/6d2T4QkWncIptuOC717A7z), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [底無し沼に華 \(feat\. Masato Hayashi\)](https://open.spotify.com/album/6jlBSdUIIkLYXKS7eAbUm6) | 4:28 |
 | 55 | [Summer Time Tokyo](https://open.spotify.com/track/6Din3XuhGE4boUKnQOizyw) | [MABU](https://open.spotify.com/artist/1DebppLKfcMcFh8abYI24e), [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [Summer Time Tokyo](https://open.spotify.com/album/1BB4tNrLFCxPZaDx1oFJHp) | 2:59 |
 | 56 | [New Journey](https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [Beyond the Sea](https://open.spotify.com/album/7BAvGRf8ZBAtYmieJKCnO5) | 3:48 |

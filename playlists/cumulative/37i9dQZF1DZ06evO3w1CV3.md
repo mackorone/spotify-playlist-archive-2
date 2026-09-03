@@ -4,7 +4,7 @@
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 3 min
+55 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 | 2023-05-02 |  |
 | [Feet Don't Fail Me Now \(Joy Crookes\) \- slowed down](https://open.spotify.com/track/1U8rk8ToClBxfEpplurUf0) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/1vdboilGvupoL2cHxQAHUp) | 3:44 | 2026-08-21 |  |
 | [Feet Don't Fail Me Now \(Joy Crookes\) \- sped up](https://open.spotify.com/track/0Pf8VTzNmTYnBz1pdVDxWn) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/56evPTmSOUt4bS3nmn9VNZ) | 2:48 | 2026-08-14 | 2026-08-20 |
+| [Feet Don't Fail Me Now \- Part 2](https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Feet Don't Fail Me Now \(Part 2\)](https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS) | 3:19 | 2026-09-03 |  |
 | [First Last Dance](https://open.spotify.com/track/2tE28bQYBZFOspAgqPGsJq) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:20 | 2025-09-21 |  |
 | [For a Minute \(feat\. KarimThaPeasant\)](https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:12 | 2023-05-02 |  |
 | [Forever](https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:17 | 2025-09-21 | 2025-12-18 |

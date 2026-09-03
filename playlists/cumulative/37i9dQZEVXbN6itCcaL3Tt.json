@@ -7007,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Lepszego \u017bycia Diler",
+        "url": "https://open.spotify.com/album/01M8cfuXrIEdvZwRK3jvCq"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270459,
+      "name": "Bez Strachu",
+      "url": "https://open.spotify.com/track/3z7q0YqcLNPFfjDP5gICfl"
+    },
+    {
+      "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
       },
@@ -16498,7 +16516,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 147428,
       "name": "ECHO",
       "url": "https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x"
@@ -16652,7 +16670,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 246646,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/4NDdPNqCzNjN9sFzk7NU6W"
@@ -20676,7 +20694,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "GORSET",
       "url": "https://open.spotify.com/track/228k1h2pPFmcnmI8hWSpYc"
@@ -20990,7 +21008,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
@@ -22436,7 +22454,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 135383,
       "name": "HOLY GHOST",
       "url": "https://open.spotify.com/track/3gc95SFGesTWmQKGXnn7LF"
@@ -29024,7 +29042,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 127870,
       "name": "KO\u0143CZY SI\u0118 LATO",
       "url": "https://open.spotify.com/track/40YnEnDH0d68xaQHH9unb3"
@@ -32100,7 +32118,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -39468,7 +39486,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 129632,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
@@ -53646,7 +53664,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 137142,
       "name": "stoj\u0119 z gitar\u0105 pod twoim balkonem",
       "url": "https://open.spotify.com/track/6fF2R1Glz8wJKyOBdwyUXh"
@@ -59494,7 +59512,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 136562,
       "name": "umieram",
       "url": "https://open.spotify.com/track/0lP7NzeSflnwEvfdbL78UD"
@@ -63404,7 +63422,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 145602,
       "name": "wszystko jedno?",
       "url": "https://open.spotify.com/track/1GlmlTQRbwKGyLYc94a9zH"

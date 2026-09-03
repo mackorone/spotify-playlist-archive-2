@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,615 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,651 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 34 | [Allah Toh Mangda](https://open.spotify.com/track/4S1GXp6bFvymtQc2f9Sgxg) | [Rahul Rana](https://open.spotify.com/artist/3gvnLVc6Wsn13fC9lLS4JC), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/2Vb02uLgydFy8Gn2gwPR5s) | [Allah Toh Mangda](https://open.spotify.com/album/5rrLavvhnCmWTczcelNJra) | 3:34 |
 | 35 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
 | 36 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
-| 37 | [Bismillah](https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE) | [Rais Anis Sabri](https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD), [Jaspal Singh](https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM), [Ashok Sharma](https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5) | [Bismillah](https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F) | 5:58 |
-| 38 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
+| 37 | [Bawa](https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1) | [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Bemisaal Jagjit Singh](https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs) | 5:20 |
+| 38 | [Bismillah](https://open.spotify.com/track/2MzQaBSb9oj8q3AytmAkjE) | [Rais Anis Sabri](https://open.spotify.com/artist/5T5dXV0e8XnBMY5I3TBVoD), [Jaspal Singh](https://open.spotify.com/artist/0vOHNs0vuZmA3M0oui0wZM), [Ashok Sharma](https://open.spotify.com/artist/7MK1dDhPZ2IsthCeTX7qu5) | [Bismillah](https://open.spotify.com/album/7q7dXFQ8ygLIUC0yOdfy3F) | 5:58 |
 | 39 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
 | 40 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
 | 41 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 |

@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 23242,
+  "num_followers": 23249,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/2zqYXrJGUYjaB3RxkfFH4O"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Black Stars \u2013 Ghana\u2019s Hiplife Generation",
         "url": "https://open.spotify.com/album/6jdTD8R5rYp5Gs3WRuZyR9"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 211266,
       "name": "Kangaroo - feat. Batman",
       "url": "https://open.spotify.com/track/7CMHjhDTiJbvMkomXUodis"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/2zqYXrJGUYjaB3RxkfFH4O"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/4kbszKEvLCtJ020xd0OVDX"
     },
     {
       "added_at": "2026-03-16 11:45:06",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
-        "name": "Aben Wa Ha",
-        "url": "https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 312706,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
         "name": "Best of C. K. Mann",
         "url": "https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 527046,
       "name": "Adwoa Yankey, Pt. 1",
       "url": "https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
+        "name": "Aben Wa Ha",
+        "url": "https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 312706,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
     },
     {
       "added_at": "2026-03-16 11:45:06",

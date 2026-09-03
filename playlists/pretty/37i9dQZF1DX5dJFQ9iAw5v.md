@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,233 likes - 76 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,236 likes - 76 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 44 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
 | 45 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
 | 46 | [Blue in Green \(Sky and Sea\)](https://open.spotify.com/track/2qpOQEkbIqbgYeO8TqmQPf) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:49 |
-| 47 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
-| 48 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
+| 47 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 |
+| 48 | [Cero](https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ) | [Commodore](https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN) | [Enero](https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b) | 6:52 |
 | 49 | [Seúl](https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj) | [Tomás Fraga](https://open.spotify.com/artist/5ETZ8t75GZqfKBvuVFm4f4), [Alvaro Torres](https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE), [Andres Pellican](https://open.spotify.com/artist/65XpLqacJAIUQcbKgLVvHo), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Quintino Cinalli](https://open.spotify.com/artist/46VejkVhYPLpD9FIhfHt4O) | [Influencias](https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY) | 4:45 |
 | 50 | [La Novena](https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:45 |
-| 51 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
-| 52 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 51 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
+| 52 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
 | 53 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
 | 54 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |
 | 55 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |

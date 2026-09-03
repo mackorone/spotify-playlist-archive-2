@@ -6931,6 +6931,28 @@
     },
     {
       "album": {
+        "name": "Glowing",
+        "url": "https://open.spotify.com/album/7FfqnKdoOohpV3WyRDHUfd"
+      },
+      "artists": [
+        {
+          "name": "Netrum",
+          "url": "https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Glowing",
+      "url": "https://open.spotify.com/track/0QiGLkclHzoT8JigHj3GeZ"
+    },
+    {
+      "album": {
         "name": "Go Easy",
         "url": "https://open.spotify.com/album/3QfF9BOs6OFQ3ubGGQNI5X"
       },

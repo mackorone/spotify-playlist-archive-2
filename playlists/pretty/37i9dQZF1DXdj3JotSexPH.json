@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35943,
+  "num_followers": 35941,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "AVANGARD",
+        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        }
+      ],
+      "duration_ms": 156843,
+      "name": "AVANGARD",
+      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "AVANGARD",
-        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        }
-      ],
-      "duration_ms": 156843,
-      "name": "AVANGARD",
-      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SPOOKY",
-        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
-      },
-      "artists": [
-        {
-          "name": "fennecxx",
-          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
-        },
-        {
-          "name": "DJ ALEX",
-          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
-        }
-      ],
-      "duration_ms": 96923,
-      "name": "SPOOKY",
-      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "hold tight",
         "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
+      },
+      "artists": [
+        {
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
+        },
+        {
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
+        }
+      ],
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Echo Chamber",
-        "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Echo Chamber",
-      "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Fuck My Computer",
         "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 171066,
       "name": "don't need u (i do)",
       "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Echo Chamber",
+        "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Echo Chamber",
+      "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "G\u00cdRIA",
         "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",

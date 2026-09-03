@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Marvin Winans, Amber Bullock, Vickie Winans and more
+> With Amber Bullock, Mikael Karlsson, Vickie Winans and more
 
 2,026 songs - 6 day 12 hr 57 min
 

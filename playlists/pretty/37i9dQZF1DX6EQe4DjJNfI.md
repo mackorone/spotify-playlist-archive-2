@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,518 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,550 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 7 | [Corpo Suado](https://open.spotify.com/track/60HKq194AJUnsiyogk99uL) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5) | [Tons de Marrom](https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ) | 3:13 |
 | 8 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 9 | [alma livre](https://open.spotify.com/track/57IyyfdbhtTJRE8wIZpgxA) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [alma livre](https://open.spotify.com/album/75lEXNbasj7nzW5wKIQ98q) | 4:24 |
-| 10 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
-| 11 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 |
+| 10 | [Harém](https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:41 |
+| 11 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
 | 12 | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Melhor Amiga do Tempo \(com Maru2D\)](https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC) | 2:30 |
 | 13 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
 | 14 | [Erro Fatal](https://open.spotify.com/track/0nLgUFirsiwYuxdPBWpVt3) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Noir](https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE) | 2:51 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAC/ozoD5IZoZ2SlYOuhz8fU",
+  "snapshot_id": "apYVgAAAAADmzy5ye9D0x+WbZwZX80hV",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fury (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 225733,
-      "name": "I'm Scared Too",
-      "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 175880,
-      "name": "The Process of Extinctions",
-      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
+      "duration_ms": 225733,
+      "name": "I'm Scared Too",
+      "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "This Is My Witness Statement",
-      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolphin Reef (Original Soundtrack)",
         "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
@@ -495,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Eternal Sky",
-        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Our Eternal Sky",
-      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Our Eternal Sky",
+        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "Our Eternal Sky",
+      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Aeronauts (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 289320,
       "name": "We Took To The Skies",
       "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "A Different Set of Rules",
-      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 139893,
-      "name": "We Must Rewild The World",
-      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
+      "duration_ms": 155933,
+      "name": "You Wanted a Drumstick",
+      "url": "https://open.spotify.com/track/3M7sdV1gpPnProV5YYZGYD"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -648,9 +632,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 155933,
-      "name": "You Wanted a Drumstick",
-      "url": "https://open.spotify.com/track/3M7sdV1gpPnProV5YYZGYD"
+      "duration_ms": 141400,
+      "name": "A Different Set of Rules",
+      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 139893,
+      "name": "We Must Rewild The World",
+      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 154213,
+      "name": "Are You Coming Back",
+      "url": "https://open.spotify.com/track/047qlgP1wSz7AyvnrNNlwd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
@@ -744,15 +760,15 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 141386,
-      "name": "Dear Mr. Killian",
-      "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
+      "duration_ms": 103466,
+      "name": "Remember This Moment",
+      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 191480,
-      "name": "Fueled Up and Headed South",
-      "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
+      "duration_ms": 145546,
+      "name": "Like the Sea Is Breathing",
+      "url": "https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 170853,
       "name": "Beneath the Waves",
       "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 103466,
-      "name": "Remember This Moment",
-      "url": "https://open.spotify.com/track/5HAc4BOCh0qOMsKNUS017I"
     }
   ],
   "unique_name": "This Is Steven Price",

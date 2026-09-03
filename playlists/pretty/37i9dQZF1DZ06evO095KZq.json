@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 448996,
+  "num_followers": 449053,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACz9LjpdJaCqBUXAIoA8MPP",
+  "snapshot_id": "apYVgAAAAADPF31gEBmtzx+93IJw1NDO",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 153967,
       "name": "Soy Buen Amigo",
       "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vengo a Aclarar",
-        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 150944,
-      "name": "Vengo a Aclarar",
-      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 125818,
       "name": "El B\u00e9lico",
       "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Los Recuerdos, Vol. 8",
-        "url": "https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw"
+        "name": "El Gato",
+        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
       },
       "artists": [
         {
@@ -236,13 +236,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 218900,
-      "name": "El Pantro",
-      "url": "https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs"
+      "duration_ms": 199462,
+      "name": "El Gato",
+      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
     },
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gato",
-        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
+        "name": "Pa' Los Recuerdos, Vol. 8",
+        "url": "https://open.spotify.com/album/2CtM0Dc9UkDa3B8znLi8tw"
       },
       "artists": [
         {
@@ -272,13 +272,13 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
         }
       ],
-      "duration_ms": 199462,
-      "name": "El Gato",
-      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
+      "duration_ms": 218900,
+      "name": "El Pantro",
+      "url": "https://open.spotify.com/track/24cV01L64dQsqRP4PEANUs"
     },
     {
       "added_at": null,
@@ -611,58 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mera Verdura",
-        "url": "https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 140713,
-      "name": "La Mera Verdura",
-      "url": "https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 152762,
-      "name": "Catarino y los Rurales",
-      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173874,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -687,6 +635,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mera Verdura",
+        "url": "https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 140713,
+      "name": "La Mera Verdura",
+      "url": "https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 219453,
       "name": "El Zool\u00f3gico - En Vivo",
       "url": "https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheando en la Ciudad con El Fantasma y Los Huracanes del Norte",
-        "url": "https://open.spotify.com/album/1MeCLnpe9RWOz5KU4cgwkV"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/6rlEimbr93IVM54XKgCE4M"
     },
     {
       "added_at": null,
@@ -783,6 +763,26 @@
       "duration_ms": 189230,
       "name": "El Tatuado",
       "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheando en la Ciudad con El Fantasma y Los Huracanes del Norte",
+        "url": "https://open.spotify.com/album/1MeCLnpe9RWOz5KU4cgwkV"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/6rlEimbr93IVM54XKgCE4M"
     },
     {
       "added_at": null,

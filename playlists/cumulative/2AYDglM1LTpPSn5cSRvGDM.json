@@ -5229,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "Till The End / Those Who Danced",
+        "url": "https://open.spotify.com/album/3qLHvJsFtUwsDkzHNKTuP9"
+      },
+      "artists": [
+        {
+          "name": "Rose Ringed",
+          "url": "https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "Till The End",
+      "url": "https://open.spotify.com/track/2y8x5WfbM58yAyZlsH3j2s"
+    },
+    {
+      "album": {
         "name": "Till You Let Go",
         "url": "https://open.spotify.com/album/3xjVghJQD5XrjNByBiRoJv"
       },

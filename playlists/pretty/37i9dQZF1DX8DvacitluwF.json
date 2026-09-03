@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Taner\u00e9lle",
-  "num_followers": 32822,
+  "num_followers": 32829,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,22 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 198812,
-      "name": "FOOL ME ONCE (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "added_at": "2026-08-28 15:41:36",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 198812,
+      "name": "FOOL ME ONCE (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
+    },
+    {
+      "added_at": "2026-08-28 15:41:36",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 154705,
       "name": "2FRESH",
       "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
-    },
-    {
-      "added_at": "2026-08-28 15:41:36",
-      "album": {
-        "name": "Fly U Out",
-        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
     },
     {
       "added_at": "2026-08-28 15:41:36",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
-    },
-    {
-      "added_at": "2026-08-28 15:41:36",
-      "album": {
         "name": "Icon",
         "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 207023,
       "name": "have to.",
       "url": "https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz"
+    },
+    {
+      "added_at": "2026-08-28 15:41:36",
+      "album": {
+        "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": "2026-08-28 15:41:36",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
-        "name": "Heat The Streets",
-        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 201408,
-      "name": "Miss Hot July",
-      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
-    },
-    {
-      "added_at": "2026-08-28 15:41:36",
-      "album": {
         "name": "Have A Baby (With Me)",
         "url": "https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 225874,
       "name": "Have A Baby (With Me)",
       "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
+    },
+    {
+      "added_at": "2026-08-28 15:41:36",
+      "album": {
+        "name": "Heat The Streets",
+        "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 201408,
+      "name": "Miss Hot July",
+      "url": "https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD"
     },
     {
       "added_at": "2026-08-28 15:41:36",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
+        "name": "Eric Bellinger",
+        "url": "https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
+    },
+    {
+      "added_at": "2026-08-28 15:41:36",
+      "album": {
         "name": "wHIMSY!",
         "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 181706,
       "name": "heal something",
       "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
-    },
-    {
-      "added_at": "2026-08-28 15:41:36",
-      "album": {
-        "name": "Eric Bellinger",
-        "url": "https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT"
     },
     {
       "added_at": "2026-08-28 15:41:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-28 15:41:36",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
-    },
-    {
-      "added_at": "2026-08-28 15:41:36",
-      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 194000,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
+    },
+    {
+      "added_at": "2026-08-28 15:41:36",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-08-28 15:41:36",

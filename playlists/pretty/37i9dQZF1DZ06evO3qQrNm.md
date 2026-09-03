@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,083 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,351 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 | 9 | [Until the Sun Needs to Rise](https://open.spotify.com/track/1VJgMkxFY3JSgiUWZNeycd) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:52 |
 | 10 | [Alive \- Anyma Remix](https://open.spotify.com/track/51a3PbfoqGIQsqZXKd2YWf) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 5:11 |
 | 11 | [Lately](https://open.spotify.com/track/09eWLCCXXypdgrlfLAMy3n) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:09 |
-| 12 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 |
+| 12 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
 | 13 | [Like An Animal](https://open.spotify.com/track/6dw1sbdCwW5sbsbcpq6QED) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 4:01 |
 | 14 | [Rendezvous](https://open.spotify.com/track/5LT4Fu3zeihIMVxKbDCN8I) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 4:20 |
 | 15 | [Inhale](https://open.spotify.com/track/124hDFQWCBm3PI3RRXU2fH) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 1:48 |
-| 16 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
+| 16 | [Treat You Better](https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 4:33 |
 | 17 | [Surrender \(feat\. Curtis Harding\)](https://open.spotify.com/track/1qX3kSjUNJkUlVSPDXGGP1) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 5:36 |
 | 18 | [Tell Me](https://open.spotify.com/track/48ZVsNDCnSxbOTL4uz77qZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:49 |
 | 19 | [Break My Love](https://open.spotify.com/track/7kWLSsy2KfSFPhbbNysnns) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 | 39 | [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 |
 | 40 | [Standing at the Gates \- Weval Remix](https://open.spotify.com/track/1opUUDEWEvvYmNa3FzzlFA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 3:44 |
 
-Snapshot ID: `apTEAAAAAADc7nfoFj6Nc0W7oUv3Ot0F`
+Snapshot ID: `apYVgAAAAAC0UYvqtH/hQ8hDTSiP4AIg`

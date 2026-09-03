@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55800,
+  "num_followers": 55797,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAALi8SnAfZpK7kU4+5iw9ng",
+  "snapshot_id": "apYVgAAAAABWXGnUV52paKsGpIEySyeO",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 226578,
+      "name": "Flea",
+      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "empathogen",
         "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 226578,
-      "name": "Flea",
-      "url": "https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 197426,
-      "name": "Masseduction",
-      "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
+      "duration_ms": 168786,
+      "name": "Hang On Me",
+      "url": "https://open.spotify.com/track/54IL47Tmp2MAVABIdf6eMF"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Pay Your Way In Pain",
-      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Pay Your Way In Pain",
+      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASSEDUCTION",
         "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
       },
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 168786,
-      "name": "Hang On Me",
-      "url": "https://open.spotify.com/track/54IL47Tmp2MAVABIdf6eMF"
+      "duration_ms": 197426,
+      "name": "Masseduction",
+      "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 265053,
-      "name": "Surgeon",
-      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 237029,
       "name": "Violent Times",
       "url": "https://open.spotify.com/track/3v8tW1X1jnhV2NlqsCYMV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 265053,
+      "name": "Surgeon",
+      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always The Same (feat. St. Vincent)",
-        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Always The Same (feat. St. Vincent)",
-      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 208626,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+      },
+      "artists": [
+        {
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Saves, I Spend",
         "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 199320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Marrow",
-      "url": "https://open.spotify.com/track/4N0pXHQWDG2Q7SRqZb7ZVd"
+      "duration_ms": 227826,
+      "name": "All My Stars Aligned",
+      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
     }
   ],
   "unique_name": "This Is St. Vincent",

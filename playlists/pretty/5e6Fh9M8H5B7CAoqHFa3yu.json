@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALBrR4xjWERPewllS3JxFo0hfdqr+3",
+  "snapshot_id": "AAALDJPqyqXIeXLsGQEA0/AECepFOJyy",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -43799,6 +43799,90 @@
       "duration_ms": 258000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0"
+    },
+    {
+      "added_at": "2026-09-02 16:48:16",
+      "album": {
+        "name": "New York City - Deluxe",
+        "url": "https://open.spotify.com/album/3NttzlbI9zLLOtmkeHdzXX"
+      },
+      "artists": [
+        {
+          "name": "Peter Malick",
+          "url": "https://open.spotify.com/artist/6T38e05zaTbse5F2gOBcKj"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 307160,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/508BlNtpbo6KaJF0cTplwt"
+    },
+    {
+      "added_at": "2026-09-02 17:19:43",
+      "album": {
+        "name": "Chela",
+        "url": "https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F"
+      },
+      "artists": [
+        {
+          "name": "KraHbichT",
+          "url": "https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8"
+        }
+      ],
+      "duration_ms": 435721,
+      "name": "Mass Apotheosis",
+      "url": "https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH"
+    },
+    {
+      "added_at": "2026-09-02 21:14:09",
+      "album": {
+        "name": "Fresh Beats",
+        "url": "https://open.spotify.com/album/2AmVDeeaizA342YJPuq08F"
+      },
+      "artists": [
+        {
+          "name": "Brandon Wolf Hill Beats",
+          "url": "https://open.spotify.com/artist/5jmdyJX8m6wyUCs8e6wDaJ"
+        }
+      ],
+      "duration_ms": 173611,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/3XNqldYiG9yjybANACOLea"
+    },
+    {
+      "added_at": "2026-09-02 21:14:09",
+      "album": {
+        "name": "Spiralling",
+        "url": "https://open.spotify.com/album/2bAhCw8O8n33HUdmzWS9Te"
+      },
+      "artists": [
+        {
+          "name": "Woodshed Collective",
+          "url": "https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3"
+        }
+      ],
+      "duration_ms": 240873,
+      "name": "Spiralling",
+      "url": "https://open.spotify.com/track/3L7c36jPHgRGB3kzHyqwSz"
+    },
+    {
+      "added_at": "2026-09-02 21:14:11",
+      "album": {
+        "name": "My aloe",
+        "url": "https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57"
+      },
+      "artists": [
+        {
+          "name": "Mimi Moon",
+          "url": "https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "leaf",
+      "url": "https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

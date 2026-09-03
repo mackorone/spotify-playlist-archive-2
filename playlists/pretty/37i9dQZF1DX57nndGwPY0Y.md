@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57nndGwPY0Y.md) - [plain]
 
 > Today's R&B hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,950 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,991 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

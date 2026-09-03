@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-891 songs - 1 day 20 hr 15 min
+892 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Gimme](https://open.spotify.com/track/3tSDzr4I0uDaf8jHhq1mCN) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Gimme](https://open.spotify.com/album/2T4mX78WqynJQEvGq8SzrH) | 2:28 | 2025-01-03 |  |
 | [Give It To Me](https://open.spotify.com/track/5J5lXkB6oycwehvBJBmaUc) | [Cesqeaux](https://open.spotify.com/artist/1EAFXic0Cfiwpe7nSuTrGL), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Give It To Me](https://open.spotify.com/album/4ZF80hXHTGvFwFDa9wyOIL) | 2:46 | 2023-03-17 | 2023-08-10 |
 | [Give Up](https://open.spotify.com/track/3hqWkyqEVCo6oLqzmDCMS0) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Give Up](https://open.spotify.com/album/6SrrHULdewRSUZ5hvzevcw) | 2:49 | 2023-12-13 | 2024-07-19 |
+| [Glowing](https://open.spotify.com/track/0QiGLkclHzoT8JigHj3GeZ) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Glowing](https://open.spotify.com/album/7FfqnKdoOohpV3WyRDHUfd) | 3:03 | 2026-09-02 |  |
 | [Go Easy](https://open.spotify.com/track/7vHSOWBZUgZdkqX397Auyd) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Go Easy](https://open.spotify.com/album/3QfF9BOs6OFQ3ubGGQNI5X) | 2:38 | 2022-12-01 | 2023-04-28 |
 | [Go Off](https://open.spotify.com/track/7jw05QlMKjqOoEHLCeXUD7) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off](https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz) | 2:25 | 2022-11-02 | 2023-04-28 |
 | [GO ₊˚✩⋆｡°](https://open.spotify.com/track/0uCUNzlOduR947Nzr6KotY) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [BLINDSIDE](https://open.spotify.com/album/5kAH2guuQEtM5kb6lrrNXi) | 2:32 | 2023-12-26 | 2024-06-20 |

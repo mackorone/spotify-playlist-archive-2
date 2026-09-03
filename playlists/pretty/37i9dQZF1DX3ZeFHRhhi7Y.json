@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: BIGBANG) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1326923,
+  "num_followers": 1326868,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+      },
+      "artists": [
+        {
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+        }
+      ],
+      "duration_ms": 166612,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd"
+        "name": "I'll Be Back",
+        "url": "https://open.spotify.com/album/5euUeor0mgd0tS7WWfxjFj"
       },
       "artists": [
         {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
+          "name": "Vernon",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
         }
       ],
-      "duration_ms": 166612,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX"
+      "duration_ms": 196285,
+      "name": "I'll Be Back",
+      "url": "https://open.spotify.com/track/1hs4eGCcvX3wz5Z6nNqcxl"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -739,22 +755,6 @@
       "duration_ms": 193000,
       "name": "Atmos",
       "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
-        "name": "I'll Be Back",
-        "url": "https://open.spotify.com/album/5euUeor0mgd0tS7WWfxjFj"
-      },
-      "artists": [
-        {
-          "name": "Vernon",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "I'll Be Back",
-      "url": "https://open.spotify.com/track/1hs4eGCcvX3wz5Z6nNqcxl"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
+        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
+        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "BORN DIRE",
+      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
         "name": "EXTRA",
         "url": "https://open.spotify.com/album/1QMdzkRQl9XBsZtRQXcLL1"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 196135,
       "name": "DDI RO RI",
       "url": "https://open.spotify.com/track/5LnYgKfSy6iJZThkkAK86Q"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
-        "name": "UNBREAKABLE : \u5c11\u5e74BEAST",
-        "url": "https://open.spotify.com/album/0OSPd91szcWQ2FaQspx7T7"
-      },
-      "artists": [
-        {
-          "name": "ALPHA DRIVE ONE",
-          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "BORN DIRE",
-      "url": "https://open.spotify.com/track/4ArQoiE0uz58FkG9AtEzkv"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "Motto",
-        "url": "https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Motto",
-      "url": "https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/3jOqNyGf9Vq9VPOMPRVK1w"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "Motto",
+        "url": "https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM"
     },
     {
       "added_at": "2026-08-27 04:27:58",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-08-27 04:27:58",
       "album": {
-        "name": "Ice Cream",
-        "url": "https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd"
-      },
-      "artists": [
-        {
-          "name": "YUNA",
-          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL"
-    },
-    {
-      "added_at": "2026-08-27 04:27:58",
-      "album": {
         "name": "Too Much Part 1",
         "url": "https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 163000,
       "name": "\uac00\uc704\ubc14\uc704\ubcf4 Eeny meeny miny moe",
       "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
+    },
+    {
+      "added_at": "2026-08-27 04:27:58",
+      "album": {
+        "name": "Ice Cream",
+        "url": "https://open.spotify.com/album/18GSUtlVqx9QRVKBCXtSYd"
+      },
+      "artists": [
+        {
+          "name": "YUNA",
+          "url": "https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6aIHCKcJFU19cUc02RI7zL"
     },
     {
       "added_at": "2026-08-27 04:27:58",

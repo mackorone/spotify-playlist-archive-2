@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264680,
+  "num_followers": 264672,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAASCw7A4Wg3j28HhsseQw/k",
+  "snapshot_id": "apYVgAAAAAD3+c0Fxtn6tyJLiu3f8LnE",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Vai Embora",
-        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
+        "name": "Bloody Paradise (English Ver.) (Feat. Lu\u00edsa Sonza)",
+        "url": "https://open.spotify.com/album/0pmGnlSL15kAFrftVmfPsx"
       },
       "artists": [
         {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 205785,
-      "name": "N\u00e3o Vai Embora",
-      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
+      "duration_ms": 131200,
+      "name": "Bloody Paradise - English Ver.",
+      "url": "https://open.spotify.com/track/51UYkvG8KWU4RkD9fFoyER"
     },
     {
       "added_at": null,
@@ -335,6 +331,46 @@
       "duration_ms": 184100,
       "name": "Sonhei Contigo",
       "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Vai Embora",
+        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 205785,
+      "name": "N\u00e3o Vai Embora",
+      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 124455,
+      "name": "A Dona Aranha",
+      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
     },
     {
       "added_at": null,
@@ -367,42 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 124455,
-      "name": "A Dona Aranha",
-      "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bloody Paradise (English Ver.) (Feat. Lu\u00edsa Sonza)",
-        "url": "https://open.spotify.com/album/0pmGnlSL15kAFrftVmfPsx"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Bloody Paradise - English Ver.",
-      "url": "https://open.spotify.com/track/51UYkvG8KWU4RkD9fFoyER"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUTAL PARA\u00cdSO",
         "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
       },
@@ -415,42 +415,6 @@
       "duration_ms": 215732,
       "name": "Sempre Voc\u00ea",
       "url": "https://open.spotify.com/track/6OLRROXI8aDgzNDK5oDTNr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virado No Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180755,
-      "name": "Mem\u00f3rias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": null,
@@ -471,6 +435,42 @@
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virado No Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180755,
+      "name": "Mem\u00f3rias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "FAMA",
-      "url": "https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sentaDONA (Remix) s2",
         "url": "https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 125245,
       "name": "sentaDONA (Remix) s2",
       "url": "https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "FAMA",
+      "url": "https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 130446,
-      "name": "INTERE$$EIRA",
-      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bossa Sempre Nova",
         "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 171490,
       "name": "Consola\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 130446,
+      "name": "INTERE$$EIRA",
+      "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
     },
     {
       "added_at": null,

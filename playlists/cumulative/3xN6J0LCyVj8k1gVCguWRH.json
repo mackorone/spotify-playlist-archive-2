@@ -7535,6 +7535,24 @@
     },
     {
       "album": {
+        "name": "Artificial Accent",
+        "url": "https://open.spotify.com/album/2yGEz0WLrJxUQbddNtJk0e"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165659,
+      "name": "Artificial Accent",
+      "url": "https://open.spotify.com/track/5ShRptd2eBkINWDp1vp0Ig"
+    },
+    {
+      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },

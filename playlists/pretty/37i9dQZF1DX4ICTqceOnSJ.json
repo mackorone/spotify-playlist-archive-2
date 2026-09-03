@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 388245,
+  "num_followers": 388138,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "A la Vez",
         "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 182876,
       "name": "A la Vez",
       "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Impronta",
-        "url": "https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "El Tiempo Pasar\u00e1",
-      "url": "https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Lucha De Gigantes",
         "url": "https://open.spotify.com/album/3qcDcfZbiPkWFXwobesAvy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 206880,
       "name": "Lucha De Gigantes",
       "url": "https://open.spotify.com/track/1ozbWlTQASs311dSO5R6vp"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Impronta",
+        "url": "https://open.spotify.com/album/7cQBUtJwVAKluOLttrga9m"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "El Tiempo Pasar\u00e1",
+      "url": "https://open.spotify.com/track/6t6knHmmUVGnYHqQy7lTij"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Best Seller",
         "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Si Me Voy",
-        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Si Me Voy",
-      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Sexo en la playa",
         "url": "https://open.spotify.com/album/0ncQYd7wRzoLdM4MFG6UGd"
       },
@@ -1063,22 +1047,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Murasaki",
-        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
+        "name": "Si Me Voy",
+        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "Luis Humberto Navejas",
-          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         }
       ],
-      "duration_ms": 213133,
-      "name": "Murasaki",
-      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+      "duration_ms": 186000,
+      "name": "Si Me Voy",
+      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1095,6 +1075,26 @@
       "duration_ms": 261066,
       "name": "Como puedes vivir contigo mismo",
       "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Murasaki",
+        "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Luis Humberto Navejas",
+          "url": "https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Murasaki",
+      "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "No vuelvo m\u00e1s",
-      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+      "duration_ms": 253600,
+      "name": "No vuelvo m\u00e1s",
+      "url": "https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Run... The Sun Is Burning All Your Hopes",
         "url": "https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
-      },
-      "artists": [
-        {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
-        }
-      ],
-      "duration_ms": 127723,
-      "name": "Sushi en Lata",
-      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 222242,
       "name": "El Lado Oscuro de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 127723,
+      "name": "Sushi en Lata",
+      "url": "https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn"
     },
     {
       "added_at": "2024-06-14 04:59:00",

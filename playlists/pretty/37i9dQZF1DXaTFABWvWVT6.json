@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 90081,
+  "num_followers": 90086,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-08-27 23:00:44",
       "album": {
-        "name": "Wo, man (Edit)",
-        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Wo, man - Edit",
-      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
-    },
-    {
-      "added_at": "2026-08-27 23:00:44",
-      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 193846,
       "name": "Talk of the Town",
       "url": "https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF"
+    },
+    {
+      "added_at": "2026-08-27 23:00:44",
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "added_at": "2026-08-27 23:00:44",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-27 23:00:44",
       "album": {
-        "name": "I Hear You",
-        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK"
-    },
-    {
-      "added_at": "2026-08-27 23:00:44",
-      "album": {
         "name": "Disgruntled (feat. J Hus & IRAH)",
         "url": "https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 192685,
       "name": "Disgruntled (feat. J Hus & IRAH)",
       "url": "https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l"
+    },
+    {
+      "added_at": "2026-08-27 23:00:44",
+      "album": {
+        "name": "I Hear You",
+        "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK"
     },
     {
       "added_at": "2026-08-27 23:00:44",
@@ -1119,6 +1119,34 @@
     {
       "added_at": "2026-08-27 23:00:44",
       "album": {
+        "name": "Long Jacket",
+        "url": "https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 211368,
+      "name": "Long Jacket",
+      "url": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"
+    },
+    {
+      "added_at": "2026-08-27 23:00:44",
+      "album": {
         "name": "Check One, Check Two",
         "url": "https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He"
       },
@@ -1207,34 +1235,6 @@
       "duration_ms": 161495,
       "name": "Cops & Robbers",
       "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
-    },
-    {
-      "added_at": "2026-08-27 23:00:44",
-      "album": {
-        "name": "Long Jacket",
-        "url": "https://open.spotify.com/album/4fuu8b29TGQdCknJDSPzr1"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        },
-        {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
-        }
-      ],
-      "duration_ms": 211368,
-      "name": "Long Jacket",
-      "url": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"
     },
     {
       "added_at": "2026-08-27 23:00:44",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-08-27 23:00:44",
       "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ"
-      },
-      "artists": [
-        {
-          "name": "Stephani B",
-          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
-        },
-        {
-          "name": "Scott Forshaw",
-          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff"
-    },
-    {
-      "added_at": "2026-08-27 23:00:44",
-      "album": {
         "name": "Different Side",
         "url": "https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
+    },
+    {
+      "added_at": "2026-08-27 23:00:44",
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ"
+      },
+      "artists": [
+        {
+          "name": "Stephani B",
+          "url": "https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A"
+        },
+        {
+          "name": "Scott Forshaw",
+          "url": "https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff"
     },
     {
       "added_at": "2026-08-27 23:00:44",

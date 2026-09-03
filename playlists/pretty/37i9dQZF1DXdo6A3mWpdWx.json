@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1470268,
+  "num_followers": 1470747,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Black Sunday",
         "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208266,
       "name": "Insane in the Brain",
       "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Best Of Suzanne Vega - Tried And True",
         "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 227866,
       "name": "Tom's Diner - 7\" Version",
       "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "duration_ms": 226734,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 223535,
-      "name": "Dreamer - Janice Robinson Vocal",
-      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Feel the heat of the night",
         "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 221840,
       "name": "Feel the heat of the night - Radio Edit",
       "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 223535,
+      "name": "Dreamer - Janice Robinson Vocal",
+      "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Shut Up (And Sleep With Me)",
-        "url": "https://open.spotify.com/album/2Pxy2nryVd8wa5sujx9w1N"
-      },
-      "artists": [
-        {
-          "name": "Sin With Sebastian",
-          "url": "https://open.spotify.com/artist/0M898uhr3b4OPIUC4pse47"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Shut Up (And Sleep With Me) [Original Airplay Mix]",
-      "url": "https://open.spotify.com/track/0fXy5mDtuSBtBMkNtAUhG6"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -2507,18 +2491,34 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6nURVXyllcTUxC0u8pzsOf"
+        "name": "Shut Up (And Sleep With Me)",
+        "url": "https://open.spotify.com/album/2Pxy2nryVd8wa5sujx9w1N"
       },
       "artists": [
         {
-          "name": "Peter Andre",
-          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
+          "name": "Sin With Sebastian",
+          "url": "https://open.spotify.com/artist/0M898uhr3b4OPIUC4pse47"
         }
       ],
-      "duration_ms": 217106,
-      "name": "Mysterious Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/3CiM7fBGbaP6jiyuH2Ot4j"
+      "duration_ms": 226666,
+      "name": "Shut Up (And Sleep With Me) [Original Airplay Mix]",
+      "url": "https://open.spotify.com/track/0fXy5mDtuSBtBMkNtAUhG6"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0PuT9tt0GtnAYA8CaZ5RMW"
+      },
+      "artists": [
+        {
+          "name": "Guru Josh",
+          "url": "https://open.spotify.com/artist/0GWezHEUuBQvQM31OaWlS7"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/78fTO9KOXmWLkm1r6Ko2Uq"
     }
   ],
   "unique_name": "90s Party",

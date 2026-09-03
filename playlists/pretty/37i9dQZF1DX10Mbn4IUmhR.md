@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,751 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,749 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 73 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
 | 74 | [Neverland](https://open.spotify.com/track/2pYeCSz1jCLtz2GDioZEfs) | [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [Neverland](https://open.spotify.com/album/1FjqFA9fMXRjm5le1dROMY) | 3:08 |
 | 75 | [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 |
-| 76 | [F.A.F.O](https://open.spotify.com/track/0NdOu1PqAB9rJDwBFmfyIk) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [F.A.F.O](https://open.spotify.com/album/1bPg0dovsBDl8Ul1C9DPP5) | 2:26 |
-| 77 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
+| 76 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
+| 77 | [F.A.F.O](https://open.spotify.com/track/0NdOu1PqAB9rJDwBFmfyIk) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [F.A.F.O](https://open.spotify.com/album/1bPg0dovsBDl8Ul1C9DPP5) | 2:26 |
 | 78 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 79 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
 | 80 | [Hello Goodbye](https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Hello Goodbye](https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz) | 3:05 |

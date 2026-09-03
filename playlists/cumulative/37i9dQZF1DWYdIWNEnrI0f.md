@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-70 songs - 3 hr 25 min
+71 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 | 2025-10-24 |  |
 | [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 | 2025-10-24 |  |
 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 | 2025-10-24 | 2026-07-19 |
-| [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 |  |
+| [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 | 2025-10-24 | 2026-09-03 |
 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 | 2025-10-24 |  |
 | [Chess Flow](https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk) | [Slowmo Friends](https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH) | [Chess Flow](https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2) | 2:20 | 2025-10-24 |  |
 | [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 | 2025-10-24 |  |
@@ -53,6 +53,7 @@
 | [reflection eternal](https://open.spotify.com/track/6eGMwVVABqVTe9bWRIm498) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 4:17 | 2025-10-24 | 2026-08-03 |
 | [Resonance](https://open.spotify.com/track/2LxGGThhhbFhyHkaZySaty) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Resonance](https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H) | 3:28 | 2026-01-23 |  |
 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 | 2025-10-24 |  |
+| [Ripples](https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Ripples](https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo) | 2:34 | 2026-08-30 |  |
 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 | 2025-10-24 | 2026-09-02 |
 | [Sanctuary](https://open.spotify.com/track/17fdQzkqBqZq7HLYgXdmwk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Sanctuary](https://open.spotify.com/album/6tMN6g7mEtMIBGeQPjYDYy) | 2:19 | 2026-03-25 |  |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-10-24 |  |

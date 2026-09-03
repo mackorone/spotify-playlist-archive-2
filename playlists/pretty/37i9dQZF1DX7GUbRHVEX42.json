@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
-  "num_followers": 1095297,
+  "num_followers": 1095236,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -831,18 +831,22 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks"
       },
       "artists": [
         {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
         }
       ],
-      "duration_ms": 180061,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
+      "duration_ms": 189530,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq"
     },
     {
       "added_at": "2026-07-29 10:12:11",
@@ -863,22 +867,18 @@
     {
       "added_at": "2026-07-29 10:12:11",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/1ZH0Lk2KiayBhNIMlLl7Ks"
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
       },
       "artists": [
         {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        },
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
         }
       ],
-      "duration_ms": 189530,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/3F31ufvgjdWikS04V3GVWq"
+      "duration_ms": 180061,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2026-07-29 10:12:11",

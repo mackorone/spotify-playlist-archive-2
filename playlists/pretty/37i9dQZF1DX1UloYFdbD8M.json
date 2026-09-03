@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Ashley Milred",
-  "num_followers": 41708,
+  "num_followers": 41714,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/yCH6TgHlFMSMoo/i2IbCeKKA4",
+  "snapshot_id": "AAAAAHRaSuxZ3TzzzBav3xxhXQqLC+78",
   "tracks": [
     {
       "added_at": "2026-07-03 12:10:50",
@@ -379,6 +379,30 @@
       "duration_ms": 154000,
       "name": "Athirilla Mohangal",
       "url": "https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV"
+    },
+    {
+      "added_at": "2026-09-02 14:06:03",
+      "album": {
+        "name": "Vrenithahridayam",
+        "url": "https://open.spotify.com/album/4nWU6axLjqsgZUEum24A2n"
+      },
+      "artists": [
+        {
+          "name": "Muhsin Ziyan",
+          "url": "https://open.spotify.com/artist/5ZEDug9ucneHq1ocqQKRZz"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Shaheera Nazeer",
+          "url": "https://open.spotify.com/artist/5EbsGvc4pGnqVsbPnR49nm"
+        }
+      ],
+      "duration_ms": 281474,
+      "name": "Vrenithahridayam",
+      "url": "https://open.spotify.com/track/2rp2IPQ2lzV3qZ80RJyD7A"
     },
     {
       "added_at": "2026-07-31 10:55:08",
@@ -1547,42 +1571,6 @@
       "duration_ms": 158761,
       "name": "Dhooram",
       "url": "https://open.spotify.com/track/4Gmm0gSQZsU9uQwUieQ3cf"
-    },
-    {
-      "added_at": "2025-12-13 16:26:26",
-      "album": {
-        "name": "Kunnikkuru",
-        "url": "https://open.spotify.com/album/7L29FFnRLDxCC91dLD1eJt"
-      },
-      "artists": [
-        {
-          "name": "Crishna",
-          "url": "https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Kunnikkuru",
-      "url": "https://open.spotify.com/track/2kJ5S7VLdpwC4PblqJdZ5R"
-    },
-    {
-      "added_at": "2025-12-12 08:18:11",
-      "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB"
-      },
-      "artists": [
-        {
-          "name": "EKAN",
-          "url": "https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP"
-        },
-        {
-          "name": "CHNGRA",
-          "url": "https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8"
     }
   ],
   "unique_name": "Malayalam Indie",

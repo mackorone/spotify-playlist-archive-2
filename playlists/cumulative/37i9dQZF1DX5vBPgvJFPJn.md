@@ -2,17 +2,19 @@
 
 ### [Fresh Finds Videos](https://open.spotify.com/playlist/37i9dQZF1DX5vBPgvJFPJn)
 
-> The best new music videos from independent artists and labels\. Featuring Babehoven\. Music videos only available on Premium.
+> The best new music videos from independent artists and labels\. Featuring Abbie Callahan\. Music videos only available on Premium.
 
-48 songs - 2 hr 31 min
+56 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [100 MILLION](https://open.spotify.com/track/1jR4ALpdqJ12ghzdrzmvmo) | [Ethansroom](https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne) | [100 MILLION](https://open.spotify.com/album/5xjXkDG5Tli8W8FczI9YPR) | 4:24 | 2026-09-02 |  |
 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 | 2026-08-18 |  |
 | [Almost, So Close, Maybe \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/5c5SFx2yRVfRBlJ9tlvtYu) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/0HfHRzXwJfAROpTrIPZNG9) | 3:20 | 2026-07-13 |  |
 | [Another Time](https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC) | [Zoh Amba](https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL) | [Another Time](https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn) | 3:01 | 2026-07-13 |  |
 | [Big Machine](https://open.spotify.com/track/64OQZBi3pOfJaoZH99yDis) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Big Machine](https://open.spotify.com/album/56svbyQy7C9Wr1Ul1hpCpS) | 2:56 | 2026-07-13 |  |
 | [cae la noche](https://open.spotify.com/track/6hQuEtWIAbzlA9VLwrXYYD) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Lado A / Lado B IV](https://open.spotify.com/album/5PVroSmmimln14hqW1sRNm) | 3:18 | 2026-07-13 |  |
+| [Carol / not carol](https://open.spotify.com/track/5q94hPY3GrjhCUet14nIdl) | [Ruby Gill](https://open.spotify.com/artist/51KkytVOUvaM9m0CoY9mBU) | [Carol / not carol](https://open.spotify.com/album/1gDhE3043O3EnYRZR4f0wi) | 4:21 | 2026-09-02 |  |
 | [Choose](https://open.spotify.com/track/0H9Zh0k1DLrjYpipQu7bYg) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Choose](https://open.spotify.com/album/3A9SdjMibU11v6vGvYxPcO) | 3:56 | 2026-07-13 |  |
 | [Coming Home Again](https://open.spotify.com/track/19zb5iwT3SdZ7OdXnYLve4) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Coming Home Again](https://open.spotify.com/album/4ckdA8pRLkhn3G8RTYCH4r) | 3:33 | 2026-07-13 |  |
 | [Crackled Grounds](https://open.spotify.com/track/6M18ClPMkQTS7M7hiwgXz2) | [Georgian](https://open.spotify.com/artist/45BKB70SYuiW2jRGxC1dYv) | [Crackled Grounds](https://open.spotify.com/album/5TjeuLoE1i9HgpRSRSsL0Y) | 3:48 | 2026-07-13 |  |
@@ -26,6 +28,7 @@
 | [Gold Chains \(Official Video\)](https://open.spotify.com/track/1P85Aq2myADE9Tnk1CXASY) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Gold Chains \(Official Video\)](https://open.spotify.com/album/7IRH4TmrFJGRousAv7OYKe) | 2:13 | 2026-07-13 |  |
 | [Gooning for Free](https://open.spotify.com/track/1pLz7A7Zii8UFaPsSnBNRd) | [Hammok](https://open.spotify.com/artist/5R1AfWkXVaAraHY3Tk9bMY) | [Gooning for Free](https://open.spotify.com/album/4kNS4YISl2rzKHSTFHgrvJ) | 1:46 | 2026-07-13 |  |
 | [Great Dane](https://open.spotify.com/track/6sdLxls3tk5al8uIara1mN) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Great Dane](https://open.spotify.com/album/22goxR80DmX7586U73OrNy) | 3:05 | 2026-07-13 |  |
+| [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs) | [Abbie Callahan](https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm) | [Half Woman, Half Cosmic Horror \(Disco Disco\)](https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf) | 3:30 | 2026-09-02 |  |
 | [Here Comes Trouble](https://open.spotify.com/track/09PEDl4c5eTMurEy3D8UBf) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Here Comes Trouble](https://open.spotify.com/album/1314pzc9jjXGqxlNERn1Cf) | 3:37 | 2026-07-13 |  |
 | [Hold On](https://open.spotify.com/track/0kOLNHOf6TH9gWegm42dRR) | [Phoenix James](https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP) | [Hold On](https://open.spotify.com/album/6qFFDnRPtBsDLD1ULFI3sa) | 1:56 | 2026-07-13 |  |
 | [Honey](https://open.spotify.com/track/1N2TvrTy0NKrIJG3QR1Amm) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Honey](https://open.spotify.com/album/1MmZO7iSto3uDpNgYdLrOW) | 2:32 | 2026-07-13 |  |
@@ -38,8 +41,10 @@
 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 | 2026-08-18 |  |
 | [Mind On The Money](https://open.spotify.com/track/60HREuElNySSKZZEFyzKZg) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Mind On The Money](https://open.spotify.com/album/25Mc2lMuz9HqrFDWeTcnpT) | 2:27 | 2026-07-13 |  |
 | [Momento](https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Momento](https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI) | 2:52 | 2026-07-13 |  |
+| [Mothers Bells](https://open.spotify.com/track/0ablSYA5mgmbtIzRbby1hh) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Mothers Bells](https://open.spotify.com/album/5hNLHKD4yVFc6FhVLDVkOd) | 2:32 | 2026-09-02 |  |
 | [Mysterious Ways](https://open.spotify.com/track/0S0esRxg8ldboAm5abxsnb) | [Emma Smalley](https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw) | [Mysterious Ways](https://open.spotify.com/album/3Te1iVvBmmXVs2SGhbyyNZ) | 3:44 | 2026-08-18 |  |
 | [Next To Me](https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [From My Side](https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck) | 3:06 | 2026-07-13 |  |
+| [Night Fright](https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY) | [Biita Houdei](https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3) | [Night Fright](https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml) | 3:56 | 2026-09-02 |  |
 | [Notorious](https://open.spotify.com/track/2E2uvzPNhtdcpwo5XaHav9) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/6AVtsJrrFeIbiy6KHCxKzK) | 2:54 | 2026-07-13 |  |
 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 | 2026-08-18 |  |
 | [over anything](https://open.spotify.com/track/72NGcY2sSw6FFvmUymouC8) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [over anything](https://open.spotify.com/album/2UFaO6xoNt2f9WE73hiE8D) | 2:38 | 2026-07-13 |  |
@@ -47,13 +52,16 @@
 | [Postinternetfame](https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Postinternetfame / Self Tape](https://open.spotify.com/album/34pUJjYymPU7jioThphtiR) | 2:21 | 2026-07-13 |  |
 | [S.I.M.P.L.E](https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [DND](https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs) | 2:33 | 2026-07-13 |  |
 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-07-13 |  |
+| [seat of my skirt](https://open.spotify.com/track/2gzasCAYU41SE6gPNlIPPH) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [seat of my skirt](https://open.spotify.com/album/4bLJRG4DoQpOxkf1ZXYsLQ) | 2:43 | 2026-09-02 |  |
 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-07-13 |  |
 | [skin2skin](https://open.spotify.com/track/2MPYwuSCgp9gHAuWn6uglw) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [skin2skin](https://open.spotify.com/album/23O9q2Nf7cycElX3IuJC7c) | 3:12 | 2026-07-13 |  |
 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-07-13 |  |
 | [Start at the End](https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Behind The Wings](https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON) | 3:18 | 2026-07-13 |  |
 | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/39Rn8Oo9457pJhvOT4uyCV) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/2ziwVgc0w5aZLVh76bNdtW) | 2:36 | 2026-07-13 |  |
+| [the cops are coming](https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [the cops are coming](https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm) | 3:13 | 2026-09-02 |  |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-07-13 |  |
 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 | 2026-07-13 |  |
+| [The Whale](https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [D.A\. Crimson](https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW) | [The Whale](https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z) | 3:25 | 2026-09-02 |  |
 | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/track/18ORy2kdIMfYEBGkS1XO2t) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Walk...Before You Fly \(Live\) \| Spotify Fresh Finds x Sounds That Move](https://open.spotify.com/album/5SjOZXqP7CzU7Tl52TQolh) | 2:14 | 2026-07-13 |  |
 | [We're Gonna Be Okay](https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0) | [Dari Bay](https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC) | [We're Gonna Be Okay](https://open.spotify.com/album/7bsWF5EJ5oMXtDS4SubL3X) | 4:18 | 2026-07-13 |  |
 

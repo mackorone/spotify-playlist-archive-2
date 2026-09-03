@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8V4BE7YIpvE.md) - [plain]
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,616 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,683 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

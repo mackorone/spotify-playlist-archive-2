@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191518,
+  "num_followers": 191550,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "VIP (ningu\u00e9m te conhece)",
-        "url": "https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "VIP (ningu\u00e9m te conhece)",
-      "url": "https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 341376,
       "name": "Har\u00e9m",
       "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "VIP (ningu\u00e9m te conhece)",
+        "url": "https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "VIP (ningu\u00e9m te conhece)",
+      "url": "https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2"
     },
     {
       "added_at": "2026-08-21 22:02:04",

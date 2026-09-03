@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,451 songs - 3 day 12 hr 28 min
+1,455 songs - 3 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Catch the Spark](https://open.spotify.com/track/5m1itjQzMzetHUjbVGsMxY) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Catch the Spark](https://open.spotify.com/album/6y5ZbPFz6h5NxytG5jkmLA) | 3:37 | 2025-12-18 | 2026-01-15 |
 | [Caught In The Middle Of Thee](https://open.spotify.com/track/3GQVaaFscQdfk6WvbKI8Si) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Caught In The Middle Of Thee](https://open.spotify.com/album/1f4qxnQ0oHfH6kMLIz8Wlg) | 3:00 | 2026-04-13 | 2026-05-14 |
 | [Celina](https://open.spotify.com/track/2T9R2VTHmJsP5T9LQy8XVz) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [No Jardim dos Acasos](https://open.spotify.com/album/4C7QeFe3HpzJ1tNlY9fd9i) | 3:27 | 2026-03-23 | 2026-04-22 |
+| [Centered](https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I) | [THE EM](https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v) | [Silent Avenue, Vol\. 2](https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z) | 2:54 | 2026-09-02 |  |
 | [Centrale nucleare di Hanul](https://open.spotify.com/track/2mGN4pEO1AHFq0zigfuCSM) | [Depa](https://open.spotify.com/artist/4x43pEZCm3mKW7gBBScLs3) | [Centrale nucleare di Hanul](https://open.spotify.com/album/4izN0xiPRgVbjtoetRy1Yu) | 5:52 | 2026-04-27 | 2026-06-05 |
 | [Cereus](https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Cereus](https://open.spotify.com/album/5QDGWGHGKp7RNZ4XHWP8tL) | 2:57 | 2026-07-23 | 2026-08-30 |
 | [Cerimony for "The Chinese"](https://open.spotify.com/track/1k63sjTtq3pkzrd9fUHD9I) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [Cerimony for "The Chinese"](https://open.spotify.com/album/1RyqSDdWLWG1WWpoj6lDQs) | 6:02 | 2023-04-27 | 2025-11-29 |
@@ -413,6 +414,7 @@
 | [Fireworks Fall](https://open.spotify.com/track/2LmF5dQhaxFNnTpnFOn8z2) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Fireworks Fall](https://open.spotify.com/album/1a2GSekjvduf484J6N71yx) | 3:31 | 2026-06-14 | 2026-07-19 |
 | [First Kiss](https://open.spotify.com/track/4MoYQiwBZqFX4DfCn7kQQ6) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [First Kiss](https://open.spotify.com/album/3sAIi79IKg3rmjV4RKtUL0) | 3:24 | 2026-06-11 | 2026-07-19 |
 | [First Time Feeling](https://open.spotify.com/track/20P0LUwCYkmTaPoWEMDb80) | [elavie](https://open.spotify.com/artist/3kgSiFgUZ9o7u0kwjLuDke) | [First Time Feeling](https://open.spotify.com/album/2zSZdxkDBqEp89xvD46lRl) | 3:46 | 2026-08-12 |  |
+| [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 | 2026-09-02 |  |
 | [Fish Tank](https://open.spotify.com/track/2hDnvkxpCSo57nPmEMN6ND) | [Buckeye Belle](https://open.spotify.com/artist/1f5o9LL9uj7X7KOBVpSiGa) | [I'd Rather Be Sleeping](https://open.spotify.com/album/4sBEZPvbIVcubfxcde4KOR) | 3:44 | 2026-04-08 | 2026-05-14 |
 | [Flashback](https://open.spotify.com/track/7zphXBpoS3Qo1ybHyksW2i) | [East Collectors](https://open.spotify.com/artist/2jwnJc5ibEXh10jmTPz3mh), [Guðrun Sólja](https://open.spotify.com/artist/7u04eBVbYkvMPkUPkLHFu6) | [Flashback](https://open.spotify.com/album/1VvkRHbKvajkyILV44y9gt) | 3:37 | 2026-06-20 | 2026-07-19 |
 | [Floto](https://open.spotify.com/track/0cpVDFhmJ5mRssyaE8ZjAo) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [Floto](https://open.spotify.com/album/2Z8DVQAobcZtSFHc05afHk) | 3:58 | 2026-02-25 | 2026-03-25 |
@@ -955,6 +957,7 @@
 | [Pistacchio croissant](https://open.spotify.com/track/6SnCcZfuAw1WtngzKfKD7a) | [R&A acoustic duet](https://open.spotify.com/artist/4gMDSNMILrN8JrWs1WC0mG) | [Pistacchio croissant](https://open.spotify.com/album/6lw0GzFHDedrMEbKtmxlKo) | 3:43 | 2026-03-06 | 2026-03-25 |
 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 | 2026-06-16 | 2026-07-19 |
 | [Playing Games Again](https://open.spotify.com/track/36njWEANR6L7Y7oJwF6PsP) | [Jenner Brandon](https://open.spotify.com/artist/0tzRDLY7TgosQIxgB1mCte) | [Playing Games Again](https://open.spotify.com/album/6S4v3E0vuhnUFFTjoA4zSk) | 2:22 | 2026-01-04 | 2026-02-03 |
+| [Plinthe](https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Plinthe](https://open.spotify.com/album/3QG2OmpwhZ3lCKsj27Xkqm) | 1:44 | 2026-09-02 |  |
 | [Poison \- Radio Mix](https://open.spotify.com/track/72WWXdYxRgULcrEzG1V9ku) | [Matt Osuna](https://open.spotify.com/artist/1YpjecMAo0UrWeiTAvelHJ), [RED & TED](https://open.spotify.com/artist/6QO6YTX46ve4PNhIi92qyg) | [Poison](https://open.spotify.com/album/5lSMIfxBlAMfWcRJTAdrpn) | 3:51 | 2026-06-09 | 2026-07-19 |
 | [Polaroid Heartbeats](https://open.spotify.com/track/7rZfePcbPcwUNup9K5UL0K) | [Lyric official](https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4) | [Polaroid Heartbeats](https://open.spotify.com/album/76Zr0yOXBrSD14CwTJixCJ) | 3:00 | 2026-01-31 | 2026-02-28 |
 | [Ponte Entre Dois Mundos](https://open.spotify.com/track/3De8WmEV4guIuHpdwgBrBw) | [Sonho Lúcido](https://open.spotify.com/artist/1Coxq0swNDoPOgi6QAWrZk) | [Cidade Mente](https://open.spotify.com/album/2l1SaeD4jzsWkPsfse4wqw) | 4:13 | 2026-03-09 | 2026-04-12 |
@@ -1137,6 +1140,7 @@
 | [Starò bene](https://open.spotify.com/track/0knNp7uACCOqJSCeHulwyc) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Starò bene](https://open.spotify.com/album/2ealXQVsJPSmMznVRG8W4p) | 3:18 | 2026-07-15 | 2026-08-10 |
 | [Stay](https://open.spotify.com/track/1VZ6VttIdyT4Hz0YuxlcOY) | [Eve Gasser](https://open.spotify.com/artist/3aHIYOGT1AVJJCQalaLm2H) | [Stay](https://open.spotify.com/album/02OO6cSq8UNEyrXxXmrEo4) | 4:04 | 2026-03-02 | 2026-03-25 |
 | [STAY](https://open.spotify.com/track/2UmPJzhl1hzMVglunWdXj7) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [STAY](https://open.spotify.com/album/3ghZ2pfaJopEulfq0zcmD6) | 2:21 | 2026-05-27 | 2026-07-03 |
+| [Stay Right Here](https://open.spotify.com/track/4DFiF5BogDDoUWPqZIUzaw) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Nicholas Pierce](https://open.spotify.com/artist/5VqpFWUi3TKsv2VQ4TjDTH) | [Stay Right Here](https://open.spotify.com/album/387st1ZnAmH942aNsg9xXj) | 3:44 | 2026-09-02 |  |
 | [Stay With Me Tonight](https://open.spotify.com/track/49gvYvHGIoD0LGoAaBo1Fp) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Stay With Me Tonight](https://open.spotify.com/album/4POyKsBScCNG1A7KYLanym) | 3:05 | 2025-12-26 | 2026-01-24 |
 | [Stay With Me Tonight \(Studio Mix\) \- Live](https://open.spotify.com/track/0pwKciMeXVtP3gHWqjA1rq) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Stay With Me Tonight \(Studio Mix\) \[Live\]](https://open.spotify.com/album/6w5U7x9XvdnprrGHq7YcmX) | 3:05 | 2025-12-26 | 2026-01-24 |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-13 | 2026-01-15 |

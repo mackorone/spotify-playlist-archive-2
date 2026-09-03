@@ -2,9 +2,9 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> ❗️Spotify presenteert Woordenschat 1 sept met <a href="spotify:artist:0MSYpagcvnSP2o91Ji2OCw">KM</a>, <a href="spotify:artist:19CxlXaWOlZh2pqZrJlHxN">Frsh</a>, <a href="spotify:artist:4bB3nz947QqaXQ5DZFcZgS">Qlas</a>, <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a> & <a href="spotify:artist:0BFood0cmj86LkpdOArhNs">Langa</a>
+> ❗️Nieuwe tracks: Jack, Mula en Bokoesam\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-548 songs - 1 day 0 hr 43 min
+549 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [MENTAL](https://open.spotify.com/track/28I7X1nETvtdyGXTiqD5DL) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [DE HOOP VAN G](https://open.spotify.com/album/3WKGqmaJVVTnrXuD6ZkTHI) | 2:43 | 2026-04-23 | 2026-05-22 |
 | [Micky van de Ven](https://open.spotify.com/track/3nu6AgVIOB5cZO4X49vred) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Zó Dan \(Deluxe\)](https://open.spotify.com/album/2ZeN7aPktFllZL3jkh9HRg) | 2:23 | 2025-12-11 | 2026-01-15 |
 | [Mijn Meisje](https://open.spotify.com/track/4POwc83pKmEwTeNCMRZsx6) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [BNT Vol\. 1](https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE) | 2:33 | 2026-02-05 | 2026-03-27 |
+| [Mijn Pad](https://open.spotify.com/track/6tiRIKLmoHdBeZxceb2F2w) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Eb & Vloed](https://open.spotify.com/album/2R5kRgGUs6vPsAOrYohTaO) | 2:45 | 2026-09-02 |  |
 | [Millies](https://open.spotify.com/track/57XCvqLKEGcHELKgE0dKYl) | [Yenko Forever](https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN), [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millies](https://open.spotify.com/album/3BJQFhp1RtASot1fR0ry3P) | 2:24 | 2026-02-19 | 2026-03-06 |
 | [Millionaire](https://open.spotify.com/track/19q5YMgBKrM8DuWuJoFEey) | [LILO](https://open.spotify.com/artist/4bpz1DmU9tB2FDq2tPgAFC), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [Millionaire](https://open.spotify.com/album/3GtXinuaQVhgEnrFVnGfmW) | 2:36 | 2025-11-20 | 2026-03-06 |
 | [MIST GEGAAN](https://open.spotify.com/track/3aTAK7b5v3tmZ125yhBUSy) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap), [Crooks](https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [MIST GEGAAN](https://open.spotify.com/album/7FJE8a6saHSifpiQavNXN5) | 2:51 | 2026-05-21 | 2026-06-26 |
@@ -520,7 +521,7 @@
 | [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 | 2025-09-18 | 2025-10-14 |
 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-24 | 2025-12-19 |
 | [Voor Het Eerst](https://open.spotify.com/track/27xG981cofM82r8BEdmxgf) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Voor Het Eerst](https://open.spotify.com/album/6qG6LyFEHQ20nA75IxTft9) | 3:11 | 2026-08-13 |  |
-| [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 | 2026-01-15 |  |
+| [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 | 2026-01-15 | 2026-09-03 |
 | [Waardering](https://open.spotify.com/track/4kBtYyfgzbZPVuqpNdKL7Q) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Waardering](https://open.spotify.com/album/6J3BH0JhrGNqfTCVbEtKNP) | 3:01 | 2026-02-12 | 2026-03-27 |
 | [Wagyu](https://open.spotify.com/track/0rVikiFqhfjczF3a9aATLf) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Wagyu](https://open.spotify.com/album/1MPKG1OXRsr3hjqsesGo77) | 2:48 | 2026-04-08 | 2026-08-21 |
 | [walgelijk](https://open.spotify.com/track/5qv5qNOlYJCXgYj4Fmlt6d) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [INSOMNIA](https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW) | 3:40 | 2026-01-08 | 2026-02-06 |

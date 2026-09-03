@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,408 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,517 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 99 | [Waves of Calm](https://open.spotify.com/track/7zgQw1P7vppFiqXuqlC8m3) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Waves of Calm](https://open.spotify.com/album/74aRdPsxFsBnZZeim5Ypid) | 2:51 |
 | 100 | [aashaavaan](https://open.spotify.com/track/0JMeYwyjasPj4oWmM8gib3) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [gaharaee](https://open.spotify.com/album/7A6os5n1BsA9uRBFhDYrIo) | 4:08 |
 
-Snapshot ID: `AAAAACF72hMrA9hE7IcOc9j3vpHk0OUg`
+Snapshot ID: `AAAAAAALqOZWN7Ynlv7CHwo17NTx0E3S`

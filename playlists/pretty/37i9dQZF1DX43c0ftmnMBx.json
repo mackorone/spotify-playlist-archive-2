@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 274070,
+  "num_followers": 274120,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 276840,
+      "name": "Vete y Alejate de Mi",
+      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Bachatas Para La Historia",
         "url": "https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 276840,
-      "name": "Vete y Alejate de Mi",
-      "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Bachateando 2",
-        "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "La Historia de Mi Vida: El Final, Vol. 1",
         "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+        "name": "Los 12 Exitos De Kiko Rodriguez",
+        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
       },
       "artists": [
         {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
         }
       ],
-      "duration_ms": 236306,
-      "name": "Abrazame amor",
-      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
+      "duration_ms": 252557,
+      "name": "Hoy Te Vi Pasar",
+      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Bachateando 2",
+        "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1635,6 +1635,22 @@
       "duration_ms": 283413,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/38cozIrW3CWUOmg2G5J6qa"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 236306,
+      "name": "Abrazame amor",
+      "url": "https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 344893,
       "name": "Me Voy De Ti",
       "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Los 12 Exitos De Kiko Rodriguez",
-        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 252557,
-      "name": "Hoy Te Vi Pasar",
-      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
     }
   ],
   "unique_name": "Bachat\u00e9ame",

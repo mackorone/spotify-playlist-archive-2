@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 843 likes - 63 songs - 3 hr 32 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 846 likes - 64 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 61 | [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 |
 | 62 | [Bleed Me](https://open.spotify.com/track/1zUyNaht7QAMAjpe9d0bsw) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Bleed Me](https://open.spotify.com/album/6Fgy6G7kwojsXyI5WTp6FT) | 3:21 |
 | 63 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
+| 64 | [sparkles](https://open.spotify.com/track/2USvuzXtQIR05I6kP7IEt6) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [sparkles](https://open.spotify.com/album/1iFXnOBQejkpHOsFJcPZ2n) | 4:06 |
 
-Snapshot ID: `AAAD6Rnho1eO9enom+yfYamhxXI980l9`
+Snapshot ID: `AAAD6ptJmQNu6kpdcFr3+iCnRfDIT5b0`

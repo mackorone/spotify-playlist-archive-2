@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACjdue54VeMPh7aYxDdX0Lc",
+  "snapshot_id": "apYVgAAAAABrDur7/vBfCOEctr4WaF4H",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 87200,
-      "name": "Der Fluss",
-      "url": "https://open.spotify.com/track/52oHjI60ZJhBziJVCwlmBL"
+      "duration_ms": 149160,
+      "name": "Bilder vom Encanto",
+      "url": "https://open.spotify.com/track/1IhI7a2C6EJv6CfTDSGwJu"
     },
     {
       "added_at": null,
@@ -99,38 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 69560,
-      "name": "Ginny Sees the Light",
-      "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bilder vom Encanto",
-      "url": "https://open.spotify.com/track/1IhI7a2C6EJv6CfTDSGwJu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -147,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "Encanto (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
       },
       "artists": [
         {
@@ -156,9 +124,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 147520,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC"
+      "duration_ms": 87200,
+      "name": "Der Fluss",
+      "url": "https://open.spotify.com/track/52oHjI60ZJhBziJVCwlmBL"
     },
     {
       "added_at": null,
@@ -179,6 +147,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 147520,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/6FpvvigQOnNyTmLAfethGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 66893,
+      "name": "Felipe's Theme",
+      "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
         "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
       },
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 43440,
-      "name": "George Enters Castleland",
-      "url": "https://open.spotify.com/track/7KK62PyW3ul0If2xoO3OQm"
+      "duration_ms": 154638,
+      "name": "Leaving Lone Pine Falls",
+      "url": "https://open.spotify.com/track/6kMVwV8S6VV3LDgJ02dDwm"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 54373,
-      "name": "Don't Give Up You Two",
-      "url": "https://open.spotify.com/track/6MyB4Txgtsq7YTHMAOPD71"
+      "duration_ms": 52093,
+      "name": "Monkey Mixup",
+      "url": "https://open.spotify.com/track/0Ou4tfO0Zel3VtA5gFQRAR"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 47866,
-      "name": "Crab Fishing",
-      "url": "https://open.spotify.com/track/1EKBIa8fnpuyXqLtb9kTf8"
+      "duration_ms": 83240,
+      "name": "Ted's Riding Lesson",
+      "url": "https://open.spotify.com/track/3d05X9MgZXqp8QDz7tr94j"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 52920,
-      "name": "Campfire Stars",
-      "url": "https://open.spotify.com/track/0cnlGHnpuI0xxGSInKKYLQ"
+      "duration_ms": 66040,
+      "name": "Royal Jet",
+      "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 66893,
-      "name": "Felipe's Theme",
-      "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
+      "duration_ms": 52920,
+      "name": "Campfire Stars",
+      "url": "https://open.spotify.com/track/0cnlGHnpuI0xxGSInKKYLQ"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83293,
-      "name": "Big City Train",
-      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
+      "duration_ms": 61293,
+      "name": "George's Pancake Practice",
+      "url": "https://open.spotify.com/track/2yDU7GOKPm3DPuEdF1HN5G"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 66040,
-      "name": "Royal Jet",
-      "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
+      "duration_ms": 69560,
+      "name": "Ginny Sees the Light",
+      "url": "https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83480,
-      "name": "Cowboy Frank",
-      "url": "https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65"
+      "duration_ms": 112000,
+      "name": "George's Realization",
+      "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 85720,
-      "name": "Castleland Adventure",
-      "url": "https://open.spotify.com/track/0ZDGnFayzMpiKryD0I7VOw"
+      "duration_ms": 119240,
+      "name": "The Landscape Medley",
+      "url": "https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+        "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 130663,
-      "name": "Margarita's Cha Cha",
-      "url": "https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG"
+      "duration_ms": 244255,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 123946,
-      "name": "Autumn Becomes Winter",
-      "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
+      "duration_ms": 130663,
+      "name": "Margarita's Cha Cha",
+      "url": "https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shovel Buddies (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR"
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 244255,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn"
+      "duration_ms": 123946,
+      "name": "Autumn Becomes Winter",
+      "url": "https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 53893,
-      "name": "10 Years Later",
-      "url": "https://open.spotify.com/track/0WpxG6AEs9QXBqw6NGDsN5"
+      "duration_ms": 71853,
+      "name": "Dora and the Lost City of Gold",
+      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 95853,
-      "name": "Separation Anxiety",
-      "url": "https://open.spotify.com/track/07DwLdqts4dZrfCm6sfO3k"
+      "duration_ms": 108600,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 71853,
-      "name": "Dora and the Lost City of Gold",
-      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
+      "duration_ms": 53893,
+      "name": "10 Years Later",
+      "url": "https://open.spotify.com/track/0WpxG6AEs9QXBqw6NGDsN5"
     },
     {
       "added_at": null,

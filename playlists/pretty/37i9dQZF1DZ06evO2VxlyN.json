@@ -1,12 +1,12 @@
 {
   "description": "This is Bella Kay. The essential tracks, all in one playlist.",
-  "num_followers": 3243,
+  "num_followers": 3257,
   "original_name": "This Is Bella Kay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACta8gkXxlB3JN/uhzYtHF0",
+  "snapshot_id": "apYVgAAAAAAk622pqPs8MMI9+RyrEwyq",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 226604,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ"
+      "duration_ms": 192100,
+      "name": "Promise?",
+      "url": "https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 192100,
-      "name": "Promise?",
-      "url": "https://open.spotify.com/track/1A1rVBUWzL4wOM6gSR30lg"
+      "duration_ms": 226604,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4asmKFh6Z5iTdJkxqC2wKQ"
     },
     {
       "added_at": null,

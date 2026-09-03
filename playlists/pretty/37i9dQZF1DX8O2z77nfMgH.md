@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,982 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,913 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 9 | [Aunque Sea Sin Mi \- Remix](https://open.spotify.com/track/01EECVOJhhz8ue0u9yfSmS) | [Beni](https://open.spotify.com/artist/6FD0tGJvtELivSMMrRqmE9), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Aunque Sea Sin Mi \(Remix\)](https://open.spotify.com/album/05fPFG6bosOlNarE7sd1sk) | 3:23 |
 | 10 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 |
 | 11 | [Soñé que volvías](https://open.spotify.com/track/51YV0Kat1LUCbWo1tvpIJq) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Soñé que volvías](https://open.spotify.com/album/6R7gHdTyeflckNlGq2Ti2B) | 4:01 |
-| 12 | [Trisal](https://open.spotify.com/track/2K22RlK0xmq9cznhzPMRpF) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Trick](https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf), [C.Z](https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU), [Mc Lele JP](https://open.spotify.com/artist/1gZ5b2Lr34s0K1563qWHtL) | [A Era de Ouro](https://open.spotify.com/album/0vCGZZCK88fD2GuxxTYvQw) | 5:30 |
+| 12 | [Trisal](https://open.spotify.com/track/2K22RlK0xmq9cznhzPMRpF) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Trick](https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa), [DJ Hyago](https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf), [C.Z](https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [A Era de Ouro](https://open.spotify.com/album/0vCGZZCK88fD2GuxxTYvQw) | 5:30 |
 | 13 | [Mi Nombre En Su Piel](https://open.spotify.com/track/3sScCWZisZEgq2fIriZ1GS) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Mi Nombre En Su Piel](https://open.spotify.com/album/6famfHssBpX4dqeVxIhNhD) | 2:50 |
 | 14 | [Ella Esta Triste](https://open.spotify.com/track/5Y2Q1SyaHSkk5hvYDXNpqZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Otra Cara](https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt) | 2:49 |
 | 15 | [Otro De Tequila](https://open.spotify.com/track/03RnW4jvS6LGqqfEJzD5SU) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Otro De Tequila](https://open.spotify.com/album/188mCaCSd1SMWLaqOFJvCN) | 3:45 |

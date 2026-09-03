@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-594 songs - 1 day 0 hr 47 min
+595 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [revibe](https://open.spotify.com/track/6EU7wD9sL3PlUi3PDWYCo4) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [ENRAWS EP](https://open.spotify.com/album/4TIT9ZVB0vZDe4SuG5yQa1) | 2:24 | 2019-05-26\* | 2019-06-15 |
 | [Rinse](https://open.spotify.com/track/1SBNNxJQpcl6LDXDJ23B2C) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Source](https://open.spotify.com/album/1ArjsnPFmKrjIz91NOBexw) | 1:43 | 2019-05-26\* | 2019-06-15 |
 | [RIP Fritz](https://open.spotify.com/track/1LP79W8hYMjOMgojNTPr8y) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Car Tunes, Vol\. 2](https://open.spotify.com/album/1OknIP6mpqmHUmiwV2LUta) | 2:24 | 2019-05-26\* | 2022-04-21 |
+| [Ripples](https://open.spotify.com/track/3zOoTfA801wwUrYiOWOv2u) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Ripples](https://open.spotify.com/album/5ztlKFULn1KS4rGKd2YJWo) | 2:34 | 2026-08-30 |  |
 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 | 2019-07-26 |  |
 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 | 2023-04-27 | 2025-10-27 |
 | [Rolling Papers](https://open.spotify.com/track/7bIXxtS6oLDBNzrQpqHS62) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Yerba](https://open.spotify.com/album/3yQBuwe2PIdUpapH2NeFkC) | 2:00 | 2019-05-26\* | 2021-05-27 |
@@ -580,7 +581,7 @@
 | [Wherever](https://open.spotify.com/track/2LfpFFKcs6F2CY7WjPjGgb) | [Tamotsu LeftGroove](https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx), [ichimi](https://open.spotify.com/artist/1ChuYhzwGRbLDx97Q9o3th) | [Wherever](https://open.spotify.com/album/4evOGy6Fre6EO6uCy8oH4Q) | 3:45 | 2026-01-09 | 2026-02-12 |
 | [Whiskey Sour](https://open.spotify.com/track/2VfsGpk0cMWyzM42hqKu5r) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Whiskey Sour / Strammer Max](https://open.spotify.com/album/5XGfotYYtQVErNef3THqQ8) | 1:42 | 2020-07-18 | 2025-03-09 |
 | [Whispers in the Night](https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [PAREIDOLIA](https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC) | 3:01 | 2023-03-02 | 2025-06-28 |
-| [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [dr\. nibbles](https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 |  |
+| [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [dr\. nibbles](https://open.spotify.com/artist/0NAtU3NLFUmAHbEgdZqP1G) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 | 2019-06-14 | 2026-09-03 |
 | [Win the Lottery](https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [181's penny candy store \#7](https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd) | 3:06 | 2021-12-16 | 2026-08-28 |
 | [winter in rio](https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/1sDUK1NkzRGYnvrskdWcMe) | 1:40 | 2022-07-28 | 2024-04-08 |
 | [winter in rio](https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Rio](https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ) | 1:40 | 2019-07-26 | 2022-04-19 |

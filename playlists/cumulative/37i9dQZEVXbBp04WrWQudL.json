@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/3BIgtjioh8uDv6qSS9AIxk"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250144,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
+    },
+    {
+      "album": {
         "name": "Eu Te Seguro (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ndsggmv65NuQmDEGkS9a"
       },
@@ -429,6 +447,32 @@
     },
     {
       "album": {
+        "name": "How To Pray",
+        "url": "https://open.spotify.com/album/6xaatDjPX1ae1R7oDlKtZM"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167667,
+      "name": "How To Pray",
+      "url": "https://open.spotify.com/track/0oos01MKZkB4Wpo2HQcjkK"
+    },
+    {
+      "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
         "url": "https://open.spotify.com/album/4zEOmqoMKDlIKERKv4fWDF"
       },
@@ -458,7 +502,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 195662,
       "name": "I Knew It, I Knew You - Piano Version / From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/54Qm2txAQn42IhrcknweE7"
@@ -654,7 +698,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 256405,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/55zd27ci3VjlPoxeuQ9Ied"
@@ -726,7 +770,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 133333,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/2QyyN6vhZtpZ5PqlyxM2a8"
@@ -784,7 +828,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 274624,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/3f7WBr2tv7KJ6uBHK67b3n"
@@ -871,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Safe Space (Live In Sydney)",
+        "url": "https://open.spotify.com/album/7LkvHV5oT5zmuhkFH4CJkq"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220530,
+      "name": "Safe Space - Live In Sydney",
+      "url": "https://open.spotify.com/track/1ynoGwwk2ZhkdiQZHOkVSQ"
+    },
+    {
+      "album": {
         "name": "Temper City - Self Aware (Official Video)",
         "url": "https://open.spotify.com/album/0pV63StkTANXT7LT4lzEz9"
       },
@@ -922,6 +984,24 @@
       "duration_ms": 565866,
       "name": "Smooth Criminal",
       "url": "https://open.spotify.com/track/7nXL24YeHwgPdHZ4bdIMST"
+    },
+    {
+      "album": {
+        "name": "So Easy (To Fall In Love)",
+        "url": "https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196928,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
     },
     {
       "album": {
@@ -979,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/2QKCMUiu4LeOVN7fVIa22y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314238,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/6aedim7Xd6XWqFDfv6z1Vx"
+    },
+    {
+      "album": {
         "name": "The Fate of Ophelia",
         "url": "https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117"
       },
@@ -1008,7 +1106,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 193097,
       "name": "This & That",
       "url": "https://open.spotify.com/track/31hZPeh2miFTgV9CliokH0"
@@ -1026,7 +1124,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -1088,7 +1186,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 263360,
       "name": "ZIZI",
       "url": "https://open.spotify.com/track/3cwUjwRg7nKNyN5ZvNmfV0"

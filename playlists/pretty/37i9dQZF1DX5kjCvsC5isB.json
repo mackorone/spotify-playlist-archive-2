@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 317610,
+  "num_followers": 317612,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Scaredy Pants",
         "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 192440,
       "name": "Scaredy Pants",
       "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Jabberwocky",
         "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 192290,
       "name": "Jabberwocky",
       "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "MONEY BAG",
-        "url": "https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT"
-      },
-      "artists": [
-        {
-          "name": "LUNA AURA",
-          "url": "https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh"
-        }
-      ],
-      "duration_ms": 134666,
-      "name": "MONEY BAG",
-      "url": "https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "slippery slope",
         "url": "https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 139400,
       "name": "slippery slope",
       "url": "https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "MONEY BAG",
+        "url": "https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT"
+      },
+      "artists": [
+        {
+          "name": "LUNA AURA",
+          "url": "https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh"
+        }
+      ],
+      "duration_ms": 134666,
+      "name": "MONEY BAG",
+      "url": "https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "I Died",
-        "url": "https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        },
-        {
-          "name": "Daisha McBride",
-          "url": "https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "I Died",
-      "url": "https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "WHO DIED AND MADE YOU KING?",
         "url": "https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 143524,
       "name": "WHO DIED AND MADE YOU KING?",
       "url": "https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "I Died",
+        "url": "https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        },
+        {
+          "name": "Daisha McBride",
+          "url": "https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "I Died",
+      "url": "https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N"
     },
     {
       "added_at": "2024-07-05 22:18:14",

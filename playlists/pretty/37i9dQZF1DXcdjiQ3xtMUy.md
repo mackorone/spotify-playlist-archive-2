@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,397 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,401 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 3 | [OPOU KI AN PAS](https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [I TRIED](https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH) | 2:38 |
 | 4 | [THALASSA AKRIVI](https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Love, Rack.](https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu) | 2:49 |
 | 5 | [OLO PIO PANO](https://open.spotify.com/track/3WVRyh20cE6gdv7Z9A774f) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [OLO PIO PANO](https://open.spotify.com/album/4kbVqMQypAgfFme96DxL9J) | 3:17 |
-| 6 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 |
+| 6 | [Ainte](https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Ainte](https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396) | 2:42 |
 | 7 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
 | 8 | [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 |
 | 9 | [JALLA \- Anastasia Remix](https://open.spotify.com/track/5xN4Opih4KEMTJlww6yDMM) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW), [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [JALLA \(Anastasia Remix\)](https://open.spotify.com/album/531LCZEK6sLeGRr68QBgKy) | 2:05 |

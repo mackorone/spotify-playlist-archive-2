@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254397,
+  "num_followers": 254411,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAA2+bnGqX5WkL9aeM00zgLJ",
+  "snapshot_id": "apYVgAAAAAAfeuCWOoNr457lw3OSyZ83",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party For Two",
-        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Party For Two - Country Version With Intro",
-      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
+      "duration_ms": 259739,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
     },
     {
       "added_at": null,
@@ -275,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "Party For Two",
+        "url": "https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 259739,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
+      "duration_ms": 212640,
+      "name": "Party For Two - Country Version With Intro",
+      "url": "https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 190349,
-      "name": "Scary Little Thing",
-      "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
+      "duration_ms": 204542,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
     },
     {
       "added_at": null,

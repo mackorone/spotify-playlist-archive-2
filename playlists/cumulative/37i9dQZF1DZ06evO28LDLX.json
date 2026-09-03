@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 93000,
       "name": "13 Pieces for Piano, Op. 76: No. 2, Etude in A Minor",
       "url": "https://open.spotify.com/track/4FWGEOjwmFTauuGNxNtBEc"
@@ -68,6 +68,28 @@
       "duration_ms": 195746,
       "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
       "url": "https://open.spotify.com/track/1wD3kLguJHZFS1je4ULmB9"
+    },
+    {
+      "album": {
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98200,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
+      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
     },
     {
       "album": {
@@ -1306,7 +1328,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
@@ -1657,6 +1679,28 @@
     },
     {
       "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "Abram Chasins",
+          "url": "https://open.spotify.com/artist/0ImTw5L4m3qZFAfT5jp9x1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95333,
+      "name": "Preludes, Book 3, Op. 12: No. 2 in E-Flat Minor. Prelude No. 14",
+      "url": "https://open.spotify.com/track/05glYHCY5r9ptRh3iRFhLq"
+    },
+    {
+      "album": {
         "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
         "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
       },
@@ -1759,7 +1803,7 @@
     },
     {
       "album": {
-        "name": "\"'The Last Tea of Summer: Classical Masterpieces\"",
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
         "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
       },
       "artists": [

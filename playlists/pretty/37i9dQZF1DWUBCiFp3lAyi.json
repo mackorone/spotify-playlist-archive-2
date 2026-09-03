@@ -1,13 +1,49 @@
 {
-  "description": "Your personalized GTA radio station. ",
-  "num_followers": 740580,
+  "description": "Your personalized GTA radio station",
+  "num_followers": 740777,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABnc8UrGICtd6RJHlza3oad+AXG5",
+  "snapshot_id": "AAAAAM55z1Ttcb4HZCLSlWWegOgiX1jy",
   "tracks": [
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Keeping Our Love Warm",
+        "url": "https://open.spotify.com/album/2gmNIveGdMhCIRDvQ3wFiO"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "But I Think It's A Dream",
+      "url": "https://open.spotify.com/track/6mM4FYEtBWaosh60vaJTgh"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 257985,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
@@ -29,6 +65,46 @@
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "5 * Stunna",
+        "url": "https://open.spotify.com/album/6oJupyIaAOMlJHxVn05mBH"
+      },
+      "artists": [
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Pop Bottles - Main",
+      "url": "https://open.spotify.com/track/1kEp3Po9RUPm11N5ITOUWx"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Wallop",
+        "url": "https://open.spotify.com/album/30vJA5TN3zRdN5bfngNfLj"
+      },
+      "artists": [
+        {
+          "name": "!!!",
+          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+        },
+        {
+          "name": "Meah Pace",
+          "url": "https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi"
+        }
+      ],
+      "duration_ms": 228304,
+      "name": "Off The Grid",
+      "url": "https://open.spotify.com/track/4y2OemUjvs15S4oHui3Rv7"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Toto IV",
@@ -45,6 +121,26 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Se Me Nota (Agarrame)",
+        "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Se Me Nota (Agarrame) - Prod by B-One",
+      "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Agent Provocateur",
@@ -59,6 +155,54 @@
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "I'm Nearly Famous",
+        "url": "https://open.spotify.com/album/3zNPtljTj1NPNfs1H4hEqn"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Devil Woman - 2001 Remaster",
+      "url": "https://open.spotify.com/track/29YcYtqUNLWaYvGVGdYtZy"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -129,6 +273,46 @@
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "From Langley Park To Memphis",
+        "url": "https://open.spotify.com/album/4yhZQGEEogCoJ0SZ9RTUrv"
+      },
+      "artists": [
+        {
+          "name": "Prefab Sprout",
+          "url": "https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Cars and Girls",
+      "url": "https://open.spotify.com/track/755cKP6z9tywIgQpAc3cVV"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Pound Town 2",
+      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Please Excuse Me for Being Antisocial",
@@ -165,6 +349,22 @@
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Skrilla",
+        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216189,
+      "name": "Skrilla",
+      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "No More Drama",
@@ -181,6 +381,22 @@
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Toto",
@@ -195,6 +411,26 @@
       "duration_ms": 235552,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "MYCELiUM",
+        "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 193938,
+      "name": "Mine O Mine",
+      "url": "https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -253,6 +489,34 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Besito De Coco",
+      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
+    },
+    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Cassie (U.S. Version)",
@@ -267,6 +531,22 @@
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "added_at": "2026-08-27 21:38:12",
+      "album": {
+        "name": "Some Great Reward (Deluxe)",
+        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "People Are People",
+      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -411,22 +691,6 @@
       "duration_ms": 213293,
       "name": "Cooler Than Me - Single Mix",
       "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -777,26 +1041,6 @@
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
     },
     {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 257985,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
-    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "KIRK",
@@ -985,22 +1229,6 @@
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "Skrilla",
-        "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Skrilla",
-      "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
-    },
-    {
       "added_at": "2025-05-07 20:33:22",
       "album": {
         "name": "Drunk",
@@ -1099,22 +1327,6 @@
       "duration_ms": 221133,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4"
-    },
-    {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1295,22 +1507,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -1327,6 +1523,22 @@
       "duration_ms": 163902,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1411,22 +1623,6 @@
     {
       "added_at": "2025-05-07 20:33:22",
       "album": {
-        "name": "The Works (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Radio Ga Ga - Remastered 2011",
-      "url": "https://open.spotify.com/track/1HmzAZUvhQLhLo2z3ocpZI"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
         "name": "Slow Ride / Save Your Loving (For Me)",
         "url": "https://open.spotify.com/album/26m6IjR3ZAUsYqSekFKqCq"
       },
@@ -1439,6 +1635,22 @@
       "duration_ms": 232533,
       "name": "Slow Ride - Edit",
       "url": "https://open.spotify.com/track/4MYb7NWLwXNDB7bYs3HeX8"
+    },
+    {
+      "added_at": "2025-05-07 20:33:22",
+      "album": {
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 348226,
+      "name": "Radio Ga Ga - Remastered 2011",
+      "url": "https://open.spotify.com/track/1HmzAZUvhQLhLo2z3ocpZI"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1471,26 +1683,6 @@
       "duration_ms": 305573,
       "name": "Keep Their Heads Ringin'",
       "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
-    },
-    {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "Se Me Nota (Agarrame)",
-        "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 175999,
-      "name": "Se Me Nota (Agarrame) - Prod by B-One",
-      "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
     },
     {
       "added_at": "2025-05-07 20:33:22",
@@ -1563,174 +1755,6 @@
       "duration_ms": 232631,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
-    },
-    {
-      "added_at": "2026-08-27 21:38:12",
-      "album": {
-        "name": "Some Great Reward (Deluxe)",
-        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 231973,
-      "name": "People Are People",
-      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 379240,
-      "name": "Freek'n You",
-      "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
-      },
-      "artists": [
-        {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 193574,
-      "name": "Rockstar Made",
-      "url": "https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "A Rock And Roll Alternative",
-        "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
-      },
-      "artists": [
-        {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "So Into You",
-      "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Midnight Madness",
-        "url": "https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs"
-      },
-      "artists": [
-        {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
-        }
-      ],
-      "duration_ms": 302933,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2025-05-07 20:33:22",
-      "album": {
-        "name": "Jesus Piece (Deluxe)",
-        "url": "https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        }
-      ],
-      "duration_ms": 372706,
-      "name": "Ali Bomaye",
-      "url": "https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7"
     }
   ],
   "unique_name": "Grand Theft Auto Radio",

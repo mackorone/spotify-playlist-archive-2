@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42302,
+  "num_followers": 42305,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABLV8Jz9sz+1/euWOG4lGny",
+  "snapshot_id": "apYVgAAAAADH22XNj6FfrnPf4R8veRfi",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -475,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
       "artists": [
         {
@@ -488,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 173102,
-      "name": "Piensa en m\u00ed",
-      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+      "duration_ms": 196733,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 173102,
+      "name": "Piensa en m\u00ed",
+      "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 238508,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Ha Acabado El Show",
         "url": "https://open.spotify.com/album/47J0MUBkFuXodl1OEXrUtc"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 176639,
       "name": "Problemas de Conversaci\u00f3n",
       "url": "https://open.spotify.com/track/0pJCbl4k3pOj5Ld0356kny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "added_at": null,
@@ -779,6 +779,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Como Vez Primera",
+      "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Pueblo Natal",
         "url": "https://open.spotify.com/album/5oxAkfE2d840jRBDCJxsQ5"
       },
@@ -867,42 +903,6 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Como Vez Primera",
-      "url": "https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
     },
     {
       "added_at": null,

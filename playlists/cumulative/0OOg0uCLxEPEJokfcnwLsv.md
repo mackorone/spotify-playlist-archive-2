@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-638 songs - 1 day 15 hr 26 min
+645 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Below](https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Below](https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL) | 3:06 | 2026-05-14 | 2026-06-13 |
 | [Better Than I](https://open.spotify.com/track/2UQHkffxecaIu9irBNoqPD) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Better Than I](https://open.spotify.com/album/75MGG0n4U8VMzlEZ1RqZc3) | 3:48 | 2026-03-14 | 2026-04-20 |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-21 |
+| [Big Time](https://open.spotify.com/track/3RReWov7XbJ0KdVOL58cni) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Big Time](https://open.spotify.com/album/62uHGwqlRgb77KRM8BoGDF) | 2:40 | 2026-09-02 |  |
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-04-20 |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-11-22 |
 | [Bittersweet Coming Of Age](https://open.spotify.com/track/2Sp4dEhMiE81nqNMUhCmA2) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Bittersweet Coming Of Age](https://open.spotify.com/album/2ExvwN1euXuTvZaUH2I7gB) | 3:14 | 2026-08-18 |  |
@@ -185,6 +186,7 @@
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-06-02 | 2026-08-08 |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-11 | 2026-08-08 |
+| [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2026-09-02 |  |
 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 | 2026-08-21 |  |
 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 | 2026-07-13 | 2026-08-08 |
@@ -201,6 +203,7 @@
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-14 | 2026-04-20 |
 | [For the Fire](https://open.spotify.com/track/7zQfGNk4DwN8kQIl33AHqr) | [Carlos Rising](https://open.spotify.com/artist/0BeAuKNzkpVr6w0nLi5tro) | [Amsterdam](https://open.spotify.com/album/6R8qpys0U9x9asDjE94hsE) | 3:37 | 2026-04-06 | 2026-05-08 |
+| [For You To Know](https://open.spotify.com/track/4eNEDn6Woj1DbYUjczHjoU) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [For You To Know](https://open.spotify.com/album/2prG7M5R2oNUfcYEC8IwMo) | 3:29 | 2026-09-02 |  |
 | [Forever And Ever](https://open.spotify.com/track/6FkZz1WwonBHvyu6ytNIux) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Forever And Ever](https://open.spotify.com/album/1Uu9MJvs7qF8meXMwCLPUk) | 4:06 | 2026-02-14 | 2026-03-22 |
 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 | 2026-02-07 | 2026-03-04 |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-18 | 2026-04-20 |
@@ -220,6 +223,7 @@
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [GIGACHUD](https://open.spotify.com/track/5AbUAbLQ0OwGMKUZJbZBIx) | [BLABSCAM!](https://open.spotify.com/artist/1dgobA4FiBSFA4QRWLs6ok) | [GIGACHUD](https://open.spotify.com/album/6mB0mqrpStENY1wcycOV0A) | 3:38 | 2026-04-07 | 2026-05-08 |
 | [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 | 2026-01-31 | 2026-02-23 |
+| [Give Me a Break](https://open.spotify.com/track/55kskxis0fWDhYoCbIWYDo) | [LIGHTNING GUSTO](https://open.spotify.com/artist/3pb57MwbWCOuP4GXMq2ngs) | [Give Me a Break](https://open.spotify.com/album/7LPBeqTDtBKfYsdpyYOF7E) | 4:16 | 2026-09-02 |  |
 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 | 2026-01-29 | 2026-02-23 |
 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 | 2026-06-15 | 2026-08-08 |
 | [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 | 2026-07-08 | 2026-08-08 |
@@ -247,6 +251,7 @@
 | [Hit On Me](https://open.spotify.com/track/0gBFxAmc8lHJGVxN5Mafap) | [Eric Schenkman](https://open.spotify.com/artist/2uqNhcHAzAEwtupvfqFYY4) | [Hit On Me](https://open.spotify.com/album/7qIb2jsBx3hY7faFbZXwas) | 3:27 | 2026-08-14 |  |
 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 | 2026-06-15 | 2026-08-08 |
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
+| [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 | 2026-09-02 |  |
 | [Horsedance](https://open.spotify.com/track/5Kyxld3QBUpL5RzO9ahlBm) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 3:18 | 2026-03-22 | 2026-04-20 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-23 |
 | [Hunt Me Down](https://open.spotify.com/track/0b2RimjmoPFCqXvppAZeAq) | [Forestt Light](https://open.spotify.com/artist/1dQO7ovsxueUnTvuQril35) | [Hunt Me Down](https://open.spotify.com/album/6FdekhGJLX3juBXFgSqyvh) | 3:57 | 2026-04-11 | 2026-05-08 |
@@ -385,6 +390,7 @@
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-12 |
 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 | 2026-03-21 | 2026-04-20 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |
+| [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-09-02 |  |
 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 | 2026-03-11 | 2026-04-20 |
 | [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-05-19 | 2026-08-08 |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2026-01-22 | 2026-02-23 |
@@ -537,6 +543,7 @@
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-06 | 2025-12-28 |
 | [The Hope That Kills You](https://open.spotify.com/track/4oi6vgA4XrcUKRO0N3Y3eq) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [The Hope That Kills You](https://open.spotify.com/album/4jYxKqGVU9hhTp8nwyDHhl) | 4:00 | 2026-04-06 | 2026-05-08 |
 | [The Kingdom](https://open.spotify.com/track/3ajLHTSHgtYmONgZBJjxZi) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Kingdom](https://open.spotify.com/album/1z6kqRlNo0i9j5weIERsa4) | 3:49 | 2026-03-14 | 2026-04-20 |
+| [The Language of the Voiceless](https://open.spotify.com/track/6AOwKeyq9JumLlGlY4fneX) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [The Language of the Voiceless](https://open.spotify.com/album/4aXepZh3p0MkgFp3RC5ymm) | 2:21 | 2026-09-02 |  |
 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 | 2026-05-23 | 2026-08-08 |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 | 2025-12-12 |
 | [The Machine](https://open.spotify.com/track/0EQN4cAunpg9uu30gFolao) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [Transhumanity](https://open.spotify.com/album/3FxMpeI2inW1mXydszcaJ7) | 4:20 | 2026-06-09 | 2026-08-08 |

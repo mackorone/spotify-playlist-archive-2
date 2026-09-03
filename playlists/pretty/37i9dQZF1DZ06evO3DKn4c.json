@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 42230,
+  "num_followers": 42238,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAEAQyHXwCYo/aMzvriDre+",
+  "snapshot_id": "apYVgAAAAADKJ/09WVSc6tliEv6hBKvJ",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 220709,
+      "name": "ZEROVINTEUM - Ao Vivo",
+      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Eu Te Quero (Remix)",
         "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 190476,
       "name": "Como Eu Te Quero - Remix",
       "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 220709,
-      "name": "ZEROVINTEUM - Ao Vivo",
-      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 127 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 128 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,10 +130,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 120 | [Sex With My Ex](https://open.spotify.com/track/4RhgX9IBYVmPze8e7QhV8Q) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 2:08 |
 | 121 | [High School Crush](https://open.spotify.com/track/5O0yQ891oiTFt3fRJzR9yz) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Superghetto](https://open.spotify.com/album/5pwzhZiiGhHgQOUJKbzYuI) | 3:33 |
 | 122 | [Say So](https://open.spotify.com/track/6qUNIQQQXIaUDHjTqzHgGr) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours \(Deluxe Edition\)](https://open.spotify.com/album/18B1n9lvJ7lvu31CMvtBlk) | 3:14 |
-| 123 | [System](https://open.spotify.com/track/77Ylv38EbvWLxQ5ejjAce5) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 3:14 |
-| 124 | [Out Of My Body](https://open.spotify.com/track/5nayW8BHKzHEOvNBqrzw5b) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:37 |
-| 125 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
-| 126 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
-| 127 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
+| 123 | [Prideful](https://open.spotify.com/track/0bNPvOgfRgeDNPE8LIsAjf) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Mood 2](https://open.spotify.com/album/2x4Hsr0LNdwJWXKo9Li0IY) | 3:36 |
+| 124 | [System](https://open.spotify.com/track/77Ylv38EbvWLxQ5ejjAce5) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [C My Side](https://open.spotify.com/album/0yUMVA7aCUTvCt8txudyWp) | 3:14 |
+| 125 | [Out Of My Body](https://open.spotify.com/track/5nayW8BHKzHEOvNBqrzw5b) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:37 |
+| 126 | [Dumb Shit](https://open.spotify.com/track/7jet0y1TxW6Jfyst9rWWYY) | [Good Girl](https://open.spotify.com/artist/7LmBaPNWiMSVoBawL30uQR) | [Good Girl](https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk) | 2:57 |
+| 127 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
+| 128 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcbLCAAAAAAS5oPKMhGgu84lNsZbNboc`
+Snapshot ID: `AcbQvAAAAADnhRL2PsObTnWQa6xZAt5E`

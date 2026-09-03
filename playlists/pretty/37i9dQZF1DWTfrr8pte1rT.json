@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 357014,
+  "num_followers": 357045,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "Badland Bandits",
-        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
       "artists": [
         {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        },
-        {
-          "name": "Stehreo",
-          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 261818,
-      "name": "Badland Bandits",
-      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -1395,18 +1391,22 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+        "name": "Badland Bandits",
+        "url": "https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh"
       },
       "artists": [
         {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Stehreo",
+          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
         }
       ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+      "duration_ms": 261818,
+      "name": "Badland Bandits",
+      "url": "https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "HEADLOCK",
-        "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "HEADLOCK",
-      "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
         "name": "Raise the Dead",
         "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 150000,
       "name": "Raise the Dead",
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
+        "name": "HEADLOCK",
+        "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "HEADLOCK",
+      "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "The Death of Peace of Mind",
-        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "The Death of Peace of Mind",
-      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
         "name": "Unbound",
         "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 227167,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
+        "name": "The Death of Peace of Mind",
+        "url": "https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "The Death of Peace of Mind",
+      "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+        }
+      ],
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 131062,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
-        }
-      ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
+        "name": "Core (That's Who We Are)",
+        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Core (That's Who We Are)",
+      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 276480,
       "name": "Won't Make A Sound",
       "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
-        "name": "Core (That's Who We Are)",
-        "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Core (That's Who We Are)",
-      "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -2111,18 +2111,22 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "Being One",
-        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
+        "name": "Till I Met You",
+        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "good problem",
+          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Being One",
-      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
+      "duration_ms": 195211,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -2147,22 +2151,34 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "Till I Met You",
-        "url": "https://open.spotify.com/album/3CUAAmoJWX9g7EkJvvMFhk"
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "good problem",
-          "url": "https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK"
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 195211,
-      "name": "Till I Met You",
-      "url": "https://open.spotify.com/track/67XgQqWDwFbnP256WayxaG"
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -2187,18 +2203,26 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 255448,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -2243,30 +2267,6 @@
       "duration_ms": 175533,
       "name": "ANTIDOTE (FT. PIXEL GRIP) - AMORTAL RMX",
       "url": "https://open.spotify.com/track/3YnnPZM0mVpfbWydph1pDR"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
-        }
-      ],
-      "duration_ms": 255448,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
     },
     {
       "added_at": "2026-08-28 16:54:11",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-08-28 16:54:11",
       "album": {
-        "name": "New Levels New Devils",
-        "url": "https://open.spotify.com/album/2vjlI71jNRspIA9bH6R9IO"
-      },
-      "artists": [
-        {
-          "name": "Vastive",
-          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
-        }
-      ],
-      "duration_ms": 236130,
-      "name": "No Tomorrow",
-      "url": "https://open.spotify.com/track/7g3cLta2W7pmhPpgUAuKm3"
-    },
-    {
-      "added_at": "2026-08-28 16:54:11",
-      "album": {
         "name": "Bad Blood (Weird Genius Remix)",
         "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 197334,
       "name": "Bad Blood - Weird Genius Remix",
       "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
+    },
+    {
+      "added_at": "2026-08-28 16:54:11",
+      "album": {
+        "name": "New Levels New Devils",
+        "url": "https://open.spotify.com/album/2vjlI71jNRspIA9bH6R9IO"
+      },
+      "artists": [
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "duration_ms": 236130,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/7g3cLta2W7pmhPpgUAuKm3"
     },
     {
       "added_at": "2026-08-28 16:54:11",

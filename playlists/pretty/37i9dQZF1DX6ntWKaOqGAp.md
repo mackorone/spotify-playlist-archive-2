@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Chilli Beans\. + WurtS + PEOPLE1
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,123 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,130 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 18 | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/track/35N1r1X3vzTs5hIk42SPBR) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA) | [POISON feat\. Bert McCracken \(The Used\)](https://open.spotify.com/album/1a2lPzj5stWhiIOnftpyGD) | 3:35 |
 | 19 | [DALALA](https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [HOOMAN AFTER ALL](https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA) | 3:37 |
 | 20 | [Conduct Boogie](https://open.spotify.com/track/6OFQGVZ3eE0AkaxMHG2rGJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [Conduct Boogie](https://open.spotify.com/album/3IbUUIZyAnYyGHLZAmJ53C) | 4:13 |
-| 21 | [Track 1](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 0:00 |
+| 21 | [Happy](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 2:34 |
 | 22 | [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/2T0PkwQizLJNcOstG1ssam) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/4b432huYiZYsf9N5IYzglh) | 3:05 |
 | 23 | [Kaiju \(Cornelius Remix\)](https://open.spotify.com/track/4vZi1bZHSGZIb0bJQ3MLy9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Kaiju](https://open.spotify.com/album/27G3mod0rNxBGT9iF7ILLp) | 4:22 |
 | 24 | [Brand New Drive](https://open.spotify.com/track/2mGu7s8aM1z0YiGMbAIiBs) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb), [BOOM BOOM SATELLITES](https://open.spotify.com/artist/0vCGPbugjEi38T41ZHny1o) | [Brand New Drive](https://open.spotify.com/album/5t284c101U8dGiMVUDiRB0) | 3:37 |

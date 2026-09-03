@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
-  "num_followers": 215833,
+  "num_followers": 215887,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADGOFaIvFGJyvYHd5nXamTBAdGU",
+  "snapshot_id": "AAAAAG1NaM+w6XZt0q3fEjQYu4FSnTZ/",
   "tracks": [
     {
       "added_at": "2026-08-19 21:18:18",
@@ -25,100 +25,56 @@
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
     },
     {
-      "added_at": "2026-08-26 04:00:40",
+      "added_at": "2026-09-02 04:00:31",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/2TRhWuDOHZWfrZ5zzPD0EX"
-      },
-      "artists": [
-        {
-          "name": "Lover1k",
-          "url": "https://open.spotify.com/artist/77efs8tCHubvpIe3kVO2xK"
-        }
-      ],
-      "duration_ms": 167260,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/6lKU5z4ArKo235u0A6l5O9"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
-        "name": "Bring That Beat Back EP",
-        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
-      },
-      "artists": [
-        {
-          "name": "AMMIL",
-          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Bring That Beat Back",
-      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Body Movin'",
-        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
-      },
-      "artists": [
-        {
-          "name": "Fede Aliprandi",
-          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Body Movin'",
-      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
-    },
-    {
-      "added_at": "2026-08-19 21:18:18",
-      "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/3K1gukcMs6t6MSLCabvw3J"
+        "name": "Pile Up",
+        "url": "https://open.spotify.com/album/1VbaE3ZQQmZj0lqkZQeHXn"
       },
       "artists": [
         {
           "name": "Marshall James",
           "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        },
+        {
+          "name": "RISCAT",
+          "url": "https://open.spotify.com/artist/6goXtuLYgacfLbAxCq0oye"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
+      "duration_ms": 200643,
+      "name": "Pile Up",
+      "url": "https://open.spotify.com/track/0M1pZHTJEJOIou6Tutsq4p"
     },
     {
-      "added_at": "2026-08-14 04:02:31",
+      "added_at": "2026-09-02 04:00:31",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+        "name": "Watching Me",
+        "url": "https://open.spotify.com/album/2cAVThPltJrgKROgd4KcPB"
       },
       "artists": [
         {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+          "name": "Miro (AR)",
+          "url": "https://open.spotify.com/artist/13uRSbjdNhmJbQwpUCtqYJ"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+      "duration_ms": 192723,
+      "name": "Watching Me",
+      "url": "https://open.spotify.com/track/2a28OspY80WeudpFUro4wq"
     },
     {
-      "added_at": "2026-08-28 04:02:08",
+      "added_at": "2026-07-17 17:46:34",
       "album": {
-        "name": "All Good",
-        "url": "https://open.spotify.com/album/07KWdd7cL7c9ND8ejvm8Dd"
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
       },
       "artists": [
         {
-          "name": "Monty Kiddo",
-          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
         }
       ],
-      "duration_ms": 191484,
-      "name": "All Good",
-      "url": "https://open.spotify.com/track/3Mvx9wNXSzt0n6TEkpUpEv"
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -141,20 +97,20 @@
       "url": "https://open.spotify.com/track/5QmbZ6OnYXw3eJygZUek5Z"
     },
     {
-      "added_at": "2026-08-26 04:00:40",
+      "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "tell me",
-        "url": "https://open.spotify.com/album/6zde0TP0x20Q9z2e0BsPzK"
+        "name": "Luire",
+        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
       },
       "artists": [
         {
-          "name": "Ell Murphy",
-          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
         }
       ],
-      "duration_ms": 221679,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/240zAucIXXbMEmjOyUbWTM"
+      "duration_ms": 218500,
+      "name": "Luire",
+      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -173,20 +129,188 @@
       "url": "https://open.spotify.com/track/0Gsa1ebyIITbwDHamhnpu2"
     },
     {
-      "added_at": "2026-08-28 04:02:08",
+      "added_at": "2026-09-02 04:00:31",
       "album": {
-        "name": "Luire",
-        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
+        "name": "Dancing With The Unknown",
+        "url": "https://open.spotify.com/album/2sRKHWY18joMLcf1PtEgDB"
       },
       "artists": [
         {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+          "name": "Blossom Hill",
+          "url": "https://open.spotify.com/artist/1XDRiF92Udd46NuFLTKnIb"
+        },
+        {
+          "name": "aint about me",
+          "url": "https://open.spotify.com/artist/0pRD3uRIaAwqUvvD1lOkMK"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Luire",
-      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
+      "duration_ms": 228632,
+      "name": "Dancing With The Unknown",
+      "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
+    },
+    {
+      "added_at": "2026-09-02 04:00:31",
+      "album": {
+        "name": "Am I Dreaming",
+        "url": "https://open.spotify.com/album/6Kyr2QhnMkRUrhybeydroX"
+      },
+      "artists": [
+        {
+          "name": "Poolhaus",
+          "url": "https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH"
+        },
+        {
+          "name": "Beni Hana",
+          "url": "https://open.spotify.com/artist/44rxbtF6zmfO67zyCwN3xU"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Am I Dreaming",
+      "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
+    },
+    {
+      "added_at": "2026-08-14 04:02:31",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "CATCH YA",
+        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        }
+      ],
+      "duration_ms": 211775,
+      "name": "CATCH YA",
+      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/3K1gukcMs6t6MSLCabvw3J"
+      },
+      "artists": [
+        {
+          "name": "Marshall James",
+          "url": "https://open.spotify.com/artist/76aDPQCAHJf4bi6V4txlcD"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
+    },
+    {
+      "added_at": "2026-07-31 04:02:23",
+      "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "Bring That Beat Back EP",
+        "url": "https://open.spotify.com/album/5BBoOvEVtKqaHkTDAJnx8N"
+      },
+      "artists": [
+        {
+          "name": "AMMIL",
+          "url": "https://open.spotify.com/artist/3XwQvXkDOp65KYlqbluet9"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Bring That Beat Back",
+      "url": "https://open.spotify.com/track/3VyrgdbuNii6he47vV6Ryr"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "tell me",
+        "url": "https://open.spotify.com/album/6zde0TP0x20Q9z2e0BsPzK"
+      },
+      "artists": [
+        {
+          "name": "Ell Murphy",
+          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
+        }
+      ],
+      "duration_ms": 221679,
+      "name": "tell me",
+      "url": "https://open.spotify.com/track/240zAucIXXbMEmjOyUbWTM"
+    },
+    {
+      "added_at": "2026-08-26 04:00:40",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/2TRhWuDOHZWfrZ5zzPD0EX"
+      },
+      "artists": [
+        {
+          "name": "Lover1k",
+          "url": "https://open.spotify.com/artist/77efs8tCHubvpIe3kVO2xK"
+        }
+      ],
+      "duration_ms": 167260,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/6lKU5z4ArKo235u0A6l5O9"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/07KWdd7cL7c9ND8ejvm8Dd"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/3Mvx9wNXSzt0n6TEkpUpEv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Body Movin'",
+        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
+      },
+      "artists": [
+        {
+          "name": "Fede Aliprandi",
+          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Body Movin'",
+      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -203,22 +327,6 @@
       "duration_ms": 188769,
       "name": "fast lane",
       "url": "https://open.spotify.com/track/6Ve4d45O3jQpGvnTcStJpQ"
-    },
-    {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
-      },
-      "artists": [
-        {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -271,22 +379,6 @@
       "duration_ms": 173700,
       "name": "C\u00c1LLATE",
       "url": "https://open.spotify.com/track/6rfCMskYfxYB4gpF74AhKw"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "CATCH YA",
-        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
-      },
-      "artists": [
-        {
-          "name": "Sweatbaby",
-          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
-        }
-      ],
-      "duration_ms": 211775,
-      "name": "CATCH YA",
-      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
     },
     {
       "added_at": "2026-08-19 21:18:18",
@@ -355,22 +447,6 @@
       "duration_ms": 200000,
       "name": "Bad B$tch",
       "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "MEDIA DOME",
-        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        }
-      ],
-      "duration_ms": 218436,
-      "name": "MEDIA DOME",
-      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -533,22 +609,6 @@
       "url": "https://open.spotify.com/track/5QuiMSE8sWvGQ60RxUSvET"
     },
     {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
-        "name": "ID",
-        "url": "https://open.spotify.com/album/4HArTcixlcIpIla56geDfK"
-      },
-      "artists": [
-        {
-          "name": "Visage Music",
-          "url": "https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Onda 7",
-      "url": "https://open.spotify.com/track/3yvInCfyjakgmH50cXrE70"
-    },
-    {
       "added_at": "2026-08-14 04:02:31",
       "album": {
         "name": "This Feeling",
@@ -665,22 +725,6 @@
       "url": "https://open.spotify.com/track/3zXVt7y4i6iCnF0PBx1VrW"
     },
     {
-      "added_at": "2026-08-06 01:55:50",
-      "album": {
-        "name": "Smash Chick",
-        "url": "https://open.spotify.com/album/4AKHFXK9KpAG9HywfOfB9a"
-      },
-      "artists": [
-        {
-          "name": "eta",
-          "url": "https://open.spotify.com/artist/2FSu23hGhue4feJAI3hqhH"
-        }
-      ],
-      "duration_ms": 197109,
-      "name": "Smash Chick",
-      "url": "https://open.spotify.com/track/2Wu0SaCGEmQne7A2ul3cBn"
-    },
-    {
       "added_at": "2026-07-30 05:08:29",
       "album": {
         "name": "Rip",
@@ -727,22 +771,6 @@
       "duration_ms": 103285,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "I Can Make You (Feel Good)",
-        "url": "https://open.spotify.com/album/50fpfB18IwpOUz3RjhDqc1"
-      },
-      "artists": [
-        {
-          "name": "Scott Steer",
-          "url": "https://open.spotify.com/artist/2nVUMUFQECMKMRaCdMTO4z"
-        }
-      ],
-      "duration_ms": 151153,
-      "name": "I Can Make You (Feel Good)",
-      "url": "https://open.spotify.com/track/4fSpdl5JM3CCMt9v8SJUCu"
     },
     {
       "added_at": "2026-08-06 01:55:50",

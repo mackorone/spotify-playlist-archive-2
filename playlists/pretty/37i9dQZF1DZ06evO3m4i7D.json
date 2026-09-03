@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2162,
+  "num_followers": 2161,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAA6MBlOcy/QnG5uMVvYs8s7",
+  "snapshot_id": "apYVgAAAAADAcBrALpFJJMu6/l2BOQkM",
   "tracks": [
     {
       "added_at": null,
@@ -287,34 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 146779,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mafioso Americano",
         "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
       },
@@ -339,6 +311,34 @@
       "duration_ms": 142501,
       "name": "Mafioso Americano",
       "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 146779,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/3rzb50l98jMMGriN7naWwJ"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 181042,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/1CufANCImsdinwKJHgROkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bachata B\u00e9lica",
         "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 195100,
       "name": "Bachata B\u00e9lica",
       "url": "https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/3rzb50l98jMMGriN7naWwJ"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 181042,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/1CufANCImsdinwKJHgROkO"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tirando Flow Sesh #9",
         "url": "https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 187297,
       "name": "Tirando Flow Sesh #9",
       "url": "https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,
@@ -1008,21 +1008,21 @@
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         },
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         }
       ],
-      "duration_ms": 225770,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/6TxFFqTpYaQMCWBeLTWOFF"
+      "duration_ms": 166592,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
     },
     {
       "added_at": null,
@@ -1112,21 +1112,21 @@
       },
       "artists": [
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         },
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 166592,
-      "name": "Decidete",
-      "url": "https://open.spotify.com/track/3A4r41uCKsFt8DKYLZuHuZ"
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/6TxFFqTpYaQMCWBeLTWOFF"
     }
   ],
   "unique_name": "This Is Eugenio Esquivel",

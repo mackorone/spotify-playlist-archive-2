@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMWhmtzXlJA0Ednk9SYe1pvskpb3Yj",
+  "snapshot_id": "AAAMXLtIoT49OKojlUZgW2GvHplX+498",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -1551,6 +1551,46 @@
       "duration_ms": 188873,
       "name": "Just My Style",
       "url": "https://open.spotify.com/track/0usJsw64exL53A5maMb5V2"
+    },
+    {
+      "added_at": "2026-09-02 12:48:18",
+      "album": {
+        "name": "Jazzromad",
+        "url": "https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu"
+      },
+      "artists": [
+        {
+          "name": "Behnam Zandieh",
+          "url": "https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt"
+        },
+        {
+          "name": "Mohammad Ali Teimouri",
+          "url": "https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI"
+        },
+        {
+          "name": "Dara Teymoorifar",
+          "url": "https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ"
+        }
+      ],
+      "duration_ms": 293983,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/39QWoXuLCF0CLpIJacmNEJ"
+    },
+    {
+      "added_at": "2026-09-02 21:08:06",
+      "album": {
+        "name": "Igniter",
+        "url": "https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy"
+      },
+      "artists": [
+        {
+          "name": "Flamebearer",
+          "url": "https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq"
+        }
+      ],
+      "duration_ms": 296133,
+      "name": "Electric Haze",
+      "url": "https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

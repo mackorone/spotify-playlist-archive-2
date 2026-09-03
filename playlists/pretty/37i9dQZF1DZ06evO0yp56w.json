@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 842688,
+  "num_followers": 842752,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADPkEsRjCAnSlfNXfVp8Tsp",
+  "snapshot_id": "apYVgAAAAAAq1BtERL6V+MvREuLkqGjt",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 268108,
-      "name": "Shimmering Scars",
-      "url": "https://open.spotify.com/track/7bRLb9t0fR0xBJvtnuhwpw"
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/7vZ9v4c0ft0ro30awMw32V"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 301825,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/7vZ9v4c0ft0ro30awMw32V"
+      "duration_ms": 268108,
+      "name": "Shimmering Scars",
+      "url": "https://open.spotify.com/track/7bRLb9t0fR0xBJvtnuhwpw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,733 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,883 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 45 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 | 46 | [Smile](https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj) | [The Untouchable](https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx) | 5:00 |
 | 47 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
-| 48 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
-| 49 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Runnin' \(Dying To Live\)](https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7) | 2:49 |
+| 48 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Runnin' \(Dying To Live\)](https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7) | 2:49 |
+| 49 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
 | 50 | [Living in Pain \(feat\. 2Pac, Mary J\. Blige & Nas\)](https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Duets: The Final Chapter](https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG) | 4:01 |
 
-Snapshot ID: `apTEAAAAAADlw4oGvJSnjeaLu2eAJYpw`
+Snapshot ID: `apYVgAAAAADuzHMsbcXaoPyK8zjt6JEj`

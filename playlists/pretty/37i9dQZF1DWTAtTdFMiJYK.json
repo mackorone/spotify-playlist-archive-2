@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Temsu Clover",
-  "num_followers": 200579,
+  "num_followers": 200666,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2026-08-24 11:00:22",
       "album": {
-        "name": "Marham",
-        "url": "https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa"
-      },
-      "artists": [
-        {
-          "name": "Divyam Sodhi",
-          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
-        },
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Aditi Raj",
-          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Marham",
-      "url": "https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo"
-    },
-    {
-      "added_at": "2026-08-24 11:00:22",
-      "album": {
         "name": "Dil Se",
         "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 215333,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK"
+    },
+    {
+      "added_at": "2026-08-24 11:00:22",
+      "album": {
+        "name": "Marham",
+        "url": "https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa"
+      },
+      "artists": [
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Aditi Raj",
+          "url": "https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Marham",
+      "url": "https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo"
     },
     {
       "added_at": "2026-08-24 11:00:22",

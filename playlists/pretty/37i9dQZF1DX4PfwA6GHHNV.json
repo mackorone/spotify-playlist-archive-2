@@ -539,6 +539,26 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -855,22 +855,26 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+        "name": "A Beira Mar",
+        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
       },
       "artists": [
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "Jhayam",
+          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
         },
         {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+          "name": "Zeferina",
+          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
+        },
+        {
+          "name": "D3jav\u00fa",
+          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+      "duration_ms": 228735,
+      "name": "A Beira Mar",
+      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -899,30 +903,6 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "A Beira Mar",
-        "url": "https://open.spotify.com/album/3aNKW005bNZTANO5mEAO7N"
-      },
-      "artists": [
-        {
-          "name": "Jhayam",
-          "url": "https://open.spotify.com/artist/4Ekm84CINBTMHbhVJXh16I"
-        },
-        {
-          "name": "Zeferina",
-          "url": "https://open.spotify.com/artist/0R5sBkXY9VEYCpsheNOiDr"
-        },
-        {
-          "name": "D3jav\u00fa",
-          "url": "https://open.spotify.com/artist/06T09O5s3kk54TE8jrCngJ"
-        }
-      ],
-      "duration_ms": 228735,
-      "name": "A Beira Mar",
-      "url": "https://open.spotify.com/track/0LqjYe7SBezeZEDvnC2USH"
-    },
-    {
-      "added_at": "2026-08-21 17:34:08",
-      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -943,8 +923,28 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "Ol\u00e9, Ol\u00e9!",
-        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2026-08-21 17:34:08",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 164016,
-      "name": "Ol\u00e9, Ol\u00e9!",
-      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
     },
     {
       "added_at": "2026-08-21 17:34:08",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2026-08-21 17:34:08",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+        "name": "Ol\u00e9, Ol\u00e9!",
+        "url": "https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
+      "duration_ms": 164016,
+      "name": "Ol\u00e9, Ol\u00e9!",
+      "url": "https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B"
     },
     {
       "added_at": "2026-08-21 17:34:08",

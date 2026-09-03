@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,564 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,596 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 3 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 4 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 |
 | 5 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 |
-| 6 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 |
+| 6 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [OneWithHVN](https://open.spotify.com/artist/5VoX2wDxa5iWxKAG6tPU8x) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 |
 | 7 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 |
 | 8 | [Calling Me](https://open.spotify.com/track/5Y9cG6hrxIMkTGni30CIhg) | [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5) | [Calling Me](https://open.spotify.com/album/2MqG9x4guev6QaA81GsgdB) | 3:10 |
 | 9 | [Away](https://open.spotify.com/track/69H77ocZO6UYHvNxUWP83K) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Away](https://open.spotify.com/album/6ncylqbI9Uxpd8hEy6Mya5) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Jxggi
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,050 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,109 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 44 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 |
 | 45 | [Bonafide](https://open.spotify.com/track/3rsiE2E0c87GG3UrkQ9Avy) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 3:45 |
 | 46 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
-| 47 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:52 |
+| 47 | [God’s Favorite \(feat\. Sultaan\)](https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:54 |
 | 48 | [Jatt Don’t Care](https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [BIG Ghuman](https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG) | [Jatt Don’t Care](https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk) | 3:24 |
 | 49 | [Ace](https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Chapter IV](https://open.spotify.com/album/3RRSy7ypBCuUbPorgw6bO7) | 2:45 |
 | 50 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 |

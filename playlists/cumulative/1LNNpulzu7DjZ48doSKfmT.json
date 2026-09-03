@@ -10627,6 +10627,28 @@
     },
     {
       "album": {
+        "name": "rap playground.",
+        "url": "https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs"
+      },
+      "artists": [
+        {
+          "name": "Dope TAF",
+          "url": "https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz"
+        },
+        {
+          "name": "southpaw",
+          "url": "https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133972,
+      "name": "keep fighting.",
+      "url": "https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP"
+    },
+    {
+      "album": {
         "name": "I'm From Africa",
         "url": "https://open.spotify.com/album/5CMvHn6oy2Xk8YyuoSniqh"
       },

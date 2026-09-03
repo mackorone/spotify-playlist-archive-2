@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Nippa and Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,079 likes - 209 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,075 likes - 209 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

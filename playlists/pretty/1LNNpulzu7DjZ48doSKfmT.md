@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 411 songs - 21 hr 26 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 412 songs - 21 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -419,5 +419,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 409 | [BLEED FOR YOU](https://open.spotify.com/track/0EG9iOzgbqHWoQBRZNcN0x) | [HUSAM4SUDAN](https://open.spotify.com/artist/2NGWHehBrZ0HMQ9DNwcNIZ) | [BLEED FOR YOU](https://open.spotify.com/album/3iiXnHbeC0NOGq6CXHvKp9) | 3:17 |
 | 410 | [Alta Rotação](https://open.spotify.com/track/1lG27Q90rY4LdimFOoNKhz) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [Pindorama](https://open.spotify.com/album/6vsv76JvrLRiRPed7Cq400) | 1:42 |
 | 411 | [Work It](https://open.spotify.com/track/4BzouO8SJUHpMiE5mvM2cv) | [Tony Blame](https://open.spotify.com/artist/0bDNPyUJPuO1AXKNTDU2Xc), [Cbass](https://open.spotify.com/artist/2i3goSd4yk5j3dfc17rjlC) | [Work It](https://open.spotify.com/album/7Il9crNJ3w0KRBao1o0KlV) | 3:04 |
+| 412 | [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 |
 
-Snapshot ID: `AAAetH82ZQhZJ3K2FjotSOZyGMlam07r`
+Snapshot ID: `AAAetSKA3VrpeZW+m1WqKaNSRykz8Joj`

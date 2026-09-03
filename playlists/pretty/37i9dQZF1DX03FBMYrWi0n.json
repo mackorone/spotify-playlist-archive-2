@@ -1,6 +1,6 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: F\u00e9lix Collin",
-  "num_followers": 9860,
+  "num_followers": 9900,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Bon Enfant",
-        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
+        "name": "2TH",
+        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Bouvier Normal",
+          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
         }
       ],
-      "duration_ms": 270174,
-      "name": "Magie",
-      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
+      "duration_ms": 160680,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "2TH",
-        "url": "https://open.spotify.com/album/0b0ruOKOLou5EeWPy1bu7O"
+        "name": "Bon Enfant",
+        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
       },
       "artists": [
         {
-          "name": "Bouvier Normal",
-          "url": "https://open.spotify.com/artist/2G8gEx2sMExNaXJVyy7nCp"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/6G0uN4xFNscQUhIVcx937i"
+      "duration_ms": 270174,
+      "name": "Magie",
+      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Tigre et diesel",
-        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
       },
       "artists": [
         {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Piste 1",
-      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
+      "duration_ms": 254053,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
+        "name": "Tigre et diesel",
+        "url": "https://open.spotify.com/album/2SYQmPgnHQKQaNFFUDB59A"
       },
       "artists": [
         {
-          "name": "Antoine Corriveau",
-          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/75uP9bwpxidn9hSIBGfzG9"
+      "duration_ms": 191213,
+      "name": "Piste 1",
+      "url": "https://open.spotify.com/track/01mnEMxeVCcPQAroyE6ZTM"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
+        "name": "Doldrums, Doldrums, Eviler Than the Devil",
+        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
+      },
+      "artists": [
+        {
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+        }
+      ],
+      "duration_ms": 367386,
+      "name": "Doldrums, Doldrums, Eviler Than the Devil",
+      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+    },
+    {
+      "added_at": "2026-09-01 17:42:10",
+      "album": {
         "name": "Machine Machine",
         "url": "https://open.spotify.com/album/7ajRgpHXmtywk7gHERZcKJ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 198000,
       "name": "Corps (feat. Lou-Adriane Cassidy)",
       "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
-    },
-    {
-      "added_at": "2026-09-01 17:42:10",
-      "album": {
-        "name": "Doldrums, Doldrums, Eviler Than the Devil",
-        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
-      },
-      "artists": [
-        {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
-        }
-      ],
-      "duration_ms": 367386,
-      "name": "Doldrums, Doldrums, Eviler Than the Devil",
-      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Barking at the Sun",
-        "url": "https://open.spotify.com/album/2QdxdM7ixA51zndGOco3gW"
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
       },
       "artists": [
         {
-          "name": "No Joy",
-          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
         }
       ],
-      "duration_ms": 309410,
-      "name": "Barking at the Sun",
-      "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
+      "duration_ms": 187693,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -859,6 +859,22 @@
       "duration_ms": 137379,
       "name": "M\u00e9t\u00e9ore",
       "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
+    },
+    {
+      "added_at": "2026-09-01 17:42:10",
+      "album": {
+        "name": "Barking at the Sun",
+        "url": "https://open.spotify.com/album/2QdxdM7ixA51zndGOco3gW"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        }
+      ],
+      "duration_ms": 309410,
+      "name": "Barking at the Sun",
+      "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -883,18 +899,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Bad News",
-        "url": "https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND"
+        "name": "LUNGS! LUNGS! LUNGS!",
+        "url": "https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp"
       },
       "artists": [
         {
-          "name": "Les Shirley",
-          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+          "name": "kaiiser",
+          "url": "https://open.spotify.com/artist/5rmDs0edkn7z69Jv7oIuD3"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW"
+      "duration_ms": 146086,
+      "name": "LUNGS! LUNGS! LUNGS!",
+      "url": "https://open.spotify.com/track/3N9LF2YaRFiCzOuXO8I6DA"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -915,18 +931,18 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "LUNGS! LUNGS! LUNGS!",
-        "url": "https://open.spotify.com/album/4758fSvElutPcrpl3FIGVp"
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
       },
       "artists": [
         {
-          "name": "kaiiser",
-          "url": "https://open.spotify.com/artist/5rmDs0edkn7z69Jv7oIuD3"
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
         }
       ],
-      "duration_ms": 146086,
-      "name": "LUNGS! LUNGS! LUNGS!",
-      "url": "https://open.spotify.com/track/3N9LF2YaRFiCzOuXO8I6DA"
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -1027,8 +1043,8 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "FYORE",
-        "url": "https://open.spotify.com/album/4XFFIR3gmzFqROrZak8ndg"
+        "name": "JENNY",
+        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
       },
       "artists": [
         {
@@ -1036,25 +1052,9 @@
           "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
         }
       ],
-      "duration_ms": 124315,
-      "name": "FYORE",
-      "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
-    },
-    {
-      "added_at": "2026-09-01 17:42:10",
-      "album": {
-        "name": "PROTOTYPE",
-        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
-      },
-      "artists": [
-        {
-          "name": "Madior",
-          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "PROTOTYPE",
-      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+      "duration_ms": 185384,
+      "name": "JENNY",
+      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -1107,8 +1107,24 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "JENNY",
-        "url": "https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf"
+        "name": "virer doux",
+        "url": "https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 253741,
+      "name": "virer doux",
+      "url": "https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK"
+    },
+    {
+      "added_at": "2026-09-01 17:42:10",
+      "album": {
+        "name": "FYORE",
+        "url": "https://open.spotify.com/album/4XFFIR3gmzFqROrZak8ndg"
       },
       "artists": [
         {
@@ -1116,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk"
         }
       ],
-      "duration_ms": 185384,
-      "name": "JENNY",
-      "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
+      "duration_ms": 124315,
+      "name": "FYORE",
+      "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
     },
     {
       "added_at": "2026-09-01 17:42:10",
@@ -1175,26 +1191,6 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
-        "name": "Neon Love",
-        "url": "https://open.spotify.com/album/0k5L5Me4LeMQbTJqJ97W2w"
-      },
-      "artists": [
-        {
-          "name": "Belgrave",
-          "url": "https://open.spotify.com/artist/6n2l0Y44SoAw3wU8wQlhVz"
-        },
-        {
-          "name": "laye",
-          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Neon Love",
-      "url": "https://open.spotify.com/track/1GQsaeaG3UvSvHdP4LHt9p"
-    },
-    {
-      "added_at": "2026-09-01 17:42:10",
-      "album": {
         "name": "AMII.0-RW000 Vol. II",
         "url": "https://open.spotify.com/album/1BgFnh2VeWj4L3yT3Aomor"
       },
@@ -1215,6 +1211,26 @@
     {
       "added_at": "2026-09-01 17:42:10",
       "album": {
+        "name": "Neon Love",
+        "url": "https://open.spotify.com/album/0k5L5Me4LeMQbTJqJ97W2w"
+      },
+      "artists": [
+        {
+          "name": "Belgrave",
+          "url": "https://open.spotify.com/artist/6n2l0Y44SoAw3wU8wQlhVz"
+        },
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Neon Love",
+      "url": "https://open.spotify.com/track/1GQsaeaG3UvSvHdP4LHt9p"
+    },
+    {
+      "added_at": "2026-09-01 17:42:10",
+      "album": {
         "name": "Demain minuit",
         "url": "https://open.spotify.com/album/3CPxTfaD77jkBWtXHKaldt"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 189540,
       "name": "Demain minuit",
       "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
-    },
-    {
-      "added_at": "2026-09-01 17:42:10",
-      "album": {
-        "name": "The Cost of Freedom",
-        "url": "https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy"
-      },
-      "artists": [
-        {
-          "name": "Koko Love",
-          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
-        }
-      ],
-      "duration_ms": 210681,
-      "name": "The Cost of Freedom",
-      "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"
     }
   ],
   "unique_name": "ALT_QC",

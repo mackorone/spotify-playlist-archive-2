@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJhXD/VX2AS5VYgfJZ7WIZFknFo0YO",
+  "snapshot_id": "AAAJi13H/vg6epLOIN97REHVQmf8lgXw",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12917,26 +12917,6 @@
       "url": "https://open.spotify.com/track/2Q4cjzlPGdjR869Z512sFS"
     },
     {
-      "added_at": "2026-08-26 04:05:58",
-      "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-        }
-      ],
-      "duration_ms": 124551,
-      "name": "GONE FISHING",
-      "url": "https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz"
-    },
-    {
       "added_at": "2026-08-30 05:24:18",
       "album": {
         "name": "A Duck's Water Off My Back",
@@ -12991,6 +12971,38 @@
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
+    },
+    {
+      "added_at": "2026-09-02 17:12:13",
+      "album": {
+        "name": "Junkie in The Sun",
+        "url": "https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw"
+      },
+      "artists": [
+        {
+          "name": "Deante' Hitchcock",
+          "url": "https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH"
+        }
+      ],
+      "duration_ms": 226525,
+      "name": "Junkie In The Sun",
+      "url": "https://open.spotify.com/track/2sJEw4to3z7kW0Q82OsuI9"
+    },
+    {
+      "added_at": "2026-09-02 17:14:40",
+      "album": {
+        "name": "IT'S BEEN AWFUL",
+        "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "THE NEW SUBLIME",
+      "url": "https://open.spotify.com/track/5G5PVQTylw22ClQKIlXpto"
     }
   ],
   "unique_name": "Zacklog",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,294 songs - 2 day 23 hr 40 min
+1,295 songs - 2 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Glass Souls](https://open.spotify.com/track/4bXajrbi7CKAuOGlZcXB97) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Glass Souls](https://open.spotify.com/album/0ADnJKIlDDtKo0wfK237YH) | 3:00 | 2025-08-05 | 2025-10-29 |
 | [Go Stupid](https://open.spotify.com/track/08cSrWKeWhO6gHL3E3l0c6) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Go Stupid](https://open.spotify.com/album/1Ff3Kx4DU8dSoHwRK38yDt) | 2:27 | 2024-09-16 | 2024-12-07 |
 | [GO!](https://open.spotify.com/track/4jkpRIW7PGnMc6wQHfRof4) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [HAPPY TO BE HERE](https://open.spotify.com/album/6kvhLgVUAb6AAeapXz56mF) | 2:21 | 2025-08-15 | 2025-11-07 |
+| [Godlike](https://open.spotify.com/track/2uwSzzTj13c6U465vnvwVP) | [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa), [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Godlike](https://open.spotify.com/album/2P5gFzufCAkZLeP2qjCmwK) | 7:55 | 2026-09-02 |  |
 | [GODSP33D](https://open.spotify.com/track/2vwUVTnCuiAuIV0VyeGubZ) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/1OKa68xmBjB5L5kLFtYTPP) | 3:51 | 2022-03-28 | 2022-06-09 |
 | [Going Under](https://open.spotify.com/track/4b3tHFus0ulksoyDpSrGYY) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Going Under](https://open.spotify.com/album/18qd9Qz8xCZzTnsWnHkp7v) | 2:41 | 2025-03-31 | 2025-06-24 |
 | [Golden](https://open.spotify.com/track/6jMonGirFrktmZJtzL9p1v) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Golden](https://open.spotify.com/album/0qwAAkozsllq8QcGddgi24) | 3:34 | 2023-03-08 | 2023-05-31 |

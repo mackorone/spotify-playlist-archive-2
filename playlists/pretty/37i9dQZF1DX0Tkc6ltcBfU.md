@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,930 likes - 108 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,944 likes - 108 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26610,
+  "num_followers": 26613,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -675,30 +675,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "\u6fc0\u30a2\u30c4",
-        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
-      },
-      "artists": [
-        {
-          "name": "NENE",
-          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
-        },
-        {
-          "name": "DADA",
-          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
-        },
-        {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
-        }
-      ],
-      "duration_ms": 241089,
-      "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
-      "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "YW",
         "url": "https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "\u6fc0\u30a2\u30c4",
+        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "duration_ms": 241089,
+      "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
+      "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "POP KILLERS (feat. ralph)",
-        "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
       },
       "artists": [
         {
-          "name": "C.O.S.A.",
-          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
         }
       ],
-      "duration_ms": 159620,
-      "name": "POP KILLERS (feat. ralph)",
-      "url": "https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC"
+      "duration_ms": 110500,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

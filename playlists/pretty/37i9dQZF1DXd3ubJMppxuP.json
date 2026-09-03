@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 89242,
+  "num_followers": 89256,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,30 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
+        "name": "Nachtploeg",
+        "url": "https://open.spotify.com/album/6OVxbg643wTH5UJEUvqAM7"
+      },
+      "artists": [
+        {
+          "name": "WESCALATIE",
+          "url": "https://open.spotify.com/artist/5v8NhwxY9vLSXmoLLBIobl"
+        },
+        {
+          "name": "Plug 'N Play",
+          "url": "https://open.spotify.com/artist/7xAAlwRVRtOa3HpIlkd0zd"
+        },
+        {
+          "name": "Brian More",
+          "url": "https://open.spotify.com/artist/00biMyvE4rPEAahqphKmrZ"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Nachtploeg",
+      "url": "https://open.spotify.com/track/3rnMF97GYbD1ikfs7kegRE"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
         "name": "Van Goes Tot Purmerend (Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix)",
         "url": "https://open.spotify.com/album/6eauvU44jAYmb66jXi3ZMS"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 150193,
       "name": "Van Goes Tot Purmerend - Altijd Larstig & Rob Gasd'rop en FeestDJRuud Remix",
       "url": "https://open.spotify.com/track/5M0ngOXI5ivJW4UJq5FwsS"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
-        "name": "Nachtploeg",
-        "url": "https://open.spotify.com/album/6OVxbg643wTH5UJEUvqAM7"
-      },
-      "artists": [
-        {
-          "name": "WESCALATIE",
-          "url": "https://open.spotify.com/artist/5v8NhwxY9vLSXmoLLBIobl"
-        },
-        {
-          "name": "Plug 'N Play",
-          "url": "https://open.spotify.com/artist/7xAAlwRVRtOa3HpIlkd0zd"
-        },
-        {
-          "name": "Brian More",
-          "url": "https://open.spotify.com/artist/00biMyvE4rPEAahqphKmrZ"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Nachtploeg",
-      "url": "https://open.spotify.com/track/3rnMF97GYbD1ikfs7kegRE"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
+        "name": "Ik Kom Eraan",
+        "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
+      },
+      "artists": [
+        {
+          "name": "DJ Galaga",
+          "url": "https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ"
+        },
+        {
+          "name": "Feestteam",
+          "url": "https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Ik Kom Eraan",
+      "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
         "name": "Als De Morgen Is Gekomen (Remix)",
         "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 156692,
       "name": "Ons Moeder Zeej Nog - Special Krew Total Loss Remix",
       "url": "https://open.spotify.com/track/2rDH1NyPLSfhg6USrQ0IvK"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
-        "name": "Ik Kom Eraan",
-        "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
-      },
-      "artists": [
-        {
-          "name": "DJ Galaga",
-          "url": "https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ"
-        },
-        {
-          "name": "Feestteam",
-          "url": "https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Ik Kom Eraan",
-      "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
     },
     {
       "added_at": "2026-06-25 22:00:27",

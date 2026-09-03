@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 68963,
+  "num_followers": 68996,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Flor Sinque\u00f1a",
+          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -344,13 +360,13 @@
       },
       "artists": [
         {
-          "name": "Flor Sinque\u00f1a",
-          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
+          "name": "El Comunero de Los Andes",
+          "url": "https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
+      "duration_ms": 159453,
+      "name": "Triste Enamorado",
+      "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -367,22 +383,6 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "El Comunero de Los Andes",
-          "url": "https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Triste Enamorado",
-      "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Canto Natural del Ande",
+        "url": "https://open.spotify.com/album/2DvR3oevJSf8Hc8xuSoYWL"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal G\u00f3mez G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3Aj7SozLnhoezL3I4kjyW7"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Huaylla Ichu",
+      "url": "https://open.spotify.com/track/1tW0fte6lqArX11vd3rQyW"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "La princesa del Folklore",
         "url": "https://open.spotify.com/album/45hG14f1YCGyg1ezB97HlR"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 353044,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/58nfDdDxlUH5Bz8UYn6Cso"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Olv\u00eddame",
-        "url": "https://open.spotify.com/album/0i9FcKBWpzLO6HoST7sY1O"
-      },
-      "artists": [
-        {
-          "name": "String Karma",
-          "url": "https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Cajamarquina",
-      "url": "https://open.spotify.com/track/4TV3DDrm1RixW2HT7lQLeC"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

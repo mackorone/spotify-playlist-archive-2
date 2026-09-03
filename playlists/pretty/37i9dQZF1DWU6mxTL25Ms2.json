@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 64542,
+  "num_followers": 64568,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,26 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.2 \u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6OsHfe5rmpFicRsAXJG14K"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
+          "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        },
+        {
+          "name": "\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "\u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1EqOLdIBv1wo4nSTa6TUZq"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
       },
@@ -1395,22 +1415,6 @@
     {
       "added_at": "2026-08-27 15:00:03",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
-          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
         "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 11 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d"
       },
@@ -1455,6 +1459,22 @@
       "duration_ms": 264653,
       "name": "\u6d99\u3072\u304b\u3063\u3066\u660e\u65e5\u306b\u306a\u308c\uff01",
       "url": "https://open.spotify.com/track/69OVmLUUE7t2iYhqxJe6A8"
+    },
+    {
+      "added_at": "2026-08-27 15:00:03",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
+          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "\u7d20\u9854\u306e\u30b3\u30b3\u30ed - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/0DR97BDr6AAP4sPJA0DjVv"
     },
     {
       "added_at": "2026-08-27 15:00:03",
@@ -2047,30 +2067,6 @@
       "duration_ms": 231960,
       "name": "Exercise the Right",
       "url": "https://open.spotify.com/track/3T8u1Vk2gt9Sz6aSUXwfUh"
-    },
-    {
-      "added_at": "2026-08-27 15:00:03",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 02 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/6Jxt4fzFmb8mF5Cp93Lghx"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30bc\u30f3\u30b9\u30ad\u30fc (CV. Lynn)",
-          "url": "https://open.spotify.com/artist/1paNo3kCz5gqipianX1AtZ"
-        },
-        {
-          "name": "\u30d5\u30b8\u30ad\u30bb\u30ad (CV. \u677e\u4e95\u6075\u7406\u5b50)",
-          "url": "https://open.spotify.com/artist/4Ng0mjHT8kVWzhMwrAEef0"
-        },
-        {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "UNLIMITED IMPACT - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/2rGyXPq85Vwk6nGt8jyuuc"
     }
   ],
   "unique_name": "Umamusume: Pretty Derby",

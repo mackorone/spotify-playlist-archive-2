@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:45TgXXqMDdF8BkjA83OM7z">Rod Wave</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,487 likes - 156 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,488 likes - 156 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26688,
+  "num_followers": 26687,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "El\u00e4m\u00e4 jatkuu",
+        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "El\u00e4m\u00e4 jatkuu",
+      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "MMG",
         "url": "https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "El\u00e4m\u00e4 jatkuu",
-        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
-      },
-      "artists": [
-        {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "El\u00e4m\u00e4 jatkuu",
-      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
     },
     {
       "added_at": "2026-05-08 04:10:15",

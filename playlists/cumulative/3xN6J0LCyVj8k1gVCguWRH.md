@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,499 songs - 15 day 3 hr 41 min
+6,500 songs - 15 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Arrebatados \- Remastered](https://open.spotify.com/track/5LF0Fmah8CdewlMramfE1f) | [Frequencia 7.0](https://open.spotify.com/artist/4WbdQp6mZknXTsnJTXAMKY) | [Arrebatados \(Remastered\)](https://open.spotify.com/album/3GL03gBH0J3FP4HNI2SNzb) | 3:59 | 2026-08-30 |  |
 | [Arrepentido](https://open.spotify.com/track/44qfmtPl20faKh9SZFDFak) | [Gerina](https://open.spotify.com/artist/7gsw0J4ej0rwNl3Pk7D2d4) | [Arrepentido](https://open.spotify.com/album/6fXx9DWb3C6lFEfQA4Sb2b) | 3:12 | 2025-03-23 | 2025-04-04 |
 | [Arthur Ingram](https://open.spotify.com/track/6t4oyrotAyLDwWlhffQpIo) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Arthur Ingram](https://open.spotify.com/album/0jo9ww5AIg3RchxVtwmQXL) | 4:30 | 2021-10-23 | 2021-11-07 |
+| [Artificial Accent](https://open.spotify.com/track/5ShRptd2eBkINWDp1vp0Ig) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [Artificial Accent](https://open.spotify.com/album/2yGEz0WLrJxUQbddNtJk0e) | 2:45 | 2026-09-02 |  |
 | [As I Am](https://open.spotify.com/track/6hRrzZJ90DNQdEF1Wu2Mrf) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:00 | 2020-08-20 | 2023-08-28 |
 | [as i walk thru the path](https://open.spotify.com/track/1D7jqFLEVZGqpm4yPgxLnp) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [GAULTIER](https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH) | 1:56 | 2023-03-31 | 2023-04-23 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-07-05 | 2023-12-30 |

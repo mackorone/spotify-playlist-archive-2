@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-74 songs - 3 hr 42 min
+75 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Florida \- \(Intro\)](https://open.spotify.com/track/0HwcjUFHUepCdJW1Jnr6m9) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 1:49 | 2025-08-06 |  |
 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 | 2023-12-13 |  |
 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 | 2023-12-13 |  |
+| [HELADO DE VAINILLA](https://open.spotify.com/track/4cCbCySUOY2clxklPwYrP3) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [HELADO DE VAINILLA](https://open.spotify.com/album/0mztN93rqGPPKrsbdicQgG) | 3:09 | 2026-09-02 |  |
 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 | 2025-12-17 |  |
 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 | 2023-12-13 | 2025-12-07 |
 | [Intro](https://open.spotify.com/track/5xVZHX0fgjwFymxMukikAf) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:30 | 2025-12-06 |  |

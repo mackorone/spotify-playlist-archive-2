@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 > The biggest hits from the 2000s and 2010s! Cover: The Black Eyed Peas
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 19,219 likes - 80 songs - 4 hr 59 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 19,216 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
-| 2 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 1 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
+| 2 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 3 | [Promiscuous](https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:02 |
 | 4 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
 | 5 | [Super Bass](https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday \(Complete Edition\)](https://open.spotify.com/album/7aADdYLiK1z7GlMFr0UIZw) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 | 79 | [Summer Girl](https://open.spotify.com/track/6H2kYBCW4eUGxL4sFN4XRE) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:45 |
 | 80 | [Throw Ya Hands Up \- Feat\. Jhevon Paris](https://open.spotify.com/track/6RcpTSqRtG7ljMO2WXXbqa) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo), [Jhevon Paris](https://open.spotify.com/artist/1QZ2JMUuLIwMjVNUE29juM) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:42 |
 
-Snapshot ID: `AAAPZIsE19p2M7BtPcteYhce3X/gY98M`
+Snapshot ID: `AAAPZzmrgeYBYhTEeCgBdctAvuXp7GuA`

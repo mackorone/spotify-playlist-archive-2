@@ -1,6 +1,6 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 218968,
+  "num_followers": 219002,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 196622,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Closer To The Floor",
         "url": "https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
       },
       "artists": [
         {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1259,6 +1243,22 @@
       "duration_ms": 176949,
       "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
+      },
+      "artists": [
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Contesto",
-        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
-      },
-      "artists": [
-        {
-          "name": "Massuma",
-          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
-        },
-        {
-          "name": "DOSAMIS",
-          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Contesto",
-      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Control Of Me (feat. Daecolm)",
         "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 195291,
       "name": "Control Of Me (feat. Daecolm)",
       "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Contesto",
+        "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
+      },
+      "artists": [
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "DOSAMIS",
+          "url": "https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Contesto",
+      "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Magic In The Air",
-        "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Magic System",
-          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
-        },
-        {
-          "name": "Chawki",
-          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
-        }
-      ],
-      "duration_ms": 167804,
-      "name": "Magic In The Air",
-      "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A"
       },
@@ -1703,22 +1679,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "What I Want Is You",
-        "url": "https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O"
+        "name": "Magic In The Air",
+        "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Fireball",
-          "url": "https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg"
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Chawki",
+          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
         }
       ],
-      "duration_ms": 142449,
-      "name": "What I Want Is You",
-      "url": "https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs"
+      "duration_ms": 167804,
+      "name": "Magic In The Air",
+      "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1747,6 +1727,26 @@
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "What I Want Is You",
+        "url": "https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Fireball",
+          "url": "https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg"
+        }
+      ],
+      "duration_ms": 142449,
+      "name": "What I Want Is You",
+      "url": "https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "It's So Nice (ft. 3DDY)",
-      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 202000,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "It's So Nice (ft. 3DDY)",
+      "url": "https://open.spotify.com/track/0lhVb3ubfHEWTCGZGceVrX"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Dotr",
-        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Break The Loop",
         "url": "https://open.spotify.com/album/4vePum8kXeh1BFpsZuBzl7"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 226874,
       "name": "Break The Loop",
       "url": "https://open.spotify.com/track/6okZichvWNkRXxxPYbtJl1"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Dotr",
+        "url": "https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -2043,6 +2043,30 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Elegibo",
         "url": "https://open.spotify.com/album/4YypLcBdTBCc7xpyc0MGd4"
       },
@@ -2067,30 +2091,6 @@
       "duration_ms": 151475,
       "name": "Elegibo",
       "url": "https://open.spotify.com/track/3IugKG1BvQJTnK9KviDdpV"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "mohalizer",
-          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -2139,6 +2139,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG"
       },
@@ -2155,30 +2175,6 @@
       "duration_ms": 196000,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Unjust",
-        "url": "https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Madmix",
-          "url": "https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt"
-        },
-        {
-          "name": "Toshi",
-          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Unjust",
-      "url": "https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0"
     }
   ],
   "unique_name": "Mykonos Calling",

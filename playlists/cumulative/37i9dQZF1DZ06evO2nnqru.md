@@ -4,7 +4,7 @@
 
 > This is Marca MP\. The essential tracks, all in one playlist.
 
-144 songs - 7 hr 36 min
+145 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [ENHORABUENA](https://open.spotify.com/track/266FV3mJ1pAaPh03o76MzD) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 3:23 | 2025-02-23 | 2025-04-22 |
 | [Era Una Obsesión](https://open.spotify.com/track/3dBVtmUtlfjmG8gQzW3qAW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:16 | 2024-02-03 | 2024-03-03 |
 | [Escuela de la Vida \- En vivo](https://open.spotify.com/track/1dkVY6IUehZkOojMTDobOe) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 2:04 | 2022-06-01 | 2023-05-27 |
+| [Fino](https://open.spotify.com/track/5bMcrPmz2hxyUpZzUiNych) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Fino](https://open.spotify.com/album/1Yk23LsU2ZPNScnJo2R9bn) | 2:40 | 2026-09-03 |  |
 | [Guason](https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:11 | 2025-11-02 | 2026-03-23 |
 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 | 2023-05-24 |  |
 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 | 2025-08-02 |  |
@@ -110,7 +111,7 @@
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-06-01 |  |
 | [Rios Por Apellido \- En vivo](https://open.spotify.com/track/6AY4yiKt405DygjNOXWDAK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:04 | 2022-06-01 | 2022-12-25 |
 | [Rose Coke](https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Rose Coke](https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII) | 2:46 | 2024-10-05 |  |
-| [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 |  |
+| [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 | 2022-06-01 | 2026-09-03 |
 | [Saliste De Mi Mente](https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:50 | 2022-07-30 | 2022-08-24 |
 | [SE FUE MI AMOR](https://open.spotify.com/track/0kWaKFQeq9IbnKhfR2oxTP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [ONLY ENAMORADOS](https://open.spotify.com/album/2mEvV18XEfAwIT73TiO8dU) | 3:31 | 2025-02-28 | 2025-04-03 |
 | [Se Me Olvidaba \- En Vivo](https://open.spotify.com/track/0hldpWDIy3DcupZ0Swu4p8) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 3:35 | 2024-06-09 | 2024-06-10 |

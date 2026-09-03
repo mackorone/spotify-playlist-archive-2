@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Ishjot dhammi, Diljit Sidhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,265 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,272 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 58 | [Love Me Tomorrow](https://open.spotify.com/track/2pJbinioXWMsbigNyG4ssr) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Amrit Randhawa](https://open.spotify.com/artist/3rDsVH9W3JfU3JuGX7wZux) | [Karta Na Ohi Kamm](https://open.spotify.com/album/4uYQLberG1eJrPfvqJlBti) | 2:59 |
 | 59 | [Count Up](https://open.spotify.com/track/0HrvMctFuMdDnZeD4ijw5s) | [Hairat Aulakh](https://open.spotify.com/artist/2NoWAo6B7GYkhnst4yz4yh), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [O'Clock](https://open.spotify.com/album/6kAdQwCiTiB02wVnG4tvt1) | 3:13 |
 | 60 | [Tere Utte](https://open.spotify.com/track/0MruIf4S5qdOD1j5GZaR9m) | [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP), [Sam Malhi](https://open.spotify.com/artist/325CacP4L0R2VaghEMgsOg), [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv) | [Tere Utte](https://open.spotify.com/album/7gJhbtNpecX33xYkkykmxB) | 2:08 |
-| 61 | [Identity](https://open.spotify.com/track/5XSrQZfOXVDdgsU2RyoVew) | [Hukam Grewal](https://open.spotify.com/artist/6Z1wk2UpA2FvhmqvDztoAJ) | [Identity](https://open.spotify.com/album/3EwcgIVB0yVekvRlcRwS84) | 2:44 |
+| 61 | [Identity](https://open.spotify.com/track/5XSrQZfOXVDdgsU2RyoVew) | [Hukam Grewal](https://open.spotify.com/artist/3Ul9bcv32tvMWRptReSBcs) | [Identity](https://open.spotify.com/album/3EwcgIVB0yVekvRlcRwS84) | 2:44 |
 | 62 | [PB36 Anthem](https://open.spotify.com/track/4REW2PGwXifTMprxtrkqJO) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [PB36 Anthem](https://open.spotify.com/album/2SDmvvajibFcqxJgWUmvQV) | 3:06 |
 | 63 | [Selfmade](https://open.spotify.com/track/3k8bEDfJY5Hdu7d4UNGmzT) | [Krma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Selfmade](https://open.spotify.com/album/6SOSv6oER9YEXYe6pFkYhN) | 2:31 |
 | 64 | [Naami Saami](https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naami Saami](https://open.spotify.com/album/1owoBBslNJR4DMUuby4x6N) | 2:39 |

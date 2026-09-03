@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 2690,
+  "num_followers": 2704,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "We Might Even Be Falling In Love (Duet)",
         "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet)",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
     },
     {
       "added_at": "2024-07-15 19:31:50",

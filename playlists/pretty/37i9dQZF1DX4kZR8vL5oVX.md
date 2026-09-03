@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Maëlle \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,983 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,953 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blonde platine](https://open.spotify.com/track/3sU65b2ANAkIrGMjuHSQmt) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Blonde platine](https://open.spotify.com/album/0xfgbrCdqW6wpXid5ho2vG) | 2:52 |
+| 1 | [Fantôme](https://open.spotify.com/track/1dXmY7ZSzHsoUiCF3rqKZU) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Fantôme](https://open.spotify.com/album/6cIGmqjMMudjFxGzNANdhP) | 2:40 |
 | 2 | [Il pleut](https://open.spotify.com/track/02XWDXNvhrhWXAyt5dS7wF) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Emilie Simon](https://open.spotify.com/album/0LBqnZ4gu82Ke7OkKzVDys) | 3:28 |
 | 3 | [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 |
 | 4 | [Abeille](https://open.spotify.com/track/5Hk29P3GetpOAu7fgQQyki) | [Darlingchouchou](https://open.spotify.com/artist/7yqZQGO6ZBlWdjPjjbJOgL) | [Abeille](https://open.spotify.com/album/7fPJGTe2gZQxIJRdDB5fxS) | 2:05 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 39 | [Comment faire](https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Comment faire](https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG) | 2:54 |
 | 40 | [MÉLANGÉ](https://open.spotify.com/track/41lNUNNATNWnW44H3QG0VN) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [MÉLANGÉ](https://open.spotify.com/album/08oPslm1X7q3yZxPTbGXbp) | 2:31 |
 
-Snapshot ID: `AAAAAE+I6iHAXGH8GkqsDGiMwcFY8i53`
+Snapshot ID: `AAAAALTi03K/wiQMrHxfTEy5wmUS06bU`

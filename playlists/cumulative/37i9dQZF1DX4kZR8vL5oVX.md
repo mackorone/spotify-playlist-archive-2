@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Playlist réalisée avec Maëlle \(du titre \#1 au \#15\)\. Les titres \#16 à \#40 regroupent notre sélection des meilleures nouveautés des artistes francophones.
 
-2,113 songs - 4 day 13 hr 7 min
+2,114 songs - 4 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Bleu](https://open.spotify.com/track/51cHrMRO22Vl3nru9cMm19) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Bleu](https://open.spotify.com/album/5t1svgyCGlv4EZohCCokSp) | 2:50 | 2023-08-01 | 2023-09-06 |
 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 | 2024-06-04 | 2024-08-07 |
 | [Blonde](https://open.spotify.com/track/7hiZSlGcCy8YLeHVsJjyNL) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Blonde](https://open.spotify.com/album/7cikiDel3bgFZLtStaDY7c) | 3:20 | 2022-09-06 | 2022-10-05 |
-| [Blonde platine](https://open.spotify.com/track/3sU65b2ANAkIrGMjuHSQmt) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Blonde platine](https://open.spotify.com/album/0xfgbrCdqW6wpXid5ho2vG) | 2:52 | 2026-09-01 |  |
+| [Blonde platine](https://open.spotify.com/track/3sU65b2ANAkIrGMjuHSQmt) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Blonde platine](https://open.spotify.com/album/0xfgbrCdqW6wpXid5ho2vG) | 2:52 | 2026-09-01 | 2026-09-03 |
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-12-03 | 2025-01-08 |
 | [Blue](https://open.spotify.com/track/0zMSLABV6KfnWvczaflsce) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Blue](https://open.spotify.com/album/6ITvMudbZkQWn9BqfypNl2) | 3:47 | 2022-05-03 | 2022-06-01 |
 | [Blue](https://open.spotify.com/track/6STofxXw6EZjaQVcIEdrJa) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Tôt ou tard \- 25 ans](https://open.spotify.com/album/7Eq9q37hMOOdviQrxlVsRg) | 2:45 | 2022-01-05 | 2022-02-02 |
@@ -600,6 +600,7 @@
 | [family and friends](https://open.spotify.com/track/2z1RDRMFL2Vy4AfXCxCGzQ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 2:56 | 2025-09-02 | 2025-10-01 |
 | [Fan2moi](https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 3:10 | 2025-12-02 | 2026-01-15 |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-08-02 | 2022-09-07 |
+| [Fantôme](https://open.spotify.com/track/1dXmY7ZSzHsoUiCF3rqKZU) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Fantôme](https://open.spotify.com/album/6cIGmqjMMudjFxGzNANdhP) | 2:40 | 2026-09-02 |  |
 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-04-02 | 2026-04-01 |
 | [Fashionista](https://open.spotify.com/track/747tXUosf24taPFSdrNWOa) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Fashionista](https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo) | 2:32 | 2024-12-03 | 2025-01-08 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2026-05-05 | 2026-06-03 |

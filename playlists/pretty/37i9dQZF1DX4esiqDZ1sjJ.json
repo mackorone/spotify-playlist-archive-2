@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 388982,
+  "num_followers": 389007,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "How You Sell Soul to a Soulless People Who Sold Their Soul?",
+        "url": "https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 249521,
+      "name": "Harder Than You Think",
+      "url": "https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Narco",
         "url": "https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 208634,
       "name": "Narco",
       "url": "https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "How You Sell Soul to a Soulless People Who Sold Their Soul?",
-        "url": "https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 249521,
-      "name": "Harder Than You Think",
-      "url": "https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr"
     },
     {
       "added_at": "2024-07-15 15:51:37",

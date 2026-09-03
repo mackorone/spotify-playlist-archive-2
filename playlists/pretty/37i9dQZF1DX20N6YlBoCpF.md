@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Juanita du Plessis, Franja du Plessis, Ruan Josh, Francois van Coke, Zaan Sonnekus en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,325 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,323 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

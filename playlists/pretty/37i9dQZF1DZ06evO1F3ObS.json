@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22620,
+  "num_followers": 22625,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAMWJeE7krGIMgsU/ShEpVK",
+  "snapshot_id": "apYVgAAAAAAQaogH/dao77DiQwyINR+T",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "GG",
-      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Debris",
         "url": "https://open.spotify.com/album/3s0NegKIyNZbvXrH4oRxDT"
       },
@@ -431,6 +415,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "GG",
+        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "time",
+        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
       },
@@ -459,42 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "time",
-        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
-      },
-      "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "time",
-      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e(Special Edition)",
-        "url": "https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 288973,
-      "name": "\u3058\u3083\u3042\u306a",
-      "url": "https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -515,6 +499,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
+        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "\u4e0a\u3092\u3061\u3087\u3063\u3068\u3060\u3051\u5411\u3044\u3066\u6b69\u3053\u3046",
+      "url": "https://open.spotify.com/track/4atUZrdGp0UPlTnfCgUo2P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e(Special Edition)",
+        "url": "https://open.spotify.com/album/2pD99uEeXY3dmF9nFqhCFU"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 288973,
+      "name": "\u3058\u3083\u3042\u306a",
+      "url": "https://open.spotify.com/track/5P5VnHLh7dXkfeX36AT5hL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u751f\u547d\u63db\u88c5",
         "url": "https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo"
       },
@@ -527,6 +543,42 @@
       "duration_ms": 340940,
       "name": "\u751f\u547d\u63db\u88c5",
       "url": "https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
+        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        },
+        {
+          "name": "Annacoto",
+          "url": "https://open.spotify.com/artist/614M6cLKA9Vfd9Fc3EJPmY"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "\u30a2\u30f3\u30ca\u30b3\u30c8",
+      "url": "https://open.spotify.com/track/6l0oc82Nj37smSKVdWfylF"
     },
     {
       "added_at": null,
@@ -547,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VITA",
-        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
       },
       "artists": [
         {
@@ -556,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 306586,
-      "name": "VITA",
-      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+      "duration_ms": 315898,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
       "added_at": null,
@@ -583,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 315898,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
@@ -611,22 +647,6 @@
       "duration_ms": 249741,
       "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
       "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
-        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "\u4e0a\u3092\u3061\u3087\u3063\u3068\u3060\u3051\u5411\u3044\u3066\u6b69\u3053\u3046",
-      "url": "https://open.spotify.com/track/4atUZrdGp0UPlTnfCgUo2P"
     },
     {
       "added_at": null,
@@ -647,6 +667,22 @@
       "duration_ms": 211116,
       "name": "Girls Don't Cry",
       "url": "https://open.spotify.com/track/3A6XjtqGw7A6PY9dLepDH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
+        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 318533,
+      "name": "\u6557\u8d70",
+      "url": "https://open.spotify.com/track/5AZrJILoAIwoJO1knIntpp"
     },
     {
       "added_at": null,
@@ -683,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
-        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        },
-        {
-          "name": "Annacoto",
-          "url": "https://open.spotify.com/artist/614M6cLKA9Vfd9Fc3EJPmY"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "\u30a2\u30f3\u30ca\u30b3\u30c8",
-      "url": "https://open.spotify.com/track/6l0oc82Nj37smSKVdWfylF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ELZA2",
         "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
       },
@@ -716,25 +732,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
-        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 341773,
-      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
-      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
+      "duration_ms": 242533,
+      "name": "\u30cf\u30ec\u30eb\u30e4",
+      "url": "https://open.spotify.com/track/1bc2mLIibf9Id7DuQFWCmp"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 262666,
       "name": "\u602a\u7269\u306e\u8a69",
       "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 341773,
+      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
+      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
     },
     {
       "added_at": null,
@@ -784,25 +800,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 242533,
-      "name": "\u30cf\u30ec\u30eb\u30e4",
-      "url": "https://open.spotify.com/track/1bc2mLIibf9Id7DuQFWCmp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
-        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "\u6557\u8d70",
-      "url": "https://open.spotify.com/track/5AZrJILoAIwoJO1knIntpp"
+      "duration_ms": 227266,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6VlPH5gZxmk5tdRJzAl6Aa"
     },
     {
       "added_at": null,
@@ -843,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELZA2",
-        "url": "https://open.spotify.com/album/77kWDy49o3hwlERoAyHFPG"
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
       "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 217483,
-      "name": "Oh UnHappy Day",
-      "url": "https://open.spotify.com/track/1vD9wJjZfEV0171Bmi9R5f"
+      "duration_ms": 272604,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm"
     }
   ],
   "unique_name": "This Is ReoNa",

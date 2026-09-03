@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247,567 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,618 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 85 | [Reset \(feat\. Killa P\)](https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Wall\-To\-Wall](https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga) | 2:51 |
 | 86 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
 | 87 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
-| 88 | [3am \- Nic Vans Remix](https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Nic Vans](https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4) | [3am \- Nic Vans Remix](https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol) | 2:44 |
-| 89 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 |
+| 88 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 |
+| 89 | [3am \- Nic Vans Remix](https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Nic Vans](https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4) | [3am \- Nic Vans Remix](https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol) | 2:44 |
 | 90 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 |
 | 91 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
 | 92 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |

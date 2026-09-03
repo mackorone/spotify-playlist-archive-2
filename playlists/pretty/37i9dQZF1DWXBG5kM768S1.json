@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 81448,
+  "num_followers": 81447,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Og s\u00e5 kom resten av livet",
-        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 311453,
-      "name": "E du nord",
-      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -123,6 +123,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Og s\u00e5 kom resten av livet",
+        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "E du nord",
+      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Berre meg",
         "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -275,6 +259,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+      },
+      "artists": [
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 231334,
       "name": "T\u00e5rnet",
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -307,22 +323,6 @@
       "duration_ms": 230973,
       "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     },
     {
       "added_at": "2026-03-12 23:00:43",

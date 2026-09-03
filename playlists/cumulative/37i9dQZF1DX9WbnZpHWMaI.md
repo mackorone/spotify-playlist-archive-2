@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Chloé Caillet .
 
-904 songs - 2 day 7 hr 34 min
+905 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-03-01 | 2024-04-19 |
 | [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-11 | 2025-05-24 |
 | [earth is turning](https://open.spotify.com/track/7KjOz66DevrG6RQ6pNctYs) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [earth is turning](https://open.spotify.com/album/3tzBTHessiL43I9BZTsvU7) | 4:49 | 2026-04-24 | 2026-07-04 |
+| [Eat Ur Heart Out](https://open.spotify.com/track/3lt7ZqkryK8qsdBDIR6DGV) | [Swordes](https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb) | [Eat Ur Heart Out](https://open.spotify.com/album/5WSkaSg5qxrxDOsnbJlWC0) | 4:54 | 2026-09-02 |  |
 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 | 2021-03-01 | 2024-03-02 |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-16 | 2024-10-26 |
 | [Edges](https://open.spotify.com/track/6rCOPBfIps93Z7PsgFStDA) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Dreamer+](https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P) | 3:22 | 2026-01-16 | 2026-05-02 |
@@ -249,7 +250,7 @@
 | [eye2eye](https://open.spotify.com/track/4nKxTKPJSkzXXMejtKX5AZ) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [eye2eye](https://open.spotify.com/album/1fzpbonK64lzqOqHhl5RZi) | 3:18 | 2026-08-21 |  |
 | [EZ 4 Me](https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [EZ 4 Me](https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg) | 3:00 | 2026-02-20 | 2026-07-11 |
 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-20 | 2025-04-05 |
-| [Fables and Fairytales](https://open.spotify.com/track/58YhpGdQZGxc2Q01r5ZfPZ) | [Fiene](https://open.spotify.com/artist/2zFDfGYMbAjqdLGcc8YcvJ) | [\[SHELF005\] \- Dream](https://open.spotify.com/album/0jjsIJRU6JZFa7WaNk8oLT) | 6:11 | 2026-07-03 |  |
+| [Fables and Fairytales](https://open.spotify.com/track/58YhpGdQZGxc2Q01r5ZfPZ) | [Fiene](https://open.spotify.com/artist/2zFDfGYMbAjqdLGcc8YcvJ) | [\[SHELF005\] \- Dream](https://open.spotify.com/album/0jjsIJRU6JZFa7WaNk8oLT) | 6:11 | 2026-07-03 | 2026-09-03 |
 | [FACE IN ICE](https://open.spotify.com/track/2XxOiXJVFypLC7mlCtBofY) | [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [FACE IN ICE](https://open.spotify.com/album/1SGyDGdrTjWMgQYhU1931s) | 4:04 | 2025-10-24 | 2026-04-25 |
 | [Faded](https://open.spotify.com/track/1MfJtq7aSFeEGGYbOPEcDu) | [Jesabel](https://open.spotify.com/artist/1hbXMN5DALO8IblEjSJw2I), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Faded](https://open.spotify.com/album/3Jfd8GnovPnM0b0LLt34DM) | 3:42 | 2024-05-03 | 2024-07-13 |
 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 | 2026-05-08 | 2026-08-08 |

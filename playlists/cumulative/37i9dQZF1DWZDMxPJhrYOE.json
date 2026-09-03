@@ -10579,6 +10579,24 @@
     },
     {
       "album": {
+        "name": "Hvor du er",
+        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
+      },
+      "artists": [
+        {
+          "name": "dreng&piger",
+          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145778,
+      "name": "Hvor du er",
+      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
+    },
+    {
+      "album": {
         "name": "Hvor Solen Ik' Skinner",
         "url": "https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m"
       },
@@ -14012,7 +14030,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 160760,
       "name": "LYKKEPILLER",
       "url": "https://open.spotify.com/track/0nIUgeJdqdPpP4phYp72my"

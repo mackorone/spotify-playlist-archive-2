@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,686 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,688 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 61 | [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 |
 | 62 | [L.I.V.S.](https://open.spotify.com/track/5dnVk8IL27hW6EXeDPu41g) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [L.I.V.S.](https://open.spotify.com/album/3q5vd1ThAm2XrvKwJMTTAT) | 3:15 |
 | 63 | [MANE](https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [MANE](https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H) | 3:17 |
-| 64 | [Oh U Nasty \(feat\. Lola Brooke & Mariahlynn\)](https://open.spotify.com/track/6Ooy9C7mGDTof2CvRaQoB7) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Mariahlynn](https://open.spotify.com/artist/4jk4lxjwNCDVIwHyCrUmlk) | [Summer 26](https://open.spotify.com/album/1JhVD3vcTRBpE5Fw2W6GUs) | 3:16 |
+| 64 | [Oh U Nasty \(feat\. Lola Brooke\)](https://open.spotify.com/track/6Ooy9C7mGDTof2CvRaQoB7) | [Compton Av](https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM), [Natalie Nunn](https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Summer 26](https://open.spotify.com/album/1JhVD3vcTRBpE5Fw2W6GUs) | 2:53 |
 | 65 | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ) | 3:27 |
 | 66 | [Living Large](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 2:28 |
 | 67 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |

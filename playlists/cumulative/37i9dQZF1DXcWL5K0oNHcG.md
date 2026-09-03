@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Jazz](https://open.spotify.com/playlist/37i9dQZF1DXcWL5K0oNHcG)
 
-> Fresh jazz by independent artists every Wednesday\. Cover: Pritesh Walia\. Artwork: Joy Yamusangie.
+> Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-1,674 songs - 5 day 10 hr 39 min
+1,675 songs - 5 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Dreamers](https://open.spotify.com/track/6WhDlglJbrXX374pJMB0nQ) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Dreamers](https://open.spotify.com/album/4f39CM8TAd2CWRQK4hn9NK) | 5:28 | 2022-11-30 | 2023-01-12 |
 | [Drive](https://open.spotify.com/track/3XeppK1Ja55D2FdyRKJgVG) | [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Drive](https://open.spotify.com/album/5PFa6NUTgHV64U712umZq9) | 5:48 | 2025-04-30 | 2026-04-23 |
 | [Drive](https://open.spotify.com/track/77DalJNITo1rpICJmkS1mE) | [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Time Traveler](https://open.spotify.com/album/60LBEifvmDMVY1KWEKlGzp) | 5:48 | 2025-12-03 | 2026-01-15 |
-| [Drive Z](https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Drive Z](https://open.spotify.com/album/3SPIk7QWbbQ2WqG2kGr3Qb) | 3:09 | 2025-06-11 |  |
+| [Drive Z](https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Drive Z](https://open.spotify.com/album/3SPIk7QWbbQ2WqG2kGr3Qb) | 3:09 | 2025-06-11 | 2026-09-03 |
 | [Driving Me Insane](https://open.spotify.com/track/4bbmKQSab2j4wRVvhQGJ3v) | [Macanto](https://open.spotify.com/artist/1qUC1aNxx3Oah1GYuB8jGo), [Stephanie Heitz](https://open.spotify.com/artist/1p4877VJsxWPA73xjvxpcn) | [Driving Me Insane](https://open.spotify.com/album/1KdOIAlsYVusOFSM17TU1y) | 3:15 | 2022-08-03 | 2022-09-22 |
 | [Drum of Stories \(feat\. Grégory Privat; Chris Jennings\)](https://open.spotify.com/track/1IgapmQrpvvFDjdNjcSSdx) | [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [Chris Jennings](https://open.spotify.com/artist/2B9Gls4wGkUKOLA7vLwol1) | [Drum Of Stories](https://open.spotify.com/album/2IPgkvuvlCJHZNuVOrE0dC) | 3:52 | 2023-06-28 | 2023-10-05 |
 | [Drumatix](https://open.spotify.com/track/5aEo1HS6U1QXBoVr2H2xnp) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Solar Eclipse](https://open.spotify.com/album/0lDFZxOkZ3A37NkUntkBMj) | 2:51 | 2022-08-10 | 2022-09-29 |
@@ -540,6 +540,7 @@
 | [Funeka](https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [Funeka](https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5) | 4:03 | 2023-11-01 | 2023-12-09 |
 | [Funky Beast](https://open.spotify.com/track/69zqSD2jeCHJtK25L4UARX) | [SiB Music](https://open.spotify.com/artist/46IgprQeDeLQgAwexDkD1w) | [Funky Beast](https://open.spotify.com/album/1I07H0kVHWEaRS0EDBJcjX) | 4:16 | 2024-09-18 | 2025-03-27 |
 | [FUNky Times](https://open.spotify.com/track/7J5CbXTXO0pIdPza9Pytpe) | [Hania Derej Quintet](https://open.spotify.com/artist/4Vzko1vyJTE1freRkh8F6P), [Hania Derej](https://open.spotify.com/artist/2IU2updV8nCbwezu453ame) | [FUNky Times](https://open.spotify.com/album/0d45OchIMYFoiFv79GMDGF) | 5:48 | 2024-06-05 | 2024-10-03 |
+| [GAIA](https://open.spotify.com/track/3Nv2FmkTX4GNMQdm4ofmyj) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I) | [Dragonfly](https://open.spotify.com/album/5d5fNx6SQAN0o3OhQGnvgH) | 4:14 | 2026-09-02 |  |
 | [Gallop](https://open.spotify.com/track/5gTTYQ3FHBxBueJBTL1PkS) | [Sunna Gunnlaugs](https://open.spotify.com/artist/6Zg458imiorm05RF66nZXh) | [Gallop](https://open.spotify.com/album/2yB2e5t3sNLJkUep1Dipi8) | 6:36 | 2022-03-02 | 2022-04-07 |
 | [Garden View](https://open.spotify.com/track/5bkcJEtnUJeapsTXwo0S6z) | [Salin](https://open.spotify.com/artist/190s2q06h5ztFSuGHOpmf3) | [Kouta in Siam](https://open.spotify.com/album/185sYGJyCzCm84SbLGC2jT) | 2:39 | 2024-01-10 | 2024-05-02 |
 | [Gaslight](https://open.spotify.com/track/1YsB8Acog2uteDQYyf8Zl8) | [Emerald Osagie](https://open.spotify.com/artist/0hzbMrsQIpjSOCsodTfK6J), [Brownman Ali](https://open.spotify.com/artist/5UGKWAMwuIEpQn8JEyUsEE) | [Gaslight](https://open.spotify.com/album/5YP7eSVwxeqgPgQh3jJybm) | 3:49 | 2023-11-29 | 2024-02-22 |
@@ -549,7 +550,7 @@
 | [Genesis](https://open.spotify.com/track/04cRU4P3llofvMB3k8huor) | [J\-Felix](https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4), [MELONYX](https://open.spotify.com/artist/5Bb7SM8dO0eA31copoScl6) | [THE MiNT EXPERiMENT Volume 2](https://open.spotify.com/album/54PjiqBrUgvfKumqJyBuXk) | 4:42 | 2023-07-12 | 2023-10-13 |
 | [Gesalul](https://open.spotify.com/track/5aTfJelKb9oabJgzWgg6s3) | [Backwater Township](https://open.spotify.com/artist/78cOwgRLRNwg7qmFZkcdKJ), [Ziying](https://open.spotify.com/artist/2gofeOFAGJCCs3xun4RqGS) | [II](https://open.spotify.com/album/4Qcx9h0ho0LniEow9SqC44) | 8:08 | 2022-11-09 | 2023-02-16 |
 | [Get It](https://open.spotify.com/track/5DnsqA6L3QyCI8FWQKLQDI) | [The Sound Buryer](https://open.spotify.com/artist/71NFBd6F1agF6jheappe1t), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [Get It](https://open.spotify.com/album/4LVmdwDEKPIqomUyWTgXXP) | 3:13 | 2022-07-06 | 2022-08-04 |
-| [Geza](https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [Geza](https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi) | 7:09 | 2026-05-27 |  |
+| [geza](https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [geza](https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi) | 7:09 | 2026-05-27 |  |
 | [Ghost Song \#8](https://open.spotify.com/track/5IXFTfCg0bC0k42GpJD87f) | [Paul Jarret](https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa), [Jim Black](https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Julien Pontvianne](https://open.spotify.com/artist/2R0ODtnmj159fDi9djOmry) | [Ghost Songs](https://open.spotify.com/album/49rqj62Ai3Dy8mvJoDLKgU) | 5:33 | 2022-01-19 | 2022-02-17 |
 | [Ghosts of Repetition](https://open.spotify.com/track/6czNgECFe5LNCFXOEuAqRf) | [Kevin Sun](https://open.spotify.com/artist/2u6jcKFD7z1hDX9Z0KStmo) | [Ghosts of Repetition](https://open.spotify.com/album/7zIulHOEmHOGmurwdoFosi) | 2:55 | 2023-04-19 | 2023-04-27 |
 | [Girlfriend with Magical Ears](https://open.spotify.com/track/1CcKqhGVV9TfQ7TXPDhp74) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W) | [Girlfriend with Magical Ears](https://open.spotify.com/album/09rcrUmNKDmrwhUbqYWFVM) | 4:58 | 2022-08-10 | 2022-09-29 |

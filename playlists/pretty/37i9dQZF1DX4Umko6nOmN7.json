@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 610202,
+  "num_followers": 610194,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Samma saga",
+        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "Samma saga",
+      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "L\u00e5ngsamt (Piano Version)",
         "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
       },
@@ -1179,18 +1195,34 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Samma saga",
-        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 213882,
-      "name": "Samma saga",
-      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1227,38 +1259,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 231907,
-      "name": "logical",
-      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+        "name": "Hus utan speglar",
+        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
       },
       "artists": [
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
         }
       ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+      "duration_ms": 164531,
+      "name": "Hus utan speglar",
+      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
         "name": "Sarkofag",
         "url": "https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 197973,
       "name": "Sarkofag",
       "url": "https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
-        "name": "Hus utan speglar",
-        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Hus utan speglar",
-      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Fotografi",
         "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 201680,
       "name": "Fotografi",
       "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "Jag h\u00e5ller hj\u00e4rtat i min hand",
-        "url": "https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 195612,
-      "name": "Min barndoms s\u00e5ng",
-      "url": "https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U"
-    },
-    {
-      "added_at": "2026-06-11 22:01:30",
-      "album": {
         "name": "Flytta h\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 208509,
       "name": "Flytta h\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v"
+    },
+    {
+      "added_at": "2026-06-11 22:01:30",
+      "album": {
+        "name": "Jag h\u00e5ller hj\u00e4rtat i min hand",
+        "url": "https://open.spotify.com/album/2rFf2SeE8jT1r5EMQzXWw2"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 195612,
+      "name": "Min barndoms s\u00e5ng",
+      "url": "https://open.spotify.com/track/5A6XyL4axUrZ5zsNE34G0U"
     },
     {
       "added_at": "2026-06-11 22:01:30",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-06-11 22:01:30",
       "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 185040,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA"
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

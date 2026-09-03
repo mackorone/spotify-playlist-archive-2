@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,374 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,428 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Buyelekhaya \(feat\. Thami Mthabela\)](https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [27:27](https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T) | 3:50 |
-| 2 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Kaestrings](https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
+| 2 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
 | 3 | [FAVOUR](https://open.spotify.com/track/2A5T6u23iRWLAB9pmDONkX) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [FAVOUR](https://open.spotify.com/album/1wTcgfvbZAABUaM7pytnq5) | 4:02 |
 | 4 | [Ojomi Chant](https://open.spotify.com/track/2iv5JoPkwBVYXx4eZbMZaX) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Ojomi Chant](https://open.spotify.com/album/5uP8jltdOz1MhCgzSEgAK0) | 3:35 |
 | 5 | [I Choose Joy](https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [I Choose Joy](https://open.spotify.com/album/3y068coIwQHk5zWV9S1PB6) | 5:28 |

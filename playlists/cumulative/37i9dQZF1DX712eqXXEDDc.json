@@ -2831,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Never Enough (Chad Hugo Remix)",
+        "url": "https://open.spotify.com/album/2hMJtwvV3pu6ciDuzLUgPz"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179995,
+      "name": "Never Enough - Chad Hugo Remix",
+      "url": "https://open.spotify.com/track/3Mg7BwwtjTwS5ScqZ98Tcb"
+    },
+    {
+      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/0h1OjjFTmWLJaRGLhOuNf7"
       },

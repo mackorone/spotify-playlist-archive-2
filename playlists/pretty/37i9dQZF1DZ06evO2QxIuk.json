@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375795,
+  "num_followers": 375810,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAD3Io5OVba7BIah3mmjHJP3",
+  "snapshot_id": "apYVgAAAAAARhg4w2P28irkF1LODxpmT",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 308444,
+      "name": "Be Ever Wonderful",
+      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 256622,
       "name": "September",
       "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 308444,
-      "name": "Be Ever Wonderful",
-      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations: The Universe of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 141293,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerlight",
-        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
+        "name": "Constellations: The Universe of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 352001,
-      "name": "Fall in Love with Me",
-      "url": "https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P"
+      "duration_ms": 141293,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 191408,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerlight",
+        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 352001,
+      "name": "Fall in Love with Me",
+      "url": "https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 300017,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+        "name": "Powerlight",
+        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 300017,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
+      "duration_ms": 356373,
+      "name": "Side by Side",
+      "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 634503,
       "name": "\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c9\u30ec\u30fc\uff08Ambitious ver.\uff09 - Little Glee Monster Live Tour 2025 \"Ambitious\" - 2025.07.21",
       "url": "https://open.spotify.com/track/6P9uVpEokjPXIgf4dkjahc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Powerlight",
-        "url": "https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 356373,
-      "name": "Side by Side",
-      "url": "https://open.spotify.com/track/1nv7USeo1Y4gqQRqD7PsPI"
     },
     {
       "added_at": null,

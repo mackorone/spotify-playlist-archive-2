@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist met o.a\. Ray & Beer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-914 songs - 1 day 21 hr 52 min
+915 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Altijd Voor Je Zijn](https://open.spotify.com/track/6uZ2FDCDThzvlInOswLVQW) | [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [Altijd Voor Je Zijn](https://open.spotify.com/album/3QVBH8ITYFsObHYVHANTwf) | 2:43 | 2025-10-02 | 2025-11-21 |
 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-04-22 | 2025-11-21 |
 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 | 2026-02-05 | 2026-08-11 |
+| [Anne](https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Bizzey\)](https://open.spotify.com/album/1URzOTxuNcgHnAzQkRST9P) | 1:45 | 2026-09-02 |  |
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/3nmLhV0YJNqmExxHcrzhFU) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/00j8YfkavmXeqNsTIaTpZg) | 2:54 | 2023-08-11 | 2023-11-01 |
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-05-29 | 2023-08-19 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-09-30 |
@@ -154,7 +155,7 @@
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 | 2023-06-27 |
 | [Cheerio Summer Mix](https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn) | [DJ Larita](https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Cheerio Summer Mix](https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl) | 2:01 | 2026-07-09 |  |
 | [Cherry Vanilli](https://open.spotify.com/track/5EUAGkEGtYhk96DHhR3Ghj) | [Béla](https://open.spotify.com/artist/2qrK1JzNruSNOHzQsIaiBP) | [Cherry Vanilli](https://open.spotify.com/album/6CD3tcmJeHymIMm9stJNhY) | 2:27 | 2025-08-09 | 2025-10-22 |
-| [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2026-06-17 |  |
+| [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2026-06-17 | 2026-09-03 |
 | [chille guy](https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [chille guy](https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR) | 1:40 | 2025-01-17 | 2025-09-16 |
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-18 | 2025-01-16 |
 | [Christmas Bae](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Christmas Bae](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 | 2024-12-18 | 2024-12-27 |

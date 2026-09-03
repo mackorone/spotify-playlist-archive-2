@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iMvyE.md) - [plain]
 
 > This is Jonas Brothers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,368 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,482 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iMvyE.md) - [plain]
 | 18 | [Play My Music](https://open.spotify.com/track/5eDqJzkxpzOimHJQDjhsfr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Disney 2000s, Vol\. 2 Summer Break](https://open.spotify.com/album/4bPYgsnsIldLoA8GRk7QyV) | 3:17 |
 | 19 | [Year 3000](https://open.spotify.com/track/1ve4UbmAdG0FsCwXkcYIPl) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/7401OXgr71fs3HLeTZYIye) | 3:21 |
 | 20 | [Hold On](https://open.spotify.com/track/0LAe8mOyLxUAN5pgqovhpN) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 2:44 |
-| 21 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 |
-| 22 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 |
+| 21 | [Cool](https://open.spotify.com/track/7yfi8B8opXjnRh4VZnOkz9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:47 |
+| 22 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 |
 | 23 | [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/track/6XxFrC6s8An9ZZ52uAN4AV) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happen To Me \(feat\. Jonas Brothers\)](https://open.spotify.com/album/5N1V6vJk94GiTmjuM5ZXID) | 3:03 |
 | 24 | [That's Just The Way We Roll](https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 2:53 |
 | 25 | [Do It Like That](https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:25 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iMvyE.md) - [plain]
 | 36 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 |
 | 37 | [Tonight](https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 3:29 |
 | 38 | [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 |
-| 39 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
-| 40 | [Still In Love With You](https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 3:10 |
+| 39 | [Still In Love With You](https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 3:10 |
+| 40 | [X \(with KAROL G\)](https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 3:05 |
 | 41 | [Fly With Me](https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:54 |
 | 42 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 |
 | 43 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 |
 | 44 | [Wings](https://open.spotify.com/track/7DVcgqaCDXtwZIjRTPb8bm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 1:58 |
-| 45 | [Video Girl](https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:53 |
+| 45 | [BB Good](https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:56 |
 | 46 | [cliché \- Jonas Brothers remix](https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [cliché \(Jonas Brothers remix\)](https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn) | 2:56 |
 | 47 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 |
-| 48 | [Paranoid](https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:38 |
-| 49 | [BB Good](https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:56 |
-| 50 | [Don't Throw it Away](https://open.spotify.com/track/24eP9hGnGR6RCQvllQVkCm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:52 |
+| 48 | [Don't Throw it Away](https://open.spotify.com/track/24eP9hGnGR6RCQvllQVkCm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:52 |
+| 49 | [Video Girl](https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:53 |
+| 50 | [Paranoid](https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:38 |
 
-Snapshot ID: `apTEAAAAAAAIxFIdrPBoklp0KYJD8Wxw`
+Snapshot ID: `apYVgAAAAABJz82MOgMfJXAdi66NayH5`

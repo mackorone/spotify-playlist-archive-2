@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,058 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,059 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 19 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 20 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
 | 21 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
-| 22 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |
-| 23 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
+| 22 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
+| 23 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |
 | 24 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 25 | [La patte](https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [ECHO ECHO](https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0) | 2:33 |
 | 26 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 29 | [Rocket](https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D) | 3:44 |
 | 30 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
 | 31 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
-| 32 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
-| 33 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
+| 32 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
+| 33 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
 | 34 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
 | 35 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
 | 36 | [INSURGENCIA](https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [INSURGENCIA](https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX) | 2:12 |

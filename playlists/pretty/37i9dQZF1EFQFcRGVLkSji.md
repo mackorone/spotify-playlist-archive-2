@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 187 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 187 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 78 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
 | 79 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
 | 80 | [Bodies \(BNYX® Mix\) \[feat\. JID, Drowning Pool & BNYX®\)](https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 3:13 |
-| 81 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
-| 82 | [Searching For You](https://open.spotify.com/track/0MeKrE8oRzZjUcxeofG0gg) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ML2](https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ) | 2:36 |
+| 81 | [Searching For You](https://open.spotify.com/track/0MeKrE8oRzZjUcxeofG0gg) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ML2](https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ) | 2:36 |
+| 82 | [Social Cues](https://open.spotify.com/track/7MG77R5GjIEWkAhtCdvs6v) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Social Cues](https://open.spotify.com/album/72McTB3Zkf7Jek6iKiT5zV) | 3:10 |
 | 83 | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SMOKING IN THE RAIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF) | 1:50 |
 | 84 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
 | 85 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 186 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 187 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcbLHAAAAABv5xGPMAx5Q8Jz4Fb5POIx`
+Snapshot ID: `AcbQvAAAAADXXMdQA+OdCxRa86056/99`

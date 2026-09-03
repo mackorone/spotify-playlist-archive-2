@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Maribou State",
-  "num_followers": 43877,
+  "num_followers": 43879,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -315,42 +315,38 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Party Time (feat. Aatig)",
-        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 199072,
-      "name": "Party Time (feat. Aatig)",
-      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Essex_Honey.mp3",
-        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
         }
       ],
-      "duration_ms": 289075,
-      "name": "Essex_Honey.mp3",
-      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
+      "duration_ms": 169856,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -379,18 +375,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
+        "name": "Essex_Honey.mp3",
+        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
+      "duration_ms": 289075,
+      "name": "Essex_Honey.mp3",
+      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -419,22 +415,26 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+        "name": "Party Time (feat. Aatig)",
+        "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
         },
         {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 169856,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
+      "duration_ms": 199072,
+      "name": "Party Time (feat. Aatig)",
+      "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Sound of You (ft TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 236528,
       "name": "Sound of You (ft TEED)",
       "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 164885,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Take My Space",
+        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 143473,
+      "name": "Take My Space",
+      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -935,22 +919,18 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "The Nightlife",
-        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
       },
       "artists": [
         {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Jacob Lusk",
-          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 244708,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -971,6 +951,26 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        }
+      ],
+      "duration_ms": 244708,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
     },
     {
       "added_at": "2026-08-20 23:00:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-20 23:00:28",
       "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
-    },
-    {
-      "added_at": "2026-08-20 23:00:28",
-      "album": {
         "name": "Play Me",
         "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-08-20 23:00:28",
+      "album": {
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
     },
     {
       "added_at": "2026-08-20 23:00:28",

@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 60 | [Contradicción](https://open.spotify.com/track/3R2FaLjO7IUkAgmXRwYRMa) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Oxígeno](https://open.spotify.com/album/113rLDIkvtuYW1I7uull04) | 2:55 |
 | 61 | [Solo una Vez](https://open.spotify.com/track/4WCQeyTgRukuFL4Mwt68yw) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:07 |
 | 62 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
-| 63 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 |
-| 64 | [Varias Quejas](https://open.spotify.com/track/01FtUiVEcS8JDru6llRRUy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:55 |
+| 63 | [Varias Quejas](https://open.spotify.com/track/01FtUiVEcS8JDru6llRRUy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:55 |
+| 64 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 |
 | 65 | [Gran Día](https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:13 |
 | 66 | [Santorini \- Remix](https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Santorini \(Remix\)](https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw) | 2:44 |
 | 67 | [Hasta Olvidarte](https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:08 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 120 | [Pinterest](https://open.spotify.com/track/58InYX4kAReWUgWJnnKnM2) | [Hiana Oliveira](https://open.spotify.com/artist/2OUpNibGCUfNgGK48YVb1i) | [Ressaca de São João](https://open.spotify.com/album/38wuE9DRLDyFsSxoVg4qc6) | 2:17 |
 | 121 | [No Es Normal](https://open.spotify.com/track/0COqeWp74Nsv8iv7ArRqXe) | [Juan Arnedo OK](https://open.spotify.com/artist/3X4OHPHoUJe1tAZGvpktPm) | [No Es Normal](https://open.spotify.com/album/13Zr7LvQTdYpYvRwnl7wIC) | 2:20 |
 
-Snapshot ID: `AcbLEgAAAAAsvjEqEUPEXBAfB3QtLVWL`
+Snapshot ID: `AcbQvAAAAADtK4/jh9wAUj3XFXS9blRG`

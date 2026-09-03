@@ -1020,6 +1020,28 @@
     {
       "album": {
         "name": "Shatter Me (Deluxe)",
+        "url": "https://open.spotify.com/album/2ONNVBhYiojv9aJeK84Ghn"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Shatter Me",
+      "url": "https://open.spotify.com/track/3nd738zQd9NabAT0MRjcyT"
+    },
+    {
+      "album": {
+        "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
       },
       "artists": [
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 278800,
       "name": "Shatter Me",
       "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"

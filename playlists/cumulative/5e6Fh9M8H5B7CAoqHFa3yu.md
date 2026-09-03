@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,511 songs - 6 day 3 hr 40 min
+2,516 songs - 6 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,6 +1213,7 @@
 | [Lazy Horizon \- Original Version](https://open.spotify.com/track/0zO4JbFcUsi1GhKSUt22BP) | [Roberto Senchiu](https://open.spotify.com/artist/6YOzBCyZMjxlDtQmpYvgoC) | [Lazy Horizon \(Original Version\)](https://open.spotify.com/album/283SVcDeLYWgp0qH4o8Yrm) | 2:47 | 2026-03-23 |  |
 | [Le Lacrime al Sale](https://open.spotify.com/track/1SbLbL6GMqVIVgwR8CU0Kc) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [Le Lacrime al Sale](https://open.spotify.com/album/5kp3VIueUreQP4JD7maaUY) | 4:38 | 2025-06-14 |  |
 | [Le Parapluie](https://open.spotify.com/track/1og48AOvKt4JGcarqnem76) | [Chach'](https://open.spotify.com/artist/5zoGbldAsgbeYrOW4Zt0c2) | [Le Parapluie](https://open.spotify.com/album/5fwY9R5pySznHMN2SYq56x) | 3:26 | 2026-05-24 |  |
+| [leaf](https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [My aloe](https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57) | 2:49 | 2026-09-02 |  |
 | [Leaving Babylon Behind](https://open.spotify.com/track/7BTgabbcnStUyObdMD5rbF) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [SistaSara](https://open.spotify.com/artist/5FlVmD8yus10fruwtb3jFg) | [Leaving Babylon Behind](https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG) | 3:25 | 2024-03-10 |  |
 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 | 2025-12-12 |  |
 | [Legal \- Professor Skank Remix](https://open.spotify.com/track/1xNI4yxzus7PVTJbauA8tA) | [Mr Zebre](https://open.spotify.com/artist/3y7HySXXsJL04wmIQfrEPD), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:52 | 2024-03-23 |  |
@@ -1329,6 +1330,7 @@
 | [Mas Não É](https://open.spotify.com/track/6cu8m4kokg6YRpsIlWYLtr) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:31 | 2026-05-27 |  |
 | [Mash Down Satan](https://open.spotify.com/track/3QYP369ZySdtENugoueUJB) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Dangerous Discomixes](https://open.spotify.com/album/6gMtNJyVlKsMQSexWFyb4H) | 7:49 | 2024-05-01 |  |
 | [Mash It Up](https://open.spotify.com/track/4nlS83eTficExFLaRatoW4) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:30 | 2024-05-01 |  |
+| [Mass Apotheosis](https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [Chela](https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F) | 7:15 | 2026-09-02 |  |
 | [Master of Grooveality](https://open.spotify.com/track/1Xx7kKxN8IWkLbwtD1x6mh) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 3:49 | 2025-06-16 |  |
 | [Master Of Grooveality](https://open.spotify.com/track/6doxD3mUr93FJX02igzK1f) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 3:49 | 2026-03-16 |  |
 | [MASTERPIECE](https://open.spotify.com/track/41Xb489wAFHotqj5cQq1zV) | [Crimson](https://open.spotify.com/artist/63mjjF2tGENedqxDyZhK6G) | [D0PE SH!T 4LYFE](https://open.spotify.com/album/0RuWMHXQnHEhLRKSWhiJQL) | 1:35 | 2026-02-18 |  |
@@ -1495,6 +1497,7 @@
 | [Never Let It Loose](https://open.spotify.com/track/6rBb0xui7iO1KctH7iX4Rm) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:57 | 2025-12-01 |  |
 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 | 2026-08-08 |  |
 | [New Beginnings](https://open.spotify.com/track/7BsjpAyf895DsnKwJRgVCz) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [New Beginnings](https://open.spotify.com/album/3ugLThsefNvx96vqsIxRkz) | 2:29 | 2026-08-16 |  |
+| [New York City](https://open.spotify.com/track/508BlNtpbo6KaJF0cTplwt) | [Peter Malick](https://open.spotify.com/artist/6T38e05zaTbse5F2gOBcKj), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [New York City \- Deluxe](https://open.spotify.com/album/3NttzlbI9zLLOtmkeHdzXX) | 5:07 | 2026-09-02 |  |
 | [New You](https://open.spotify.com/track/6yBbrJTELv33sNGSqg5ipe) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [New You](https://open.spotify.com/album/7feMMk06r83T7zZUyYUuch) | 4:53 | 2025-05-06 |  |
 | [News From The World](https://open.spotify.com/track/4TxooFhkj2B1i4jqNuYM9V) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [News From The World](https://open.spotify.com/album/0K2QmHIMelMxMVbLVeA0XQ) | 4:22 | 2025-04-25 |  |
 | [Next 2 U](https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:51 | 2025-07-02 |  |
@@ -1963,6 +1966,7 @@
 | [soft static summer](https://open.spotify.com/track/5PKJun6W17mqA9mAvoVwj0) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:59 | 2026-05-22 |  |
 | [Software 5.0](https://open.spotify.com/track/3qK1HAhGu5Hpt50JCoNdgu) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Software 5.0](https://open.spotify.com/album/3xh1UYwwKcQCd6nkh4wW78) | 2:27 | 2023-03-15 |  |
 | [Solaris](https://open.spotify.com/track/0jUE5RevXFNJHd8nuMn88g) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Solaris](https://open.spotify.com/album/6RHlEyOX7xQSTQeAb49GW8) | 3:25 | 2025-11-10 |  |
+| [Soldier](https://open.spotify.com/track/3XNqldYiG9yjybANACOLea) | [Brandon Wolf Hill Beats](https://open.spotify.com/artist/5jmdyJX8m6wyUCs8e6wDaJ) | [Fresh Beats](https://open.spotify.com/album/2AmVDeeaizA342YJPuq08F) | 2:53 | 2026-09-02 |  |
 | [Soldier Angel](https://open.spotify.com/track/0M0mW2yWiQNdogf68eVKdM) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 2:57 | 2024-05-25 |  |
 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 | 2026-07-07 |  |
 | [Solo Por Tu Forma De Bailar](https://open.spotify.com/track/0AY6G0yMYrg3cAP2zFEAno) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Solo Por Tu Forma De Bailar](https://open.spotify.com/album/309I4AbV1BHtPd4xgUiqdT) | 3:04 | 2025-03-18 |  |
@@ -1997,6 +2001,7 @@
 | [Spiagge Da Ricordare](https://open.spotify.com/track/7rrd9fLMzCRaa1lBQzyleO) | [SerJo](https://open.spotify.com/artist/2g8FSG3mP5OQIL9kJ4qe48) | [Spiagge Da Ricordare](https://open.spotify.com/album/1Gf1MwCAORghbfN0lNw2ts) | 2:59 | 2024-06-13 |  |
 | [Spiagge di sera](https://open.spotify.com/track/6haNxnzWguHh9GTUEdxGpd) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Spiagge di sera](https://open.spotify.com/album/6HYwlCAWsWl2T1tglIkc13) | 2:36 | 2024-06-05 |  |
 | [Spiral Dreams](https://open.spotify.com/track/0Xa5kZ6d8Jq1aRjYEcUvGc) | [King Of Eye](https://open.spotify.com/artist/58wGcPeQ30H9MwJmNBZs08) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:50 | 2024-03-23 |  |
+| [Spiralling](https://open.spotify.com/track/3L7c36jPHgRGB3kzHyqwSz) | [Woodshed Collective](https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3) | [Spiralling](https://open.spotify.com/album/2bAhCw8O8n33HUdmzWS9Te) | 4:00 | 2026-09-02 |  |
 | [Spiritual Calling](https://open.spotify.com/track/01YDSmbXOzuYb8nxmaLv8x) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Spiritual Calling](https://open.spotify.com/album/2YbmnYPxkVKvGRnwW7PT6Y) | 4:45 | 2025-10-01 |  |
 | [Spiritual Practice \- Radio Edit](https://open.spotify.com/track/6qtt8kolYSo78Uhdhq2qpt) | [Ottantotto](https://open.spotify.com/artist/1d9PT3XLty88WBDUmPhVxm) | [Spiritual Practice \(Radio Edit\)](https://open.spotify.com/album/4WC1WzA0EWq0ndV436U9vD) | 2:36 | 2026-05-05 |  |
 | [Spiritual Slavery \- Discomix](https://open.spotify.com/track/6duBGNgvWmdDGt6w21JwIs) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 9:24 | 2024-05-01 |  |

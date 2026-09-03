@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88640,
+  "num_followers": 88642,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
@@ -583,6 +567,22 @@
       "duration_ms": 195652,
       "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -889,6 +889,22 @@
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "6 Years",
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 268313,
-      "name": "junior",
-      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
       },
@@ -935,6 +935,38 @@
       "duration_ms": 209899,
       "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Call It A Day",
+        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Call It A Day",
+      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-05-21 15:00:24",
@@ -957,22 +989,6 @@
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Call It A Day",
-        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Call It A Day",
-      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
-    },
-    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
@@ -987,22 +1003,6 @@
       "duration_ms": 296282,
       "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
       "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
-    },
-    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "The other day,",
@@ -1159,6 +1143,22 @@
       "duration_ms": 312000,
       "name": "Accord",
       "url": "https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO"
+    },
+    {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "ceremony",
-        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 275354,
-      "name": "ceremony",
-      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u9f13\u52d5",
         "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 161720,
       "name": "\u9f13\u52d5",
       "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "ceremony",
+        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 275354,
+      "name": "ceremony",
+      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Place Your Hands",
-        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Place Your Hands",
-      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+        "name": "Place Your Hands",
+        "url": "https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh"
       },
       "artists": [
         {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
+      "duration_ms": 195600,
+      "name": "Place Your Hands",
+      "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
     },
     {
       "added_at": "2026-02-19 15:16:11",

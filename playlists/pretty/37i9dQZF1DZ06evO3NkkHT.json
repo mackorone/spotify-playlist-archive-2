@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 87623,
+  "num_followers": 87672,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABf4lkiYsBgn31IdXAgfrQz",
+  "snapshot_id": "apYVgAAAAAD8HqTf1RuuGl4dbnxpuqGU",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Rich Off Rap",
+      "url": "https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 120066,
-      "name": "Rich Off Rap",
-      "url": "https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ"
     },
     {
       "added_at": null,
@@ -867,30 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "6WA",
-        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
-        }
-      ],
-      "duration_ms": 179053,
-      "name": "SAFE TO SAY",
-      "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good To Me",
         "url": "https://open.spotify.com/album/3ITvNAnHd2Ub45NyQLmZ2k"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 208583,
       "name": "Good To Me",
       "url": "https://open.spotify.com/track/09fNbO1PnafsvOIANvJCZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+        }
+      ],
+      "duration_ms": 179053,
+      "name": "SAFE TO SAY",
+      "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
     },
     {
       "added_at": null,

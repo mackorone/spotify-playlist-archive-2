@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 187722,
+  "num_followers": 187762,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "The Origin Of Love",
-        "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 218906,
-      "name": "Elle me dit",
-      "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -391,6 +375,22 @@
       "duration_ms": 273680,
       "name": "Encore et encore - Remastered",
       "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "The Origin Of Love",
+        "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Elle me dit",
+      "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Mes Fantaisies",
         "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 216266,
       "name": "Femme de couleur",
       "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2026-04-17 09:45:18",

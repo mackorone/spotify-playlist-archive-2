@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-552 songs - 1 day 8 hr 22 min
+554 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [RAISON D'ETRE](https://open.spotify.com/track/3nkNQlnl1hg98AaUQ3HrlC) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:41 | 2023-11-08 |  |
 | [Rakuraku annrakushi](https://open.spotify.com/track/3aqSio8aHpLnfaUgdg8xAO) | [PEPOYO](https://open.spotify.com/artist/4bbwL5ExcnumLvnzz5BL74) | [Rakuraku annrakushi](https://open.spotify.com/album/06mpsnBQWKwiHmSyyqTRwR) | 4:10 | 2026-03-01 |  |
 | [RECEPTION](https://open.spotify.com/track/60rHc8aSo4wFQ0X6W4h50Q) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 2:43 | 2024-03-11 |  |
+| [Record Red](https://open.spotify.com/track/63be4fLJ60vW9xpDLEM1pa) | [axopholes](https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm), [Utatane Piko](https://open.spotify.com/artist/1gU8DM5jfekks0NlNm0oNn) | [Record Red](https://open.spotify.com/album/6dujauPhtha0oFyApoi6mg) | 3:16 | 2026-09-02 |  |
 | [Reflections on Existence](https://open.spotify.com/track/0WxOZ8ArjHaB5unslWtdfN) | [HoshiTakuto](https://open.spotify.com/artist/6ysfmdaAdc2ob5A4o5L2Gh) | [Reflections on Existence](https://open.spotify.com/album/1CQ6V1nHg0JTQv5AwDzIHn) | 3:36 | 2025-04-01 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-10-07 |  |
 | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem \(feat\. Hoshimachi Suisei\)](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 | 2025-08-31 |  |
@@ -516,6 +517,7 @@
 | [深海シティアンダーグラウンド](https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS) | [tanaka B](https://open.spotify.com/artist/2MR6ONgJ014Kr3X5VUOPyO) | [深海シティアンダーグラウンド](https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc) | 4:37 | 2024-08-19 |  |
 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 | 2025-08-18 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2025-02-17 |  |
+| [生きてるおばけは生きている](https://open.spotify.com/track/2sWdQfVWACeiCfE0rK6Gf7) | [Utsu\-P](https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX) | [GALAPAGOS](https://open.spotify.com/album/2SbwUk0WexA476H2UklLhe) | 3:21 | 2026-09-02 |  |
 | [画脂鏤氷](https://open.spotify.com/track/0cwFv4cJSL1z3RidyF5Uqr) | [かんてゐく](https://open.spotify.com/artist/7a3VEAgXx9IfbsDxmQRAZ3), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [ViRGiN](https://open.spotify.com/album/5e4izHlNGtNLlw0pVfdF6X) | 3:21 | 2025-10-30 |  |
 | [病棟305号室 \- ORIGINAL](https://open.spotify.com/track/60DngQ2DF0Hg1fCOcWuSJd) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:43 | 2026-06-02 |  |
 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 | 2025-07-20 |  |

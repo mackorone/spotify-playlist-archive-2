@@ -1,6 +1,6 @@
 {
   "description": "Escape with these melodic liquid drum & bass beats",
-  "num_followers": 142411,
+  "num_followers": 142430,
   "original_name": "Chilled Drum & Bass",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-08-27 23:00:32",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "Lupole",
+          "url": "https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl"
+        }
+      ],
+      "duration_ms": 181144,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D"
+    },
+    {
+      "added_at": "2026-08-27 23:00:32",
+      "album": {
         "name": "This Is Riyality",
         "url": "https://open.spotify.com/album/78nynwEosZprYfnTG2ZUos"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 311000,
       "name": "Sapphire Skies",
       "url": "https://open.spotify.com/track/5BMrCe5wYJVDWoXIDKTeqk"
-    },
-    {
-      "added_at": "2026-08-27 23:00:32",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/0UvOeLEbK3KmA3KvXiMGdU"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "Lupole",
-          "url": "https://open.spotify.com/artist/2wIt3VbNab71W41xXhZHMl"
-        }
-      ],
-      "duration_ms": 181144,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/47TBxdHokAzwgRF67IjD5D"
     },
     {
       "added_at": "2026-08-27 23:00:32",

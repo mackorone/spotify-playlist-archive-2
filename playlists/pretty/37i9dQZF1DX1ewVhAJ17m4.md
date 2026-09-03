@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,488 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,477 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,17 +48,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 38 | [Dead Roses](https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Nowhere, At Last](https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E) | 3:29 |
 | 39 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
 | 40 | [Evil Is Contagious](https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Evil Is Contagious](https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ) | 3:16 |
-| 41 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
-| 42 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
+| 41 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
+| 42 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
 | 43 | [King Kong](https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [King Kong](https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E) | 3:26 |
 | 44 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 |
 | 45 | [Highs and Lows](https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Highs and Lows](https://open.spotify.com/album/4QmqM5vTpq5TTljgWKd4Ld) | 3:43 |
 | 46 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
 | 47 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 48 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
-| 49 | [Hard Call](https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hard Call](https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy) | 3:10 |
+| 49 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 50 | [Good For Me](https://open.spotify.com/track/1OAMZ1AV5y6DHI5kzP0L3V) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Good For Me](https://open.spotify.com/album/4eQhubbT1QHzrBqAynOWhq) | 2:54 |
-| 51 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
+| 51 | [Hard Call](https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hard Call](https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy) | 3:10 |
 | 52 | [Vodka Soda](https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Vodka Soda](https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X) | 3:13 |
 | 53 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
 | 54 | [Teeth](https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Teeth](https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV) | 2:44 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 89 | [Fields Behind the House](https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:42 |
 | 90 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
 | 91 | [No Hope](https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 1:59 |
-| 92 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
+| 92 | [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 |
 | 93 | [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 |
-| 94 | [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 |
+| 94 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
 | 95 | [Circulate](https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Circulate](https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx) | 2:39 |
 | 96 | [Not The Doctor \- 'Mile End Kicks' \- Music Inspired by the Motion Picture](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 |
 | 97 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 |

@@ -4,7 +4,7 @@
 
 > now all I know is the ending
 
-891 songs - 2 day 5 hr 45 min
+892 songs - 2 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Foxglove](https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Foxglove](https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp) | 2:40 | 2024-09-20 | 2025-08-09 |
 | [Frances](https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:52 | 2024-08-09 | 2025-04-05 |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-18 | 2024-04-27 |
-| [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 | 2026-04-10 |  |
+| [Friendship Is The Truth](https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Friendship Is The Truth](https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ) | 5:36 | 2026-04-10 | 2026-09-03 |
 | [From](https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:02 | 2025-04-11 | 2025-08-09 |
 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 | 2023-10-06 | 2024-07-13 |
 | [Full Circle](https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [When You Turn Around](https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8) | 3:15 | 2026-04-24 |  |
@@ -342,6 +342,7 @@
 | [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 | 2024-05-24 | 2025-02-08 |
 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 | 2026-06-19 |  |
 | [Honeydew](https://open.spotify.com/track/1o656MCao56taI8DPKW4HD) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:11 | 2026-08-14 |  |
+| [Horses](https://open.spotify.com/track/0caoPC7iysarcDNVfZuGps) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [Horses](https://open.spotify.com/album/5zC0fGGh0ICrFRT1t1M0CM) | 4:45 | 2026-09-02 |  |
 | [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 | 2025-08-20 | 2026-02-07 |
 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 | 2025-07-23 | 2026-01-24 |
 | [Hours Off](https://open.spotify.com/track/4CYNkEe36ARTYi4OQfq4pq) | [mer marcum](https://open.spotify.com/artist/1hD768RDip7WrExOXS5pLN) | [Hours Off](https://open.spotify.com/album/36d9uOlIWerIlQZYtLpFoW) | 3:23 | 2024-11-15 | 2025-02-22 |

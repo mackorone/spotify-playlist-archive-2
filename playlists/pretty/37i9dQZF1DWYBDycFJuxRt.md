@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: HALCALI \*👉 <a href="https://spice.eplus.jp/articles/348671">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,170 likes - 82 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,190 likes - 82 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 23 | [Beyond](https://open.spotify.com/track/3MIUofQdcehxqjvs8jIfKI) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Beyond](https://open.spotify.com/album/48Za1CoUiUCkC5zdiAnzU3) | 2:44 |
 | 24 | [two thirty \- feat\. Jua](https://open.spotify.com/track/6uJysOI5hXQP6WmTs9rjUK) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [two thirty \(feat\. Jua\)](https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61) | 2:38 |
 | 25 | [IRANAI \(Takkyu Ishino Remix\)](https://open.spotify.com/track/4yEjRdLi4o1plOoj8fYDfW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [IRANAI](https://open.spotify.com/album/6PcQkWhkGeI0RGnM4kIom9) | 4:40 |
-| 26 | [Track 1](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 0:00 |
+| 26 | [Happy](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 2:34 |
 | 27 | [ONE](https://open.spotify.com/track/6skd7pNQkQX4pk40taZfJ1) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [ONE](https://open.spotify.com/album/3UN0mVofuAOYImQpq4CM0q) | 4:11 |
 | 28 | [足跡 \- Brave the unknown \-](https://open.spotify.com/track/5QuLDWUreR8OwQ69LOy8rx) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [足跡 \- Brave the unknown \-](https://open.spotify.com/album/1vHpl8LmUnDyOxnFJoN7mE) | 4:13 |
 | 29 | [Trophy](https://open.spotify.com/track/6jvfl3o4hfqHcYPue676OQ) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [Trophy](https://open.spotify.com/album/6IF5v3toLpcoXyrQquZdiO) | 3:42 |

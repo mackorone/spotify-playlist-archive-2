@@ -27,6 +27,22 @@
     {
       "added_at": "2026-09-01 21:00:34",
       "album": {
+        "name": "M-am Trezit Aici",
+        "url": "https://open.spotify.com/album/1sLlpst1Nd6yQE8see9X89"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "M-am Trezit Aici",
+      "url": "https://open.spotify.com/track/3F6ysAAtQroeGmfWCVUVzL"
+    },
+    {
+      "added_at": "2026-09-01 21:00:34",
+      "album": {
         "name": "Mama's Boy",
         "url": "https://open.spotify.com/album/0FUBgm0pOkr2gLubbBehTu"
       },

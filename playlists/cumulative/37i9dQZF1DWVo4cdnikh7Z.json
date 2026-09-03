@@ -5561,6 +5561,32 @@
     },
     {
       "album": {
+        "name": "I'M Game - Tamil",
+        "url": "https://open.spotify.com/album/6xepiIHdvLpf2rtAqqjGGi"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264418,
+      "name": "Arugey Arugey - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/1exadOUXkvyQcdF6JV2eTd"
+    },
+    {
+      "album": {
         "name": "Arugey Arugey (From \"I'M Game - Tamil\")",
         "url": "https://open.spotify.com/album/0cJqYGf12nRfm1hYbNgj3i"
       },
@@ -5580,7 +5606,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 264418,
       "name": "Arugey Arugey - From \"I'M Game - Tamil\"",
       "url": "https://open.spotify.com/track/2hExMHPo41sESrORZPXf65"
@@ -15463,6 +15489,28 @@
     },
     {
       "album": {
+        "name": "Gadi Mela Dheko (From \"Kabhi Kabhi\")",
+        "url": "https://open.spotify.com/album/6SbTLclIdTzghx6yFkgGSz"
+      },
+      "artists": [
+        {
+          "name": "Tenma",
+          "url": "https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY"
+        },
+        {
+          "name": "Yasin Sherif",
+          "url": "https://open.spotify.com/artist/6NsZe3ft6JtmA5cy6K806h"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Gadi Mela Dheko - From \"Kabhi Kabhi\"",
+      "url": "https://open.spotify.com/track/0jtWu4Sm9Klijol5ow0GaW"
+    },
+    {
+      "album": {
         "name": "Galla Galla",
         "url": "https://open.spotify.com/album/4ZkGg3pCwlwTzXrel0Wa05"
       },
@@ -17416,6 +17464,36 @@
       "duration_ms": 297500,
       "name": "High On Kaadhal",
       "url": "https://open.spotify.com/track/5mCbDAhxef5s1smT9Vi5ve"
+    },
+    {
+      "album": {
+        "name": "I'M Game - Tamil",
+        "url": "https://open.spotify.com/album/6xepiIHdvLpf2rtAqqjGGi"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Brodha V",
+          "url": "https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Shridhar Ramesh",
+          "url": "https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190322,
+      "name": "High Stakes - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/6YLBdn8M6JkBg7Sqk6NJle"
     },
     {
       "album": {
@@ -22700,6 +22778,36 @@
       "duration_ms": 178670,
       "name": "Kai Mel Nilavaai",
       "url": "https://open.spotify.com/track/4frBihqqNRFl6kwdA1e4OE"
+    },
+    {
+      "album": {
+        "name": "Mandaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13VCDOxNdiF8Ouw82WtHS0"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Jayashree Mathimaran",
+          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
+        },
+        {
+          "name": "Sathyan Mahalingam",
+          "url": "https://open.spotify.com/artist/0VXtbLfOdJp6egQJhjEqn2"
+        },
+        {
+          "name": "Suganthi",
+          "url": "https://open.spotify.com/artist/6ZSsP4Rqq7IyRwK75fSPkt"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224307,
+      "name": "Kai Valavi Kulunga",
+      "url": "https://open.spotify.com/track/2IVUEmTzl5POmhbnqwmgTF"
     },
     {
       "album": {
@@ -28781,6 +28889,32 @@
     },
     {
       "album": {
+        "name": "I'M Game - Tamil",
+        "url": "https://open.spotify.com/album/6xepiIHdvLpf2rtAqqjGGi"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273644,
+      "name": "Loser Song - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/2KM4MV98U8y002Et7pRpof"
+    },
+    {
+      "album": {
         "name": "Loser Song (From \"I'M Game - Tamil\")",
         "url": "https://open.spotify.com/album/4aVM4t4bnpSL1fDgOhrIPl"
       },
@@ -28800,7 +28934,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 273644,
       "name": "Loser Song - From \"I'M Game - Tamil\"",
       "url": "https://open.spotify.com/track/47PMBgJcINUFeNL11V9rkf"
@@ -31197,6 +31331,32 @@
     },
     {
       "album": {
+        "name": "Paris Cafe",
+        "url": "https://open.spotify.com/album/7bX438krDQt4yVvrMUFBCN"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
+        },
+        {
+          "name": "Yuki Praveen",
+          "url": "https://open.spotify.com/artist/6Nke0y2Gwq2uESBYvuz7Qq"
+        },
+        {
+          "name": "Saraj Seelan",
+          "url": "https://open.spotify.com/artist/6TkORjn5nrORNAp3WDqXtd"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Manasukku Pudicha Ok",
+      "url": "https://open.spotify.com/track/4AGANl7w1xP0lRVNsVrYri"
+    },
+    {
+      "album": {
         "name": "Viduthalai 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/43DKHyWZW4n0YOGwn4AfIw"
       },
@@ -31286,10 +31446,36 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 219661,
       "name": "Mandaadi Mandaadi (From \"Mandaadi\")",
       "url": "https://open.spotify.com/track/50hUrYi1cF0MPxqZrXbs9G"
+    },
+    {
+      "album": {
+        "name": "Mandaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13VCDOxNdiF8Ouw82WtHS0"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vaaheesan Rasaiya",
+          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219661,
+      "name": "Mandaadi Mandaadi (From \"Mandaadi\")",
+      "url": "https://open.spotify.com/track/5IlGdIO7hGxC4YDlEXvn0z"
     },
     {
       "album": {
@@ -39680,6 +39866,32 @@
       "duration_ms": 220363,
       "name": "Okay Solita",
       "url": "https://open.spotify.com/track/5feaIBubBGcYoTm9B66WEg"
+    },
+    {
+      "album": {
+        "name": "Mandaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13VCDOxNdiF8Ouw82WtHS0"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "RITUAL",
+          "url": "https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130404,
+      "name": "Oli Vattam",
+      "url": "https://open.spotify.com/track/6IahZO1MOnh6Y6EaECOoJI"
     },
     {
       "album": {
@@ -53227,6 +53439,32 @@
     },
     {
       "album": {
+        "name": "Paris Cafe",
+        "url": "https://open.spotify.com/album/7bX438krDQt4yVvrMUFBCN"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        },
+        {
+          "name": "Fathima Henna",
+          "url": "https://open.spotify.com/artist/1XZv4OzmjwQCrWh9Hxky6V"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239827,
+      "name": "Thaen Pozhudhugale",
+      "url": "https://open.spotify.com/track/0hfpLHSyLo8XehrBZcdhmr"
+    },
+    {
+      "album": {
         "name": "Thaenkoodey (From \"Middle Class\")",
         "url": "https://open.spotify.com/album/6ezPZ22SoJejRkT5PT0SLV"
       },
@@ -59554,10 +59792,40 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 225394,
       "name": "Usure Needhan Pulla (From \"Mandaadi\")",
       "url": "https://open.spotify.com/track/01ds4D8iuPXUfIpY0kOxeb"
+    },
+    {
+      "album": {
+        "name": "Mandaadi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13VCDOxNdiF8Ouw82WtHS0"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Jayashree Mathimaran",
+          "url": "https://open.spotify.com/artist/56Ue6IaoBnRqwydcUtQ4Mu"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225394,
+      "name": "Usure Needhan Pulla (From \"Mandaadi\")",
+      "url": "https://open.spotify.com/track/42VaBlLwv5q51avCMxP4Qj"
     },
     {
       "album": {

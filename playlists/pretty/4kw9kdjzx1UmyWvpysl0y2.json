@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122847,
+  "num_followers": 122838,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVtw4NdoQhn14EAmbZDtgBCYKba5bE",
+  "snapshot_id": "AAAVuLNRdOVVi/1mRn1POgtYo77GI7R+",
   "tracks": [
+    {
+      "added_at": "2026-09-02 17:17:34",
+      "album": {
+        "name": "Godlike",
+        "url": "https://open.spotify.com/album/2P5gFzufCAkZLeP2qjCmwK"
+      },
+      "artists": [
+        {
+          "name": "ARE WE DREAMING",
+          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
+        },
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "duration_ms": 475500,
+      "name": "Godlike",
+      "url": "https://open.spotify.com/track/2uwSzzTj13c6U465vnvwVP"
+    },
     {
       "added_at": "2026-09-01 17:47:29",
       "album": {

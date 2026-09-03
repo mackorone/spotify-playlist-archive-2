@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 181311,
+  "num_followers": 181304,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Ella es de Ella",
-        "url": "https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp"
+        "name": "Traicionarse",
+        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
       },
       "artists": [
         {
-          "name": "Chinoy",
-          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
         }
       ],
-      "duration_ms": 272542,
-      "name": "Ella es de Ella",
-      "url": "https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449"
+      "duration_ms": 193206,
+      "name": "Traicionarse",
+      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Traicionarse",
-        "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
+        "name": "Ella es de Ella",
+        "url": "https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp"
       },
       "artists": [
         {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+          "name": "Chinoy",
+          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
         }
       ],
-      "duration_ms": 193206,
-      "name": "Traicionarse",
-      "url": "https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL"
+      "duration_ms": 272542,
+      "name": "Ella es de Ella",
+      "url": "https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Rocanrol de los Misterios",
         "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
@@ -431,22 +415,6 @@
       "duration_ms": 259329,
       "name": "Rocanrol de los Misterios",
       "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Infiel",
-        "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -467,6 +435,38 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Infiel",
+        "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Privado",
         "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 281037,
       "name": "Privado",
       "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "La Pelea",
         "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -567,22 +551,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
       "artists": [
         {
-          "name": "Cler Canifr\u00fa",
-          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
-        },
-        {
-          "name": "Lula Bertoldi",
-          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -599,6 +579,26 @@
       "duration_ms": 262530,
       "name": "Todo Cae",
       "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7"
+      },
+      "artists": [
+        {
+          "name": "Cler Canifr\u00fa",
+          "url": "https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "SUE\u00d1OS MOJADOS",
         "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 144000,
       "name": "SUE\u00d1OS MOJADOS",
       "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -815,42 +815,6 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "\u00cdcaro",
-        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
-      },
-      "artists": [
-        {
-          "name": "tortugan\u00f3nima",
-          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
-        }
-      ],
-      "duration_ms": 277809,
-      "name": "\u00cdcaro",
-      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "La Cuenta",
-        "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 237634,
-      "name": "La Cuenta",
-      "url": "https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
         "name": "Hojas de T\u00e9 (2023)",
         "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
       },
@@ -863,6 +827,22 @@
       "duration_ms": 209610,
       "name": "Hojas de T\u00e9 - 2023",
       "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "\u00danete A Mi Ser",
+      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -915,18 +895,38 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+        "name": "\u00cdcaro",
+        "url": "https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii"
+      },
+      "artists": [
+        {
+          "name": "tortugan\u00f3nima",
+          "url": "https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR"
+        }
+      ],
+      "duration_ms": 277809,
+      "name": "\u00cdcaro",
+      "url": "https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "La Cuenta",
+        "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
       "artists": [
         {
           "name": "Kuervos del Sur",
           "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
         }
       ],
-      "duration_ms": 281133,
-      "name": "\u00danete A Mi Ser",
-      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
+      "duration_ms": 237634,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Tu primero y luego yo",
-        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
+        "name": "Asocial",
+        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 146922,
-      "name": "Tu primero y luego yo",
-      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
+      "duration_ms": 197747,
+      "name": "Asocial",
+      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1323,8 +1323,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Asocial",
-        "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
+        "name": "Tu primero y luego yo",
+        "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
       },
       "artists": [
         {
@@ -1332,9 +1332,9 @@
           "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
         }
       ],
-      "duration_ms": 197747,
-      "name": "Asocial",
-      "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+      "duration_ms": 146922,
+      "name": "Tu primero y luego yo",
+      "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD"
+        "name": "Cayeron L\u00e1grimas",
+        "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 216149,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv"
+      "duration_ms": 215639,
+      "name": "Cayeron L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
     },
     {
       "added_at": "2026-04-10 19:32:23",

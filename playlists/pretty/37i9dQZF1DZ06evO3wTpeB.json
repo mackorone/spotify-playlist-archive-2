@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADiOIU7hDL1zLLCua9kr9V6",
+  "snapshot_id": "apYVgAAAAABuSUIvmf1QTuSEtAuEwbYT",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para\u00edso Fiscal",
+        "url": "https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Para\u00edso Fiscal",
+      "url": "https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 225130,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para\u00edso Fiscal",
-        "url": "https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        }
-      ],
-      "duration_ms": 180530,
-      "name": "Para\u00edso Fiscal",
-      "url": "https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY"
     },
     {
       "added_at": null,
@@ -427,34 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En los Brazos de Morfeo",
-        "url": "https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 206165,
-      "name": "En los Brazos de Morfeo",
-      "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado A",
         "url": "https://open.spotify.com/album/68xA7j7fPsALFS0ySq35P0"
       },
@@ -515,6 +487,34 @@
       "duration_ms": 300712,
       "name": "Cypher Lado A",
       "url": "https://open.spotify.com/track/7ClKLjU2W5GrEgucy5YENf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En los Brazos de Morfeo",
+        "url": "https://open.spotify.com/album/2RuUUiMsKy0lHkRTrW3fHd"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 206165,
+      "name": "En los Brazos de Morfeo",
+      "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
     },
     {
       "added_at": null,
@@ -595,6 +595,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out On The Streets",
+        "url": "https://open.spotify.com/album/0OXmC5bgkH92SWdLeq3SWl"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Dj Akrylik",
+          "url": "https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Out On The Streets",
+      "url": "https://open.spotify.com/track/5MUMaekhk7ijhLCKzFo0YR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Oportunidad",
         "url": "https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 147000,
       "name": "Ginger Shots",
       "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out On The Streets",
-        "url": "https://open.spotify.com/album/0OXmC5bgkH92SWdLeq3SWl"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Dj Akrylik",
-          "url": "https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Out On The Streets",
-      "url": "https://open.spotify.com/track/5MUMaekhk7ijhLCKzFo0YR"
     },
     {
       "added_at": null,
@@ -915,30 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALANCE",
-        "url": "https://open.spotify.com/album/3fQYE3NVCFXUkiVYHpvEBx"
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
       },
       "artists": [
         {
-          "name": "El Chojin",
-          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
-        },
-        {
-          "name": "Juaninacka",
-          "url": "https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy"
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
         },
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 314386,
-      "name": "El Arte del Rap",
-      "url": "https://open.spotify.com/track/6k3aZ0NBKXUKU1tqeEHODT"
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": null,
@@ -959,46 +951,6 @@
       "duration_ms": 181120,
       "name": "Mi Castigo",
       "url": "https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "AL1 Producer",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Las Cinco Rosas",
-      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": null,
@@ -1027,6 +979,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 295213,
+      "name": "Es una lucha Constante",
+      "url": "https://open.spotify.com/track/6opNqQS5QBfw58qae9MD6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/3fQYE3NVCFXUkiVYHpvEBx"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "Juaninacka",
+          "url": "https://open.spotify.com/artist/6a7aRbyLNHHiwqgLh87Mpy"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 314386,
+      "name": "El Arte del Rap",
+      "url": "https://open.spotify.com/track/6k3aZ0NBKXUKU1tqeEHODT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Sad",
         "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
       },
@@ -1043,8 +1039,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
       "artists": [
         {
@@ -1052,9 +1048,29 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 295213,
-      "name": "Es una lucha Constante",
-      "url": "https://open.spotify.com/track/6opNqQS5QBfw58qae9MD6Q"
+      "duration_ms": 96000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "AL1 Producer",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Las Cinco Rosas",
+      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
     },
     {
       "added_at": null,
@@ -1119,22 +1135,6 @@
       "duration_ms": 305015,
       "name": "Cypher Lado B",
       "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
     },
     {
       "added_at": null,

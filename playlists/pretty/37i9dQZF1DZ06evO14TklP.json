@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 22996,
+  "num_followers": 23017,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABZIc89tPuFl69OIm2J3kUW",
+  "snapshot_id": "apYVgAAAAAB8cKNvKdN1ktNhZcUVcqMM",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 167625,
       "name": "Extraordin\u00e1ria",
       "url": "https://open.spotify.com/track/3WC5FPpPuiU8eauNnyY8dK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/0Ki6ZgS1U9IPGv5jBJ4EGq"
     },
     {
       "added_at": null,
@@ -47,26 +67,6 @@
       "duration_ms": 144139,
       "name": "Vai Dar Ca\u00f4",
       "url": "https://open.spotify.com/track/4pHh1txdHjJKSKdlWgQDqx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/0Ki6ZgS1U9IPGv5jBJ4EGq"
     },
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
-        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "Que Pecado!",
-      "url": "https://open.spotify.com/track/16N3IyiH9GGq8BhkiNLY4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 133517,
       "name": "Pensamentos Intrusivos",
       "url": "https://open.spotify.com/track/7kWt0FtRDglVrRGjOxougB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "Que Pecado!",
+      "url": "https://open.spotify.com/track/16N3IyiH9GGq8BhkiNLY4u"
     },
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 117056,
+      "name": "Megaloman\u00edaca",
+      "url": "https://open.spotify.com/track/0BLmMvecr2siVp5Zd2C3Yv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5min",
         "url": "https://open.spotify.com/album/7Lu7VpMVtOEgoCIpsNLElZ"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 128181,
       "name": "5min",
       "url": "https://open.spotify.com/track/6V7Oh3onMC9Lz5qKjzDJea"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 117056,
-      "name": "Megaloman\u00edaca",
-      "url": "https://open.spotify.com/track/0BLmMvecr2siVp5Zd2C3Yv"
     },
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 118541,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 118541,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 139644,
-      "name": "Festa do Pijama",
-      "url": "https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 108249,
       "name": "Lei da Atra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0hPGlfjB2wK89hzKS8D2cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 139644,
+      "name": "Festa do Pijama",
+      "url": "https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh"
     },
     {
       "added_at": null,
@@ -423,30 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gambiarra Chic, Pt. 2",
-        "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "BAILE NO RXOTA",
-      "url": "https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 142500,
       "name": "Hentai",
       "url": "https://open.spotify.com/track/6hgtuciqHAArNVTXuglAnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gambiarra Chic, Pt. 2",
+        "url": "https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "BAILE NO RXOTA",
+      "url": "https://open.spotify.com/track/3ll1oyrd95gYrzerOoBDod"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > TUANA ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,028 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,003 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

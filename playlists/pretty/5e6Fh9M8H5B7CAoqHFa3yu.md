@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,581 songs - 6 day 7 hr 42 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,586 songs - 6 day 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2589,5 +2589,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2579 | [California](https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK) | [Yellstone](https://open.spotify.com/artist/0ZKMOq56KamtscCLIl8Lah) | [California](https://open.spotify.com/album/0DOx3oinReFPZfQOGuSZGD) | 3:01 |
 | 2580 | [Hotel Soldiers](https://open.spotify.com/track/5GHYWH6OT5v4Dt7LxSFLM0) | [Strawberry Nixon](https://open.spotify.com/artist/4Y4LMJUmLARW4fZyAgdEar) | [Hotel Soldiers](https://open.spotify.com/album/6mhJwuECI8D8T7PzpHHLOV) | 4:39 |
 | 2581 | [Freedom](https://open.spotify.com/track/4moi33G2vY0DKA9IcV6qM0) | [Massimo Nanni](https://open.spotify.com/artist/4o6YNcdXASjXIRfOpIxhWg) | [Freedom](https://open.spotify.com/album/0QSJVTRHjdETxzD0RaNpX1) | 4:18 |
+| 2582 | [New York City](https://open.spotify.com/track/508BlNtpbo6KaJF0cTplwt) | [Peter Malick](https://open.spotify.com/artist/6T38e05zaTbse5F2gOBcKj), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [New York City \- Deluxe](https://open.spotify.com/album/3NttzlbI9zLLOtmkeHdzXX) | 5:07 |
+| 2583 | [Mass Apotheosis](https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [Chela](https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F) | 7:15 |
+| 2584 | [Soldier](https://open.spotify.com/track/3XNqldYiG9yjybANACOLea) | [Brandon Wolf Hill Beats](https://open.spotify.com/artist/5jmdyJX8m6wyUCs8e6wDaJ) | [Fresh Beats](https://open.spotify.com/album/2AmVDeeaizA342YJPuq08F) | 2:53 |
+| 2585 | [Spiralling](https://open.spotify.com/track/3L7c36jPHgRGB3kzHyqwSz) | [Woodshed Collective](https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3) | [Spiralling](https://open.spotify.com/album/2bAhCw8O8n33HUdmzWS9Te) | 4:00 |
+| 2586 | [leaf](https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [My aloe](https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57) | 2:49 |
 
-Snapshot ID: `AAALBrR4xjWERPewllS3JxFo0hfdqr+3`
+Snapshot ID: `AAALDJPqyqXIeXLsGQEA0/AECepFOJyy`

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6GyQCGfLRmaUstRFQeN6J8"
+      },
+      "artists": [
+        {
+          "name": "Chill Motion",
+          "url": "https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146198,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6FGgCrgB3iAEIvVinORkp9"
+    },
+    {
+      "album": {
         "name": "Altitude",
         "url": "https://open.spotify.com/album/1ADHASEnOwZHzyJO9OLni9"
       },
@@ -867,6 +885,24 @@
     },
     {
       "album": {
+        "name": "As We Were",
+        "url": "https://open.spotify.com/album/4ytp2GYLLRr5A9KS9D5nmj"
+      },
+      "artists": [
+        {
+          "name": "Robinson Roe",
+          "url": "https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139411,
+      "name": "As We Were",
+      "url": "https://open.spotify.com/track/7ENdUDE36n0If1ejuYoqmH"
+    },
+    {
+      "album": {
         "name": "At The Hoffman's",
         "url": "https://open.spotify.com/album/4qSGLzKVXWdATYMG2T8HfM"
       },
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 139636,
       "name": "Back to you",
       "url": "https://open.spotify.com/track/781VuiceSrzPAiSn1DzmGz"
@@ -1578,6 +1614,24 @@
       "duration_ms": 132497,
       "name": "Blue Sunset",
       "url": "https://open.spotify.com/track/1RNvIrwGqibZOadgBN0Jc8"
+    },
+    {
+      "album": {
+        "name": "Blue Vibe",
+        "url": "https://open.spotify.com/album/5veFu5xm51dHYH3b06qEke"
+      },
+      "artists": [
+        {
+          "name": "Red Waterline",
+          "url": "https://open.spotify.com/artist/6g2i27X6GxecyuNpFq6wP3"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137777,
+      "name": "Blue Vibe",
+      "url": "https://open.spotify.com/track/3ThK3VmGnQ6vwtBti59e4X"
     },
     {
       "album": {
@@ -3585,6 +3639,24 @@
     },
     {
       "album": {
+        "name": "Dream about us",
+        "url": "https://open.spotify.com/album/7HufHka466JcOtJXSGlbE5"
+      },
+      "artists": [
+        {
+          "name": "Cedar Room",
+          "url": "https://open.spotify.com/artist/1Wew13xlDH4ylTaJI75vw8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Dream about us",
+      "url": "https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT"
+    },
+    {
+      "album": {
         "name": "Dream of Me",
         "url": "https://open.spotify.com/album/2IfT3GlwLojFrXGKweftm2"
       },
@@ -3600,6 +3672,24 @@
       "duration_ms": 181984,
       "name": "Dream of Me",
       "url": "https://open.spotify.com/track/4OOs6bwPRSnmVeItVeohy1"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/77n28lxwn0HSjMGOYE86zA"
+      },
+      "artists": [
+        {
+          "name": "Half Tone",
+          "url": "https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125505,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3WedU2WRtWK1w8aAo9ffvd"
     },
     {
       "album": {
@@ -3784,6 +3874,24 @@
       "duration_ms": 134117,
       "name": "dripp",
       "url": "https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x"
+    },
+    {
+      "album": {
+        "name": "Drive On",
+        "url": "https://open.spotify.com/album/0aFoPsDZDLjumXfxPyzdrv"
+      },
+      "artists": [
+        {
+          "name": "Adryax",
+          "url": "https://open.spotify.com/artist/76qsIqzQFtCTQizpttVZOo"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146529,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/58AcicbIip8ukGcgiFCVeg"
     },
     {
       "album": {
@@ -4138,7 +4246,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 180833,
       "name": "Enough In Escrow",
       "url": "https://open.spotify.com/track/0eYzpVWDDJ0Xx3rvfdqJOC"
@@ -5108,6 +5216,24 @@
       "duration_ms": 182000,
       "name": "French Toast",
       "url": "https://open.spotify.com/track/0jVkzGqvMnt05arGxdHo0q"
+    },
+    {
+      "album": {
+        "name": "Fresh Start",
+        "url": "https://open.spotify.com/album/64YKwVlo0puj15i0xnJ8K1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mirage",
+          "url": "https://open.spotify.com/artist/7rpxtvxhE8niKR3p12vQq4"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166730,
+      "name": "Fresh Start",
+      "url": "https://open.spotify.com/track/53Jx8rwCXGBCHKYOjytGub"
     },
     {
       "album": {
@@ -6145,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4DeVJDLdnJVOcacuxRTVdI"
+      },
+      "artists": [
+        {
+          "name": "apparater",
+          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150327,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7g2Gcrid5eVt3eAPcQlCxf"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/41LpLJe2CiVacYMqjKC03O"
       },
@@ -6336,7 +6480,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 200356,
       "name": "I Like When We're Together",
       "url": "https://open.spotify.com/track/4R93fGIpZ5uGVCxpUiNDDd"
@@ -8461,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "Midnight Pool",
+        "url": "https://open.spotify.com/album/50d3SnzdsIc4LdSVr64kUo"
+      },
+      "artists": [
+        {
+          "name": "Plain Days",
+          "url": "https://open.spotify.com/artist/78zQdBo0BoNJBJSx9vYkGE"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "Midnight Pool",
+      "url": "https://open.spotify.com/track/0oQgh9YnPlsWHfwEQYsTgT"
+    },
+    {
+      "album": {
         "name": "Midnight Sessions",
         "url": "https://open.spotify.com/album/2BxmMhK7o7OvFWT280Nutt"
       },
@@ -10065,6 +10227,24 @@
     },
     {
       "album": {
+        "name": "Out of Office",
+        "url": "https://open.spotify.com/album/0Sae1DDqMgtoGEu4g4el1r"
+      },
+      "artists": [
+        {
+          "name": "Rick Groove",
+          "url": "https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139946,
+      "name": "Out of Office",
+      "url": "https://open.spotify.com/track/5cSEqfTiJMvljhej4nSOcm"
+    },
+    {
+      "album": {
         "name": "out to sea",
         "url": "https://open.spotify.com/album/2ISmy0vWGQEwofWjLbITW6"
       },
@@ -10206,6 +10386,24 @@
       "duration_ms": 152470,
       "name": "Paradox Beat",
       "url": "https://open.spotify.com/track/46XrLBGLzfLKpGl4HqEO7h"
+    },
+    {
+      "album": {
+        "name": "paraiso",
+        "url": "https://open.spotify.com/album/0b6ICh5uSehxmdo8FNIoQU"
+      },
+      "artists": [
+        {
+          "name": "Ferrosia",
+          "url": "https://open.spotify.com/artist/6VjLJOIiiHRO4yMv5jOB3I"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120836,
+      "name": "paraiso",
+      "url": "https://open.spotify.com/track/5KwC3fCl00RAh2Mwa8m2J8"
     },
     {
       "album": {
@@ -11628,7 +11826,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 133334,
       "name": "Salty Blossom",
       "url": "https://open.spotify.com/track/4v1o7hP3BqS2LtlcI2CSG4"
@@ -13623,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "Sunset Spritz",
+        "url": "https://open.spotify.com/album/374d5SFf8Y00Bvpj2dSTxC"
+      },
+      "artists": [
+        {
+          "name": "French Coast",
+          "url": "https://open.spotify.com/artist/4ubVLQ3XhCDVYkXhDxK69j"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Sunset Spritz",
+      "url": "https://open.spotify.com/track/3Hk6j31dwcbDRjXVo9oPrc"
+    },
+    {
+      "album": {
         "name": "Sunsets & Siestas",
         "url": "https://open.spotify.com/album/3RlxV6COKACpDttyu6zya5"
       },
@@ -13912,7 +14128,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 146915,
       "name": "Tempel",
       "url": "https://open.spotify.com/track/5PRK2YEF3iSufclolLWqaQ"
@@ -14867,6 +15083,24 @@
     },
     {
       "album": {
+        "name": "ultraviolet",
+        "url": "https://open.spotify.com/album/6fjUar60LVZQfOrh2muWgM"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133048,
+      "name": "ultraviolet",
+      "url": "https://open.spotify.com/track/4bPJlxKstW9b01M7S66Be8"
+    },
+    {
+      "album": {
         "name": "Under the Canopy",
         "url": "https://open.spotify.com/album/0mDwLA4hVGNM2iEfUojBzb"
       },
@@ -15008,6 +15242,24 @@
       "duration_ms": 195157,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "album": {
+        "name": "Vacations",
+        "url": "https://open.spotify.com/album/0aCk1nO85hbJTNOduSmMlb"
+      },
+      "artists": [
+        {
+          "name": "La Guy",
+          "url": "https://open.spotify.com/artist/3mNLFv7WxSWmJpknr9yRVh"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146061,
+      "name": "Vacations",
+      "url": "https://open.spotify.com/track/1iscgwj4qBiUXSgUBiaM0V"
     },
     {
       "album": {
@@ -15296,6 +15548,24 @@
       "duration_ms": 153600,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/7wUs6zZsbZ5Aluv8Vq2bij"
+    },
+    {
+      "album": {
+        "name": "waiting room",
+        "url": "https://open.spotify.com/album/44oADuZTbogHufybTBnDNp"
+      },
+      "artists": [
+        {
+          "name": "bonaira",
+          "url": "https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "waiting room",
+      "url": "https://open.spotify.com/track/0V7gtZyuQcEtXlOX10tODW"
     },
     {
       "album": {

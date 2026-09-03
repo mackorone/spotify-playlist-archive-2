@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,498 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,573 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 37 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
 | 38 | [Corazón de Niño](https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk) | [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 3:39 |
 | 39 | [Never On Sunday](https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
-| 40 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
-| 41 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
+| 40 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
+| 41 | [Never On Sunday](https://open.spotify.com/track/6Vd0Z8Te5qyQmD9yaONAwu) | [Don Costa And His Orchestra](https://open.spotify.com/artist/4QlZvCeRzqvteP2pLeL9or) | [Lost Hits Of The 60's](https://open.spotify.com/album/60u6mGOEgg8QZdIi2ezSbp) | 2:55 |
 | 42 | [Music to Watch Girls By](https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Music To Watch Girls By](https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI) | 1:51 |
 | 43 | [Adam's Hotel](https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:32 |
 | 44 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |

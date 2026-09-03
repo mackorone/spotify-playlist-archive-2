@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131594,
+  "num_followers": 131581,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 183533,
-      "name": "El Eco de Tu Voz",
-      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
+      "duration_ms": 306840,
+      "name": "El Tiempo de Ti",
+      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         }
       ],
-      "duration_ms": 306840,
-      "name": "El Tiempo de Ti",
-      "url": "https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07"
+      "duration_ms": 183533,
+      "name": "El Eco de Tu Voz",
+      "url": "https://open.spotify.com/track/4u8snuKA78YNkJujLeh7Ht"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Luz Escondida",
-        "url": "https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3"
-      },
-      "artists": [
-        {
-          "name": "Radaid",
-          "url": "https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Cuando Salga la Luna",
-      "url": "https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "La \u00daltima y Nos Vamos...",
         "url": "https://open.spotify.com/album/6cMi6Afus0crugjVaUHcuy"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 270653,
       "name": "Negra soledad - STUDIO",
       "url": "https://open.spotify.com/track/5YEFZKi7cAxJkapqoj31g3"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Luz Escondida",
+        "url": "https://open.spotify.com/album/7lvaNgNthi0xhNeUOHsma3"
+      },
+      "artists": [
+        {
+          "name": "Radaid",
+          "url": "https://open.spotify.com/artist/6L5ZxnA0J7H0pjubBZFDMz"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Cuando Salga la Luna",
+      "url": "https://open.spotify.com/track/7tla7OE84fevuyEqNgOjwH"
     },
     {
       "added_at": "2026-06-08 22:39:48",

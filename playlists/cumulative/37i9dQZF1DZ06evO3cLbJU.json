@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Slippery People",
+        "url": "https://open.spotify.com/album/0YfopIJCKAAu8PZkUO9pOc"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340413,
+      "name": "Slippery People",
+      "url": "https://open.spotify.com/track/6D5BLgwD3eZ82e2nrAsqAE"
+    },
+    {
+      "album": {
         "name": "El Nuevo Magnetismo (2003 - 2011)",
         "url": "https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9"
       },

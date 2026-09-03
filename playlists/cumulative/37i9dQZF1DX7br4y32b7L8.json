@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "Beste Zangers 2026 (Bizzey)",
+        "url": "https://open.spotify.com/album/1URzOTxuNcgHnAzQkRST9P"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105088,
+      "name": "Anne",
+      "url": "https://open.spotify.com/track/5GMVfVehF38Nnvk9onA6zH"
+    },
+    {
+      "album": {
         "name": "Anne-Fleur Vakantie",
         "url": "https://open.spotify.com/album/00j8YfkavmXeqNsTIaTpZg"
       },
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"

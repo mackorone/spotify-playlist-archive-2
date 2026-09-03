@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 472447,
+  "num_followers": 472608,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
     },
     {
+      "added_at": "2024-09-06 18:30:54",
+      "album": {
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Sonido Amazonico",
@@ -519,22 +535,6 @@
       "duration_ms": 298666,
       "name": "Santa Teresa",
       "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
-    },
-    {
-      "added_at": "2024-09-06 18:30:54",
-      "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
-      },
-      "artists": [
-        {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
-        }
-      ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2024-07-29 19:50:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Heavenly Sweetness Sampler #3",
-        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
-      },
-      "artists": [
-        {
-          "name": "Coopers",
-          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
-        }
-      ],
-      "duration_ms": 184750,
-      "name": "Acapulco, dos de la tard",
-      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Hybridism",
         "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 308813,
       "name": "Aima",
       "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
+      },
+      "artists": [
+        {
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
+        }
+      ],
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Noche de Amor",
+        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        },
+        {
+          "name": "Juancho Vargas",
+          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
+        }
+      ],
+      "duration_ms": 443874,
+      "name": "Noche de Amor",
+      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Jungle Fire",
         "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 170163,
       "name": "The Way That I Found You",
       "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Noche de Amor",
-        "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
-      },
-      "artists": [
-        {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
-        },
-        {
-          "name": "Juancho Vargas",
-          "url": "https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT"
-        }
-      ],
-      "duration_ms": 443874,
-      "name": "Noche de Amor",
-      "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Guadalupe",
-        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Guadalupe",
-      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Dubamerica",
         "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 336341,
       "name": "Se\u00f1ora Chichera",
       "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Guadalupe",
+        "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
     },
     {
       "added_at": "2024-01-11 03:44:06",

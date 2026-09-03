@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 296290,
+  "num_followers": 296385,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Dreamers Do",
-        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Sunset In The Blue (Deluxe Version)",
         "url": "https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 325659,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Dreamers Do",
+        "url": "https://open.spotify.com/album/48vMJyoBaAUs7mRtVnENwh"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/1fKTjYXhEV4f2Iz1LOYOk0"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 299714,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Put Your Head on My Shoulder",
         "url": "https://open.spotify.com/album/0zTG69rJsp5Ue1uDqaNGMh"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 299714,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6PSDknjbOQTQNo7cwBMduU"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 226573,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Edelweiss",
         "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 177773,
       "name": "Edelweiss",
       "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 226573,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/6oqlcJf6qJFiMgytmW4RfA"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
-      },
-      "artists": [
-        {
-          "name": "Diane Schuur",
-          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Our Love Will Always Be There",
-      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 320100,
       "name": "You're Mine, You (feat. Benny Benack III)",
       "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9"
+      },
+      "artists": [
+        {
+          "name": "Diane Schuur",
+          "url": "https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Our Love Will Always Be There",
+      "url": "https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Keep Me From The Cold",
-        "url": "https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 283586,
-      "name": "Keep Me From The Cold",
-      "url": "https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Because Of Billie",
         "url": "https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 270000,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Keep Me From The Cold",
+        "url": "https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 283586,
+      "name": "Keep Me From The Cold",
+      "url": "https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Wish You Were Gay",
+        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
+      },
+      "artists": [
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 188039,
+      "name": "Wish You Were Gay",
+      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "The Thrill is Gone (Unplugged)",
         "url": "https://open.spotify.com/album/0uOcT2YRlzcKMG1oQwfnXt"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 245029,
       "name": "The Thrill is Gone - Unplugged",
       "url": "https://open.spotify.com/track/0PWF5mmUbzOp9A2u51c7HA"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Wish You Were Gay",
-        "url": "https://open.spotify.com/album/3roCz7s3bGhgE56EbaSnEb"
-      },
-      "artists": [
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 188039,
-      "name": "Wish You Were Gay",
-      "url": "https://open.spotify.com/track/6tD34RjtffptSTGpIOp9EB"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Our Last Goodbye",
+        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Lyutova",
+          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
+        }
+      ],
+      "duration_ms": 312817,
+      "name": "Our Last Goodbye",
+      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 393984,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Our Last Goodbye",
-        "url": "https://open.spotify.com/album/1n2FLr2kCIyovK0UdIDzzl"
-      },
-      "artists": [
-        {
-          "name": "Anastasia Lyutova",
-          "url": "https://open.spotify.com/artist/2XXM9pDf8YPMUjyuaq9u9K"
-        }
-      ],
-      "duration_ms": 312817,
-      "name": "Our Last Goodbye",
-      "url": "https://open.spotify.com/track/67At7oengoEs0vS6v0lufo"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
-        "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Rubin",
-          "url": "https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ"
-        }
-      ],
-      "duration_ms": 430081,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "My Sweetie & I",
         "url": "https://open.spotify.com/album/2ey5s2msgrSIuW8BamCOHo"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 355102,
       "name": "My Sweetie & I",
       "url": "https://open.spotify.com/track/6A2cWbyXgKMufDUr5dAJkV"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
+        "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Rubin",
+          "url": "https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ"
+        }
+      ],
+      "duration_ms": 430081,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2463,6 +2463,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "Thinker and a Fool",
         "url": "https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb"
       },
@@ -2479,22 +2495,6 @@
       "duration_ms": 360973,
       "name": "Thinker and a Fool",
       "url": "https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2519,22 +2519,6 @@
       "duration_ms": 278898,
       "name": "The Sweetest Moments",
       "url": "https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 224016,
-      "name": "All Or Nothing At All",
-      "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2567,6 +2551,22 @@
       "duration_ms": 332800,
       "name": "There's a Small Hotel - Live in Gothenburg",
       "url": "https://open.spotify.com/track/1TFJF3DsaqprjHeIZUja5h"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/0Y9LX6aX9SxXZnvd1K0HAz"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 224016,
+      "name": "All Or Nothing At All",
+      "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "All You Need Is The Girl",
-        "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
-      },
-      "artists": [
-        {
-          "name": "April Barrows",
-          "url": "https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ"
-        }
-      ],
-      "duration_ms": 290880,
-      "name": "Until It Happens to You",
-      "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "There's Only One...",
         "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 312840,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "All You Need Is The Girl",
+        "url": "https://open.spotify.com/album/4XhmSNCri3iq7vOF4n55Bz"
+      },
+      "artists": [
+        {
+          "name": "April Barrows",
+          "url": "https://open.spotify.com/artist/49Pr1w34iIV8qlIcnsLdwQ"
+        }
+      ],
+      "duration_ms": 290880,
+      "name": "Until It Happens to You",
+      "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3531,26 +3531,6 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
-        "name": "Fenyrose Non Dimenticar",
-        "url": "https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa"
-      },
-      "artists": [
-        {
-          "name": "Mario Romano",
-          "url": "https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b"
-        },
-        {
-          "name": "Jackie Richardson",
-          "url": "https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA"
-        }
-      ],
-      "duration_ms": 271876,
-      "name": "And If You Please",
-      "url": "https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
         "name": "Hushabye Mountain",
         "url": "https://open.spotify.com/album/1P8FJOJUZf979YeyrzRAsZ"
       },
@@ -3599,6 +3579,26 @@
       "duration_ms": 326133,
       "name": "Our Love Remains",
       "url": "https://open.spotify.com/track/4Ion6vCVcGkSbd6KnedF4P"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
+        "name": "Fenyrose Non Dimenticar",
+        "url": "https://open.spotify.com/album/6Rhkna0aH4rERryCt4gSaa"
+      },
+      "artists": [
+        {
+          "name": "Mario Romano",
+          "url": "https://open.spotify.com/artist/2jFXgkiRAvxNTZQ4rQVg9b"
+        },
+        {
+          "name": "Jackie Richardson",
+          "url": "https://open.spotify.com/artist/1pla8afeXCjPKlzJe6wyQA"
+        }
+      ],
+      "duration_ms": 271876,
+      "name": "And If You Please",
+      "url": "https://open.spotify.com/track/7065TeNvF2nMoBv6yD3CIz"
     },
     {
       "added_at": "2026-07-03 04:00:58",

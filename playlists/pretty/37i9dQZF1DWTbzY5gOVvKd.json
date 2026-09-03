@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298591,
+  "num_followers": 1298616,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 367453,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 278901,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 367453,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4fT0kbU0e5AxBgCt84qOzC"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 331141,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Stop Searching for Love (feat. Kate Ceberano)",
         "url": "https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
       },
       "artists": [
         {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
         }
       ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+      "duration_ms": 331141,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -803,6 +787,22 @@
       "duration_ms": 160000,
       "name": "I Could Have Danced All Night",
       "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-07-03 08:18:20",

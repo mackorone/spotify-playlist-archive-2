@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "ANGELINA",
+        "url": "https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "ANGELINA",
+      "url": "https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi"
+    },
+    {
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 170721,
       "name": "Away",
       "url": "https://open.spotify.com/track/6Q9DpzGvxP57GD19bUdXOb"

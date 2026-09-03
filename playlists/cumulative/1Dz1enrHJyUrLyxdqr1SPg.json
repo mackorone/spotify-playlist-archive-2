@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Dobi dobi",
+        "url": "https://open.spotify.com/album/4dpb9axgVa3lb7dQX1tXiq"
+      },
+      "artists": [
+        {
+          "name": "Alterkix",
+          "url": "https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107500,
+      "name": "Dobi dobi",
+      "url": "https://open.spotify.com/track/7qr0TOXdVYCmRBaptThuzq"
+    },
+    {
+      "album": {
         "name": "PROM",
         "url": "https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg"
       },
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Calming Historic Guitar",
+        "url": "https://open.spotify.com/album/1zFu1SFKNO7sjVuVA4iWP8"
+      },
+      "artists": [
+        {
+          "name": "Jim Sande",
+          "url": "https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/69UejJMOGGzFP2LCBCPSF0"
+    },
+    {
+      "album": {
         "name": "Guess I'll Never Get Over You",
         "url": "https://open.spotify.com/album/4KNM7WAwRDdkTQ9AtG24UP"
       },
@@ -850,6 +886,28 @@
       "duration_ms": 191000,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/24r9Y2d6BSed4bLj1FaFW2"
+    },
+    {
+      "album": {
+        "name": "Heroes Get Hurt",
+        "url": "https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        },
+        {
+          "name": "Terry Lupton",
+          "url": "https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222805,
+      "name": "Heroes Get Hurt",
+      "url": "https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk"
     },
     {
       "album": {
@@ -1157,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "John 5.19",
+        "url": "https://open.spotify.com/album/2g9ad173syPYKJuRUV8z50"
+      },
+      "artists": [
+        {
+          "name": "TownCryer",
+          "url": "https://open.spotify.com/artist/15Ll7Kz2Fg3Hqx5AdzDfDT"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "John 5.19",
+      "url": "https://open.spotify.com/track/5lgzptwRlrbvEM39xLDzQP"
+    },
+    {
+      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/700CeLKBGmOGKQSqnPUwQc"
       },
@@ -1222,7 +1298,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 214000,
       "name": "Kusulu",
       "url": "https://open.spotify.com/track/614TnXpkPYMFplzjNQoUge"
@@ -1432,7 +1508,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 155977,
       "name": "Mkpakpa",
       "url": "https://open.spotify.com/track/4L8L2epkMdYWFFwspUyzZQ"
@@ -1721,6 +1797,32 @@
     },
     {
       "album": {
+        "name": "Ritual Machine",
+        "url": "https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u"
+      },
+      "artists": [
+        {
+          "name": "RA MAJOR",
+          "url": "https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj"
+        },
+        {
+          "name": "Silvr Sage",
+          "url": "https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf"
+        },
+        {
+          "name": "Suffolk",
+          "url": "https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249111,
+      "name": "Ritual Machine",
+      "url": "https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs"
+    },
+    {
+      "album": {
         "name": "Rubber Mask of Holy Wrath",
         "url": "https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV"
       },
@@ -1822,7 +1924,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 215125,
       "name": "Smartest Person",
       "url": "https://open.spotify.com/track/0SoGiDaTzJok5dNgawvdvS"
@@ -2350,7 +2452,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 187183,
       "name": "The tension mounts",
       "url": "https://open.spotify.com/track/31EdAXmtMZ8ogXfAM2JBte"
@@ -2724,6 +2826,24 @@
       "duration_ms": 216647,
       "name": "Which Way Do We Go Joe",
       "url": "https://open.spotify.com/track/6dERKxXSWO7O8B3T3Iceaa"
+    },
+    {
+      "album": {
+        "name": "Which Way Home",
+        "url": "https://open.spotify.com/album/1IIFgNoe9XmkCVCFuIKeta"
+      },
+      "artists": [
+        {
+          "name": "Simon Watt",
+          "url": "https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Which Way Home",
+      "url": "https://open.spotify.com/track/5gypSjbATM00GdWh4VoKl2"
     },
     {
       "album": {

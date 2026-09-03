@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1069053,
+  "num_followers": 1069070,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
+        "name": "Switch On",
+        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "duration_ms": 258218,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
         "name": "Close To Me (with Madison Hughes)",
         "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 178869,
       "name": "Close To Me (with Madison Hughes)",
       "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "Switch On",
-        "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
-      },
-      "artists": [
-        {
-          "name": "Sweet Talk",
-          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
-        }
-      ],
-      "duration_ms": 258218,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 296380,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "LONG WAY FROM THE BOTTOM",
-        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 153730,
-      "name": "LONG WAY FROM THE BOTTOM",
-      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "LONG WAY FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 153730,
+      "name": "LONG WAY FROM THE BOTTOM",
+      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Ain't Half Bad",
-        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ain't Half Bad",
-      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Blues Worse Than I Ever Had",
         "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
       },
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "The Mule",
-        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
       },
       "artists": [
         {
-          "name": "The Mystix",
-          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
-        },
-        {
-          "name": "Larry Campbell",
-          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 180150,
-      "name": "The Mule",
-      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1155,6 +1135,26 @@
       "duration_ms": 204986,
       "name": "Let the Music Get Down in Your Soul",
       "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        }
+      ],
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
       "added_at": "2026-08-28 04:02:01",

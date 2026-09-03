@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178805,
+  "num_followers": 178806,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Saga All Stars: Be Bop a Lula / 1956",
-        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
       },
       "artists": [
         {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
-        },
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Be Bop a Lula",
-      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -211,18 +207,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+        "name": "Saga All Stars: Be Bop a Lula / 1956",
+        "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
+      "duration_ms": 156493,
+      "name": "Be Bop a Lula",
+      "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Single Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
-      },
-      "artists": [
-        {
-          "name": "The Four Preps",
-          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 185466,
       "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
       "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Single Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr"
+      },
+      "artists": [
+        {
+          "name": "The Four Preps",
+          "url": "https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK"
     },
     {
       "added_at": "2023-10-17 16:18:55",

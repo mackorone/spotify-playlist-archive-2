@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-738 songs - 1 day 14 hr 45 min
+739 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Brown Dream Noise](https://open.spotify.com/track/2vHP59OnsqJKuwbJCBcnA1) | [Dreamsound](https://open.spotify.com/artist/3Ck26BVvvBgOPbjvkO9b3g) | [Dreaming Of Brown Noise](https://open.spotify.com/album/4fI20ufVMSoJuJ2AKZLFsE) | 2:34 | 2021-12-01 | 2025-11-14 |
 | [Brown Focus Noise 400 Hz Soft Q](https://open.spotify.com/track/5AqHhTMO9sO70kzWu2ji3a) | [Aileron](https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt) | [Brown Cozy Noise](https://open.spotify.com/album/3w4ELmY4aGFZKyNGO1BfZ9) | 3:02 | 2022-11-18 |  |
 | [Brown Gravity](https://open.spotify.com/track/1ZHIYOrGgX0gVs9cYKe5ce) | [Symphony of Noises](https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj) | [Brown Gravity](https://open.spotify.com/album/31kzdebZ1Qd8nINxEMLlKq) | 2:42 | 2026-03-31 |  |
+| [Brown Haze](https://open.spotify.com/track/0lV6F1o7kY8XPrDJu7uYxI) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Brownian](https://open.spotify.com/album/58anOfTQHMygZ3t0Og296W) | 2:53 | 2026-08-14 |  |
 | [Brown Heavenly Noise](https://open.spotify.com/track/0SSchGW5zpdFghrt6pcVff) | [Natura Ferox](https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH) | [Brown Heavenly Noise](https://open.spotify.com/album/0iBBk21u80JLwr4TO0tRGk) | 3:08 | 2022-11-18 |  |
 | [Brown Low Frequencies](https://open.spotify.com/track/6mcsuKDL1ipawTzRLeK7aj) | [Bits & Noise](https://open.spotify.com/artist/7kcK3nZZHSgYrQLdexefpQ) | [Sleepy Brown Noise](https://open.spotify.com/album/3qoesic2OL9fJxpQkndILq) | 2:21 | 2022-12-20 |  |
 | [Brown Low Pass](https://open.spotify.com/track/4Aqgk1uZbcBAyrN8dg3qVC) | [Brown vs\. Noise](https://open.spotify.com/artist/4Ccr2EcsOYnM4ydZzTPgP8) | [Brown Noise](https://open.spotify.com/album/3iPzi2ZDIBuzCLh5G4jQCg) | 3:40 | 2021-12-01 | 2022-08-16 |
@@ -564,7 +565,7 @@
 | [pink peace](https://open.spotify.com/track/1ToLGY7ev8l7tzu6uZgf8D) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [pink clouds \(white noise\)](https://open.spotify.com/album/5ad5teildwaJGH9GeSh80r) | 3:17 | 2021-12-01 | 2022-10-12 |
 | [Pink Perfect](https://open.spotify.com/track/0itto7XEGoA9yj8Wl1AhjL) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Beautiful Pink](https://open.spotify.com/album/21qc62RvN3yK87JJzawGV8) | 3:11 | 2022-11-18 | 2026-09-02 |
 | [Pink Pulse](https://open.spotify.com/track/2ftj8ntnOeh01t8fZ9Acwf) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Pink Pulse](https://open.spotify.com/album/17VvYfibRHRDoPWTBz2Um2) | 3:23 | 2024-02-09 | 2026-04-03 |
-| [Pink Relaxative](https://open.spotify.com/track/0Q2xNXtrUEWKOORsYd0lmh) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [In Noise We Trust](https://open.spotify.com/album/1O6qnez7geSm25PhYvB8md) | 2:52 | 2023-01-27 |  |
+| [Pink Relaxative](https://open.spotify.com/track/0Q2xNXtrUEWKOORsYd0lmh) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [In Noise We Trust](https://open.spotify.com/album/1O6qnez7geSm25PhYvB8md) | 2:52 | 2023-01-27 | 2026-09-03 |
 | [Pink Rest Noise](https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7) | [Me & Us](https://open.spotify.com/artist/3uMrYsI7icaVVHV2DxMJqC) | [Focus With Deep Pink Noise](https://open.spotify.com/album/3kivWK63tfnqCy6T5PX7Wm) | 2:53 | 2023-01-27 | 2026-09-02 |
 | [Pink Sky](https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Pink Sky](https://open.spotify.com/album/61VcpmFcMq9l2fVOr6zsNu) | 3:38 | 2024-02-09 |  |
 | [Pink Sky Noise](https://open.spotify.com/track/0AP0T794qaAvwfUnT4j7Mb) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Restful Pink Noise](https://open.spotify.com/album/5Wsu1Xou2OwBeZUuL8c977) | 2:07 | 2022-12-20 |  |

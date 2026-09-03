@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Fox N' Vead
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,066 likes - 86 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,141 likes - 86 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87637,
+  "num_followers": 87643,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 207984,
+      "name": "Feels Pt. 2",
+      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/4gHbT67vop4OumOOdluHWd"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 207984,
-      "name": "Feels Pt. 2",
-      "url": "https://open.spotify.com/track/3Qa2HE3GiMHIAvXIOosBiA"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
       },
       "artists": [
         {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
         }
       ],
-      "duration_ms": 154435,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo"
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Somebody New",
-        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
       },
       "artists": [
         {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
         }
       ],
-      "duration_ms": 198932,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+      "duration_ms": 154435,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 197205,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/0sNisQsHNxOQ4P1DL14hCI"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 181156,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/2kqAlHqzn3vURg8kOGvXS3"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 197205,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Taste of Heaven",
         "url": "https://open.spotify.com/album/1j5cyAmFErb1wF3SYGRuCQ"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 157689,
       "name": "Taste of Heaven",
       "url": "https://open.spotify.com/track/7lHu3bOYZBJNwlftCTZxfh"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "New Tattoo",
-        "url": "https://open.spotify.com/album/4sJ9FkL8ibug35Bd45V9dh"
-      },
-      "artists": [
-        {
-          "name": "Brian Dunne",
-          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
-        }
-      ],
-      "duration_ms": 211583,
-      "name": "New Tattoo",
-      "url": "https://open.spotify.com/track/2i57J7yZmaYn48ilF9QeBH"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 151200,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "New Tattoo",
+        "url": "https://open.spotify.com/album/4sJ9FkL8ibug35Bd45V9dh"
+      },
+      "artists": [
+        {
+          "name": "Brian Dunne",
+          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
+        }
+      ],
+      "duration_ms": 211583,
+      "name": "New Tattoo",
+      "url": "https://open.spotify.com/track/2i57J7yZmaYn48ilF9QeBH"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "In The Cold Light of Monday",
-        "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
-      },
-      "artists": [
-        {
-          "name": "Novastar",
-          "url": "https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Word's Out",
-      "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 184546,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "In The Cold Light of Monday",
+        "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
+      },
+      "artists": [
+        {
+          "name": "Novastar",
+          "url": "https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Word's Out",
+      "url": "https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
-      },
-      "artists": [
-        {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Queen Of Elba",
-      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "The Healing",
         "url": "https://open.spotify.com/album/1Giu0w3VhoS72xVjaWGTCH"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 209213,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/71NRgNmHbukGD3bXxN5Xyx"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Elba",
+        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Queen Of Elba",
+      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "I Could Be Wrong",
-        "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "I Could Be Wrong",
-      "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "First In Line",
         "url": "https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 186615,
       "name": "First In Line",
       "url": "https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "I Could Be Wrong",
+        "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "I Could Be Wrong",
+      "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2411,18 +2411,58 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Dark Before The Dawn",
-        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
+        "name": "Armada Acoustic 2017",
+        "url": "https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr"
       },
       "artists": [
         {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
         }
       ],
-      "duration_ms": 215584,
-      "name": "Dark Before The Dawn",
-      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Too Far",
+        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 180159,
+      "name": "Too Far",
+      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "I'll Hold On",
+        "url": "https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "I\u2019ll Hold On",
+      "url": "https://open.spotify.com/track/1M7umxsXNX4q9mCRk2SWzP"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2459,58 +2499,18 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Armada Acoustic 2017",
-        "url": "https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr"
+        "name": "Dark Before The Dawn",
+        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
         }
       ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "I'll Hold On",
-        "url": "https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "I\u2019ll Hold On",
-      "url": "https://open.spotify.com/track/1M7umxsXNX4q9mCRk2SWzP"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "Too Far",
-        "url": "https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 180159,
-      "name": "Too Far",
-      "url": "https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg"
+      "duration_ms": 215584,
+      "name": "Dark Before The Dawn",
+      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "World's Worst Girlfriend",
-        "url": "https://open.spotify.com/album/4VQtiwqwug58DnnejHvGv6"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "World's Worst Girlfriend",
-      "url": "https://open.spotify.com/track/22NOtyVXO6HsxpmEZFHdMh"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Meet You In The Middle",
         "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
       },
@@ -2699,6 +2683,38 @@
       "duration_ms": 210760,
       "name": "Meet You In The Middle",
       "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "It Takes Two",
+        "url": "https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 158803,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "World's Worst Girlfriend",
+        "url": "https://open.spotify.com/album/4VQtiwqwug58DnnejHvGv6"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "World's Worst Girlfriend",
+      "url": "https://open.spotify.com/track/22NOtyVXO6HsxpmEZFHdMh"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2723,18 +2739,18 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "It Takes Two",
-        "url": "https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu"
+        "name": "Can't Take You Home",
+        "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
       },
       "artists": [
         {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+          "name": "Denzel Chain",
+          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
         }
       ],
-      "duration_ms": 158803,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx"
+      "duration_ms": 181935,
+      "name": "Can't Take You Home",
+      "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2767,22 +2783,6 @@
       "duration_ms": 173040,
       "name": "Can't Love",
       "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "Can't Take You Home",
-        "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
-      },
-      "artists": [
-        {
-          "name": "Denzel Chain",
-          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Can't Take You Home",
-      "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/2AfiQt1k6KTVtrWKgLHWYH"
+      },
+      "artists": [
+        {
+          "name": "St. Solaire",
+          "url": "https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8"
+        }
+      ],
+      "duration_ms": 258088,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/2ytoYz3hYTQUp01wYFEeSU"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
         "name": "House On Fire (Duet Version)",
         "url": "https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou"
       },
@@ -2871,22 +2887,6 @@
       "duration_ms": 179561,
       "name": "House On Fire - Duet Version",
       "url": "https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/2AfiQt1k6KTVtrWKgLHWYH"
-      },
-      "artists": [
-        {
-          "name": "St. Solaire",
-          "url": "https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8"
-        }
-      ],
-      "duration_ms": 258088,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/2ytoYz3hYTQUp01wYFEeSU"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -2971,6 +2971,22 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4BmxmKGu5tA194V2qCuRw6"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/43DQTjc9abmcaGOq6Wjpdo"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
         "name": "so i let you (15th of june - evening)",
         "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
       },
@@ -3003,6 +3019,22 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 195355,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
         "name": "Fire Needs Air",
         "url": "https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC"
       },
@@ -3019,18 +3051,18 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
       },
       "artists": [
         {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 195355,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -3067,38 +3099,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4BmxmKGu5tA194V2qCuRw6"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/43DQTjc9abmcaGOq6Wjpdo"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "I Don't Deserve It",
         "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
       },
@@ -3131,22 +3131,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Ghost Of Me",
-        "url": "https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB"
-      },
-      "artists": [
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 184390,
-      "name": "Ghost Of Me",
-      "url": "https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 180859,
       "name": "DON.T - Acoustic",
       "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Ghost Of Me",
+        "url": "https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "Ghost Of Me",
+      "url": "https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -3371,22 +3371,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 225017,
-      "name": "Javelin",
-      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/3Y47VDmgWHPjzPSotTBl2I"
       },
@@ -3419,6 +3403,22 @@
       "duration_ms": 190786,
       "name": "Starship Fantasy",
       "url": "https://open.spotify.com/track/0XKLRDrYJwxGuel9cKhIbd"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -3599,22 +3599,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 194658,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Space for Two",
         "url": "https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG"
       },
@@ -3627,6 +3611,38 @@
       "duration_ms": 206310,
       "name": "Space for Two",
       "url": "https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 194658,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -3663,22 +3679,6 @@
       "duration_ms": 197751,
       "name": "How Am I Gonna Love Myself",
       "url": "https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2026-08-20 22:00:27",
@@ -3731,22 +3731,6 @@
     {
       "added_at": "2026-08-20 22:00:27",
       "album": {
-        "name": "Be Yours",
-        "url": "https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi"
-      },
-      "artists": [
-        {
-          "name": "Rianne",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Be Yours",
-      "url": "https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5"
-    },
-    {
-      "added_at": "2026-08-20 22:00:27",
-      "album": {
         "name": "Drown Us Out",
         "url": "https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq"
       },
@@ -3759,6 +3743,22 @@
       "duration_ms": 196089,
       "name": "Drown Us Out",
       "url": "https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V"
+    },
+    {
+      "added_at": "2026-08-20 22:00:27",
+      "album": {
+        "name": "Be Yours",
+        "url": "https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi"
+      },
+      "artists": [
+        {
+          "name": "Rianne",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Be Yours",
+      "url": "https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5"
     },
     {
       "added_at": "2026-08-20 22:00:27",

@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63448,
+  "num_followers": 63464,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The Unsung Adventures of Punch Brothers",
-        "url": "https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Solve Knut (untied)",
-      "url": "https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 260863,
       "name": "Coming Down from Green Mountain",
       "url": "https://open.spotify.com/track/6mQ3VQn9TEZaIuzvnkQm2I"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The Unsung Adventures of Punch Brothers",
+        "url": "https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Solve Knut (untied)",
+      "url": "https://open.spotify.com/track/3oo9DJgPELTv0t6hksfcur"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Robin And Marian",
+      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Elk River Blues",
         "url": "https://open.spotify.com/album/1yEJvnWp10d2Z8ye8mjH9c"
       },
@@ -311,46 +327,6 @@
       "duration_ms": 147043,
       "name": "Elk River Blues",
       "url": "https://open.spotify.com/track/53iYmlE5YmVOtmU5l5b11c"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Robin And Marian",
-      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Skip, Hop And Wobble",
-        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Russ Barenberg",
-          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Big Sciota",
-      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -391,6 +367,30 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Skip, Hop And Wobble",
+        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Russ Barenberg",
+          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Big Sciota",
+      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Song Up In Her Head",
         "url": "https://open.spotify.com/album/7syK3PKhdIzVswlU7CwRmP"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 171266,
       "name": "Mansinneedof",
       "url": "https://open.spotify.com/track/7vxClXa9foKBmy5iypjCvq"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -439,18 +423,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "A Reef Where Two Seas Met",
-        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "The Riverside",
-          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 139000,
-      "name": "A Reef Where Two Seas Met",
-      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -471,6 +455,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "A Reef Where Two Seas Met",
+        "url": "https://open.spotify.com/album/2du5EhBR8GshjVrI7ZOkzY"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "A Reef Where Two Seas Met",
+      "url": "https://open.spotify.com/track/6UQH7491LWV1y6G5lu05ai"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Follow Me Down",
         "url": "https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 195200,
       "name": "Peace",
       "url": "https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Song of the Water Kelpie (unsung)",
+        "url": "https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 308653,
+      "name": "Song of the Water Kelpie (unsung)",
+      "url": "https://open.spotify.com/track/6ugixxbJeppa2bI30zZ9Hy"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -503,22 +519,6 @@
       "duration_ms": 251000,
       "name": "Moon in Motion 1",
       "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Song of the Water Kelpie (unsung)",
-        "url": "https://open.spotify.com/album/7kRrGi3z47EwseUaHypsAU"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 308653,
-      "name": "Song of the Water Kelpie (unsung)",
-      "url": "https://open.spotify.com/track/6ugixxbJeppa2bI30zZ9Hy"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -791,6 +775,54 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+      },
+      "artists": [
+        {
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -851,38 +883,6 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
-      },
-      "artists": [
-        {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
-        }
-      ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 264840,
       "name": "Big Daddy Rabbit",
       "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Cliffhanger",
         "url": "https://open.spotify.com/album/0OPubM9XUmhjnyd7BUVmKl"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 240000,
       "name": "Cliffhanger",
       "url": "https://open.spotify.com/track/3dAvN1Y8IUQ1Akle71r2i5"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2026-08-28 04:01:30",

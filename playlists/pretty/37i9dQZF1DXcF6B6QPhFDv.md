@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,172,413 likes - 81 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,171,872 likes - 81 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

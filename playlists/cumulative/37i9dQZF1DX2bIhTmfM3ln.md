@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,050 songs - 2 day 2 hr 31 min
+1,051 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-07-14 | 2024-06-28 |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-02-11 | 2022-08-19 |
 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 |  |
+| [ANGELINA](https://open.spotify.com/track/63HgTd6auz95LJKKW4Hssi) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [ANGELINA](https://open.spotify.com/album/0LWe3uTbX8Kb6oBFO6SX3P) | 2:34 | 2026-08-28 |  |
 | [ANGELS](https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ANGELS](https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM) | 3:04 | 2026-02-13 |  |
 | [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 | 2024-06-21 | 2024-07-13 |
 | [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 | 2026-03-06 | 2026-08-01 |
@@ -84,7 +85,7 @@
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-01-28 |
 | [Available](https://open.spotify.com/track/7dxIRBHniuTu8lKYJsTcM5) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Available](https://open.spotify.com/album/4Zm9Uo3atRc7urLrzvudn0) | 2:39 | 2026-04-24 | 2026-08-01 |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-02 | 2024-08-26 |
-| [Away](https://open.spotify.com/track/6Q9DpzGvxP57GD19bUdXOb) | [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Away](https://open.spotify.com/album/33APuT2agLYopTqNvbNAuJ) | 2:50 | 2026-08-28 |  |
+| [Away](https://open.spotify.com/track/6Q9DpzGvxP57GD19bUdXOb) | [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Away](https://open.spotify.com/album/33APuT2agLYopTqNvbNAuJ) | 2:50 | 2026-08-28 | 2026-09-03 |
 | [Away](https://open.spotify.com/track/7vp8JafiMNyGSNH4vrHogz) | [Cazulee](https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Away](https://open.spotify.com/album/38zn2ovgLlxDXUPknFLiAB) | 3:05 | 2025-09-05 | 2025-10-30 |
 | [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-13 | 2026-03-20 |
 | [Away](https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [South South Romance: After Hours](https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui) | 2:08 | 2026-05-22 | 2026-08-01 |

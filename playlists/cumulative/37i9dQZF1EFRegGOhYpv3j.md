@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 7 min
+118 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 | 2024-04-03 |  |
 | [Check On Your Friends](https://open.spotify.com/track/3tWewwZyFvVOfgeIJtPSKO) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/1yaXyTC6w78QNjlYURpqEa) | 3:07 | 2025-11-20 | 2025-11-22 |
 | [Check On Your Friends](https://open.spotify.com/track/5mFhUV3hieBzJF5hUZLMVL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant Commentary](https://open.spotify.com/album/02HvVdouLKpJD56EJfxyZo) | 3:07 | 2025-11-21 |  |
+| [Closing Time](https://open.spotify.com/track/1LQecNTh73w8tEbp0EEYKN) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 2:38 | 2026-09-02 |  |
 | [Closing Time \(with Kelsea Ballerini\)](https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Closing Time](https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl) | 2:38 | 2026-08-26 | 2026-08-31 |
-| [Closing Time \(with Kelsea Ballerini\)](https://open.spotify.com/track/5OZYgU49KASQHi6fU9e3Cm) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 2:38 | 2026-08-30 |  |
+| [Closing Time \(with Kelsea Ballerini\)](https://open.spotify.com/track/5OZYgU49KASQHi6fU9e3Cm) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art](https://open.spotify.com/album/0PW84fpvyi9bfEenBtUiYA) | 2:38 | 2026-08-30 | 2026-09-03 |
 | [Come Here Cowboy](https://open.spotify.com/track/2hBzDI176FXjOyCiNuvifG) | [Bunnie Xo](https://open.spotify.com/artist/56Dw1CLlqjQuQkBLm25hHP) | [Come Here Cowboy](https://open.spotify.com/album/4xeFm14IBvxCjYdOZutcAA) | 2:04 | 2024-12-11 |  |
 | [Cowboys Cry Too](https://open.spotify.com/track/3jSN1UlLaeWYRjjIIeAJkd) | [Good Girls Inc.](https://open.spotify.com/artist/7lShJZDCaM15sDfIE3DOjA) | [Cowboys Cry Too](https://open.spotify.com/album/1Wc45qb892V3zVDdDdrHzl) | 2:58 | 2024-07-18 | 2024-08-13 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-10-23 | 2024-10-28 |

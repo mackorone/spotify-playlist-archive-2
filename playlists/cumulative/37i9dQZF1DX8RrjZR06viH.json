@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 196758,
       "name": "Heim te st\u00e5vo",
       "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
@@ -5101,7 +5101,7 @@
     },
     {
       "album": {
-        "name": "Save My Love (feat. Gryffin) [Acoustic Version]",
+        "name": "Save My Love (Acoustic Version)",
         "url": "https://open.spotify.com/album/1ND6tGCzJKjBigJfnBSEQl"
       },
       "artists": [
@@ -5122,7 +5122,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187279,
-      "name": "Save My Love (feat. Gryffin) - Acoustic Version",
+      "name": "Save My Love - Acoustic Version",
       "url": "https://open.spotify.com/track/145Gmuky2Ujuu5OQEfihUG"
     },
     {
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 264375,
       "name": "Tilgi meg",
       "url": "https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,766 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,813 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 64 | [Somebody That I Used To Know](https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Somebody That I Used To Know](https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy) | 4:02 |
 | 65 | [Epic Sax Song](https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Epic Sax Song](https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4) | 2:56 |
 | 66 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
-| 67 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
-| 68 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |
+| 67 | [Clarity](https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Clarity](https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13) | 3:09 |
+| 68 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 | 69 | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/track/6R5ZDu7hQJqSGjJKe3J78K) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Boyz In Paris \(with VINAI\) \(Coone Remix\)](https://open.spotify.com/album/0l48E2jODBFaWoMjrpNyGm) | 3:36 |
 | 70 | [Smooth Criminal](https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Smooth Criminal](https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ) | 2:14 |
 

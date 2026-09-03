@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fSpotify presenteert Woordenschat 1 sept met <a href=\"spotify:artist:0MSYpagcvnSP2o91Ji2OCw\">KM</a>, <a href=\"spotify:artist:19CxlXaWOlZh2pqZrJlHxN\">Frsh</a>, <a href=\"spotify:artist:4bB3nz947QqaXQ5DZFcZgS\">Qlas</a>, <a href=\"spotify:artist:5vxYgsUqkYuqL5nLzwnKsk\">OYSTER</a> & <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a> ",
+  "description": "\u2757\ufe0fNieuwe tracks: Jack, Mula en Bokoesam. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -6771,6 +6771,24 @@
     },
     {
       "album": {
+        "name": "Eb & Vloed",
+        "url": "https://open.spotify.com/album/2R5kRgGUs6vPsAOrYohTaO"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Mijn Pad",
+      "url": "https://open.spotify.com/track/6tiRIKLmoHdBeZxceb2F2w"
+    },
+    {
+      "album": {
         "name": "Millies",
         "url": "https://open.spotify.com/album/3BJQFhp1RtASot1fR0ry3P"
       },
@@ -11176,7 +11194,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 148645,
       "name": "Waar Was Je?",
       "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"

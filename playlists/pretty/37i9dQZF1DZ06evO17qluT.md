@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,601 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,666 likes - 48 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 47 | [Deus do Furdunço](https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nave](https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Gigantes](https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32) | 2:28 |
 | 48 | [Se Eu Não Manter](https://open.spotify.com/track/0mBr4S97a0duSfgebe007c) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:11 |
 
-Snapshot ID: `apTEAAAAAABw0d742+ZU4Fsabnt5hecQ`
+Snapshot ID: `apYVgAAAAABar3aLtRMhIJik3OMqeeTR`

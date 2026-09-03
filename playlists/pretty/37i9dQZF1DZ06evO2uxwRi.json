@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 44014,
+  "num_followers": 44018,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADlccr0aLjEaCbJ8QtMT+Sh",
+  "snapshot_id": "apYVgAAAAABIsOlRnVqEMpKOJPPAkfqQ",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resurrection: Ascension",
-        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 197225,
-      "name": "Vicious Love (feat. Hayley Williams)",
-      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
+      "duration_ms": 222840,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK"
+        "name": "Resurrection: Ascension",
+        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp"
+      "duration_ms": 197225,
+      "name": "Vicious Love (feat. Hayley Williams)",
+      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 220653,
-      "name": "King Of Wishful Thinking",
-      "url": "https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI"
+      "duration_ms": 200906,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Crazy For You",
-      "url": "https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a"
+      "duration_ms": 220653,
+      "name": "King Of Wishful Thinking",
+      "url": "https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good To Go",
-        "url": "https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 182945,
-      "name": "Good To Go",
-      "url": "https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 199226,
       "name": "The Glory Of Love",
       "url": "https://open.spotify.com/track/6cVhAh4c2tduGpxeWwBAY7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/57D6Bp11c96DE7F1I40F7w"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 182945,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/2YTLWdi3LS7YsMenX0qZIS"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 218975,
-      "name": "Laugh It Off",
-      "url": "https://open.spotify.com/track/04b0odih4serjGTkd2vjUm"
+      "duration_ms": 204821,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 204821,
-      "name": "A Love Song",
-      "url": "https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1"
+      "duration_ms": 218975,
+      "name": "Laugh It Off",
+      "url": "https://open.spotify.com/track/04b0odih4serjGTkd2vjUm"
     },
     {
       "added_at": null,

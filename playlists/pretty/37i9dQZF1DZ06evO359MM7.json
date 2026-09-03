@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 450610,
+  "num_followers": 450656,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAZccdZi1DDa18kljirFpf2",
+  "snapshot_id": "apYVgAAAAADvrsJDIgadRcqyaZiWGfdc",
   "tracks": [
     {
       "added_at": null,
@@ -987,26 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Them",
-        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 204377,
-      "name": "One of Them (with Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
+      "duration_ms": 188606,
+      "name": "No Sucker (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6A9wHAasMxed0firnDao1K"
     }
   ],
   "unique_name": "This Is Lil Baby",

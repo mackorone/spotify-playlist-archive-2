@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Warning
 
-2,267 songs - 5 day 12 hr 9 min
+2,268 songs - 5 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Diagnosis](https://open.spotify.com/track/7vlddLsCrx8WdhCHgvHd7b) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Diagnosis](https://open.spotify.com/album/3aZsnirge4waNPaR1nvZRE) | 3:09 | 2023-06-30 | 2023-07-07 |
 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-06-05 | 2025-07-24 |
 | [DIE ANOTHER DAY \(feat\. RØRY\)](https://open.spotify.com/track/6b3xQ4PB5Dp06St04Kmdks) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DIE ANOTHER DAY \(feat\. RØRY\)](https://open.spotify.com/album/49ns6k1p6Al9CUfPkuOfeo) | 3:01 | 2023-11-30 | 2023-12-15 |
+| [Die For You \(feat\. Neoni\)](https://open.spotify.com/track/6XeNgLFQvhNZrF854ndrWL) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Die For You \(feat\. Neoni\)](https://open.spotify.com/album/0DBh9s9shkv4BeTog8lllw) | 3:27 | 2026-08-29 |  |
 | [Different Game](https://open.spotify.com/track/0RlEBvJKzHxl2cjXXi4A2O) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Different Game](https://open.spotify.com/album/5BJJTXG8u7naVR7EKPL01R) | 4:57 | 2023-03-30 | 2023-04-07 |
 | [Digital Forest](https://open.spotify.com/track/49dxw4snvfZ9DBCceJXPo3) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Digital Forest / Sugar Pill](https://open.spotify.com/album/2Ze7DZYjC1b4qNt9ajoXd9) | 2:48 | 2023-05-04 | 2023-05-12 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-07 | 2024-02-09 |
@@ -608,7 +609,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2024-03-03 |  |
 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 | 2026-08-21 | 2026-08-30 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-03-16 | 2023-09-22 |
-| [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 | 2026-05-21 |  |
+| [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 | 2026-05-21 | 2026-09-03 |
 | [Electric Baby](https://open.spotify.com/track/4olhgnQxoGwYmR48vDTJIt) | [STOLEN](https://open.spotify.com/artist/1NiLgDSjGiX5cVrPjhkrm6) | [Cacophonic Symphony](https://open.spotify.com/album/2sShlM225hPkpvJrUhGG6v) | 6:04 | 2026-04-20 | 2026-05-01 |
 | [Elevated Heartbreak](https://open.spotify.com/track/71kN8wL4AFqpMsmk9jb33D) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Elevated Heartbreak](https://open.spotify.com/album/2IAhYPxUgFVgKqLVzQV2By) | 3:23 | 2023-06-08 | 2023-06-23 |
 | [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-23 | 2025-09-19 |
@@ -855,7 +856,7 @@
 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 | 2026-08-07 |  |
 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 | 2023-12-14 | 2023-12-22 |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-03 |
-| [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-14 |  |
+| [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-14 | 2026-09-03 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2026-03-13 |
 | [Hell](https://open.spotify.com/track/5DbvjTHBLeDCtUyUXhBqsQ) | [Girl and Girl](https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn) | [Hell + It's Dead](https://open.spotify.com/album/4t367s9EKbWpMDUIjWQA8h) | 2:24 | 2026-06-26 | 2026-07-04 |
 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 | 2023-03-31 |
@@ -1869,7 +1870,7 @@
 | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/track/2GrPSSEbBGa5SdEK5FlzGy) | [Seasons for Change](https://open.spotify.com/artist/3Fq4PqVhwwwwCVCt0NQoXT), [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [OBSESS](https://open.spotify.com/artist/1CnX88uQKiTPRNeFInBey9) | [Surrounded by Stars \(feat\. Lili Forest & OBSESS\)](https://open.spotify.com/album/2hw4xdlpOhT8A0lXTcZ6h3) | 4:24 | 2024-05-16 | 2024-06-07 |
 | [Survivor](https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6) | 2:11 | 2023-11-30 | 2023-12-08 |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-25 | 2024-02-29 |
-| [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 | 2026-08-20 | 2026-08-30 |
+| [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 | 2026-08-20 |  |
 | [SWEAT](https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [SWEAT](https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7) | 3:33 | 2025-05-22 | 2025-06-13 |
 | [Sweet Devotion](https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Sweet Devotion](https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg) | 3:08 | 2026-08-13 | 2026-08-21 |
 | [Sweet Dreams](https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Sweet Dreams](https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D) | 3:07 | 2026-08-20 |  |

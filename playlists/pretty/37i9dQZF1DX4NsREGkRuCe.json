@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 146214,
+  "num_followers": 146254,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "MOTION SICKNESS",
         "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 167586,
       "name": "MOTION SICKNESS (feat. Zlatan)",
       "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Lifestyle (YA MAN)",
-        "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Lifestyle (YA MAN)",
-      "url": "https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Dantata",
         "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 171111,
       "name": "Dantata",
       "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Lifestyle (YA MAN)",
+        "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Lifestyle (YA MAN)",
+      "url": "https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "Sunita",
+        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Sunita",
+      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "Hot Body",
         "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
       },
@@ -727,26 +747,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Sunita",
-        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Sunita",
-      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -759,6 +759,30 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "STARLIFE (feat. Blaqbonez & YKB)",
+      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -803,6 +827,26 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "Ripper's Fate",
+        "url": "https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Ripper's Fate",
+      "url": "https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "Stars Misaligned II",
         "url": "https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc"
       },
@@ -827,50 +871,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "STARLIFE (feat. Blaqbonez & YKB)",
-      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Ripper's Fate",
-        "url": "https://open.spotify.com/album/4lgOFpzSFOgxOnmfFB6kIB"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        },
-        {
-          "name": "TUFF KING",
-          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "Ripper's Fate",
-      "url": "https://open.spotify.com/track/7vAG802uK3ACnXRokc6VIX"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 159945,
       "name": "who does that? (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -935,6 +919,22 @@
       "duration_ms": 154705,
       "name": "2FRESH",
       "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 162587,
       "name": "golibe",
       "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 129391,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1399,6 +1399,22 @@
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "All Hail Muyeez",
+        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Can You Stay",
-      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Raining (O Dun Mi)",
         "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 192203,
       "name": "Raining (O Dun Mi)",
       "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Can You Stay",
+      "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1491,22 +1507,6 @@
       "duration_ms": 147169,
       "name": "Gaou la (feat. 6uff)",
       "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

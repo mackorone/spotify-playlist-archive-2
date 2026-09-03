@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 95511,
+  "num_followers": 95512,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Spring EP",
         "url": "https://open.spotify.com/album/0P2kTQ7mJ3z7CFjII7GWkw"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 197933,
       "name": "Humility (feat. George Benson)",
       "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Lemon Glow",
-      "url": "https://open.spotify.com/track/26CfdVmYf0hNvP6SJXF0vQ"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Lover Boy",
-        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Lover Boy",
-      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Tranquility Base Hotel & Casino",
         "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 354640,
       "name": "Star Treatment",
       "url": "https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Lover Boy",
+        "url": "https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep"
+      },
+      "artists": [
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Lover Boy",
+      "url": "https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "we just need some time together",
-        "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
       "artists": [
         {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
         }
       ],
-      "duration_ms": 235225,
-      "name": "affection",
-      "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
+      "duration_ms": 239010,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+        "name": "we just need some time together",
+        "url": "https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+      "duration_ms": 235225,
+      "name": "affection",
+      "url": "https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 177479,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 239010,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "nightmares",
-        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
       },
       "artists": [
         {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 207003,
-      "name": "nightmares",
-      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 219481,
-      "name": "Cheetah Tongue",
-      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1555,6 +1539,22 @@
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "Cheetah Tongue",
+      "url": "https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 308346,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/43E0f1S0rOGCo6YYRYHjHP"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
     },
     {
       "added_at": "2024-03-18 13:22:22",

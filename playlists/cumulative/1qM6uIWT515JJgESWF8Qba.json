@@ -2047,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "F\u00e1ilte Ar Ais",
+        "url": "https://open.spotify.com/album/4GTOxYl0JiXsDst6BcbaAT"
+      },
+      "artists": [
+        {
+          "name": "The Falls",
+          "url": "https://open.spotify.com/artist/1idQKjppJVYq4aFbffUKEs"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191572,
+      "name": "F\u00e1ilte Ar Ais",
+      "url": "https://open.spotify.com/track/1gyWpdvX41YmRY7IZ8wuQE"
+    },
+    {
+      "album": {
         "name": "Houseless",
         "url": "https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB"
       },
@@ -2800,6 +2818,24 @@
       "duration_ms": 172826,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi"
+    },
+    {
+      "album": {
+        "name": "Kick In The Teeth",
+        "url": "https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe"
+      },
+      "artists": [
+        {
+          "name": "Hexe",
+          "url": "https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219356,
+      "name": "Kick In The Teeth",
+      "url": "https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl"
     },
     {
       "album": {

@@ -1444,7 +1444,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 207333,
       "name": "Am\u00e1rrame",
       "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 193820,
       "name": "Bailando Conmigo",
       "url": "https://open.spotify.com/track/4d4cW91CpcogH1COrpNaH2"
@@ -7654,7 +7654,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -20436,10 +20436,6 @@
         {
           "name": "Mc Tota",
           "url": "https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW"
-        },
-        {
-          "name": "Glosh",
-          "url": "https://open.spotify.com/artist/3DKSue53iRWWMZNjbNM8aL"
         }
       ],
       "date_added": "2026-08-20",
@@ -22074,7 +22070,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"

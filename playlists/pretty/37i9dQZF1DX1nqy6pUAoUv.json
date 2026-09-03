@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170429,
+  "num_followers": 170420,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Better Things",
+        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
+      },
+      "artists": [
+        {
+          "name": "Kee'ahn",
+          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
+        }
+      ],
+      "duration_ms": 222203,
+      "name": "Better Things",
+      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "L'air de rien",
         "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 250040,
       "name": "The Friary",
       "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Better Things",
-        "url": "https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C"
-      },
-      "artists": [
-        {
-          "name": "Kee'ahn",
-          "url": "https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL"
-        }
-      ],
-      "duration_ms": 222203,
-      "name": "Better Things",
-      "url": "https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Songs of Our Native Daughters",
         "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Lorraine",
-        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Fall (Deluxe)",
         "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 167333,
       "name": "High and Low (Acoustic)",
       "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Lorraine",
+        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Music from The American Epic Sessions (Deluxe)",
-        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
-      },
-      "artists": [
-        {
-          "name": "Jerron Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Candy Man",
-      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Pacific Northwest Bound",
         "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 201294,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
+      },
+      "artists": [
+        {
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Candy Man",
+      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
     },
     {
       "added_at": "2025-09-02 20:08:27",

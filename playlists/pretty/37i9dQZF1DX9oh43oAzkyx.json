@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2874524,
+  "num_followers": 2874707,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "No Effort 2",
-        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "No Effort 2",
-      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "Magna Carta... Holy Grail",
         "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 243413,
       "name": "F*ckwithmeyouknowigotit",
       "url": "https://open.spotify.com/track/3PBC860LAeS4utDAqlqIe2"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-08-21 04:01:59",

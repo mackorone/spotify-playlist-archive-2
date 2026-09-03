@@ -1,6 +1,6 @@
 {
   "description": "alt, indie rock, and folk sprinkled into this sonic melting pot. Cover: Noah Kahan",
-  "num_followers": 612779,
+  "num_followers": 612762,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-07-10 04:01:50",
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2026-07-10 04:01:50",
+      "album": {
         "name": "Snocaps",
         "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 149343,
       "name": "Heathcliff",
       "url": "https://open.spotify.com/track/4Q5Tw8eOylSLI9DvYrbQoO"
-    },
-    {
-      "added_at": "2026-07-10 04:01:50",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2026-07-10 04:01:50",

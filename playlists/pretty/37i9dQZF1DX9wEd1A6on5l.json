@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 120125,
+  "num_followers": 120175,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
       },
       "artists": [
         {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
         }
       ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
+      "duration_ms": 168331,
+      "name": "Ms. Paper (feat. Theodora)",
+      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -515,22 +519,18 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
         }
       ],
-      "duration_ms": 168331,
-      "name": "Ms. Paper (feat. Theodora)",
-      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 164444,
       "name": "STARLIFE (feat. Blaqbonez & YKB)",
       "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 173142,
       "name": "ITALAWA",
       "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1167,6 +1167,22 @@
       "duration_ms": 185973,
       "name": "Masculine Love",
       "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "All Hail Muyeez",
+        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1283,26 +1299,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Orindowo",
-        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "Orindowo",
-      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Calculate (II)",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "All Hail Muyeez",
-        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+        "name": "Orindowo",
+        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
+      "duration_ms": 167787,
+      "name": "Orindowo",
+      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
     },
     {
       "added_at": "2026-08-28 00:02:09",

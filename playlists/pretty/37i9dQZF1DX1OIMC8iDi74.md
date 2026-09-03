@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 💙 with TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,993 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,938 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 61 | [LA LA LAND](https://open.spotify.com/track/4wtfQkr4ke2P6k6Al0yPXl) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [LA LA LAND](https://open.spotify.com/album/5SEytYky7xSKEBGFTDVNCP) | 3:05 |
 | 62 | [HORSEPOWER](https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [HORSEPOWER](https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw) | 3:06 |
 | 63 | [NASTY](https://open.spotify.com/track/5bLtHN2kDNecQc1J4bVwgK) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [NASTY](https://open.spotify.com/album/7n9AqmiAkhwFbWNFaS9BZP) | 2:48 |
-| 64 | [KEEP SEEING THINGS](https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [KEEP SEEING THINGS](https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme) | 2:40 |
-| 65 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
+| 64 | [Like This](https://open.spotify.com/track/4ih71VL7RWG0RbRbVTGxS8) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Like This](https://open.spotify.com/album/4Y59xcMEyR5gPt6CNIXsHe) | 2:13 |
+| 65 | [KEEP SEEING THINGS](https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [KEEP SEEING THINGS](https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme) | 2:40 |
 | 66 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 67 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
 | 68 | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [EGO! \(TAKE IT BACK\)](https://open.spotify.com/album/4pN2JLXN7tfiirnp2Ifl3X) | 3:29 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 92 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
 | 93 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
 | 94 | [RAGE](https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [RAGE](https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios) | 2:25 |
-| 95 | [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 |
-| 96 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
+| 95 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
+| 96 | [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 |
 | 97 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 98 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
 | 99 | [Teeth](https://open.spotify.com/track/7GtlY90JxaXqp7OvIR2b75) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [JEANLOUIS](https://open.spotify.com/artist/4DmcltY8WyzovcWhjXUvuK) | [Nothing To Lose](https://open.spotify.com/album/11rvFYFExXvLCLmune1Mf2) | 3:06 |

@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
@@ -11368,6 +11368,24 @@
       "duration_ms": 287871,
       "name": "Right",
       "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
+    },
+    {
+      "album": {
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/5bwMHh1cYrDB9PXa5mKjEb"
     },
     {
       "album": {

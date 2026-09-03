@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Bolela, Bohemio en portada.",
-  "num_followers": 531718,
+  "num_followers": 531737,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
+    },
+    {
+      "added_at": "2026-08-28 03:54:57",
+      "album": {
         "name": "M\u00e9xico Sigue De Pie",
         "url": "https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 291801,
       "name": "La Madrugada",
       "url": "https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi"
-    },
-    {
-      "added_at": "2026-08-28 03:54:57",
-      "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
-    },
-    {
-      "added_at": "2026-08-28 03:54:57",
-      "album": {
         "name": "Canelovers 2.0",
         "url": "https://open.spotify.com/album/7ysPBuRHs6mYXZY894J5nv"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
       },
       "artists": [
         {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
         }
       ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
-        "name": "La G\u00fcera",
-        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
         }
       ],
-      "duration_ms": 158242,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -787,6 +771,22 @@
       "duration_ms": 175105,
       "name": "Qu\u00e9 Mal",
       "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
+    },
+    {
+      "added_at": "2026-08-28 03:54:57",
+      "album": {
+        "name": "La G\u00fcera",
+        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158242,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
+        "name": "Se Pudo",
+        "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 170323,
+      "name": "Se Pudo",
+      "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
+    },
+    {
+      "added_at": "2026-08-28 03:54:57",
+      "album": {
         "name": "EL RG 2",
         "url": "https://open.spotify.com/album/7rNLWhbgJ0X6TSmsF3rvc0"
       },
@@ -951,8 +967,8 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
-        "name": "Se Pudo",
-        "url": "https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t"
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
       "artists": [
         {
@@ -960,9 +976,9 @@
           "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 170323,
-      "name": "Se Pudo",
-      "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -1039,22 +1055,6 @@
       "duration_ms": 183428,
       "name": "El Baron del Desierto - En Vivo",
       "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
-    },
-    {
-      "added_at": "2026-08-28 03:54:57",
-      "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-08-28 03:54:57",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-08-28 03:54:57",
       "album": {
-        "name": "Eso Es Lo Que Paso",
-        "url": "https://open.spotify.com/album/7ENiQqD0lxnQrFp1oeazeU"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 198180,
-      "name": "Eso Es Lo Que Paso",
-      "url": "https://open.spotify.com/track/6dJopyTkyEK8O6Bm8zzynb"
-    },
-    {
-      "added_at": "2026-08-28 03:54:57",
-      "album": {
         "name": "Conexiones",
         "url": "https://open.spotify.com/album/2ab6F4iMqEruwNzNEGfizr"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 225314,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/02ETb44PXYJdTqoD9I5CRa"
+    },
+    {
+      "added_at": "2026-08-28 03:54:57",
+      "album": {
+        "name": "Eso Es Lo Que Paso",
+        "url": "https://open.spotify.com/album/7ENiQqD0lxnQrFp1oeazeU"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 198180,
+      "name": "Eso Es Lo Que Paso",
+      "url": "https://open.spotify.com/track/6dJopyTkyEK8O6Bm8zzynb"
     },
     {
       "added_at": "2026-08-28 03:54:57",

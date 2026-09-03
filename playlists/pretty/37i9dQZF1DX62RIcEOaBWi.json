@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 570684,
+  "num_followers": 570668,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Escapology",
-        "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "La Bella y la Bestia",
         "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186359,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "KESI",
-      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 162181,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "KESI",
+      "url": "https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "A D\u00f3nde Vamos",
+        "url": "https://open.spotify.com/album/1rZx9sSqtP2gy4jmIZwVYc"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 203102,
+      "name": "A D\u00f3nde Vamos",
+      "url": "https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Hoy no me siento bien",
         "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "A D\u00f3nde Vamos",
-        "url": "https://open.spotify.com/album/1rZx9sSqtP2gy4jmIZwVYc"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 203102,
-      "name": "A D\u00f3nde Vamos",
-      "url": "https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -1663,6 +1663,22 @@
       "duration_ms": 216266,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Sin ti no soy nada",
+      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1683,22 +1699,6 @@
       "duration_ms": 275848,
       "name": "\u00bfY si lo hacemos? (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Sin ti no soy nada",
-      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -1983,6 +1967,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Canciones para el tiempo y la distancia",
         "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
       },
@@ -1995,22 +1995,6 @@
       "duration_ms": 278333,
       "name": "Turnedo",
       "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
         }
       ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2063,6 +2047,22 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2167,26 +2167,6 @@
       "duration_ms": 180074,
       "name": "L\u00e1rgate",
       "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 125482,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2299,6 +2279,26 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 125482,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "NEXO 04. Tu cuerpo en braille",
-        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "NEXO 04. Tu cuerpo en braille",
-      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "NEXO 04. Tu cuerpo en braille",
+        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "NEXO 04. Tu cuerpo en braille",
+      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Desde Que No Nos Vemos",
-        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
-      },
-      "artists": [
-        {
-          "name": "Enrique Urquijo y Los problemas",
-          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Juramento eterno de sal",
         "url": "https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP"
       },
@@ -2675,6 +2659,22 @@
       "duration_ms": 205546,
       "name": "Juramento eterno de sal",
       "url": "https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
+      },
+      "artists": [
+        {
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
     },
     {
       "added_at": "2026-06-29 14:06:42",

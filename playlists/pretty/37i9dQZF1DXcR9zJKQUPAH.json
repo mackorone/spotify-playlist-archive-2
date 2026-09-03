@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 163020,
+  "num_followers": 163024,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVu9vpDWRMfK6A0bn8by1//dz+Q",
+  "snapshot_id": "AAAAAKQGMuY3Zi6l0/MEf2ofkELvZrsp",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Idle Town",
-      "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 214533,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "Idle Town",
+      "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Something To Tell You",
-        "url": "https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Nothing Lasts Forever (And It's Fine)",
         "url": "https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 218883,
       "name": "You're Somebody Else",
       "url": "https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Something To Tell You",
+        "url": "https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 215150,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
+      "duration_ms": 292110,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1364,9 +1364,9 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 292110,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+      "duration_ms": 215150,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Blood Type",
         "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Foreign Hands (George's Version)",
-        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
       },
       "artists": [
         {
-          "name": "George Ogilvie",
-          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 258530,
-      "name": "Foreign Hands (George's Version)",
-      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1447,6 +1431,22 @@
       "duration_ms": 204208,
       "name": "Beige",
       "url": "https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Foreign Hands (George's Version)",
+        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
+      },
+      "artists": [
+        {
+          "name": "George Ogilvie",
+          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Foreign Hands (George's Version)",
+      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
       },
@@ -1511,26 +1527,6 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Begin (feat. Wales)",
-        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Wales",
-          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
-        }
-      ],
-      "duration_ms": 242859,
-      "name": "Begin (feat. Wales)",
-      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+        "name": "Begin (feat. Wales)",
+        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Wales",
+          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
         }
       ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
+      "duration_ms": 242859,
+      "name": "Begin (feat. Wales)",
+      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6AOaqWipm2Zk0oBp0uUey2"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+      "duration_ms": 213986,
+      "name": "Boyish",
+      "url": "https://open.spotify.com/track/0De8H4o9xzPtjRp9dns0L5"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "The Far Field",
-        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ran",
-      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     }
   ],
   "unique_name": "Best of Indie 2017",

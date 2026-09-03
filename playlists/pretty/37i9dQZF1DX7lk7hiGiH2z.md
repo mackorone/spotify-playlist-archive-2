@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,805 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,800 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 44 | [Jetzt kommt die Biene Maja](https://open.spotify.com/track/1hNHctnuG5O74TamlCXKKY) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Die Biene Maja \- Meine Lieder](https://open.spotify.com/album/2w1GpapewuvarRvXfIuDma) | 3:03 |
 | 45 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 | 46 | [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 |
-| 47 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
-| 48 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
+| 47 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
+| 48 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 |
 | 49 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 | 50 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
 

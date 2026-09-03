@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,823 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,856 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 40 | [I See Your Face Before Me \- RVG Remaster](https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Settin' The Pace \[RVG Edition\]](https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ) | 9:56 |
 | 41 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
 | 42 | [Soultrane \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:21 |
-| 43 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
-| 44 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
+| 43 | [Mr\. P.C\. \- Mono](https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:58 |
+| 44 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
 | 45 | [Big Nick](https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:27 |
 | 46 | [Time After Time](https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ) | 7:41 |
 | 47 | [Speak Low \- Remastered 1998](https://open.spotify.com/track/48maZW59yoavD1b4gbSGro) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 6:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Lazy Bird](https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:07 |
 | 50 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 
-Snapshot ID: `apTEAAAAAABoSquFE9Udaq+Yts+8Jf+G`
+Snapshot ID: `apYVgAAAAADZQy4DacoNvczF6TgADp+N`

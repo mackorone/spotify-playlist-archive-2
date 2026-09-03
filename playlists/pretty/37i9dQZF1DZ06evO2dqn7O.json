@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57728,
+  "num_followers": 57726,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABW0pHplaKkTvN+dUIoST3E",
+  "snapshot_id": "apYVgAAAAACg+YKqvDyl+Kt9eYu4yza/",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 287893,
-      "name": "Bad Husband (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X Ambassadors | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 175832,
       "name": "Fragile (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/01qg03uODrcMCIOPhRX5nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belong EP",
-        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 218885,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -627,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Jamie N Commons",
-          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
         }
       ],
-      "duration_ms": 280813,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
     },
     {
       "added_at": null,

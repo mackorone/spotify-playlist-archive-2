@@ -6,7 +6,7 @@
     "name": "bpdhoe",
     "url": "https://open.spotify.com/user/megaalexpro3000"
   },
-  "snapshot_id": "AAAKan2CIkTG3M81irMnt83FcaCyYjys",
+  "snapshot_id": "AAAKbATrzLpc6JcRVHAF+U8x4+wQ0wSi",
   "tracks": [
     {
       "added_at": "2021-08-04 04:53:44",
@@ -8907,6 +8907,42 @@
       "duration_ms": 227176,
       "name": "9:05AM",
       "url": "https://open.spotify.com/track/4xJNpTOBH56S9FyohmoHkw"
+    },
+    {
+      "added_at": "2026-09-02 05:52:45",
+      "album": {
+        "name": "Record Red",
+        "url": "https://open.spotify.com/album/6dujauPhtha0oFyApoi6mg"
+      },
+      "artists": [
+        {
+          "name": "axopholes",
+          "url": "https://open.spotify.com/artist/7kY7O0sGkkD7StPaRG6Jzm"
+        },
+        {
+          "name": "Utatane Piko",
+          "url": "https://open.spotify.com/artist/1gU8DM5jfekks0NlNm0oNn"
+        }
+      ],
+      "duration_ms": 196105,
+      "name": "Record Red",
+      "url": "https://open.spotify.com/track/63be4fLJ60vW9xpDLEM1pa"
+    },
+    {
+      "added_at": "2026-09-02 05:54:49",
+      "album": {
+        "name": "GALAPAGOS",
+        "url": "https://open.spotify.com/album/2SbwUk0WexA476H2UklLhe"
+      },
+      "artists": [
+        {
+          "name": "Utsu-P",
+          "url": "https://open.spotify.com/artist/3Zo5u5IljPxQEfbNY2OgsX"
+        }
+      ],
+      "duration_ms": 201648,
+      "name": "\u751f\u304d\u3066\u308b\u304a\u3070\u3051\u306f\u751f\u304d\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/2sWdQfVWACeiCfE0rK6Gf7"
     }
   ],
   "unique_name": "KristaLenz",

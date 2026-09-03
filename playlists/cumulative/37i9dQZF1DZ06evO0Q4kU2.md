@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-96 songs - 4 hr 21 min
+97 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 | 2025-03-04 | 2025-06-05 |
 | [Flatey](https://open.spotify.com/track/5xrtUpX3QnFgGIAXdYAY3r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:20 | 2025-03-04 | 2026-07-31 |
 | [Frost \- Grand Piano](https://open.spotify.com/track/2yin84KZ18N91DMrUj10Rz) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Frost \(Grand Piano\)](https://open.spotify.com/album/702kAUuqngJts2uwA3VvWX) | 1:47 | 2025-03-30 | 2025-04-04 |
-| [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:38 | 2025-05-16 |  |
+| [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/35Azev1VFQXlLPmouKU2Z5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:38 | 2025-05-16 | 2026-09-03 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2025-03-04 | 2025-05-16 |
 | [Hind / Aska \- Harpa Sessions](https://open.spotify.com/track/3xAXkaB8vlhYa41vuM5RNM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 2:59 | 2025-03-04 |  |
 | [Intro](https://open.spotify.com/track/6CW6qcpMm70WkCwsUBNIAZ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:24 | 2025-03-04 |  |
@@ -78,6 +78,7 @@
 | [Staka I](https://open.spotify.com/track/1MmCFK1NzEzTC7sihOspqw) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:52 | 2025-03-04 | 2025-08-26 |
 | [Sálmur](https://open.spotify.com/track/4JVn0lzH3nc7lp9pVRVfaf) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 2:53 | 2025-03-04 |  |
 | [Sálmur Variation](https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 2:40 | 2025-03-04 |  |
+| [The Archive](https://open.spotify.com/track/4lfZQwVOianW7gu4WMHM4J) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Prosecution \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X) | 1:39 | 2026-09-03 |  |
 | [The Croak](https://open.spotify.com/track/3FGitgISFi3cBQFpGRuQCo) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Staka](https://open.spotify.com/album/1rBTRTdh3w5QnlMg9m7D0c) | 2:33 | 2025-04-11 |  |
 | [The Croak](https://open.spotify.com/track/3GBNUN3jAMhkh8MRa39kwo) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 2:33 | 2025-03-04 | 2025-04-11 |
 | [The Drifter](https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 2:48 | 2025-05-10 | 2025-09-24 |

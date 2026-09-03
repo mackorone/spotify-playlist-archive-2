@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  \ud83d\udcf8",
-  "num_followers": 1296636,
+  "num_followers": 1296628,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
         }
       ],
-      "duration_ms": 206458,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
+      "duration_ms": 145562,
+      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -319,18 +315,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
-        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
       },
       "artists": [
         {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 145562,
-      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
-      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
+      "duration_ms": 206458,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "La Vida Es As\u00ed",
-        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 230064,
-      "name": "La Vida Es As\u00ed",
-      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 114181,
       "name": "Del Cielo Nada Cae",
       "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 230064,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/45bJeOgpjE4fizusyt7XWg"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Dos Hojas Sin Rumbo",
-        "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 177009,
-      "name": "Dos Hojas Sin Rumbo",
-      "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Lo Reconozco",
         "url": "https://open.spotify.com/album/4Dl3bJg6rgReO32iwBXYLt"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 200346,
       "name": "Por Salud Mental",
       "url": "https://open.spotify.com/track/3scDoFYqOF2LxyN066Dp5s"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Dos Hojas Sin Rumbo",
+        "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 177009,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -739,18 +739,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "El Mando De Los Aretes",
-        "url": "https://open.spotify.com/album/7EWoxgO1BkEc0r3Tb9VoLz"
+        "name": "\u00a1Que Viva Antonio Aguilar!",
+        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
       "artists": [
         {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 133984,
-      "name": "El Mando De Los Aretes",
-      "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
+      "duration_ms": 176481,
+      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
+      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -791,22 +795,18 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "\u00a1Que Viva Antonio Aguilar!",
-        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+        "name": "El Mando De Los Aretes",
+        "url": "https://open.spotify.com/album/7EWoxgO1BkEc0r3Tb9VoLz"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
-      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+      "duration_ms": 133984,
+      "name": "El Mando De Los Aretes",
+      "url": "https://open.spotify.com/track/6NCTfGA892dpbuc7FjHGnF"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 183552,
       "name": "El desquite - En Vivo",
       "url": "https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
       },
@@ -1139,26 +1123,6 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
-      },
-      "artists": [
-        {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
-        },
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 182376,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1179,6 +1143,42 @@
       "duration_ms": 192535,
       "name": "El Recuerdo Que Dej\u00f3",
       "url": "https://open.spotify.com/track/3C48UbZIHMs5cItujTxxqD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
+      },
+      "artists": [
+        {
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+        },
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "duration_ms": 182376,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Finales Tristes",
         "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 141688,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
-      },
-      "artists": [
-        {
-          "name": "Edwin Garcia",
-          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
-        }
-      ],
-      "duration_ms": 176982,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Contigo Aprend\u00ed a Amar",
+        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
+      },
+      "artists": [
+        {
+          "name": "Banda El Terre De Jerez",
+          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Contigo Aprend\u00ed a Amar",
+      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 204396,
       "name": "El secuestro del cachorro - En Vivo",
       "url": "https://open.spotify.com/track/5vRXMsQS8lVlscTZarrMP3"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Contigo Aprend\u00ed a Amar",
-        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
-      },
-      "artists": [
-        {
-          "name": "Banda El Terre De Jerez",
-          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
-        }
-      ],
-      "duration_ms": 267401,
-      "name": "Contigo Aprend\u00ed a Amar",
-      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "La Historia Es Otra",
         "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
       },
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Alergico Al Amor",
-        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Alergico Al Amor",
-      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Antolog\u00eda",
         "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        }
-      ],
-      "duration_ms": 340016,
-      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
-      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Si No Me Querias",
         "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 231780,
       "name": "Si No Me Querias",
       "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+        "url": "https://open.spotify.com/album/69aBc1bLsXjyqxdEWRecch"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "duration_ms": 340016,
+      "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
+      "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
     },
     {
       "added_at": "2026-08-28 04:02:22",

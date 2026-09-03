@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 15910,
+  "num_followers": 15917,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAeLZs/a8CkBbi86T1U8dck",
+  "snapshot_id": "apYVgAAAAAAY2SD4jPfnjojRPQV3I6mh",
   "tracks": [
     {
       "added_at": null,
@@ -415,30 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Tapes",
-        "url": "https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC"
-      },
-      "artists": [
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Skrapz",
-          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
-        }
-      ],
-      "duration_ms": 180659,
-      "name": "Milan (CC2)",
-      "url": "https://open.spotify.com/track/52ADv6b6hr9YIO0JenUCz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -471,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost Tapes",
+        "url": "https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
+        }
+      ],
+      "duration_ms": 180659,
+      "name": "Milan (CC2)",
+      "url": "https://open.spotify.com/track/52ADv6b6hr9YIO0JenUCz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -483,34 +483,6 @@
       "duration_ms": 168312,
       "name": "SHOWBIZ",
       "url": "https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GENTLEMEN'S CLUB",
-        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 260629,
-      "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
-      "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
     },
     {
       "added_at": null,
@@ -543,6 +515,34 @@
       "duration_ms": 123319,
       "name": "You, The World Vs Me",
       "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 260629,
+      "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
+      "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 200030,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 227266,
       "name": "Anxious (feat. Odeal & Wizkid)",
       "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 200030,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 151489,
-      "name": "Modern Day Suicide",
-      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 68174,
       "name": "Intro (Landmine)",
       "url": "https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 151489,
+      "name": "Modern Day Suicide",
+      "url": "https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra"
     },
     {
       "added_at": null,

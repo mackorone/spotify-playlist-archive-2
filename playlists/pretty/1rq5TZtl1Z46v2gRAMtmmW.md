@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,989 likes - 86 songs - 4 hr 53 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,990 likes - 87 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 84 | [THAT KID](https://open.spotify.com/track/3LD0amRQFt55wXQ7n3vbeL) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [THAT KID](https://open.spotify.com/album/3D71e0tS6t9Z9DFU59rmBY) | 3:27 |
 | 85 | [After Dark](https://open.spotify.com/track/1odZc6QF2iVlTRhoYm6BoW) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [After Dark](https://open.spotify.com/album/4KhVjMxDfGEwDh4D8w4QzF) | 3:28 |
 | 86 | [The Dagger](https://open.spotify.com/track/6MdTyiiX1cmzGoVYdbrYFM) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [Leap Life](https://open.spotify.com/album/0P0KIq1skyp9fTuNXSZAoO) | 2:59 |
+| 87 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 
-Snapshot ID: `AAAR/rGJcgcLetZtCrLfY0ZS0dnlCEcx`
+Snapshot ID: `AAAR/25hjTP0gvmbpR2QNFj+ICJQYnir`

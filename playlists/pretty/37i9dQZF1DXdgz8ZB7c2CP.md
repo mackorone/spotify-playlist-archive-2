@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🌟 featuring Juelz
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,634 likes - 97 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,620 likes - 97 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 78 | [Afterglow](https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Snazur EP](https://open.spotify.com/album/3uiXCFAP0jWVVNvnEZLrmV) | 2:18 |
 | 79 | [Original Style](https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Original Style](https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn) | 2:34 |
 | 80 | [ur world](https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [ur world](https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny) | 3:08 |
-| 81 | [RIDE](https://open.spotify.com/track/0ioRYvi1i84n7JsZfYq3yD) | [CURE97](https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO), [YZENIA](https://open.spotify.com/artist/5FLXUFIdxqhy9t1Gk3G0uN) | [RIDE](https://open.spotify.com/album/68cZf1fDJmmV0ZtYioJyWx) | 2:25 |
+| 81 | [RIDE](https://open.spotify.com/track/0ioRYvi1i84n7JsZfYq3yD) | [CURE97](https://open.spotify.com/artist/1F0DIm1bWIawL8dBETpQcO), [YZENIA](https://open.spotify.com/artist/5FLXUFIdxqhy9t1Gk3G0uN) | [RIDE](https://open.spotify.com/album/68cZf1fDJmmV0ZtYioJyWx) | 2:22 |
 | 82 | [IN YOUR EYES](https://open.spotify.com/track/7xjAVoTSLU86owuleWkPlO) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [IN YOUR EYES](https://open.spotify.com/album/4LfeQ3092KswWKz5bhIEIj) | 2:27 |
 | 83 | [Oh Yeah](https://open.spotify.com/track/3LUFqsqH7iubyJ11TwzMhB) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [Oh Yeah](https://open.spotify.com/album/0LNFvvwOvUhwk1SBSZ0v9u) | 3:32 |
 | 84 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 |

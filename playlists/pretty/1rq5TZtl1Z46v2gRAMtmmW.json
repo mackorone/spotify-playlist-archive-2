@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31989,
+  "num_followers": 31990,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAR/rGJcgcLetZtCrLfY0ZS0dnlCEcx",
+  "snapshot_id": "AAAR/25hjTP0gvmbpR2QNFj+ICJQYnir",
   "tracks": [
     {
       "added_at": "2026-07-29 14:05:56",
@@ -1567,6 +1567,26 @@
       "duration_ms": 179010,
       "name": "The Dagger",
       "url": "https://open.spotify.com/track/6MdTyiiX1cmzGoVYdbrYFM"
+    },
+    {
+      "added_at": "2026-09-02 15:27:30",
+      "album": {
+        "name": "Te Caigo",
+        "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Te Caigo",
+      "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

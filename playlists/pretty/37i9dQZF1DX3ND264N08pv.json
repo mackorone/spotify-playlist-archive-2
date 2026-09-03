@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96536,
+  "num_followers": 96549,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
+        "name": "Remember The Name",
+        "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Remember The Name",
+      "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
         "name": "Cyber War",
         "url": "https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 178670,
       "name": "Turn the Tide",
       "url": "https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
-        "name": "Remember The Name",
-        "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Remember The Name",
-      "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Trip to Okinawa",
-        "url": "https://open.spotify.com/album/08NBCAB4VHGFWKdprYLoRL"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "The Speed Freak",
-          "url": "https://open.spotify.com/artist/3HtFJOBdchYr7TpB63p6De"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Trip to Okinawa",
-      "url": "https://open.spotify.com/track/0EIm2X1P607GilEFnEpqy5"
-    },
-    {
-      "added_at": "2026-08-17 11:28:00",
-      "album": {
         "name": "Sound The Alarm",
         "url": "https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 209147,
       "name": "Sound The Alarm",
       "url": "https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr"
+    },
+    {
+      "added_at": "2026-08-17 11:28:00",
+      "album": {
+        "name": "Trip to Okinawa",
+        "url": "https://open.spotify.com/album/08NBCAB4VHGFWKdprYLoRL"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "The Speed Freak",
+          "url": "https://open.spotify.com/artist/3HtFJOBdchYr7TpB63p6De"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Trip to Okinawa",
+      "url": "https://open.spotify.com/track/0EIm2X1P607GilEFnEpqy5"
     },
     {
       "added_at": "2026-08-17 11:28:00",
@@ -1007,22 +1007,34 @@
     {
       "added_at": "2026-08-17 11:28:00",
       "album": {
-        "name": "Trip to Old England",
-        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
+        "name": "Lead By Example (Official Dominator 2025 Anthem)",
+        "url": "https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Captain Core",
-          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        },
+        {
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Outblast",
+          "url": "https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE"
+        },
+        {
+          "name": "The Supreme Team",
+          "url": "https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Trip to Old England",
-      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
+      "duration_ms": 298666,
+      "name": "Lead By Example (Official Dominator 2025 Anthem)",
+      "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

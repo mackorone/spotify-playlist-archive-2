@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-708 songs - 1 day 20 hr 4 min
+710 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-11-22 | 2025-12-17 |
 | [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 | 2026-06-10 | 2026-06-25 |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
+| [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 | 2026-09-02 |  |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |
 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-04-26 | 2026-05-26 |
@@ -571,6 +572,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-01-13 | 2026-03-18 |
 | [Souls Rite](https://open.spotify.com/track/6RFJCFlKwY4JzVpWgbnqrQ) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Souls Rite](https://open.spotify.com/album/73fUN4KHBJzueBUGefT3E0) | 4:44 | 2026-07-03 | 2026-07-12 |
 | [Spaceship L\-U\-V](https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 2:20 | 2026-05-31 | 2026-06-18 |
+| [Spark](https://open.spotify.com/track/39QWoXuLCF0CLpIJacmNEJ) | [Behnam Zandieh](https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt), [Mohammad Ali Teimouri](https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI), [Dara Teymoorifar](https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ) | [Jazzromad](https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu) | 4:53 | 2026-09-02 |  |
 | [Sparks in this Town](https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ) | [Fionn Camp](https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L), [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Sparks in this Town](https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ) | 3:43 | 2026-05-24 | 2026-08-10 |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 | 2026-07-12 |
 | [Spooning](https://open.spotify.com/track/1QA9zopIBzvzvOayi5jCWd) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL), [Joaquín Baranzano](https://open.spotify.com/artist/3Afjpd1HTebsADh2056BuU) | [Spooning](https://open.spotify.com/album/60o276Ds2uwGPoAs2F8lQT) | 3:46 | 2026-07-14 | 2026-08-01 |

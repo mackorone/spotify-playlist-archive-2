@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,257 songs - 2 day 17 hr 33 min
+1,258 songs - 2 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-04-17 | 2025-04-24 |
 | [Hvis solen brændte ud](https://open.spotify.com/track/5Wfjh4Qctzs9PJVH3chDhN) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [BLÆST FOREVER](https://open.spotify.com/album/0Ro6S1sma0EcXoq9kXWOCi) | 3:13 | 2026-06-19 | 2026-09-02 |
 | [Hvis væggene kunne tale](https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:58 | 2026-06-10 |  |
+| [Hvor du er](https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ) | [dreng&piger](https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73) | [Hvor du er](https://open.spotify.com/album/5827zWSldtqm71hwFcsQml) | 2:25 | 2026-08-28 |  |
 | [Hvor Solen Ik' Skinner](https://open.spotify.com/track/6EfIo8vxfIBT2IZrzGHbpP) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq), [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Hvor Solen Ik' Skinner](https://open.spotify.com/album/3Gw00i0ZHXvqyulhCCNQ6m) | 2:44 | 2024-09-12 | 2024-10-13 |
 | [Hvor Var Jeg Endt](https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hvor Var Jeg Endt](https://open.spotify.com/album/4qefEfwkmVFCFU3BYEmKJB) | 2:59 | 2025-04-03 | 2025-07-03 |
 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 | 2026-04-30 | 2026-05-15 |
@@ -714,7 +715,7 @@
 | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/track/025bOa1Ebil8W8NmqWVHgT) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/album/324wDlxoAQzh07mctH708A) | 2:53 | 2025-11-13 | 2025-11-28 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-03-23 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-13 |
-| [LYKKEPILLER](https://open.spotify.com/track/0nIUgeJdqdPpP4phYp72my) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O) | 2:40 | 2026-08-28 |  |
+| [LYKKEPILLER](https://open.spotify.com/track/0nIUgeJdqdPpP4phYp72my) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O) | 2:40 | 2026-08-28 | 2026-09-03 |
 | [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 | 2026-01-15 | 2026-03-18 |
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-07-31 | 2024-08-04 |
 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 | 2026-04-17 | 2026-07-10 |

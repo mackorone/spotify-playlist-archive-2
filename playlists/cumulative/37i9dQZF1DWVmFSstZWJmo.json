@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Eat Ur Heart Out",
+        "url": "https://open.spotify.com/album/5WSkaSg5qxrxDOsnbJlWC0"
+      },
+      "artists": [
+        {
+          "name": "Swordes",
+          "url": "https://open.spotify.com/artist/7uMvaQWf3NvJ0sxnKhhWkb"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294622,
+      "name": "Eat Ur Heart Out",
+      "url": "https://open.spotify.com/track/3lt7ZqkryK8qsdBDIR6DGV"
+    },
+    {
+      "album": {
         "name": "Ecstasy",
         "url": "https://open.spotify.com/album/2uGAnU3lDDpLKaa8vSw9Jm"
       },

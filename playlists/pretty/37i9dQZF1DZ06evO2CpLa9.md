@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,486 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,485 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Melo como too](https://open.spotify.com/track/69RPpZhHjzksdWiaDxh48v) | [Asmed](https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Melo como too](https://open.spotify.com/album/3XwsXoM3bZIuswE4hugBnx) | 2:52 |
 | 50 | [GU3RR4](https://open.spotify.com/track/0WsKujvQEuGm6UibuvAZvL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [GU3RR4](https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r) | 5:45 |
 
-Snapshot ID: `apTEAAAAAABWF1mmeml4ZLeh2Of+d7w0`
+Snapshot ID: `apYVgAAAAAByqSDY4pwdM6L60GLTYXbr`

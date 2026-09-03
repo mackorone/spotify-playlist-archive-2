@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12816,
+  "num_followers": 12821,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACXNTW+qaHfsWFoLbetzuYo",
+  "snapshot_id": "apYVgAAAAADQxklMbAyNfuMHoc1MeEbl",
   "tracks": [
     {
       "added_at": null,
@@ -767,18 +767,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
       "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Christian Spaulding",
+          "url": "https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW"
+        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 130505,
-      "name": "Every Time I Turn Around - Live In Houston",
-      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
+      "duration_ms": 278952,
+      "name": "Most High",
+      "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
     },
     {
       "added_at": null,
@@ -815,26 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
       },
       "artists": [
-        {
-          "name": "Transformation Worship",
-          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
-        },
-        {
-          "name": "Christian Spaulding",
-          "url": "https://open.spotify.com/artist/4srBhABKWh0DCGDbGpMQaW"
-        },
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 278952,
-      "name": "Most High",
-      "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
+      "duration_ms": 130505,
+      "name": "Every Time I Turn Around - Live In Houston",
+      "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 505773,
+      "name": "I Give You Glory",
+      "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only On The Road (Live)",
         "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 282888,
       "name": "Look Up - Live In LA",
       "url": "https://open.spotify.com/track/5OEjAeMv690hIkq16rFffV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fearless (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0VSrwhH3oHazxgrn5It4u3"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Nelson",
-          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 505773,
-      "name": "I Give You Glory",
-      "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
     }
   ],
   "unique_name": "This Is Tye Tribbett",

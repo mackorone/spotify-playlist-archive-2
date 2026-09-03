@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 36805,
+  "num_followers": 36807,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAABltCMKQmPcsNvklqmgCrPF",
+  "snapshot_id": "apYVgAAAAAC013uK0ON1Rr/ylxyb2lbF",
   "tracks": [
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 479186,
-      "name": "Guajira Cosmica",
-      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 944040,
-      "name": "Mamalluca",
-      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
+      "duration_ms": 479186,
+      "name": "Guajira Cosmica",
+      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "En Tus Horas",
-      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "En Tus Horas",
+      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Canci\u00f3n para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 202000,
       "name": "Que o la Tumba Ser\u00e1s",
       "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Bebida M\u00e1gica",
-      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 394573,
       "name": "Foto de Primera Comuni\u00f3n",
       "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Bebida M\u00e1gica",
+      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
         "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 415653,
       "name": "Cerro de la Virgen",
       "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT"
     },
     {
       "added_at": null,

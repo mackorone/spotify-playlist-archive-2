@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 11023,
+  "num_followers": 11024,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAC7QkBYWdSS5201GVQCzZm5",
+  "snapshot_id": "apYVgAAAAAADnOZug7izRtgbYzGpCO4V",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 309893,
+      "name": "Pari Intervallo",
+      "url": "https://open.spotify.com/track/6ysNU4h2HQ4GBFtzceWsYk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -407,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "55",
-        "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
+        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
+        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
       },
       "artists": [
         {
@@ -416,37 +440,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+          "name": "Polyphony",
+          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
         },
         {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 309893,
-      "name": "Pari Intervallo",
-      "url": "https://open.spotify.com/track/6ysNU4h2HQ4GBFtzceWsYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summa",
-        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
-      },
-      "artists": [
-        {
-          "name": "Cello Octet Amsterdam",
-          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 126090,
-      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
-      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
+      "duration_ms": 206240,
+      "name": "Berliner Messe: I. Kyrie",
+      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
     },
     {
       "added_at": null,
@@ -479,26 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
-        "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
       },
       "artists": [
         {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        },
+        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Polyphony",
-          "url": "https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na"
-        },
-        {
-          "name": "Stephen Layton",
-          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
         }
       ],
-      "duration_ms": 206240,
-      "name": "Berliner Messe: I. Kyrie",
-      "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
+      "duration_ms": 126090,
+      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
+      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
         "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 195760,
       "name": "Hymn to a Great City for 2 Pianos",
       "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
     },
     {
       "added_at": null,
@@ -667,42 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Variationen zur Gesundung von Arinuschka",
-      "url": "https://open.spotify.com/track/0NGejSeoxOb402Keb0scyq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -727,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
       "artists": [
         {
@@ -736,17 +700,13 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
         }
       ],
-      "duration_ms": 650000,
-      "name": "O Holy Father Nicholas",
-      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -779,6 +739,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 650000,
+      "name": "O Holy Father Nicholas",
+      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Mommy\u2019s Kiss",
+        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 71613,
+      "name": "Mommy\u2019s Kiss",
+      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -803,42 +807,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
+        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
       },
       "artists": [
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Nadia Vasileva",
+          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
+      "duration_ms": 509994,
+      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
+      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Mommy\u2019s Kiss",
-        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+        "name": "Silentium",
+        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
       },
       "artists": [
         {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
         }
       ],
-      "duration_ms": 71613,
-      "name": "Mommy\u2019s Kiss",
-      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+      "duration_ms": 205000,
+      "name": "Variationen zur Gesundung von Arinuschka",
+      "url": "https://open.spotify.com/track/0NGejSeoxOb402Keb0scyq"
     },
     {
       "added_at": null,
@@ -871,30 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiegel im Spiegel (Arr. for Violin and Piano)",
-        "url": "https://open.spotify.com/album/1HmYKU2UUQgiD8Gpygg3ns"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Nadia Vasileva",
-          "url": "https://open.spotify.com/artist/0HaKYCh7pmWHnU4L7MExhs"
-        }
-      ],
-      "duration_ms": 509994,
-      "name": "Spiegel im Spiegel - Arr. for Violin and Piano",
-      "url": "https://open.spotify.com/track/4z42LRWTqKvAOmzlgdNwHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/4KnznliHHsRg52UntDVSmW"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 186106,
       "name": "F\u00fcr Alina",
       "url": "https://open.spotify.com/track/0lZQdRWPHaaKw5Voj2zkbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,

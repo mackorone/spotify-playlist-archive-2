@@ -1,29 +1,13 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47247,
+  "num_followers": 47255,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAACiQ/KSlSZdNuyYEGkW5S+S",
+  "snapshot_id": "apYVgAAAAACLFLJ+0MhVuM5nB+KrhrR1",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 135917,
-      "name": "gynecologist",
-      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 110769,
       "name": "vamp city (with OsamaSon)",
       "url": "https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 135917,
+      "name": "gynecologist",
+      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "added_at": null,
@@ -75,6 +75,26 @@
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment - cartunez",
+        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "ApolloRed1",
+          "url": "https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "9 bitches (with ApolloRed1 )",
+      "url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
     },
     {
       "added_at": null,
@@ -115,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment - cartunez",
-        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "ApolloRed1",
-          "url": "https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "9 bitches (with ApolloRed1 )",
-      "url": "https://open.spotify.com/track/1FwKIjYTe6ri9DgBMfYI3g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -147,6 +147,22 @@
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 148808,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
       "duration_ms": 233335,
       "name": "ghost (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 148808,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 133395,
-      "name": "possession",
-      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 148000,
       "name": "scrape",
       "url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 133395,
+      "name": "possession",
+      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 198410,
-      "name": "deaf note (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 160000,
       "name": "roxy reynolds (with Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Wc9hiOkdfsqRssISuG1Gw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 196757,
-      "name": "addiction",
-      "url": "https://open.spotify.com/track/4aYn09UUPuJUrShKktcr02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 130612,
       "name": "off a bean",
       "url": "https://open.spotify.com/track/59rmIsiTbQg2wbFjLnpsMe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 196757,
+      "name": "addiction",
+      "url": "https://open.spotify.com/track/4aYn09UUPuJUrShKktcr02"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 143684,
       "name": "rare creature",
       "url": "https://open.spotify.com/track/2jEwyQK7vEniqlLPNDelwR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 186756,
       "name": "loading",
       "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
     },
     {
       "added_at": null,

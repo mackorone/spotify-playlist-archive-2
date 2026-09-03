@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93830,
+  "num_followers": 93827,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
+        "name": "Bonjour, Pardon, Merci",
+        "url": "https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Bonjour, Pardon, Merci",
+      "url": "https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 193634,
       "name": "Superlim & silvertejp",
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
-        "name": "Bonjour, Pardon, Merci",
-        "url": "https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bonjour, Pardon, Merci",
-      "url": "https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Dansons",
         "url": "https://open.spotify.com/album/18y0UlYOveexsqLeSswHG5"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 206002,
       "name": "Dansons",
       "url": "https://open.spotify.com/track/7qRK8GXzeSjfOOjDASmXs8"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Arg och frustrerad",
-        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 209125,
-      "name": "Arg och frustrerad",
-      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Farsans h\u00e4nder",
         "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 202425,
       "name": "P\u00e5 egna ben (feat. Carola)",
       "url": "https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Arg och frustrerad",
+        "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 209125,
+      "name": "Arg och frustrerad",
+      "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Jack & Coke",
-        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
-      },
-      "artists": [
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Jack & Coke",
-      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Mitt hj\u00e4rta en rebell",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 173000,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/4bm0u48rIv7Ezj25lEkevq"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 198796,
-      "name": "Sagolik",
-      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Tillbaka",
         "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211233,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 198796,
+      "name": "Sagolik",
+      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
+        "name": "Carla & John",
+        "url": "https://open.spotify.com/album/7xhNZOPdc0XNszfnbUE111"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "duration_ms": 237068,
+      "name": "Carla & John",
+      "url": "https://open.spotify.com/track/0liHZbo8PPNsJbjpAw1ZtD"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
         "name": "V\u00e4rlden kommer snurra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG"
       },
@@ -1003,24 +1019,8 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Carla & John",
-        "url": "https://open.spotify.com/album/7xhNZOPdc0XNszfnbUE111"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 237068,
-      "name": "Carla & John",
-      "url": "https://open.spotify.com/track/0liHZbo8PPNsJbjpAw1ZtD"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
-        "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
-        "url": "https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv"
+        "name": "Bra \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 203150,
-      "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
-      "url": "https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T"
+      "duration_ms": 274000,
+      "name": "Bra \u00e4nd\u00e5",
+      "url": "https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Bra \u00e4nd\u00e5",
-        "url": "https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA"
+        "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
+        "url": "https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv"
       },
       "artists": [
         {
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Bra \u00e4nd\u00e5",
-      "url": "https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR"
+      "duration_ms": 203150,
+      "name": "Det jag s\u00e5g i din spegel s\u00e5g inte ut som mig",
+      "url": "https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "If I Ever Lose My Temper",
-        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 214733,
-      "name": "If I Ever Lose My Temper",
-      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1291,38 +1291,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "Ingen vet",
         "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
       },
@@ -1335,6 +1303,22 @@
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "If I Ever Lose My Temper",
+        "url": "https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "If I Ever Lose My Temper",
+      "url": "https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd"
     },
     {
       "added_at": "2026-08-27 22:00:31",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
         "name": "Another Kingdom Is Gone (Kleerup Rework)",
         "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-27 22:00:31",
       "album": {
-        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
-      },
-      "artists": [
-        {
-          "name": "Den svenska bj\u00f6rnstammen",
-          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
-      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
-    },
-    {
-      "added_at": "2026-08-27 22:00:31",
-      "album": {
         "name": "I Rock My Country",
         "url": "https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 196440,
       "name": "I Rock My Country",
       "url": "https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6"
+    },
+    {
+      "added_at": "2026-08-27 22:00:31",
+      "album": {
+        "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+        "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
+      "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
     },
     {
       "added_at": "2026-08-27 22:00:31",

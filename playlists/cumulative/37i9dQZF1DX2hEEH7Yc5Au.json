@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u63a2\u7d22\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u5f69\u4f5c\u54c1\uff0c\u6536\u807d\u7cbe\u9078\u5973\u6b4c\u624b\u6b4c\u66f2\uff01Cover: \u8607\u6167\u502b ",
+  "description": "\u63a2\u7d22\u5973\u6027\u97f3\u6a02\u4eba\u7684\u7cbe\u5f69\u4f5c\u54c1\uff0c\u6536\u807d\u7cbe\u9078\u5973\u6b4c\u624b\u6b4c\u66f2\uff01Cover: LAWA",
   "name": "EQUAL Taiwan",
   "tracks": [
     {
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 240000,
       "name": "\u53ef\u4e0d\u53ef\u4ee5\u5225\u8b93\u98a8\u5439\u4e82\u6211\u7684\u5fc3",
       "url": "https://open.spotify.com/track/58i1Q8JLnYDRKVvMbXzdAY"
@@ -15026,6 +15026,24 @@
       "duration_ms": 243552,
       "name": "\u706b\u5927\u501f\u904e",
       "url": "https://open.spotify.com/track/7GMb9U34mKP3Yf59pRoFwW"
+    },
+    {
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263068,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
     },
     {
       "album": {

@@ -9563,6 +9563,28 @@
     },
     {
       "album": {
+        "name": "Te Caigo",
+        "url": "https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "Te Caigo",
+      "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
+    },
+    {
+      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/6M3hPrILsU7h2ifDR3XKGW"
       },

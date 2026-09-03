@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 329104,
+  "num_followers": 329092,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Twin Skeleton's (Hotel In NYC)",
+      "url": "https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Twin Skeleton's (Hotel In NYC)",
-      "url": "https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390"
     },
     {
       "added_at": "2025-10-27 20:26:25",

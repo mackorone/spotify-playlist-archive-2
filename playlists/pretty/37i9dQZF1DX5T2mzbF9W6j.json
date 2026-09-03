@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113026,
+  "num_followers": 113027,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Talk To Me, Zara",
-        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 193350,
-      "name": "Talk To Me, Zara",
-      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
         "name": "Burn It Down (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 251032,
       "name": "Burn it Down (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Talk To Me, Zara",
+        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 193350,
+      "name": "Talk To Me, Zara",
+      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
     },
     {
       "added_at": "2026-08-14 07:39:41",

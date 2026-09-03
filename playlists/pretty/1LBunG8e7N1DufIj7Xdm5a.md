@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,772 songs - 10 day 17 hr 13 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,782 songs - 10 day 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4780,5 +4780,15 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4770 | [One Eye Open](https://open.spotify.com/track/1mSskP1M7EAGSFwAICCbSO) | [Caskey](https://open.spotify.com/artist/7nVgP0ISalazUzugR7D8zk) | [One Eye Open](https://open.spotify.com/album/5sagqjIIzg62dy99DVqt1z) | 3:24 |
 | 4771 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 |
 | 4772 | [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 |
+| 4773 | [Luke Sadoon](https://open.spotify.com/track/6pgBoocVfsmBe6pF2V2hwI) | [The Project Dust](https://open.spotify.com/artist/30cxoQC2rbDaWa8pYDow98) | [Luke Sadoon](https://open.spotify.com/album/3fZq8qn8qWZ5nMeHKhSKSn) | 2:34 |
+| 4774 | [Crash Test Dummy](https://open.spotify.com/track/04ncG0oDxtkIYLDhWaQn9l) | [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [Blood Soaked Canvas](https://open.spotify.com/album/4CDoRdcgHWUiKiE7gfoKyB) | 2:16 |
+| 4775 | [The Grey Pilgrim](https://open.spotify.com/track/133yo9s6fgsLImoIyzz0tF) | [TIMELESS INN](https://open.spotify.com/artist/4qAySBTVBn1rz6GTVlQSbR) | [The Grey Pilgrim](https://open.spotify.com/album/0L1bzVCYst1mygmd2h5Diy) | 2:47 |
+| 4776 | [Mass Apotheosis](https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [Chela](https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F) | 7:15 |
+| 4777 | [Rude](https://open.spotify.com/track/3nJY3cnmubnaXxZBu8Bs9J) | [Cold Hearted Cynics](https://open.spotify.com/artist/1noUBn4410GNaUCrzLNSLe) | [Rude](https://open.spotify.com/album/75OTLBL59V0JvIok4I6kC9) | 5:08 |
+| 4778 | [I Want More](https://open.spotify.com/track/1O2D02GqrIsXsqHkQnbNyt) | [Cobblestone Collective](https://open.spotify.com/artist/1c30Ln8TEbfVbY2WZYKwp4) | [I Want More](https://open.spotify.com/album/3C5cHvsxldB1zotZwCRrWx) | 2:04 |
+| 4779 | [Bad Days](https://open.spotify.com/track/3uB05mOxrbx8tj6ImlahKE) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Eternal Lights](https://open.spotify.com/album/71hEBDtxSuQswTT1E7Iszu) | 3:44 |
+| 4780 | [Stone Cold](https://open.spotify.com/track/1MLRCcRlekC4jNsCpZIDKE) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Stone Cold](https://open.spotify.com/album/4ihqlf4aQHfoU3iiXST8i3) | 3:47 |
+| 4781 | [I Lose My Breath](https://open.spotify.com/track/4uUBuyQNUspHGt7eLIDofM) | [Nina Jasem](https://open.spotify.com/artist/6q13pDGfCcKImeMi8lITx7) | [I Lose My Breath](https://open.spotify.com/album/63l12zfjQAJ7Q2tjjXQHzN) | 3:30 |
+| 4782 | [Two Dollars](https://open.spotify.com/track/2rTQFoaVsvgf9atMLs6Hoy) | [Charlie Vernon](https://open.spotify.com/artist/2Qg6A0rfG9zGrnrZX0kNE0) | [Two Dollars](https://open.spotify.com/album/0psp2h6ZR6w4qtStUWAw4W) | 3:21 |
 
-Snapshot ID: `AAAJ5JcHzTJ0z1c/4oSZSVsRrfhaqsLn`
+Snapshot ID: `AAAJ79h3udecomj6ivq2r3aDoAdVNvXC`

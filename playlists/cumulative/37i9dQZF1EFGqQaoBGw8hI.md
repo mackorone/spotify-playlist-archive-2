@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-751 songs - 2 day 3 hr 55 min
+752 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-09-02 |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 | 2026-08-07 |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
@@ -176,6 +176,7 @@
 | [Don't Let The Sun Go Down On Me \- Live](https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 5:47 | 2024-01-27 |  |
 | [Don't Let The Sun Go Down On Me \- Remastered 1995](https://open.spotify.com/track/11FcfHd3SOmmrWJPGe7Y30) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:36 | 2022-09-08 | 2024-02-17 |
 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 | 2022-09-08 |  |
+| [Don't Wanna Be No Superstar](https://open.spotify.com/track/0MCsqG6gibolozPxNf6Ra7) | [Jerry Colker](https://open.spotify.com/artist/1zVV7Hswn2HSsaYm2zE88H), [Scott Bakula](https://open.spotify.com/artist/7sCxgzdAcDC9t5AMLK628j) | [3 Guys Naked From The Waist Down \(Original Off Broadway Cast\)](https://open.spotify.com/album/6Hv1NpfEallNubYTUz5bSF) | 1:23 | 2026-09-02 |  |
 | [Dream \# 1](https://open.spotify.com/track/4zGOAR0zFJf4IEKOlbqvJA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:39 | 2022-09-08 |  |
 | [Dream \# 2](https://open.spotify.com/track/1NnhhUjWekAAJNwvB66dbG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board](https://open.spotify.com/album/7nXmwymeNTvJd1CnpEugH2) | 0:43 | 2022-09-08 |  |
 | [Dream \# 3](https://open.spotify.com/track/7cnCGtAN2cNPanepvsfW0G) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 1:36 | 2022-09-08 |  |
@@ -485,7 +486,7 @@
 | [Religion](https://open.spotify.com/track/2UI4siFbFGTMXUaFBnBfGC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 4:06 | 2022-09-08 |  |
 | [Remember](https://open.spotify.com/track/3BUT32qmBXmlqp3EJkgRfp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:09 | 2022-09-08 |  |
 | [Reminds Me Of You \- Piano Demo](https://open.spotify.com/track/3pi6fMBTdZYAFEW5HQE08Z) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:50 | 2023-05-26 |  |
-| [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 | 2023-05-26 |  |
+| [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 | 2023-05-26 | 2026-09-03 |
 | [Restless](https://open.spotify.com/track/73nYjLyEtNZHRyDtIFFQIC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Breaking Hearts](https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ) | 5:16 | 2022-09-08 |  |
 | [Return To Paradise](https://open.spotify.com/track/4BTqc5vVoB3Cu3F6qtFXiz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:15 | 2022-09-08 |  |
 | [Reverie](https://open.spotify.com/track/57U9E7zXKc2UIiXPUeSCYN) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP) | [Victoria Day Celebration](https://open.spotify.com/album/658rnoe0MqsOqkueWbWvsf) | 2:34 | 2026-02-19 | 2026-08-19 |

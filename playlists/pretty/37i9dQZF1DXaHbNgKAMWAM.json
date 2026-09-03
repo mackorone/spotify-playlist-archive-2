@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21041,
+  "num_followers": 21046,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
-      },
-      "artists": [
-        {
-          "name": "Jinyoung",
-          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
-        }
-      ],
-      "duration_ms": 222305,
-      "name": "Shining on Your Night",
-      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 217400,
       "name": "What are we",
       "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "duration_ms": 222305,
+      "name": "Shining on Your Night",
+      "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
       "added_at": "2026-06-25 15:51:09",

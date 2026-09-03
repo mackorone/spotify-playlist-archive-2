@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,211 songs - 3 day 6 hr 9 min
+1,213 songs - 3 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Gold Chain Punk \(whogonbeatmyass?\)](https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:47 | 2022-04-21 |  |
 | [Golden Arrow](https://open.spotify.com/track/2uo4ZOD82ldcydWj5cPqAa) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Psychic](https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt) | 11:20 | 2025-12-06 |  |
 | [Gone](https://open.spotify.com/track/7GB9nHKwwLs9mdbjErqK4H) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 4:19 | 2025-07-23 | 2025-07-25 |
-| [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 | 2026-08-26 |  |
+| [GONE FISHING](https://open.spotify.com/track/6oQfnabhlSgGBdYZmDGrDz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [ii](https://open.spotify.com/album/4yO2uzc6AgadKUtGIBCZwK) | 2:04 | 2026-08-26 | 2026-09-03 |
 | [Gone Hollywood](https://open.spotify.com/track/254AmmsIPAWg1nxwrnEpHj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 5:17 | 2024-01-08 |  |
 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 | 2025-11-21 |  |
 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2024-01-08 | 2024-09-10 |
@@ -560,6 +560,7 @@
 | [Julien](https://open.spotify.com/track/5ovKXoPXsaCydETxiqbt80) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:54 | 2023-07-24 | 2023-07-29 |
 | [Jumpscare](https://open.spotify.com/track/0zOmLh7zxmMIgJKU6Cfdlx) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Steel Tipped Dove](https://open.spotify.com/artist/6b74rHzWIZlgLH7U5ybjUE) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 3:16 | 2025-05-14 |  |
 | [June Guitar](https://open.spotify.com/track/1leMmYw98725djni7wSYhq) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:52 | 2025-07-23 | 2025-08-15 |
+| [Junkie In The Sun](https://open.spotify.com/track/2sJEw4to3z7kW0Q82OsuI9) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Junkie in The Sun](https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw) | 3:46 | 2026-09-02 |  |
 | [Just a Room](https://open.spotify.com/track/6yZs8pZm14d3r0ZkrZDOOy) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 3:29 | 2022-06-28 |  |
 | [Just Another Day](https://open.spotify.com/track/6w6I3AFRv7tQMmUTgAghUB) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Dead Man's Party](https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb) | 5:12 | 2023-11-06 | 2024-05-20 |
 | [Just West of Nicollet](https://open.spotify.com/track/3dP24mOPYufQ0OzRkDjdmm) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Punching the Clown](https://open.spotify.com/album/6ZZiqP4T7teY9nwGxlkSTz) | 5:37 | 2026-08-21 |  |
@@ -1051,6 +1052,7 @@
 | [The Long Run \- 2013 Remaster](https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:41 | 2024-01-01 | 2024-07-31 |
 | [The Lord](https://open.spotify.com/track/3INAQHsX20r9mGc2zrVXOf) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Seven Psalms](https://open.spotify.com/album/6Wc49gvfaqavawjjYzjWti) | 6:09 | 2025-07-24 | 2025-08-04 |
 | [The Medium](https://open.spotify.com/track/2evdiqJddtt5vfocPme5l7) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:14 | 2023-06-03 |  |
+| [THE NEW SUBLIME](https://open.spotify.com/track/5G5PVQTylw22ClQKIlXpto) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:43 | 2026-09-02 |  |
 | [The Nights of Wine and Roses](https://open.spotify.com/track/3uS4xj4hCZfEKYJxZyw0r7) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:02 | 2023-11-04 |  |
 | [The Only Picture](https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Garbology](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz) | 0:45 | 2024-01-03 | 2025-01-19 |
 | [The Opening Title Sequence](https://open.spotify.com/track/71o1EHEs0MLBK8PlkOcp9I) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Mixtape About Nothing](https://open.spotify.com/album/5vsqzCBriQGiXMxlLFe1Za) | 2:42 | 2026-01-06 |  |

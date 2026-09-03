@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\. Leandro Ríos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,424 likes - 135 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,498 likes - 135 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

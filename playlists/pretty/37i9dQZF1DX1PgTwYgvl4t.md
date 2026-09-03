@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Sunmisola Agbebi
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,230 likes - 110 songs - 15 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,323 likes - 110 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glory to God in the Highest](https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Life Recording](https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ) | 13:34 |
-| 2 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Kaestrings](https://open.spotify.com/artist/37mTlIE0aRZXs97rBa4DVX) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
+| 2 | [Wonder](https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Wonder](https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW) | 15:43 |
 | 3 | [Aanu Ni](https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 3:42 |
 | 4 | [Chinecherem \(Live\)](https://open.spotify.com/track/7MERrzA9P7J9NoCBYknyUA) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Chinecherem \(Live\)](https://open.spotify.com/album/1mzwra79YSKnA4WOm6tbdn) | 9:35 |
 | 5 | [Eze Mo \(Live\)](https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Mo \(Live\)](https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX) | 8:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 96 | [Amen \- Live](https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Pastor E.A Adeboye](https://open.spotify.com/artist/1o9Wsdmi8AIsqBsctcPeM8) | [Amen \(Live\)](https://open.spotify.com/album/543dGL7ntD305dtK6Jx8JB) | 9:07 |
 | 97 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |
 | 98 | [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 |
-| 99 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 |
+| 99 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [OneWithHVN](https://open.spotify.com/artist/5VoX2wDxa5iWxKAG6tPU8x) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 |
 | 100 | [Can't Live Without You](https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Can't Live Without You](https://open.spotify.com/album/5fnZH4QL5lDe2r8IBzgeDA) | 4:15 |
 | 101 | [Hunger and Thirst](https://open.spotify.com/track/3bdgU93NNzQ9MXuaIwRpCt) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [King Fred Paul](https://open.spotify.com/artist/1HcI99z6RGJeUjfCnArj0O) | [Hunger and Thirst](https://open.spotify.com/album/4EaZOuMBPZPB8ao92QQMR1) | 5:16 |
 | 102 | [Yeshua \- Live](https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 4:46 |

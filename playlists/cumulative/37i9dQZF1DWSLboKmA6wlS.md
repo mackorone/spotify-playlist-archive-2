@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MicMac\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PENPRAPA\. Artwork: Isu Kim
 
-2,689 songs - 7 day 0 hr 43 min
+2,690 songs - 7 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [BLUR](https://open.spotify.com/track/5Qr4CF80EhHqE8obL6FZJw) | [Natty](https://open.spotify.com/artist/4skO1KphAV7hY9NmiXiSR5) | [BLUR](https://open.spotify.com/album/5Ejja0CX5icrWkjySTpWgt) | 3:24 | 2022-11-25 | 2022-12-09 |
 | [Blurred](https://open.spotify.com/track/1wCAXionqFLLZPUNY2nd6c) | [FrameThanavuch](https://open.spotify.com/artist/0K44arrw4gdFLzifOQLORP) | [Blurred](https://open.spotify.com/album/6RCVDrIfZY3darb6ig8Vn9) | 4:27 | 2022-09-15 | 2023-02-03 |
 | [boomerang](https://open.spotify.com/track/6QdGMzOn3cfkmiQlCDHLdI) | [NOAR](https://open.spotify.com/artist/2nCF28MrJSI6xmoNeGnVV6) | [boomerang](https://open.spotify.com/album/4Hk2rm6T1k2Vm2771EgTBZ) | 2:26 | 2023-07-21 | 2023-08-05 |
-| [BOYFRIEND MATERIAL](https://open.spotify.com/track/72qHExfYo3FPKdhcS6HHLq) | [Turbo4Wds](https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg) | [BOYFRIEND MATERIAL](https://open.spotify.com/album/1QqzPMUvlmQsgl9BgIoe8V) | 3:17 | 2026-08-26 |  |
+| [BOYFRIEND MATERIAL](https://open.spotify.com/track/72qHExfYo3FPKdhcS6HHLq) | [Turbo4Wds](https://open.spotify.com/artist/1Mke6Xjpf1lidJUDPaZOAg) | [BOYFRIEND MATERIAL](https://open.spotify.com/album/1QqzPMUvlmQsgl9BgIoe8V) | 3:17 | 2026-08-26 | 2026-09-03 |
 | [Break My Heart](https://open.spotify.com/track/5iNZW3ZE3qqXM2BFO4pg7G) | [D\-NA](https://open.spotify.com/artist/2F4giQjhpORkIsOPBDhR5I) | [Break My Heart](https://open.spotify.com/album/7f5HrxNoLNJBNTSOxyXxrE) | 3:45 | 2025-01-24 | 2025-02-01 |
 | [Breakfast In Bed](https://open.spotify.com/track/3hziNMQt3oQky7J4uOePgK) | [GRAPH OSATEE](https://open.spotify.com/artist/7hGI52Fu2cXSDeG17LWa49) | [Breakfast In Bed](https://open.spotify.com/album/7HRutxsGmxnKc5eTvER1Mf) | 3:23 | 2024-06-14 | 2024-09-28 |
 | [Brownie](https://open.spotify.com/track/17MOL53GO3ExLR4YbON4aI) | [EURO](https://open.spotify.com/artist/6KkJCKhgPIOBGJnEWw0FpQ) | [Brownie](https://open.spotify.com/album/310qXWsunz1M4okLGVORGS) | 2:22 | 2023-05-05 | 2023-05-13 |
@@ -308,6 +308,7 @@
 | [Love Myself](https://open.spotify.com/track/5ztHyor5x8SRMssEXLoVXv) | [just"](https://open.spotify.com/artist/12eH7gNtPp26fSDY590fB0) | [Love Myself](https://open.spotify.com/album/0iZTgbsDoOS8d3bMNcebOX) | 3:17 | 2024-07-19 | 2024-08-03 |
 | [Love or Hate](https://open.spotify.com/track/1bLdJQNz6EMFtzTA9NlcdP) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [Love or Hate](https://open.spotify.com/album/0msQEDCAjsvPaEWuVI3PA9) | 3:44 | 2022-11-25 | 2022-12-09 |
 | [Love School](https://open.spotify.com/track/1jMHnEqyYtUcz64Cyqe9do) | [UREKA](https://open.spotify.com/artist/2Wll2z4wxGuMjLsCZQb01K) | [Love School](https://open.spotify.com/album/3FhMMkfoSfXUctozXh89a3) | 3:54 | 2024-07-01 | 2024-07-20 |
+| [Love Song \(Dante\)](https://open.spotify.com/track/0KgJNOZawBKt5WKBl3Jzci) | [PENPRAPA](https://open.spotify.com/artist/4ZF777onMoSRG9Sf2tQDuU) | [Love Song \(Dante\)](https://open.spotify.com/album/4e0o0zfb1IDGs5my2kMKDW) | 3:45 | 2026-09-02 |  |
 | [love you in every universe \(strange one\)](https://open.spotify.com/track/11YC2ySCKNHhWYS8P0n7ma) | [jaREE](https://open.spotify.com/artist/6pwrUoH6pmrqz36sgao6zM) | [love you in every universe \(strange one\)](https://open.spotify.com/album/6eTXoA85WmxkqnWK17WMT0) | 3:15 | 2023-07-07 | 2023-07-22 |
 | [Loveless](https://open.spotify.com/track/7fLHYmB20zbZTVQf0Tu3Pv) | [DSKBOY](https://open.spotify.com/artist/4kgC1ugQtVoalkCn9ifBBD) | [Loveless](https://open.spotify.com/album/2CD2uiMawNVKtSG5eUb8qL) | 3:48 | 2023-11-10 | 2023-11-18 |
 | [LOVER](https://open.spotify.com/track/4Z2QL1ajYd5ZcjaomYoXWG) | [DEANNYBOY](https://open.spotify.com/artist/7brS19o7RcUgpybF3ma0nD), [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA), [.pxt](https://open.spotify.com/artist/4Vm7tH1sePouTXM3v3mMns) | [LOVER](https://open.spotify.com/album/0ErnnJH3wEoiR92GAcjM6u) | 3:00 | 2024-07-19 | 2024-08-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1236733,
+  "num_followers": 1236883,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAADlw4oGvJSnjeaLu2eAJYpw",
+  "snapshot_id": "apYVgAAAAADuzHMsbcXaoPyK8zjt6JEj",
   "tracks": [
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Different Me",
-        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        },
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 291240,
-      "name": "Playa Cardz Right",
-      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runnin' (Dying To Live)",
         "url": "https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 169973,
       "name": "Still Ballin' - Nitty Remix",
       "url": "https://open.spotify.com/track/5vU53TPzhzovjUL0oXoxZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Different Me",
+        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "Playa Cardz Right",
+      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
     },
     {
       "added_at": null,

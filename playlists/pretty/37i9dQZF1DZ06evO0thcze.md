@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,286 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,290 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 28 | [Ultimadamente](https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Toques de Queda](https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ) | 3:32 |
 | 29 | [Pura Borrachera](https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pura Borrachera](https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6) | 3:24 |
 | 30 | [Los Juanos](https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34) | [Los Juanos](https://open.spotify.com/album/5tS1HsYBnvYDLgh5ZZGTv0) | 3:37 |
-| 31 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
-| 32 | [No Es Que Sea Mamón](https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [No Es Que Sea Mamón](https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v) | 4:45 |
+| 31 | [No Es Que Sea Mamón](https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [No Es Que Sea Mamón](https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v) | 4:45 |
+| 32 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
 | 33 | [Lento Y Contento](https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:20 |
 | 34 | [Mala Junta](https://open.spotify.com/track/2RSsPZhvRHDYE3EHdrG3gh) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mala Junta](https://open.spotify.com/album/0knIJImXVNvqAxZaclozrP) | 2:54 |
 | 35 | [El Cumbión](https://open.spotify.com/track/18hfIdKEFDdXEwktiVSwCw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Directo Hasta Arriba Vol.2](https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 49 | [Juntos de Noche](https://open.spotify.com/track/78bRx4vkBK7jkd2akhzUHk) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [5AM](https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv) | 3:55 |
 | 50 | [Ya No Volverás](https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ya No Volverás](https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ) | 3:50 |
 
-Snapshot ID: `apTEAAAAAACZvnl12+aBY/qq2m0wdYmU`
+Snapshot ID: `apYVgAAAAAAySmm17u9uDv41A17HGfYp`

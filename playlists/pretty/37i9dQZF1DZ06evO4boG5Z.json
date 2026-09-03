@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 30325,
+  "num_followers": 30326,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAK/xiBD2WFJZrT3LYnk8pJ",
+  "snapshot_id": "apYVgAAAAACbWv4/J4hhvqhjhWv9aCXB",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Something I Would Die For",
-      "url": "https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 219504,
       "name": "Shut You Out",
       "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Something I Would Die For",
+      "url": "https://open.spotify.com/track/1DQ7ahNI475OGg2aNib4V2"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Diznee Time",
-      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 112733,
-      "name": "Fazil's Friend",
-      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 79533,
       "name": "Silent Suicide",
       "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
     },
     {
       "added_at": null,

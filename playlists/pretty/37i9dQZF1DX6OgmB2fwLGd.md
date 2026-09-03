@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > speed.demon\_hyper\_sleaze.electro\_glitch\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.lucybedroque
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,370,460 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,370,373 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

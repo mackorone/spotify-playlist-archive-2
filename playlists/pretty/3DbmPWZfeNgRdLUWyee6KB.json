@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1332,
+  "num_followers": 1333,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXkK4jkWzECNnD6FVASgTaYuWp4Mj/",
+  "snapshot_id": "AAAXlJXZHH6ceK18X1OIIMf5pEVKjS1+",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -1651,6 +1651,74 @@
       "duration_ms": 172653,
       "name": "Tap Your Toe And Follow Me",
       "url": "https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu"
+    },
+    {
+      "added_at": "2026-09-02 07:53:06",
+      "album": {
+        "name": "Stay Right Here",
+        "url": "https://open.spotify.com/album/387st1ZnAmH942aNsg9xXj"
+      },
+      "artists": [
+        {
+          "name": "LONES",
+          "url": "https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0"
+        },
+        {
+          "name": "Nicholas Pierce",
+          "url": "https://open.spotify.com/artist/5VqpFWUi3TKsv2VQ4TjDTH"
+        }
+      ],
+      "duration_ms": 224399,
+      "name": "Stay Right Here",
+      "url": "https://open.spotify.com/track/4DFiF5BogDDoUWPqZIUzaw"
+    },
+    {
+      "added_at": "2026-09-02 07:53:08",
+      "album": {
+        "name": "Silent Avenue, Vol. 2",
+        "url": "https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z"
+      },
+      "artists": [
+        {
+          "name": "THE EM",
+          "url": "https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Centered",
+      "url": "https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I"
+    },
+    {
+      "added_at": "2026-09-02 07:53:09",
+      "album": {
+        "name": "Fish & Chips",
+        "url": "https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx"
+      },
+      "artists": [
+        {
+          "name": "Eton Mess",
+          "url": "https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Fish & Chips",
+      "url": "https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA"
+    },
+    {
+      "added_at": "2026-09-02 07:53:20",
+      "album": {
+        "name": "Plinthe",
+        "url": "https://open.spotify.com/album/3QG2OmpwhZ3lCKsj27Xkqm"
+      },
+      "artists": [
+        {
+          "name": "UDU",
+          "url": "https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp"
+        }
+      ],
+      "duration_ms": 104414,
+      "name": "Plinthe",
+      "url": "https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3"
     }
   ],
   "unique_name": "New Indie Music",

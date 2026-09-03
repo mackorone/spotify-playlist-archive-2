@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-858 songs - 2 day 0 hr 28 min
+859 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [AntiDrugAnthem](https://open.spotify.com/track/17MWq7zp3NOgLO6Q6at59I) | [Gaana Vinoth](https://open.spotify.com/artist/7N1TA78vXJ1x66NWgSKMMB), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I) | [AntiDrugAnthem](https://open.spotify.com/album/39cUVaQfAHTSGOSZnu2OqB) | 1:51 | 2024-07-09 | 2024-08-11 |
 | [Anu Anuvai](https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c) | [Santhan Anebajagane](https://open.spotify.com/artist/7C0XpfZfYRJrDXK0lA2LSq), [Manasa](https://open.spotify.com/artist/0asVUyWU3aDOUQwSRRx9m9) | [Anu Anuvai](https://open.spotify.com/album/36LU93YaVWnC4oSOdWzMj3) | 3:12 | 2026-07-09 |  |
 | [Arakkiye](https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V) | [Arakkiye](https://open.spotify.com/album/2wz4GI1MXwXTZMtJFFBsp7) | 3:47 | 2024-09-20 | 2025-02-01 |
-| [Arasi](https://open.spotify.com/track/7F1LALzf4IhVQ7azvc9trG) | [Haakash](https://open.spotify.com/artist/4srKc15ZZzjnAbr6NYhju0) | [Arasi](https://open.spotify.com/album/5j4nerLGYSNhuVKaoPAGlh) | 3:12 | 2026-05-14 |  |
+| [Arasi](https://open.spotify.com/track/7F1LALzf4IhVQ7azvc9trG) | [Haakash](https://open.spotify.com/artist/4srKc15ZZzjnAbr6NYhju0) | [Arasi](https://open.spotify.com/album/5j4nerLGYSNhuVKaoPAGlh) | 3:12 | 2026-05-14 | 2026-09-03 |
 | [Atha Mava](https://open.spotify.com/track/0Xq6zAQzmQTiBckOU4BSVA) | [Neon Kaathadi](https://open.spotify.com/artist/3wQhNdGTR70QKpK8LgHde1) | [Atha Mava](https://open.spotify.com/album/0A6W0ReWy6DnU5NmcqMyK9) | 3:03 | 2025-06-04 | 2026-01-15 |
 | [ATHIKAALAI MUDHAL](https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf) | [KARKAY](https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU) | [ATHIKAALAI MUDHAL](https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT) | 3:37 | 2024-02-14 | 2024-05-21 |
 | [ATMA](https://open.spotify.com/track/3TLUrerWmrfDo6CnxKwS4u) | [PAX DHARMA](https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ) | [ATMA](https://open.spotify.com/album/5fgQTko22Vt1yXZ84yW6Sf) | 3:05 | 2025-11-03 | 2026-03-27 |
@@ -655,6 +655,7 @@
 | [Sikkimukki](https://open.spotify.com/track/3NXtm9rA3z2342c0T1hXme) | [R Sanjay](https://open.spotify.com/artist/3oDLdMAslN8VJdvxjluulO), [Malvi Sundaresan](https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn) | [Sikkimukki](https://open.spotify.com/album/02DJPscpaTrWz4i3yIZ0nH) | 3:26 | 2024-08-30 | 2024-12-06 |
 | [SILK CADBURY](https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF) | [Gana Gowtham](https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC) | [SILK CADBURY](https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8) | 2:20 | 2024-12-03 | 2026-01-15 |
 | [Sillakku Sirukki](https://open.spotify.com/track/3yo6nlOUqnL1lL0VQdJzzL) | [Aditya Ganesh](https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr), [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Sillakku Sirukki](https://open.spotify.com/album/0WgNi6NcbQbLpWbDsHZG4F) | 3:54 | 2026-08-07 |  |
+| [Silpo Silati](https://open.spotify.com/track/1JQvFWna5qOVptgrkI2vIu) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Silpo Silati](https://open.spotify.com/album/7oF1yVB9VwotYzCUf6DgnL) | 3:26 | 2026-09-02 |  |
 | [Simco Gili Gili](https://open.spotify.com/track/2K1VopotAsjOFfeuUUSanV) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Simco Gili Gili](https://open.spotify.com/album/0kNMosp3KQ9fvRHijsgMlE) | 2:24 | 2026-01-20 | 2026-05-01 |
 | [Singa Paadhai](https://open.spotify.com/track/6MnIJvDd4IohMAc1HvyBay) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104) | [Singa Paadhai](https://open.spotify.com/album/5j5dvTjic8X09GVxNDRk4y) | 3:53 | 2025-10-25 | 2026-03-25 |
 | [Siragadichu](https://open.spotify.com/track/5b1JMxTCUQYLv6HZgB8u7H) | [RISHI\-G](https://open.spotify.com/artist/3lu3E33BaF9ydnHQOfv2fp) | [Siragadichu](https://open.spotify.com/album/2JWpusQ7AnvrBcmH8G3drM) | 3:00 | 2025-04-22 | 2025-07-04 |

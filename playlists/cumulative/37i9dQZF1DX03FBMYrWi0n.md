@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Félix Collin
 
-650 songs - 1 day 12 hr 46 min
+651 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,7 @@
 | [TDPM](https://open.spotify.com/track/33OwyDNTDGGhbKdREipIva) | [Delphine](https://open.spotify.com/artist/56sYHRQvLFVBdJXCDA9pms) | [TDPM](https://open.spotify.com/album/1v5zUrBtNBG2rDZqmjc0Ol) | 2:28 | 2026-07-17 | 2026-08-28 |
 | [Te garder](https://open.spotify.com/track/3DJHI0lXLHiXFFnj3cPVQM) | [L'indice](https://open.spotify.com/artist/2QGS6aI5UYUqorMVfo1MDm) | [Te garder](https://open.spotify.com/album/1b9QCrHAFg4EoN4n5wPoiJ) | 3:13 | 2026-01-09 | 2026-05-09 |
 | [The Breaks](https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Breaks](https://open.spotify.com/album/1qG8RIhVtTNGZD9vvLz3BQ) | 4:29 | 2024-06-07 | 2024-06-29 |
-| [The Cost of Freedom](https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy) | 3:30 | 2026-09-01 |  |
+| [The Cost of Freedom](https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/0US04UDQbG8QYL3QmkhGTy) | 3:30 | 2026-09-01 | 2026-09-03 |
 | [The Cost of Freedom](https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0) | 3:30 | 2026-03-06 | 2026-05-23 |
 | [The Fog](https://open.spotify.com/track/72saKsaBaeNVtxaYPl2nS7) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [The Fog](https://open.spotify.com/album/2TIBAa6QLF17KwPaTDdTIq) | 4:07 | 2026-03-27 | 2026-05-09 |
 | [The Jungle](https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r) | [Plants and Animals](https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c) | [The Jungle](https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx) | 5:43 | 2023-02-10 | 2024-05-16 |
@@ -614,6 +614,7 @@
 | [v\(.\)id](https://open.spotify.com/track/3ORFKDDcnkzQqJ4qCZ3SmW) | [Julien Fillion](https://open.spotify.com/artist/41meYWkE4vtiq0GELl6UVo) | [ego.alt](https://open.spotify.com/album/7oSkkA2IOjHVZ0eVgLf05R) | 4:51 | 2026-02-14 | 2026-03-28 |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 | 2025-09-13 |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2024-04-30 |
+| [virer doux](https://open.spotify.com/track/4QRNaONuHp9jlFWQIdR0XK) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [virer doux](https://open.spotify.com/album/26b4AFbqEW5MNxICrUwwAl) | 4:13 | 2026-09-01 |  |
 | [Vise les cieux](https://open.spotify.com/track/4fwc0uHztpOcvFEt1d4HbZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [Vise les cieux](https://open.spotify.com/album/5zkWRE3YnSIYiDSrPo0p6K) | 3:15 | 2026-03-13 | 2026-05-23 |
 | [Vitesse](https://open.spotify.com/track/4Wtf5MWtWQ0t5mSk9xwJks) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Vitesse](https://open.spotify.com/album/4Xx7ZyYbDFcHycDtffNjzf) | 3:15 | 2023-09-08 | 2023-10-28 |
 | [Vivante](https://open.spotify.com/track/6INiiv6q0t1aG4sT1BgGVw) | [Oli Féra](https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw) | [Vivante](https://open.spotify.com/album/42HGOBm9rgRSGp7Pk4mn3O) | 3:25 | 2026-01-09 | 2026-04-18 |

@@ -4,7 +4,7 @@
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 33 min
+69 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Men in Bars](https://open.spotify.com/track/5qY578IOm0ljHdXdtgMHE4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [Jeff Bridges](https://open.spotify.com/artist/266j9hfnayXOZhRRi0sTOu) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:48 | 2025-03-23 | 2025-03-30 |
 | [Mischievous Children](https://open.spotify.com/track/2dzC7q2BVX7vPsxaRyjJTK) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 0:58 | 2026-04-02 | 2026-04-03 |
 | [Moon on the Bath](https://open.spotify.com/track/27sHOCHpJ0G0bm0sn2bTWj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:29 | 2023-05-02 | 2023-07-17 |
-| [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 | 2025-06-12 |  |
+| [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 | 2025-06-12 | 2026-09-03 |
+| [My Baby \(Got Nothing At All\) \- From "Materialists"](https://open.spotify.com/track/3bC4Rl7k2W9m5SxOmQvlWy) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(From "Materialists"\)](https://open.spotify.com/album/3iUPF7jIrM9oNQ4efdFI07) | 4:02 | 2026-09-03 |  |
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-13 |  |
 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 | 2023-05-02 |  |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-10 | 2025-03-30 |

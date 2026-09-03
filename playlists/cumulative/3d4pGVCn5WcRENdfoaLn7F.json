@@ -5927,6 +5927,24 @@
     },
     {
       "album": {
+        "name": "sparkles",
+        "url": "https://open.spotify.com/album/1iFXnOBQejkpHOsFJcPZ2n"
+      },
+      "artists": [
+        {
+          "name": "hideaways.",
+          "url": "https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "sparkles",
+      "url": "https://open.spotify.com/track/2USvuzXtQIR05I6kP7IEt6"
+    },
+    {
+      "album": {
         "name": "HOLES",
         "url": "https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ"
       },

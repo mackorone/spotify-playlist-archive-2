@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,579 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,666 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 51 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |
 | 52 | [Aas](https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Aas](https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV) | 3:10 |
 | 53 | [Aaja Re Piya](https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Khushi Pareek](https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8) | [Aaja Re Piya](https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf) | 2:34 |
-| 54 | [Marham](https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Marham](https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa) | 2:50 |
-| 55 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
-| 56 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 |
+| 54 | [Dil Se](https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P) | [Dil Se](https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg) | 4:17 |
+| 55 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 |
+| 56 | [Marham](https://open.spotify.com/track/4vgWEM1dc8S3JMjHrSdFTo) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Marham](https://open.spotify.com/album/2RRA5YspTw3LRG10mKBjWa) | 2:50 |
 | 57 | [Piya](https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Haal\-e\-Dil](https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe) | 2:21 |
 | 58 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 59 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |

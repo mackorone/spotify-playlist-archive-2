@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL" series\. ©2026 Shirow Masamune/KODANSHA/THE GHOST IN THE SHELL COMMITTEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,078 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,136 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

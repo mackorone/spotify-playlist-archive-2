@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 27887,
+  "num_followers": 27937,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 148656,
       "name": "Coco",
       "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "NGOMOYA",
         "url": "https://open.spotify.com/album/05HX31ytzjPOO53EqrIu0c"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 150000,
       "name": "Xtra Cool",
       "url": "https://open.spotify.com/track/33okuzZlDmJYJtA7hM4hxK"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Che Che (feat. Asake)",
-      "url": "https://open.spotify.com/track/6xYaf931EF3ZeurqrMxNCO"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Jiggy Forever",
         "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/0UJMgRVNBrnMmAeZ8p1iMc"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Unruly",
-        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 155019,
-      "name": "Jinja",
-      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Jerusalema (Deluxe)",
         "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 328000,
       "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
       "url": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Unruly",
+        "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 155019,
+      "name": "Jinja",
+      "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1495,6 +1495,46 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Kurhula",
+        "url": "https://open.spotify.com/album/552Kxk9MJl4M0WNvst18xH"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Makhanj",
+          "url": "https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV"
+        }
+      ],
+      "duration_ms": 408014,
+      "name": "Khawleza (feat. Makhanj)",
+      "url": "https://open.spotify.com/track/7N0ymLLWoUCe9kAvMOzYba"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Coup\u00e9 bibamba",
+        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        },
+        {
+          "name": "Jocelyne Beroard",
+          "url": "https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Coup\u00e9 bibamba",
+      "url": "https://open.spotify.com/track/3zhPISNwKZVIQ4Td0U3mah"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "4 DA STREETS!",
         "url": "https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK"
       },
@@ -1523,46 +1563,6 @@
       "duration_ms": 351000,
       "name": "Cn I see u (feat. BarbieSZN)",
       "url": "https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Coup\u00e9 bibamba",
-        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
-      },
-      "artists": [
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        },
-        {
-          "name": "Jocelyne Beroard",
-          "url": "https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Coup\u00e9 bibamba",
-      "url": "https://open.spotify.com/track/3zhPISNwKZVIQ4Td0U3mah"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Kurhula",
-        "url": "https://open.spotify.com/album/552Kxk9MJl4M0WNvst18xH"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Makhanj",
-          "url": "https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV"
-        }
-      ],
-      "duration_ms": 408014,
-      "name": "Khawleza (feat. Makhanj)",
-      "url": "https://open.spotify.com/track/7N0ymLLWoUCe9kAvMOzYba"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Ivy League",
+        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        }
+      ],
+      "duration_ms": 411468,
+      "name": "Song Cry (feat. Mhaw Keys)",
+      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -1651,42 +1671,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Ivy League",
-        "url": "https://open.spotify.com/album/4BBkjAHKLbwB6IdFHWzr4n"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Mhaw Keys",
-          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
-        }
-      ],
-      "duration_ms": 411468,
-      "name": "Song Cry (feat. Mhaw Keys)",
-      "url": "https://open.spotify.com/track/0497mayuEADTcP2TBzkH7Y"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Coup\u00e9 bibamba",
-        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
-      },
-      "artists": [
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "G\u00e2t\u00e9 le coin",
-      "url": "https://open.spotify.com/track/7JwMYisgPeWOY2i6bCkoO4"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "Lucent",
         "url": "https://open.spotify.com/album/0zJPWuHZWvGyw8urFFcxxx"
       },
@@ -1719,6 +1703,42 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/4bojrlaIBAWtOntcIH29Kt"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Coup\u00e9 bibamba",
+        "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "G\u00e2t\u00e9 le coin",
+      "url": "https://open.spotify.com/track/7JwMYisgPeWOY2i6bCkoO4"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Sewe",
+        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        }
+      ],
+      "duration_ms": 404634,
+      "name": "Bala (feat. SYKES)",
+      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1775,26 +1795,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Sewe",
-        "url": "https://open.spotify.com/album/3q8j0FIXu60xJIzeDrqOzh"
-      },
-      "artists": [
-        {
-          "name": "Kelvin Momo",
-          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
-        },
-        {
-          "name": "Sykes",
-          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
-        }
-      ],
-      "duration_ms": 404634,
-      "name": "Bala (feat. SYKES)",
-      "url": "https://open.spotify.com/track/1mourdmaqv51JvXKTjuFCP"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "R2Bees, Vol. 2",
         "url": "https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf"
       },
@@ -1807,6 +1807,38 @@
       "duration_ms": 220474,
       "name": "Life (Walaahi)",
       "url": "https://open.spotify.com/track/0P29bgcXgz7oG6pvzThEl7"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1847,38 +1879,6 @@
       "duration_ms": 326048,
       "name": "Peacock Revisit (feat. Ice Beats Slide & Sbuda Maleather)",
       "url": "https://open.spotify.com/track/3CPl4hi57GXwG5R7xXKMR8"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
-      },
-      "artists": [
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
     },
     {
       "added_at": "2026-06-30 14:51:43",

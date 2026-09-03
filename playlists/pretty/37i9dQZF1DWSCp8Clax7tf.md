@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCp8Clax7tf.md) - [plain]
 
 > In loving memory of Dolly Parton 🦋🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,792 likes - 96 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,025 likes - 96 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,45 @@
 {
   "description": "Videos from our studio and live sessions. Music videos available only on Premium. Cover: Kehlani",
-  "num_followers": 268,
+  "num_followers": 272,
   "original_name": "Spotify Studios Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFi5FzYMVOawfsxnghS5wiPUo8Ub",
+  "snapshot_id": "AAAAAMkjLeIskAUisu8rMskONXDVsOV6",
   "tracks": [
+    {
+      "added_at": "2026-09-02 16:47:48",
+      "album": {
+        "name": "Kelela - Spotify Live Room",
+        "url": "https://open.spotify.com/album/6IQOXpC4MgHksTtrsGyR0T"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 210827,
+      "name": "idea 1 (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/4LBVzZBuJoDyHK8xYHxpGF"
+    },
+    {
+      "added_at": "2026-09-02 16:47:48",
+      "album": {
+        "name": "Kelela - Spotify Live Room",
+        "url": "https://open.spotify.com/album/6IQOXpC4MgHksTtrsGyR0T"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 258492,
+      "name": "Mexico (Incubus Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/6zjYLuiJGVCtMC9RnMypTy"
+    },
     {
       "added_at": "2026-08-13 00:29:17",
       "album": {

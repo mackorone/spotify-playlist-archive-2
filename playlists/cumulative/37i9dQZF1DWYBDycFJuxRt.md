@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: HALCALI \*👉 <a href="https://spice.eplus.jp/articles/348671">連動記事</a>をSPICEでチェック!
 
-16,073 songs - 42 day 15 hr 59 min
+16,073 songs - 42 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3786,6 +3786,7 @@
 | [HAPPY](https://open.spotify.com/track/1hifg4DQJXbHQPddvCmt3P) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [HAPPY](https://open.spotify.com/album/5LtKPn5mX4sAoJtuDqoPCK) | 3:47 | 2023-08-08 | 2023-08-16 |
 | [HAPPY](https://open.spotify.com/track/3YCvXb3kDG2pz55ylSCl8J) | [group\_inou](https://open.spotify.com/artist/2AshAnVKDPE6B69jkFZVPD) | [HAPPY](https://open.spotify.com/album/23c3W5Tp42tZ5dtECVFUkV) | 3:46 | 2024-01-02 | 2024-01-10 |
 | [HAPPY](https://open.spotify.com/track/3HC6lWVTRtFMwqo47uAfH2) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [HAPPY](https://open.spotify.com/album/262C2bESKPglUZwbCs8PGX) | 4:43 | 2025-04-22 | 2025-04-30 |
+| [Happy](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 2:34 | 2026-09-01 |  |
 | [HAPPY](https://open.spotify.com/track/5eBUtO6pXUCCAShR6vlt0N) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [HAPPY](https://open.spotify.com/album/1DD9VeeuEvCgnG1s6AW4ci) | 3:11 | 2026-01-20 | 2026-01-28 |
 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 | 2025-03-26 | 2025-04-02 |
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-04 | 2025-03-12 |
@@ -9666,7 +9667,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 1](https://open.spotify.com/track/5o33iDIdihctGPZ2zRSSvM) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Frequency](https://open.spotify.com/album/1RU7vJF4RWH8BVdlcJTqR1) | 0:00 | 2026-09-01 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |

@@ -4,7 +4,7 @@
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-106 songs - 7 hr 26 min
+107 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,10 +83,10 @@
 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 | 2022-11-04 |  |
 | [Play That Riff \- Anthology Version](https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [West Coast Seattle Boy: The Jimi Hendrix Anthology](https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i) | 0:35 | 2024-09-15 |  |
 | [Power of Soul \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/1xdaiO16taT9WMES2GeQCW) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 5:30 | 2022-11-04 | 2023-02-01 |
-| [Power To Love \- Live](https://open.spotify.com/track/7uYNdZA4LnxEwTsmIIUCCu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live At Fillmore East, 1970\)](https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2) | 6:58 | 2026-01-15 |  |
+| [Power To Love \- Live](https://open.spotify.com/track/7uYNdZA4LnxEwTsmIIUCCu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live At Fillmore East, 1970\)](https://open.spotify.com/album/0X8uUl77dOADdr7v1ECVB2) | 6:58 | 2026-01-15 | 2026-09-03 |
 | [Power To Love \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/3XR4rCVMpjGraeX9io1pwO) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 6:55 | 2026-01-21 | 2026-03-01 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2022-11-04 |  |
-| [Rainy Day, Dream Away](https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:42 | 2022-11-30 | 2026-08-27 |
+| [Rainy Day, Dream Away](https://open.spotify.com/track/0xwG5stzrc5B70TycPwenY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 3:42 | 2022-11-30 |  |
 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 | 2022-11-04 |  |
 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 | 2022-11-04 |  |
 | [Sgt\. Pepper's Lonely Hearts Club Band \(Live in Stockholm, Sweden, September 5, 1967\)](https://open.spotify.com/track/5zOiE2wgEC6Q4WSGjKMbv5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Jimi Hendrix Experience \(Deluxe Reissue\)](https://open.spotify.com/album/1tNYWgvzsqA4OqNDX9Qhoq) | 1:51 | 2023-01-19 | 2023-11-11 |
@@ -107,7 +107,8 @@
 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 | 2024-10-07 | 2026-01-15 |
 | [Valleys of Neptune](https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Valleys Of Neptune](https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg) | 4:02 | 2022-11-04 | 2024-10-07 |
 | [Villanova Junction Blues](https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 1:44 | 2024-08-21 |  |
-| [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2022-11-04 |  |
+| [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2022-11-04 | 2026-09-03 |
+| [Voodoo Child \(Slight Return\) \- Live At Berkeley \- 1st Show](https://open.spotify.com/track/0AtLebPe7ddTCiQuswj51Z) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Voodoo Child \(Slight Return\) \[Live At Berkeley \- 1st Show\]](https://open.spotify.com/album/0jTAGDOka5CG87s8b9mPMO) | 12:27 | 2026-09-03 |  |
 | [Voodoo Chile](https://open.spotify.com/track/0auKlivXpm76wR63mMJ3pR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 14:59 | 2026-08-26 | 2026-08-27 |
 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 | 2022-11-04 |  |
 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 | 2022-11-06 |  |

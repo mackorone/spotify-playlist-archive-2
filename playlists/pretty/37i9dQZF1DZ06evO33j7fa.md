@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,328 likes - 39 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,340 likes - 39 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 38 | [Come Into The Garden \- Introduction](https://open.spotify.com/track/7z7wqwQDAwdGd8HjR3zVhG) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6jME95xTUm5qvZXNvXqxq5) | 0:31 |
 | 39 | [Milk And Honey](https://open.spotify.com/track/1DY0QWheW5C1AxeAC0RFZu) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6jME95xTUm5qvZXNvXqxq5) | 2:59 |
 
-Snapshot ID: `apTEAAAAAAB4oC0UNNiOrvmrcstnfmv3`
+Snapshot ID: `apYVgAAAAAADtLSMQCztAJEPXlMc6Kv7`

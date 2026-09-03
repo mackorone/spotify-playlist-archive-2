@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 619448,
+  "num_followers": 619486,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "Shouldn't Matter but It Does",
+      "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 236733,
-      "name": "Shouldn't Matter but It Does",
-      "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Wasn't Expecting That",
-        "url": "https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 201072,
-      "name": "Wasn't Expecting That",
-      "url": "https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Youngblood (Acoustic)",
         "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 220995,
       "name": "Youngblood - Acoustic",
       "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Wasn't Expecting That",
+        "url": "https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 201072,
+      "name": "Wasn't Expecting That",
+      "url": "https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "All My Broken Pieces",
-        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 242220,
-      "name": "All My Broken Pieces",
-      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "I Wanna Know (Acoustic)",
         "url": "https://open.spotify.com/album/6qLfMUCl0M4VHGOYKjc7ek"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 200620,
       "name": "I Wanna Know - Acoustic",
       "url": "https://open.spotify.com/track/78dhp5G3n3KbA2ThlSkl2b"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "All My Broken Pieces",
+        "url": "https://open.spotify.com/album/4sbMRC8gsLRdloSLdNlwif"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 242220,
+      "name": "All My Broken Pieces",
+      "url": "https://open.spotify.com/track/4VmFqEEqbLReGKJQhDl9c0"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Nothing Matters (Acoustic)",
-        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Nothing Matters - Acoustic",
-      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "You Come First (Acoustic Version)",
         "url": "https://open.spotify.com/album/5nOrUm1tHVgM6PqzEN1MLN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 167296,
       "name": "You Come First - Acoustic Version",
       "url": "https://open.spotify.com/track/07ybeC5DaFdryi4P2Bw1VN"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Nothing Matters (Acoustic)",
+        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Nothing Matters - Acoustic",
+      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 218492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
         "name": "Just You and I",
         "url": "https://open.spotify.com/album/4hzjnFFytkQZVyooMg86RW"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 196893,
       "name": "Just You and I",
       "url": "https://open.spotify.com/track/2yPqhfL7EeQlEdz7rAQfU9"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 218492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1639,22 +1639,6 @@
       "duration_ms": 235466,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/2ZQ87gUxLwKZS2ar0uXFmf"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2026-01-26 17:25:39",
@@ -1687,6 +1671,22 @@
       "duration_ms": 225493,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2026-01-26 17:25:39",

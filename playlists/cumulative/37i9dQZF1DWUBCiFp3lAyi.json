@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-14",
-  "description": "Your personalized GTA radio station. ",
+  "description": "Your personalized GTA radio station",
   "name": "Grand Theft Auto Radio",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 372706,
       "name": "Ali Bomaye",
       "url": "https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7"
@@ -341,6 +341,36 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3zHl7v8SJjqKoHZWCszzzn"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267693,
+      "name": "Besito De Coco",
+      "url": "https://open.spotify.com/track/0dk38kFCydem9YA2NP1RPO"
+    },
+    {
+      "album": {
         "name": "The Principle of Moments",
         "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
       },
@@ -449,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Keeping Our Love Warm",
+        "url": "https://open.spotify.com/album/2gmNIveGdMhCIRDvQ3wFiO"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "But I Think It's A Dream",
+      "url": "https://open.spotify.com/track/6mM4FYEtBWaosh60vaJTgh"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -486,7 +534,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
@@ -560,6 +608,24 @@
       "duration_ms": 323000,
       "name": "Carry on Wayward Son",
       "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
+    },
+    {
+      "album": {
+        "name": "From Langley Park To Memphis",
+        "url": "https://open.spotify.com/album/4yhZQGEEogCoJ0SZ9RTUrv"
+      },
+      "artists": [
+        {
+          "name": "Prefab Sprout",
+          "url": "https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265466,
+      "name": "Cars and Girls",
+      "url": "https://open.spotify.com/track/755cKP6z9tywIgQpAc3cVV"
     },
     {
       "album": {
@@ -710,6 +776,24 @@
       "duration_ms": 246053,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
+    },
+    {
+      "album": {
+        "name": "I'm Nearly Famous",
+        "url": "https://open.spotify.com/album/3zNPtljTj1NPNfs1H4hEqn"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Devil Woman - 2001 Remaster",
+      "url": "https://open.spotify.com/track/29YcYtqUNLWaYvGVGdYtZy"
     },
     {
       "album": {
@@ -916,7 +1000,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 379240,
       "name": "Freek'n You",
       "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
@@ -1667,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346960,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz"
+    },
+    {
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
       },
@@ -1678,7 +1780,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
@@ -1812,6 +1914,28 @@
       "duration_ms": 308733,
       "name": "Mind Playing Tricks on Me",
       "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
+    },
+    {
+      "album": {
+        "name": "MYCELiUM",
+        "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193938,
+      "name": "Mine O Mine",
+      "url": "https://open.spotify.com/track/5ZPqHW450bjKLNqSBT9YlA"
     },
     {
       "album": {
@@ -2047,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "Wallop",
+        "url": "https://open.spotify.com/album/30vJA5TN3zRdN5bfngNfLj"
+      },
+      "artists": [
+        {
+          "name": "!!!",
+          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+        },
+        {
+          "name": "Meah Pace",
+          "url": "https://open.spotify.com/artist/45d7D0HdSf3sGmojJmkvgi"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228304,
+      "name": "Off The Grid",
+      "url": "https://open.spotify.com/track/4y2OemUjvs15S4oHui3Rv7"
+    },
+    {
+      "album": {
         "name": "The Very Best of Daryl Hall / John Oates",
         "url": "https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF"
       },
@@ -2076,7 +2222,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
@@ -2094,7 +2240,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 253293,
       "name": "Party All the Time",
       "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
@@ -2188,6 +2334,54 @@
       "duration_ms": 173601,
       "name": "Plain Jane",
       "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "album": {
+        "name": "5 * Stunna",
+        "url": "https://open.spotify.com/album/6oJupyIaAOMlJHxVn05mBH"
+      },
+      "artists": [
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Pop Bottles - Main",
+      "url": "https://open.spotify.com/track/1kEp3Po9RUPm11N5ITOUWx"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Pound Town 2",
+      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
     },
     {
       "album": {
@@ -2292,7 +2486,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 193574,
       "name": "Rockstar Made",
       "url": "https://open.spotify.com/track/3cWmqvMwVQKDigWLSZ3w9h"
@@ -2556,7 +2750,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 302933,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk"
@@ -2654,7 +2848,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 260866,
       "name": "So Into You",
       "url": "https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX"

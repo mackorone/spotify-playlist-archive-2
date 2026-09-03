@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2949,
+  "num_followers": 2956,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAJWGkIU+QsKbM49yBeQ8UM",
+  "snapshot_id": "apYVgAAAAAB6BFwp8i05PKpQpZp167uK",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 256367,
-      "name": "Pink Sky",
-      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Is Gonna Be Alright",
         "url": "https://open.spotify.com/album/20Aiwmkcgo4LVORJQenn0F"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 198636,
       "name": "Everything Is Gonna Be Alright",
       "url": "https://open.spotify.com/track/0E7ZCzPoxcMM90ppB47d1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "No One Comes Close",
+      "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "No One Comes Close",
-      "url": "https://open.spotify.com/track/5TxHK9ZJVb6Rbh9xBYqVK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Home, Vol. 1",
         "url": "https://open.spotify.com/album/6yDHXqAdyjYi4f1FBbl8dc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 379619,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/6nHkgmNaCyfc5D2mLNIkni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 256367,
+      "name": "Pink Sky",
+      "url": "https://open.spotify.com/track/1Wv8Mo6yzMr5RLdJYA3Els"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 255141,
       "name": "I Don't Feel No Ways Tired",
       "url": "https://open.spotify.com/track/1Um40cA0dv4sWBEBV0ErWm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/6buSeaKiMT7DYkwZxRGtFY"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hater's Anthem (Sped Up)",
-        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 155971,
-      "name": "Hater's Anthem - Sped Up",
-      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -631,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+        "name": "Hater's Anthem (Sped Up)",
+        "url": "https://open.spotify.com/album/7Jm3OI7cJLCCn22qe43lw9"
       },
       "artists": [
         {
@@ -640,73 +624,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 234404,
-      "name": "His Eye Is On the Sparrow",
-      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 244551,
-      "name": "Outside Myself",
-      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "When The Rain Starts",
-      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 366625,
-      "name": "Dream Fighter",
-      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
+      "duration_ms": 155971,
+      "name": "Hater's Anthem - Sped Up",
+      "url": "https://open.spotify.com/track/7IfFgAh3A3mUBgbo6Lx2Rk"
     },
     {
       "added_at": null,
@@ -727,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black History Always / Music For the Movement Vol. 2",
-        "url": "https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng"
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
       },
       "artists": [
         {
@@ -736,9 +656,73 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 104189,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0AXLbBrNlsz9JVKXxq21Pi"
+      "duration_ms": 234404,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "When The Rain Starts",
+      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 244551,
+      "name": "Outside Myself",
+      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 366625,
+      "name": "Dream Fighter",
+      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 207360,
       "name": "We Are The Light",
       "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black History Always / Music For the Movement Vol. 2",
+        "url": "https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 104189,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0AXLbBrNlsz9JVKXxq21Pi"
     }
   ],
   "unique_name": "This Is Infinity Song",

@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122588,
+  "num_followers": 122596,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apTEAAAAAAAVDazef9geLhW5oHdz/Yw1",
+  "snapshot_id": "apYVgAAAAAAxX796Yh2BGpntVkTWZ9I4",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+        "name": "Rock Steady (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Trapped In A Box",
-      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
+      "duration_ms": 173333,
+      "name": "Detective",
+      "url": "https://open.spotify.com/track/4hxV0Ev50HGgzYGzfddYKS"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Steady (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu"
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Detective",
-      "url": "https://open.spotify.com/track/4hxV0Ev50HGgzYGzfddYKS"
+      "duration_ms": 202293,
+      "name": "Trapped In A Box",
+      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
       "duration_ms": 282600,
       "name": "Looking Hot",
       "url": "https://open.spotify.com/track/0DRvLkBUlGjEQUQKr1uP4M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 145866,
-      "name": "Doormat",
-      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 145866,
+      "name": "Doormat",
+      "url": "https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push And Shove",
         "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 278653,
       "name": "One More Summer",
       "url": "https://open.spotify.com/track/6v5gVGbjz9ZqX3F5BAJBnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Let's Get Back",
-      "url": "https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x"
     },
     {
       "added_at": null,
@@ -560,9 +544,25 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Let's Get Back",
+      "url": "https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
       "duration_ms": 310226,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5vccqEnXkzZxHroGh1Am1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
     },
     {
       "added_at": null,
@@ -624,25 +608,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/2Cp5exQvEWphydFc11pxO6"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -659,6 +627,22 @@
       "duration_ms": 228840,
       "name": "Ache",
       "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/2Cp5exQvEWphydFc11pxO6"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything In Time (B-Sides, Rarities, Remixes)",
         "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 206880,
       "name": "Everything In Time - Los Angeles",
       "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 45640,
-      "name": "BND",
-      "url": "https://open.spotify.com/track/67zScJlCZAhJsIMCYyDSbj"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 45640,
+      "name": "BND",
+      "url": "https://open.spotify.com/track/67zScJlCZAhJsIMCYyDSbj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything In Time (B-Sides, Rarities, Remixes)",
         "url": "https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 192093,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/6ODiIJASdmYZwoyhLhUz7c"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        },
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
     },
     {
       "added_at": null,

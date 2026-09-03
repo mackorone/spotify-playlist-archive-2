@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: JACOBUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,261 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,300 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 36 | [Keeza](https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 2:58 |
 | 37 | [Te Laat](https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Te Laat](https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1) | 3:14 |
 | 38 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
-| 39 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
-| 40 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
+| 39 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
+| 40 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
 | 41 | [Tina Tequila](https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Tina Tequila](https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61) | 3:21 |
 | 42 | [DOOD](https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [DOOD](https://open.spotify.com/album/0jpHb8Uf3JiB6cbHkfwkhC) | 3:25 |
 | 43 | [Lenie Blou](https://open.spotify.com/track/5O17tIhBU2Z3JGzrJPR11k) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Lenie Blou](https://open.spotify.com/album/6krZkJORCAZDFizJ1Op5XJ) | 3:00 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 51 | [Hoe Nou?](https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Johan Viljoen](https://open.spotify.com/artist/5sLYgGnmf2ra6V7hLHbvG8) | [Hoe Nou?](https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC) | 2:59 |
 | 52 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
 | 53 | [Daai Gevoel](https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Daai Gevoel](https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF) | 3:11 |
-| 54 | [Genadewater](https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genadewater](https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V) | 2:48 |
-| 55 | [My Bra](https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH), [SANFRANDISCO](https://open.spotify.com/artist/0HSdp6iuOI2XqselvVUDur) | [My Bra](https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK) | 3:30 |
-| 56 | [Rooi Vlag](https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Rooi Vlag](https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45) | 4:06 |
-| 57 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
+| 54 | [My Bra](https://open.spotify.com/track/5aDU1syQZmoTu0aK0Quyg5) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH), [SANFRANDISCO](https://open.spotify.com/artist/0HSdp6iuOI2XqselvVUDur) | [My Bra](https://open.spotify.com/album/4SfoXJXapgh5WDmLRoTaoK) | 3:30 |
+| 55 | [Genadewater](https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genadewater](https://open.spotify.com/album/1wJ03ZK8Gks4sGewzfKx8V) | 2:48 |
+| 56 | [Yskas Skuif](https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Yskas Skuif](https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ) | 3:24 |
+| 57 | [Rooi Vlag](https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Rooi Vlag](https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45) | 4:06 |
 | 58 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
 | 59 | [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 |
 | 60 | [Mila](https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Mila](https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL) | 2:52 |

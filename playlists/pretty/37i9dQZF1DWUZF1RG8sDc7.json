@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 167225,
+  "num_followers": 167257,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Son los Gigantes",
+        "url": "https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Vivo por Ti",
+      "url": "https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Adi\u00f3s A La Diosa",
         "url": "https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc"
       },
@@ -939,6 +955,22 @@
       "duration_ms": 277000,
       "name": "Me Dejaste Sin Nada",
       "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -963,18 +995,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 305826,
+      "name": "Buscar\u00e9 Otro Amor",
+      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -999,22 +1031,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/4Kwo97uDhkBOo949pLPmPw"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Marca Registrada del Binomio de Oro",
         "url": "https://open.spotify.com/album/5HOi98tAJriR5Dkde2wiys"
       },
@@ -1027,26 +1043,6 @@
       "duration_ms": 270293,
       "name": "Me Sobran las Palabras",
       "url": "https://open.spotify.com/track/5tQXpp3ciJYkqu2NEXiZHh"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
-        }
-      ],
-      "duration_ms": 289253,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+      "duration_ms": 289253,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

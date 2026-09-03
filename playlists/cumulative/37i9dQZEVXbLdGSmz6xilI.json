@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 199312,
       "name": "2 4",
       "url": "https://open.spotify.com/track/6r5o9yIc16ZvymXUKJQ1yy"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 212000,
       "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
       "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 315311,
       "name": "B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
       "url": "https://open.spotify.com/track/4TyQKEifYDWTfTSRwpxlYI"
@@ -8296,7 +8296,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15535,6 +15535,24 @@
     },
     {
       "album": {
+        "name": "L\u01b0u Ni\u00ean",
+        "url": "https://open.spotify.com/album/1l31L0opGmuQvLJaUxXGJ4"
+      },
+      "artists": [
+        {
+          "name": "Jack - J97",
+          "url": "https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194339,
+      "name": "L\u01b0u Ni\u00ean",
+      "url": "https://open.spotify.com/track/2rSrLECfNaKYJ96UJ4ddDt"
+    },
+    {
+      "album": {
         "name": "RAP VI\u1ec6T 2024, T\u1eadp 11",
         "url": "https://open.spotify.com/album/7IF0Ku2wElzBhTE4pjH6oV"
       },
@@ -17316,7 +17334,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 235315,
       "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y - Extended Version",
       "url": "https://open.spotify.com/track/36fgG6NiEuQXznNgf5y2Ck"
@@ -20016,7 +20034,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 317972,
       "name": "N\u1ebfu Nh\u01b0 Ta Ch\u1eb3ng C\u00f2n (feat. A$AP \u01af\u1edbt Mi)",
       "url": "https://open.spotify.com/track/05kwQNmIvly0VZy3AkfMzs"
@@ -26564,7 +26582,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 196172,
       "name": "toidaidot",
       "url": "https://open.spotify.com/track/6uA9tUGo5WUhFPUR93F4jO"
@@ -27348,7 +27366,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -27384,7 +27402,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -28000,7 +28018,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -29624,7 +29642,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"
@@ -29700,7 +29718,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 268376,
       "name": "Xin \u0110\u1eebng L\u1eb7ng Im",
       "url": "https://open.spotify.com/track/4CVxKSRLUxqUuj2z9vn4fS"
@@ -31426,6 +31444,28 @@
       "duration_ms": 192000,
       "name": "\u0110\u1ec3 Anh M\u1ed9t M\u00ecnh (feat. Quang Anh Rhyder)",
       "url": "https://open.spotify.com/track/5Wgify5hhk544rP3bSp38q"
+    },
+    {
+      "album": {
+        "name": "\u0111\u1ec3 d\u00e0nh cho em",
+        "url": "https://open.spotify.com/album/3mrqTdaFHJQVN4lQp5D6pw"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293549,
+      "name": "\u0111\u1ec3 d\u00e0nh cho em",
+      "url": "https://open.spotify.com/track/2HEd2fkMbbIclpv8pYvWW0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 227123,
+  "num_followers": 227138,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Mo\u00f1os Negros",
-        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 202031,
-      "name": "Mo\u00f1os Negros",
-      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Yang",
         "url": "https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 163815,
       "name": "El D\u00eda de Tu Muerte",
       "url": "https://open.spotify.com/track/0si30sd2Zl0lXnNUC8FxyS"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Mo\u00f1os Negros",
+        "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 202031,
+      "name": "Mo\u00f1os Negros",
+      "url": "https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Que te vaya bonito",
+      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 265613,
       "name": "Frankestein",
       "url": "https://open.spotify.com/track/59hECJ8oyCMJOuY0A1zhzL"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Que te vaya bonito",
-      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Caribe Mar Sincopado",
         "url": "https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 448000,
       "name": "Mujer Antigua, La Bruja",
       "url": "https://open.spotify.com/track/7rEBX9KE26h09AjNX75LGM"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Banda de los Muertos",
-        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
-      },
-      "artists": [
-        {
-          "name": "Banda de los Muertos",
-          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Ay Mexicanita",
-      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Canciones de D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 232037,
       "name": "Pan de Muertos",
       "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Banda de los Muertos",
+        "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
+      },
+      "artists": [
+        {
+          "name": "Banda de los Muertos",
+          "url": "https://open.spotify.com/artist/51oqYJcrhViS7t0O8ibl5g"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Ay Mexicanita",
+      "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "D\u00e9cimas a La Muerte",
-      "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/77NZ2TxTW8ZlubZbThIjBT"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "D\u00e9cimas a La Muerte",
+      "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Forajido",
         "url": "https://open.spotify.com/album/09OxXsUfEYl5Ztn7aMeVgg"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 211426,
       "name": "Tren de la Muerte",
       "url": "https://open.spotify.com/track/6vop4c1mF4et6sDjbQNKo5"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
+      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1219,22 +1235,6 @@
       "duration_ms": 244813,
       "name": "A Mi Me Mat\u00f3 La Vida",
       "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
-      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
     },
     {
       "added_at": "2026-06-24 20:03:44",

@@ -4,7 +4,7 @@
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Icona Pop
 
-936 songs - 2 day 1 hr 26 min
+937 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,6 +547,7 @@
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 | 2022-11-19 |
 | [Miss That \- Marten Lou Remix](https://open.spotify.com/track/01jOgVUVbmT0lXRaWRmYqi) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Miss That \(Marten Lou Remix\)](https://open.spotify.com/album/0lLbRJhBbp37aZYgdOBqm2) | 3:40 | 2026-04-10 |  |
 | [Miss You](https://open.spotify.com/track/6vAUQntCAzBg6kYern6LQM) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 3:26 | 2022-10-28 | 2022-11-19 |
+| [Missing Piece](https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Missing Piece](https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R) | 2:48 | 2026-09-02 |  |
 | [Moment](https://open.spotify.com/track/7wNKtCzafd3om6QKiub1Js) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Levi Don't Do It](https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ) | 3:05 | 2024-01-19 | 2025-04-26 |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-06-03 | 2023-02-05 |
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2022-06-03 | 2023-02-05 |

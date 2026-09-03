@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring AZ Chike and Tyler, The Creator,  Rod Wave, Ken Carson and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,427 likes - 76 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,503 likes - 76 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Fuck Ya Opinion](https://open.spotify.com/track/1Wdx9KCBb8Bdg5hycvIqBC) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fuck Ya Opinion](https://open.spotify.com/album/25ylwDcBhasTPxUUGCZn1x) | 2:04 |
 | 36 | [Struggle Gang](https://open.spotify.com/track/6t0h7q8YiU0hTQce4kGp59) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Struggle Gang](https://open.spotify.com/album/1fQojw3HYm8Rg4FXhMfihP) | 1:47 |
 | 37 | [11:59 in Chicago](https://open.spotify.com/track/6gos0Qv0ICZDIR5qkoqZef) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [He is Me](https://open.spotify.com/album/05VVsVaTV5NJYGviN8QQYD) | 1:57 |
-| 38 | [Blue Spirit\_BLUE](https://open.spotify.com/track/1N07iofmEa7zSC1WNYcUTn) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Everything in My Soul is Moving Towards Love](https://open.spotify.com/album/7rWH3Pux9Nth07EQypQubI) | 3:12 |
+| 38 | [Blue Spirit\_BLUE](https://open.spotify.com/track/1N07iofmEa7zSC1WNYcUTn) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Everything In My Soul is Moving Towards Love](https://open.spotify.com/album/7rWH3Pux9Nth07EQypQubI) | 3:12 |
 | 39 | [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 |
 | 40 | [YEEN](https://open.spotify.com/track/4NpSOG88pKA6RJoQj4Xa9d) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [YEEN](https://open.spotify.com/album/34VCfRr0tzSO0SfhYAjshM) | 1:49 |
 | 41 | [STRANGER](https://open.spotify.com/track/0MyWfaQ6f2tlNGlsRVUBTc) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [MY BLOOD AS THE INK](https://open.spotify.com/album/0KUnTOGIWsIzoGLu1QDQnN) | 1:50 |

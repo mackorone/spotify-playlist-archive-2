@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Igniter",
+        "url": "https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy"
+      },
+      "artists": [
+        {
+          "name": "Flamebearer",
+          "url": "https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296133,
+      "name": "Electric Haze",
+      "url": "https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB"
+    },
+    {
+      "album": {
         "name": "Escrito en el Lavabo",
         "url": "https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE"
       },
@@ -10392,6 +10410,32 @@
       "duration_ms": 140591,
       "name": "Spaceship L-U-V",
       "url": "https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w"
+    },
+    {
+      "album": {
+        "name": "Jazzromad",
+        "url": "https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu"
+      },
+      "artists": [
+        {
+          "name": "Behnam Zandieh",
+          "url": "https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt"
+        },
+        {
+          "name": "Mohammad Ali Teimouri",
+          "url": "https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI"
+        },
+        {
+          "name": "Dara Teymoorifar",
+          "url": "https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293983,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/39QWoXuLCF0CLpIJacmNEJ"
     },
     {
       "album": {

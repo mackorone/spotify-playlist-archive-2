@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157928,
+  "num_followers": 157914,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Horsens (feat. Sofie1998)",
         "url": "https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 191262,
       "name": "Horsens (feat. Sofie1998)",
       "url": "https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Kogeplade",
-        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "beholder mit t\u00f8j p\u00e5",
         "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188425,
       "name": "beholder mit t\u00f8j p\u00e5",
       "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Kogeplade",
+        "url": "https://open.spotify.com/album/7jRZjDNlJewGL6dbYFP70I"
+      },
+      "artists": [
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/3CSmqvgWBYmGUnGqLeXYLC"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
         "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
       },
@@ -1251,6 +1235,38 @@
       "duration_ms": 152714,
       "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
       "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1303,22 +1319,6 @@
       "duration_ms": 173259,
       "name": "Skyklapper",
       "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/1FrmEoNfKBx7Z6nU05KW5w"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Blomster Visner",
-      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Blomster Visner",
+      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
     },
     {
       "added_at": "2026-05-21 12:03:22",

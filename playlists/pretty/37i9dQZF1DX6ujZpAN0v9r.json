@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 702071,
+  "num_followers": 702142,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "A Strangely Isolated Place",
-        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 399720,
-      "name": "On My Own - 2019 remaster",
-      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Hover",
         "url": "https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 297813,
       "name": "Dark Star",
       "url": "https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "A Strangely Isolated Place",
+        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 399720,
+      "name": "On My Own - 2019 remaster",
+      "url": "https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/21v5LW9SrY0dEbU0CicuHk"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Mindfullness",
-        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
-      },
-      "artists": [
-        {
-          "name": "Flyying Colours",
-          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "It's Tomorrow Now",
-      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
-    },
-    {
       "added_at": "2024-08-30 21:12:37",
       "album": {
         "name": "Brickbat",
@@ -1007,6 +991,22 @@
       "duration_ms": 318044,
       "name": "She's Unreal",
       "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
+      },
+      "artists": [
+        {
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "It's Tomorrow Now",
+      "url": "https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+        "name": "Skin Game",
+        "url": "https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU"
       },
       "artists": [
         {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+      "duration_ms": 265466,
+      "name": "Skin Game",
+      "url": "https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1327,6 +1327,22 @@
       "duration_ms": 204800,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Skin Game",
-        "url": "https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Skin Game",
-      "url": "https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mild Orange",
         "url": "https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF"
       },
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Shelter (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 390026,
-      "name": "Into the Waves",
-      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "We\u2019re Not Done (End Title)",
         "url": "https://open.spotify.com/album/5TiqFCkjE75V7spbHqJyt5"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 254706,
       "name": "We\u2019re Not Done (End Title)",
       "url": "https://open.spotify.com/track/58jGSwikO2NbCICODjZnrG"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Shelter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 390026,
+      "name": "Into the Waves",
+      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
     },
     {
       "added_at": "2021-06-03 02:39:04",

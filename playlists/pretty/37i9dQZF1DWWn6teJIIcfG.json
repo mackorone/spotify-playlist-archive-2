@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223375,
+  "num_followers": 223390,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "The Swan - Reimagined",
-        "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
-      },
-      "artists": [
-        {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
-        },
-        {
-          "name": "Verwey",
-          "url": "https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "The Swan - Reimagined",
-      "url": "https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
         "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
         "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
       },
@@ -515,22 +495,22 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
+        "name": "The Swan - Reimagined",
+        "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
       },
       "artists": [
         {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+          "name": "Verwey",
+          "url": "https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb"
         }
       ],
-      "duration_ms": 172758,
-      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
+      "duration_ms": 166451,
+      "name": "The Swan - Reimagined",
+      "url": "https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -555,22 +535,22 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
-        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
         },
         {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Lieder ohne Worte, Op. 19, No. 1",
-      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
+      "duration_ms": 172758,
+      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -587,6 +567,26 @@
       "duration_ms": 181984,
       "name": "Respiro 1",
       "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Bach/Busoni; Mendelssohn; Schubert/Liszt - Songs Without Words",
+        "url": "https://open.spotify.com/album/0su0yxTZDCOxbdHNyfTKLt"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lieder ohne Worte, Op. 19, No. 1",
+      "url": "https://open.spotify.com/track/2ZoSiPSkWqz36Qqtl940zr"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
         "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 254653,
       "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
       "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 58413,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 241720,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 58413,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Glass: Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
         "url": "https://open.spotify.com/album/2BFsR5xwpCeaUDd8PFOQvq"
       },
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1311,46 +1311,6 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "See Siang Wong",
-          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
-        }
-      ],
-      "duration_ms": 156080,
-      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
-      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1379,6 +1339,46 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+        "url": "https://open.spotify.com/album/0nBAiJGtx3LFsvjGxyPnUK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+        }
+      ],
+      "duration_ms": 156080,
+      "name": "Piano Sonata No. 30 in E Major, Op. 109: III. Andante molto cantabile ed espressivo (Elaborations by See Siang Wong)",
+      "url": "https://open.spotify.com/track/2DiUfuknJX3bTHw5zgyTnu"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
         "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 71262,
       "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
       "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 12 in F Minor, BWV 857: I. Prelude",
-        "url": "https://open.spotify.com/album/6iHdjbfvhTnze7ir0XQl5r"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Minsoo Sohn",
-          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 12 in F Minor, BWV 857: I. Prelude",
-      "url": "https://open.spotify.com/track/3aNCLsIdBz52vKfBbIT3i7"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1447,26 +1427,22 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
-        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
+        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 12 in F Minor, BWV 857: I. Prelude",
+        "url": "https://open.spotify.com/album/6iHdjbfvhTnze7ir0XQl5r"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Jan Mr\u00e1\u010dek",
-          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+          "name": "Minsoo Sohn",
+          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
         }
       ],
-      "duration_ms": 455266,
-      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
-      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
+      "duration_ms": 145666,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 12 in F Minor, BWV 857: I. Prelude",
+      "url": "https://open.spotify.com/track/3aNCLsIdBz52vKfBbIT3i7"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1487,6 +1463,30 @@
       "duration_ms": 150493,
       "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
       "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
+        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+        }
+      ],
+      "duration_ms": 455266,
+      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
+      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Schumann 50",
-        "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Valentina Igoshina",
-          "url": "https://open.spotify.com/artist/1W57JpbpzQDpbFRTWUBhxO"
-        }
-      ],
-      "duration_ms": 88093,
-      "name": "Carnaval, Op. 9: XII. Chopin",
-      "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 267773,
       "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Schumann 50",
+        "url": "https://open.spotify.com/album/0p0cbnZyFmkv1tjrEOAQIb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Valentina Igoshina",
+          "url": "https://open.spotify.com/artist/1W57JpbpzQDpbFRTWUBhxO"
+        }
+      ],
+      "duration_ms": 88093,
+      "name": "Carnaval, Op. 9: XII. Chopin",
+      "url": "https://open.spotify.com/track/6Q4RxugUBulJqgtUCVyGWZ"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
+      },
+      "artists": [
+        {
+          "name": "Valmandel",
+          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Nocturne No. 6, Serenity",
+      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Schumann: Album for the Young",
         "url": "https://open.spotify.com/album/0zAGryVqIFExsM17ayKDQr"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 76746,
       "name": "Album for the Young, Op. 68: 6. Armes Waisenkind",
       "url": "https://open.spotify.com/track/1jrCgWRvMGiDYUKgXs99Q4"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Nocturnes, Vol. 1",
-        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
-      },
-      "artists": [
-        {
-          "name": "Valmandel",
-          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Nocturne No. 6, Serenity",
-      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Pian Perduto",
         "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 248725,
       "name": "Pian Perduto",
       "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
+      },
+      "artists": [
+        {
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -2127,26 +2127,6 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Devotions (String Quartet No 3): III.",
-        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
-      },
-      "artists": [
-        {
-          "name": "Edmund Finnis",
-          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
-        },
-        {
-          "name": "Solem Quartet",
-          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
-        }
-      ],
-      "duration_ms": 255534,
-      "name": "Devotions (String Quartet No 3): III.",
-      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
         "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
         "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 194440,
       "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Devotions (String Quartet No 3): III.",
+        "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
+      },
+      "artists": [
+        {
+          "name": "Edmund Finnis",
+          "url": "https://open.spotify.com/artist/43AwXMZwny13kQZFMzMN75"
+        },
+        {
+          "name": "Solem Quartet",
+          "url": "https://open.spotify.com/artist/63YhBkgW5BOcyn95e9mqAw"
+        }
+      ],
+      "duration_ms": 255534,
+      "name": "Devotions (String Quartet No 3): III.",
+      "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
-        "name": "Beeftink: Frequency",
-        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
-      },
-      "artists": [
-        {
-          "name": "Herman Beeftink",
-          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
-        },
-        {
-          "name": "Emissary Quartet",
-          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
         "name": "Chopin",
         "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 313200,
       "name": "Grande valse brillante, Op. 34 No. 2",
       "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
+        "name": "Beeftink: Frequency",
+        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
+      },
+      "artists": [
+        {
+          "name": "Herman Beeftink",
+          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
+        },
+        {
+          "name": "Emissary Quartet",
+          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
+        }
+      ],
+      "duration_ms": 378040,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-08-21 04:00:52",
@@ -2363,6 +2363,26 @@
     {
       "added_at": "2026-08-21 04:00:52",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2026-08-21 04:00:52",
+      "album": {
         "name": "Tchaikovsky: Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
         "url": "https://open.spotify.com/album/0RTnFw9279oDwm89sM8o0v"
       },
@@ -2383,26 +2403,6 @@
       "duration_ms": 256120,
       "name": "Souvenir d'un lieu cher, Op. 42: III. M\u00e9lodie (Arr. Heifetz for Violin & Piano)",
       "url": "https://open.spotify.com/track/3LRRy5Afbkhp56QQnDPrff"
-    },
-    {
-      "added_at": "2026-08-21 04:00:52",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2026-08-21 04:00:52",

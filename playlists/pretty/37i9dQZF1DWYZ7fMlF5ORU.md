@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,762 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,782 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 5 | [Jeová é o teu Cavaleiro \(Ao Vivo\)](https://open.spotify.com/track/2xtcFBJmzJcnhW7D4dqNqb) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas 30 anos \- Ao vivo no Teatro Rival](https://open.spotify.com/album/3eDeYVVTHzx7Yjc2KYblFq) | 4:26 |
 | 6 | [Os Anjos Te Louvam \- Ao Vivo](https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:13 |
 | 7 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
-| 8 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 |
+| 8 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
 | 9 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 |
 | 10 | [O Dom da Vida](https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Carol Oliveira](https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe) | [O Dom da Vida](https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG) | 3:48 |
 | 11 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
 | 12 | [A Voz](https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4) | [Hiago Klayton](https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [A Voz](https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX) | 4:20 |
-| 13 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
+| 13 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 |
 | 14 | [Fará Outra Vez](https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [One Vision](https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o) | 4:17 |
 | 15 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
 | 16 | [Crente Que Ora \- Ao Vivo](https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:40 |

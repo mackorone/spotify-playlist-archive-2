@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154213,
+      "name": "Are You Coming Back",
+      "url": "https://open.spotify.com/track/047qlgP1wSz7AyvnrNNlwd"
+    },
+    {
+      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 141386,
       "name": "Dear Mr. Killian",
       "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-03",
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 145546,
       "name": "Like the Sea Is Breathing",
       "url": "https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt"

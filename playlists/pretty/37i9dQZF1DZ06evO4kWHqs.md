@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 25 | [Wrist](https://open.spotify.com/track/3FUhwWJhvtXJJWp8Vsq8w9) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [God Forbid I Have Fun.](https://open.spotify.com/album/1LIDJseieIyH7HkpuS4lsG) | 3:05 |
 | 26 | [Slide](https://open.spotify.com/track/7EbUV6hKg8hFpOQKFMzmJu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:09 |
 | 27 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 |
-| 28 | [Money Talk](https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Money Talk](https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE) | 2:42 |
-| 29 | [fashion week](https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [fashion week](https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl) | 1:54 |
+| 28 | [fashion week](https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [fashion week](https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl) | 1:54 |
+| 29 | [Money Talk](https://open.spotify.com/track/25qQATlLMHVqewlA3kYFBu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Money Talk](https://open.spotify.com/album/6QfToP6Te9fSg6TDGS7EUE) | 2:42 |
 | 30 | [DESLIZA \- Slide Remix](https://open.spotify.com/track/05A0fzgw1LCQhdvsCCSGeL) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 4:03 |
 | 31 | [rosa](https://open.spotify.com/track/1j8xdNqCaZ02QO14dS8Y1D) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:50 |
 | 32 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kWHqs.md) - [plain]
 | 39 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 |
 | 40 | [Easy Go! \- SadBoi Remix](https://open.spotify.com/track/3ZCXPRcZHn9vzc3Gr5374j) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Easy Go! \(SadBoi Remix\)](https://open.spotify.com/album/52Yo3AMJWez7caHauDDhT9) | 2:30 |
 | 41 | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl) | 2:33 |
-| 42 | [blaming me](https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [were all the ig girls worth it?](https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx) | 2:05 |
-| 43 | [Call Me Back](https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Call Me Back](https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa) | 2:56 |
+| 42 | [Call Me Back](https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Call Me Back](https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa) | 2:56 |
+| 43 | [blaming me](https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [were all the ig girls worth it?](https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx) | 2:05 |
 | 44 | [Gyal Clown](https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gyal Clown](https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h) | 2:16 |
 | 45 | [dnd](https://open.spotify.com/track/5Ttdoj46kU4eQbwVB4KecE) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:13 |
 | 46 | [Sister Wives](https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Sister Wives](https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt) | 3:18 |
 | 47 | [whose fault](https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [whose fault](https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz) | 2:06 |
 | 48 | [DAMAGE](https://open.spotify.com/track/7yGqmihUYriXMVXmbOHhLy) | [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [METAL TAIL](https://open.spotify.com/album/743P9G9do6QUrn31c7Y7p1) | 2:58 |
 | 49 | [nana](https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:29 |
-| 50 | [GRACIAS \- Remix](https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [GRACIAS \(Remix\)](https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS) | 2:26 |
+| 50 | [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 |
 
-Snapshot ID: `apTEAAAAAACxzjslJkCRueXl3qLXuptj`
+Snapshot ID: `apYVgAAAAADLc+KTaSYdwGj8nr+KwLSS`

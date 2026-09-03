@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,688 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,687 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 73 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
 | 74 | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m) | 3:53 |
 | 75 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
-| 76 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
-| 77 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
+| 76 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
+| 77 | [MMG](https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [MMG](https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW) | 3:06 |
 | 78 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 |
 | 79 | [Heart Said No](https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Heart Said No](https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG) | 3:22 |
 | 80 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |
