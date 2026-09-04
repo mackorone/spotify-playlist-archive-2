@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Chilli Beans\. + WurtS + PEOPLE1
 
-3,527 songs - 9 day 3 hr 52 min
+3,529 songs - 9 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 | 2025-09-02 | 2025-12-03 |
 | [FMP](https://open.spotify.com/track/3KuYASit1hREoEMM5qeRwZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FMP](https://open.spotify.com/album/1bv2CWNeKW8iN3mzwUn7nK) | 3:24 | 2025-11-04 | 2025-11-26 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 | 2023-06-21 |
+| [FOR OKINAWA \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/03PGemRNLrjn9Efmy2y6OY) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [FOR OKINAWA \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/4EcdHV5JYKnpOfuOZXso4j) | 3:54 | 2026-09-03 |  |
 | [Forbidden tale](https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Epic Narratives](https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO) | 4:34 | 2024-09-24 | 2024-10-09 |
 | [FORCE LIGHT](https://open.spotify.com/track/3xpFEhZ5Jn10g8cZa3oqYJ) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [逆光備忘録](https://open.spotify.com/album/6c9IBWiosIGvWUCNj4KYC8) | 3:49 | 2023-05-09 | 2023-06-14 |
 | [FOREVER](https://open.spotify.com/track/2aTUQADpOKj9SLOAyR13BI) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [FOREVER](https://open.spotify.com/album/0NyWqnpsyXVY69riQG8Lyf) | 4:43 | 2026-06-02 | 2026-06-17 |
@@ -554,6 +555,7 @@
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2023-01-13 | 2023-02-10 |
 | [FUSION](https://open.spotify.com/track/5Am9Kz8iYJH7xmcRnApAuE) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [FUSION](https://open.spotify.com/album/7FTvw6y4wRQyN0eWybfJjA) | 3:44 | 2023-01-13 | 2023-01-18 |
 | [futari no hanashi](https://open.spotify.com/track/7fzqrh9UJ4cW7KY70rtdVq) | [おもかげ](https://open.spotify.com/artist/4LnTqxRKY11tPnw1FFFzE2) | [Omokage](https://open.spotify.com/album/6624kOEn5TNOfdozBmv0e8) | 4:11 | 2026-03-03 | 2026-03-11 |
+| [Futsutsukamonodesuga](https://open.spotify.com/track/0982dRLal3bdbWESZYj9k3) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Futsutsukamonodesuga](https://open.spotify.com/album/7u178eeSXcm2fDbKzCHfSp) | 3:22 | 2026-09-03 |  |
 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 | 2023-08-01 | 2023-10-04 |
 | [Future Soda](https://open.spotify.com/track/4C1sgQTlXViKQ0E3LXoOew) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Future Soda](https://open.spotify.com/album/4LCcyv7mKIVHZq7Fh0d9kk) | 4:07 | 2025-07-02 | 2025-07-09 |
 | [Fuzzy](https://open.spotify.com/track/6wOiypD8mvXz732pnbGX75) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [Fuzzy](https://open.spotify.com/album/7ry322fIhLAxswrY2iQXeP) | 3:44 | 2023-06-27 | 2023-08-02 |
@@ -1592,7 +1594,7 @@
 | [SUNBURST](https://open.spotify.com/track/2w3zalxLtDZ79Y0rckb9LR) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SUNBURST](https://open.spotify.com/album/14DsydSdy9xFYHzQ5avdlU) | 3:15 | 2025-04-15 | 2025-07-30 |
 | [SUNBURST](https://open.spotify.com/track/66efXRS9b0YGB7KZKK2e8B) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [SUNBURST](https://open.spotify.com/album/23sjWTZ2vyzrc8xsTX61UK) | 3:15 | 2026-04-21 | 2026-04-29 |
 | [sunday driver](https://open.spotify.com/track/53Hc3XjCHfBDzz3ZsjBEhs) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:38 | 2026-01-13 | 2026-02-25 |
-| [sunday driver \- live](https://open.spotify.com/track/3BrRbfhDc58yfOtgbiM6U9) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka tte, doko? \#6 「くらやみざかより愛を込めてツアー」 \(kawasaki CLUB CITTA'\)](https://open.spotify.com/album/4yx2YaBMtgLzAZSArf56UU) | 4:31 | 2026-02-24 |  |
+| [sunday driver \- live](https://open.spotify.com/track/3BrRbfhDc58yfOtgbiM6U9) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka tte, doko? \#6 「くらやみざかより愛を込めてツアー」 \(kawasaki CLUB CITTA'\)](https://open.spotify.com/album/4yx2YaBMtgLzAZSArf56UU) | 4:31 | 2026-02-24 | 2026-09-04 |
 | [Sunny](https://open.spotify.com/track/56q7TZLT072hwhXRy0Yog9) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [GOLD](https://open.spotify.com/album/6cGL077YDZE5XypQsLDRUJ) | 3:51 | 2026-03-17 | 2026-04-08 |
 | [Sunny Days](https://open.spotify.com/track/6rgx30CqVGujB7BRVrNvaW) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [Sunny Days](https://open.spotify.com/album/1UCXsazN1bDBbu6FFr55RT) | 3:43 | 2024-11-13 | 2024-11-29 |
 | [Sunny Side Steady](https://open.spotify.com/track/0Hu9dxpjyp7uzls6w6LDHx) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [Sunny Side Steady](https://open.spotify.com/album/2YDi7QJ2TM5WbdafXn0QFv) | 4:56 | 2025-07-02 | 2025-07-18 |
@@ -3362,7 +3364,7 @@
 | [花になれ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/3pXPqtPn0dAMRbztfuEwmf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [花になれ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/6uCHKMCp9Qbmbbb0gzjwAY) | 6:27 | 2023-09-14 | 2023-09-16 |
 | [花びらと生活音](https://open.spotify.com/track/0RzwJdkeSCE19ZplZJgf2s) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [花びらと生活音](https://open.spotify.com/album/1Qy4Z62jivLcr29m9rEY5e) | 3:28 | 2024-06-18 | 2024-07-10 |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-06 | 2023-10-04 |
-| [花束](https://open.spotify.com/track/2MhP1tqHPv71cqf2Tg1PtD) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [花束](https://open.spotify.com/album/2S9CXBDOksG1j9jvOWX7Kd) | 4:26 | 2026-07-21 |  |
+| [花束](https://open.spotify.com/track/2MhP1tqHPv71cqf2Tg1PtD) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [花束](https://open.spotify.com/album/2S9CXBDOksG1j9jvOWX7Kd) | 4:26 | 2026-07-21 | 2026-09-04 |
 | [花束 \- re\-recording](https://open.spotify.com/track/6cOgk4wMlOG1qr7INlPlVX) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [花束 \(re\-recording\)](https://open.spotify.com/album/1pqXoArCj3TIPDFgDQz9um) | 4:06 | 2025-01-21 | 2025-01-29 |
 | [花束が似合う君へ \- fantastic ver.](https://open.spotify.com/track/2vVaTLbzFN5TPIayqJDxv7) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [花束が似合う君へ \(fantastic ver.\)](https://open.spotify.com/album/3BVTAz0ufqnsdPBuvQk6tx) | 4:54 | 2024-01-30 | 2024-02-14 |
 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 | 2023-02-14 | 2023-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: KAROL G & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,967 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,979 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 99 | [Three Nations](https://open.spotify.com/track/7CQjf3iDJcNCvzSR9YMQx1) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album \(Bonus Edition\)](https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo) | 3:30 |
 | 100 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 |
 
-Snapshot ID: `AAAAAJXEbb/wMho1w2G/bX7Yaf2ope5O`
+Snapshot ID: `AAAAAGaYCbUwSp2bpGF0dn4zLQgf9X+S`

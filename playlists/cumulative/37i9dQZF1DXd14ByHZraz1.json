@@ -1937,6 +1937,32 @@
     },
     {
       "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/56ztjSXwZrYHq9kesPRMSz"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "ELEVATION",
+      "url": "https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi"
+    },
+    {
+      "album": {
         "name": "Empurra",
         "url": "https://open.spotify.com/album/11deGutI6A6LfMKcgQ9ftV"
       },
@@ -2072,7 +2098,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 121874,
       "name": "Ex Machina",
       "url": "https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz"
@@ -3424,6 +3450,32 @@
       "duration_ms": 158769,
       "name": "I Have No Memories About Last Night",
       "url": "https://open.spotify.com/track/3PCwzUurtmTNr2PDAiKH8A"
+    },
+    {
+      "album": {
+        "name": "I Just Wantchu",
+        "url": "https://open.spotify.com/album/5d44BLU4BUm75ygmz7edkq"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "Lancen Gm",
+          "url": "https://open.spotify.com/artist/4lI0mQ3iPbELFUGYCxwwFB"
+        },
+        {
+          "name": "Lucas Medeiros",
+          "url": "https://open.spotify.com/artist/1cf9Cylw3nxYePLjhZ0lQx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195711,
+      "name": "I Just Wantchu",
+      "url": "https://open.spotify.com/track/0pupslE2ej4W2GWZFYhZ3i"
     },
     {
       "album": {
@@ -6860,7 +6912,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208320,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/3juNnPjvWCVw0UC8w9txNx"
@@ -7138,7 +7190,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 147118,
       "name": "Time (Party Alarm)",
       "url": "https://open.spotify.com/track/48tNZZ9KN2VCW3kW7ncsRD"
@@ -7408,6 +7460,28 @@
       "duration_ms": 161993,
       "name": "Vida Passageira",
       "url": "https://open.spotify.com/track/2r8EseX5JeIxVAGvLyRD3d"
+    },
+    {
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4d9sG01UpXomhq2HsDf6aX"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/1BBJd8Q3MFNCsExmWAcB71"
     },
     {
       "album": {

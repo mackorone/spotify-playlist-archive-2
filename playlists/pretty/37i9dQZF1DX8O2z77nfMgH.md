@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,913 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,849 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Umami](https://open.spotify.com/track/17icVfibca9F7l88wcXzrs) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [La Criminal EP](https://open.spotify.com/album/3CbdSetzq97CEk0MRfHliP) | 2:38 |
 | 55 | [DIAMANTE](https://open.spotify.com/track/6DpDkYO9fI2oXflqgatc7N) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [DIAMANTE](https://open.spotify.com/album/4HMHIyCFtXsgV5siFS8rBK) | 2:41 |
 
-Snapshot ID: `AAAAAFgQIrW8NspImp4D+CNj1E4iq7ut`
+Snapshot ID: `AAAAAEw48sF1HzpVg9bSF1ykUazA8DDR`

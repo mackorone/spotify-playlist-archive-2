@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,049 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,012 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [How Good God Is](https://open.spotify.com/track/4fKoBrwsE44m3oMIzXSqhL) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [How Good God Is](https://open.spotify.com/album/2cAiFBk6nMBE7Bix8vGiDl) | 3:52 |
 | 40 | [Carry Us Home](https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [So Much For Goodbyes](https://open.spotify.com/album/6tcLBCFSo3nmGDiYq6opGu) | 4:11 |
 
-Snapshot ID: `AAAAAJgQ+hy9ec4el3cTkJqzDrP97upa`
+Snapshot ID: `AAAAABuxjz1bA6f/jRXsFy/J/Mk4uT2w`

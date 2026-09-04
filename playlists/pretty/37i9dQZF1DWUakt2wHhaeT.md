@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,991 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,994 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Everything You Long For \(is in New Jersey\)](https://open.spotify.com/track/18qIH3TEyw3597CeV0uFmY) | [Randy Klein](https://open.spotify.com/artist/0FB2K9p4SWmtIFaqsdPIrn), [Matthew Hardy](https://open.spotify.com/artist/5jtkQvXSX0QMnHeSw5wYA7), [Ashley Fox Linton](https://open.spotify.com/artist/19qudppdBZdHYJ9Hp9l1Jx) | [Everything You Long For \(Is In New Jersey\)](https://open.spotify.com/album/2mlDCrC6Bzsjz19R22TxGr) | 3:57 |
 | 50 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
 
-Snapshot ID: `AAAAAGkGMknvveZdVK7ULni8hLWo05Ei`
+Snapshot ID: `AAAAAMBUcBhD1Dn2XC0h4BiOAdirhVf8`

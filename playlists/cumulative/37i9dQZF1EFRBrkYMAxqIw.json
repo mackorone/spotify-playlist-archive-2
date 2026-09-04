@@ -513,6 +513,32 @@
     },
     {
       "album": {
+        "name": "Ceremony (Feat. Tailor) (SCRIPT Remix)",
+        "url": "https://open.spotify.com/album/7JdhU8zwwiBi5qr2hl46mS"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Ceremony (Feat. Tailor) (SCRIPT Remix)",
+      "url": "https://open.spotify.com/track/0pSgxeEumEX4BGjuoTV42q"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H"
       },

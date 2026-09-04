@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 185142,
       "name": "Aarzu (with Asim Azhar)",
       "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0"
@@ -9742,7 +9742,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 247816,
       "name": "Hangova",
       "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
@@ -17716,7 +17716,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 230070,
       "name": "Mashooqa - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/0IfWnsZSHmBf8tVlYEuUQG"
@@ -22790,7 +22790,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 131250,
       "name": "Raga of Revenge",
       "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
@@ -25386,7 +25386,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -26935,44 +26935,6 @@
     },
     {
       "album": {
-        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
-      },
-      "artists": [
-        {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Mustafa Zahid",
-          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-        },
-        {
-          "name": "Sayeed Quadri",
-          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
-        },
-        {
-          "name": "Saaj Bhatt",
-          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
-        },
-        {
-          "name": "Subodhh Sharma",
-          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
-        }
-      ],
-      "date_added": "2026-08-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 365294,
-      "name": "Tera Mera Rishta - New Version",
-      "url": "https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC"
-    },
-    {
-      "album": {
         "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
         "url": "https://open.spotify.com/album/3R8qQ8ifykBRRMfjkxQ6LE"
       },
@@ -27008,6 +26970,44 @@
       "duration_ms": 365294,
       "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"
+    },
+    {
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365294,
+      "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC"
     },
     {
       "album": {
@@ -27540,6 +27540,32 @@
       "duration_ms": 323520,
       "name": "Teri Deewani",
       "url": "https://open.spotify.com/track/4IgRZYozl466yNlOnf8qRO"
+    },
+    {
+      "album": {
+        "name": "Best Of Palak Muchhal",
+        "url": "https://open.spotify.com/album/3geNMSQQ6FjrYqRbpPqZIc"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Manoj Yadav",
+          "url": "https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331443,
+      "name": "Teri Meri Kahaani",
+      "url": "https://open.spotify.com/track/0zQfcBB4obvYUrUNITmyyf"
     },
     {
       "album": {
@@ -28100,7 +28126,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290779,
-      "name": "Toh Phir Aao - New Version",
+      "name": "Toh Phir Aao - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/6LYfwNkkrplbxbheWtkBL2"
     },
     {

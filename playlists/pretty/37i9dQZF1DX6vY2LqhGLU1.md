@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,088 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,085 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 149 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [DREAM Christmas Vol\. 5](https://open.spotify.com/album/2vqzTe45OIcoSCYerZER95) | 3:45 |
 | 150 | [O Come All Ye Faithful](https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Wonderful Christmas](https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV) | 3:01 |
 
-Snapshot ID: `AAAAANcSRflbPkzgiYAefHkCrUhhoJGD`
+Snapshot ID: `AAAAAMFm2FU+Nw61N25WcgpxzOIoRKjI`

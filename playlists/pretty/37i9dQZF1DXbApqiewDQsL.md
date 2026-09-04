@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring  Grupo MM
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,518 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,531 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Ese Morrito](https://open.spotify.com/track/2JcCEJbgqaLAqgly93CK89) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [Ese Morrito](https://open.spotify.com/album/00yXhQTcU4gfoyzwKTewp9) | 2:56 |
 | 50 | [Bandera Blanca](https://open.spotify.com/track/2s6FlM3MxL3N1eWMa1l72w) | [Jenn Santos](https://open.spotify.com/artist/4P6xTigVFsFAL41t2qLXJl) | [Bandera Blanca](https://open.spotify.com/album/73CqTrGgKmyd4RJ4ATxBso) | 3:02 |
 
-Snapshot ID: `AAAAAJHPix5B/EL3kLxyipZj+G8Wcxh0`
+Snapshot ID: `AAAAAH2O6r1PLQ2pNLno4ixDVl/anXZp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54YRIeLlleD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Josh Hart
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,686 likes - 55 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697 likes - 55 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54YRIeLlleD.md) - [plain]
 | 54 | [Ain't Gon' Beg You](https://open.spotify.com/track/02wVmJecRUCtkppST87OLx) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Free Yourself](https://open.spotify.com/album/09akBiw2Divm9zvF7GMJup) | 4:14 |
 | 55 | [Where the Party At \(feat\. Nelly\)](https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Jagged Little Thrill](https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j) | 3:52 |
 
-Snapshot ID: `AAAAAHJxd8lrHkY62gq6ttmHtK0P6+WA`
+Snapshot ID: `AAAAAHCqtYjyztTjz+TSW4JK2bi3B+5U`

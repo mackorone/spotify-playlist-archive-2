@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 42 | [伝説](https://open.spotify.com/track/05cEv76lqXwcuXqRo7y7dY) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:08 |
 | 43 | [楽しい休日](https://open.spotify.com/track/4uf7e9p1Hwu1OqWUNuR7sT) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
 
-Snapshot ID: `AAAAAAiXSuP1/LFlsjKTUMDB4LK6wnAZ`
+Snapshot ID: `AAAAAL3srsjD6k/9lSyAPCEgqzz6HKjA`

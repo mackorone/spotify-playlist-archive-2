@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 97 songs - 6 hr 24 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 98 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 95 | [Just My Style](https://open.spotify.com/track/0usJsw64exL53A5maMb5V2) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Just My Style](https://open.spotify.com/album/0l7iIFtaRYX64L86PGfBbp) | 3:08 |
 | 96 | [Spark](https://open.spotify.com/track/39QWoXuLCF0CLpIJacmNEJ) | [Behnam Zandieh](https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt), [Mohammad Ali Teimouri](https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI), [Dara Teymoorifar](https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ) | [Jazzromad](https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu) | 4:53 |
 | 97 | [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 |
+| 98 | [Fria Pero Quema](https://open.spotify.com/track/3QlVCOzSv1eMq99lhTxFP0) | [Mr Brey](https://open.spotify.com/artist/6oOAP9o5Hqmtzffr6OyQ9y) | [Fria Pero Quema](https://open.spotify.com/album/4NuiGgK6hMFLDeF6AraUM3) | 2:56 |
 
-Snapshot ID: `AAAMXLtIoT49OKojlUZgW2GvHplX+498`
+Snapshot ID: `AAAMXU3pal4cRQ+AE0jjSH5ENmma+Und`

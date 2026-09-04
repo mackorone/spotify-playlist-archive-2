@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: NEXZ) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: TAEMIN) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -6866,6 +6866,24 @@
       "duration_ms": 179393,
       "name": "GOOD VIBES",
       "url": "https://open.spotify.com/track/2MpJ3KdQiwCw5NOIs5j0Rg"
+    },
+    {
+      "album": {
+        "name": "PHASE 1 : Soft Violence",
+        "url": "https://open.spotify.com/album/00x0WXx4DSdWFst0Opd6Jz"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/66paWvNqZebrHxaCtAcoNc"
     },
     {
       "album": {
@@ -13774,7 +13792,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169039,
       "name": "Sign",
       "url": "https://open.spotify.com/track/29WdT0CvbaVoN5pbke3hXX"
@@ -13832,6 +13850,24 @@
       "duration_ms": 197251,
       "name": "Siren",
       "url": "https://open.spotify.com/track/1gsb4CFzUMERAkfzAKwrZu"
+    },
+    {
+      "album": {
+        "name": "Skibidi",
+        "url": "https://open.spotify.com/album/1gOc9AX3LDW6Q84YCDO0Wq"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-HRS",
+          "url": "https://open.spotify.com/artist/1wlgozUz29VEBQxMDqQFK1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Skibidi",
+      "url": "https://open.spotify.com/track/2L1dsjU3R3U4SX27qIiPrq"
     },
     {
       "album": {
@@ -15730,7 +15766,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 122986,
       "name": "TNT",
       "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
@@ -16022,6 +16058,24 @@
       "duration_ms": 181706,
       "name": "TRIGGER",
       "url": "https://open.spotify.com/track/2GNSBV3MLrT5vSEwfgSCpG"
+    },
+    {
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/6oTUrlTjn5yEohEoQrXVTf"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TROPHY",
+      "url": "https://open.spotify.com/track/47Mu43nMCpr04YGL1AlLEp"
     },
     {
       "album": {
@@ -17470,7 +17524,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 165000,
       "name": "You, You",
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"

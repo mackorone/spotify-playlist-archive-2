@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 
 > Relax to the roaring sound of crashing waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,971 likes - 199 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,126 likes - 199 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,12 +200,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV90ZWj21ygB.md) - [plain]
 | 190 | [Soothing Mediterranean Waves 3](https://open.spotify.com/track/5H6OToPVtgYyBzbtm78ogW) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Soothing Mediterranean Waves](https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq) | 2:58 |
 | 191 | [Dark Winds And Stormy Ocean](https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:43 |
 | 192 | [Rhythmic Waves in Neah Bay](https://open.spotify.com/track/5Sa8sycSY07ItMkg9Btj6O) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Oceanic Lullabies](https://open.spotify.com/album/4rP8MrlsgLYj2gt8vu2Q93) | 3:43 |
-| 193 | [Ocean Sounds in La Boquilla](https://open.spotify.com/track/43rJoqHfJClYrb3KHirb48) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Melodies Across Seas](https://open.spotify.com/album/51e25tx6ywSL7gBWYfL0wC) | 2:28 |
-| 194 | [Choco Oceanic Whispers](https://open.spotify.com/track/7zVScVQW9JlfoshAy6wxKc) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [South American Mystical Oceanic Symphony](https://open.spotify.com/album/5jsgQ9baK2bxLqfsMb7LKl) | 2:30 |
+| 193 | [Choco Oceanic Whispers](https://open.spotify.com/track/7zVScVQW9JlfoshAy6wxKc) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [South American Mystical Oceanic Symphony](https://open.spotify.com/album/5jsgQ9baK2bxLqfsMb7LKl) | 2:30 |
+| 194 | [Ocean Sounds in La Boquilla](https://open.spotify.com/track/43rJoqHfJClYrb3KHirb48) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Melodies Across Seas](https://open.spotify.com/album/51e25tx6ywSL7gBWYfL0wC) | 2:28 |
 | 195 | [Florida Oceanic Overture](https://open.spotify.com/track/5EThZxQGJNe9SiasbX0JuD) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Seascape Symphony](https://open.spotify.com/album/6CJnZvl8KEoWDQ2fD1494m) | 3:25 |
 | 196 | [Patagonian Oceanic Echoes](https://open.spotify.com/track/4mQareZaah9Nvu7027FIjI) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Seascape Symphony](https://open.spotify.com/album/6CJnZvl8KEoWDQ2fD1494m) | 3:09 |
 | 197 | [Welsh Oceanic Overture](https://open.spotify.com/track/5NfG933hN2jtBDJsenss4K) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ) | [Tidal Songs from Wales](https://open.spotify.com/album/4Hz6wealBvjUNpGl2OgzMO) | 2:36 |
 | 198 | [Conwy Morfa Ocean Sounds](https://open.spotify.com/track/53JhXakZ9dGNmJ9313qskk) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Jason Singh](https://open.spotify.com/artist/5AhRKszqrz3ObgAD2prknJ) | [Tidal Songs from Wales](https://open.spotify.com/album/4Hz6wealBvjUNpGl2OgzMO) | 2:39 |
 | 199 | [Playa Pelada Sunburnt Surf](https://open.spotify.com/track/0G9A43Ip04oTEcwhybFVsb) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Songs from the Sea](https://open.spotify.com/album/444aUY63lz0iMrt3DGPhiv) | 3:11 |
 
-Snapshot ID: `AAAAAOh9BK6w7h5jdOUggAcoWRX9+aUw`
+Snapshot ID: `AAAAAH5eGaJGyzNty6GhDIBt3GnxiqXj`

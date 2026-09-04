@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,120 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,202 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Guzelim Benim](https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl) | [Romano](https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl) | [G​ü​le G​ü​le](https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW) | 3:43 |
 | 150 | [Agua Viva](https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev) | [iZem](https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Hafa](https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI) | 4:09 |
 
-Snapshot ID: `AAAAAAmSRnB9cDiY8cFTxqYmUOBNiDfh`
+Snapshot ID: `AAAAAMjYg0Jc57o3cAT0bKPTh0ZQCeSD`

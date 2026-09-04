@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Mica Sotera
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,679 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,604 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Trapecistas](https://open.spotify.com/track/4mMjydyhotP1oaSXPPGsBb) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Trapecistas](https://open.spotify.com/album/4o5WVOati910rqmKINAdAZ) | 4:36 |
 | 50 | [Mujer de Nadie](https://open.spotify.com/track/0gVdIUEgaM5VrVZcTEOxsg) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Mujer de Nadie](https://open.spotify.com/album/2T9dB5gKYKVHb2kYY141yf) | 3:11 |
 
-Snapshot ID: `AAAAAMBtJR6tsKYkPk/CWFrfzUz+8Lcu`
+Snapshot ID: `AAAAAF2o2iLDiQAfcop3YPXXaadfiODM`

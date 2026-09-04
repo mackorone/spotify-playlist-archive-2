@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,067 likes - 145 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,072 likes - 145 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 144 | [FLY](https://open.spotify.com/track/7FolfMl59cPBxfW92Kbd1L) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Anagogia](https://open.spotify.com/artist/2Z7eQuEsvITejxmWouud3B), [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [Dok the Beatmaker](https://open.spotify.com/artist/7dZlzpWrOs9qr1qJgxfoPL) | [FLY](https://open.spotify.com/album/4tpC8UMAe1Usi93NaKaez8) | 2:55 |
 | 145 | [RISCHIO IL CULO \- O.V.](https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [RISCHIO IL CULO \(O.V.\)](https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL) | 1:48 |
 
-Snapshot ID: `AAAAAL78WktwJoCcpQY1evnunvy4Wnl1`
+Snapshot ID: `AAAAAKkJsPL/fGZmRdA4lZSeofWnizyC`

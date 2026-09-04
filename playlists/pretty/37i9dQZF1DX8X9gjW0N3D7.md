@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Colin Léo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,691 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,687 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
 | 75 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
 
-Snapshot ID: `AAAAAGovBbbLvSGvhxAM+3yHArumkwxa`
+Snapshot ID: `AAAAAAPScEc7l67ZxklWN/rcr7D2zDJ+`

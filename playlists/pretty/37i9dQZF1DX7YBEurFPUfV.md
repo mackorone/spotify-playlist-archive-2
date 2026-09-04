@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 ### [RapTounsi](https://open.spotify.com/playlist/37i9dQZF1DX7YBEurFPUfV)
 
-> Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
+> Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,254 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,255 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Black List](https://open.spotify.com/track/0smqucTLlBbHGBBiyN7s28) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Podcast](https://open.spotify.com/album/114VhmYj8kqeWgSvSB1m75) | 3:20 |
-| 2 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
+| 1 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
+| 2 | [Black List](https://open.spotify.com/track/0smqucTLlBbHGBBiyN7s28) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Podcast](https://open.spotify.com/album/114VhmYj8kqeWgSvSB1m75) | 3:20 |
 | 3 | [OLA MAMACITA](https://open.spotify.com/track/5ha4Kh8bZZVDZbF1GfbAte) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [SOUND SHIFTA \(Vol\. 1\)](https://open.spotify.com/album/3OkS3vrMBiEHRYsclvuO1B) | 2:17 |
 | 4 | [A ce point](https://open.spotify.com/track/6R4IOjbkUhp6TqLFT424aC) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [A ce point](https://open.spotify.com/album/1GyTnZtOG9wD26lVIG99ZK) | 3:31 |
 | 5 | [Soumi Ghali](https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Soumi Ghali](https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
 | 60 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 
-Snapshot ID: `AAAAAHKGCsWgm4A5dK+SAW1JskMuXQNV`
+Snapshot ID: `AAAAADF/04PPOF6LQrCqwAz5HqNTsLJ4`

@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 54 | [Álomtérkép](https://open.spotify.com/track/2p2Ih3zF34D5SNar4vVieM) | [Anami](https://open.spotify.com/artist/2MlFLIKxPyzmUXFAEo1B5N) | [Álomtérkép](https://open.spotify.com/album/2Roq4ps0ivUiDlRSBlFAiT) | 3:04 |
 | 55 | [Talán szeretni kéne](https://open.spotify.com/track/1E4CrqIhoXZnp61gPxwPfc) | [Szécsi Viktória](https://open.spotify.com/artist/3Vru5puQVaVc3JGrNBqn9x) | [Talán szeretni kéne](https://open.spotify.com/album/6ioJL499iT8EHUZ0pySQg1) | 3:26 |
 
-Snapshot ID: `AAAAAAfFA1sRpynPT9opxyYEcR1z5Qqj`
+Snapshot ID: `AAAAAOvpqP0omKREfy4AYfgwm8tTtNBf`

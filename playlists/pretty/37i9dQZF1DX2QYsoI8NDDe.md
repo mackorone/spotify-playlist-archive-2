@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Majo Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,289 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,281 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 74 | [Fantasmas](https://open.spotify.com/track/4YJNPeRCk9WVmfAt7UHbQf) | [MXKA](https://open.spotify.com/artist/4nLdZ0ohtx0T20E82Gq6UO) | [Fantasmas](https://open.spotify.com/album/7vIIbDGMAZLFi8K7JTTK3l) | 2:56 |
 | 75 | [No Llega El Olvido](https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:37 |
 | 76 | [24/7](https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [24/7](https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP) | 2:58 |
-| 77 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
-| 78 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
-| 79 | [Bandera Roja](https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW) | [Irany](https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF) | [Bandera Roja](https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1) | 2:49 |
+| 77 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
+| 78 | [Bandera Roja](https://open.spotify.com/track/2bHHyIL9AX6EraJ3ESEqzW) | [Irany](https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF) | [Bandera Roja](https://open.spotify.com/album/1tFEgnkswmKs2NN5z7cLH1) | 2:49 |
+| 79 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
 | 80 | [Vas De Salida](https://open.spotify.com/track/3D6Hf0GVInskiVwZ7e37eK) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Johanna Cota](https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2) | [Vas De Salida](https://open.spotify.com/album/4xp1xzruof6D5oPPDTvcyU) | 3:31 |
 | 81 | [Nos Acostumbramos](https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Nos Acostumbramos](https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ) | 2:59 |
 | 82 | [BOTITAS](https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK) | [Isa La Mexicana](https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK) | [BOTITAS](https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 99 | [La Bruta \- En Vivo](https://open.spotify.com/track/163temcvEe9TOytyKIBM0r) | [Perla Valenzuela](https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA) | 2:54 |
 | 100 | [Llámame](https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ) | [Ximena Castillo](https://open.spotify.com/artist/2nwTpQh0MCA68YOmNw5TJC) | [Llámame](https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X) | 3:12 |
 
-Snapshot ID: `AAAAAHWmStB3+L0Fu+WTW+EhAu2HdhPw`
+Snapshot ID: `AAAAAO9WN9X0HBmI2SrnhTe78bp5vt+b`

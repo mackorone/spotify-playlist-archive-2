@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,876 likes - 180 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,013 likes - 180 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 179 | [Giravolte \- Andante Piano Sessions](https://open.spotify.com/track/4bBuJNOnr85cQAIwu48lid) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Giravolte \(Andante Piano Sessions\)](https://open.spotify.com/album/1bdd6UYnufbt1gZDHPTxxZ) | 2:30 |
 | 180 | [4 Miniatures for Orchestra: No\. 4, Dance to Your Daddy](https://open.spotify.com/track/0U7PlQ3DonEPRjB8BArPHj) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Rutter: 4 Miniatures for Orchestra: No\. 4, Dance to Your Daddy](https://open.spotify.com/album/6yzqLwrJMFf2sw7yFe4Kof) | 2:35 |
 
-Snapshot ID: `AAAAABdVTyFKX9UowsXk2o/wL+lJtdEG`
+Snapshot ID: `AAAAANt6fKP3Iv/kgtCIq8nu/5m3CqoG`

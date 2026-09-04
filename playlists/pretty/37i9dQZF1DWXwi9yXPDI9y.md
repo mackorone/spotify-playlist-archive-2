@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,103 likes - 99 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,157 likes - 99 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 98 | [You Go To My Head](https://open.spotify.com/track/2pBmeIySauuuuhSjisbppN) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Louis Armstrong Meets Oscar Peterson](https://open.spotify.com/album/6EX3QQ06sp8JgyJudZyLow) | 6:25 |
 | 99 | [Tenderly \- Trio Version](https://open.spotify.com/track/7EQ72FTeZaaIcjofTXrwsM) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Tenderly \(Trio Version\)](https://open.spotify.com/album/7r0Vf0QajnA4VMl83yHbwn) | 2:31 |
 
-Snapshot ID: `AAAAACsqCNmEG8gh9/6XXPv9FYChS4fm`
+Snapshot ID: `AAAAAPkzhjraIOds21ULwN30L8jQkPoO`

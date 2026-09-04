@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,420 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,465 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Noite Fracassada](https://open.spotify.com/track/1JO3uqVDPWj5j2GlYmK7e0) | [Heitor Santos](https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj) | [Sabor HS 3.0](https://open.spotify.com/album/1zAovKvahz5COTVcGkldnx) | 2:59 |
 | 50 | [Bebe, Beija e Trai \- Ao Vivo](https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI), [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz) | [Bebe, Beija e Trai \(Ao Vivo\)](https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q) | 2:36 |
 
-Snapshot ID: `MiuV0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mizk+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

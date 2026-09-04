@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314,895 likes - 210 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,315,343 likes - 210 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 209 | [On Green Avenue](https://open.spotify.com/track/3YEULsoCVhL7vNyCMsm9BJ) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [On Green Avenue](https://open.spotify.com/album/6XMQ0vWE9PNnNns83HpJvQ) | 3:56 |
 | 210 | [Only Promises](https://open.spotify.com/track/0JjXSOMRukDpHVdTMeuUo2) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [Only Promises](https://open.spotify.com/album/68ako0kZwLxl3ehIYyeLat) | 2:45 |
 
-Snapshot ID: `AAAAAHLgFiff9GrCCNqCA3Zuc6xVUeF/`
+Snapshot ID: `AAAAAK+zWFZTJdsiSG0enNUkl7NAjnS3`

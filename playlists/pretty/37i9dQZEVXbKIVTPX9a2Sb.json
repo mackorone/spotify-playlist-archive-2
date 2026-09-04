@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "num_followers": 21976,
+  "num_followers": 21977,
   "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MiuV0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mizk+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/71Ojukv3JFat5iZ597nBcH"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Toxic Love",
         "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
@@ -53,7 +53,7 @@
       "url": "https://open.spotify.com/track/2R0pXrhBigrg6ZNb3Bv4MH"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4DKOGc7GcjfTEiKE1u5VAl"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Ru\u017ee",
         "url": "https://open.spotify.com/album/780jGwtiblN8nQwSBpe4nw"
@@ -117,27 +117,7 @@
       "url": "https://open.spotify.com/track/3rrviuiB1FruypU8Cc7yQv"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Zub za zub",
-        "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 240116,
-      "name": "Zub za zub",
-      "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -157,27 +137,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 162805,
-      "name": "Hovorili mi \u017ee",
-      "url": "https://open.spotify.com/track/0lZV2GBqqCK5LcL8JS2slW"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "EXIT U PALICE",
         "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
@@ -209,7 +169,27 @@
       "url": "https://open.spotify.com/track/0Y3KRjSVxpIDz77eRsWbGi"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 162805,
+      "name": "Hovorili mi \u017ee",
+      "url": "https://open.spotify.com/track/0lZV2GBqqCK5LcL8JS2slW"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
@@ -233,7 +213,7 @@
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "EXIT U PALICE",
         "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
@@ -253,71 +233,7 @@
       "url": "https://open.spotify.com/track/5dKhmVbvctqme1rfkuGAJz"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Ivan Bogdanov",
-        "url": "https://open.spotify.com/album/47VQfJ3mpfbmYYLrDahkQV"
-      },
-      "artists": [
-        {
-          "name": "Smolki13K",
-          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 196687,
-      "name": "Ivan Bogdanov",
-      "url": "https://open.spotify.com/track/5VgEzKDS7RYKp1q1vUTbPT"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Tempo za 2",
-      "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        },
-        {
-          "name": "KgirgaG",
-          "url": "https://open.spotify.com/artist/7eGAZ980D3fjENR4VzAz2K"
-        }
-      ],
-      "duration_ms": 218470,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/6hvuuliWPr9lRxbdo1i1m0"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "v mojich snoch",
         "url": "https://open.spotify.com/album/10QCwfRAZ5isjZaIpY59hK"
@@ -333,7 +249,7 @@
       "url": "https://open.spotify.com/track/6ZgEybJNA0vk2FjJIIv3c2"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -357,7 +273,23 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -373,7 +305,111 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "KgirgaG",
+          "url": "https://open.spotify.com/artist/7eGAZ980D3fjENR4VzAz2K"
+        }
+      ],
+      "duration_ms": 218470,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/6hvuuliWPr9lRxbdo1i1m0"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Ivan Bogdanov",
+        "url": "https://open.spotify.com/album/47VQfJ3mpfbmYYLrDahkQV"
+      },
+      "artists": [
+        {
+          "name": "Smolki13K",
+          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 196687,
+      "name": "Ivan Bogdanov",
+      "url": "https://open.spotify.com/track/5VgEzKDS7RYKp1q1vUTbPT"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "EXIT U PALICE",
+        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 145270,
+      "name": "thank you based god",
+      "url": "https://open.spotify.com/track/6xBhTofgers7RYLwzyZM7e"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Tempo za 2",
+      "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -393,7 +429,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Napoleon",
         "url": "https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo"
@@ -417,26 +453,42 @@
       "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         }
       ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+      "duration_ms": 100377,
+      "name": "HIP THRUST",
+      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "EXIT U PALICE",
-        "url": "https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi"
+        "name": "23",
+        "url": "https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
+        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
       },
       "artists": [
         {
@@ -444,36 +496,60 @@
           "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         },
         {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+          "name": "Dusan Vlk",
+          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 145270,
-      "name": "thank you based god",
-      "url": "https://open.spotify.com/track/6xBhTofgers7RYLwzyZM7e"
+      "duration_ms": 198418,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
         }
       ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
+      "duration_ms": 166796,
+      "name": "Brotha",
+      "url": "https://open.spotify.com/track/1TXIg1JgDc3zntk8aICoSl"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "SUV 2",
+        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 139239,
+      "name": "SUV 2",
+      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -497,83 +573,7 @@
       "url": "https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 166796,
-      "name": "Brotha",
-      "url": "https://open.spotify.com/track/1TXIg1JgDc3zntk8aICoSl"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "SUV 2",
-        "url": "https://open.spotify.com/album/019iGK5CLJmrwQ5rDND2Th"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 139239,
-      "name": "SUV 2",
-      "url": "https://open.spotify.com/track/7aucJQT8Lnx7WvSMyP0N75"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 204590,
-      "name": "Raz dva",
-      "url": "https://open.spotify.com/track/4MpTLCblBzOtZswwPBpWJu"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "10 Min\u00fat",
         "url": "https://open.spotify.com/album/1ovrFGljkAvRIYRuLjsmlG"
@@ -593,10 +593,26 @@
       "url": "https://open.spotify.com/track/3GAD4OTfUu4k5Y3euOFYat"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "DOVIDENIA",
-        "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
+        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
+        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Rockstar Lifestyle",
+      "url": "https://open.spotify.com/track/1Xta6NZrYtyFz6jKMtAD85"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
       },
       "artists": [
         {
@@ -604,16 +620,56 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
         }
       ],
-      "duration_ms": 173917,
-      "name": "Bbejbb",
-      "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
+      "duration_ms": 204590,
+      "name": "Raz dva",
+      "url": "https://open.spotify.com/track/4MpTLCblBzOtZswwPBpWJu"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "NEVIEM",
+        "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Tras tou",
+      "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "MONARCHIA",
+        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 144858,
+      "name": "Alibaba",
+      "url": "https://open.spotify.com/track/4FcA0rWOI5RRXIifH5LDRe"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -641,27 +697,7 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "MONARCHIA",
-        "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 144858,
-      "name": "Alibaba",
-      "url": "https://open.spotify.com/track/4FcA0rWOI5RRXIifH5LDRe"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -672,16 +708,32 @@
           "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
         },
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
         }
       ],
-      "duration_ms": 187000,
-      "name": "In\u00e9 Plemen\u00e1",
-      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
+      "duration_ms": 163209,
+      "name": "Talk2me",
+      "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 126614,
+      "name": "Pra\u017esk\u00fd holky",
+      "url": "https://open.spotify.com/track/3aMAB9HR14SJ3jves85YqR"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -705,23 +757,83 @@
       "url": "https://open.spotify.com/track/7wIx3L6MoHVHkS17oK48U3"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "Good Girl Gone Bad",
-        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+      "duration_ms": 187000,
+      "name": "In\u00e9 Plemen\u00e1",
+      "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 161584,
+      "name": "Luana",
+      "url": "https://open.spotify.com/track/4CxXpegBmsRoBoH0BcRrvk"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Ready \u010di ne!?",
+        "url": "https://open.spotify.com/album/2kaERG2KONwoQSwTzbUvlb"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        }
+      ],
+      "duration_ms": 157947,
+      "name": "Ready \u010di ne!?",
+      "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Po\u010dkej (EUP SUMMER SEASON - PART II)",
+        "url": "https://open.spotify.com/album/7xaLic5TJyJCO2PZhKAdIl"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 124569,
+      "name": "PO\u010cKEJ w8",
+      "url": "https://open.spotify.com/track/3Jn8X94JACpp9EzJGSdo8F"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "V cudzom meste",
         "url": "https://open.spotify.com/album/4MdTLE2RE2CZeB8m477TER"
@@ -737,7 +849,23 @@
       "url": "https://open.spotify.com/track/6WfhZNzOioBmDUq4xb5kvz"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "CITYBOYZ NEVER LOSE",
+        "url": "https://open.spotify.com/album/1hws0UmqK6YWhCCk7UWKOu"
+      },
+      "artists": [
+        {
+          "name": "Mc Kenny",
+          "url": "https://open.spotify.com/artist/4080d3GW1xemdMcw9cEju0"
+        }
+      ],
+      "duration_ms": 187512,
+      "name": "Jan Koller",
+      "url": "https://open.spotify.com/track/7bAHmn4F4qOjXk53gWJx7m"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "MHD FLASHBACK",
         "url": "https://open.spotify.com/album/5x9HxD0DKKhjOa5QaPTk5Z"
@@ -757,27 +885,7 @@
       "url": "https://open.spotify.com/track/3nT2vmKcx4PZamEMAU7onq"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        }
-      ],
-      "duration_ms": 163209,
-      "name": "Talk2me",
-      "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
@@ -793,39 +901,23 @@
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
-        "name": "TYPE BEAT / HIP THRUST",
-        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
       "artists": [
         {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 100377,
-      "name": "HIP THRUST",
-      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "CITYBOYZ NEVER LOSE",
-        "url": "https://open.spotify.com/album/1hws0UmqK6YWhCCk7UWKOu"
-      },
-      "artists": [
-        {
-          "name": "Mc Kenny",
-          "url": "https://open.spotify.com/artist/4080d3GW1xemdMcw9cEju0"
-        }
-      ],
-      "duration_ms": 187512,
-      "name": "Jan Koller",
-      "url": "https://open.spotify.com/track/7bAHmn4F4qOjXk53gWJx7m"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "MONARCHIA",
         "url": "https://open.spotify.com/album/349f5kHtJNM2Ljynzi8fte"
@@ -849,7 +941,43 @@
       "url": "https://open.spotify.com/track/4lbmSXYmm2ZAMkoFOdMHQN"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "G Party",
+      "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Matej Turcer",
+          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
+        }
+      ],
+      "duration_ms": 281346,
+      "name": "Cigarety",
+      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
+    },
+    {
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "PROBLEMA",
         "url": "https://open.spotify.com/album/5VK7VLvFz3SoutUZJl0uun"
@@ -869,43 +997,7 @@
       "url": "https://open.spotify.com/track/7z3S0D5k9yJ3xTCbbg6icz"
     },
     {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "G Party",
-      "url": "https://open.spotify.com/track/1mxbzkQiU9lmF3hC7nYOv1"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
-        "url": "https://open.spotify.com/album/1lQIjnHBgf4OTAKRkuIZZX"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "CA$HANOVA BULHAR",
-          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
-      "url": "https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
+      "added_at": "2026-09-03 16:56:41",
       "album": {
         "name": "NEVIEM",
         "url": "https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC"
@@ -916,121 +1008,17 @@
           "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         },
         {
-          "name": "SpecialBeatz",
-          "url": "https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe"
+          "name": "SMART",
+          "url": "https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf"
+        },
+        {
+          "name": "Dame",
+          "url": "https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Nehaj tak",
-      "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Ready \u010di ne!?",
-        "url": "https://open.spotify.com/album/2kaERG2KONwoQSwTzbUvlb"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        },
-        {
-          "name": "Zayo",
-          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
-        }
-      ],
-      "duration_ms": 157947,
-      "name": "Ready \u010di ne!?",
-      "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "New Kids On The Block",
-        "url": "https://open.spotify.com/album/7dKoxCNZD73DPJl8Gt1zwO"
-      },
-      "artists": [
-        {
-          "name": "Danior",
-          "url": "https://open.spotify.com/artist/24h0R60ekkrC3dDH3J7R5H"
-        },
-        {
-          "name": "Tunisino",
-          "url": "https://open.spotify.com/artist/4esVZA9CifXSS49Yzy5FUO"
-        },
-        {
-          "name": "Pokracuj",
-          "url": "https://open.spotify.com/artist/1wNW271PIczkdyom6UOX3B"
-        },
-        {
-          "name": "Rytmus",
-          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
-        }
-      ],
-      "duration_ms": 203419,
-      "name": "Cigan G",
-      "url": "https://open.spotify.com/track/06mP3Lam9C69IC8HaHMZr7"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/2ugwR7azxnNqnVuHUBDy0w"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 161584,
-      "name": "Luana",
-      "url": "https://open.spotify.com/track/4CxXpegBmsRoBoH0BcRrvk"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Rockstar Lifestyle (EUP SUMMER SEASON - 1st DROP)",
-        "url": "https://open.spotify.com/album/43GAiC3c1qUXMnQfzS3mIE"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Dusan Vlk",
-          "url": "https://open.spotify.com/artist/7IKA4pWM4507XykCoMeawU"
-        },
-        {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 198418,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
-    },
-    {
-      "added_at": "2026-09-02 15:02:16",
-      "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
-      },
-      "artists": [
-        {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Matej Turcer",
-          "url": "https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF"
-        }
-      ],
-      "duration_ms": 281346,
-      "name": "Cigarety",
-      "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
+      "duration_ms": 295880,
+      "name": "AENE",
+      "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
     }
   ],
   "unique_name": "Top 50 - Slovakia",

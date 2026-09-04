@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day\. Cover: Eric Bellinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,319 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,285 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 |
 | 150 | [Come Get My Love](https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH) | [Ezra](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN), [ZaeFyeHunnit](https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1) | [Come Get My Love](https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK) | 3:38 |
 
-Snapshot ID: `AAAAAJDMe6TdbZae3ozbSBK8lQYSyTHX`
+Snapshot ID: `AAAAACxyQm8DaZ6iBraVLfwqa4ErYQid`

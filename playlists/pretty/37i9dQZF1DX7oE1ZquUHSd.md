@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,294 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,376 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Super Mc´s](https://open.spotify.com/track/1k6jHt50arPTiVm2MtFMKx) | [La Real Academia De La Rima](https://open.spotify.com/artist/0KhBKiXLnr0TwhP9XV8Mbg) | [Rapza 5](https://open.spotify.com/album/4DJq3btDQH1rTfYan6ziyu) | 4:46 |
 | 100 | [Juicio / Canserbero](https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD) | [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU), [Marrom Fernandez](https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz) | [Una Isla en los Andes](https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD) | 3:42 |
 
-Snapshot ID: `AAAAANf/aUx7acLOMkW/3LX5wHCGeP5s`
+Snapshot ID: `AAAAAItVLq9QEDwQvDNJ3k9/+ME6K5DC`

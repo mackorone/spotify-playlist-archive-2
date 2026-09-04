@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 
 > Enter an Alpha meditative state with mid\-range frequencies and then ease into a Theta brainwave state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,103 likes - 82 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,147 likes - 82 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Tgh3tlyc3X.md) - [plain]
 | 81 | [Purple Night \(Theta Binaural\)](https://open.spotify.com/track/4jMT24JGe191KtWPERax3D) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Theta for Sleep](https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh) | 3:24 |
 | 82 | [Theta\-Rain Song](https://open.spotify.com/track/1gnWeFRY87chZfRUUIxhwo) | [Santino Dunleaf](https://open.spotify.com/artist/6UmU6V7Nh76CSxujJEBEja) | [Theta\-Rain Song](https://open.spotify.com/album/17AZbMWWCY8x3kyR1ezCXR) | 2:55 |
 
-Snapshot ID: `AAAAAOJF6svIHyfQ7+9gO9aLfNX0reWc`
+Snapshot ID: `AAAAAFnToXJguWVWbVhjtDNCan/o4rA1`

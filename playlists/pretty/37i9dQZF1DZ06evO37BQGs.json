@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAADKoWF0ITa9irPu+VZdwfZV",
+  "snapshot_id": "apdnAAAAAADBy6MUz83QvzaYWi/qtGAk",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
+      "duration_ms": 190160,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 190160,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"
+      "duration_ms": 214573,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 222493,
-      "name": "Sick Little Masquerade",
-      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
+      "duration_ms": 273466,
+      "name": "No Pretending",
+      "url": "https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill Your Own",
-        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 273466,
-      "name": "No Pretending",
-      "url": "https://open.spotify.com/track/59EnX4BXWB1mSe2pz4K2g3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -404,25 +388,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 183906,
-      "name": "I'll Never Know",
-      "url": "https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "New Glasses",
-      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
+      "duration_ms": 222493,
+      "name": "Sick Little Masquerade",
+      "url": "https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC"
     },
     {
       "added_at": null,
@@ -443,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "New Glasses",
+      "url": "https://open.spotify.com/track/3N8PrkWhSMtzQrlslY6EQg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
+      "duration_ms": 183906,
+      "name": "I'll Never Know",
+      "url": "https://open.spotify.com/track/6TV1G6fQ8MgSUzNMKqOpxC"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 212546,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/4Uz4uphfFwQqXVgnnYbXRR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quick The Word Sharp The Action",
+        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
     },
     {
       "added_at": null,

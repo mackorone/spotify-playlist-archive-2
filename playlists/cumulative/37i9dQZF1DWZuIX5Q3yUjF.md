@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> ANTONIA in cover della playlist dell'R&B italiano 🫀
+> Paola Pizzino in cover della playlist dell'R&B italiano 🫀
 
-1,101 songs - 2 day 6 hr 17 min
+1,102 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [invisibile \(feat\. Federico Di Napoli\)](https://open.spotify.com/track/02jOcdjDq5cFoFA1lug3RL) | [cura](https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [invisibile \(feat\. Federico Di Napoli\)](https://open.spotify.com/album/1maQUoFdBVe0UjoI5VIs0d) | 3:01 | 2025-05-09 | 2025-09-12 |
 | [Io sono in paranoia](https://open.spotify.com/track/4TvvAnvrvyQmdJgv7FASaF) | [L'Alba](https://open.spotify.com/artist/1MZ9OluQIQngTfG27rhOcj), [Saffi](https://open.spotify.com/artist/33DnVEwpiJGyHynUdQR0VR), [Yako](https://open.spotify.com/artist/5R2zIsjbgxycc2BH8BPFV8) | [Io sono in paranoia](https://open.spotify.com/album/7sEJpEQ8zRtMwv7AD5ujVE) | 2:16 | 2022-06-23 | 2022-09-09 |
 | [Ion](https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatoni](https://open.spotify.com/album/1K1LSukSt8Ae3rZCNuKheA) | 3:25 | 2022-05-26 | 2022-07-29 |
+| [Isola](https://open.spotify.com/track/5Yws33fedXqCtdS8brujQM) | [Paola Pizzino](https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug) | [Isola](https://open.spotify.com/album/4UTMUs6aP3912aip2DqSn7) | 2:06 | 2026-09-03 |  |
 | [Janara](https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Janara](https://open.spotify.com/album/0swEfPxCi3RN3unHRXUMJf) | 2:55 | 2023-05-11 | 2023-10-06 |
 | [Jane](https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD) | [Amanda Roberts](https://open.spotify.com/artist/56kQLgmlLN7mPjKa4yQyJD) | [Jane](https://open.spotify.com/album/0wn1MOIGxp7WhE5TzV3OPe) | 3:00 | 2025-07-10 | 2026-01-16 |
 | [Jeans Appeal](https://open.spotify.com/track/0SnJuW9iXV3s2nTgGN31Nb) | [Merrick](https://open.spotify.com/artist/5msEesooT4udZUDKyp8SPe) | [Jeans Appeal](https://open.spotify.com/album/78dWDklJ4ITsnQ14SIEojh) | 3:05 | 2022-06-23 | 2022-11-25 |

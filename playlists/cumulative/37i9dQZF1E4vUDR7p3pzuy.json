@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, Whispergun, JUST LIZZY and more",
+  "description": "With VELATINE, JUST LIZZY, The Dreamside and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152842,
       "name": "Bar Fight With Buzz Aldrin (Robo Mix)",
       "url": "https://open.spotify.com/track/2R9SMWdUmCxuzzNlJJgXVV"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 216717,
       "name": "Chromophobia",
       "url": "https://open.spotify.com/track/5PVk5KtP2tW2xrUx5pVgTD"
@@ -4568,7 +4568,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 256875,
       "name": "Days of Glory",
       "url": "https://open.spotify.com/track/4sjvKVIklvq1TMMbixZgOD"
@@ -6302,7 +6302,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 203574,
       "name": "Falling Star",
       "url": "https://open.spotify.com/track/3zmsrZsBKhQsCLEHcuiMWc"
@@ -8217,6 +8217,24 @@
     },
     {
       "album": {
+        "name": "Here, I am alone with You",
+        "url": "https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY"
+      },
+      "artists": [
+        {
+          "name": "LAKSHMI",
+          "url": "https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222232,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5CexrvPbFIwcOWvB0c9WPM"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/6VBRS76uMUdFyq4MfCc1e5"
       },
@@ -8982,7 +9000,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9098,6 +9116,24 @@
       "duration_ms": 341659,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/5n1w9j76PctpIfy3gmSvwd"
+    },
+    {
+      "album": {
+        "name": "The 13th Chapter",
+        "url": "https://open.spotify.com/album/3uCaLxsAMxp7g44QCLYFHQ"
+      },
+      "artists": [
+        {
+          "name": "The Dreamside",
+          "url": "https://open.spotify.com/artist/34OfCIgv73WN6WhYvBktB1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "In Longing - Satyrian Remix",
+      "url": "https://open.spotify.com/track/3VygOo4u2UZK19ejxV4N6S"
     },
     {
       "album": {
@@ -10782,7 +10818,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10908,7 +10944,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -12555,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "NEW AGE ROCKSTAR",
+        "url": "https://open.spotify.com/album/5u3AgJAdde7zeBSjeXT113"
+      },
+      "artists": [
+        {
+          "name": "D'Lourdes",
+          "url": "https://open.spotify.com/artist/4DGSCZ8yFmmwDfxFJIM6Bh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151385,
+      "name": "NEW AGE ROCKSTAR",
+      "url": "https://open.spotify.com/track/6wp6fkzPczSy8Eln67IL4p"
+    },
+    {
+      "album": {
         "name": "Signal Fire",
         "url": "https://open.spotify.com/album/5aicoDUfebJ8VrpgH3vDHd"
       },
@@ -12880,6 +12934,24 @@
       "duration_ms": 126171,
       "name": "nowhere feels like home",
       "url": "https://open.spotify.com/track/5tWiILEnydMhMQxRIAaf6E"
+    },
+    {
+      "album": {
+        "name": "The 13th Chapter",
+        "url": "https://open.spotify.com/album/3uCaLxsAMxp7g44QCLYFHQ"
+      },
+      "artists": [
+        {
+          "name": "The Dreamside",
+          "url": "https://open.spotify.com/artist/34OfCIgv73WN6WhYvBktB1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267546,
+      "name": "Nuda Veritas - Re-Recording from 2007",
+      "url": "https://open.spotify.com/track/0Z4629KIriqTE0KkUQfYJg"
     },
     {
       "album": {
@@ -13902,7 +13974,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 146000,
       "name": "psychological barbed wire",
       "url": "https://open.spotify.com/track/5XMZ3AhSuJUgDyR06eWwdo"
@@ -17986,7 +18058,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19750,7 +19822,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 366200,
       "name": "Under Your Skin",
       "url": "https://open.spotify.com/track/3UbZxHjScqE6eWmXbR9zX4"
@@ -21078,7 +21150,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -21374,6 +21446,28 @@
       "duration_ms": 231228,
       "name": "World Full Of Echoes",
       "url": "https://open.spotify.com/track/0lG69UDGyLApKGSfyAKI02"
+    },
+    {
+      "album": {
+        "name": "World, Reborn",
+        "url": "https://open.spotify.com/album/1PEHMldH3JTRh2nUHH8Nor"
+      },
+      "artists": [
+        {
+          "name": "King Of None",
+          "url": "https://open.spotify.com/artist/5mkULuQz8yjEmFzQ53IQhU"
+        },
+        {
+          "name": "Julie Elven",
+          "url": "https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353557,
+      "name": "World, Reborn",
+      "url": "https://open.spotify.com/track/49TdpfNrSadXB16d555my3"
     },
     {
       "album": {

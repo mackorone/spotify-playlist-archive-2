@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,602 likes - 27 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,598 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 26 | [Ay, Carnaval](https://open.spotify.com/track/162q1URorZHEYvW3vfFjcR) | [Maggie Cullen](https://open.spotify.com/artist/2ohOPQIexaf9bhfF3FAF3t), [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Ay, Carnaval](https://open.spotify.com/album/1iEQzIqtH0zkl5wgWy0dpN) | 3:01 |
 | 27 | [YO SOY EL DUEÑO](https://open.spotify.com/track/6T1menSISCCZis7XIR90pb) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [YO SOY EL DUEÑO](https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN) | 2:14 |
 
-Snapshot ID: `AAAAAKa/ALreW61lAkQyN2Kuant0mJ1L`
+Snapshot ID: `AAAAAPL5D1w4Vq3jwCXKsTSTkXoavrMy`

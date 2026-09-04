@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,271 likes - 100 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,264 likes - 100 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [No Hay Otro Dios](https://open.spotify.com/track/2FFwnDvloSzeITr0nhYDaW) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/5agVhIIi2JmXA5pEmjZUzW) | 6:31 |
 | 100 | [Mi Corazón Te Anhela](https://open.spotify.com/track/3GHXUGdVIWz4KJWG9pUsrr) | [Andrea Bernal](https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6) | [Mi Corazón Te Anhela](https://open.spotify.com/album/3xvbplk4ApLbyx5SPLfoxh) | 4:57 |
 
-Snapshot ID: `AAAAAL9m0/SxHOB82eg2EpVqe98wN/HO`
+Snapshot ID: `AAAAAMuAohlW/fAdFLHWQBbbk4o79f8B`

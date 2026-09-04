@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,480 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,521 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
 | 100 | [My Mama Dropped LSD in the 90's](https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [blazey](https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh) | [My Mama Dropped LSD in the 90's](https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT) | 2:56 |
 
-Snapshot ID: `AAAAAAZC4eGyyKFB6YDJW1oIWAz/Fvnx`
+Snapshot ID: `AAAAANvQJMNKgdThSCWc2VTrD+zWlGwD`

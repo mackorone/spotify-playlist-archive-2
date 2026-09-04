@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-703 songs - 1 day 10 hr 57 min
+707 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-09-19 | 2025-04-25 |
 | [Bare en mann](https://open.spotify.com/track/7ngCzgebGb7Cpq1LsB4tYk) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Bare en mann](https://open.spotify.com/album/05CY5GMnpJdfRzmmCDaOhJ) | 2:16 | 2026-05-14 |  |
 | [Bare kom](https://open.spotify.com/track/6ofEiPfpIHBp0EvMOqEvlC) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [FULL FYR](https://open.spotify.com/album/2dfh0gZs8T3ir5puEVjfJn) | 3:49 | 2025-05-01 |  |
+| [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 | 2026-09-03 |  |
 | [Batmobile](https://open.spotify.com/track/5nE6wfrzpwXWf96YD7md2k) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Batmobile](https://open.spotify.com/album/0QlwSCsBfQ5AdKmHBnL1FE) | 1:57 | 2025-02-13 | 2025-02-21 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 | 2025-03-08 |
 | [Bench Sitter](https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Bench Sitter](https://open.spotify.com/album/0nNymRnk0T4JRu3VKBJGmU) | 2:48 | 2025-04-30 | 2025-05-23 |
@@ -234,6 +235,7 @@
 | [Går det bra?](https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Går det bra?](https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp) | 2:23 | 2025-09-04 |  |
 | [Går videre](https://open.spotify.com/track/4iekvj8fLwdkua4RSkictW) | [Kløverr](https://open.spotify.com/artist/5qkTrW1lkAENJMZ0QlNUSx), [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [Går videre](https://open.spotify.com/album/2WhpXPDNfkWgSsUqXlFBID) | 3:15 | 2026-04-24 |  |
 | [Halo](https://open.spotify.com/track/20TAQbeQ5fvf32VGMTiahG) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Halo](https://open.spotify.com/album/2li6aS2EY8t7dLtV53GUaP) | 2:58 | 2026-04-16 |  |
+| [Halvt forhold](https://open.spotify.com/track/2cTJb0FeHpTw5uhstg1pym) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Halvt forhold](https://open.spotify.com/album/5INqnHT2aeUNTHNbTZhE3F) | 4:00 | 2026-09-03 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-27 | 2025-05-01 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-11-01 |
 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 |  |
@@ -559,6 +561,7 @@
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-26 |  |
 | [Soccer Mom 1+2](https://open.spotify.com/track/1itapDxcBMVVnMj0sWwlkR) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 3](https://open.spotify.com/album/6O0eyRs1vqMebDG59dC0TB) | 3:47 | 2026-04-30 |  |
 | [Sofa](https://open.spotify.com/track/0URd5RVv38SK3i5gxGmO02) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Sofa](https://open.spotify.com/album/4RimEbs1geSUAl7eqyqaO0) | 2:25 | 2025-10-09 |  |
+| [Somebody \(feat\. The Game\)](https://open.spotify.com/track/1CwFLsHe68fBZRzVwD0by9) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [Roc on Top](https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN) | 3:40 | 2026-09-03 |  |
 | [Somebody Else](https://open.spotify.com/track/0yrx4MEFq07sktmX5ssTPp) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5OuqBrrrQmLIBOlduNsIFN) | 3:12 | 2025-09-26 |  |
 | [Sommerflørt](https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sommerflørt](https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC) | 2:41 | 2024-06-27 | 2024-07-05 |
 | [Song and dance man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 | 2026-05-28 |  |
@@ -628,6 +631,7 @@
 | [That´s Who](https://open.spotify.com/track/6AvSGWqhIoS4rvlRw2NU0U) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Blueprint](https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv) | 2:22 | 2025-10-09 | 2025-11-28 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-05-01 |
 | [The Ambition](https://open.spotify.com/track/1mZ91JmvUPfraFsQgifFW7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:34 | 2025-09-26 |  |
+| [The Boy](https://open.spotify.com/track/6wInGasp2u22CdaC9SEGu1) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [The Boy](https://open.spotify.com/album/4E9ga4t1puWKaBOZPOYsj1) | 2:57 | 2026-09-03 |  |
 | [The Boy I Am](https://open.spotify.com/track/7uqtN4R6hcRI4Q4KPTH3SQ) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [The Boy I Am](https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9) | 2:34 | 2026-01-08 |  |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-21 |  |
 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 | 2025-10-23 |  |

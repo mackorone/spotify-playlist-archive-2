@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 
 > The best new music videos from independent artists and labels\. Featuring Abbie Callahan\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vBPgvJFPJn.md) - [plain]
 | 55 | [Picto](https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Picto](https://open.spotify.com/album/3HF6TUNZTfQ9Sv6lprcVfN) | 5:09 |
 | 56 | [Just Because](https://open.spotify.com/track/0R6iCCGsHrbh75peQKR3eV) | [Brooke Lee](https://open.spotify.com/artist/7mDMlZnQ1SQRtujvd3azxS) | [Just Because](https://open.spotify.com/album/5zC2iBc5qAS8gtLosjIaG3) | 2:59 |
 
-Snapshot ID: `AAAAAI1nQ2fZ16OjMwtmDgTvxSnrSrWP`
+Snapshot ID: `AAAAAKHoFPJHknvsFowHhOimwu3Lvmeb`

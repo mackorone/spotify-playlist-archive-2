@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,905 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,941 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Outra Vez](https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO) | [João Donato E Seu Trio](https://open.spotify.com/artist/1DtoQP5DtMJy9OlzQoyegD) | [A Bossa Muito Moderna De Donato E Seu Trio](https://open.spotify.com/album/0SgDWR5LcEig2Px0XZnmhZ) | 3:19 |
 | 100 | [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 |
 
-Snapshot ID: `AAAAAP1pVP0Z1IBiAa2BVY9X71wxPE9P`
+Snapshot ID: `AAAAAIDHRNErC9Pi2V8056rBqjk9mC2B`

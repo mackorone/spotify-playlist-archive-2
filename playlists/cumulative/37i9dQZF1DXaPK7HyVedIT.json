@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: RUBACK, Roddy Lima, Sarah de Warren",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: INNDRIVE",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 136615,
       "name": "Bad Choices",
       "url": "https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk"
@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3vn8sJ45Ux6KHrLpwf2215"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/4RM1TC2bV98qTdQJBNNF62"
+    },
+    {
+      "album": {
         "name": "Body Soul",
         "url": "https://open.spotify.com/album/5j49m1koW0sa20qZlTOpHM"
       },
@@ -3102,6 +3120,40 @@
       "duration_ms": 157439,
       "name": "Bron Bron",
       "url": "https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu"
+    },
+    {
+      "album": {
+        "name": "Brota no Meu Setor",
+        "url": "https://open.spotify.com/album/66xnrJM1wHW8JO3KtyRmR9"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "DJ Petroski",
+          "url": "https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A"
+        },
+        {
+          "name": "DJ Zig\u00e3o",
+          "url": "https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Brota no Meu Setor",
+      "url": "https://open.spotify.com/track/3q2tmliJBb66a0U0FXpIHp"
     },
     {
       "album": {
@@ -3583,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Censored",
+        "url": "https://open.spotify.com/album/6etUuvTV1ze1txBe5piuDx"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "Censored",
+      "url": "https://open.spotify.com/track/0FXlHHnHbYScs3EnljmErZ"
+    },
+    {
+      "album": {
         "name": "Champagne Bottle",
         "url": "https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof"
       },
@@ -3962,7 +4032,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 150000,
       "name": "Cocaine Models",
       "url": "https://open.spotify.com/track/6zdSsmP8Vl4tseOT9gOkqX"
@@ -4334,7 +4404,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 355200,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2JK3u8ADAVeZIV0jIHkxro"
@@ -6954,7 +7024,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 187142,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/7KIVzPQHkwaLkCafnDF4pz"
@@ -11313,6 +11383,32 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
+      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/0xnYaryHsLs1q6BLjVN6ET"
       },
@@ -11536,6 +11632,36 @@
       "duration_ms": 270000,
       "name": "Kura",
       "url": "https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb"
+    },
+    {
+      "album": {
+        "name": "LA CAPITAL",
+        "url": "https://open.spotify.com/album/7iWOWjHf1tuSl0iMauB8PA"
+      },
+      "artists": [
+        {
+          "name": "Kastelo",
+          "url": "https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Soucream",
+          "url": "https://open.spotify.com/artist/52aOUaCckb2h6cjxsIr6LT"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "LA CAPITAL",
+      "url": "https://open.spotify.com/track/6x2xB49Oa6mjZMtdHZNhVv"
     },
     {
       "album": {
@@ -12422,6 +12548,28 @@
       "duration_ms": 121889,
       "name": "Loop - Remix",
       "url": "https://open.spotify.com/track/2NV7tRSYQVJXYtmVb6QEpi"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/6hIubPPddqcyTYvLHlo2xy"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243100,
+      "name": "Lose My Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/3Dtx9ZKgLm4VNscg4gzG2p"
     },
     {
       "album": {
@@ -16018,7 +16166,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194568,
       "name": "Party Criminal",
       "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
@@ -16368,6 +16516,28 @@
       "duration_ms": 154146,
       "name": "Presente",
       "url": "https://open.spotify.com/track/2wJFp8plZQfBA9mIXfra14"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4AMiTH47x7mfHDK9kktZ5G"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "ZARO",
+          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205476,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0RWYzt8kP2N12SxqbyIHPC"
     },
     {
       "album": {
@@ -16796,7 +16966,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 303649,
       "name": "Rebel Boogie Nights",
       "url": "https://open.spotify.com/track/6H7Vhpkq4yNqFPWkmpfjn3"
@@ -17256,7 +17426,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195000,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/3UAqSCnXLiIi46EbScLBRa"

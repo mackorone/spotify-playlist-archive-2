@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,240 likes - 116 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,238 likes - 116 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0oVIKIiCUD.md) - [plain]
 | 115 | [The Sun from Mars](https://open.spotify.com/track/7DpULjJnRGivJSuag4usTW) | [Fat Hamster and KANG New](https://open.spotify.com/artist/5W3W4W6r71LupxKRCVUf9T), [Fat Hamster](https://open.spotify.com/artist/2Hu4VMSHeLo0tKSiRwwy2N), [KANG New](https://open.spotify.com/artist/7KgZfnqiRtx1Nq27cOqBgc) | [Brains in a Vat](https://open.spotify.com/album/50TBHQCVbs2r1gIgFnplsA) | 3:02 |
 | 116 | [Live Fast, Die Young](https://open.spotify.com/track/1d8bveuGcc4GQdcpJ13oe9) | [Fat Hamster and KANG New](https://open.spotify.com/artist/5W3W4W6r71LupxKRCVUf9T), [Fat Hamster](https://open.spotify.com/artist/2Hu4VMSHeLo0tKSiRwwy2N), [KANG New](https://open.spotify.com/artist/7KgZfnqiRtx1Nq27cOqBgc) | [Brains in a Vat](https://open.spotify.com/album/50TBHQCVbs2r1gIgFnplsA) | 2:18 |
 
-Snapshot ID: `AAAAAIHrGKiHu42I0oXcXEhvsml9wQ0B`
+Snapshot ID: `AAAAAHu9BxrAfWFWWpQpVTst6MdDukC3`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-41 songs - 1 hr 54 min
+42 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Again](https://open.spotify.com/track/3YZF7oBXjZ0BQX4LwFq3ih) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Again](https://open.spotify.com/album/5DTfFUKdmyA52M8JuqM55D) | 2:47 | 2026-06-09 |  |
 | [Back To Texas](https://open.spotify.com/track/4fe6BhZYJJw7XRZk6muwzm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion: Long Bed](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A) | 2:47 | 2026-06-09 |  |
 | [Braile](https://open.spotify.com/track/1jsUOG2qFVgLUP7DTUjtjR) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 3:30 | 2026-06-09 |  |
+| [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 | 2026-09-03 |  |
 | [Don't Waste Your Time](https://open.spotify.com/track/6ugwLnZak8lGnUqi8b8p15) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Pain Never Looked This Good \(Night\)](https://open.spotify.com/album/79OANKfJCQyPCEf2H51tkM) | 2:08 | 2026-06-09 |  |
 | [Ee\-er](https://open.spotify.com/track/6j2bOHZKtXzVcytOse2Lmc) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 2:24 | 2026-06-09 |  |
 | [EL CLúB](https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:42 | 2026-06-09 |  |

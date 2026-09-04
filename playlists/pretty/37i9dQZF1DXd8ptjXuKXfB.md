@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,035 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,036 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
 | 80 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
 
-Snapshot ID: `AAAAAJDO2KfMSYHXP1nRsJhmCZcBWgo9`
+Snapshot ID: `AAAAANzCmj8C/ETZ6pg2YyTYW7jVK9wd`

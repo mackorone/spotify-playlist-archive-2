@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "1000 Dollars",
+        "url": "https://open.spotify.com/album/5bGROZndv3uhgFGukOylre"
+      },
+      "artists": [
+        {
+          "name": "MAGIC MONDAY",
+          "url": "https://open.spotify.com/artist/03JUoALu8i6GFdXJR0BVHT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261239,
+      "name": "1000 Dollars",
+      "url": "https://open.spotify.com/track/6XDfS3RcnpaZ3pmeo577bZ"
+    },
+    {
+      "album": {
         "name": "Echoes of the Night (The Adrian Sherwood Remixes)",
         "url": "https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x"
       },
@@ -28890,6 +28908,24 @@
       "duration_ms": 139853,
       "name": "NO ME PUEDO RENDIR",
       "url": "https://open.spotify.com/track/48kd0xa7KPJbOrvFzlBE2e"
+    },
+    {
+      "album": {
+        "name": "No more Gunmen / Bababoom Dub",
+        "url": "https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS"
+      },
+      "artists": [
+        {
+          "name": "Dubmaster Conte",
+          "url": "https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230033,
+      "name": "No more Gunmen Dub (cut 1)",
+      "url": "https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6"
     },
     {
       "album": {

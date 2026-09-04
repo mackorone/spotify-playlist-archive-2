@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Patrick Brasca \u6d3e\u5049\u4fca",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u7406\u60f3\u6df7\u86cb & \u9ad8\u723e\u5ba3OSN",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 240000,
       "name": "Birdy Fly",
       "url": "https://open.spotify.com/track/1kYQz3ILMz6t6QiEuMeNpQ"
@@ -3264,6 +3264,28 @@
       "duration_ms": 189000,
       "name": "Time\uff08feat. \u9ec3\u5947\u658c\uff09",
       "url": "https://open.spotify.com/track/0KyotMIKlez4YzpEoJbbfd"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u6046\u5c11\u5e74\u5c11\u5973",
+        "url": "https://open.spotify.com/album/5qfTuiKKQwMEnZvbyFyyrU"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        },
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "To-Do list ft. \u5442\u5141",
+      "url": "https://open.spotify.com/track/5U6ZFzKLDfQc94lawVvTMY"
     },
     {
       "album": {
@@ -9748,7 +9770,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 297371,
       "name": "\u592a\u967d\u4e4b\u5b50",
       "url": "https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp"
@@ -12521,6 +12543,28 @@
     },
     {
       "album": {
+        "name": "\u611b\u60c5\u9577\u8dd1",
+        "url": "https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "\u6d0b\u8525",
+          "url": "https://open.spotify.com/artist/6JIc47t8N2DH29x4ysG5ib"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "\u611b\u60c5\u9577\u8dd1",
+      "url": "https://open.spotify.com/track/0DtZEmbJCUAhylo5HVbTj2"
+    },
+    {
+      "album": {
         "name": "\u6efe\u77f3\u649e\u6a02\u968a2 - \u611b\u6211\u5225\u8d70",
         "url": "https://open.spotify.com/album/789k5EdFRazxLONcSv6LwD"
       },
@@ -13862,7 +13906,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 168493,
       "name": "\u6211\u7368\u81ea\u6c42\u6551",
       "url": "https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt"
@@ -16255,6 +16299,24 @@
     },
     {
       "album": {
+        "name": "\u672a\u4f86\u65e5\u8a18",
+        "url": "https://open.spotify.com/album/4vLw8KLL07kHKceMPkQiic"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u67cf\u921e JIMBo",
+          "url": "https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "\u672a\u4f86\u65e5\u8a18",
+      "url": "https://open.spotify.com/track/0TvW7hB1zS0KiBaEvmWJdc"
+    },
+    {
+      "album": {
         "name": "\u672a\u4f86\u7684\u6628\u5929",
         "url": "https://open.spotify.com/album/038yDT1NquW3Cqg8X0Zllb"
       },
@@ -17512,7 +17574,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 193392,
       "name": "\u6f2b\u6f2b\u9577\u591c",
       "url": "https://open.spotify.com/track/6juKLpiHRBMociN7R4WP74"
@@ -17534,6 +17596,24 @@
       "duration_ms": 172166,
       "name": "\u706b\u67f4 (Acoustic) - Spotify Singles",
       "url": "https://open.spotify.com/track/649FdTxihcffxQnTMa2q2x"
+    },
+    {
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb"
+      },
+      "artists": [
+        {
+          "name": "LAWA",
+          "url": "https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263068,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/005eESnSIcR99N474aIINN"
     },
     {
       "album": {

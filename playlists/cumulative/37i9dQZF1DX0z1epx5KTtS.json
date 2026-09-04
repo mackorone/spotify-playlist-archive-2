@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Daoudi le Kirikou",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 248633,
       "name": "AMBIANCE",
       "url": "https://open.spotify.com/track/7uK6bcUf92yoNy1CmBhAXZ"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 224000,
       "name": "Bognan",
       "url": "https://open.spotify.com/track/6nkibasAMIKpBHeRMKW9xm"
@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 236200,
       "name": "L'ARGENT PROPRE",
       "url": "https://open.spotify.com/track/4VQML2a6HZC4htq4jjnIv4"
@@ -4160,6 +4160,28 @@
       "duration_ms": 202501,
       "name": "Merci",
       "url": "https://open.spotify.com/track/6Rg1VzMCXGvRfvQe2VLYaG"
+    },
+    {
+      "album": {
+        "name": "Mignon Gar\u00e7on",
+        "url": "https://open.spotify.com/album/1WIiGoSuSliouuJevYqviW"
+      },
+      "artists": [
+        {
+          "name": "Momo Hayek",
+          "url": "https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski"
+        },
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174687,
+      "name": "Mignon Gar\u00e7on",
+      "url": "https://open.spotify.com/track/3rIdDhDjMRKOXMOPofsGxm"
     },
     {
       "album": {
@@ -5273,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "senvolement",
+        "url": "https://open.spotify.com/album/1WGOlaHW9q6nBP9X6u9vwW"
+      },
+      "artists": [
+        {
+          "name": "Sonik",
+          "url": "https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74697,
+      "name": "senvolement",
+      "url": "https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn"
+    },
+    {
+      "album": {
         "name": "Si tu veux partir",
         "url": "https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS"
       },
@@ -5830,6 +5870,32 @@
       "duration_ms": 212555,
       "name": "Tu peux lover",
       "url": "https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6"
+    },
+    {
+      "album": {
+        "name": "TU PIQUES",
+        "url": "https://open.spotify.com/album/3X7mhJxpXLKojjPkEodW5k"
+      },
+      "artists": [
+        {
+          "name": "Mr Alex",
+          "url": "https://open.spotify.com/artist/75Vq95baZ1lUaHDUMPC8dI"
+        },
+        {
+          "name": "Abdel le Monnan",
+          "url": "https://open.spotify.com/artist/1o2TBrFHJvzq6Wl1sIRBEj"
+        },
+        {
+          "name": "Le Marco",
+          "url": "https://open.spotify.com/artist/700E1VMYSijVF8xG1bFoEs"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169170,
+      "name": "TU PIQUES",
+      "url": "https://open.spotify.com/track/3Gu7OV1kmzOIEGGWtnrB0O"
     },
     {
       "album": {

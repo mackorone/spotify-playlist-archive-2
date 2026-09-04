@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,599 likes - 275 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,611 likes - 275 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jk5JfpZoMf.md) - [plain]
 | 274 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 |
 | 275 | [City Drencher](https://open.spotify.com/track/0PmFJejR2xSdSDR2jMw7cF) | [The Weather Company](https://open.spotify.com/artist/2ZrgWpi8ujislf7Zg2OeD2) | [City Drencher](https://open.spotify.com/album/0NLK0JdePfhT6R0Lu9T13B) | 2:46 |
 
-Snapshot ID: `AAAAAHx35NDj7yytta/b43UcZw9gYzKf`
+Snapshot ID: `AAAAAGGw5cTSMr5gQByJepIE2KFhDeh/`

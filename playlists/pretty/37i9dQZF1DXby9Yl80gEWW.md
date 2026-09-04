@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Bryan Sutton
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,464 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,484 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 74 | [Bon Aqua Blues](https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL) | [Tony Trischka](https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK) | [Double Banjo Bluegrass Spectacular](https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch) | 3:00 |
 | 75 | [Blue Collared Dog and His Green Eyed Friend](https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO) | [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Blue Collared Dog and His Green Eyed Friend](https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP) | 3:42 |
 
-Snapshot ID: `AAAAAEml/nYSwD84HqVFwg/kwGIrKZAP`
+Snapshot ID: `AAAAAGeSdb7GqIAi/bQrO6MeU3AWJt2j`

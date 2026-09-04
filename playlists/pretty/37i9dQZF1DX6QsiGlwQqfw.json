@@ -1,12 +1,12 @@
 {
   "description": "Instrumentals from the North Indian school of music.",
-  "num_followers": 58724,
+  "num_followers": 58727,
   "original_name": "Hindustani Instrumental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIKtBSXxhMfORH/1VXXP34sHpHK7",
+  "snapshot_id": "AAAAADkX16LMMQm1Hj/AN9r13vX86Doc",
   "tracks": [
     {
       "added_at": "2026-08-03 08:03:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-08-03 08:03:00",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-08-03 08:03:00",
-      "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 1309209,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
+    },
+    {
+      "added_at": "2026-08-03 08:03:00",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
     },
     {
       "added_at": "2026-08-03 08:03:00",

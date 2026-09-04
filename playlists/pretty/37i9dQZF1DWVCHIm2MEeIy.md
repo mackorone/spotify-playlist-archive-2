@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The party has arrived! 🪩  Cover: Solomun
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,258 likes - 200 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,305 likes - 200 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 199 | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/album/71PJa4yS0rt03dc35dHBPy) | 2:35 |
 | 200 | [Need You](https://open.spotify.com/track/49T2Yd31wHCDrLNQtQ5TtA) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Need You](https://open.spotify.com/album/4cBCtcmTcJjLtYpuqLvDHQ) | 3:38 |
 
-Snapshot ID: `AAAAAKHwZfFurqxJp5keArmZifcc1KbZ`
+Snapshot ID: `AAAAALBjx4ydNHxpM4j4x56bgGykIhL+`

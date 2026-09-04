@@ -4,7 +4,7 @@
 
 > Serene, lowkey indie for hanging out and relaxing.
 
-647 songs - 1 day 13 hr 32 min
+648 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Happen](https://open.spotify.com/track/0vqzn44JWvaRm7kw0Y0Ke7) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5nJYvt4hDTuU9oUB1wmvLK) | 4:13 | 2023-09-29 |  |
 | [Happen](https://open.spotify.com/track/3x5GkihYMx1wdoXVFAwRyZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 4:13 | 2022-08-19 | 2024-04-19 |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 | 2022-10-25 |
+| [Happiness Anytime](https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:38 | 2026-09-04 |  |
 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 | 2023-09-29 | 2024-04-19 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-27 |  |
 | [Hate That I Love You](https://open.spotify.com/track/1rOGjb8wAmr7ObgLuT2U86) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Hate That I Love You](https://open.spotify.com/album/2Bxs8q5gmTNHcHhf1TPhN3) | 3:32 | 2022-08-19 | 2022-11-13 |

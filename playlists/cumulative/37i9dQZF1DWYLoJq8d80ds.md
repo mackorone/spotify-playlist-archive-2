@@ -4,7 +4,7 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-229 songs - 12 hr 47 min
+231 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [La Canción de la Alegría](https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O) | 3:31 | 2022-07-01 | 2024-04-19 |
 | [La Canción de la Alegría](https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Canción de la Alegría](https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ) | 3:31 | 2021-12-31 | 2024-11-16 |
 | [La de los Violineros](https://open.spotify.com/track/0BuGlPsJYERQO0sTtIAaYW) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [La de los Violineros](https://open.spotify.com/album/6JaE72sn3c5Gnj80EVSb5C) | 2:41 | 2022-11-28 |  |
+| [La del Proceso](https://open.spotify.com/track/5a5c1j324XzTB4j3g5nEDY) | [Los MYE Cisneros](https://open.spotify.com/artist/2WJFH6DvBGqoNKmhS5OFPp), [Maty y Emma Cisneros](https://open.spotify.com/artist/0YYCNponwayrGtbh4Bz6C7) | [La del Proceso & For Fun](https://open.spotify.com/album/1nqYlG2ggEXXurVnxzgSWQ) | 1:40 | 2026-09-03 |  |
 | [La Gringa](https://open.spotify.com/track/0KVEYVcWNe1ElvxWUz8ytv) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Gringa](https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy) | 4:17 | 2021-12-31 | 2026-07-21 |
 | [La Leyenda de la Brasita de Fuego](https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:12 | 2021-12-31 | 2026-07-21 |
 | [La Llama Que Baila](https://open.spotify.com/track/2m6x7oUG9zUtdPpqcwhHRW) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [La Llama Que Baila](https://open.spotify.com/album/2L9HQCa7QjweXkoolZdY6u) | 2:51 | 2021-12-31 | 2026-07-21 |
@@ -188,6 +189,7 @@
 | [Santo Remedio](https://open.spotify.com/track/2HoFKu6ZTMTozR2wksXApW) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [Santo Remedio](https://open.spotify.com/album/4VeHkt4dygRUrozJZHkU4e) | 3:52 | 2023-08-18 | 2024-08-17 |
 | [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 | 2024-07-13 |
 | [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
+| [Si Esta Casa Hablara / Y Para Qué Sufrir / Él No Va a Venir \- En Vivo](https://open.spotify.com/track/4Rils5YhHGqyEC8YRgDb8b) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4) | [Si Esta Casa Hablara / Y Para Qué Sufrir / Él No Va a Venir \(En Vivo\)](https://open.spotify.com/album/59lEWCdwpqBa3qvTS6qCMa) | 4:48 | 2026-09-03 |  |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 | 2023-09-02 |
 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 | 2023-05-12 | 2024-08-17 |
 | [Siempre Chaqueño Seré](https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Siempre Chaqueño Seré](https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU) | 3:04 | 2021-12-31 |  |

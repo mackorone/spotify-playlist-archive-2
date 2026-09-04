@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Blossoms",
+  "description": "The best indie music of the moment. Cover: Paris Paloma",
   "name": "The Indie List",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256718,
+      "name": "143",
+      "url": "https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy"
     },
     {
       "album": {
@@ -2432,6 +2450,24 @@
     {
       "album": {
         "name": "Blind",
+        "url": "https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189320,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ"
+    },
+    {
+      "album": {
+        "name": "Blind",
         "url": "https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq"
       },
       "artists": [
@@ -3488,6 +3524,24 @@
       "duration_ms": 204079,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/5UR33vh5J4oP6ow6IE0xO9"
+    },
+    {
+      "album": {
+        "name": "Kismet",
+        "url": "https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
     },
     {
       "album": {
@@ -5624,7 +5678,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 156640,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
@@ -7784,7 +7838,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 263560,
       "name": "Hatching",
       "url": "https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky"
@@ -8108,7 +8162,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 102883,
       "name": "hi from me",
       "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
@@ -8616,7 +8670,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 259578,
       "name": "I Don\u2019t Wanna Lose You",
       "url": "https://open.spotify.com/track/2Fg4oGxDBNhTUxOTqXF5eO"
@@ -9136,7 +9190,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 172596,
       "name": "In My Gut",
       "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
@@ -9486,6 +9540,24 @@
       "duration_ms": 210803,
       "name": "It's Amazing To Be Young",
       "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
+    },
+    {
+      "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "It's Not Easy (Falling In Love)",
+      "url": "https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX"
     },
     {
       "album": {
@@ -15103,6 +15175,24 @@
     },
     {
       "album": {
+        "name": "Savage White Swan",
+        "url": "https://open.spotify.com/album/1MBXapcFjA8xBx4mTUUegK"
+      },
+      "artists": [
+        {
+          "name": "Rora And The Untamed",
+          "url": "https://open.spotify.com/artist/57t696wpAwRqF30dlcs6MI"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208543,
+      "name": "Savage White Swan",
+      "url": "https://open.spotify.com/track/1vrvxd2pNPbGX563Xl5L8f"
+    },
+    {
+      "album": {
         "name": "Someday, Now",
         "url": "https://open.spotify.com/album/1Q0bD1WsAZ03iToZAHclPp"
       },
@@ -15684,6 +15774,24 @@
       "duration_ms": 207313,
       "name": "sideways",
       "url": "https://open.spotify.com/track/135kWbc6Ff2eh2ihtNAQ6y"
+    },
+    {
+      "album": {
+        "name": "The Fatal Flaw",
+        "url": "https://open.spotify.com/album/4e7FifiO1GkpqGefuXS2JD"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260709,
+      "name": "Silhouette on the Hill",
+      "url": "https://open.spotify.com/track/7buthCT0ygAmfSN8iAjmMU"
     },
     {
       "album": {
@@ -18937,6 +19045,24 @@
     },
     {
       "album": {
+        "name": "lemon gelato",
+        "url": "https://open.spotify.com/album/20OG0ydhpzPF7KJr6qxdmi"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170214,
+      "name": "together in my head",
+      "url": "https://open.spotify.com/track/2gFxCFg0NGBoKVqOGdZjB0"
+    },
+    {
+      "album": {
         "name": "Tom Will Smack Your Ass",
         "url": "https://open.spotify.com/album/4Sf27x9wlx7oqbET1SFVz5"
       },
@@ -19056,7 +19182,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 91200,
       "name": "tough luck",
       "url": "https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M"
@@ -19218,7 +19344,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 234706,
       "name": "Try Try Try",
       "url": "https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU"

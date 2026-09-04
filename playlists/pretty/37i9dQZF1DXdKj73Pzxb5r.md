@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Jinan Lakeisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,290 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,296 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Past Lives](https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8) | [Adoracion](https://open.spotify.com/artist/2IdrP1cIBMKMzw2qxshiKF) | [Past Lives](https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz) | 3:54 |
 | 100 | [Hiduplah Yang Lama](https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Ruang Ruang Sandar](https://open.spotify.com/album/3bbAuyK0lNf5VnoeLPdWg6) | 3:20 |
 
-Snapshot ID: `AAAAAFFnLRtVW0jTdGNKgQLeoE7h6Y1v`
+Snapshot ID: `AAAAACQHaOimL++vIKNWHix5EwkQBaBq`

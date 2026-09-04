@@ -2,9 +2,9 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: Skyla Tyla, Chloë
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Simmy
 
-343 songs - 1 day 4 hr 38 min
+344 songs - 1 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,13 +227,14 @@
 | [Nitunogete \(we are tired\)](https://open.spotify.com/track/3CP27S1s5WJExf0DshnNwc) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Nitunogete \(we are tired\)](https://open.spotify.com/album/0PYWDV15w8vyrij4iNlTE1) | 5:46 | 2025-06-26 | 2025-07-11 |
 | [Njururi](https://open.spotify.com/track/7tuyoCLrqLDKBWq1Wdxsge) | [Trekkah](https://open.spotify.com/artist/3YTAXxEhKGNPtxjYgSl92V), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Njururi](https://open.spotify.com/album/59vwhG5i2FYnbcncmdXXfL) | 3:45 | 2026-04-30 | 2026-08-28 |
 | [Nkosi](https://open.spotify.com/track/7yrgmkjqLrljc7Ei0rb8t8) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Nkosi](https://open.spotify.com/album/4ux0G0cVZIN98vXThCv9J4) | 7:11 | 2025-06-19 | 2025-10-04 |
-| [Nkosi Amakhosi](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 7:18 | 2026-05-29 |  |
+| [Nkosi Amakhosi](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 7:18 | 2026-05-29 | 2026-09-04 |
 | [No Other](https://open.spotify.com/track/6Jkl9VHMWtkDrXQ1gzVN3V) | [VIVNS](https://open.spotify.com/artist/0k0yKemQ530pofrwqyC5Wp), [KOSVILL](https://open.spotify.com/artist/5V0893o3uzH75ZdQxPk9yR), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [No Other](https://open.spotify.com/album/1A6mK2DQP3M8vVRtfIdUZS) | 3:01 | 2025-07-03 | 2025-07-11 |
 | [No Shape Without You](https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg) | [No Shape Without You](https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf) | 4:25 | 2026-02-26 | 2026-03-06 |
 | [Ntate Zola](https://open.spotify.com/track/5DWw9wS5qs1uoARQreR8hv) | [PeeKay Mzee](https://open.spotify.com/artist/3kjGJR4uVdVSidEHzw1Ebu) | [Ntate Zola](https://open.spotify.com/album/6n0jFnXR79m6A5dm7IWLcf) | 6:22 | 2025-06-19 | 2025-07-04 |
 | [Oleku \- Remix](https://open.spotify.com/track/7bA4dMvgVGhc3R4TAjOvKf) | [Fully Focus](https://open.spotify.com/artist/3cSXE6QoAmNGlvzR5hqG78), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Oleku \(Remix\)](https://open.spotify.com/album/6fUsreQDL7iraRLoUiLU5R) | 3:26 | 2025-07-31 | 2026-02-20 |
 | [Omama Bomthandazo](https://open.spotify.com/track/2jCrWlDO6CUpCqVWdUxSGu) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA), [Jnr SA](https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku) | [Omama Bomthandazo](https://open.spotify.com/album/4F1ZkdgSY8BzEYfEIaA1al) | 5:34 | 2025-06-19 | 2025-07-04 |
 | [One More Dance \(feat\. Mpho.Wav & Atmos Blaq\)](https://open.spotify.com/track/13WESMIfueri5XdNagRGBg) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [One More Dance \(feat\. Mpho.Wav & Atmos Blaq\)](https://open.spotify.com/album/1PHQDMFXdvbzZ2lXnvwZ81) | 3:55 | 2026-08-06 |  |
+| [One More Time](https://open.spotify.com/track/22qpuBNvo3l6FH7QsOBlbG) | [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [eFairyland](https://open.spotify.com/album/5P54EJoCqPyEluhWbWOMcu) | 3:50 | 2026-09-03 |  |
 | [Pagoni](https://open.spotify.com/track/60aSEPwoUk5jzcFYgcZ1mS) | [Awill \(ofc\)](https://open.spotify.com/artist/1CTRW6wqCdpLiM222VodXT), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Pagoni](https://open.spotify.com/album/7lyPJ2qqgUZi5LeS2TyW9I) | 3:17 | 2026-04-09 |  |
 | [Phakama](https://open.spotify.com/track/2MWY3GUlwuBt6RUSxV1mTG) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Phakama](https://open.spotify.com/album/1KKgIskYHGhmAS1T2dJFqz) | 3:05 | 2025-07-03 | 2025-07-11 |
 | [Pilipili](https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg) | [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [PILIPILI](https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP) | 5:21 | 2025-07-24 | 2025-08-01 |

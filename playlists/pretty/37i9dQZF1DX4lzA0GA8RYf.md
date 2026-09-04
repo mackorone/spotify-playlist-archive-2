@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4lzA0GA8RYf.md) - [plain]
 
 > Las clásicas de los ídolos de la Música Mexicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,434 likes - 300 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,582 likes - 300 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4lzA0GA8RYf.md) - [plain]
 | 299 | [Que Te Vaya Bonito](https://open.spotify.com/track/4va4REkaDpC31k6jcAbLGY) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:02 |
 | 300 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
 
-Snapshot ID: `AAAAACp7tHUeVlC+U7faEQvBoRBAphYN`
+Snapshot ID: `AAAAAFUqs++3747HFVmix9AD8xNhQYM+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: CJ Navato\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,775 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,797 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [Tulala](https://open.spotify.com/track/4t6oxXMe7nMT7so5zvayBT) | [Kim Leo](https://open.spotify.com/artist/1xrEK9wTluzytuuBW2U7Iu) | [Tulala](https://open.spotify.com/album/7Ct8aRZ7H6jiSbb7KqN9x3) | 4:41 |
 | 50 | [TAKIS](https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [TAKIS](https://open.spotify.com/album/7gKzeZUuIW2aKU95TWqWe1) | 2:45 |
 
-Snapshot ID: `AAAAAJoxoC6227KD5CdqQNTjZw/9UGtM`
+Snapshot ID: `AAAAABfhqXamN8FGk0mxvnOdCz5GZsUE`

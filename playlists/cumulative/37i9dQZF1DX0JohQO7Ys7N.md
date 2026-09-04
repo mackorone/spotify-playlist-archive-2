@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kahuti
 
-375 songs - 21 hr 10 min
+376 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
 | [Steady](https://open.spotify.com/track/0Nk3N24fYgIN2zIpIlAacs) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD) | [Steady](https://open.spotify.com/album/3fIkHOp4fsL4I8ReXAGia3) | 3:15 | 2026-06-26 |  |
 | [Stories Untold](https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Shudu Musida](https://open.spotify.com/artist/1rE20iFWfaTa3G1kZR98rK) | [Stories Untold](https://open.spotify.com/album/7cuX7LdNYkaSsi4YxNyq7j) | 3:59 | 2025-12-04 |  |
-| [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 |  |
+| [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 | 2026-09-04 |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |
 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2025-02-13 | 2025-02-21 |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |
@@ -365,6 +365,7 @@
 | [Wanja](https://open.spotify.com/track/4qlhfTcBkuDo7wByAZERiz) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Blk2541](https://open.spotify.com/album/77yeDBzL9v308FeLoyypPd) | 3:06 | 2021-12-28 | 2022-03-04 |
 | [Want You](https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Mi$taK](https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h) | [Want You](https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO) | 3:36 | 2021-12-28 | 2022-05-27 |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2024-03-01 |
+| [Wawili](https://open.spotify.com/track/6fUSXK3W1rsv4mhFDP7dZy) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Wawili](https://open.spotify.com/album/47byUBwGZDE9UY3UQIweMy) | 2:16 | 2026-09-03 |  |
 | [WAWILI](https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo) | [Nahsh kariuki Official](https://open.spotify.com/artist/5mzYpiJA39D2iFcB3ERAfj) | [WAWILI](https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q) | 2:15 | 2026-05-07 |  |
 | [Waza](https://open.spotify.com/track/6o0v1jNUgMpBwT3RQe2Wae) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Waza](https://open.spotify.com/album/5ClSrFIsxh8jwLiNxS0jQY) | 3:11 | 2026-03-16 |  |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2024-06-01 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,069 songs - 2 day 17 hr 17 min
+1,070 songs - 2 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [Sunever](https://open.spotify.com/track/3LcrOjz8o01T5NXcek4GiO) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Sunever](https://open.spotify.com/album/3rxbrVySwORaBSgpeMMjQg) | 2:40 | 2024-06-03 | 2024-07-12 |
 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 | 2024-05-16 | 2024-07-12 |
 | [Supermarket Blues](https://open.spotify.com/track/0ShILYEuj2JA4Zx31gAhd0) | [Eugene McDaniels](https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN) | [Headless Heroes of the Apocalypse](https://open.spotify.com/album/3d6r8XuRKejXiqXisnMNoi) | 4:10 | 2026-05-05 | 2026-07-06 |
+| [Supersonic Faster](https://open.spotify.com/track/7FrolHHjlzcKBiMEVZiI1H) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Supersonic Faster](https://open.spotify.com/album/6H4XOjzMs0efuJaUoqTCnS) | 1:55 | 2026-09-03 |  |
 | [Surfboard](https://open.spotify.com/track/61APOtq25SCMuK0V5w2Kgp) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [The Genius of Esquivel](https://open.spotify.com/album/2cBovPqZGZkNfcsOfyajTj) | 2:56 | 2025-06-15 | 2025-07-04 |
 | [Swallow Flight](https://open.spotify.com/track/4CfbteEAn22sKkQzO26eVj) | [Jeanette](https://open.spotify.com/artist/2bJsPbaZmSrRcC01HHTHnW) | [Prefab in the Sun](https://open.spotify.com/album/5XblF8JPyv9aSmQx5qOcJ8) | 3:38 | 2026-03-12 | 2026-05-06 |
 | [Swallows Wings](https://open.spotify.com/track/5mHHXclA1wfLKDDokBP6dH) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 3:10 | 2024-11-21 | 2025-01-12 |

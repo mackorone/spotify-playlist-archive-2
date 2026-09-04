@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40 Cizzo p\u00e5 cover!!",
+  "description": "kun det nyeste danske rap \ud83d\udc40 Luko, Kris, Speedy p\u00e5 cover!!",
   "name": "rap dk",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 136551,
       "name": "24/7",
       "url": "https://open.spotify.com/track/3vv6DL1Pl8bf6GeUtL9Zjh"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 109306,
       "name": "26",
       "url": "https://open.spotify.com/track/5jT5wsWSCmQUYuqvrU879E"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178413,
       "name": "Adrenalin",
       "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
@@ -745,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Alfa",
+        "url": "https://open.spotify.com/album/4erLaIRMPmVcP2YETb4dgx"
+      },
+      "artists": [
+        {
+          "name": "Gigis",
+          "url": "https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112212,
+      "name": "Alfa",
+      "url": "https://open.spotify.com/track/1zXZkyC6npBZVP0XIqXgRQ"
+    },
+    {
+      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/4q9b01NjDHKoWv8HoolVya"
       },
@@ -796,7 +814,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 172160,
       "name": "ALLEREDE",
       "url": "https://open.spotify.com/track/7zemG7X02GuBnJEUiKj2RN"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 135141,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1NVupq5lOcX0PAlbcoauxy"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 66000,
       "name": "Bl\u00e5tone Freestyle",
       "url": "https://open.spotify.com/track/7LA6r6CFVaIJ0fuSpFCQ2j"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 130078,
       "name": "Chris Rock",
       "url": "https://open.spotify.com/track/10gpiwqeHRT2tA5tshcu4n"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 126183,
       "name": "COGNAC",
       "url": "https://open.spotify.com/track/4tbFTazzCGUll4DaUXSAp9"
@@ -2486,6 +2504,24 @@
       "duration_ms": 129229,
       "name": "CPH CITY",
       "url": "https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO"
+    },
+    {
+      "album": {
+        "name": "lestiny (deluxe)",
+        "url": "https://open.spotify.com/album/2iFGMTPdoCRLriVHPovkSo"
+      },
+      "artists": [
+        {
+          "name": "lesliecph",
+          "url": "https://open.spotify.com/artist/3iSL8E9gd8BN8qpxqmX4VE"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118240,
+      "name": "CVR nr",
+      "url": "https://open.spotify.com/track/5VWEyiesrywosbXAWnYeZi"
     },
     {
       "album": {
@@ -3051,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "don general",
+        "url": "https://open.spotify.com/album/1QkyYWXGFc0epRqDFLU3H7"
+      },
+      "artists": [
+        {
+          "name": "legobygger123",
+          "url": "https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145097,
+      "name": "don general",
+      "url": "https://open.spotify.com/track/6X0VZCGJKpoMGDYflITj4u"
+    },
+    {
+      "album": {
         "name": "Draco",
         "url": "https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v"
       },
@@ -3268,7 +3322,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 144000,
       "name": "DZEKO",
       "url": "https://open.spotify.com/track/5fep7kj81mJBXJKG383AQl"
@@ -3728,7 +3782,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194341,
       "name": "Europa Favela",
       "url": "https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v"
@@ -3776,7 +3830,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 161250,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/1Qf940bnF9nnS95GNClHFu"
@@ -3878,6 +3932,24 @@
       "duration_ms": 182190,
       "name": "FDH",
       "url": "https://open.spotify.com/track/3VNNWW4SLCCR0TnQGbRsJy"
+    },
+    {
+      "album": {
+        "name": "FDP",
+        "url": "https://open.spotify.com/album/2l49xPnlQDg0yvED38Fh8I"
+      },
+      "artists": [
+        {
+          "name": "Hadi",
+          "url": "https://open.spotify.com/artist/0B8EmxrRwwZwgQr219wMXg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152411,
+      "name": "FDP",
+      "url": "https://open.spotify.com/track/0eBBDwENzkwUEvL9fSSOsv"
     },
     {
       "album": {
@@ -4030,7 +4102,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177220,
       "name": "FIS & BALLADE (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
@@ -4285,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "Fork\u00e6l Dig Selv",
+        "url": "https://open.spotify.com/album/2stx77E9KPCSmP16fZhjes"
+      },
+      "artists": [
+        {
+          "name": "AMRO",
+          "url": "https://open.spotify.com/artist/3xEIG6DRJgC5iuCcAW0rTZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171227,
+      "name": "Fork\u00e6l Dig Selv",
+      "url": "https://open.spotify.com/track/2PjTqP87YekZAmMwABHcCz"
+    },
+    {
+      "album": {
         "name": "FORST\u00c5R DU? (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/5ZdiU7EZzlasLwknxeDSmT"
       },
@@ -4362,7 +4452,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 144000,
       "name": "fuck frejlev",
       "url": "https://open.spotify.com/track/4NRc74wcetGguuuGrg28h1"
@@ -4518,7 +4608,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 149000,
       "name": "Gemen",
       "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
@@ -6336,7 +6426,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 155385,
       "name": "Kastrup Freestyle",
       "url": "https://open.spotify.com/track/7wq3KkTArpwCzCXv72myB0"
@@ -6832,7 +6922,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151844,
       "name": "Lagkagehuset Freestyle",
       "url": "https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9"
@@ -7144,7 +7234,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 172111,
       "name": "Louisiana",
       "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
@@ -7268,7 +7358,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178347,
       "name": "L\u00e5st Inde",
       "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
@@ -9081,6 +9171,28 @@
     },
     {
       "album": {
+        "name": "RS",
+        "url": "https://open.spotify.com/album/24ievzyEp79KI4ehUQvUX2"
+      },
+      "artists": [
+        {
+          "name": "Forty",
+          "url": "https://open.spotify.com/artist/3KoqqxDnw3bcWJi0JAJZVl"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131470,
+      "name": "RS",
+      "url": "https://open.spotify.com/track/41SXvQoW23qO7P5MPakyG8"
+    },
+    {
+      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx"
       },
@@ -9246,6 +9358,24 @@
       "duration_ms": 142374,
       "name": "Savage Freestyle",
       "url": "https://open.spotify.com/track/32JoOp5OiMtHm2eGqoy1qc"
+    },
+    {
+      "album": {
+        "name": "SAY NO MORE",
+        "url": "https://open.spotify.com/album/41eWAwbm6TtOSrpvInIs2H"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "SAY NO MORE",
+      "url": "https://open.spotify.com/track/0IgcYmkuX43NutmVCP4rAZ"
     },
     {
       "album": {
@@ -9440,7 +9570,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 185700,
       "name": "Sig Det",
       "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"
@@ -9800,7 +9930,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 160000,
       "name": "Snik Snak (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/0Y3i5QMg6gkiNNXQl2fBAM"
@@ -10078,7 +10208,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 146335,
       "name": "Stil permanent",
       "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
@@ -10300,6 +10430,32 @@
       "duration_ms": 170192,
       "name": "Syreregn",
       "url": "https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2"
+    },
+    {
+      "album": {
+        "name": "S\u00f8rgeligt",
+        "url": "https://open.spotify.com/album/2ddrwtJSXymNrdrMb2Rg1I"
+      },
+      "artists": [
+        {
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
+        },
+        {
+          "name": "Speedy",
+          "url": "https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB"
+        },
+        {
+          "name": "Luko",
+          "url": "https://open.spotify.com/artist/0uGKxIisbdsSto48OwAa7I"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145888,
+      "name": "S\u00f8rgeligt",
+      "url": "https://open.spotify.com/track/2COUikllUFgSF0sh3uZWL5"
     },
     {
       "album": {
@@ -10532,7 +10688,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 131156,
       "name": "Topskud",
       "url": "https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG"
@@ -11033,6 +11189,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/2OzmJbLISAMEcBMf7n2ABT"
+      },
+      "artists": [
+        {
+          "name": "ATYPISK",
+          "url": "https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170811,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/1eNmBAqYzMUeLLsSDnnJKX"
+    },
+    {
+      "album": {
         "name": "Uwawe",
         "url": "https://open.spotify.com/album/2ZVe0lGPmsM1wRI0orXPXy"
       },
@@ -11440,6 +11614,24 @@
       "duration_ms": 163448,
       "name": "V\u00c5GEN",
       "url": "https://open.spotify.com/track/0imtF0Mddv5FVKQUUgcG3R"
+    },
+    {
+      "album": {
+        "name": "V\u00e6rd At V\u00e6lte For",
+        "url": "https://open.spotify.com/album/7tXAixcmjoV3DO57oMN0io"
+      },
+      "artists": [
+        {
+          "name": "Altid.Marcus",
+          "url": "https://open.spotify.com/artist/5LjjyYZXu49pFYb8uib12B"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "V\u00e6rd At V\u00e6lte For",
+      "url": "https://open.spotify.com/track/02waimjPfbCnqnshpxB6kF"
     },
     {
       "album": {

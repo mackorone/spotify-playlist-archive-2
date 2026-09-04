@@ -9615,6 +9615,40 @@
     },
     {
       "album": {
+        "name": "FOR OKINAWA (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+        "url": "https://open.spotify.com/album/4EcdHV5JYKnpOfuOZXso4j"
+      },
+      "artists": [
+        {
+          "name": "YAO",
+          "url": "https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "FOR OKINAWA (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+      "url": "https://open.spotify.com/track/03PGemRNLrjn9Efmy2y6OY"
+    },
+    {
+      "album": {
         "name": "Epic Narratives",
         "url": "https://open.spotify.com/album/46O2i0BEG8TfwidO1koxxO"
       },
@@ -10042,6 +10076,24 @@
       "duration_ms": 251176,
       "name": "futari no hanashi",
       "url": "https://open.spotify.com/track/7fzqrh9UJ4cW7KY70rtdVq"
+    },
+    {
+      "album": {
+        "name": "Futsutsukamonodesuga",
+        "url": "https://open.spotify.com/album/7u178eeSXcm2fDbKzCHfSp"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202600,
+      "name": "Futsutsukamonodesuga",
+      "url": "https://open.spotify.com/track/0982dRLal3bdbWESZYj9k3"
     },
     {
       "album": {
@@ -29028,7 +29080,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 271580,
       "name": "sunday driver - live",
       "url": "https://open.spotify.com/track/3BrRbfhDc58yfOtgbiM6U9"
@@ -61364,7 +61416,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 266366,
       "name": "\u82b1\u675f",
       "url": "https://open.spotify.com/track/2MhP1tqHPv71cqf2Tg1PtD"

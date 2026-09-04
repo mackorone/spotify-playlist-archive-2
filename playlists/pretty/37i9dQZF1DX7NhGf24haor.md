@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: ItaloBrothers & Da Tweekaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,958 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,043 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Conduct The Beat](https://open.spotify.com/track/2bGXVQocKA5YB3zFKtuPSH) | [Beat Conductors](https://open.spotify.com/artist/3gz47nHDk4wenoX6uVwSYe) | [Conduct The Beat](https://open.spotify.com/album/480xlWiLSYJbADd1cZopt4) | 4:06 |
 | 100 | [Freestyler](https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE) | [HOLY PRIEST](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [Freestyler](https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow) | 3:18 |
 
-Snapshot ID: `AAAAAFL6H+PJ7eCqAy1FCvtp2UpkoKqu`
+Snapshot ID: `AAAAAAWgQu+Zf9U70jwNUhS9FXIQgMqS`

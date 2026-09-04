@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887,326 likes - 75 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888,001 likes - 75 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Mashooqa \- From “Cocktail 2”](https://open.spotify.com/track/64KxZ9K8PYSQ9CVimLlqxK) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Ruaa Kayy](https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7) | [Mashooqa \(From “Cocktail 2”\)](https://open.spotify.com/album/6HfFAzpYVSb6z0cWQDPwac) | 3:50 |
 | 75 | [Leher \- From “Cocktail 2”](https://open.spotify.com/track/4wAqW3EgbbKtBnPxrNaxJh) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Leher \(From “Cocktail 2”\)](https://open.spotify.com/album/74iE48Q7Q7VdyrmalQkWRh) | 4:15 |
 
-Snapshot ID: `AAAAAJAMsc81Un9dysb4BIIEYLqjayw5`
+Snapshot ID: `AAAAAH55DzTUBmp4/ibAd+6BkLlt6rkx`

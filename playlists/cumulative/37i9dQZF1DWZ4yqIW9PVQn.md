@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-185 songs - 11 hr 13 min
+186 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [I Wanted To Say](https://open.spotify.com/track/0S1Dp45I35i17I9BvrTJBW) | [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [I Wanted To Say](https://open.spotify.com/album/3NhbBEQP5aPmmua8eqVB8V) | 3:22 | 2023-11-02 |  |
 | [I'm Not Okay](https://open.spotify.com/track/4HTwHAJvDUy9HkGle66RsB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/65ppWmFsBo0BnuIlHN5XIr) | 3:43 | 2022-11-01 | 2024-04-19 |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2024-03-08 |  |
+| [in your control](https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [in your control](https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF) | 2:19 | 2026-09-03 |  |
 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 | 2022-11-01 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z) | 3:03 | 2024-03-08 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2022-11-01 | 2024-04-19 |

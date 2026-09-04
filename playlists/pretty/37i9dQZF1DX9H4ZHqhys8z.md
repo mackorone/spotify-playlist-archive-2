@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,065 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,060 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Ftanoun Ta Lathi](https://open.spotify.com/track/41O2ystxvm0e27NSMKOx9p) | [Yanna Vasileiou](https://open.spotify.com/artist/2aG0LtkScINaBgvSuVxDfx) | [Ftanoun Ta Lathi](https://open.spotify.com/album/5gEMfJHxDYI5DSHO2VVB0v) | 4:06 |
 | 50 | [Moiraia Sxesi](https://open.spotify.com/track/6EVzux5bgLYbYQX5ge4vIO) | [Marina Lamprou](https://open.spotify.com/artist/7iUCXsxIGTBfPEqSgyhYe5), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Moiraia Sxesi](https://open.spotify.com/album/41e2nWPNJCnHRpIwlIIZMn) | 2:54 |
 
-Snapshot ID: `AAAAAJvcCH7sB9RnftXIVQb5s2Z1Nl1e`
+Snapshot ID: `AAAAAGgC1OI0VrnRCrrX+NKgpHPx6ypV`

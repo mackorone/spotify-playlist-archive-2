@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Skyla Tyla, Chlo\u00eb",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Simmy",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 438000,
       "name": "Nkosi Amakhosi",
       "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
@@ -5550,6 +5550,24 @@
       "duration_ms": 235000,
       "name": "One More Dance (feat. Mpho.Wav & Atmos Blaq)",
       "url": "https://open.spotify.com/track/13WESMIfueri5XdNagRGBg"
+    },
+    {
+      "album": {
+        "name": "eFairyland",
+        "url": "https://open.spotify.com/album/5P54EJoCqPyEluhWbWOMcu"
+      },
+      "artists": [
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230852,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/22qpuBNvo3l6FH7QsOBlbG"
     },
     {
       "album": {

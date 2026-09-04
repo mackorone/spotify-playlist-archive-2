@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122838,
+  "num_followers": 122830,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVuLNRdOVVi/1mRn1POgtYo77GI7R+",
+  "snapshot_id": "AAAVue+MJowXPD6e4SE4/qkkd5faZE+Z",
   "tracks": [
+    {
+      "added_at": "2026-09-03 17:52:19",
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/69Fpau0bfPCxI7A7ri8l6N"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/0YrjHqOcTwiTKMnFYYWGMz"
+    },
     {
       "added_at": "2026-09-02 17:17:34",
       "album": {

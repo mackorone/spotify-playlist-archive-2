@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,089,631 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089,613 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,8 +272,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 262 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
 | 263 | [If You're Not the One](https://open.spotify.com/track/1GR048FTHqQeSuiP1qszT3) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [If You're Not the One](https://open.spotify.com/album/7sYhnPHNLTUaZ77lhXnbGd) | 3:55 |
 | 264 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 |
-| 265 | [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 |
-| 266 | [Let Me Love You \- Andrew Watt Acoustic Remix](https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Andrew Watt Acoustic Remix\)](https://open.spotify.com/album/47ordPwmrLL0yhgijBbc6q) | 3:26 |
+| 265 | [Let Me Love You \- Andrew Watt Acoustic Remix](https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Andrew Watt Acoustic Remix\)](https://open.spotify.com/album/47ordPwmrLL0yhgijBbc6q) | 3:26 |
+| 266 | [A Thousand Miles \(Live Acoustic\)](https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Hear The Bells](https://open.spotify.com/album/5TacRpGPW76MMtfXge12OA) | 4:38 |
 | 267 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7faQiBLuTTOUUs8rNoA5ml) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Night Changes](https://open.spotify.com/album/7xRZJIwYJqOtv8CxNpy5A2) | 3:40 |
 | 268 | [Chasing Pavements \(Live at Hotel Cafe\)](https://open.spotify.com/track/5gcj6l37gMBeSAjFnSKeWh) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 | 269 | [This Is What It Takes](https://open.spotify.com/track/4xIZj7JRC3FnGPAjmkhNeW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:50 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Me And My Broken Heart \- Live](https://open.spotify.com/track/638gH54LMmiQzCYlazWYPM) | [Rixton](https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4) | [This Is Acoustic \(Live Session\)](https://open.spotify.com/album/4tNAgMDEjBucfA2tqoggu7) | 3:27 |
 | 300 | [Hurts So Good \- Live From The Studio](https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good \(Live From The Studio\)](https://open.spotify.com/album/7ahKxobHI1fMPSbhf9KvyP) | 3:22 |
 
-Snapshot ID: `AAAAAHQHAiFkmr4RyXBOqbTnoer2CNjc`
+Snapshot ID: `AAAAAEskjPDd08N8n30zisB0d9+u1qzq`

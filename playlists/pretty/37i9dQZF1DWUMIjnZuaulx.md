@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,493 likes - 80 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,681 likes - 80 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 |
 | 80 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 |
 
-Snapshot ID: `AAAAAI2h0hcLCPPCkQOR00GnPQe7lCBz`
+Snapshot ID: `AAAAAC1UZBNMABFn2rG6khCEqNDipZsd`

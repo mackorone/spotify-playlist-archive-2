@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,341 likes - 201 songs - 11 hr 56 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 143,350 likes - 195 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,11 +203,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 193 | [GODSPEED](https://open.spotify.com/track/1mLtR4wo2bIgTEnP9OMffU) | [CAPRICE LE MARAIS](https://open.spotify.com/artist/3jIBhE36DzBgYb0OY4ZwEC) | [AMEN](https://open.spotify.com/album/093HaDRe6KKIQJ6fomL6qu) | 2:34 |
 | 194 | [Alhaji \- Interlude](https://open.spotify.com/track/5Xg47xzaHdvPFlFfXkNClz) | [Khaliwayy](https://open.spotify.com/artist/3GhjdQ4x0JHSg73JYNYFoW) | [Italawá, Vol\. 1](https://open.spotify.com/album/6LJizNWA6LTRj4gGL5m1sY) | 2:42 |
 | 195 | [Get Funky \- Mattei & Omich Remix](https://open.spotify.com/track/7lwLR1o6qVxUmqc8IUwO8e) | [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c), [Mattei & Omich](https://open.spotify.com/artist/5qNEoHUXKgmtpA2hwKwRVC) | [Get Funky \(Mattei & Omich Remix\)](https://open.spotify.com/album/5m82yRbU0lIir8H45gtz7e) | 5:30 |
-| 196 | [The Nightlife](https://open.spotify.com/track/6EPMl9KnwZp4dspQKCHReF) | [Noble Ghost](https://open.spotify.com/artist/1M1tZoLQAchqvYbHVSgnxm) | [The NIGHTLIFE](https://open.spotify.com/album/0UcxG2ZjxFTM8G99OJRQcB) | 3:22 |
-| 197 | [Saw Red](https://open.spotify.com/track/2mDGP5s2McpUBjUvzf0WFr) | [Wanted Noise](https://open.spotify.com/artist/0ky0RnLH6ovRHbeKp71uuY), [Dani Petrunich](https://open.spotify.com/artist/3bFzoK8eESrEqn41w3W4xM) | [Saw Red](https://open.spotify.com/album/0NHVE7QtJEt1hfAuxR2Xvj) | 2:15 |
-| 198 | [El Sapo Argentino de Boca Ancha \- Mix 2 Ambient Version](https://open.spotify.com/track/3mD9V7MnXH4l5c7hTKRulg) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh) | [El Sapo Argentino de Boca Ancha \(Mix 2 Ambient Version\)](https://open.spotify.com/album/3jsO2CNnOK8zspgUgKVslN) | 5:42 |
-| 199 | [Outlaw](https://open.spotify.com/track/1F7ojBxZOKSzY2zOjMRcXR) | [L'VON](https://open.spotify.com/artist/4BIFlTyKfMZJXYNSRKekAq) | [Outlaw](https://open.spotify.com/album/71ekzcgs5LIOFU9HLA3QLO) | 3:10 |
-| 200 | [Unrequited Zone](https://open.spotify.com/track/2f0Y3OTB3hOmjk8UKO2Pdb) | [The Lizard Mixture](https://open.spotify.com/artist/3qisEBqBLwBJZsl8Bdxqud) | [Unrequited Zone](https://open.spotify.com/album/3S9u88kOfb2unUxXIx0vud) | 4:28 |
-| 201 | [Kid](https://open.spotify.com/track/228TiWAoLctAfBXt86KQQG) | [Zach Madden](https://open.spotify.com/artist/2QGt7Lf4zUJFBI6guVuU01) | [Kid](https://open.spotify.com/album/6cNjF1v3EslWkIOPgxz9DK) | 3:28 |
 
-Snapshot ID: `AAA+gW/SsW6pP9tRpCZ2Duqao/LAq//S`
+Snapshot ID: `AAA+gpm4+yy+J7nGuDveV59EoNIEkMMI`

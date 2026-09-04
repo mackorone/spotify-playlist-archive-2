@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,472 songs - 2 day 15 hr 22 min
+1,473 songs - 2 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1245,6 +1245,7 @@
 | [Take Me Far](https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV) | [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Take Me Far](https://open.spotify.com/album/1fgBP8xLHiTlxQ0Y0uWfDE) | 2:15 | 2024-09-23 | 2024-12-02 |
 | [Take Me Higher](https://open.spotify.com/track/7EuDg4t8Xo4Exrk7MxqPdX) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Take Me Higher](https://open.spotify.com/album/0Ijdp7RUQ4gEN0p5diiFVG) | 2:09 | 2024-06-21 | 2024-07-29 |
 | [Take Me Somewhere \(Warm\)](https://open.spotify.com/track/5LpFSrFNgTFFi5LRKiUF03) | [L.B\. One](https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT) | [Take Me Somewhere \(Warm\)](https://open.spotify.com/album/39gsN8ColB2I3l7FVpxmhW) | 2:47 | 2026-02-01 | 2026-06-08 |
+| [Take Me There](https://open.spotify.com/track/7zy7y4Z2jgH9xcBrSV7lPV) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [Take Me There](https://open.spotify.com/album/5DxAxfXkEH1MaG6AUmLdON) | 2:13 | 2026-09-03 |  |
 | [Take On Me](https://open.spotify.com/track/44FfFbdXaslXyZZq0INmlj) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4), [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [Take On Me](https://open.spotify.com/album/5C8oVbeyK1OTB20uH40wWS) | 2:34 | 2026-06-17 |  |
 | [Take You Higher](https://open.spotify.com/track/735qS1B80P22Z8f6SkZrbA) | [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Take You Higher](https://open.spotify.com/album/1h8mAy8Ijb7LCp9Qc6UUhO) | 2:14 | 2025-02-06 | 2025-07-08 |
 | [Takeaway](https://open.spotify.com/track/6PLkodpqG38f8oWIfmjQAj) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [Takeaway](https://open.spotify.com/album/4Du6UkyWI59xc7cYoO9k7g) | 2:49 | 2026-08-02 |  |

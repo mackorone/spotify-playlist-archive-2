@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Como la birria de Estela, hoy andamos al puro vergazo 🙏🏽✨ GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,195 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,303 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 74 | [Pensando](https://open.spotify.com/track/0D9fj14C2uoAQkQvNPHYIu) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [APRENDIMOS A JUGAR](https://open.spotify.com/album/0o67MloHFyp5sDhFbu4Z3A) | 2:32 |
 | 75 | [Manzo](https://open.spotify.com/track/5UX9tyla53H4UFXQeqx9rU) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Manzo](https://open.spotify.com/album/2h1hndSFNo3yRcyMSPsICH) | 2:32 |
 
-Snapshot ID: `AAAAAOrVRJMzTAetxxbdE4o9HYwFA+og`
+Snapshot ID: `AAAAADzHtsCRP9CZ9nt48IZi152WGCp+`

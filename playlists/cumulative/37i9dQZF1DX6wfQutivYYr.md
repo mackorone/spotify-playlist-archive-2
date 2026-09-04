@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Samurai Jay in cover della playlist con tutte le hit 🔥
+> Shiva in cover della playlist con tutte le hit 🔥
 
 362 songs - 18 hr 51 min
 

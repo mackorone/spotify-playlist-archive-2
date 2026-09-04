@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KAROL G, rusowsky, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,470 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,513 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 69 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
 | 70 | [Senses](https://open.spotify.com/track/7tLM1eOQl0yWkMIsn7rl3b) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Senses](https://open.spotify.com/album/1PAwFeMDuutYR9oBpaqumh) | 2:21 |
 
-Snapshot ID: `AAAAAFLAQWBp7ZrJRpaU0fJlH2LWoZYx`
+Snapshot ID: `AAAAAGykq8A9FudDmF5aK1dr7MCtB4vo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,444 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,449 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 69 | [Bones](https://open.spotify.com/track/73QszGGT4LFAs13Meka1TK) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp) | [Bones](https://open.spotify.com/album/21XaFlDNEWcXZA4fSZ2L3Q) | 2:07 |
 | 70 | [THE ROOM](https://open.spotify.com/track/6ANSECDHRzRtHZk5qpmPBE) | [The Slower I Go](https://open.spotify.com/artist/38rsfStCmtbbQYWajCB5bo), [Brooklyn Summer](https://open.spotify.com/artist/3zI21v7XfwzHfBu5g3CcNz) | [THE ROOM](https://open.spotify.com/album/5GPiORHDbMHnJIIA2PGd9O) | 3:31 |
 
-Snapshot ID: `AAAAAJFEnao7+TWtaVrHPVFVmrGTBzbQ`
+Snapshot ID: `AAAAADEIerCi9uZt6oG3u0klu/zWSbVa`

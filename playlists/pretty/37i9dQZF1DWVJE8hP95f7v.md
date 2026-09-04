@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,305 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,325 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Disco Tropical](https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Disco Tropical](https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR) | 3:07 |
 | 75 | [Poeira](https://open.spotify.com/track/0NBEUOXcxAYhirxbC8ibuX) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Poeira](https://open.spotify.com/album/1xi2xzHZgoXx4aujl8bbmD) | 2:59 |
 
-Snapshot ID: `AAAAADeahUiCFIKtzX3cxYQ2PQSd1d83`
+Snapshot ID: `AAAAALPBdvtRz0K5pcx9Gtis0LrOJkDk`

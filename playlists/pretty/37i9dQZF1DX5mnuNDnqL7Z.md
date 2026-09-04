@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,997 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,022 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [Hot Wet Delirious](https://open.spotify.com/track/30WDZKen0s4FtFe2EyqaCN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Hot Wet Delirious](https://open.spotify.com/album/48RvnMcydial0X4i7D4X8N) | 3:08 |
 | 100 | [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 |
 
-Snapshot ID: `AAAAACi88kEI+pyLXYxcPbcoozSJ2Npo`
+Snapshot ID: `AAAAACwmi/I2YpQ4VgYWzTBf0f7+6p3v`

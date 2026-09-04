@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,187 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,154 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 49 | [Moonlight](https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c) | [Jeremiah Tall](https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP) | [Where the Lore Began](https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9) | 1:51 |
 | 50 | [Boy Got It Bad \(Live with the Charleston City Choir\)](https://open.spotify.com/track/2tu4dVYXtD9D0hUMEHidp9) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Sugar Cane Sessions](https://open.spotify.com/album/7aeXHOQbK5fBT58INAtCz0) | 2:52 |
 
-Snapshot ID: `AAAAAGPFGqCRaAL9/yEAwmdvvAhnko//`
+Snapshot ID: `AAAAAI8yZvcbgg9W8oLSSnuwZA1XGlKJ`

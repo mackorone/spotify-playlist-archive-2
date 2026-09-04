@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,004 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,018 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 84 | [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 |
 | 85 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 |
 
-Snapshot ID: `AAAAAGI/PeAPPEvsN/SbRhn2zO+5sPz4`
+Snapshot ID: `AAAAALOw3KQE6HiOmtNKsGkNW5+w8JNI`

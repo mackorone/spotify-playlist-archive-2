@@ -4,7 +4,7 @@
 
 > 🍾
 
-300 songs - 17 hr 5 min
+301 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2022-12-08 | 2023-09-23 |
 | [Evelyn](https://open.spotify.com/track/5i4UA4g228xnpaT3s5N6Wi) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266), [Modern Living](https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9) | [Evelyn](https://open.spotify.com/album/5v1cWxcIv2WJdSoFo0TCZY) | 4:02 | 2026-06-12 |  |
 | [Every City Has a Rhythm](https://open.spotify.com/track/60RdcbaDxLrWs6m3y5vbAj) | [Lucas/Heaven](https://open.spotify.com/artist/599Nb6RNfq6sKpgVamulJT) | [Blues of the World](https://open.spotify.com/album/1FaopXOLIITSKrkzjxrOU2) | 4:20 | 2022-12-08 | 2023-09-23 |
-| [Everyone Moves To LA \(feat\. Felicia Douglass\)](https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Felicia Douglass](https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:57 | 2023-04-28 |  |
+| [Everyone Moves To LA \(feat\. Felicia Douglass\)](https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Felicia Douglass](https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:57 | 2023-04-28 | 2026-09-04 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/1zcblo8rJJqbUScTzNAayv) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Eclectic Dining](https://open.spotify.com/album/5nPMaHwFKXIe77Kpwm3KBq) | 4:36 | 2023-12-01 | 2024-01-29 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2022-12-08 | 2024-02-10 |
 | [Fails](https://open.spotify.com/track/12QZiplfufDnVSRBRQkYMk) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Fails](https://open.spotify.com/album/1dzvGtuUVKP0iMFdiLQI5s) | 3:39 | 2023-01-04 | 2024-07-27 |
@@ -232,6 +232,7 @@
 | [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 | 2025-03-13 | 2025-09-19 |
 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 | 2022-12-08 | 2023-12-02 |
 | [She Is Coming \- Jean Tonique Remix](https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [She Is Coming \(Jean Tonique Remix\)](https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP) | 3:37 | 2023-12-01 | 2024-05-04 |
+| [She Moves with the Wind](https://open.spotify.com/track/0p7tsPWzqArJ99Ckac4XSf) | [Nico Besso](https://open.spotify.com/artist/7DgJhLJPueRl1erDbNvjl8), [Barley Passable](https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM) | [She Moves with the Wind](https://open.spotify.com/album/7sMIwjbMMxROeFJS2v70x6) | 3:31 | 2026-09-03 |  |
 | [Shut Up and Let Me Go](https://open.spotify.com/track/37QOvoAg1EC0PgWnfMrRmi) | [The Ting Tings](https://open.spotify.com/artist/2wvUfjKGoXvcnDHq7GgMOa) | [We Started Nothing](https://open.spotify.com/album/1b9KEBOO7A5awr16aCd6VP) | 2:51 | 2022-12-08 | 2023-09-23 |
 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 | 2022-12-08 | 2023-09-23 |
 | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 | 2026-07-31 |  |

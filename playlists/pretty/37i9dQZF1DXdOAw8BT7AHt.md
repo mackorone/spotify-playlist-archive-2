@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Citizen
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,139 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,149 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 12 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
 | 13 | [Grey Guitar](https://open.spotify.com/track/32cShRFoAaiBBbaKWaOqB6) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 2:13 |
 | 14 | [Lying To Myself](https://open.spotify.com/track/6pCF34MslLygdtS1XKPlzk) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Lying To Myself](https://open.spotify.com/album/47WAuqQgA6C5yIjGtfcLMH) | 3:39 |
-| 15 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 15 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 16 | [One By One](https://open.spotify.com/track/04uFtjsSLNbsjenpmnlSK0) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Armour Of Angels](https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz) | 3:48 |
 | 17 | [Jerkin'](https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k) | 2:08 |
 | 18 | [The Way I Feel](https://open.spotify.com/track/0CtDXpf55FygKZeWkuX5Px) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [The Way I Feel](https://open.spotify.com/album/7BIBkAvDaaSvM3dnmy6g3u) | 2:51 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Balloon Man Running](https://open.spotify.com/track/5caj13UPdFrwoLX54LmEm5) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [Balloon Man Running](https://open.spotify.com/album/6bMfExA0QoaY7KgUaRc1i5) | 2:51 |
 | 125 | [ANIMAL](https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [ANIMAL](https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0) | 3:12 |
 
-Snapshot ID: `AAAAAJSmhML85HK8lwhuwldrGLNt6KY7`
+Snapshot ID: `AAAAAGcpaf2h1e7vUhq5VkvmF6vHKNf7`

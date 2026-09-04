@@ -1642,6 +1642,24 @@
     {
       "album": {
         "name": "Chiara",
+        "url": "https://open.spotify.com/album/4pg04JvDoQrtj5Rm9EaFzH"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179615,
+      "name": "Chiara",
+      "url": "https://open.spotify.com/track/5551U73Tlvael1eGzhINHD"
+    },
+    {
+      "album": {
+        "name": "Chiara",
         "url": "https://open.spotify.com/album/03IhA1ZKrQZYCtC1E1aq0q"
       },
       "artists": [
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 145464,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1byuhNxuaxTl2LUIkewV0t"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 211626,
       "name": "Falling Out",
       "url": "https://open.spotify.com/track/0mLO6w4IR2nfUwDlX6m66g"
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 262702,
       "name": "Hurry up and Wait",
       "url": "https://open.spotify.com/track/4UwRZVAyydIORHHzebnerV"
@@ -5099,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "How To Heal",
+        "url": "https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159944,
+      "name": "Justifi\u00e9",
+      "url": "https://open.spotify.com/track/20jkpxUiZLncjQCQQZG0pO"
+    },
+    {
+      "album": {
         "name": "Teary-Eyed",
         "url": "https://open.spotify.com/album/0mIPQTtZphFbz2dghvqxa4"
       },
@@ -5578,7 +5614,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196246,
       "name": "Long Year",
       "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
@@ -6178,7 +6214,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177376,
       "name": "Million de Mois",
       "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
@@ -7532,6 +7568,24 @@
       "duration_ms": 272933,
       "name": "Roccastrada",
       "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
+    },
+    {
+      "album": {
+        "name": "Roger Federer",
+        "url": "https://open.spotify.com/album/7IISafvSpBpXjPCK4Zy3ET"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143615,
+      "name": "Roger Federer",
+      "url": "https://open.spotify.com/track/6P2c3YRPeB1Hf8Rw4USLmL"
     },
     {
       "album": {
@@ -9478,6 +9532,42 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
+    },
+    {
+      "album": {
+        "name": "Dreaming & Drowning",
+        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
+    },
+    {
+      "album": {
+        "name": "Throw The Dice",
+        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
     },
     {
       "album": {

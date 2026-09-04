@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Ditonellapiaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,985 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,991 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 99 | [A parte me](https://open.spotify.com/track/239cYDy7zwE2yFqiswOtZL) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [A parte me](https://open.spotify.com/album/3ZvhNYl6OS0g2mju1aGcae) | 2:56 |
 | 100 | [Hala](https://open.spotify.com/track/4jmiQoFHUzC3B6qqR53Aib) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Zefiro](https://open.spotify.com/album/3VOsi9RXEkF1MLLmTXKyUw) | 1:59 |
 
-Snapshot ID: `AAAAAPEhOY4y6XuXMu2pQVBC17kX58lJ`
+Snapshot ID: `AAAAACzacW46eEshSKzM2FtAvr/neovf`

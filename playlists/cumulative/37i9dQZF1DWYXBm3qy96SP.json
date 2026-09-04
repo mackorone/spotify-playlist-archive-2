@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Warning",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Kasabian",
   "name": "Rock The World",
   "tracks": [
     {
@@ -6411,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7rD6S3nfNwM3PoVUUAsKsW"
       },
@@ -8825,6 +8843,24 @@
     },
     {
       "album": {
+        "name": "HOOMAN AFTER ALL",
+        "url": "https://open.spotify.com/album/5nm1PXUkNGH3nsNWL0sOJA"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217499,
+      "name": "DALALA",
+      "url": "https://open.spotify.com/track/3fOz3ecK1RMlPAZ3PYVqoM"
+    },
+    {
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/0KJjON2RBSj9lYukNSSEho"
       },
@@ -9878,7 +9914,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 207344,
       "name": "Die For You (feat. Neoni)",
       "url": "https://open.spotify.com/track/6XeNgLFQvhNZrF854ndrWL"
@@ -11137,6 +11173,24 @@
     },
     {
       "album": {
+        "name": "Dye My Hair",
+        "url": "https://open.spotify.com/album/2e17yDVpBl5Buq9GJ7LJzz"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "Dye My Hair",
+      "url": "https://open.spotify.com/track/62YLxkkdwBWRI0TKeSRcjt"
+    },
+    {
+      "album": {
         "name": "Dying To Love",
         "url": "https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj"
       },
@@ -11924,7 +11978,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 253556,
       "name": "Everything At Once",
       "url": "https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8"
@@ -16532,7 +16586,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179373,
       "name": "Holding Cell",
       "url": "https://open.spotify.com/track/3Eqllh5NI6t00WAlfgSrAo"
@@ -17721,6 +17775,28 @@
     },
     {
       "album": {
+        "name": "I Missed You More",
+        "url": "https://open.spotify.com/album/7xJz7wzcUPAc3hOBgjpbhF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        },
+        {
+          "name": "Nana Lourdes",
+          "url": "https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161730,
+      "name": "I Missed You More",
+      "url": "https://open.spotify.com/track/5U09Tvgshbkk0zhSGLKmOi"
+    },
+    {
+      "album": {
         "name": "I Need More Than This",
         "url": "https://open.spotify.com/album/2KZEqZKfzeHMa4tHObisRp"
       },
@@ -18670,7 +18746,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 337503,
       "name": "In the Ruins",
       "url": "https://open.spotify.com/track/3mJ58zxE8PT1j2tnpGLcA0"
@@ -19160,7 +19236,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 247373,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0"
@@ -20748,7 +20824,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 198626,
       "name": "Lazy (Radio 1 Evening Session 29th August 1996)",
       "url": "https://open.spotify.com/track/4nYPPsoi2NOZjOxvEVOmBk"
@@ -23214,6 +23290,28 @@
       "duration_ms": 160348,
       "name": "memories - demo",
       "url": "https://open.spotify.com/track/2xbPbYI0ggFDLZNt2uQRC7"
+    },
+    {
+      "album": {
+        "name": "Menquitofla",
+        "url": "https://open.spotify.com/album/1tYP36OUuRPJUwRk0a0XVB"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        },
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244558,
+      "name": "Menquitofla",
+      "url": "https://open.spotify.com/track/2zqkP9lyXLF5l5H52KLHK1"
     },
     {
       "album": {
@@ -26487,6 +26585,24 @@
     },
     {
       "album": {
+        "name": "OMG! I'm in love",
+        "url": "https://open.spotify.com/album/2Ev3gF1UyrOlw2f1Z94XlX"
+      },
+      "artists": [
+        {
+          "name": "Marta Vega",
+          "url": "https://open.spotify.com/artist/7KtHuw3e8j6LnA4PIHyhAr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213931,
+      "name": "OMG! I'm in love",
+      "url": "https://open.spotify.com/track/0Sr5UiPU4yn26MJ2fXacTS"
+    },
+    {
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y"
       },
@@ -29468,7 +29584,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 110346,
       "name": "rehearsed",
       "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
@@ -30864,7 +30980,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 163559,
       "name": "savior",
       "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
@@ -31960,6 +32076,24 @@
       "duration_ms": 209847,
       "name": "silent stranger",
       "url": "https://open.spotify.com/track/7tBbT0mu8TOhDciTPRsOMq"
+    },
+    {
+      "album": {
+        "name": "ACT III",
+        "url": "https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188556,
+      "name": "SILVER APPLE EYES",
+      "url": "https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY"
     },
     {
       "album": {
@@ -34266,7 +34400,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 218847,
       "name": "sunday driver",
       "url": "https://open.spotify.com/track/53Hc3XjCHfBDzz3ZsjBEhs"
@@ -34656,7 +34790,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 375642,
       "name": "Swallowed By The World",
       "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
@@ -35102,6 +35236,24 @@
       "duration_ms": 190986,
       "name": "Tap Water",
       "url": "https://open.spotify.com/track/2qBouPYIR4pbDlJZIJkSAl"
+    },
+    {
+      "album": {
+        "name": "Tastebud",
+        "url": "https://open.spotify.com/album/7EHiopdM9NogJSOcnZ1CAx"
+      },
+      "artists": [
+        {
+          "name": "Our Bodies",
+          "url": "https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260192,
+      "name": "Tastebud",
+      "url": "https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru"
     },
     {
       "album": {
@@ -36236,7 +36388,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 143177,
       "name": "THE RISING TIDE",
       "url": "https://open.spotify.com/track/3JDqHduzsN6uxm0pkM6GK2"
@@ -36980,6 +37132,24 @@
       "duration_ms": 264586,
       "name": "Time Is A Bomb",
       "url": "https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I"
+    },
+    {
+      "album": {
+        "name": "time loop at hot slit",
+        "url": "https://open.spotify.com/album/6pTyAyVoNqlOIEmDRPcgsZ"
+      },
+      "artists": [
+        {
+          "name": "PISS",
+          "url": "https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116783,
+      "name": "time loop at hot slit",
+      "url": "https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb"
     },
     {
       "album": {
@@ -39669,6 +39839,24 @@
     },
     {
       "album": {
+        "name": "Everything In Between",
+        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169306,
+      "name": "What The Hell",
+      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
+    },
+    {
+      "album": {
         "name": "What You Want (feat. Teezo Touchdown)",
         "url": "https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX"
       },
@@ -40347,6 +40535,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3w0DTk4Sbocn0So22geTLR"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245148,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4kwpYZxSMhp8sETJ77csWc"
+    },
+    {
+      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
@@ -40712,7 +40918,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 204690,
       "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
       "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"

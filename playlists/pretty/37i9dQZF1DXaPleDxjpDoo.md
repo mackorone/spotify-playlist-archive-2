@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,886 likes - 147 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,943 likes - 147 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 146 | [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 |
 | 147 | [Placid Creek](https://open.spotify.com/track/5c1dou6CFIqAkk2Dlp7ZHp) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [Placid Creek](https://open.spotify.com/album/6RT2AFbIMyhRSYY1A0rpW7) | 2:59 |
 
-Snapshot ID: `AAAAAJu5MoaX+i6CfFWGyL6E0QwfoTbK`
+Snapshot ID: `AAAAAJpZsLP3kS2EHEuDlzszwi+qi6FV`

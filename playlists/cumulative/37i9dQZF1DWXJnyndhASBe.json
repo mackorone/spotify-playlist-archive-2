@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Otsochodzi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: MJ Deli",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -684,6 +684,32 @@
       "duration_ms": 120902,
       "name": "4 RANO",
       "url": "https://open.spotify.com/track/0yeSXZ4we6LzZUyUhoGOIS"
+    },
+    {
+      "album": {
+        "name": "4BY4",
+        "url": "https://open.spotify.com/album/5Mc245Z1UuDgRRwuwwbtYE"
+      },
+      "artists": [
+        {
+          "name": "Waima",
+          "url": "https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp"
+        },
+        {
+          "name": "Kosela",
+          "url": "https://open.spotify.com/artist/2FOLmmSlTrVcpTM079S2QP"
+        },
+        {
+          "name": "krvchy",
+          "url": "https://open.spotify.com/artist/6qcwTqb6gTXBCQ97Avu4Xt"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129166,
+      "name": "4BY4",
+      "url": "https://open.spotify.com/track/0nvkADASF2fka8NsuI5HKW"
     },
     {
       "album": {
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 181669,
       "name": "ALEMANIA",
       "url": "https://open.spotify.com/track/4HgVCISnJsolKHepE0mDqx"
@@ -2448,7 +2474,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 143850,
       "name": "Bez nas nie zaczn\u0105",
       "url": "https://open.spotify.com/track/0JKgE70bTmWzRc4XJDxM3U"
@@ -6232,7 +6258,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 191366,
       "name": "DOOKO\u0141A \u015aWIATA",
       "url": "https://open.spotify.com/track/4MKqibeqzkEkNpnSV59zAa"
@@ -9510,7 +9536,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177269,
       "name": "I nic poza tym",
       "url": "https://open.spotify.com/track/7uS5OvsiezL2MMoPgOV2Qk"
@@ -11990,7 +12016,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 122460,
       "name": "Lato w Mie\u015bcie",
       "url": "https://open.spotify.com/track/0T02E8lkDyF5gdweCuMNYL"
@@ -13426,7 +13452,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 131764,
       "name": "Maybi",
       "url": "https://open.spotify.com/track/1bd5oTxUCLape7uo5HzI4e"
@@ -13544,6 +13570,28 @@
       "duration_ms": 143426,
       "name": "METROPOLIA",
       "url": "https://open.spotify.com/track/5Um0V0tyBiB9mWcMVdiApk"
+    },
+    {
+      "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/6g3PLC5PoW4u4RyaPY6kc0"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "MI AMOR",
+      "url": "https://open.spotify.com/track/1JLUBlDbfOzeWcAmhbiWT7"
     },
     {
       "album": {
@@ -14160,7 +14208,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177833,
       "name": "Moja wina",
       "url": "https://open.spotify.com/track/0fRuValcwoKXwOzFWeoR13"
@@ -14326,7 +14374,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 150638,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/6YlHCzWCGMSqjtXXSGtHjV"
@@ -17053,6 +17101,28 @@
     },
     {
       "album": {
+        "name": "OFFLINE",
+        "url": "https://open.spotify.com/album/6efkKiB2wfJGh8LuVMwZH1"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Culten",
+          "url": "https://open.spotify.com/artist/65bVKViLWdB93HvvxhbWwb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151999,
+      "name": "OFFLINE",
+      "url": "https://open.spotify.com/track/77VHmVziNOMJNQGWLUYXjo"
+    },
+    {
+      "album": {
         "name": "Offwhite",
         "url": "https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1"
       },
@@ -17749,6 +17819,32 @@
     },
     {
       "album": {
+        "name": "Overboost",
+        "url": "https://open.spotify.com/album/0dFTP9E9UYX7V4qdVtSEin"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "HA\u0141ASTRA",
+          "url": "https://open.spotify.com/artist/0NRJ3fz8s0ghIVciOUvnfm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Overboost",
+      "url": "https://open.spotify.com/track/7sYSvyJQ2TLEJc1O6p8AAs"
+    },
+    {
+      "album": {
         "name": "OWOCE 33",
         "url": "https://open.spotify.com/album/79A8llxxEItgvxqIzYMiIE"
       },
@@ -18093,6 +18189,28 @@
     },
     {
       "album": {
+        "name": "MANDA OFFSKIN",
+        "url": "https://open.spotify.com/album/47UPtQvQzIZm7N3WD6MLKJ"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        },
+        {
+          "name": "kidzlori",
+          "url": "https://open.spotify.com/artist/5vd5bcqLmwJKYag1wil888"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Patek Curse",
+      "url": "https://open.spotify.com/track/08uj91HNihONWCEOuNgjtc"
+    },
+    {
+      "album": {
         "name": "PATOLOGIA",
         "url": "https://open.spotify.com/album/2yhBlZ6D6pja76eC3TcQpY"
       },
@@ -18120,6 +18238,24 @@
       "duration_ms": 160851,
       "name": "PATOLOGIA",
       "url": "https://open.spotify.com/track/0QWc2l92ji2i4KLfwIhwPa"
+    },
+    {
+      "album": {
+        "name": "PAULO DYBALA",
+        "url": "https://open.spotify.com/album/4V0SSxIEDfohRBauveLbSE"
+      },
+      "artists": [
+        {
+          "name": "Asster",
+          "url": "https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "PAULO DYBALA",
+      "url": "https://open.spotify.com/track/1k1D74FCJ4GFR90Kgv2VSI"
     },
     {
       "album": {
@@ -18190,7 +18326,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 132134,
       "name": "PEGNG",
       "url": "https://open.spotify.com/track/5L6aHF5UK09ffXIrJ91mpO"
@@ -20025,6 +20161,36 @@
     },
     {
       "album": {
+        "name": "Rain Man",
+        "url": "https://open.spotify.com/album/5cFviZrVl6b1yb6UD8Dj8U"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134153,
+      "name": "Rain Man",
+      "url": "https://open.spotify.com/track/1bdYBOryMRzdk0NQ4Klm9H"
+    },
+    {
+      "album": {
         "name": "RAP",
         "url": "https://open.spotify.com/album/4PSXiixxn1Qhqofe4qwf05"
       },
@@ -20204,6 +20370,28 @@
       "duration_ms": 197938,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
+    },
+    {
+      "album": {
+        "name": "RED BULL 64 BARS",
+        "url": "https://open.spotify.com/album/1DbNDbr3NizI0NdaX5iSyk"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211851,
+      "name": "RED BULL 64 BARS",
+      "url": "https://open.spotify.com/track/62uPooqlz5eELqyv675VlW"
     },
     {
       "album": {
@@ -21078,7 +21266,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 174590,
       "name": "Scorpios",
       "url": "https://open.spotify.com/track/67xRoQgpem0trU1vxxztt9"
@@ -21560,7 +21748,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178974,
       "name": "SMAK S\u0141\u00d3W",
       "url": "https://open.spotify.com/track/4EAcGvh1fmwdefBhtgDyEF"
@@ -24845,6 +25033,28 @@
     },
     {
       "album": {
+        "name": "WILD WEST",
+        "url": "https://open.spotify.com/album/5Hu21Z1nDPeZuiHqNJzBmt"
+      },
+      "artists": [
+        {
+          "name": "MJ Deli",
+          "url": "https://open.spotify.com/artist/4zlJMomtDhz5jPYQC0UNhE"
+        },
+        {
+          "name": "Suwal",
+          "url": "https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "WILD WEST",
+      "url": "https://open.spotify.com/track/4cIA1xpUKGRVgM7A4sLpLk"
+    },
+    {
+      "album": {
         "name": "WINDA",
         "url": "https://open.spotify.com/album/2knARC8w1MvrZTslE9lhSL"
       },
@@ -25156,6 +25366,24 @@
       "duration_ms": 199694,
       "name": "WRAK",
       "url": "https://open.spotify.com/track/5yMCVbmvy0BvOWNjghN5en"
+    },
+    {
+      "album": {
+        "name": "Wr\u00f3\u017cka",
+        "url": "https://open.spotify.com/album/3asXmFeGtPaLxXFyExlBnY"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Wr\u00f3\u017cka",
+      "url": "https://open.spotify.com/track/2AjajXHPeI8GvSFDb4gsnD"
     },
     {
       "album": {
@@ -25886,6 +26114,32 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"
+    },
+    {
+      "album": {
+        "name": "Zapach",
+        "url": "https://open.spotify.com/album/7JhcP0myYthnGJdHMD96qn"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Baby Nerro",
+          "url": "https://open.spotify.com/artist/5tZMd0pUPmQ0ydcd5Vrl16"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Zapach",
+      "url": "https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4"
     },
     {
       "album": {

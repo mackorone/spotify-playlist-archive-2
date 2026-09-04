@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-153 songs - 8 hr 59 min
+155 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Change For You](https://open.spotify.com/track/0iuUwK6kO67xQOnpfJfFqj) | [Thomas Middleton](https://open.spotify.com/artist/1HcsUB7B1DTIU64tHULLz7) | [Change For You](https://open.spotify.com/album/2aelgW9quJQ4R0vX3VKD7S) | 3:15 | 2025-11-15 | 2025-11-29 |
 | [Colour My World](https://open.spotify.com/track/71oa4wZfOjlnOwAUeAqOfX) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Colour My World](https://open.spotify.com/album/1RpyhntbtxI5mlhZUpSJNl) | 3:45 | 2023-08-31 |  |
 | [Connection](https://open.spotify.com/track/5PIMT5y3kj7o3a8lTWUcd2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:07 | 2026-08-30 |  |
+| [Course of the River II](https://open.spotify.com/track/1Ym7uKRF82D9igPwtV3ciA) | [Paul Vens & Friends](https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0) | [Course of the River II](https://open.spotify.com/album/2tFdBog1x4Kla6Nvgj3NvX) | 4:20 | 2026-09-03 |  |
 | [Coyote Howl](https://open.spotify.com/track/7dB1gha0kwFTigalVv14Zz) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [Coyote Howl](https://open.spotify.com/album/5opN4qPpTo05LTfAFn7ViZ) | 4:21 | 2026-08-21 |  |
 | [Cuts](https://open.spotify.com/track/23Wu4cjs9APJzWD44ybIHm) | [Sanguine](https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f) | [Cuts](https://open.spotify.com/album/4FPBbuGr3gCJcm0mSekbBS) | 2:56 | 2024-10-05 |  |
 | [Different Approach](https://open.spotify.com/track/2f0ro4Gw0bhWF2oaDiZZNC) | [Ogi Feel the Beat](https://open.spotify.com/artist/03ODvxPFTYW0NS7wnXclYG) | [Hope](https://open.spotify.com/album/1xxF2Cudch1wn1NjSgX1iR) | 2:30 | 2024-06-19 | 2026-02-02 |
@@ -123,6 +124,7 @@
 | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/track/5dBK0PW5RhFFadnUBNprNE) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Summer Suite \(Shoegaze Version\)](https://open.spotify.com/album/4RIrZGJyoh1Rmo1ekcIjTb) | 2:55 | 2026-06-05 |  |
 | [Summer Suite \- Neon Puls Shifter Sunshine Remix](https://open.spotify.com/track/5oSO2F7a3e5ggjFHBAOfzZ) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Neon Puls Shifter](https://open.spotify.com/artist/4jQrmdTGBHPgf0hFEgkZIQ) | [Summer Suite \(Neon Puls Shifter Sunshine Remix\)](https://open.spotify.com/album/4jrghTrXNnSFfIJbuoJC8J) | 2:58 | 2026-08-06 |  |
 | [Sunny](https://open.spotify.com/track/40Jg0pluUomkkLyOf15ASw) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Sunny](https://open.spotify.com/album/2egQZgPXU5yneuJgHNhknv) | 2:11 | 2026-06-05 |  |
+| [SUNWAVES](https://open.spotify.com/track/2RpBR5iXf8mDkVXTTAf4rC) | [Dolly Demeli](https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU) | [SUNWAVES](https://open.spotify.com/album/0hCRjKMKlt7hx73Z9jmqJ1) | 2:09 | 2026-09-03 |  |
 | [Superbloom](https://open.spotify.com/track/0LLLu9OpHI8woWnSJrWm72) | [Carolyn Barela](https://open.spotify.com/artist/07eQgknO4HhywtQGVoW50f), [Catty.L](https://open.spotify.com/artist/68FNAoroAsIuNLoecJRIZP) | [Superbloom](https://open.spotify.com/album/32P8hqUIsWNZn0gAZAfNkm) | 3:08 | 2024-06-02 |  |
 | [Supernova](https://open.spotify.com/track/351yKe99zqflE5qfy3ayUI) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Supernova](https://open.spotify.com/album/0eM9W8Okzfd8E5Istxo9F2) | 3:59 | 2026-08-30 |  |
 | [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 | 2026-06-06 |

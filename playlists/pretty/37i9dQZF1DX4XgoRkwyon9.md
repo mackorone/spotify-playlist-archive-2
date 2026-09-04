@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Mujeres a todo volumen, ahora en video\. Sólo para usuarios Premium\. BLAIR en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,704 likes - 29 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,702 likes - 29 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 28 | [Frágil \- EQUAL En Vivo CDMX](https://open.spotify.com/track/7ycQyDGUp7Yns2mqzPfjwd) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Frágil \- EQUAL En Vivo CDMX](https://open.spotify.com/album/2wC0rRsGhYFUDhoCZZW58f) | 4:40 |
 | 29 | [Dharma \(Live Video\)](https://open.spotify.com/track/4ZDNHHL8JQPzSuxSGUZx9i) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [DJ KL Jay](https://open.spotify.com/artist/2Et154w5eRQcTdRj3399BF), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Dharma \(Live Video\)](https://open.spotify.com/album/5rwYhCdIJ9STTFkegMa3Jo) | 2:22 |
 
-Snapshot ID: `AAAAALZbHvXEANk5aLUodc71X8I22jvC`
+Snapshot ID: `AAAAAJDUfAL6z0lhMY4IpNW1a/9smbEt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: WENDY, JUN\. K\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,721 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,720 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Waves \(feat\. Simon Dominic & Jamie\)](https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk) | 2:44 |
 | 50 | [What Is This Feeling? \(with BANG YEDAM\)](https://open.spotify.com/track/5i1JrZ25HK3J4ePjrGp8OZ) | [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [In my room.](https://open.spotify.com/album/0PKO6PT9dVPmv0E7aEPYlV) | 2:20 |
 
-Snapshot ID: `AAAAAKafcg0P2ETujGrVKCpEVM2nxY75`
+Snapshot ID: `AAAAAFizFY0WkqM8CRC9RUDwAWqBj+ik`

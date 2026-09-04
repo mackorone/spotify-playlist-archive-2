@@ -4,7 +4,7 @@
 
 > SPINGERE
 
-342 songs - 16 hr 39 min
+343 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Ciao Proprio](https://open.spotify.com/track/6lw2NIhX8ThiL1PUUhmqpe) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Autumn Beat \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GIe25Owi4l2aGJEdBLbIM) | 4:05 | 2024-01-02 | 2024-01-04 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-12-30 | 2023-01-11 |
 | [Closer \- Remix](https://open.spotify.com/track/68BKZi6RpZ8DDq8nBZCFCJ) | [Museekal](https://open.spotify.com/artist/4gt6bXbC0BlAvjc46zBpMS), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(Remix\)](https://open.spotify.com/album/1FmGhe79Csw8lfBMa0QBag) | 2:58 | 2022-12-30 | 2023-01-11 |
+| [COCORITA](https://open.spotify.com/track/7v8GJM7HT0up2rUrgCiNHq) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [COCORITA](https://open.spotify.com/album/7yVGK4WkKqcPYPxTlHJlAS) | 2:15 | 2026-09-03 |  |
 | [Codeine \(feat\. ANNA\)](https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:10 | 2025-01-02 |  |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-07-28 | 2023-12-15 |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL) | 3:17 | 2022-06-28 | 2025-07-14 |
@@ -283,7 +284,7 @@
 | [SAUDADE](https://open.spotify.com/track/0iZiYlVmMy4JqokUYBShIi) | [Kaio](https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1) | [QUE VIDA](https://open.spotify.com/album/2D7Q9GWyjMhMVq4IUiCVPb) | 2:27 | 2026-06-11 |  |
 | [SBLAO DANCE](https://open.spotify.com/track/5cAXDW7cWjwHxzViEoKajH) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 1:50 | 2025-01-02 | 2025-05-30 |
 | [SCENDI](https://open.spotify.com/track/4WownAAcTO8CA2EiTpDbdg) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq) | [SCENDI](https://open.spotify.com/album/36NB7Y2sU56XFcdLUhqJtU) | 1:55 | 2025-10-03 | 2026-07-10 |
-| [Sentir](https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:21 | 2025-07-13 |  |
+| [Sentir](https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:21 | 2025-07-13 | 2026-09-04 |
 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 | 2022-05-01 | 2025-01-03 |
 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 | 2022-05-01 |  |
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-12-30 | 2023-01-11 |

@@ -5395,6 +5395,28 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203334,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
+    },
+    {
+      "album": {
         "name": "It's My Beat",
         "url": "https://open.spotify.com/album/0yhh2KvH0f4P5fb4EuDdFX"
       },
@@ -6068,7 +6090,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 192866,
       "name": "Million Voices - Radio Edit",
       "url": "https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8"
@@ -8658,7 +8680,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 142173,
       "name": "Sweet Symphony",
       "url": "https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo"
@@ -10552,7 +10574,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 170624,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/6aln4oo2dKzZtkaAfsnmDs"

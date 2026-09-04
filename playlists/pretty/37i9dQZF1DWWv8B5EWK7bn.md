@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,899 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,913 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 |
 | 100 | [I Found You Out](https://open.spotify.com/track/49ezA0FoezKam78Q9ox8LR) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [I Found You Out](https://open.spotify.com/album/3zqN5OiRMyzX54xs0hZkkg) | 3:12 |
 
-Snapshot ID: `AAAAAHmUCYXhjflUeYYC7amV7xhslkRA`
+Snapshot ID: `AAAAAFZniNJj/gW9rNTE2DyilcEy9yi5`

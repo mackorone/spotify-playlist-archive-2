@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Ember Moat, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,926 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,014 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [You Were the Man](https://open.spotify.com/track/7jXX6xMAGlypdiMlJtvNuQ) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [You Were the Man](https://open.spotify.com/album/7r4UpAYwaEKh3o9u1VFZXL) | 3:41 |
 | 75 | [Goodyears](https://open.spotify.com/track/1UVvscGyDpcEjha8Ox0O8l) | [Gabe Walsh](https://open.spotify.com/artist/6umOdZsRiFfqL0o1bYbc4X) | [Goodyears](https://open.spotify.com/album/7amFBGsB6suoeiJp0uEwWC) | 3:33 |
 
-Snapshot ID: `AAAAAJo3HtAXxZJp4TxPZA+90AT8mCSP`
+Snapshot ID: `AAAAACsnMOYFHi2UbqKkXQMVwf7wKXdd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,742 likes - 191 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,865 likes - 191 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 190 | [El Silencio Rainy Night Lullaby](https://open.spotify.com/track/2cB2awcmamidiHJonRT7Np) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Rainy Mist](https://open.spotify.com/album/3sCxpIVautkBQCxwAXyvr9) | 2:13 |
 | 191 | [Ethereal Rains](https://open.spotify.com/track/57LeBd9g44zcR6vPAtN8XG) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Ethereal Rains](https://open.spotify.com/album/5ZbUVIpax8FPtl7HhQjhIU) | 2:33 |
 
-Snapshot ID: `AAAAADdEH5CHBb+mC0YA54h57dIy5aFr`
+Snapshot ID: `AAAAACUOb1UpRPz5DEX0p20RY6YWmjcY`

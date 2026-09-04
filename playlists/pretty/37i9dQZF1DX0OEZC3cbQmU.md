@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,334,987 likes - 75 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335,040 likes - 75 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Se eu Somente Te Tocar \- Ao Vivo](https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Se eu Somente Te Tocar \(Ao Vivo\)](https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9) | 4:55 |
 | 75 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 
-Snapshot ID: `AAAAALmWRbu9rFrdE0evUd8D0IvTf2J3`
+Snapshot ID: `AAAAAJt3aZ5xf1JbY1dmIM8iFdLAgT4t`

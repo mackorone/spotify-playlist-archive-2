@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: Ada Lea, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,958 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,965 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [PICK RIGHT](https://open.spotify.com/track/4f5wOf1GYhiEOVTijixs1l) | [Rose Adam](https://open.spotify.com/artist/7B102wjkKpOBdpMWnY24cW), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [PICK RIGHT](https://open.spotify.com/album/2TF80OUKQNu9VTjLf6UAFs) | 2:59 |
 | 50 | [Pwn'd!](https://open.spotify.com/track/4VJpqruxYOrc1kKCxDiNod) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Pwn'd!](https://open.spotify.com/album/2C8PnOlAPGFG5Kf5y4nBwN) | 1:28 |
 
-Snapshot ID: `AAAAAMhnxlYo0bxoCft5v0i1hSb+5avp`
+Snapshot ID: `AAAAACxAUfEtIVKoEEv9w4gnp0uf9WPq`

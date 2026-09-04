@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IntnW1oGeg.md) - [plain]
 | 27 | [Loose \- Korean Ver.](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 |
 | 28 | [Loose \- Korean Ver.](https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661) | 4:06 |
 
-Snapshot ID: `AAAAAJG9xQRAkmD1oBiF3g3mRKw3B1Of`
+Snapshot ID: `AAAAAMo4lwZq2pnf96LlQJiT/fSUZoBG`

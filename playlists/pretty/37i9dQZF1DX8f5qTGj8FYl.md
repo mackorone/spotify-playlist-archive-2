@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,455 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,462 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 102 | [Strawberry Mansion](https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:19 |
 | 103 | [Curse of the Haggis](https://open.spotify.com/track/4OYjYFuyf71Sy7XCI0feR2) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 5:56 |
 | 104 | [Confidence Game](https://open.spotify.com/track/3xz8R8cnKGkbuaaxlDY3I2) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj) | [Good Soul](https://open.spotify.com/album/2bQ5Y3cltP19QjFBAb1rBT) | 2:16 |
-| 105 | [Yes](https://open.spotify.com/track/5YytOCWoccBVzsETaXIqLU) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3), [Jordan Rose](https://open.spotify.com/artist/1EKM9MppWyNxJBWDxBqIra), [Itamar Gov Ari](https://open.spotify.com/artist/5mW7XJt3kIWZKBGSwkmeak), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Yes](https://open.spotify.com/album/2Gb6cb2tLhlhKcoaK7mvbC) | 2:06 |
+| 105 | [Yes](https://open.spotify.com/track/5YytOCWoccBVzsETaXIqLU) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3), [Jordan Rose](https://open.spotify.com/artist/1EKM9MppWyNxJBWDxBqIra), [Itamar Gov\-Ari](https://open.spotify.com/artist/5mW7XJt3kIWZKBGSwkmeak), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Yes](https://open.spotify.com/album/2Gb6cb2tLhlhKcoaK7mvbC) | 2:06 |
 | 106 | [100% uNCUT](https://open.spotify.com/track/6RduOh0GXXXpUIeSIfQsRI) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [100% uNCUT](https://open.spotify.com/album/2Y9ZisPgtvTKBu1ybahBKB) | 3:02 |
 | 107 | [Under Krameria](https://open.spotify.com/track/4xnhEYjnjGBMQIMk3Kq4u5) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch) | [Under Krameria](https://open.spotify.com/album/73NizEl5Omu4WrbBth8InD) | 3:54 |
 | 108 | [Giggle](https://open.spotify.com/track/3WIN9tTTMSddrex5ixq1DO) | [6ix Toys](https://open.spotify.com/artist/7k5NMuaLXe6SFdklcTWvXl) | [6IX Toys](https://open.spotify.com/album/6npwwHTOkAwTXSd54CKp3u) | 3:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Ethiopian Airlines](https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [The Black Stone Affair](https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE) | 4:00 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `AAAAAGP7L2mHq7gShz10jeZbdUN/Vntc`
+Snapshot ID: `AAAAAOMce/2lDuLiSe5SFJHqjbFMo37S`

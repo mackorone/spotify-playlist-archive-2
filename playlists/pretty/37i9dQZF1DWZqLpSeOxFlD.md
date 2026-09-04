@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,965 likes - 59 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,980 likes - 59 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 | 58 | [Fuck That](https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:24 |
 | 59 | [Whatever I Want \(Fuck Who's Watching\)](https://open.spotify.com/track/0d6RQcen3fnEVTWHES7IYy) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Government Plates](https://open.spotify.com/album/2EuKpzSQ9RQ2n06Iu0pDop) | 6:37 |
 
-Snapshot ID: `AAAAAAzmj4f1DQ7I7XKKPm2isHLXCqFQ`
+Snapshot ID: `AAAAANsEZe/+KgpJ83kfpdFyH2bfu2pD`

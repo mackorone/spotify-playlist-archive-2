@@ -1,91 +1,79 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105609,
+  "num_followers": 105614,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC4BtN4aDRJlYkRon1Q/r4MxF6cm",
+  "snapshot_id": "AAAAANHy9eeeMerhVaKJHCKbowUHkUgd",
   "tracks": [
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Du er min bror!",
-        "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4ULa0aHOjaDDSeKZHhM72m"
       },
       "artists": [
         {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Kn\u00e6gt",
-          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
         }
       ],
-      "duration_ms": 186347,
-      "name": "Du er min bror!",
-      "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
+      "duration_ms": 163430,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/5l0J0cKWIo0lBSGqXvyucp"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "den forbandede k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi"
+        "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+        "url": "https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F"
       },
       "artists": [
         {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        },
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
         }
       ],
-      "duration_ms": 171312,
-      "name": "den forbandede k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv"
+      "duration_ms": 175680,
+      "name": "Elsker Dig S\u00e5 Meget Jeg Ku' G\u00e5 I Stykker",
+      "url": "https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "Kender du det?",
-        "url": "https://open.spotify.com/album/3eARAq2wbsryfvn5LH1PVk"
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Jonah Blacksmith",
-          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 201285,
-      "name": "Kender du det?",
-      "url": "https://open.spotify.com/track/2GKQMFRuoxMbwhTfASwzXa"
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "KBH",
-        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
+        "name": "Hvem er det der gr\u00e6der nu?",
+        "url": "https://open.spotify.com/album/62Cgb8b3rKVaTFnok5oogd"
       },
       "artists": [
         {
-          "name": "Nik & Jay",
-          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
         }
       ],
-      "duration_ms": 175562,
-      "name": "KBH",
-      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+      "duration_ms": 168000,
+      "name": "Hvem er det der gr\u00e6der nu?",
+      "url": "https://open.spotify.com/track/6UngwLrGYSueVi0PPIUZpt"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Danser Med Minder",
         "url": "https://open.spotify.com/album/4OKdAIuWuRcuOzbBTRzmxJ"
@@ -101,23 +89,27 @@
       "url": "https://open.spotify.com/track/1ZOOtzolAVDQlzUf7thUZf"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/5EQhGB4q9JSwh2EYJwkn2m"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        },
+        {
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
         }
       ],
-      "duration_ms": 156856,
-      "name": "EMERALD EYES",
-      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+      "duration_ms": 192185,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/0Gn5ihOi3h3714FvTjvacN"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "V\u00c6RD AT ELSKE",
         "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
@@ -137,7 +129,27 @@
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Du T\u00e6nker Ik",
+        "url": "https://open.spotify.com/album/7igt4pYulB0WaDOS09uGrk"
+      },
+      "artists": [
+        {
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+        },
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Du T\u00e6nker Ik",
+      "url": "https://open.spotify.com/track/4tlykoJKn815JtDlqLMhti"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "My Body Isn't Ready",
         "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
@@ -153,23 +165,7 @@
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "serena joy",
-        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 185838,
-      "name": "serena joy",
-      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
         "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
@@ -189,7 +185,23 @@
       "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "serena joy",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 185838,
+      "name": "serena joy",
+      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
@@ -205,23 +217,7 @@
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "RESCUER",
-        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 199166,
-      "name": "RESCUER",
-      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "En Som Dig (feat. Bl\u00e6st, ADAAM & Back To Back)",
         "url": "https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs"
@@ -253,7 +249,39 @@
       "url": "https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/5JypvS2L6DJgtF86hdruuc"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 216263,
+      "name": "Deserve",
+      "url": "https://open.spotify.com/track/2Q1ovB8dkBxvoE09ZqWTEk"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Oh yeah?",
         "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
@@ -269,7 +297,7 @@
       "url": "https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
@@ -285,7 +313,7 @@
       "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju"
@@ -305,7 +333,7 @@
       "url": "https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
@@ -325,7 +353,23 @@
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "My Reckless Abandon",
         "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
@@ -341,7 +385,7 @@
       "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Chuck Timely & The Hourglass",
         "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
@@ -357,7 +401,7 @@
       "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
@@ -377,7 +421,7 @@
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "August 26",
         "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
@@ -397,7 +441,7 @@
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "SLEEP",
         "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
@@ -413,7 +457,7 @@
       "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "The Odyssey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR"
@@ -437,7 +481,7 @@
       "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh"
@@ -453,7 +497,7 @@
       "url": "https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
@@ -469,7 +513,7 @@
       "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Shen Mao",
         "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
@@ -485,7 +529,7 @@
       "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "WAVY",
         "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
@@ -505,7 +549,7 @@
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
@@ -521,7 +565,7 @@
       "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "When He\u2019s Gone",
         "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
@@ -537,7 +581,7 @@
       "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Happiness Anytime: Part 1",
         "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6M9wvGVM18YEhFnifiu4z0"
@@ -569,7 +613,7 @@
       "url": "https://open.spotify.com/track/1ZsuzTGF2ZNlfndPmwOgUD"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
@@ -585,7 +629,7 @@
       "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Don\u2019t Leave Me on the Dance Floor",
         "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
@@ -601,7 +645,7 @@
       "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Switchblade",
         "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
@@ -617,7 +661,7 @@
       "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
@@ -637,7 +681,7 @@
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Pay That Toll",
         "url": "https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh"
@@ -653,7 +697,7 @@
       "url": "https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
@@ -669,7 +713,7 @@
       "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Motivation",
         "url": "https://open.spotify.com/album/0UGWEKujXjDv8BKOgMrxQV"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
@@ -705,7 +749,7 @@
       "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
@@ -729,7 +773,7 @@
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
@@ -749,7 +793,7 @@
       "url": "https://open.spotify.com/track/0Clb3XajXVgdeTbwLgVmQ4"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Always on Your Side",
         "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
@@ -769,7 +813,7 @@
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Jeg Ka' Ik' M\u00e6rke Noget (feat. Thomas Helmig)",
         "url": "https://open.spotify.com/album/4q490xQL52UB8q289YHrw0"
@@ -789,7 +833,7 @@
       "url": "https://open.spotify.com/track/6rQtbOONmDKLD8mA1Dfbrr"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/34RSKUCy1a3HdbInB9fZFB"
@@ -805,7 +849,7 @@
       "url": "https://open.spotify.com/track/2jPemKGZd1HlPbL4OakoYl"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
@@ -825,7 +869,7 @@
       "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
@@ -845,7 +889,7 @@
       "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
@@ -865,7 +909,7 @@
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Portugal",
         "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
@@ -881,7 +925,7 @@
       "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Fix Your Face",
         "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
@@ -897,7 +941,7 @@
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Joven y Salvaje (with Bb trickz)",
         "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Reverse Psychology",
         "url": "https://open.spotify.com/album/5R7Qfo6NNy7PcVVZye32KE"
@@ -933,7 +977,23 @@
       "url": "https://open.spotify.com/track/0SN26lNl4kDUjil8Z7yLjq"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "KBH",
+        "url": "https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB"
+      },
+      "artists": [
+        {
+          "name": "Nik & Jay",
+          "url": "https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "KBH",
+      "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "De Der Dage (feat. KESI)",
         "url": "https://open.spotify.com/album/1O5THMplgRFfUbJxhxOdq4"
@@ -953,7 +1013,7 @@
       "url": "https://open.spotify.com/track/42LsVwhoT2WWQ7oKUu2Cko"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Sinner, Pt. 2 (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/5m3omg0e11FPu2E8j0Jcy0"
@@ -973,7 +1033,7 @@
       "url": "https://open.spotify.com/track/1iG7FrvACI1mnOC6zK9zP6"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/6WT3D17SOnrenCunzynCgK"
@@ -989,7 +1049,27 @@
       "url": "https://open.spotify.com/track/1MGrdDiI0RUOwTp9AZh1tJ"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "den forbandede k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/2euEkE8Y4mU3W2vzcZfEBi"
+      },
+      "artists": [
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 171312,
+      "name": "den forbandede k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/0o493HbZyZ44KzC7Ee4PXv"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Can\u2019t Take My Eyes Off You",
         "url": "https://open.spotify.com/album/5qaeuy8IGvzIbWxemcfYv2"
@@ -1005,7 +1085,7 @@
       "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "MINI SKIRT WARRIOR",
         "url": "https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB"
@@ -1025,7 +1105,7 @@
       "url": "https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Jordsk\u00e6lv",
         "url": "https://open.spotify.com/album/4OOeYf8qb1fJXXLXLMGgPm"
@@ -1041,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
@@ -1057,7 +1137,7 @@
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Siden Sidst (feat. Thor Farlov)",
         "url": "https://open.spotify.com/album/1QJQSfdaX2xcv0eL6XgHDd"
@@ -1077,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2N6w7gibQTRk1a8G9ENQ5e"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "V\u00c6RD AT ELSKE",
         "url": "https://open.spotify.com/album/3MhhbQdxCE9CiHRlcOV19O"
@@ -1093,7 +1173,7 @@
       "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Recommend",
         "url": "https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq"
@@ -1109,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "S\u00e6t Det Fri",
         "url": "https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr"
@@ -1125,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "N\u00e6stbedste L\u00f8sning",
         "url": "https://open.spotify.com/album/0nAwuiOXIblgTGkgQ4Ddl0"
@@ -1145,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6lPBwjIed03HiyRroOcJTm"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
@@ -1161,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Memory on the Run",
         "url": "https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS"
@@ -1177,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Kanten",
         "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
@@ -1193,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Saw You Dancing (feat. Mekdes)",
         "url": "https://open.spotify.com/album/3chlnAnMEJFNWkF3AI3gvS"
@@ -1213,7 +1293,27 @@
       "url": "https://open.spotify.com/track/6m22lzMOpPaYDvksxbGyxB"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Du er min bror!",
+        "url": "https://open.spotify.com/album/6iNbS5eb45c9Oq3jygPul8"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kn\u00e6gt",
+          "url": "https://open.spotify.com/artist/2ma469IFw27u95sH9V72l6"
+        }
+      ],
+      "duration_ms": 186347,
+      "name": "Du er min bror!",
+      "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Tongue Tied 2026",
         "url": "https://open.spotify.com/album/7vFTPSWojwkS4pSKDKpKM6"
@@ -1233,7 +1333,7 @@
       "url": "https://open.spotify.com/track/7mEjs3K2VjMmQ9hxCr454q"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL"
@@ -1249,7 +1349,27 @@
       "url": "https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
+      "album": {
+        "name": "Kender du det?",
+        "url": "https://open.spotify.com/album/3eARAq2wbsryfvn5LH1PVk"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Jonah Blacksmith",
+          "url": "https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr"
+        }
+      ],
+      "duration_ms": 201285,
+      "name": "Kender du det?",
+      "url": "https://open.spotify.com/track/2GKQMFRuoxMbwhTfASwzXa"
+    },
+    {
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "LILLA",
         "url": "https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA"
@@ -1265,7 +1385,7 @@
       "url": "https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Den lange vej",
         "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
@@ -1281,7 +1401,7 @@
       "url": "https://open.spotify.com/track/4ldNmxq83FHrijnyVjzkcS"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/0ZrqgQIzB8dt6p8EdbB6JU"
@@ -1301,7 +1421,7 @@
       "url": "https://open.spotify.com/track/7wUhEjy8rarp2c8G7lXs0W"
     },
     {
-      "added_at": "2026-08-28 09:13:10",
+      "added_at": "2026-09-03 23:00:25",
       "album": {
         "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
         "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
@@ -1315,126 +1435,6 @@
       "duration_ms": 179312,
       "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
       "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
-        "url": "https://open.spotify.com/album/2O851kvUcHCgPDMEKBOMCh"
-      },
-      "artists": [
-        {
-          "name": "HUGORM",
-          "url": "https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2"
-        },
-        {
-          "name": "Ghita N\u00f8rby",
-          "url": "https://open.spotify.com/artist/1y1c5O8MFc0EJ0s5WJUf66"
-        }
-      ],
-      "duration_ms": 250476,
-      "name": "HUGGET I STEN (feat. Ghita N\u00f8rby)",
-      "url": "https://open.spotify.com/track/4EaCmBlUdXEC42iwcsvn10"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "garantier.",
-        "url": "https://open.spotify.com/album/4xBFIoRkxoR3nXpl3lF8j9"
-      },
-      "artists": [
-        {
-          "name": "JONATHAN",
-          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "garantier.",
-      "url": "https://open.spotify.com/track/3xtRY4ijkPewGuBfIlbEhN"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "DU M\u00c5 IK G\u00c5",
-        "url": "https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 147451,
-      "name": "DU M\u00c5 IK G\u00c5",
-      "url": "https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "Circadian Rhythm",
-        "url": "https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE"
-      },
-      "artists": [
-        {
-          "name": "SKAI",
-          "url": "https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd"
-        }
-      ],
-      "duration_ms": 144451,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "Hvor du er",
-        "url": "https://open.spotify.com/album/5827zWSldtqm71hwFcsQml"
-      },
-      "artists": [
-        {
-          "name": "dreng&piger",
-          "url": "https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73"
-        }
-      ],
-      "duration_ms": 145778,
-      "name": "Hvor du er",
-      "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "T\u00e6ttere P\u00e5 Hende",
-        "url": "https://open.spotify.com/album/4X4omk579qRX2eKzj8UAa3"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        },
-        {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "T\u00e6ttere P\u00e5 Hende",
-      "url": "https://open.spotify.com/track/5g3MQe4UctqhsmR67BueRz"
-    },
-    {
-      "added_at": "2026-08-28 09:13:10",
-      "album": {
-        "name": "D\u00f8dvande",
-        "url": "https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 130749,
-      "name": "D\u00f8dvande",
-      "url": "https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9"
     }
   ],
   "unique_name": "De nye",

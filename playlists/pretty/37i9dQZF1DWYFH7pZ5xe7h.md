@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,112 likes - 70 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,121 likes - 70 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 | 69 | [Symphony No\. 7 in E Minor: I\. Langsam \- Allegro con fuoco](https://open.spotify.com/track/7kRZCzndQJeUNDRhKaFBV5) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Polish National Radio Symphony Orchestra](https://open.spotify.com/artist/62QURushyB5wug2XPwajwK), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Mahler, G.: Symphony No\. 7](https://open.spotify.com/album/2gfplXXrY0dMW9RGC2s6bn) | 20:50 |
 | 70 | [Das Lied von der Erde: II\. Der Einsame im Herbst \(the Lonely One in Autumn\)](https://open.spotify.com/track/2kTlRMiZlwwDlznr1QHDdY) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Jane Henschel](https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf), [Gregory Kunde](https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa), [Houston Symphony](https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG), [Hans Graf](https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV) | [Mahler: Das Lied von der Erde](https://open.spotify.com/album/689CxX81ICOdUz86g4PNms) | 9:30 |
 
-Snapshot ID: `AAAAAKbuvQJrJeMcPIgqMYsFoDYKutHR`
+Snapshot ID: `AAAAAIjYSCkOrU7WHlmg7uiPP+qBpSDn`

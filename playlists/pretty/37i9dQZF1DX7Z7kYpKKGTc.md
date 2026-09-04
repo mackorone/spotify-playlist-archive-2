@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 
 > The romantic side of classic rock and metal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,125 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,333 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Z7kYpKKGTc.md) - [plain]
 | 49 | [Strange Things](https://open.spotify.com/track/2fdByfikJFeIsV5irX5rIu) | [Black 'N Blue](https://open.spotify.com/artist/6PVybt9IzBGmVr8Md7EP08) | [Without Love](https://open.spotify.com/album/2Gb24RLBhF8NeX2qWka8nl) | 3:24 |
 | 50 | [Eye of the Storm](https://open.spotify.com/track/0rPOAr0WydCb79Wst4coUP) | [Smashed Gladys](https://open.spotify.com/artist/2tTLv0TNRgphagV0l8DOd4) | [Social Intercourse](https://open.spotify.com/album/2XeJkV31gkHByTrs4d3cP9) | 4:17 |
 
-Snapshot ID: `AAAAABi4Wb8nZDUbNEbeR43BH+ma9mg7`
+Snapshot ID: `AAAAAAb1Sc1fyhwoNzlxblkuzbPdwEh1`

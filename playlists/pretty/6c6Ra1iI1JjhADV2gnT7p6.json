@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60515,
+  "num_followers": 60520,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABWdqzXUXhRpGs2qp0tUCbEIjmVUzVu",
+  "snapshot_id": "AABWeIMiQCPGY8hMJ8QyBjOySgnCz56o",
   "tracks": [
     {
       "added_at": "2026-09-01 04:50:34",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2026-09-01 04:50:34",
       "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4lWP3ZgVPUVjnQ2TkmDmIJ"
-      },
-      "artists": [
-        {
-          "name": "Weather Happy",
-          "url": "https://open.spotify.com/artist/5yvCG5RkNewTyPeO4hPT30"
-        }
-      ],
-      "duration_ms": 171088,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/0c9uOjXSE8zHOH3IQDinIq"
-    },
-    {
-      "added_at": "2026-09-01 04:50:34",
-      "album": {
         "name": "Bugs Everywhere",
         "url": "https://open.spotify.com/album/2RbxULP9HgLqwMv4jNIhue"
       },
@@ -4899,6 +4883,22 @@
     {
       "added_at": "2026-09-01 04:50:34",
       "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4lWP3ZgVPUVjnQ2TkmDmIJ"
+      },
+      "artists": [
+        {
+          "name": "Weather Happy",
+          "url": "https://open.spotify.com/artist/5yvCG5RkNewTyPeO4hPT30"
+        }
+      ],
+      "duration_ms": 171088,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/0c9uOjXSE8zHOH3IQDinIq"
+    },
+    {
+      "added_at": "2026-09-01 04:50:34",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/46uimdq6x8z371vDic1uCp"
       },
@@ -5169,7 +5169,7 @@
       "artists": [
         {
           "name": "So Faint",
-          "url": "https://open.spotify.com/artist/42Uuxm6CDRbRaxDbwjq0C5"
+          "url": "https://open.spotify.com/artist/4e8juMvjWqqMxmKqpE7cwK"
         },
         {
           "name": "Hannah Georgas",

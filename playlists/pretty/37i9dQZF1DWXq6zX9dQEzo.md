@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,253 likes - 150 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,346 likes - 150 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [Look At Me Now](https://open.spotify.com/track/2IurA2kNqM5SksokM24EOa) | [Tylan1k](https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr) | [From the Secret Place](https://open.spotify.com/album/0YIamQNVsMlQQEHw22xwtA) | 2:35 |
 | 150 | [Day and Night](https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Day and Night](https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl) | 2:18 |
 
-Snapshot ID: `AAAAACCgIuH5h5IUlZX/AFrHHX1ljFXT`
+Snapshot ID: `AAAAAEXi4qGDiHd3UBnCByPFBsWsGHGL`

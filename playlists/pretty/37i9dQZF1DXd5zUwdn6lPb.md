@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,230 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,423 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Kesaillan idylli \(Summer Night's Idyll\), Op\. 16, No\. 2: Kesaillan idylli \[Summer Night's Idyll\] , Op\. 16, No\. 2 \[arr\. J\. Panula\]](https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw) | [Oskar Merikanto](https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd), [Camerata Finlandia](https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w), [Jorma Panula](https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi) | [Early One Morning](https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe) | 1:18 |
 | 100 | [Mendelssohns Lieder, S\. 547: Auf Flugeln des Gesanges \(from Op\. 34, No\. 2\)](https://open.spotify.com/track/3Mb9IoWbfxU27yEdxAUEDp) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Joseph Banowetz](https://open.spotify.com/artist/0ufn7M4jawS5MQ03CIluFo) | [Liszt Complete Piano Music, Vol\. 6: Complete Song Transcriptions of Chopin, Mendelssohn and Robert & Clara Schumann](https://open.spotify.com/album/4ajLFz7v94SsoNAPY5zCMF) | 3:19 |
 
-Snapshot ID: `AAAAAApyNlKY4kMjwah4p5KpjS0jxIyo`
+Snapshot ID: `AAAAABKvZa610Zmm3kHqR7dqhBThejMk`

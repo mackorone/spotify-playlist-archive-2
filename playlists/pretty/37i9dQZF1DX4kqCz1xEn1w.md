@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,297 likes - 150 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,294 likes - 150 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 149 | [Jesus Only You](https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK) | [London Gatch](https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah) | [Jesus Only You](https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy) | 4:43 |
 | 150 | [Hope Is Awake](https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Hope Is Awake](https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP) | 5:18 |
 
-Snapshot ID: `AAAAAGouFQmRmVk0ELq7VjF3pgsdMqxY`
+Snapshot ID: `AAAAADBTaFU9vjKF+OdoGauP4klYom5e`

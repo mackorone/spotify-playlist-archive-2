@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,202,690 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,202,451 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 50 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 |
 
-Snapshot ID: `AAAAAN3TmQUz1UCmvJn8M2oahmiCnp7l`
+Snapshot ID: `AAAAAG9KJSJvR6lQujM4VpQ/aONCMNUh`

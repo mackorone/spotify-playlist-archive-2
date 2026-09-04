@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,057 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,052 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w) | 3:08 |
 | 50 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 
-Snapshot ID: `AAAAAIqT5Tonjwhf73BKOM1E7OkjPpDt`
+Snapshot ID: `AAAAAMy1mZDgaxHW1yMNQXlN2O6ItY67`

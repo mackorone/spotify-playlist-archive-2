@@ -2005,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Arrested in Motion",
+        "url": "https://open.spotify.com/album/4oQGIHL7yVS7QDXt2hfKuw"
+      },
+      "artists": [
+        {
+          "name": "Velcrow",
+          "url": "https://open.spotify.com/artist/6OfQXn3J0He2JEn3SUks8K"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275559,
+      "name": "Arrested in Motion",
+      "url": "https://open.spotify.com/track/2EQFBuLfUE8e6gzQeJJ2id"
+    },
+    {
+      "album": {
         "name": "Goodbye, Hotel Arkada",
         "url": "https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK"
       },
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158200,
       "name": "as a dad",
       "url": "https://open.spotify.com/track/1Yb5oy9Wabb93GhUveyd3M"
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 269316,
       "name": "Bialystok",
       "url": "https://open.spotify.com/track/6izg1zwpwWMcngjHlOSHan"
@@ -9172,7 +9190,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182472,
       "name": "Fara",
       "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
@@ -10654,6 +10672,28 @@
       "duration_ms": 168523,
       "name": "Get Away From Me (I Think I'll Love You Soon)",
       "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
+    },
+    {
+      "album": {
+        "name": "Emotional Junglist",
+        "url": "https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/4s0WWsnbCvEtOjsFo6ZdkR"
     },
     {
       "album": {
@@ -12140,7 +12180,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 275121,
       "name": "Happy",
       "url": "https://open.spotify.com/track/3qOX9XtOD8qRqPs8VuEzE3"
@@ -15251,6 +15291,24 @@
     },
     {
       "album": {
+        "name": "I Think I'm Alone Now",
+        "url": "https://open.spotify.com/album/169LbqTjfkIFnKUEzS24WD"
+      },
+      "artists": [
+        {
+          "name": "Evil Graham Lee",
+          "url": "https://open.spotify.com/artist/0UViVVVkGY0YPFabZIpgLg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248960,
+      "name": "Is There Any Pedal Steel in Heaven?",
+      "url": "https://open.spotify.com/track/70w3VB6FEtPaMGe6NruVjP"
+    },
+    {
+      "album": {
         "name": "Is U",
         "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
       },
@@ -15796,6 +15854,24 @@
       "duration_ms": 211434,
       "name": "Jim Carol New Year",
       "url": "https://open.spotify.com/track/3UhXNJjt6Y0sNCEwwhoJnT"
+    },
+    {
+      "album": {
+        "name": "Life in Small Spaces",
+        "url": "https://open.spotify.com/album/6cxnTv2TQ4jt1mp7z2VNbO"
+      },
+      "artists": [
+        {
+          "name": "Black Marble",
+          "url": "https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211434,
+      "name": "Jim Carol New Year",
+      "url": "https://open.spotify.com/track/5pruTR1hy3YhPj5wUTD52G"
     },
     {
       "album": {
@@ -19448,7 +19524,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 258000,
       "name": "move",
       "url": "https://open.spotify.com/track/56PaK7eELIPEz0Zob6ycfG"
@@ -20288,7 +20364,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 265186,
       "name": "Night & day",
       "url": "https://open.spotify.com/track/4a02tSgArqLCoZdOBQIfKn"
@@ -20842,7 +20918,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 211494,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/3HQBl2IxewrUzb2h5aPxXT"
@@ -20948,6 +21024,24 @@
       "duration_ms": 273240,
       "name": "Off Goes The Light",
       "url": "https://open.spotify.com/track/7EqezifSDgoyiNnj7TPJYc"
+    },
+    {
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/0IqVhHU9cAtgNZ5TKBuCgH"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/6RBy9xh6ZTIsVKjMT74pEy"
     },
     {
       "album": {
@@ -23247,6 +23341,28 @@
     },
     {
       "album": {
+        "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
+        "url": "https://open.spotify.com/album/5SmSZtFGvZ4eHV75gahuLZ"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378945,
+      "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
+      "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
+    },
+    {
+      "album": {
         "name": "Raat Ki Rani",
         "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
       },
@@ -24094,7 +24210,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 209056,
       "name": "Rockcurry",
       "url": "https://open.spotify.com/track/2AFeJ0e0kAoKi3IVU4GkGk"
@@ -27604,7 +27720,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 122479,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/1OBbUquyHUKAs69fCzExok"
@@ -28273,6 +28389,24 @@
     },
     {
       "album": {
+        "name": "Materia",
+        "url": "https://open.spotify.com/album/4N18onGeiRu5uj3H7bSOl3"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278544,
+      "name": "The Laugh Is in the Eyes",
+      "url": "https://open.spotify.com/track/54UH8jnUysi7MAlVXScQKd"
+    },
+    {
+      "album": {
         "name": "Big Love Blanket",
         "url": "https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl"
       },
@@ -28910,6 +29044,28 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+    },
+    {
+      "album": {
+        "name": "Langeleik",
+        "url": "https://open.spotify.com/album/5OjpgIVAtyYPhXgPP3LUEG"
+      },
+      "artists": [
+        {
+          "name": "Joe Harvey-Whyte",
+          "url": "https://open.spotify.com/artist/63ud5HSE9cDZlEwQzw0C2j"
+        },
+        {
+          "name": "Geir Sundst\u00f8l",
+          "url": "https://open.spotify.com/artist/7mVOcdjvBq2ivxf3nOvWiC"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "The Tyburn",
+      "url": "https://open.spotify.com/track/3i63tQdnUab29Gdex4YO5Q"
     },
     {
       "album": {
@@ -32020,6 +32176,24 @@
       "duration_ms": 199585,
       "name": "Whizz Kids",
       "url": "https://open.spotify.com/track/2fsvVkilWkNwnkD7mI3P37"
+    },
+    {
+      "album": {
+        "name": "Hard Life",
+        "url": "https://open.spotify.com/album/4cFFdzzZUjj7pmx8VegJbM"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/6dSC4rr2zmwdi5ICy5F1eX"
     },
     {
       "album": {

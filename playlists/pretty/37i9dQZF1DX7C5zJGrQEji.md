@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 
 > Tracks crediting NATURE support its conservation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,603 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,620 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 | 67 | [Universal \(feat\. NATURE\)](https://open.spotify.com/track/1FiLR3xdD95WyN4XSX9rfY) | [Joshua Sam Miller](https://open.spotify.com/artist/2AWiZLYN8BaYhMJp9lfQ9j), [WHAIA](https://open.spotify.com/artist/52frXpqXCFxLGQIZ59V7LD), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Universal \(feat\. NATURE\)](https://open.spotify.com/album/6yRMDEcwvw3GNTgiBHGdDn) | 4:40 |
 | 68 | [Loved & Lost Reprise \(feat\. NATURE\)](https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP) | [Peter Hall](https://open.spotify.com/artist/19bzxsP2NNdd22wKEGhKIv), [Biophonica](https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Loved & Lost Reprise \(feat\. NATURE\)](https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL) | 4:34 |
 | 69 | [Wale Nze Mbong \(feat\. NATURE\)](https://open.spotify.com/track/66Cbh5T7nJ6pP6urJNospJ) | [Allen Anjeh](https://open.spotify.com/artist/2y1qlKit6uPc59VY12JZ0F), [Louis VI](https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Wale Nze Mbong \(feat\. NATURE\)](https://open.spotify.com/album/3vBkdTiLc7K3ukaltgS4EQ) | 3:40 |
-| 70 | [Running Water \(feat.NATURE\)](https://open.spotify.com/track/7lc1sk4MXZUvTvDvheOAaN) | [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [JLA](https://open.spotify.com/artist/5wXzqCUyrDwUrPPiOVBLC4) | [Running Water \(feat.NATURE\)](https://open.spotify.com/album/5AtZIB54Q1F6syKbjqiXM7) | 2:58 |
-| 71 | [Nightingale \(feat\. NATURE\)](https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G) | [Wildforms](https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nightingale \(feat\. NATURE\)](https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02) | 2:43 |
+| 70 | [Nightingale \(feat\. NATURE\)](https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G) | [Wildforms](https://open.spotify.com/artist/3JN5wydzHKvTzzn9R3Zy8a), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Nightingale \(feat\. NATURE\)](https://open.spotify.com/album/2rQTUrvNkzyhnMtlTMMN02) | 2:43 |
+| 71 | [Running Water \(feat.NATURE\)](https://open.spotify.com/track/7lc1sk4MXZUvTvDvheOAaN) | [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [JLA](https://open.spotify.com/artist/5wXzqCUyrDwUrPPiOVBLC4) | [Running Water \(feat.NATURE\)](https://open.spotify.com/album/5AtZIB54Q1F6syKbjqiXM7) | 2:58 |
 | 72 | [Breathe \(feat\. NATURE\) \- Ocean Edit](https://open.spotify.com/track/1SdqHTOuQsSl9I893o4iAr) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Breathe \(feat\. NATURE\)](https://open.spotify.com/album/4gr69bVV2WxDFAqYf3q2It) | 3:00 |
 | 73 | [Dew \(feat\. NATURE\)](https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn) | [NEBULAH](https://open.spotify.com/artist/3VsBG9lxz1YW1CK0hGGcmf), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Dew \(feat\. NATURE\)](https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo) | 4:17 |
 | 74 | [I Don’t Wanna Be Strong \(feat\. NATURE\)](https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [I Don’t Wanna Be Strong \(feat\. NATURE\)](https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4) | 3:17 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C5zJGrQEji.md) - [plain]
 | 98 | [Mochila \(feat\. NATURE\)](https://open.spotify.com/track/0U4RUiOXyefcndEljVRNZ9) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mochila \(feat\. NATURE\)](https://open.spotify.com/album/3fHgs3nLpja0vg8DeH8zLW) | 3:59 |
 | 99 | [Drumming With The Birds \(feat\. NATURE\)](https://open.spotify.com/track/2AJC2lX4uSIhSCET0j5oUr) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Antonio Sánchez](https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw) | [Drumming With The Birds \(feat\. NATURE\)](https://open.spotify.com/album/4IVCSMywbiG5wqJr7FtI2w) | 3:15 |
 
-Snapshot ID: `AAAAADbSyqrktwKaGz50FifeeotZIO3f`
+Snapshot ID: `AAAAAGjuidefYjOLRTjhZBdlLnHb0kY5`

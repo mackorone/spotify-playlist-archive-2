@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Angèle, Grand Corps Malade,  David Campana, Natasha St\-Pier, Phil Rxcket, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,196 likes - 98 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,197 likes - 98 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 97 | [Tout Le Monde](https://open.spotify.com/track/1finySiEWfRhJbF9YbMbSU) | [Rachel Dara](https://open.spotify.com/artist/3hF6E1ngi70xWEeDjFUYFJ) | [Tout Le Monde](https://open.spotify.com/album/48ZIzAwkze1rutccjnuU6t) | 3:45 |
 | 98 | [Bad vibes](https://open.spotify.com/track/66VhIWsixMkh4OXj8BFifW) | [Froztee](https://open.spotify.com/artist/34rfKmTt45H2yTQ7FtqICv), [Saje](https://open.spotify.com/artist/6zHxB91OwANJhj6tDKGOXV) | [Mauvais œil](https://open.spotify.com/album/6aiDOdB35YwK4io8IDJREh) | 2:35 |
 
-Snapshot ID: `AAAAAKxuC7r+wcTH6/Wsfl61opjMfNMN`
+Snapshot ID: `AAAAAPJJnJTi4IBoVwl7cDO7bBHfOoma`

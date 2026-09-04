@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Hadiqa Kiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,773 likes - 70 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,821 likes - 70 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 69 | [Sawaal](https://open.spotify.com/track/78ebXoVF2HmY4RfaO1Eyk5) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 6:00 |
 | 70 | [Ujaloun Mein](https://open.spotify.com/track/3DFT1hfyJl6FRKbvPmn1nn) | [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep) | [Ishq KI Subah](https://open.spotify.com/album/6yKEf5Fjf27qnreOm4adRB) | 4:31 |
 
-Snapshot ID: `AAAAAKYxGBFRnFSqVNInVzOPo1hSMZcl`
+Snapshot ID: `AAAAABfCd3hhqyT9VeTpHkuYGzr4EjCd`

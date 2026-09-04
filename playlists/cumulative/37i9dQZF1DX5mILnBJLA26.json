@@ -8944,7 +8944,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 392332,
       "name": "Drip Check",
       "url": "https://open.spotify.com/track/6s6kro07wntHV0DmnNUeUq"
@@ -12454,6 +12454,40 @@
       "duration_ms": 344000,
       "name": "Gugu X 10",
       "url": "https://open.spotify.com/track/77etO7fgb8PXW784ra02FT"
+    },
+    {
+      "album": {
+        "name": "Gumba Fire (feat. Mr JazziQ)",
+        "url": "https://open.spotify.com/album/2fsKLXdCsMSGXYGTvQiigD"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382300,
+      "name": "Gumba Fire (feat. Mr JazziQ)",
+      "url": "https://open.spotify.com/track/2PlkObdcr418UPobt3cufb"
     },
     {
       "album": {
@@ -21784,7 +21818,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 377154,
       "name": "Macashelana (feat. Twinnie Gee & KheKhe)",
       "url": "https://open.spotify.com/track/5mMpbWjwoaXucsGMeMpbKu"
@@ -40024,6 +40058,36 @@
       "duration_ms": 424834,
       "name": "Ungiphethe Kahle (feat. Nokwazi, Mawhoo, Mashudu & LeeArt)",
       "url": "https://open.spotify.com/track/7KwYLXSSMH8h5kVS3amYEj"
+    },
+    {
+      "album": {
+        "name": "Unglimazile",
+        "url": "https://open.spotify.com/album/14VEDjWRWikPrfy7ftsbQV"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Ag'zo",
+          "url": "https://open.spotify.com/artist/7fFBrQbrXeRMqudomlc0As"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "HouseXcape",
+          "url": "https://open.spotify.com/artist/7lL7OVH2xIEMq48zTSlaXk"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394626,
+      "name": "Unglimazile",
+      "url": "https://open.spotify.com/track/0koqf6YhDPe5bewag7Xoqw"
     },
     {
       "album": {

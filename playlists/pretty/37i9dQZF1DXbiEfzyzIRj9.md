@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック Cover: 80KIDZ \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,579 likes - 102 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,585 likes - 102 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 101 | [Joy Without Sound \- Sam Binga Remix](https://open.spotify.com/track/1gRuebdmI6NTVTm4LhzCyY) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Joy Without Sound \(Sam Binga Remix\)](https://open.spotify.com/album/1eEP9JSLS5XiSk4qciRKWm) | 4:52 |
 | 102 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
 
-Snapshot ID: `AAAAAGZpuMbaa4oZXc/CUrcmLUbXAWsM`
+Snapshot ID: `AAAAAIsxCovumsP/HMSpuCfkBiKCyrkK`

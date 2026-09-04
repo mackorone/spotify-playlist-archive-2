@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,919 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 50 | [Mutsuna](https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Mutsuna](https://open.spotify.com/album/4FTs7rrwjPManpg3KZM0SX) | 3:36 |
 
-Snapshot ID: `MiuV0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mizk+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

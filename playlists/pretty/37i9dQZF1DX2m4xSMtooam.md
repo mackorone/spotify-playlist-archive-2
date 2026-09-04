@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,238 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,332 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Too Marvelous for Words](https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Too Marvelous for Words](https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus) | 3:44 |
 | 100 | [Hello Like Before \- Bonus Track](https://open.spotify.com/track/6Botcg8CPcXpY5zgpsErgj) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Hello Like Before \(Bonus Track\)](https://open.spotify.com/album/1Hi0zlG2pt7VbooNIqsaTq) | 4:20 |
 
-Snapshot ID: `AAAAAAWOodyDa4jFeTSqHlIBJYC5cQqQ`
+Snapshot ID: `AAAAALhIT7K7oaKsORtybxU+JBQpzWW/`

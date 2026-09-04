@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-892 songs - 1 day 20 hr 18 min
+893 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
 | [Warrior](https://open.spotify.com/track/1vdBgZHuVCTG7YJZdY2FGr) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Warrior](https://open.spotify.com/album/2opw2lG8l1NSCREhRzT7U7) | 2:42 | 2025-10-20 |  |
 | [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 | 2024-07-03 |  |
+| [Watching You](https://open.spotify.com/track/1wOi7w4KdjJWvsxGDvqnTf) | [Silver Bullet](https://open.spotify.com/artist/0SEngfaDuGowIj9cDEN2yq), [Jess Cullity](https://open.spotify.com/artist/0zndkaVxTZEpHyXH5yk6nJ) | [Watching You](https://open.spotify.com/album/6HJGgHVXXV9B31lWKvoFXA) | 2:31 | 2026-09-03 |  |
 | [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 | 2024-02-28 |
 | [We Are](https://open.spotify.com/track/5sMEi6i03q7JUh2xRTL02D) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:56 | 2023-08-08 | 2023-12-14 |
 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-01-03 | 2024-07-19 |

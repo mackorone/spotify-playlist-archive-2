@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: HALCALI \*👉 <a href="https://spice.eplus.jp/articles/348671">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,190 likes - 82 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,210 likes - 82 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 81 | [KAKUMEI \(feat\. Memento Mori, Coyote & Urs\)](https://open.spotify.com/track/2Vw9qVxCH1h08Go3at3E7F) | [O.A.KLAY](https://open.spotify.com/artist/6ZHfoNoJGTIEavxh6j5fle), [Memento Mori](https://open.spotify.com/artist/5qe0oEyRYzElbiNl4oEtAu), [Coyote](https://open.spotify.com/artist/4qzD2HQi0FgmCeHIaVcGN9), [Urs](https://open.spotify.com/artist/7hLZ4TTuiX5H9BnacpvhbM) | [Nobody's Station II](https://open.spotify.com/album/2Fpfj8Q9t7mAM0guAQmMDO) | 4:08 |
 | 82 | [dear summer](https://open.spotify.com/track/5YJ7qIbmnDfQO9yA4cRloV) | [YOUNG GAGA GG DIOR](https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd) | [dear summer](https://open.spotify.com/album/5P6ZTkl3qrNDz0JO8pCUNV) | 2:01 |
 
-Snapshot ID: `AAAAAL+JlXvJ6EUxcy1keA0jVOR7eENt`
+Snapshot ID: `AAAAAH8pLtCbFWLqk9D7kjnAr05F2Pnm`

@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-441 songs - 1 day 1 hr 51 min
+443 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [It's Ok](https://open.spotify.com/track/1wbwAFuw1iQaYOHp3AQvmj) | [Helfer](https://open.spotify.com/artist/6ca6hQoFgRKbYyPURjPL0t), [Totemo](https://open.spotify.com/artist/6tUQYwxSVGcNxUYvxIkqJg), [Age Is a Box](https://open.spotify.com/artist/1O0pQLwyMDj4bq3SHtlqaQ) | [It's Ok](https://open.spotify.com/album/3g3n658KWC6touzYDjjHe3) | 2:51 | 2025-03-06 | 2025-03-21 |
 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 | 2025-05-01 | 2025-07-15 |
 | [Jealous](https://open.spotify.com/track/4XCwMJsnP7Xs2x6LXnrU7I) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Bullies At Recess](https://open.spotify.com/album/0NjUal9wf8btipY48XmpsJ) | 2:50 | 2025-05-15 | 2025-06-25 |
-| [Kinder](https://open.spotify.com/track/19bc0sQFWkTr9Wp8sfLrf3) | [Amalia Small](https://open.spotify.com/artist/4lXSnNZ4n54sSMFfedgxhc) | [Something New](https://open.spotify.com/album/2t1Vcdz9jrp1I6qSjN76Di) | 4:10 | 2026-07-09 |  |
+| [Kinder](https://open.spotify.com/track/19bc0sQFWkTr9Wp8sfLrf3) | [Amalia Small](https://open.spotify.com/artist/4lXSnNZ4n54sSMFfedgxhc) | [Something New](https://open.spotify.com/album/2t1Vcdz9jrp1I6qSjN76Di) | 4:10 | 2026-07-09 | 2026-09-04 |
 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 | 2025-12-11 | 2026-04-17 |
 | [Let Your Love](https://open.spotify.com/track/3gII3Lj0n7eNttRsa9qbn7) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7) | [Hope](https://open.spotify.com/album/0l2nqwARVKUviyTmgFnCyY) | 2:44 | 2026-06-04 | 2026-07-27 |
 | [Long Nails](https://open.spotify.com/track/34odfBsReyXTUAG9imPzvf) | [Gal De Paz](https://open.spotify.com/artist/77eDggSxjTCYZseu4fey1x), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke), [SHAKED MILLER](https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ) | [Long Nails](https://open.spotify.com/album/70GbvgyQT8n60pYLGFTCzG) | 3:37 | 2024-08-15 | 2024-09-13 |
@@ -147,7 +147,7 @@
 | [אדם ללא אדם](https://open.spotify.com/track/2p3MxQx5jEMJ97itxrd7tp) | [Hemi Rudner](https://open.spotify.com/artist/73Cuv6pUbmERHKWEGD4ffj) | [אדם ללא אדם](https://open.spotify.com/album/6AGcS4mQ2JzOzF0BGgEjjS) | 4:26 | 2024-09-26 | 2024-11-15 |
 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 | 2024-06-27 | 2025-02-10 |
 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 | 2025-09-18 | 2026-02-20 |
-| [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 | 2026-02-26 |  |
+| [אולי זה נגמר](https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [שחור זוהר](https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB) | 5:40 | 2026-02-26 | 2026-09-04 |
 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 | 2025-11-13 | 2026-07-03 |
 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 | 2024-09-26 |  |
 | [אופק רחוק](https://open.spotify.com/track/1wSRh9stFhDUh5KvNskQNa) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [אופק רחוק](https://open.spotify.com/album/3Pwc1TAhCwAckLxQGxnujo) | 4:16 | 2025-12-18 | 2026-01-16 |
@@ -277,6 +277,7 @@
 | [יהלום שחור](https://open.spotify.com/track/4mh3gz698j7UB2VBiSaDba) | [Ilai Ashdot](https://open.spotify.com/artist/17hPAjtRLK0X3JHXFnd5Sy) | [יהלום שחור](https://open.spotify.com/album/0cBpAxJKNhIUTSrVvV6SkW) | 2:58 | 2025-10-23 | 2025-11-07 |
 | [יום בהיר](https://open.spotify.com/track/0F9Vl6754aRNWaWTgEx2ej) | [Jonnie Shualy](https://open.spotify.com/artist/2fJSxSIbxHhQXxT6eOw0OU) | [יום בהיר](https://open.spotify.com/album/0TDJLD4ryYK94KouoTJ6ye) | 3:06 | 2026-07-02 | 2026-07-17 |
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-05-14 |
+| [יומולדת](https://open.spotify.com/track/0GL9PoiDvHf1GDQuTIRg2X) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [יומולדת](https://open.spotify.com/album/5ZtFKRNP2g5xnlAc2xWaJs) | 2:51 | 2026-09-03 |  |
 | [יונתן \(במקום הזה\)](https://open.spotify.com/track/3O3oZsTb905EMoryJyybhF) | [Koevary](https://open.spotify.com/artist/514hNDaF4aEem1kTBmnobn) | [יונתן \(במקום הזה\)](https://open.spotify.com/album/046oLUb3Qn74GvC7Vm3dmb) | 3:22 | 2025-10-23 | 2025-11-14 |
 | [יוצאת מהעיר](https://open.spotify.com/track/6sBH7Vy6LkWe1mz5zUQxQC) | [רוני בר הדס](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [עד שתצא הקשת](https://open.spotify.com/album/5CJaMNIMZ6OKMOUFqANmiV) | 3:08 | 2026-07-09 | 2026-07-24 |
 | [יותר לאט](https://open.spotify.com/track/32C8LMu8odyguxCRshtqwg) | [Dana Ivgy](https://open.spotify.com/artist/2S7fupwn9aMPnUYeufmRPd) | [יותר לאט](https://open.spotify.com/album/0B68jA6HhQbwVR6MibZmd0) | 2:56 | 2025-09-18 | 2025-11-07 |
@@ -419,6 +420,7 @@
 | [קיץ חורף מלחמה קפה](https://open.spotify.com/track/77t8YgeNsqDgoxaraC0Ugw) | [Hazeev](https://open.spotify.com/artist/7MdGSRyUhVXdHWOlTXRBSS) | [אני מקווה !](https://open.spotify.com/album/4r4O9JEXPxVcPDSCZTFAUM) | 2:06 | 2025-12-04 | 2025-12-19 |
 | [קרימינל](https://open.spotify.com/track/3tpI2k1hXu4dxOPtVQvlBr) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/3VhmehVwpYqJN1R3BFD2xA) | 2:51 | 2026-01-08 | 2026-03-08 |
 | [קשה לאהוב](https://open.spotify.com/track/7BNMlLhlsC1BejJU0IBOGU) | [Reines Girls](https://open.spotify.com/artist/2qW8QMeCVtQWaQNFFAIVgu) | [קשה לאהוב](https://open.spotify.com/album/1ozEtDSxEsVJWnEU0utXEY) | 3:52 | 2024-12-19 | 2025-01-10 |
+| [רעב לאהבה](https://open.spotify.com/track/5liw0YB0wOzpqA7TreHda8) | [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [אי אפשר לרצות את כולם](https://open.spotify.com/album/7ppvUfqFjuD3W6vMZtrk8q) | 3:55 | 2026-09-03 |  |
 | [רעבה כל הזמן](https://open.spotify.com/track/6pO2AfrI20RY1JrBtlE1WS) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כבד לי](https://open.spotify.com/album/18HIP8GSxtmQqSUFezgrx7) | 2:21 | 2026-07-09 | 2026-07-24 |
 | [שבתות וחגים](https://open.spotify.com/track/2st7mVorFZpOBrZEzeIt7a) | [Eran Tzur](https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY), [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7) | [סימנים מקדימים](https://open.spotify.com/album/3mPB7mDLvFypbUpMDX7FEd) | 4:25 | 2025-02-20 | 2025-05-16 |
 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [Yehuda Eder](https://open.spotify.com/artist/1q9k9hbLjVHv5XLEroG1am), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 | 2024-06-27 | 2025-03-21 |

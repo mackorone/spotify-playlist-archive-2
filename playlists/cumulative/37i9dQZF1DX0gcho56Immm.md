@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Tiffi M
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Fine
 
-324 songs - 18 hr 46 min
+327 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,13 @@
 | [2Tru](https://open.spotify.com/track/3FNqzfajzraT8aP5TuwL8N) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/0XV4H8McfOxCVsx145tRkd) | 3:51 | 2025-03-13 | 2026-01-24 |
 | [4th of July](https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [4th of July](https://open.spotify.com/album/1j5yIefEe1FhrxdJ6PI3EU) | 2:59 | 2025-03-13 | 2025-10-18 |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-03-13 |  |
+| [A Girl Who Needs A Brain](https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [A Girl Who Needs A Brain](https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP) | 2:02 | 2026-09-03 |  |
 | [a little too late](https://open.spotify.com/track/4PEvteEE1h2J3QlSygiaMU) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [first notes](https://open.spotify.com/album/1NEnCOAIgijOWsaiEojZXe) | 3:39 | 2026-03-12 | 2026-04-24 |
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-07 | 2025-11-22 |
 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 | 2026-02-06 |  |
 | [Affectionately](https://open.spotify.com/track/7CHwOqXYxWn7HGQl2OZq6H) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [Affectionately](https://open.spotify.com/album/4ZFOgsFW6cf2w0MzG4D4Cz) | 1:57 | 2025-03-13 |  |
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-06-26 | 2026-03-07 |
+| [All I Mean](https://open.spotify.com/track/4v4jbSJJa2oYBn046CjPZs) | [Bashir Billow](https://open.spotify.com/artist/5WkaOt8ljLuutoznP3PyNA) | [All I Mean](https://open.spotify.com/album/4TPy0ZQX3J1wdxyt9GamlC) | 0:56 | 2026-09-03 |  |
 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 | 2025-09-05 | 2026-05-01 |
 | [alone](https://open.spotify.com/track/4ELOtteyrWKxkUNTdMNQ09) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [Push](https://open.spotify.com/album/5cg9xsPpJYfjPeQOyUCpf0) | 3:27 | 2025-09-16 |  |
 | [Amephrey and Ontario](https://open.spotify.com/track/34pLkzjOYuPTC7Seq0bona) | [Jura](https://open.spotify.com/artist/7o47tXCHgjbz4cGuYgg7AM), [abji\_hypersun](https://open.spotify.com/artist/5t15kyeJJYD6BnJ6s8J1Rt), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V), [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S), [Kristoffer Raasted](https://open.spotify.com/artist/4dlJoZ0e3YkcKz4tWGJXfP), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC), [Helene Norup Due](https://open.spotify.com/artist/0o1fgVWvRNSPuuurEKVRWb) | [Formality Jerne\-Site](https://open.spotify.com/album/3XxXPVRE1E8aJGuYYNaKxn) | 5:31 | 2025-03-31 | 2025-10-18 |
@@ -97,6 +99,7 @@
 | [Ether](https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 4:32 | 2025-06-26 | 2026-05-09 |
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 | 2026-02-07 |
 | [Even God Gets Stuck In Devotion](https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q), [Austyn Wohlers](https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 3:36 | 2026-03-05 |  |
+| [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 | 2026-09-03 |  |
 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 | 2025-09-19 |  |
 | [Falling](https://open.spotify.com/track/0fThTgVxDDxhVlKFFxWmJh) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [reprises](https://open.spotify.com/album/7e139dy9f2osNgjowaJogS) | 4:17 | 2026-08-21 |  |
 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 |  |

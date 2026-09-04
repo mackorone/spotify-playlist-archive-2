@@ -27955,6 +27955,24 @@
     },
     {
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/5DxAxfXkEH1MaG6AUmLdON"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/7zy7y4Z2jgH9xcBrSV7lPV"
+    },
+    {
+      "album": {
         "name": "Take On Me",
         "url": "https://open.spotify.com/album/5C8oVbeyK1OTB20uH40wWS"
       },

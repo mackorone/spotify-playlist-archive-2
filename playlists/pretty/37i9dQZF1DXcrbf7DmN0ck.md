@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,556 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,554 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbf7DmN0ck.md) - [plain]
 | 41 | [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\) \- Instrumental](https://open.spotify.com/track/4SmmyuO68VtN2Fza6RV7p5) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\)](https://open.spotify.com/album/1M8dqwS44SI3vNniHl65Ct) | 4:38 |
 | 42 | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Iron Voice\) \- Instrumental](https://open.spotify.com/track/1RLf1nqKM3sspMXznc7b9B) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Iron Voice\)](https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg) | 3:33 |
 
-Snapshot ID: `AAAAAKi4DUeSFB/atdomr2GtZaMDx2OZ`
+Snapshot ID: `AAAAAKAlK3aIbcCy761k2Tmm01BhDqFN`

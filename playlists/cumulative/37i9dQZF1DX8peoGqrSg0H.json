@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NEW CHAYAPAK",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Offroad Kantapon",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "Free WiFi (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+        "url": "https://open.spotify.com/album/5wjmnS071ILpI5vf1zXyEp"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        },
+        {
+          "name": "\u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/2gFoJCiiRRFm81zelPZR8d"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221517,
+      "name": "Free WiFi (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+      "url": "https://open.spotify.com/track/5CA8IKh7jZPb1nOyM6NBEW"
+    },
+    {
+      "album": {
         "name": "Friend Next Door",
         "url": "https://open.spotify.com/album/2X7jpcgJ5afdns4gwAkeqB"
       },
@@ -1706,6 +1728,24 @@
       "duration_ms": 242926,
       "name": "FYI",
       "url": "https://open.spotify.com/track/1LFfkVLglHhytaZ2olU8I9"
+    },
+    {
+      "album": {
+        "name": "GaMe Of LoVE (\u0e40\u0e01\u0e21\u0e23\u0e31\u0e01)",
+        "url": "https://open.spotify.com/album/3UI0xuz7OI4tft1g6cqDLb"
+      },
+      "artists": [
+        {
+          "name": "butterfliiii",
+          "url": "https://open.spotify.com/artist/1bcnkGtaZZtiwwRYtXceZ9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103090,
+      "name": "GaMe Of LoVE (\u0e40\u0e01\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/1kZDJd7ljcfxoOLmvVuCxR"
     },
     {
       "album": {
@@ -1904,7 +1944,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195590,
       "name": "HARMONY",
       "url": "https://open.spotify.com/track/1DLG9IUdCcAil7iyk3b1CX"
@@ -3573,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "ONE PIECE",
+        "url": "https://open.spotify.com/album/31dHclou4ALbyLGnZx3jps"
+      },
+      "artists": [
+        {
+          "name": "SVRN",
+          "url": "https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237952,
+      "name": "ONE PIECE",
+      "url": "https://open.spotify.com/track/5UEV17A5Ym0CrJBTjYjFv8"
+    },
+    {
+      "album": {
         "name": "ONE SHOT (feat. PiXXiE)",
         "url": "https://open.spotify.com/album/1ljDIpbsXhr3N8WZlsU9xN"
       },
@@ -3736,7 +3794,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 255000,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW"
@@ -4716,7 +4774,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 190285,
       "name": "Take Our Time - From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\"",
       "url": "https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ"
@@ -5012,7 +5070,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 229000,
       "name": "TURN ME ON (feat. Tobii)",
       "url": "https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ"
@@ -5156,7 +5214,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 214285,
       "name": "wanna be yours (\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS"
@@ -5676,7 +5734,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169411,
       "name": "Your Candy",
       "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
@@ -7898,6 +7956,24 @@
       "duration_ms": 197319,
       "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e09\u0e32\u0e1b\u0e40\u0e18\u0e2d - Curse",
       "url": "https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2"
+    },
+    {
+      "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (\u0e41\u0e15\u0e48\u0e08\u0e30\u0e2b\u0e32\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+        "url": "https://open.spotify.com/album/02PaLNfai1kDhF24PCKr1v"
+      },
+      "artists": [
+        {
+          "name": "Offroad Kantapon",
+          "url": "https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (\u0e41\u0e15\u0e48\u0e08\u0e30\u0e2b\u0e32\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+      "url": "https://open.spotify.com/track/0S4UcVTTWezM0AX6xS4lUo"
     },
     {
       "album": {
@@ -11102,7 +11178,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 263606,
       "name": "\u0e22\u0e31\u0e07\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e40\u0e14\u0e34\u0e21\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21 (Same Old Song)",
       "url": "https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc"
@@ -12377,6 +12453,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e49\u0e21\u0e14\u0e35\u0e25 (From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\")",
+        "url": "https://open.spotify.com/album/43rQdJKUMVPzLXm6UqOh6h"
+      },
+      "artists": [
+        {
+          "name": "MARCKRIS OF BUS",
+          "url": "https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "\u0e25\u0e49\u0e21\u0e14\u0e35\u0e25 - From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\"",
+      "url": "https://open.spotify.com/track/3cdbM5cBGMu1gx92AFuCIW"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
         "url": "https://open.spotify.com/album/6FGIbgcEoo3V6nnMT6H0h8"
       },
@@ -13342,7 +13436,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 193777,
       "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
       "url": "https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy"
@@ -14199,6 +14293,24 @@
     },
     {
       "album": {
+        "name": "\u0e2e\u0e35\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e07\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e2b\u0e49\u0e32\u0e21 (His Angel) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/2fEN2VOTA3ut1gN506pzIN"
+      },
+      "artists": [
+        {
+          "name": "LEON BROCCO",
+          "url": "https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u0e2e\u0e35\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e07\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e2b\u0e49\u0e32\u0e21 (His Angel) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/73uCzdWUHRVsoFvX3hdZoZ"
+    },
+    {
+      "album": {
         "name": "\u0e2e\u0e35\u0e25\u0e43\u0e08 (Here For You)",
         "url": "https://open.spotify.com/album/2LvIsQRWHQOPjKUyWIPh1p"
       },
@@ -14578,6 +14690,24 @@
       "duration_ms": 201666,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e43\u0e08 - Liar",
       "url": "https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e09\u0e22\u0e40\u0e25\u0e22 (Just Like That) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e08\u0e38\u0e14\u0e08\u0e35\u0e1a\u0e2a\u0e32\u0e22\u0e21\u0e39 Unlucky Bae\"]",
+        "url": "https://open.spotify.com/album/1zlJRmqBv0VMaA1EIJ9SBu"
+      },
+      "artists": [
+        {
+          "name": "MAC NATTAPAT",
+          "url": "https://open.spotify.com/artist/0fZuWBb7LSa7p8btJi403C"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u0e40\u0e09\u0e22\u0e40\u0e25\u0e22 (Just Like That) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"\u0e08\u0e38\u0e14\u0e08\u0e35\u0e1a\u0e2a\u0e32\u0e22\u0e21\u0e39 Unlucky Bae\"",
+      "url": "https://open.spotify.com/track/2F1TOHM4K780vaPiVrvDl6"
     },
     {
       "album": {
@@ -15152,6 +15282,24 @@
       "duration_ms": 255957,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
       "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e25\u0e37\u0e21 (Glitch)",
+        "url": "https://open.spotify.com/album/7JsAvRU8UkbatN5XrC1lfb"
+      },
+      "artists": [
+        {
+          "name": "Emi Thasorn",
+          "url": "https://open.spotify.com/artist/3L0pX41yQ7PT7yB3ZfWfgk"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252115,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e25\u0e37\u0e21 (Glitch)",
+      "url": "https://open.spotify.com/track/6trcG8ThF81O2jm6bqdJ78"
     },
     {
       "album": {
@@ -17134,7 +17282,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 223469,
       "name": "\u0e43\u0e08\u0e27\u0e48\u0e32\u0e07",
       "url": "https://open.spotify.com/track/5pyicWosrnTxgKEOPMepdZ"
@@ -17580,6 +17728,24 @@
       "duration_ms": 211138,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e01\u0e31\u0e4a\u0e01\u0e2b\u0e23\u0e2d\u0e01 (Unlimited)",
       "url": "https://open.spotify.com/track/4rU6bimKj6hJFFKRd3iiGz"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+        "url": "https://open.spotify.com/album/37j3Ofcn7pBtbUe4pxOIPx"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202900,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+      "url": "https://open.spotify.com/track/0NV22uXDU0K7EIjKuhzoBy"
     },
     {
       "album": {

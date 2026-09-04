@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capim Lim\u00e3o",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -1035,6 +1035,28 @@
     },
     {
       "album": {
+        "name": "Cozinho de Noite",
+        "url": "https://open.spotify.com/album/6hzAbCqXhpUxNCuE0H1zJI"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
+        },
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202384,
+      "name": "Cozinho de Noite",
+      "url": "https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -1642,6 +1664,24 @@
       "duration_ms": 184653,
       "name": "Fica um Pouco Mais",
       "url": "https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m"
+    },
+    {
+      "album": {
+        "name": "Ficou Saudade",
+        "url": "https://open.spotify.com/album/05tb8yiaxwErUfzVJ9ovyv"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Won",
+          "url": "https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173765,
+      "name": "Ficou Saudade",
+      "url": "https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7"
     },
     {
       "album": {
@@ -3298,7 +3338,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 205238,
       "name": "Quanto \u00e9 Muito? (Atravessar)",
       "url": "https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m"
@@ -3682,7 +3722,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 222986,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn"
@@ -4041,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Talvez",
+        "url": "https://open.spotify.com/album/6D33oCE0ekAwAZw1leYVhj"
+      },
+      "artists": [
+        {
+          "name": "Bruna Foss",
+          "url": "https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/6vqmVqA8nc6IHBkDAGwkO3"
+    },
+    {
+      "album": {
         "name": "Te Beijei",
         "url": "https://open.spotify.com/album/5KWtMye0hULoCq2CZ5DBDP"
       },
@@ -4096,7 +4154,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 224134,
       "name": "Te Ver Superar",
       "url": "https://open.spotify.com/track/6jv4iTAifiW8IQfWQkBAjK"

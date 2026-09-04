@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,582 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,586 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 74 | [Let’s Sing Our Song](https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW) | [Jason Carter](https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [John Cowan](https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY) | [Let’s Sing Our Song](https://open.spotify.com/album/6CMRU9CtorShQRCTgKpYcz) | 3:59 |
 | 75 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 |
 
-Snapshot ID: `AAAAAGW9pThdfDE0WxgfllH3zWkwdCKv`
+Snapshot ID: `AAAAAGvGNlagcrcUZf4CcAWqnsCVTDwJ`

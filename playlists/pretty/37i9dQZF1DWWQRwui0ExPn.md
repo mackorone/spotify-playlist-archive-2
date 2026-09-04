@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,510,578 likes - 224 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,510,746 likes - 224 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 223 | [pillowloop](https://open.spotify.com/track/55mSGigZFY4BETnc0pJoKM) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [pillowloop](https://open.spotify.com/album/29UbrqkB8YmNXEXYSF0IQj) | 1:54 |
 | 224 | [Wassup](https://open.spotify.com/track/0zmgqoq5xsNkrYIgBCGR6F) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Wassup](https://open.spotify.com/album/35n2gEskJlOROatuhjjtBX) | 2:08 |
 
-Snapshot ID: `AAAAAGCrEymBfG0hrUvHZO2rWN1OsX/K`
+Snapshot ID: `AAAAAJ+KULGMsQ28hpXgRGUMC1wGh2y6`

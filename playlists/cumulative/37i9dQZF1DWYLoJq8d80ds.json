@@ -1779,6 +1779,28 @@
     },
     {
       "album": {
+        "name": "La del Proceso & For Fun",
+        "url": "https://open.spotify.com/album/1nqYlG2ggEXXurVnxzgSWQ"
+      },
+      "artists": [
+        {
+          "name": "Los MYE Cisneros",
+          "url": "https://open.spotify.com/artist/2WJFH6DvBGqoNKmhS5OFPp"
+        },
+        {
+          "name": "Maty y Emma Cisneros",
+          "url": "https://open.spotify.com/artist/0YYCNponwayrGtbh4Bz6C7"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100606,
+      "name": "La del Proceso",
+      "url": "https://open.spotify.com/track/5a5c1j324XzTB4j3g5nEDY"
+    },
+    {
+      "album": {
         "name": "La Gringa",
         "url": "https://open.spotify.com/album/70JjRfi0iqNze4DinXtLfy"
       },
@@ -3622,6 +3644,24 @@
       "duration_ms": 188909,
       "name": "Si Acaso Regresaras",
       "url": "https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO"
+    },
+    {
+      "album": {
+        "name": "Si Esta Casa Hablara / Y Para Qu\u00e9 Sufrir / \u00c9l No Va a Venir (En Vivo)",
+        "url": "https://open.spotify.com/album/59lEWCdwpqBa3qvTS6qCMa"
+      },
+      "artists": [
+        {
+          "name": "Tunay",
+          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288152,
+      "name": "Si Esta Casa Hablara / Y Para Qu\u00e9 Sufrir / \u00c9l No Va a Venir - En Vivo",
+      "url": "https://open.spotify.com/track/4Rils5YhHGqyEC8YRgDb8b"
     },
     {
       "album": {

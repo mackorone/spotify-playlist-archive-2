@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-344 songs - 19 hr 19 min
+345 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Romã](https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Romã](https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR) | 3:14 | 2023-12-11 | 2024-01-13 |
 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 | 2026-04-24 |  |
 | [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-09-22 | 2023-10-24 |
-| [Saudade](https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Saudade](https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8) | 3:56 | 2026-05-22 |  |
+| [Saudade](https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Saudade](https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8) | 3:56 | 2026-05-22 | 2026-09-04 |
 | [Se Acaso Você Chegasse](https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Se Acaso Você Chegasse](https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz) | 2:19 | 2024-11-01 | 2024-12-21 |
 | [Se Fosse Normal Ser Louco?](https://open.spotify.com/track/71gGD458tFryCohEK1iJy3) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz), [Cris Braun](https://open.spotify.com/artist/2JgOpjAclT7MnRKsYekXuf), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Cheio de Vazio](https://open.spotify.com/album/0WXeAvwodZTkZg1HpFVGr0) | 2:46 | 2022-04-01 | 2022-04-20 |
 | [Se Perder](https://open.spotify.com/track/4no2z9sJGD1O2iHCCDDgEC) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Se Perder](https://open.spotify.com/album/4elS2JhpQVGLNOH2Xr0pkg) | 3:12 | 2022-02-18 | 2022-07-28 |
@@ -302,6 +302,7 @@
 | [Só Quem Ama \- Ao Vivo](https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ) | [JV30 Tour, Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg) | 4:28 | 2024-11-01 | 2026-05-29 |
 | [Só um Tempo](https://open.spotify.com/track/6WxGNpMXhi5gNL2d1Kajss) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:44 | 2024-09-09 | 2024-09-13 |
 | [Só Vem](https://open.spotify.com/track/4OcpqJY4RHMa2BniHjrVqC) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:00 | 2023-10-13 | 2023-10-24 |
+| [Taiobeiras \(folha grande\)](https://open.spotify.com/track/2oAU8wm9DjY0hAXD2gH2lY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Taiobeiras \(folha grande\)](https://open.spotify.com/album/4CQt7a2x2cDrZEuygB2IHC) | 3:31 | 2026-09-04 |  |
 | [Talvez](https://open.spotify.com/track/4DTttAJhLbK1BgDGkkt4mz) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Talvez](https://open.spotify.com/album/3PUFPJuGMM6r5l2XpovLTz) | 3:38 | 2022-04-01 | 2022-04-21 |
 | [Tarde Em Itapuã](https://open.spotify.com/track/3TRHygiPoNih7jevgh7gPb) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mais Vinicius, Por Favor \(Volume 2\)](https://open.spotify.com/album/49kaXj81OvKvYJl8pyIOI0) | 4:53 | 2022-04-01 | 2022-04-18 |
 | [Te amar é massa demais](https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 4:04 | 2022-02-18 |  |

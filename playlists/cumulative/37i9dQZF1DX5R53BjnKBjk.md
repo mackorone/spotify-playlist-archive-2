@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Brasil](https://open.spotify.com/playlist/37i9dQZF1DX5R53BjnKBjk)
 
-> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
+> Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Camargo
 
-375 songs - 19 hr 23 min
+376 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [ALÔ](https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a) | [YASSIQ](https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr) | [YASSIQ](https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl) | 2:08 | 2022-09-30 | 2026-02-28 |
 | [Amanhecer](https://open.spotify.com/track/6pLe3v36K2JZQ83g5Tzqpf) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/0935Xbp9VAkdEFCHXIMGGu) | 4:23 | 2022-01-07 | 2022-02-26 |
 | [Amanhãs Azuis](https://open.spotify.com/track/7qA4lsz7AlbcdNN070OTAc) | [Infinito Latente](https://open.spotify.com/artist/270Y49rx1FEELCqFPMIwBN) | [Sem Início Nem Fim](https://open.spotify.com/album/4X8OdTAgIsHiFYItSm1k5D) | 3:53 | 2026-02-27 |  |
-| [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 | 2026-02-27 |  |
+| [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 | 2026-02-27 | 2026-09-04 |
 | [Amigo](https://open.spotify.com/track/100MjqTU5I7U0qPvYbrWFA) | [Junim](https://open.spotify.com/artist/2VSSpNdBUOGmNkrBLATwft) | [Amigo](https://open.spotify.com/album/0G1eZMhQdujsdZ5RSQQBYc) | 2:35 | 2023-11-30 | 2026-02-28 |
 | [Amor de Mar](https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Mano Lox](https://open.spotify.com/artist/3VlSOz5b2gEI7vXilAVtsO) | [Boemia, de Fato](https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd) | 2:56 | 2022-09-02 | 2026-02-28 |
 | [Amor de Sonhos](https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Amor de Sonhos](https://open.spotify.com/album/1DRENbKlmulnO5zfLi3ltI) | 2:37 | 2022-12-09 | 2026-02-28 |
@@ -196,6 +196,7 @@
 | [maré](https://open.spotify.com/track/4fghSNFHzImwfsva1GuU6i) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [maré](https://open.spotify.com/album/2hXOn1lmkUHmgzzveph39d) | 2:48 | 2026-08-14 |  |
 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 | 2026-02-27 | 2026-03-10 |
 | [Mau Contato](https://open.spotify.com/track/3t3Ris8Le34GdkYN8pkuRT) | [Valentim Frateschi](https://open.spotify.com/artist/3nCASD67QbI4gQnnXaaH1p), [Sophia Chablau](https://open.spotify.com/artist/5dYxYokvmpxCELXrTczKZR) | [ESTREITO](https://open.spotify.com/album/381rvZWdP52duY26DBlhVt) | 3:51 | 2026-02-27 |  |
+| [Me Devora](https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5) | [Sofia Pitta](https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0) | [Pureza Selvagem](https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww) | 3:08 | 2026-09-03 |  |
 | [Me Liga](https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk) | [GAROUÁ](https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN) | [Me Liga](https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM) | 2:56 | 2022-10-28 | 2026-02-28 |
 | [Medo de Mim](https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0) | [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Futurea](https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K) | 2:46 | 2022-10-07 | 2026-02-28 |
 | [meia volta](https://open.spotify.com/track/3uPnhYJOAw1lvwRewOLS8U) | [ursamenor](https://open.spotify.com/artist/3LRnqw1s1QkstgysFp0eyK) | [meia volta](https://open.spotify.com/album/5mJRNHDQf9db5gFTu9nD1W) | 3:45 | 2026-08-14 |  |

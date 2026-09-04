@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,477 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,474 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 99 | [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 |
 | 100 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
 
-Snapshot ID: `AAAAAKZU/L7TjdddE+8Mjx6hp3TVqFFK`
+Snapshot ID: `AAAAAHOtDa8ZxAnBc2CkzVi6kvkL6u5f`

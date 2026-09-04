@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Mastodon
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,001 likes - 208 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,027 likes - 208 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 54 | [Save Me](https://open.spotify.com/track/5310bRLzARarjcY3GpXfvr) | [Out Of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Save Me](https://open.spotify.com/album/0qUgZN6fQmHyv1U0EeIGga) | 3:36 |
 | 55 | [CAVEAT](https://open.spotify.com/track/15SJYlGt4lmUkDNnbNsv8P) | [Zilqy](https://open.spotify.com/artist/3khtQUSnVdyPIrmEdWVQC0) | [CAVEAT](https://open.spotify.com/album/2lPIZYSwrVxZx5L2ymgcZv) | 3:17 |
 | 56 | [Hak Ettiğin](https://open.spotify.com/track/1aKHIREHoUwlXwlGkErYEh) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w) | [Hak Ettiğin](https://open.spotify.com/album/41hkvJPTja8F6rYN03ucyX) | 2:55 |
-| 57 | [A Stitch In Time Saves None \(feat\. Telle Smith\)](https://open.spotify.com/track/3lnBu9YGUsAL3agDycgdYZ) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [Telle Smith](https://open.spotify.com/artist/3DefX0fquR1S2twqp0ui84) | [A Stitch In Time Saves None \(feat\. Telle Smith\)](https://open.spotify.com/album/61SIRArKywYZXeUKLm6Dh7) | 2:58 |
+| 57 | [A Stitch In Time Saves None](https://open.spotify.com/track/3lnBu9YGUsAL3agDycgdYZ) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [A Stitch In Time Saves None](https://open.spotify.com/album/61SIRArKywYZXeUKLm6Dh7) | 2:58 |
 | 58 | [Inertia](https://open.spotify.com/track/3FNnOevww96jOSkSSpxv6q) | [Eschalon](https://open.spotify.com/artist/1jl0oWAKZ8BNB7Z8bnG7aZ) | [Devour](https://open.spotify.com/album/4nD3MBjrjdiwKhy0wmA3jc) | 3:19 |
 | 59 | [Bound and Strangled by a Black Snake](https://open.spotify.com/track/7bEpD7rGbV6xPVhvGQTNoy) | [Perpetual Paradox](https://open.spotify.com/artist/3vlyYDsqLobvIrmuaQjNWh) | [May Misery Befall You](https://open.spotify.com/album/4XCmynZVytsWhadbA3oGrq) | 4:35 |
 | 60 | [Das Ende der Pflicht](https://open.spotify.com/track/1PsZS3BxXwcs8mHfWylraR) | [Asenblut](https://open.spotify.com/artist/1iuwMlGW6i8UojhyL0rQZi) | [Das Ende der Pflicht](https://open.spotify.com/album/1rGFWEjGi8iCYB40YGSt9s) | 3:47 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 78 | [closer](https://open.spotify.com/track/589yYhChCERbwuKmlvuCEy) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [The Pain Made Me Who I Am](https://open.spotify.com/album/0Sr4ZIwShhFsWmsGE5yMj7) | 3:00 |
 | 79 | [Solar Will](https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Solar Will](https://open.spotify.com/album/2QSu5aGc6EcfjTjQedZO5W) | 4:39 |
 | 80 | [Won't Be Disgraced](https://open.spotify.com/track/6uJ9pGm5d9ES3LBPylMTNb) | [God's Hate](https://open.spotify.com/artist/5vrN9cJHOufg1grCNms9WU) | [Won't Be Disgraced](https://open.spotify.com/album/5NGr1BDnmHkx8lsStTBQxd) | 4:19 |
-| 81 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 81 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 82 | [Death Knell](https://open.spotify.com/track/2q6Jydm21yyJPOKMsDkbRu) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Death Knell](https://open.spotify.com/album/36zwuiPPQPCKcZdOcHTpRe) | 3:51 |
 | 83 | [PUNISHMENT ROUTINE](https://open.spotify.com/track/1x8kAqmPBBBvvd4LPpBYdF) | [DOGBITE](https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs) | [PUNISHMENT ROUTINE](https://open.spotify.com/album/2Nygh4AJ3U2aTHUN53jav2) | 3:19 |
 | 84 | [do or die](https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [do or die](https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk) | 3:24 |
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 207 | [World Peace](https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [World Peace](https://open.spotify.com/album/2vzNhIF8eHFgcxorKf5vp0) | 2:13 |
 | 208 | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/track/6GxutaLTUYfJmA0TJJyLXA) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [Il Paradiso Della Regina Sibilla, Atto I: L’arrivo Del Cavaliere A\. De La Sale A Mons Daemoniacus](https://open.spotify.com/album/2kgjp0dQjMTfegAvLWSPm3) | 6:15 |
 
-Snapshot ID: `AAAAAHBSP6ARFfphsDgCDUYNOz/vRm6r`
+Snapshot ID: `AAAAABUmrUkSwSeIr04zDXEibY4vQHxn`

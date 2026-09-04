@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 157 | [Funk of Galáctico](https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Galáctico](https://open.spotify.com/album/3lYPfg8wwG6rEIzBeOXCDA) | 1:30 |
 | 158 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF) | 3:32 |
 
-Snapshot ID: `AAAAAPCmg9Ydw9NK23jwSnxMAPaZ6vmg`
+Snapshot ID: `AAAAAOmrJBn8ELAp9y/+e9O/LhS8owj+`

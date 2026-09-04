@@ -364,7 +364,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
@@ -852,6 +852,28 @@
       "duration_ms": 211632,
       "name": "Fever II",
       "url": "https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV"
+    },
+    {
+      "album": {
+        "name": "Fly Girl/ Merciful Lord",
+        "url": "https://open.spotify.com/album/06uhuWNoHfSFFbcx4DmMxM"
+      },
+      "artists": [
+        {
+          "name": "Criss Waddle",
+          "url": "https://open.spotify.com/artist/1gtDtTEHbCnZYwsz9Xltfc"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174872,
+      "name": "Fly Girl",
+      "url": "https://open.spotify.com/track/0ZSFZtlYSLteY7Boq2bvTY"
     },
     {
       "album": {

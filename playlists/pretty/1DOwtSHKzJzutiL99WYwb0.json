@@ -1,13 +1,125 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: KiiiKiii",
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: CHUNG HA",
   "num_followers": 756,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAIVuFodf3Euzh0R51KW6vb2O8eflK9",
+  "snapshot_id": "AAAIYcIX4Q8jOkJW028SjvuO8aHNTP47",
   "tracks": [
+    {
+      "added_at": "2026-09-03 02:41:42",
+      "album": {
+        "name": "M\u00e9xico",
+        "url": "https://open.spotify.com/album/18DhSaSrbJwTWKSSUybLtl"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/7B6hyoYY4ODxOqB2PkWW80"
+    },
+    {
+      "added_at": "2026-09-03 02:41:30",
+      "album": {
+        "name": "BLUE MODE",
+        "url": "https://open.spotify.com/album/5HlLi3jA4LjcDiQGYlUdeP"
+      },
+      "artists": [
+        {
+          "name": "TUNEXX",
+          "url": "https://open.spotify.com/artist/0QofePWBUVHkH00cC1gmpD"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "BLUE MODE",
+      "url": "https://open.spotify.com/track/1ZdXxnIZm6XIrE1Y1zW3qT"
+    },
+    {
+      "added_at": "2026-09-03 02:41:52",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/2XRfS9sTg9ncblI4SsJosi"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "duration_ms": 161246,
+      "name": "Like Fire",
+      "url": "https://open.spotify.com/track/0V3iJWPutcLhPId4q2LjxZ"
+    },
+    {
+      "added_at": "2026-09-03 02:42:06",
+      "album": {
+        "name": "I Still Remember",
+        "url": "https://open.spotify.com/album/1dYwmXtBVuRHgGG6uraXgJ"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "I Still Remember",
+      "url": "https://open.spotify.com/track/7LrfevzKppRJ6zGF56THpJ"
+    },
+    {
+      "added_at": "2026-09-03 02:42:30",
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b"
+    },
+    {
+      "added_at": "2026-09-03 02:42:44",
+      "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/0QGdRswv4CDMBFRWmmEwHF"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "duration_ms": 149985,
+      "name": "HOP",
+      "url": "https://open.spotify.com/track/6yHGLTae4jg3459vPQwSEp"
+    },
+    {
+      "added_at": "2026-09-03 02:42:55",
+      "album": {
+        "name": "BLINGY - The 7th Album",
+        "url": "https://open.spotify.com/album/15F7TMmAOkR9fK74bf0sUu"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Blingy",
+      "url": "https://open.spotify.com/track/1sDnTmOcxJYeZx26MpJ1kg"
+    },
     {
       "added_at": "2026-08-20 05:39:36",
       "album": {
@@ -1523,118 +1635,6 @@
       "duration_ms": 187000,
       "name": "Falling (Feat. Young K (DAY6))",
       "url": "https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw"
-    },
-    {
-      "added_at": "2025-11-21 05:11:06",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2VwK9HJ5y9KpKAnp2bOzek"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "M.O.",
-      "url": "https://open.spotify.com/track/2jp0nh8LhOihT6SbPfQGvb"
-    },
-    {
-      "added_at": "2025-11-21 05:11:22",
-      "album": {
-        "name": "AxMxP",
-        "url": "https://open.spotify.com/album/7CddXgLBio0ruzFJ31xmjj"
-      },
-      "artists": [
-        {
-          "name": "AxMxP",
-          "url": "https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "I Did It",
-      "url": "https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1"
-    },
-    {
-      "added_at": "2025-11-21 05:11:32",
-      "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
-    },
-    {
-      "added_at": "2025-11-21 05:11:47",
-      "album": {
-        "name": "COLOR - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/1tNgwDohccU3bCwaylqOQ0"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "COLOR",
-      "url": "https://open.spotify.com/track/7BRP4zawz4T1PhAdj2Nr4Z"
-    },
-    {
-      "added_at": "2025-11-21 05:11:57",
-      "album": {
-        "name": "IVE SECRET",
-        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "XOXZ",
-      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
-    },
-    {
-      "added_at": "2025-08-21 08:38:56",
-      "album": {
-        "name": "laundri",
-        "url": "https://open.spotify.com/album/0sxsewzGDZxhfVDklmezGT"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Goodbyes and Sad Eyes",
-      "url": "https://open.spotify.com/track/39eHEOhXdVh3tsxDyiAXnI"
-    },
-    {
-      "added_at": "2025-08-21 08:39:12",
-      "album": {
-        "name": "From JOY, with Love - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Love Splash!",
-      "url": "https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

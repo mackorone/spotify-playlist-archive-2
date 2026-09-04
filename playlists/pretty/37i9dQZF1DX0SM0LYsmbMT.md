@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,240,079 likes - 200 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,240,130 likes - 200 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 199 | [Arrive](https://open.spotify.com/track/177YqDCscPHvJFWtXlfW8Z) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Arrive](https://open.spotify.com/album/42VwMEUH9bpBuvd8jcetze) | 1:41 |
 | 200 | [Krautology](https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Krautology](https://open.spotify.com/album/1o5TbW1lttYs7pc6M0Fdy9) | 2:33 |
 
-Snapshot ID: `AAAAAKKaThGzHzTK47bEa57q33PRyOSN`
+Snapshot ID: `AAAAAFtBU1Ze1v3A8Mh1bdr76ALnfPps`

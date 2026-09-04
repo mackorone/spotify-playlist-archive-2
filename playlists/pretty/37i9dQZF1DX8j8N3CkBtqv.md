@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Shreya Jain, Saahel, Parth Srivastava and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,850 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,883 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Duniya](https://open.spotify.com/track/5jfMD1lYbJimVNFk5fdDXH) | [Marzi](https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Duniya](https://open.spotify.com/album/6fpewz4TFtWNjoQAnwphaK) | 2:52 |
 | 75 | [Ishq seekh lo](https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq) | [Ishq seekh lo](https://open.spotify.com/album/3Ky1smlAG69k8dXHEOsmEG) | 3:48 |
 
-Snapshot ID: `AAAAAJAYiWC45g6gAyxbkTBldPqlGwJR`
+Snapshot ID: `AAAAAIAj844oONStsVXEFcJALkvEtm/c`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con aLex vs aLex.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,945 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,876 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [easy](https://open.spotify.com/track/7J2CMvoaigQxVVRE6a1bOF) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [easy](https://open.spotify.com/album/2ZWMTsczHijfCRhQeWvANu) | 3:41 |
 | 100 | [Azul](https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Azul](https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH) | 3:22 |
 
-Snapshot ID: `AAAAALde0NL17z7lQUZLEEUuFNcMu2lx`
+Snapshot ID: `AAAAAJiiDztASHfQs6SL9AoPYx31ozSw`

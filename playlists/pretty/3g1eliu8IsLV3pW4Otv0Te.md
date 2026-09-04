@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 
 > 
 
-[codym2011](https://open.spotify.com/user/codym2011) - 555 likes - 248 songs - 16 hr 43 min
+[codym2011](https://open.spotify.com/user/codym2011) - 555 likes - 249 songs - 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,6 @@ pretty - [cumulative](/playlists/cumulative/3g1eliu8IsLV3pW4Otv0Te.md) - [plain]
 | 246 | [XSCAPE](https://open.spotify.com/track/7AJmefQDEJ3EorX03iLYN2) | [JTB x Benji](https://open.spotify.com/artist/7gHUbwdsaGsnGagVLkBnYp) | [XSCAPE](https://open.spotify.com/album/3Qgjc4vf6ydo0bIs5sixRu) | 2:32 |
 | 247 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 248 | [Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Just The Way You Are](https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj) | 3:30 |
+| 249 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 
-Snapshot ID: `AAABDCXc8psWb+Xgwr3dMenn2Wx3RiF8`
+Snapshot ID: `AAABDVCTKTq3F5EZdBZPbgOQ/P2+aw+Z`

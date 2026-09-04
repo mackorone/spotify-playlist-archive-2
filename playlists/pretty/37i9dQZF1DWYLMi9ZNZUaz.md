@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,904 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,913 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [ẺMKKK](https://open.spotify.com/track/4JNSECQhoGV97Ak6Zo0KVP) | [The Shyn](https://open.spotify.com/artist/4sNKRLw6nPTQPQd1jBIqvS), [Lil Cent](https://open.spotify.com/artist/3TPbjUXeO7ETVk3CjGhWKV) | [ẺMKKK](https://open.spotify.com/album/58RrXfJ0oejvaUvYFWfZWZ) | 2:40 |
 | 50 | [1 VÀ 2](https://open.spotify.com/track/6euf4G2hksk39U6yuh3kpQ) | [TakaB](https://open.spotify.com/artist/6oJMjnxpbvGpenzHwK8gW5), [iMAZE](https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU), [20th Friend](https://open.spotify.com/artist/18BbTwORdRx9Z6EMGhdzmP) | [1 VÀ 2](https://open.spotify.com/album/4zkKjxAoi1h9FV1XmLEpr2) | 3:38 |
 
-Snapshot ID: `AAAAALxxTJ0RlijejFZc5Zf8RUwvpVDh`
+Snapshot ID: `AAAAAD9dS9ND0HP/pkMUsjD4u7gXrCl4`

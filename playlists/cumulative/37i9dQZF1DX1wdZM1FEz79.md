@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: george\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Yun DDanDDan\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-689 songs - 1 day 16 hr 27 min
+690 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-18 | 2022-07-05 |
 | [Swim in you](https://open.spotify.com/track/5VGDHco00AJQFgyBCRmLYo) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Swim in you](https://open.spotify.com/album/5KkoaeR3fLLVZTTc2jZv3p) | 2:44 | 2024-08-22 | 2024-09-04 |
 | [Sy & jW](https://open.spotify.com/track/47ojgWSLE26y7dWivYreFS) | [RYU SEOKWON](https://open.spotify.com/artist/3fc1EOSoH1KTJvrCKOiKBn) | [Sy & jW](https://open.spotify.com/album/615U3nXucGQ4XiaPWLvUA8) | 3:26 | 2022-03-31 | 2022-04-13 |
+| [Take It All](https://open.spotify.com/track/5bUBgKm0WCeB6vab0SOiYr) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Miserable Whistle part.1](https://open.spotify.com/album/27mgjk0EQxIy5Ub1trTyIH) | 4:41 | 2026-09-03 |  |
 | [take it slow](https://open.spotify.com/track/0zUOz6vZkVr9J0ygqGoNym) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Luckypink4ever](https://open.spotify.com/artist/1fyOzgarGTgvI0KWIeou7Z) | [take it slow](https://open.spotify.com/album/2du2AQcU3VPBuFmX0htj1I) | 3:00 | 2023-02-14 | 2023-02-25 |
 | [Take Me Somewhere in Your Heart](https://open.spotify.com/track/19ec8tNM0u3WEMVGoM56Bz) | [One Room Romance](https://open.spotify.com/artist/3Swx3mwoDGYx8OrKtHBkLm) | [Take Me Somewhere in Your Heart](https://open.spotify.com/album/1vjmz2RudeED7kHNYRMIuE) | 4:14 | 2025-08-18 | 2025-09-23 |
 | [Tell Me](https://open.spotify.com/track/59sio2uP1zKQu0SSmXtmqt) | [hyejin](https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX) | [Tell Me](https://open.spotify.com/album/55nlKfRPcPhRYY6tujIRjg) | 2:33 | 2022-03-31 | 2022-04-21 |
@@ -608,7 +609,7 @@
 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 | 2021-12-10 |  |
 | [We, the young](https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [We, the young](https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31) | 3:25 | 2025-10-10 | 2025-10-14 |
 | [What are you doing this evening](https://open.spotify.com/track/1BWKZ94ognDAUXWxQjHQza) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Girl's World \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3AfjZrMs5QewjUSPHfklgL) | 3:14 | 2022-04-12 | 2022-04-21 |
-| [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-01-10 |  |
+| [What can I do](https://open.spotify.com/track/6lMwrY5yRLMEG4WyuCEsFv) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [What can I do](https://open.spotify.com/album/4eV349LplmfXn5COoDAriG) | 3:27 | 2022-01-10 | 2026-09-04 |
 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 | 2021-12-10 |  |
 | [What I want to say \(feat\. Kyoung Mi Choi\)](https://open.spotify.com/track/5s4fDRk47TQynFOTS09dJU) | [Hozee](https://open.spotify.com/artist/0UuQPB2dNkEpProkJuixZo), [Kyoung Mi Choi](https://open.spotify.com/artist/1fbb9GhUL4UNeh7x7NApJE) | [What I want to say](https://open.spotify.com/album/6Hf7qNGWOADauTKMPhokdq) | 2:38 | 2022-03-31 | 2022-04-19 |
 | [What Shall I Do?](https://open.spotify.com/track/5EifmUIMkCqnayTDAWwTfx) | [12DAL](https://open.spotify.com/artist/6Y2UFKStWOiUYxIDE5QFKn) | [What Shall I Do?](https://open.spotify.com/album/32QOWg3l9smEZU2VUtJlFp) | 3:41 | 2022-03-31 | 2022-04-16 |

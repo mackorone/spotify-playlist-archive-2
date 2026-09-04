@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Interpol",
+  "description": "The UK's biggest rock playlist. Cover: Fat Dog ",
   "name": "The Rock List",
   "tracks": [
     {
@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Burn Down The Disco",
+        "url": "https://open.spotify.com/album/1ElEXTGToY6l63NQynXHsF"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209558,
+      "name": "Burn Down The Disco",
+      "url": "https://open.spotify.com/track/3FgB1xSfll5GpW8hSlALoe"
+    },
+    {
+      "album": {
         "name": "Burn The Way",
         "url": "https://open.spotify.com/album/0jbrgIEJ1S1XC9Wc0ZuwPf"
       },
@@ -4176,6 +4194,24 @@
       "duration_ms": 213794,
       "name": "Call It In",
       "url": "https://open.spotify.com/track/6g5oAr4QtYRYOdWUihyiK4"
+    },
+    {
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
     },
     {
       "album": {
@@ -5716,7 +5752,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 212272,
       "name": "dark heaven",
       "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
@@ -6974,7 +7010,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 217117,
       "name": "Emailz",
       "url": "https://open.spotify.com/track/2rGaO3kO003kM8k9rBYClO"
@@ -8792,6 +8828,24 @@
       "duration_ms": 136922,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/5qGlVj7q8E5kJRznWOD12a"
+    },
+    {
+      "album": {
+        "name": "Geordie",
+        "url": "https://open.spotify.com/album/5lwsHJ7mvLXXUix0yG0hKm"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241332,
+      "name": "Geordie",
+      "url": "https://open.spotify.com/track/1J4Rg2p05zFyUvNR0REj2W"
     },
     {
       "album": {
@@ -11137,6 +11191,24 @@
     },
     {
       "album": {
+        "name": "Hotter On The Internet",
+        "url": "https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182486,
+      "name": "Hotter On The Internet",
+      "url": "https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ"
+    },
+    {
+      "album": {
         "name": "Hound",
         "url": "https://open.spotify.com/album/66SYAjyDuhZ2hiSfayNpnT"
       },
@@ -11856,6 +11928,24 @@
       "duration_ms": 132597,
       "name": "I Used To Go To This Bar",
       "url": "https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2"
+    },
+    {
+      "album": {
+        "name": "I Used To Ride In Limousines",
+        "url": "https://open.spotify.com/album/13QHK1Q9qxSStv5kBUQSv0"
+      },
+      "artists": [
+        {
+          "name": "HMLTD",
+          "url": "https://open.spotify.com/artist/0yd6o6a2MaOjsF1SglI4Hw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209310,
+      "name": "I Used To Ride In Limousines",
+      "url": "https://open.spotify.com/track/2BWXNxdU00oqW5KiyjxFJz"
     },
     {
       "album": {
@@ -12915,6 +13005,24 @@
     },
     {
       "album": {
+        "name": "Juice A Jumbo Jet",
+        "url": "https://open.spotify.com/album/3MDvb0nm9ZuSTvNnFVmbnK"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291873,
+      "name": "Juice A Jumbo Jet",
+      "url": "https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k"
+    },
+    {
+      "album": {
         "name": "Julia's War",
         "url": "https://open.spotify.com/album/1in6Xa6DMOG9Q9X4P3DeJp"
       },
@@ -13024,6 +13132,24 @@
       "duration_ms": 157661,
       "name": "JUST FRIENDS",
       "url": "https://open.spotify.com/track/52RkgSu5I2wtSzIVExEMRi"
+    },
+    {
+      "album": {
+        "name": "Just So You Know",
+        "url": "https://open.spotify.com/album/7grCx86IIgfm3aAb55xrkP"
+      },
+      "artists": [
+        {
+          "name": "TV Priest",
+          "url": "https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221582,
+      "name": "Just So You Know",
+      "url": "https://open.spotify.com/track/0HWhKp7OS2wNPb0C4lgrOf"
     },
     {
       "album": {
@@ -16950,7 +17076,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158243,
       "name": "NOTHING BETTER THAN THIS",
       "url": "https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8"
@@ -17364,7 +17490,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 250453,
       "name": "Okarena",
       "url": "https://open.spotify.com/track/798dd3c3Ag1Cqxknm2lWZK"
@@ -20940,7 +21066,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 235476,
       "name": "Sex Symbol",
       "url": "https://open.spotify.com/track/2j8xSnEeTssPOcTItRYW6L"
@@ -21142,7 +21268,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 173131,
       "name": "Shit Love",
       "url": "https://open.spotify.com/track/0gDl9Clr6bkgLum6Dhdh88"
@@ -21376,7 +21502,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 204614,
       "name": "Silent Pictures",
       "url": "https://open.spotify.com/track/0JMyXn7qUYjdpqvt4jOX7u"
@@ -21416,6 +21542,24 @@
       "duration_ms": 196866,
       "name": "Silver",
       "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
+    },
+    {
+      "album": {
+        "name": "ACT III",
+        "url": "https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188556,
+      "name": "SILVER APPLE EYES",
+      "url": "https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY"
     },
     {
       "album": {
@@ -21596,6 +21740,24 @@
       "duration_ms": 260877,
       "name": "Skyworks",
       "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
+    },
+    {
+      "album": {
+        "name": "Blood Of Your Empire",
+        "url": "https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228467,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb"
     },
     {
       "album": {
@@ -22580,7 +22742,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 78618,
       "name": "Stillness Blues",
       "url": "https://open.spotify.com/track/2gciAqLCO3sPUWF6WDIR2F"
@@ -22728,7 +22890,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
@@ -24380,7 +24542,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 215767,
       "name": "The Rush",
       "url": "https://open.spotify.com/track/1uhdYhrlIn7zA22ukBeNNH"

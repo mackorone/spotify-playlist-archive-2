@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 184186,
       "name": "1000 Kil\u00f3metros",
       "url": "https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V"
@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "BLK MIRROR - EP2",
+        "url": "https://open.spotify.com/album/7wYpv08d2WqLZKuNeJ5XKk"
+      },
+      "artists": [
+        {
+          "name": "NatStar",
+          "url": "https://open.spotify.com/artist/4CoERlRqP61DsVAksrSXLb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186394,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/2HuEpjdJgxogG2llkbwoon"
+    },
+    {
+      "album": {
         "name": "Amor Odio",
         "url": "https://open.spotify.com/album/4bc8EFjSFHcfxrzNqzM9dm"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 191895,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 273712,
       "name": "Baron Samedi",
       "url": "https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ"
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208733,
       "name": "Bayou Icarus",
       "url": "https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i"
@@ -1294,10 +1312,40 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 136891,
       "name": "Belmont's Burden",
       "url": "https://open.spotify.com/track/6JtTuNBzGGY9XCoosrEW58"
+    },
+    {
+      "album": {
+        "name": "Treasury",
+        "url": "https://open.spotify.com/album/1xe2M2YGICc4QaWeFVOT6k"
+      },
+      "artists": [
+        {
+          "name": "J(X)",
+          "url": "https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL"
+        },
+        {
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/1Xekx07ApF1lKAwg0mTDbD"
+        },
+        {
+          "name": "Aztek the Barfly",
+          "url": "https://open.spotify.com/artist/6d6GPSiiygZYDLIWvvShYn"
+        },
+        {
+          "name": "Wild Pigeon",
+          "url": "https://open.spotify.com/artist/0G3nXIEv0YYLKXWxRJCjlB"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178805,
+      "name": "Benin Bronzes",
+      "url": "https://open.spotify.com/track/2dwLrxELqNBFVodNlxql6O"
     },
     {
       "album": {
@@ -1370,7 +1418,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195918,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6"
@@ -1796,7 +1844,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 248106,
       "name": "Camgirl",
       "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
@@ -3036,7 +3084,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 138490,
       "name": "Espressione d'algebra",
       "url": "https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W"
@@ -3314,7 +3362,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 238251,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj"
@@ -3484,7 +3532,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 218013,
       "name": "Frost In The December",
       "url": "https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb"
@@ -4938,7 +4986,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 282240,
       "name": "Kabuki Dance",
       "url": "https://open.spotify.com/track/1OpiGHa8y1yb4zxvY8bxuq"
@@ -5118,7 +5166,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 214794,
       "name": "Lagrimas sobre mi tumba",
       "url": "https://open.spotify.com/track/0Gnmrekg0aorhYHSORyoa5"
@@ -5540,7 +5588,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 202680,
       "name": "Losing All My Senses",
       "url": "https://open.spotify.com/track/3XZT1Xe9iAHwkU2hvchzv4"
@@ -5854,7 +5902,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179744,
       "name": "Maldito cobarde",
       "url": "https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3"
@@ -6172,6 +6220,24 @@
       "duration_ms": 130588,
       "name": "MORE",
       "url": "https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a"
+    },
+    {
+      "album": {
+        "name": "Move Back (2015)",
+        "url": "https://open.spotify.com/album/645DrsLpWLnDvZvVdlncQD"
+      },
+      "artists": [
+        {
+          "name": "Brian Purnell",
+          "url": "https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198191,
+      "name": "Move Back - 2015",
+      "url": "https://open.spotify.com/track/4ZsgVgiwqYlmbKuK5GvQ54"
     },
     {
       "album": {
@@ -6746,7 +6812,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 187428,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas"
@@ -7994,6 +8060,24 @@
       "duration_ms": 200783,
       "name": "Solos t\u00fa y yo",
       "url": "https://open.spotify.com/track/2oXDydAuDS6F88LMwnqELE"
+    },
+    {
+      "album": {
+        "name": "Acto III",
+        "url": "https://open.spotify.com/album/3CwO3k5yLQmvPr6wXfY8xq"
+      },
+      "artists": [
+        {
+          "name": "\u00abnila\u00bb",
+          "url": "https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314919,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/5BMFCvyN2LsLyiZTk1yFWj"
     },
     {
       "album": {
@@ -9678,7 +9762,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 254822,
       "name": "Vibin'",
       "url": "https://open.spotify.com/track/5Vjl0WmzrCICtWAXquSTBq"
@@ -9714,7 +9798,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 106014,
       "name": "WAKING UP",
       "url": "https://open.spotify.com/track/5CmnN94I3535jWKMQW9qu1"

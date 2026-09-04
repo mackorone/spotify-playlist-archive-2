@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOckpDFji6ozUIF+3xT0BFeTsSNg",
+  "snapshot_id": "AAAAABzRE0wfvbXaps4TomQN84FRYoHa",
   "tracks": [
     {
       "added_at": "2026-09-01 22:00:10",
@@ -43,6 +43,38 @@
     {
       "added_at": "2026-09-01 22:00:10",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4vtEjEeynMBz3JiAoU8SZu"
+      },
+      "artists": [
+        {
+          "name": "Junio",
+          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/09wFZTljEFzOvXXCJseHQP"
+    },
+    {
+      "added_at": "2026-09-01 22:00:10",
+      "album": {
+        "name": "T\u00fa m\u00e1s",
+        "url": "https://open.spotify.com/album/6JMZQRP1WJUL3UsjJKZzKL"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/77SXVwlcNRv5y0jxaCtjr6"
+        }
+      ],
+      "duration_ms": 162883,
+      "name": "T\u00fa m\u00e1s",
+      "url": "https://open.spotify.com/track/0spLvCo2TYEkPXuYGq7L1S"
+    },
+    {
+      "added_at": "2026-09-01 22:00:10",
+      "album": {
         "name": "Lejos, Lejos",
         "url": "https://open.spotify.com/album/2GTvU13XIZmF95x0NKdVeA"
       },
@@ -75,6 +107,22 @@
       "duration_ms": 167295,
       "name": "A63",
       "url": "https://open.spotify.com/track/2WRE7xI1BS8hZQZS9cQjTR"
+    },
+    {
+      "added_at": "2026-09-01 22:00:10",
+      "album": {
+        "name": "Qu\u00e9 nombre, qu\u00e9 cara, qu\u00e9 rara",
+        "url": "https://open.spotify.com/album/7dVEIE2SvN4WToTjeLNsP0"
+      },
+      "artists": [
+        {
+          "name": "Xerach",
+          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+        }
+      ],
+      "duration_ms": 177548,
+      "name": "Qu\u00e9 nombre, qu\u00e9 cara, qu\u00e9 rara",
+      "url": "https://open.spotify.com/track/61RkUDqdl3YZERVTo6LUP0"
     },
     {
       "added_at": "2026-09-01 22:00:10",

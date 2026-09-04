@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Deepa Kaler
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,013 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Deewani](https://open.spotify.com/track/7avuQ083OEbmiSBEcpStMs) | [Rhythm Ratta](https://open.spotify.com/artist/1FcP3V5ONOmt96kHYftwDD), [Abhiee Singhania](https://open.spotify.com/artist/2byk0GjGXXArdCDAvJrjkG) | [Deewani](https://open.spotify.com/album/5yLC0U5msaedE3hQvZufqO) | 3:13 |
 | 50 | [Cali](https://open.spotify.com/track/71HSD36mdiU6P3XpRTODUS) | [Bobby Singh](https://open.spotify.com/artist/5JmMagrV8JJMqVgBCWNzn8), [Crmxl](https://open.spotify.com/artist/3smYVKoONOJM0YoUF2Q0M9), [MANNA](https://open.spotify.com/artist/204QY5sNR8iBp0IBy9LHJW) | [Cali](https://open.spotify.com/album/60lI8VkakGoiHKGJYmTfoy) | 2:26 |
 
-Snapshot ID: `AAAAABwdW6Io87mx5L32dZyu6eK7X4kC`
+Snapshot ID: `AAAAANAOXe+hfgenTzom79Qrsnpfapzb`

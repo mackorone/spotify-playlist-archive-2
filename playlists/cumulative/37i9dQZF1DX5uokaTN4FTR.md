@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Chase & Status
+> The UK's biggest dance playlist! Sonny Fodera, Becky Hill
 
 784 songs - 1 day 16 hr 44 min
 

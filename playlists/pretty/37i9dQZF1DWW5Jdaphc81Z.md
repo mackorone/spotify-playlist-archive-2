@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > mykonos season is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,002 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,029 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 99 | [Murda](https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [Murda](https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5) | 2:54 |
 | 100 | [Wherever You Are](https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Wherever You Are](https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG) | 3:16 |
 
-Snapshot ID: `AAAAAOj20lw0+hcKymj7IBpL5JsdULXY`
+Snapshot ID: `AAAAAEqfIylGwjnHTdPvcAMgn8X9pPcB`

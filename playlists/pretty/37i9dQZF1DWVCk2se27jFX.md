@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 39 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 |
 | 40 | [Cumbia Sin Fronteras](https://open.spotify.com/track/4ZIwKECVZFT7yWkcULb0m5) | [YEISON LANDERO](https://open.spotify.com/artist/1WIGahdkQiPn67Xf3JrZVC) | [Santa Lucia](https://open.spotify.com/album/6ylk6McAdC3SAPlwPWycaY) | 3:28 |
 
-Snapshot ID: `AAAAADKr25rJj6BO1+8dqEdw6obTXLtf`
+Snapshot ID: `AAAAAEpuVLJlEhHFfZqJcMHDCxxtPv0F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,287 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 74 | [Majestic Magic](https://open.spotify.com/track/2P4TXa4KdnxJZN8CThBMGk) | [Switch ✕ Eden/逆先 夏目\(CV.野島 健児\)、青葉 つむぎ\(CV.石川 界人\)、春川 宙\(CV.山本 和臣\)、乱 凪砂\(CV.諏訪部 順一\)、巴 日和\(CV.花江 夏樹\)、七種 茨\(CV.逢坂 良太\)、漣 ジュン\(CV.内田 雄馬\)](https://open.spotify.com/artist/2aZwkjXpKAKm5Mszh7uNDo) | [Switch ✕ Eden「Majestic Magic」 あんさんぶるスターズ！！ FUSION UNIT SERIES 01](https://open.spotify.com/album/6hm5BKEBt63N5fLqnaV45V) | 4:13 |
 | 75 | [幸せの歌](https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 4:50 |
 
-Snapshot ID: `AAAAAL9Xggk9FGss7nXTXhPRlNPGg21N`
+Snapshot ID: `AAAAAGMkBF0GcQmWeeIT7M1y2glVJ4h4`

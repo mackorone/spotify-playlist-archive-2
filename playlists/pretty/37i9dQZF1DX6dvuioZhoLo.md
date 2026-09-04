@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover:  Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,638 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,656 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Homemade Margaritas](https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Homemade Margaritas](https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY) | 3:11 |
 | 100 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 |
 
-Snapshot ID: `AAAAAGu11TOnRcoP2cdZwdUzkYMjdF85`
+Snapshot ID: `AAAAALCuZGCbVBOjBWAmdLZVRynLdo7a`

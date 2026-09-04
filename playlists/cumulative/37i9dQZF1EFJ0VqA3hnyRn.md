@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-390 songs - 22 hr 26 min
+391 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [A Little Work](https://open.spotify.com/track/4NKYSQJoh7rRSJwiXgXQKp) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 4:05 | 2026-03-07 |  |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2024-02-07 |  |
 | [Again](https://open.spotify.com/track/2Lz435VjV3fHJXcw2J3qzR) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:54 | 2024-02-07 |  |
-| [Ain't In LA](https://open.spotify.com/track/6CtAFw1tojgxnK5TpaIZ8o) | [Elliot Sutton](https://open.spotify.com/artist/3VPdb0Wshwc9Iwjv4wayhw) | [Ain't In LA](https://open.spotify.com/album/0JpzocLElGemkJ8i4SkgIO) | 1:06 | 2026-08-12 |  |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-09-03 |  |
+| [Ain't In LA](https://open.spotify.com/track/6CtAFw1tojgxnK5TpaIZ8o) | [Elliot Sutton](https://open.spotify.com/artist/3VPdb0Wshwc9Iwjv4wayhw) | [Ain't In LA](https://open.spotify.com/album/0JpzocLElGemkJ8i4SkgIO) | 1:06 | 2026-08-12 | 2026-09-04 |
 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 | 2024-02-07 |  |
 | [All Good](https://open.spotify.com/track/579ctiuYd1ZLAfM3X1UWyz) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:39 | 2024-02-07 |  |
 | [All I Want](https://open.spotify.com/track/3dtf3Y9J1Yba0pq4J9JtBx) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:40 | 2024-02-07 | 2026-04-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 
 > Discover the music of Schumann.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,291 likes - 60 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,300 likes - 60 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1W7If2h64K3.md) - [plain]
 | 59 | [Waldszenen, Op.82: 7\. Vogel als Prophet](https://open.spotify.com/track/5NUNJMIQIhASajZcR4irhK) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Wilhelm Kempff](https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj) | [Schumann: Kinderszenen; Kreisleriana; Waldszenen](https://open.spotify.com/album/19MZqf1DSx11yfSvnyGfPt) | 3:22 |
 | 60 | [Liederkreis, Op\. 39: In der Fremde](https://open.spotify.com/track/38mTuvpPTSbw2u5jupOs2B) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Sebastian Bluth](https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE), [Anita Keller](https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL) | [Schumann, R.: Dichterliebe, Op\. 48 / Liederkreis, Op\. 39](https://open.spotify.com/album/7cQbTe4L4FgcO2VKgelHB9) | 1:56 |
 
-Snapshot ID: `AAAAAHU8UlDrDBHqJxfAznA1PFvBP+WQ`
+Snapshot ID: `AAAAAJirQVHh+5ncufkmiIlwY3ViOiAD`

@@ -5247,6 +5247,28 @@
     },
     {
       "album": {
+        "name": "KIA BOYZ",
+        "url": "https://open.spotify.com/album/78SRQLdOmiWm1eki9OVUgN"
+      },
+      "artists": [
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104250,
+      "name": "SCAT MUSIC FEAT. TAY KEITH",
+      "url": "https://open.spotify.com/track/6UWZrMCwgPwuiHhqxiVLHH"
+    },
+    {
+      "album": {
         "name": "Foolhardy",
         "url": "https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8"
       },

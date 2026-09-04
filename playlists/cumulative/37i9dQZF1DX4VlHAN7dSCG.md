@@ -2,9 +2,9 @@
 
 ### [組團飆歌](https://open.spotify.com/playlist/37i9dQZF1DX4VlHAN7dSCG)
 
-> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 溫室雜草
+> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 椅子樂團 The Chairs
 
-990 songs - 2 day 16 hr 30 min
+995 songs - 2 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Robot Revolution](https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Override!](https://open.spotify.com/album/25tlbetikHiDQ4Qe7veV2W) | 3:47 | 2025-11-13 | 2025-12-05 |
 | [Roche Limit \(ft\. Soby\)](https://open.spotify.com/track/6fxsw6DoTmwapoBoJqRQ9l) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27), [Soby](https://open.spotify.com/artist/1XAvoXmSaZ203RbTiGzfmI) | [Roche Limit \(ft\. Soby\)](https://open.spotify.com/album/5oP9zYkS3GF8QygXP3bZLd) | 4:04 | 2025-08-21 | 2025-09-12 |
 | [Rolling Life](https://open.spotify.com/track/3jw49HkIDAsJ1HHIU96rlm) | [ROLLING SISTERS](https://open.spotify.com/artist/3jgF4ElGLpJQDVKCKUmiET), [刘忻](https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa), [张予曦](https://open.spotify.com/artist/52JuCUosahcqLX8kfYxKB5), [Guo Bi Ting](https://open.spotify.com/artist/62KEagX4r21jbqdcOp5x5O), [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [Rolling Life](https://open.spotify.com/album/5odzcJIwfMyJEMjxgDwMY8) | 3:25 | 2025-06-12 | 2025-06-20 |
+| [Rolling On, Marching On](https://open.spotify.com/track/5GQbEFeq3gYmkS34DlQz8Y) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rolling On, Marching On](https://open.spotify.com/album/2GC0Q11LqMMYGm6DMK4rv7) | 3:58 | 2026-09-03 |  |
 | [Romi'ami'ad](https://open.spotify.com/track/35eXQlJJFAbWrSCQGqMwzr) | [Triple Deer](https://open.spotify.com/artist/6qfzKJ7ZtKxyTD2tRl0V27) | [Romi'ami'ad](https://open.spotify.com/album/1OXdXuWgTbMemOw7DSRJsF) | 5:29 | 2025-02-20 | 2025-03-22 |
 | [Run](https://open.spotify.com/track/0V77ol1pIpgdioIIIZDeV6) | [原子少年2 鑽石星球](https://open.spotify.com/artist/1hUqbTXYoW4zQ20HptnX86) | [Run](https://open.spotify.com/album/4UK8l0wLSoUwRHlcfyZdjb) | 3:06 | 2024-10-24 | 2024-11-01 |
 | [running to the sun](https://open.spotify.com/track/6N3yhfQTTBVtOp6y1RU16n) | [chirrp.](https://open.spotify.com/artist/3OYdQu61jWeBFBr2wksmw9) | [Lurid](https://open.spotify.com/album/5SSF20fvNIqwdJKkD7O1lO) | 3:52 | 2025-07-17 | 2025-08-08 |
@@ -312,6 +313,7 @@
 | [不得不捨得](https://open.spotify.com/track/7ueaPZ9rqMIH2V5Qkk3b65) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW), [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [不得不捨得](https://open.spotify.com/album/1rd6E6GrFThqO1elWlyfX5) | 4:49 | 2025-08-28 | 2025-12-19 |
 | [不怕星期一 \- 劇集《Ｘ！又是星期一》主題曲](https://open.spotify.com/track/7CofNNrb1x3tqzHYqG160F) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ), [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [不怕星期一 \(劇集《Ｘ！又是星期一》主題曲\)](https://open.spotify.com/album/4Dt3mf3Jw2G4TC0uOioVOB) | 2:26 | 2024-09-19 | 2025-03-28 |
 | [不想和你分開](https://open.spotify.com/track/75j9P6i2s9iXP81PHHzP5F) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [不想和你分開](https://open.spotify.com/album/6EyDaqH4Hu7VDOsuPwrWLa) | 3:21 | 2025-06-19 | 2025-07-11 |
+| [不想長大，也不想一直這樣](https://open.spotify.com/track/1sTjWwCtnHBiVs60iH2byj) | [碎星樂隊](https://open.spotify.com/artist/0WROAErJTir5F0nQawBprp) | [碎星](https://open.spotify.com/album/4Cv0pfWdyo9prCVkFMAQM7) | 3:20 | 2026-09-03 |  |
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2026-07-23 |  |
 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 | 2025-09-25 | 2025-10-31 |
 | [不止](https://open.spotify.com/track/6K3zjjRtOwXjGzdj4ev5pS) | [黑豹](https://open.spotify.com/artist/0zj66XhQP4EPkat7XkBYL0) | [16.66m/s](https://open.spotify.com/album/2dIcIXiULDlBDzBX9MIk58) | 4:33 | 2025-07-31 | 2025-08-22 |
@@ -337,6 +339,7 @@
 | [今天不太想出門](https://open.spotify.com/track/2CENvC8h8mLmGu6F4A4XJA) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [今天不太想出門](https://open.spotify.com/album/2GCABgoBqwMeYCWaCQ3DEY) | 3:19 | 2024-08-29 | 2024-09-27 |
 | [今天的我 \- 電影《冠軍之路》主題曲](https://open.spotify.com/track/75PnRxXcbLminTtBbR6Pph) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [今天的我 \(電影《冠軍之路》主題曲\)](https://open.spotify.com/album/1b55ipEd6TVIB4STqIIMXO) | 3:38 | 2025-12-11 | 2026-07-24 |
 | [他不愛我 \- 滾石撞樂隊2 \(原唱:莫文蔚\)](https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [滾石撞樂隊2 \- 他不愛我](https://open.spotify.com/album/4gxiKfR8AlCen1oiRsH6H1) | 3:27 | 2025-09-25 | 2026-07-24 |
+| [他們說我瘋了](https://open.spotify.com/track/31ej9Olae5cBISHETzBmvA) | [碎星樂隊](https://open.spotify.com/artist/0WROAErJTir5F0nQawBprp) | [碎星](https://open.spotify.com/album/4Cv0pfWdyo9prCVkFMAQM7) | 3:46 | 2026-09-03 |  |
 | [他是你的你是我的一場惡夢](https://open.spotify.com/track/4s2zPHCjiDnzM0Dg4KYSVM) | [晚餐思路](https://open.spotify.com/artist/5yDEms9eAoq8TyNxMG5JuM) | [私心思](https://open.spotify.com/album/4FyloTXbXZewzcTincL1ZP) | 3:37 | 2024-07-11 | 2024-08-16 |
 | [以後的事以後再說](https://open.spotify.com/track/7Jp2n0o3KRy1eGaYEPA0ZW) | [八青哥](https://open.spotify.com/artist/6CfViLDKLiluL2oWWCFfZT) | [以後的事以後再說](https://open.spotify.com/album/5aXdRM5cmaMMFBcogna11I) | 4:08 | 2025-08-28 | 2025-09-19 |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-01-02 | 2026-07-24 |
@@ -376,6 +379,7 @@
 | [做運動](https://open.spotify.com/track/5pdOw0j7Ov5g4LBsLcKjMz) | [第三象限](https://open.spotify.com/artist/1QuywLsREqubWKD5Ydv8ml) | [手寫卡片再也不值錢了TT](https://open.spotify.com/album/5iWcJJVxGaqWCGBgDSEzjC) | 7:03 | 2024-08-22 | 2024-08-30 |
 | [停留](https://open.spotify.com/track/5qiJHEuGogfxUqNXMLqe3A) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [Metamorphosis](https://open.spotify.com/album/1xCpoCbrDN9nC0JYTvxD0y) | 4:49 | 2024-11-28 | 2025-01-24 |
 | [偶像 \(feat.五月天 阿信\)](https://open.spotify.com/track/1ensBF2RM6BCYOqliw68Va) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [偶像](https://open.spotify.com/album/0bVv3tyuxEvWtDLPmA8fTO) | 4:01 | 2025-03-06 | 2025-03-28 |
+| [偶像包袱](https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr) | 3:57 | 2026-09-03 |  |
 | [傀儡戲 \(Netflix 影集《黑盒子》主題曲\)](https://open.spotify.com/track/1DafEncDqIufjjpN1fYBWG) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [傀儡戲](https://open.spotify.com/album/3IXwJVDEEay9GPOfjkePV7) | 2:28 | 2025-11-13 | 2025-12-05 |
 | [催眠](https://open.spotify.com/track/7cXGcYLcXNCwRu88ZMzgoh) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [結伴](https://open.spotify.com/album/5P7W9ZOIIManMjXgMuPCbA) | 4:30 | 2024-06-28 | 2024-08-23 |
 | [傷心摩托車](https://open.spotify.com/track/4Tjgg37Mya4csqcq6minfz) | [來者何人 Whoou!](https://open.spotify.com/artist/7aKtsdVpc4ae6PGZKfmqPs) | [傷心摩托車](https://open.spotify.com/album/6Cy70qzpBFoTOqMhooUc0a) | 3:08 | 2025-03-21 | 2025-04-11 |
@@ -809,6 +813,7 @@
 | [私人电影院](https://open.spotify.com/track/3SSGnM8wfI4ZtgIBHSTMrK) | [莫非定律乐团](https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO) | [私人电影院](https://open.spotify.com/album/0kxX64Vi3SjKzW8U7XeFzn) | 4:00 | 2025-07-31 | 2025-09-19 |
 | [秋天的夜晚 \- 大慕可可 X 刺點創作工坊音樂劇《九月啊九月》插曲](https://open.spotify.com/track/2S6pbDGdcJ5zJ8gla1cHIu) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [秋天的夜晚 \(大慕可可 X 刺點創作工坊音樂劇《九月啊九月》插曲\)](https://open.spotify.com/album/5K1sek63BE2Lyy8X93gzFa) | 4:10 | 2025-08-21 | 2025-11-28 |
 | [秘密](https://open.spotify.com/track/3f32ASekpi7Bl4kQ1cWf3Z) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC) | [秘密](https://open.spotify.com/album/4O95BhHLFV5exogVf4A4qc) | 2:59 | 2025-07-03 | 2025-08-01 |
+| [秘密 the hidden me](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密 the hidden me](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 | 2026-09-03 |  |
 | [空山灵雨](https://open.spotify.com/track/1giR0EfBVH8Ang7hHMWuSQ) | [新裤子乐队](https://open.spotify.com/artist/3asy14alGCZBDd3Y6pbBbp), [旅行团](https://open.spotify.com/artist/7pK5MAjGCDxupvI1O4QYZC) | [空山灵雨](https://open.spotify.com/album/0m9jMSkU7xa15SNjmem6A6) | 3:12 | 2025-06-12 | 2025-07-18 |
 | [空氣一樣的我](https://open.spotify.com/track/61wtMCdEKBCJOw3s8tESpP) | [Endless](https://open.spotify.com/artist/21JpKdhWfLuiv359q5iuw0) | [空氣一樣的我](https://open.spotify.com/album/0so21Xta6ru9dEF5TjD99z) | 3:42 | 2025-06-19 | 2025-07-11 |
 | [穿西裝的敗類](https://open.spotify.com/track/42mOeGdB9Mr3wlMwc5jEDE) | [齒科護衛隊](https://open.spotify.com/artist/7244wV6j1dppiUIgXBKNmd) | [穿西裝的敗類](https://open.spotify.com/album/5ywULtSwFOpJ96k5GRFvyY) | 2:57 | 2025-07-03 | 2025-08-15 |

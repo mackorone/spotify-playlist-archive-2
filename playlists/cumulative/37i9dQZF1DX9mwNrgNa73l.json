@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Jahaan bhi dekho tera nishaan hai, mahraab-i dil men teri azaan hai.",
+  "description": "Jahaan bhi dekhun tera nishaan hai, mehraab-e-dil men teri azaan hai.",
   "name": "South Asian Sufi",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 371147,
       "name": "Aao Taiba Ko Chale",
       "url": "https://open.spotify.com/track/2jHHAFybJwRDxjUM13LSU9"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 202666,
       "name": "Alif",
       "url": "https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 202500,
       "name": "Bandeya Ho",
       "url": "https://open.spotify.com/track/0SOD8Y5sTbMbyu1dC7HUWJ"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 532300,
       "name": "Chaap Tilak",
       "url": "https://open.spotify.com/track/2mVqfKbKGmxVXlVswhlI5T"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 401380,
       "name": "Charkha",
       "url": "https://open.spotify.com/track/2G91arznljxk6VonGl0s2i"
@@ -1294,6 +1294,24 @@
       "duration_ms": 383804,
       "name": "Dam Mast Qalander",
       "url": "https://open.spotify.com/track/2y5nVgj5Fg1wEC2wBL8Mvm"
+    },
+    {
+      "album": {
+        "name": "Nusrat Fateh Ali Khan No. 1 Hits",
+        "url": "https://open.spotify.com/album/5dZFcWltRWnmi4takYGuij"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383804,
+      "name": "Dam Mast Qalander",
+      "url": "https://open.spotify.com/track/72VT8vFpzIj5jkU6XtDD1Z"
     },
     {
       "album": {
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 518689,
       "name": "Kamli Da Dhola",
       "url": "https://open.spotify.com/track/2wCldqdsaqfVZ3w9vbM5g9"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 492500,
       "name": "Lagi Bina / Chal Mele Noon Challiye",
       "url": "https://open.spotify.com/track/1LuLpzIUbHC400nO8XRs5t"
@@ -2552,6 +2570,24 @@
       "duration_ms": 354026,
       "name": "Madni Di Gal Kariye",
       "url": "https://open.spotify.com/track/0XgLsusKUTmib2HZQMA02r"
+    },
+    {
+      "album": {
+        "name": "Maikada",
+        "url": "https://open.spotify.com/album/5Iz1FCgvevepv6R9Ph1yCK"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Samie",
+          "url": "https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391317,
+      "name": "Maikada",
+      "url": "https://open.spotify.com/track/4isPIrA8HCqTxwr0DOFIyj"
     },
     {
       "album": {
@@ -2849,6 +2885,36 @@
     },
     {
       "album": {
+        "name": "Chak De India",
+        "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Krishna Beuraa",
+          "url": "https://open.spotify.com/artist/3cY5ariKFsYqoHm8n2ccvD"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288365,
+      "name": "Maula Mere Lele Meri Jaan",
+      "url": "https://open.spotify.com/track/0OWzDem8abfJvWpQcssjIE"
+    },
+    {
+      "album": {
         "name": "Anwar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc"
       },
@@ -2864,6 +2930,28 @@
       "duration_ms": 364329,
       "name": "Maula Mere Maula",
       "url": "https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi"
+    },
+    {
+      "album": {
+        "name": "Anwar",
+        "url": "https://open.spotify.com/album/1m24oMsNiL89cMnoO2r899"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "Maula Mere Maula",
+      "url": "https://open.spotify.com/track/4CGBTtlrjZj7ydpV52cgB4"
     },
     {
       "album": {
@@ -2966,6 +3054,28 @@
       "duration_ms": 351680,
       "name": "Mera Khuda",
       "url": "https://open.spotify.com/track/4YEyTF1ojosAcTldLWJhKr"
+    },
+    {
+      "album": {
+        "name": "Mehmaan",
+        "url": "https://open.spotify.com/album/5be6spawAi0nrGm8yzbcHo"
+      },
+      "artists": [
+        {
+          "name": "Third Fret",
+          "url": "https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH"
+        },
+        {
+          "name": "Abdullah Maharvi",
+          "url": "https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mera Peer",
+      "url": "https://open.spotify.com/track/59Duz6pyFOpvoBcVSoo8d4"
     },
     {
       "album": {
@@ -3232,6 +3342,28 @@
       "duration_ms": 253021,
       "name": "Naukar Shah Da",
       "url": "https://open.spotify.com/track/4GypRqhNPkKNMn7DtE2suY"
+    },
+    {
+      "album": {
+        "name": "Bhulle Shah Vol. 235",
+        "url": "https://open.spotify.com/album/2NtP9liAisIjkXPxwnpMvc"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        },
+        {
+          "name": "Bulle Shah",
+          "url": "https://open.spotify.com/artist/3r0EqP96WXNFQB2aIGHpkS"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1739510,
+      "name": "Ni Main Jana Jogi De Naal",
+      "url": "https://open.spotify.com/track/6dlmnManEV0e4JjLjuC5TN"
     },
     {
       "album": {
@@ -3566,7 +3698,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 254250,
       "name": "Peeran",
       "url": "https://open.spotify.com/track/4jSJ185RtHo2dQ3AFw8cLi"
@@ -3584,7 +3716,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 784695,
       "name": "Piya Ghar Aaya - Coke Studio Season 11",
       "url": "https://open.spotify.com/track/7GzO8lnk3k8g5QDdKk69ge"
@@ -3676,7 +3808,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 597866,
       "name": "Rabba Ho",
       "url": "https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n"
@@ -3698,7 +3830,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 717190,
       "name": "Rang",
       "url": "https://open.spotify.com/track/6EGAJIJkpZ2fEvJv1mlIHe"
@@ -4250,7 +4382,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 765886,
       "name": "Sanu Ek Pal Chain Na Aawe",
       "url": "https://open.spotify.com/track/46QBWRo5ar8B3pGjgAOANI"
@@ -4468,7 +4600,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 310857,
       "name": "Takht Hazaar (feat. Riaz Qadri)",
       "url": "https://open.spotify.com/track/2VwOt0wnXOylavVC4Z34Qq"
@@ -4604,10 +4736,36 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 388133,
       "name": "Tere Rang Rang",
       "url": "https://open.spotify.com/track/5nfT5lpnN49MHbvEREXrHf"
+    },
+    {
+      "album": {
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323520,
+      "name": "Teri Deewani",
+      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
     },
     {
       "album": {
@@ -4710,7 +4868,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 397546,
       "name": "Tu Jhoom",
       "url": "https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye"
@@ -4970,7 +5128,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 378693,
       "name": "Yaar Ko Hamne Ja Baja Dekha",
       "url": "https://open.spotify.com/track/2GZMJVqqEMM2uSHF1Uak6y"

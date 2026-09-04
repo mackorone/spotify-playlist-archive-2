@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Wine Lips
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,764 likes - 131 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,770 likes - 131 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 24 | [Don't Come Easy](https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bark At The Moon](https://open.spotify.com/album/5JFB4Mf6lc18wMATG1g1oo) | 3:33 |
 | 25 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 |
 | 26 | [Joyce Kilmer Service Area](https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Joyce Kilmer Service Area](https://open.spotify.com/album/4rlyJnhWxi8qxlX3OXskcM) | 3:03 |
-| 27 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 27 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 28 | [Won't Be Disgraced](https://open.spotify.com/track/6uJ9pGm5d9ES3LBPylMTNb) | [God's Hate](https://open.spotify.com/artist/5vrN9cJHOufg1grCNms9WU) | [Won't Be Disgraced](https://open.spotify.com/album/5NGr1BDnmHkx8lsStTBQxd) | 4:19 |
 | 29 | [Death Knell](https://open.spotify.com/track/2q6Jydm21yyJPOKMsDkbRu) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Death Knell](https://open.spotify.com/album/36zwuiPPQPCKcZdOcHTpRe) | 3:51 |
 | 30 | [Joy Is A Weapon \(feat\. Foxy Shazam\)](https://open.spotify.com/track/1G6HUTuOxBvlxf1HDkk7Rk) | [The Number Twelve Looks Like You](https://open.spotify.com/artist/72kTuWmVMzkRDkP1pgc8Hr), [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [Joy Is A Weapon \(feat\. Foxy Shazam\)](https://open.spotify.com/album/4190pf3fJUl8Ir8UGYLXAG) | 5:29 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 130 | [If You Don't Know](https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [If You Don't Know](https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15) | 3:14 |
 | 131 | [Unforgiven](https://open.spotify.com/track/12BoCZELfYcQmqGVyMuR42) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql) | [Unforgiven](https://open.spotify.com/album/4T645Im7q24AE4AkWXz5eN) | 2:41 |
 
-Snapshot ID: `AAAAAD/AssgU0l3ClPuaOmuDPPatZcQL`
+Snapshot ID: `AAAAAMQ+KGyrn6n6hSiY0WiqMenS9Xpa`

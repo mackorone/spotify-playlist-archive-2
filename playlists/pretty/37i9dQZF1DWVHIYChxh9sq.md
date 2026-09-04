@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Pepe Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,504 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,497 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 99 | [Sigo Siendo El M Grande \(En Vivo\)](https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Sigo Siendo El M Grande \(En Vivo\)](https://open.spotify.com/album/3gTAVNVPSj660tNcGU7gl0) | 3:48 |
 | 100 | [Aquí en Mi Corazón Tú Mandas](https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU) | [Lilo Bermudez](https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa) | [Aquí en Mi Corazón Tú Mandas \(En Vivo\)](https://open.spotify.com/album/5oN8kpQItso4HSZCZ3zc5c) | 2:08 |
 
-Snapshot ID: `AAAAAGMMzPLNXdY5jWzOGkkdiXOt2ZGu`
+Snapshot ID: `AAAAAMZxMg+/RWYLjJJozm0dbLvpPqtR`

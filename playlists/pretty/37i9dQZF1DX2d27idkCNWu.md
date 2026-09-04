@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,732 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,739 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Vilarejo](https://open.spotify.com/track/61lC5sxgs0gu1xFqwCKn0z) | [Isabella Gaspary](https://open.spotify.com/artist/235nxvND6xHQUoaX7d6JjX) | [Vilarejo](https://open.spotify.com/album/4iIb5K4pJLiSDs8AuTsjND) | 1:35 |
 | 90 | [Del Mar \- Acustico](https://open.spotify.com/track/5N7mjkDgLZip8LM1m4ecwa) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ozu Vivo \(Live\)](https://open.spotify.com/album/1fPeBvEYIUS91OTh6lu65O) | 3:07 |
 
-Snapshot ID: `AAAAANmzrzIBnA1+zEVDl6cRuzENfmyS`
+Snapshot ID: `AAAAAJNkapxGOZzx3MzxYnArHeDTnIWh`

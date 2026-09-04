@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NhorlXfh52.md) - [plain]
 
 > Enjoy CORTIS's \[PUT YOUR PHONE DOWN\] tour LIVE SET including the voices from stage! \(CORTIS 맴버들의 무대 멘트가 포함된 PUT YOUR PHONE DOWN 투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,004 likes - 21 songs - 47 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 33,607 likes - 21 songs - 47 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NhorlXfh52.md) - [plain]
 | 20 | [Before moving to the last song](https://open.spotify.com/track/0ydRG3okTodIsQOpsnNU89) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [CORTIS TOUR \[PUT YOUR PHONE DOWN\]](https://open.spotify.com/album/1P00KA63CAtXBer6KWQB0i) | 1:04 |
 | 21 | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX) | 3:14 |
 
-Snapshot ID: `AAAAAPFYMt5UuN8xVzlCBORYNBHji9qL`
+Snapshot ID: `AAAAAK25xsB61VAt6JGEpPvQ/g9uxUNd`

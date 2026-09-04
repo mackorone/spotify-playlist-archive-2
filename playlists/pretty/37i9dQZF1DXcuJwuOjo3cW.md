@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 
 > We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,969 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,970 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 | 43 | [Love The Hell Out Of You \(Guitar Acoustic\)](https://open.spotify.com/track/0BQsEkmTXqctAAkViUmWDe) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
 | 44 | [Love The Hell Out Of You \(Strings Version\)](https://open.spotify.com/track/1zuihTylZH1dbfqS10fXpi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
 
-Snapshot ID: `AAAAAEqeqgnb1xXagU4RtgItXhdvygig`
+Snapshot ID: `AAAAAFpv2XZ6NXZ0nAERf/wOGwsFew8q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,268 likes - 120 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,255 likes - 120 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 |
 | 120 | [Katharsis](https://open.spotify.com/track/2EDKmd2QEyMLOrAFv8L3AT) | [WIDE HORIZON](https://open.spotify.com/artist/5EEy0pxsYQurmMjiSXB9g0) | [Katharsis](https://open.spotify.com/album/6dzDDjTSjYu0t5GkIa4Ku2) | 2:49 |
 
-Snapshot ID: `AAAAAHOCaA2COp90mramz3ZWHTORTPjm`
+Snapshot ID: `AAAAADO27fVPP1XAtFzjM64OGMmsg2Sq`

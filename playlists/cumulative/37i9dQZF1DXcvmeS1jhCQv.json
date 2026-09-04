@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: Amble",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Travy",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -2067,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Dancing On My Grave",
+        "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196493,
+      "name": "Dancing On My Grave",
+      "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
+    },
+    {
+      "album": {
         "name": "Darkside",
         "url": "https://open.spotify.com/album/5R317VA16WWT6pfr9Xskn4"
       },
@@ -2870,6 +2888,24 @@
       "duration_ms": 162100,
       "name": "Everyone's Here",
       "url": "https://open.spotify.com/track/7uv08gWiki9vJdqlPyQtTW"
+    },
+    {
+      "album": {
+        "name": "Everything is Moving",
+        "url": "https://open.spotify.com/album/7pWToKTjTK42T57ZYkITDK"
+      },
+      "artists": [
+        {
+          "name": "Niamh Bury",
+          "url": "https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190387,
+      "name": "Everything is Moving",
+      "url": "https://open.spotify.com/track/2UJwTdkR75ka460ZydFisw"
     },
     {
       "album": {
@@ -6126,7 +6162,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 133680,
       "name": "No More",
       "url": "https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb"
@@ -9892,7 +9928,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 267000,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl"

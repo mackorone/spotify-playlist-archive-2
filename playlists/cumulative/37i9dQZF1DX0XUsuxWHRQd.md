@@ -4,7 +4,7 @@
 
 > New music from Rod Wave,  Young Thug's YSL and Yung Miami.
 
-2,867 songs - 6 day 4 hr 55 min
+2,868 songs - 6 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [5AM](https://open.spotify.com/track/72pjcmoE6vBby9gb1ZPvdF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [5AM](https://open.spotify.com/album/0ctxtxA7ywlMP0jVTubPTX) | 1:42 | 2024-11-16 | 2024-11-23 |
 | [5AM IN PHILLY](https://open.spotify.com/track/2xaCeQ5mTMhMrf8kAei5GW) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [5AM IN PHILLY](https://open.spotify.com/album/7reihBEibaW7B0rhyjhgav) | 3:30 | 2024-05-31 | 2024-06-15 |
 | [5X](https://open.spotify.com/track/2OcbewDrWFNTYRqpSzJBCY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 2:12 | 2021-10-09 | 2021-10-23 |
+| [6 Foot 7 Foot](https://open.spotify.com/track/1hvInhBgFlH88UaZrLJ43O) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Explicit Version\)](https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT) | 4:08 | 2026-09-03 |  |
 | [6 Kiss](https://open.spotify.com/track/7tgjDlQsMR8RvkdlNCJA58) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [A Love Letter To You 4](https://open.spotify.com/album/0tKX7BLXiiRgXUKYdJzjEz) | 3:19 | 2019-11-22 | 2020-02-07 |
 | [600 Degrees](https://open.spotify.com/track/197BDJNJEEEO3GjoDe9eIN) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr) | [600 Degrees](https://open.spotify.com/album/7Cc4BJMsdA7CcyjC2oGZpS) | 2:57 | 2025-11-14 | 2026-02-14 |
 | [600 Racks](https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [600 Racks](https://open.spotify.com/album/6rU9y9BYVGa7uA977pl0f5) | 3:04 | 2026-04-03 | 2026-08-08 |

@@ -4217,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158331,
+      "name": "Happiness Anytime",
+      "url": "https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q"
+    },
+    {
+      "album": {
         "name": "Hard to Let Go",
         "url": "https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5"
       },

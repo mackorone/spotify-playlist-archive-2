@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Charles Ans, Sabino, Yubeili, Caztro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,051 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,104 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [PRADA](https://open.spotify.com/track/1BfncFeDU02qCPMniEs8UQ) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [PRADA](https://open.spotify.com/album/1q0qIEQ2IpBre8A9LMkN88) | 2:40 |
 | 75 | [Mundo Cholo](https://open.spotify.com/track/00MmuIorbFcYWNleiiuJeQ) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Mundo Cholo](https://open.spotify.com/album/1k6OrwoCWoIMa9ObPY792d) | 2:49 |
 
-Snapshot ID: `AAAAABDSxf7zv4I3VNtGGg2dGkhWTttx`
+Snapshot ID: `AAAAABeRunzWa6x9fSXKaa8bJssErk3Q`

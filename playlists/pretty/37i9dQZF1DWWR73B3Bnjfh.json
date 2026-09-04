@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 331146,
+  "num_followers": 331331,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9V21oJqtGSS6OZZtN0Br4xiCYQ",
+  "snapshot_id": "AAAAAE7v5MFLnaqnFpp6msAYXuNBzJLr",
   "tracks": [
     {
       "added_at": "2026-07-02 07:20:14",
@@ -1178,11 +1178,23 @@
         {
           "name": "Paul Desmond",
           "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Eugene Wright",
+          "url": "https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53"
+        },
+        {
+          "name": "Connie Kay",
+          "url": "https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake"
         }
       ],
-      "duration_ms": 425933,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
+      "duration_ms": 345333,
+      "name": "When Joanna Loved Me",
+      "url": "https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI"
     },
     {
       "added_at": "2026-07-02 07:20:14",
@@ -1266,23 +1278,11 @@
         {
           "name": "Paul Desmond",
           "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Eugene Wright",
-          "url": "https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53"
-        },
-        {
-          "name": "Connie Kay",
-          "url": "https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake"
         }
       ],
-      "duration_ms": 345333,
-      "name": "When Joanna Loved Me",
-      "url": "https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI"
+      "duration_ms": 425933,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
     },
     {
       "added_at": "2026-07-02 07:20:14",

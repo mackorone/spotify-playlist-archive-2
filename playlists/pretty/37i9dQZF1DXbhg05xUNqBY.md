@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Let go and let God.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,582 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,576 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 149 | [Between Garden and Glory](https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [Between Garden and Glory](https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B) | 4:59 |
 | 150 | [Shalom](https://open.spotify.com/track/5uHlpFrLkq5PxgmF6h1Pqw) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [The Secret Place, Vol\. 3](https://open.spotify.com/album/6jjv5ZyAoSpnpA6pwHovs2) | 5:57 |
 
-Snapshot ID: `AAAAAPHLjVTFIuzdX1d+dI2Mg6J4sfCj`
+Snapshot ID: `AAAAAKUsKQJWkrsdTk/dTAPIaBaywTnM`

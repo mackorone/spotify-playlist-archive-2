@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops! Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,855 likes - 134 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,931 likes - 134 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 133 | [Break Free](https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything](https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4) | 3:34 |
 | 134 | [Wasted](https://open.spotify.com/track/6GpcFTcLIc0eeR7Q7dVMXZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Wasted](https://open.spotify.com/album/4jgKfj9GPLpr3GLI8WsN46) | 3:08 |
 
-Snapshot ID: `AAAAAIP9mtKyZNqWhG0RyrD9IFAWkaH0`
+Snapshot ID: `AAAAAMAPWlXh0CO8S79HsIdOBu62kPqk`

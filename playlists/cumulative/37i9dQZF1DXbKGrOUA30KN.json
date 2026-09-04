@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: OK KID, Clueso",
+  "description": "Deutschpop, der jetzt passiert. Cover: JAS",
   "name": "POPLAND",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 173846,
       "name": "Allein auf dieser Welt",
       "url": "https://open.spotify.com/track/1cr2a6oX8Gw5f30xEym7rj"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182008,
       "name": "Bring mich nach Haus",
       "url": "https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC"
@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Das was bleibt",
+        "url": "https://open.spotify.com/album/3Hl2UOHQa3shRTtcwD0Z1N"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Das was bleibt",
+      "url": "https://open.spotify.com/track/2yJ6pTDotDsVmwS2ENlcUx"
+    },
+    {
+      "album": {
         "name": "DAS WICHTIGSTE",
         "url": "https://open.spotify.com/album/3fyoEjmBa9Dofc4sDh5bPi"
       },
@@ -2561,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Der einzige Ort",
+        "url": "https://open.spotify.com/album/4XEoS4uSjP9r3nY5thup6g"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138202,
+      "name": "Der einzige Ort",
+      "url": "https://open.spotify.com/track/2mxxVYy22sJBNOXkKd8Ob2"
+    },
+    {
+      "album": {
         "name": "der kleinste mensch der welt",
         "url": "https://open.spotify.com/album/3apTrA8dgbz4Uj7po2e8uO"
       },
@@ -2739,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Dir geh\u00f6rt die Welt",
+        "url": "https://open.spotify.com/album/3wcBR706AgmF12JbGHlrk8"
+      },
+      "artists": [
+        {
+          "name": "Peter Maffay",
+          "url": "https://open.spotify.com/artist/5W3s4beu23rOlseCbVOp4l"
+        },
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175878,
+      "name": "Dir geh\u00f6rt die Welt",
+      "url": "https://open.spotify.com/track/3T1knCX9pwR15QuyPtBKGp"
+    },
+    {
+      "album": {
         "name": "disstrack",
         "url": "https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh"
       },
@@ -2838,10 +2896,28 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208078,
       "name": "Du",
       "url": "https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz"
+    },
+    {
+      "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/6G1H5faNVCHATEMyVLNyxV"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132822,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/2nG3Mc1jSwvvL3EgZ9l0PL"
     },
     {
       "album": {
@@ -3080,7 +3156,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 160836,
       "name": "D\u00e4monen",
       "url": "https://open.spotify.com/track/0zLD2dI257Hg5vrlh8i0oA"
@@ -3102,6 +3178,24 @@
       "duration_ms": 191373,
       "name": "effy stonem",
       "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
+    },
+    {
+      "album": {
+        "name": "eigentlich",
+        "url": "https://open.spotify.com/album/3Min0vu9TVb5r6A1kETvai"
+      },
+      "artists": [
+        {
+          "name": "Lilli",
+          "url": "https://open.spotify.com/artist/0EdqMUSITvHwlyAc5SwPcK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144320,
+      "name": "eigentlich",
+      "url": "https://open.spotify.com/track/3yAHXk7dPNgbWEWiTLNQAz"
     },
     {
       "album": {
@@ -3374,7 +3468,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 190408,
       "name": "Endlich richtige Musik! - JazzDP",
       "url": "https://open.spotify.com/track/03X4TgSmlN73VD4AiQXYt6"
@@ -3958,7 +4052,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 143898,
       "name": "Freu mich f\u00fcr dich",
       "url": "https://open.spotify.com/track/65rdSewPZ9xCmHx1XoiELx"
@@ -4526,7 +4620,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 186666,
       "name": "Gr\u00f6\u00dfer als Liebe",
       "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
@@ -5333,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "hunderttausendeins",
+        "url": "https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l"
+      },
+      "artists": [
+        {
+          "name": "GRETA",
+          "url": "https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147335,
+      "name": "hunderttausendeins",
+      "url": "https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt"
+    },
+    {
+      "album": {
         "name": "H\u00e4tte nie gedacht",
         "url": "https://open.spotify.com/album/3auZbOiuGozCgxz1NM81M0"
       },
@@ -5513,6 +5625,24 @@
     },
     {
       "album": {
+        "name": "Ich mach was ich will",
+        "url": "https://open.spotify.com/album/1GoJLmLCvz9sIRONOQtUtE"
+      },
+      "artists": [
+        {
+          "name": "Anne West",
+          "url": "https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Ich mach was ich will",
+      "url": "https://open.spotify.com/track/4VZhbTvHkDGmM0BF5OSvu2"
+    },
+    {
+      "album": {
         "name": "Ich mag dich",
         "url": "https://open.spotify.com/album/6R1ioYYFaR5zo6jC3mXUku"
       },
@@ -5564,6 +5694,24 @@
       "duration_ms": 142986,
       "name": "Ich seh was, was du nicht siehst",
       "url": "https://open.spotify.com/track/4BAPYfMQTLYgXB5KU0GkDf"
+    },
+    {
+      "album": {
+        "name": "ICH SEIN",
+        "url": "https://open.spotify.com/album/3IFfLlxomlMBxaqcMscm1w"
+      },
+      "artists": [
+        {
+          "name": "CHRIS",
+          "url": "https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151851,
+      "name": "ICH SEIN",
+      "url": "https://open.spotify.com/track/5uVqMsIea84JBqMut0csCc"
     },
     {
       "album": {
@@ -5860,6 +6008,28 @@
       "duration_ms": 160706,
       "name": "irgendwann",
       "url": "https://open.spotify.com/track/0K6ovr0D8RzwNnhGs03hzr"
+    },
+    {
+      "album": {
+        "name": "Irgendwer Anders",
+        "url": "https://open.spotify.com/album/6W0EFXD8rJjawKKKNflM7R"
+      },
+      "artists": [
+        {
+          "name": "Max Giesinger",
+          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
+        },
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160029,
+      "name": "Irgendwer Anders",
+      "url": "https://open.spotify.com/track/1BXrlo0Z2doTh4gnAp2iUr"
     },
     {
       "album": {
@@ -7029,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "leben ist zu kurz",
+        "url": "https://open.spotify.com/album/1nGykqpjpJ4clcquixImbS"
+      },
+      "artists": [
+        {
+          "name": "Cosima Kiby",
+          "url": "https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128201,
+      "name": "leben ist zu kurz",
+      "url": "https://open.spotify.com/track/2nxVHGTRD03HdGfA3Lsb9s"
+    },
+    {
+      "album": {
         "name": "Lebensm\u00fcde",
         "url": "https://open.spotify.com/album/1547AAy8nakEWMd0rF4gEJ"
       },
@@ -7580,7 +7768,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 222934,
       "name": "Mama hat gesagt - JazzDP",
       "url": "https://open.spotify.com/track/6AfFIWybkMMaKbixPVD6qI"
@@ -7768,6 +7956,24 @@
       "duration_ms": 174133,
       "name": "Mehr Gl\u00fcck als Verstand",
       "url": "https://open.spotify.com/track/3goY8YOTlPGV9F99yJW7lt"
+    },
+    {
+      "album": {
+        "name": "Meilenweit",
+        "url": "https://open.spotify.com/album/31P9xojddqiEoiSo4GRK0s"
+      },
+      "artists": [
+        {
+          "name": "Unheilig",
+          "url": "https://open.spotify.com/artist/6f1kv0aUPG9I0Rp3dmLCPi"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Meilenweit",
+      "url": "https://open.spotify.com/track/61GqwTrwISX62O1EGqjN6G"
     },
     {
       "album": {
@@ -8082,6 +8288,24 @@
       "duration_ms": 158640,
       "name": "Mitte M\u00e4rz",
       "url": "https://open.spotify.com/track/55wceeG8waWoG6db0o7xul"
+    },
+    {
+      "album": {
+        "name": "Mittendrin",
+        "url": "https://open.spotify.com/album/7vTn4hPAilEWKIO8b0HoNo"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128756,
+      "name": "Mittendrin",
+      "url": "https://open.spotify.com/track/0ZZxVdXh7BOA5SFmFcZtU3"
     },
     {
       "album": {
@@ -8887,6 +9111,24 @@
     },
     {
       "album": {
+        "name": "Nur damit du wei\u00dft",
+        "url": "https://open.spotify.com/album/1ycL2lzJOSKocJSDD1R167"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Nur damit du wei\u00dft",
+      "url": "https://open.spotify.com/track/66vfXrWgWVvRR5VLYNQRtS"
+    },
+    {
+      "album": {
         "name": "Nur Dein",
         "url": "https://open.spotify.com/album/28UfMyE1585U1OXiVf0is5"
       },
@@ -8952,7 +9194,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 140370,
       "name": "Nur mit dir.",
       "url": "https://open.spotify.com/track/0Vqt8BrMbacozu4Lvm4vrw"
@@ -8970,10 +9212,32 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 134044,
       "name": "Nur von dir",
       "url": "https://open.spotify.com/track/1T4FJk83mkRMnl0VgazHSn"
+    },
+    {
+      "album": {
+        "name": "Nur zu Besuch (feat. Emma Rose)",
+        "url": "https://open.spotify.com/album/6qcFf9GgBhfz4NXeT384CK"
+      },
+      "artists": [
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        },
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189458,
+      "name": "Nur zu Besuch (feat. Emma Rose)",
+      "url": "https://open.spotify.com/track/5LMrjomC6YqJslM3yjE3Bj"
     },
     {
       "album": {
@@ -8992,7 +9256,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 189204,
       "name": "OBEN OHNE ALLES (mit SOFFIE)",
       "url": "https://open.spotify.com/track/5y3KI8dcZvTdLAR4YtiPJg"
@@ -9869,6 +10133,24 @@
     },
     {
       "album": {
+        "name": "Ruinen",
+        "url": "https://open.spotify.com/album/6TRY21yHbmqFKGbHGnTTk0"
+      },
+      "artists": [
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167298,
+      "name": "Ruinen",
+      "url": "https://open.spotify.com/track/1s67amg1kW7nBhE4IXXdZ6"
+    },
+    {
+      "album": {
         "name": "RUNTERSP\u00dcLEN",
         "url": "https://open.spotify.com/album/0hgr8cXVBGdWXKxqFkaVsb"
       },
@@ -10086,7 +10368,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 128039,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/09RGNVNIZxz465MyuzNBUs"
@@ -10770,7 +11052,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151958,
       "name": "STOLZ AUF DICH",
       "url": "https://open.spotify.com/track/4Zppu4rQXAsTwIM2AFsM0y"
@@ -11008,7 +11290,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 131493,
       "name": "TIPICO!",
       "url": "https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1"
@@ -12100,7 +12382,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 140733,
       "name": "Wei\u00dfes Kleid",
       "url": "https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj"
@@ -12342,7 +12624,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 145137,
       "name": "Wenn du scheinst",
       "url": "https://open.spotify.com/track/5xeSU50RyNQhdbGNsghDwt"
@@ -12942,7 +13224,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176836,
       "name": "w\u00e4lder von schweden",
       "url": "https://open.spotify.com/track/3snLvBx96VdBFP1NsNcTrM"
@@ -13116,6 +13398,24 @@
     {
       "album": {
         "name": "Zuhause",
+        "url": "https://open.spotify.com/album/48dEijA0NQxfnlpBknCV8F"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114626,
+      "name": "Zuhause",
+      "url": "https://open.spotify.com/track/0Jr1kVMSDxcjUG7wivPyk1"
+    },
+    {
+      "album": {
+        "name": "Zuhause",
         "url": "https://open.spotify.com/album/5V83T1ylkkxNkhhD9O6WgQ"
       },
       "artists": [
@@ -13220,6 +13520,24 @@
       "duration_ms": 195573,
       "name": "zwei Punkte",
       "url": "https://open.spotify.com/track/3BPBWV7zlW6uxSl3PESNGM"
+    },
+    {
+      "album": {
+        "name": "Zwischen den St\u00fchlen",
+        "url": "https://open.spotify.com/album/6IfANK1Zc7C0R0PeRQuYnb"
+      },
+      "artists": [
+        {
+          "name": "ENKAY",
+          "url": "https://open.spotify.com/artist/3ZR4DKb6szzEmIavtFES5j"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171981,
+      "name": "Zwischen den St\u00fchlen",
+      "url": "https://open.spotify.com/track/00qJcxkeBrTjgsmEcalLpw"
     },
     {
       "album": {

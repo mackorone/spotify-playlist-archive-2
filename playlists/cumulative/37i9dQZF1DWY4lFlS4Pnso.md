@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK and Ireland's biggest playlist\. Cover: Tame Impala
+> The UK and Ireland's biggest playlist\. Cover: STELLA LEFTY
 
 507 songs - 1 day 2 hr 57 min
 

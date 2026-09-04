@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Mosimann",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Ang\u00e8le",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -15468,7 +15468,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 172725,
       "name": "Sur la piste",
       "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
@@ -16944,6 +16944,24 @@
       "duration_ms": 173266,
       "name": "Une histoire",
       "url": "https://open.spotify.com/track/24JfEcLed7ACdaat7SzXVs"
+    },
+    {
+      "album": {
+        "name": "Une seule vie",
+        "url": "https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245606,
+      "name": "Une seule vie",
+      "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
     },
     {
       "album": {

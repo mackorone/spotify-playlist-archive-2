@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Jim Gardner
 
-379 songs - 20 hr 30 min
+380 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Ben Het Even Kwijt](https://open.spotify.com/track/2Rj2dPQqQXCYW5GSBDe7zt) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Ben Het Even Kwijt](https://open.spotify.com/album/2GSMZjNQviDmXUFB1z7Eh8) | 2:45 | 2026-05-11 |  |
 | [Best Of You](https://open.spotify.com/track/7KzSKuXnthKDtGYg7ect4H) | [M.J.H\. Thompson](https://open.spotify.com/artist/4TNkOQJXNDKpFwVKjxMPf7), [Volksorkest](https://open.spotify.com/artist/4MPHOJhPo3RfssSblZ7Wl2) | [Best Of You](https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT) | 2:49 | 2025-07-16 | 2026-05-12 |
 | [beste intenties](https://open.spotify.com/track/4wb9qDF28vkAM0883WtUYP) | [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [met de beste intenties](https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z) | 2:39 | 2024-07-01 | 2025-05-08 |
-| [Better Off Alone](https://open.spotify.com/track/28zxcWICI5ZaY6SwN6KPmN) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [Better Off Alone](https://open.spotify.com/album/6EsW6LqCLMn6RV4qs25WjA) | 2:29 | 2026-05-11 |  |
+| [Better Off Alone](https://open.spotify.com/track/28zxcWICI5ZaY6SwN6KPmN) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [Better Off Alone](https://open.spotify.com/album/6EsW6LqCLMn6RV4qs25WjA) | 2:29 | 2026-05-11 | 2026-09-04 |
 | [Billen Bloot](https://open.spotify.com/track/7bG4qbVCnca4ohZsoJhUCd) | [Yung Volwassen](https://open.spotify.com/artist/5VrGtTnbcfrS3uaIqhNCfj) | [Billen Bloot](https://open.spotify.com/album/7jRXhjSIWiXpVym7mQWdHy) | 2:22 | 2025-05-07 | 2025-09-17 |
 | [BIOTM](https://open.spotify.com/track/1wTqJ6Xumts0Sv8O3MxW9Q) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [BIOTM](https://open.spotify.com/album/588vMmUGoktPqhe64li9hu) | 2:36 | 2025-05-07 | 2025-11-29 |
 | [Blijf Daar](https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0), [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Blijf Daar](https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth) | 2:19 | 2026-08-18 |  |
@@ -135,6 +135,7 @@
 | [Hardwired](https://open.spotify.com/track/7q2XPiBRzdyqfkpvvgF0hy) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Hardwired](https://open.spotify.com/album/3E2NA2Gv5Ycu6iwj3I5JYH) | 2:43 | 2026-05-11 | 2026-08-19 |
 | [Hare In The Haze](https://open.spotify.com/track/2NXbXfOzOH2Xnrpgd0mb9e) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [Hare In The Haze](https://open.spotify.com/album/3s6HKOzR1fLxr6HGHGeXzJ) | 4:05 | 2025-07-16 | 2025-09-17 |
 | [Haya](https://open.spotify.com/track/653F68ka124m6JdlhwFWzU) | [Guusje Walstra](https://open.spotify.com/artist/2h8ZoYIdrfKTAHVNVIqjlk) | [Haya](https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f) | 2:55 | 2024-07-01 | 2025-05-08 |
+| [Healing](https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Mael](https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7) | [Healing](https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4) | 2:43 | 2026-09-03 |  |
 | [Heart on the line](https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E) | [LAHAYE](https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH) | [Heart on the line](https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W) | 3:35 | 2026-05-11 |  |
 | [High Wire](https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ) | [Sol Power](https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao) | [High Wire](https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh) | 2:06 | 2024-07-01 | 2025-05-08 |
 | [Himel Iepen](https://open.spotify.com/track/6ZPzooqdQ9gddNnor1pGx5) | [MAYTE](https://open.spotify.com/artist/0qSW0N5julVXfIQ3Ql4tHj) | [Himel Iepen](https://open.spotify.com/album/3fyDtT3rsMkqUUh8vr3GY3) | 4:27 | 2026-05-11 |  |

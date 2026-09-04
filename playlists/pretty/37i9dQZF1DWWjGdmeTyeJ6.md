@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring aLex vs aLex\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,716 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,755 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [You Only Call When It's Raining](https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf) | [Lucas Ball](https://open.spotify.com/artist/1XiaAnuGK9mXdVLuJi1Jm3) | [You Only Call When It's Raining](https://open.spotify.com/album/22NDwyw6WvmhibstEFIqTK) | 3:15 |
 | 100 | [Three Reds](https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Three Reds](https://open.spotify.com/album/1TORmjib416bF532Zsd0rL) | 3:52 |
 
-Snapshot ID: `AAAAAOKR/HbyxkDJdSdsD1vgujf0FRBX`
+Snapshot ID: `AAAAAF7zNhqLFxPZ75ZXZUthsu8hNvvP`

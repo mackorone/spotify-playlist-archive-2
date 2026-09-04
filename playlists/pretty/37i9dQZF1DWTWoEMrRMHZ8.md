@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,109 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,108 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 79 | [PLENA](https://open.spotify.com/track/0PV2Ajb4Lo05x51bWwJFUo) | [Maíra Guedes](https://open.spotify.com/artist/6tvHdAkKWIN9ja4GCWlYMI) | [ENTRELACES](https://open.spotify.com/album/3EhMg4z2miSfE46PjRs4st) | 4:23 |
 | 80 | [Vamos Combinar](https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Patricia Alví](https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb) | [Vamos Combinar](https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu) | 3:36 |
 
-Snapshot ID: `AAAAAHqsyB4SH/CGeOMsafEymR/yFcTw`
+Snapshot ID: `AAAAANRXaXe5h2DLfMgxJu991E4L1fPJ`

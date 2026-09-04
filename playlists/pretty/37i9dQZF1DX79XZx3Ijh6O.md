@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:56M3mfXvDAZ8eYzHfM6lu0">сліпток</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,834 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,861 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Ранок](https://open.spotify.com/track/0iPbnBBXnXbcqw542maTUn) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Ранок](https://open.spotify.com/album/0Sl5JvrgqTqzyQbzbWaqui) | 3:02 |
 | 50 | [Час](https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Час](https://open.spotify.com/album/4lh8Avzn4gljoAHcxiSSLM) | 3:35 |
 
-Snapshot ID: `AAAAAJF/GyD6nMwK5zqRyjS5/hQMhb/n`
+Snapshot ID: `AAAAAMhohV/r12eotwnF7lLQmO7i0yGz`

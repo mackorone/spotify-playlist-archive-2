@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,860 likes - 275 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,946 likes - 275 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 274 | [Tropfen](https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s) | [Millionen Tropfen](https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7) | [Klimawandel](https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL) | 2:21 |
 | 275 | [Rain Drops for Deep Sleep](https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Oneiric Rains](https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb) | 2:53 |
 
-Snapshot ID: `AAAAAHxXJslOpk2P0eTCJ3t7LKDTNTKw`
+Snapshot ID: `AAAAALrsf0Qm+sn3367i0CvmEDYbizXQ`

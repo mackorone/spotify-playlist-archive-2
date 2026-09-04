@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Drake Nova, Marcelo Nova
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,916 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,845 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 54 | [O Sal da Terra](https://open.spotify.com/track/47OlYFYl49Sr1rSFagwpyY) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [O Sal da Terra](https://open.spotify.com/album/7D9zor8ZneQBDcGVrquD0h) | 3:11 |
 | 55 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAAwrc+kpUHIEhkRQcA8gY4OURyVf`
+Snapshot ID: `AAAAACwOQdMs5GYlAqNvQ0eRAXInciWg`

@@ -1351,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/73qXUd7lTWf2XJGYnzBAwH"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200865,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2p2xEilqBI6qF3hLHUotYh"
+    },
+    {
+      "album": {
         "name": "Steel City Dance Discs Volume 24",
         "url": "https://open.spotify.com/album/1HuLrjY2tVVd2N9AIcHs9A"
       },
@@ -2565,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
+    },
+    {
+      "album": {
         "name": "Dame De Eso",
         "url": "https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy"
       },
@@ -2678,6 +2714,24 @@
       "duration_ms": 204955,
       "name": "Darkest Hour",
       "url": "https://open.spotify.com/track/1mN0hFdSPXQU9YJarxH03N"
+    },
+    {
+      "album": {
+        "name": "Darkroom Princess",
+        "url": "https://open.spotify.com/album/3BjTqgiMcC0D51Dyojrp1y"
+      },
+      "artists": [
+        {
+          "name": "Crash Out Mafia aka Ice Cold Dripper and Ashley Tray",
+          "url": "https://open.spotify.com/artist/0kK64NoUFkJ9jKyH64JFTw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260787,
+      "name": "Darkroom Princess",
+      "url": "https://open.spotify.com/track/44u3AsouSio87p7zyYnwEe"
     },
     {
       "album": {
@@ -3292,6 +3346,24 @@
       "duration_ms": 206000,
       "name": "Drop It Down",
       "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
+    },
+    {
+      "album": {
+        "name": "Drop Your Spirit",
+        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198959,
+      "name": "Drop Your Spirit",
+      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
     },
     {
       "album": {
@@ -6259,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Interesting",
+        "url": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243023,
+      "name": "Interesting",
+      "url": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f"
+    },
+    {
+      "album": {
         "name": "Sonora",
         "url": "https://open.spotify.com/album/719p8laDRWNJmKKHzEHe2x"
       },
@@ -6420,6 +6510,32 @@
       "duration_ms": 217500,
       "name": "Keep The Body Dancing - Spatial Awareness Remix (EDIT)",
       "url": "https://open.spotify.com/track/7wHK1wnd7wEelsDMm3OyuI"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "album": {

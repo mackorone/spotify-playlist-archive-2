@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 21074,
+  "num_followers": 21101,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGT5JEt8qN60nZh5sGFZOGCkCddD",
+  "snapshot_id": "AAAAAEegXJegg/9sOvkYpeLyohhDwrJ4",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -129,6 +129,26 @@
       "url": "https://open.spotify.com/track/2RhsDyaoFoLOZ16NS0ItO5"
     },
     {
+      "added_at": "2026-07-27 06:38:44",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 01",
+        "url": "https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD"
+      },
+      "artists": [
+        {
+          "name": "Hemi",
+          "url": "https://open.spotify.com/artist/7MP4gHewke7qLeU0Yqlhvi"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Bodha Kannadi",
+      "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
+    },
+    {
       "added_at": "2026-07-13 10:43:15",
       "album": {
         "name": "Sambavam Startu",
@@ -151,6 +171,34 @@
       "duration_ms": 246537,
       "name": "Sambavam Startu",
       "url": "https://open.spotify.com/track/4W295YjbF0883qgI5WBFVD"
+    },
+    {
+      "added_at": "2026-09-03 06:04:32",
+      "album": {
+        "name": "Ottaa Kili",
+        "url": "https://open.spotify.com/album/0D8bnRSno6JO9bm96kJZ1k"
+      },
+      "artists": [
+        {
+          "name": "Arif Ansar",
+          "url": "https://open.spotify.com/artist/3nkD8hzJSx5c4sfx2Pg309"
+        },
+        {
+          "name": "Yadu Krishnan K",
+          "url": "https://open.spotify.com/artist/1I6YuaNMRm0Jf8WWcSpfyz"
+        },
+        {
+          "name": "Nihara Harsh",
+          "url": "https://open.spotify.com/artist/7ftjIGY3IRCc1wnMGggNMa"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        }
+      ],
+      "duration_ms": 216425,
+      "name": "Ottaa Kili",
+      "url": "https://open.spotify.com/track/4r7O9WhyMeDJ7RGEoCYpei"
     },
     {
       "added_at": "2026-08-04 15:12:42",
@@ -193,48 +241,44 @@
       "url": "https://open.spotify.com/track/5p2ltxED87SMocGRPfyga8"
     },
     {
-      "added_at": "2026-08-11 04:59:34",
+      "added_at": "2026-08-10 10:30:26",
       "album": {
-        "name": "Marakka Thonudh\u00e9",
-        "url": "https://open.spotify.com/album/5DWg0jFFJtjdkdMTqTtpDH"
+        "name": "I-Popstar Tamil | Ep 09",
+        "url": "https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB"
       },
       "artists": [
         {
-          "name": "Keyran",
-          "url": "https://open.spotify.com/artist/4g7DtRBVyQ23grLxtMEOrY"
-        },
-        {
-          "name": "BSP",
-          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
-        },
-        {
-          "name": "Eshwar",
-          "url": "https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Marakka Thonudh\u00e9",
-      "url": "https://open.spotify.com/track/43Wv0rkvjqxh6mOrbZyD4i"
-    },
-    {
-      "added_at": "2026-08-24 16:13:58",
-      "album": {
-        "name": "I-popstar Tamil | Ep 14",
-        "url": "https://open.spotify.com/album/2P1KtSqhEyFG6SnwW1AVQO"
-      },
-      "artists": [
-        {
-          "name": "Trinita Misha Das",
-          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
+          "name": "Sai Prashob",
+          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
         },
         {
           "name": "Sathyaprakash",
           "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
         }
       ],
-      "duration_ms": 169426,
-      "name": "Wifi Kaadhal",
-      "url": "https://open.spotify.com/track/10XfKT7pdXygkAyQ2zYTWz"
+      "duration_ms": 190846,
+      "name": "Ellam Neeye",
+      "url": "https://open.spotify.com/track/7wTUCkOEI0fjXy4MmpvYh7"
+    },
+    {
+      "added_at": "2026-09-03 07:16:56",
+      "album": {
+        "name": "Kadhali",
+        "url": "https://open.spotify.com/album/4bfBOMy3IesXkGgfpO8b0K"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vinod",
+          "url": "https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy"
+        },
+        {
+          "name": "Vishnu Prasad",
+          "url": "https://open.spotify.com/artist/0mp6Aq2o1sTlst2kLmCtNC"
+        }
+      ],
+      "duration_ms": 194295,
+      "name": "Kadhali",
+      "url": "https://open.spotify.com/track/3HKnrd56ymiij3smSjsRoF"
     },
     {
       "added_at": "2026-07-16 15:08:35",
@@ -297,20 +341,52 @@
       "url": "https://open.spotify.com/track/5n5rAjhMXmHDaHJc84zngQ"
     },
     {
-      "added_at": "2026-07-13 01:16:52",
+      "added_at": "2026-08-13 10:14:18",
       "album": {
-        "name": "The Vex Song",
-        "url": "https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ"
+        "name": "Lakhs of Kisses",
+        "url": "https://open.spotify.com/album/1FxHru21WAsI1L5RxBNCZg"
       },
       "artists": [
         {
-          "name": "Valluvan",
-          "url": "https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF"
+          "name": "Logeshwara Chandrasekhar",
+          "url": "https://open.spotify.com/artist/0WfceOOFljgKvaHotpoxCc"
+        },
+        {
+          "name": "Ajsamudheen",
+          "url": "https://open.spotify.com/artist/2pTPtZAWH44U523ECPxXGn"
+        },
+        {
+          "name": "Jyothsna Jose",
+          "url": "https://open.spotify.com/artist/49z8TgYlM3f2KgWQWmEqLj"
+        },
+        {
+          "name": "Alan Paul Lal",
+          "url": "https://open.spotify.com/artist/5kDH6Tgc6e0wDxOqWuIMwY"
         }
       ],
-      "duration_ms": 265473,
-      "name": "The Vex Song",
-      "url": "https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33"
+      "duration_ms": 248000,
+      "name": "Lakhs of Kisses",
+      "url": "https://open.spotify.com/track/3xOva2NHv8cXA7zu6AaQdC"
+    },
+    {
+      "added_at": "2026-06-10 10:19:16",
+      "album": {
+        "name": "IOIO",
+        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
+      },
+      "artists": [
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 169117,
+      "name": "IOIO",
+      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
     },
     {
       "added_at": "2026-08-04 06:47:01",
@@ -377,6 +453,82 @@
       "url": "https://open.spotify.com/track/65SwdszQPvOwTjEdvYsO7p"
     },
     {
+      "added_at": "2026-08-11 04:59:34",
+      "album": {
+        "name": "Marakka Thonudh\u00e9",
+        "url": "https://open.spotify.com/album/5DWg0jFFJtjdkdMTqTtpDH"
+      },
+      "artists": [
+        {
+          "name": "Keyran",
+          "url": "https://open.spotify.com/artist/4g7DtRBVyQ23grLxtMEOrY"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        },
+        {
+          "name": "Eshwar",
+          "url": "https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Marakka Thonudh\u00e9",
+      "url": "https://open.spotify.com/track/43Wv0rkvjqxh6mOrbZyD4i"
+    },
+    {
+      "added_at": "2026-09-03 07:50:28",
+      "album": {
+        "name": "Kutty Ulagam",
+        "url": "https://open.spotify.com/album/0LcsIwoh5hNdP6VKfSwK8m"
+      },
+      "artists": [
+        {
+          "name": "Zhagaran sethu",
+          "url": "https://open.spotify.com/artist/543tJ8IQ1VsXFyZDya6JHw"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "Kutty Ulagam",
+      "url": "https://open.spotify.com/track/5PuWh6Eh9csA6lewCQ9CoO"
+    },
+    {
+      "added_at": "2026-08-24 16:13:58",
+      "album": {
+        "name": "I-popstar Tamil | Ep 14",
+        "url": "https://open.spotify.com/album/2P1KtSqhEyFG6SnwW1AVQO"
+      },
+      "artists": [
+        {
+          "name": "Trinita Misha Das",
+          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Wifi Kaadhal",
+      "url": "https://open.spotify.com/track/10XfKT7pdXygkAyQ2zYTWz"
+    },
+    {
+      "added_at": "2026-07-13 01:16:52",
+      "album": {
+        "name": "The Vex Song",
+        "url": "https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ"
+      },
+      "artists": [
+        {
+          "name": "Valluvan",
+          "url": "https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF"
+        }
+      ],
+      "duration_ms": 265473,
+      "name": "The Vex Song",
+      "url": "https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33"
+    },
+    {
       "added_at": "2026-08-26 06:00:00",
       "album": {
         "name": "Ketta Vibe",
@@ -391,6 +543,30 @@
       "duration_ms": 204000,
       "name": "Ketta Vibe",
       "url": "https://open.spotify.com/track/7wLdzJrBiHLTXzU9dqKlY4"
+    },
+    {
+      "added_at": "2026-08-17 13:48:43",
+      "album": {
+        "name": "I-popstar Tamil | Ep 12",
+        "url": "https://open.spotify.com/album/06SvG2DGASP9Q5qUtsOYC3"
+      },
+      "artists": [
+        {
+          "name": "Trinita Misha Das",
+          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
+        },
+        {
+          "name": "Maanasi G Kannan",
+          "url": "https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 202846,
+      "name": "Neram Aachu",
+      "url": "https://open.spotify.com/track/4lOgdJRrulT7XnRNapmXyX"
     },
     {
       "added_at": "2026-08-24 16:13:58",
@@ -437,58 +613,6 @@
       "url": "https://open.spotify.com/track/0v8a07HBZk9PbmHT8ztBGc"
     },
     {
-      "added_at": "2026-08-17 13:48:43",
-      "album": {
-        "name": "I-popstar Tamil | Ep 12",
-        "url": "https://open.spotify.com/album/06SvG2DGASP9Q5qUtsOYC3"
-      },
-      "artists": [
-        {
-          "name": "Trinita Misha Das",
-          "url": "https://open.spotify.com/artist/5rKjQdErGg9xPNsz2Luydu"
-        },
-        {
-          "name": "Maanasi G Kannan",
-          "url": "https://open.spotify.com/artist/6OXAnYyxRl5HCYhmqxbEAx"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 202846,
-      "name": "Neram Aachu",
-      "url": "https://open.spotify.com/track/4lOgdJRrulT7XnRNapmXyX"
-    },
-    {
-      "added_at": "2026-08-13 10:14:18",
-      "album": {
-        "name": "Lakhs of Kisses",
-        "url": "https://open.spotify.com/album/1FxHru21WAsI1L5RxBNCZg"
-      },
-      "artists": [
-        {
-          "name": "Logeshwara Chandrasekhar",
-          "url": "https://open.spotify.com/artist/0WfceOOFljgKvaHotpoxCc"
-        },
-        {
-          "name": "Ajsamudheen",
-          "url": "https://open.spotify.com/artist/2pTPtZAWH44U523ECPxXGn"
-        },
-        {
-          "name": "Jyothsna Jose",
-          "url": "https://open.spotify.com/artist/49z8TgYlM3f2KgWQWmEqLj"
-        },
-        {
-          "name": "Alan Paul Lal",
-          "url": "https://open.spotify.com/artist/5kDH6Tgc6e0wDxOqWuIMwY"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Lakhs of Kisses",
-      "url": "https://open.spotify.com/track/3xOva2NHv8cXA7zu6AaQdC"
-    },
-    {
       "added_at": "2026-08-21 09:02:00",
       "album": {
         "name": "I-popstar Tamil | Ep 13",
@@ -507,26 +631,6 @@
       "duration_ms": 145000,
       "name": "Raakalo",
       "url": "https://open.spotify.com/track/6VAfRgZKPWBI8WVpzKSg9w"
-    },
-    {
-      "added_at": "2026-06-10 10:19:16",
-      "album": {
-        "name": "IOIO",
-        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
-      },
-      "artists": [
-        {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
-        },
-        {
-          "name": "Vishnu Edavan",
-          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "IOIO",
-      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
     },
     {
       "added_at": "2026-08-07 06:32:01",
@@ -565,6 +669,26 @@
       "url": "https://open.spotify.com/track/0JTvJFBVPrSsqnKdyY1f8P"
     },
     {
+      "added_at": "2026-08-21 09:02:00",
+      "album": {
+        "name": "I-popstar Tamil | Ep 13",
+        "url": "https://open.spotify.com/album/1PCvXKccjajuLWe4Kypbp5"
+      },
+      "artists": [
+        {
+          "name": "Trend Gana Sanjay",
+          "url": "https://open.spotify.com/artist/1nd25HMG3vm12Srl2Rf3IB"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Gopalu Goindha",
+      "url": "https://open.spotify.com/track/4x0N2YPWWSYaS1EGrM99TC"
+    },
+    {
       "added_at": "2026-08-20 08:41:38",
       "album": {
         "name": "Thanga Pulla",
@@ -581,26 +705,6 @@
       "url": "https://open.spotify.com/track/1e8xYPPk90iMfk55UyeFwW"
     },
     {
-      "added_at": "2026-08-10 10:30:26",
-      "album": {
-        "name": "I-Popstar Tamil | Ep 09",
-        "url": "https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB"
-      },
-      "artists": [
-        {
-          "name": "Sai Prashob",
-          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 190846,
-      "name": "Ellam Neeye",
-      "url": "https://open.spotify.com/track/7wTUCkOEI0fjXy4MmpvYh7"
-    },
-    {
       "added_at": "2026-08-24 16:13:58",
       "album": {
         "name": "Nenje Vaa",
@@ -615,26 +719,6 @@
       "duration_ms": 223608,
       "name": "Nenje Vaa",
       "url": "https://open.spotify.com/track/568DulJMpNIPaTJ52erPEZ"
-    },
-    {
-      "added_at": "2026-08-07 10:37:54",
-      "album": {
-        "name": "Sillakku Sirukki",
-        "url": "https://open.spotify.com/album/0WgNi6NcbQbLpWbDsHZG4F"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ganesh",
-          "url": "https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr"
-        },
-        {
-          "name": "Kaushik Mahalengam",
-          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
-        }
-      ],
-      "duration_ms": 234433,
-      "name": "Sillakku Sirukki",
-      "url": "https://open.spotify.com/track/3yo6nlOUqnL1lL0VQdJzzL"
     },
     {
       "added_at": "2026-08-04 06:47:01",
@@ -655,6 +739,26 @@
       "duration_ms": 196000,
       "name": "Pona Pottum",
       "url": "https://open.spotify.com/track/4Aiha3P8OtqKaEvWzVg2eK"
+    },
+    {
+      "added_at": "2026-08-07 10:37:54",
+      "album": {
+        "name": "Sillakku Sirukki",
+        "url": "https://open.spotify.com/album/0WgNi6NcbQbLpWbDsHZG4F"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ganesh",
+          "url": "https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr"
+        },
+        {
+          "name": "Kaushik Mahalengam",
+          "url": "https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA"
+        }
+      ],
+      "duration_ms": 234433,
+      "name": "Sillakku Sirukki",
+      "url": "https://open.spotify.com/track/3yo6nlOUqnL1lL0VQdJzzL"
     },
     {
       "added_at": "2026-07-31 10:52:19",
@@ -685,24 +789,24 @@
       "url": "https://open.spotify.com/track/1yTDrGo2n2PizWQ3oHUZI5"
     },
     {
-      "added_at": "2026-08-21 09:02:00",
+      "added_at": "2026-07-27 06:38:44",
       "album": {
-        "name": "I-popstar Tamil | Ep 13",
-        "url": "https://open.spotify.com/album/1PCvXKccjajuLWe4Kypbp5"
+        "name": "I-Popstar Tamil | Ep 01",
+        "url": "https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD"
       },
       "artists": [
         {
-          "name": "Trend Gana Sanjay",
-          "url": "https://open.spotify.com/artist/1nd25HMG3vm12Srl2Rf3IB"
+          "name": "Rockzane",
+          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
         },
         {
           "name": "Sathyaprakash",
           "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
         }
       ],
-      "duration_ms": 153088,
-      "name": "Gopalu Goindha",
-      "url": "https://open.spotify.com/track/4x0N2YPWWSYaS1EGrM99TC"
+      "duration_ms": 161020,
+      "name": "Bachelorette Party",
+      "url": "https://open.spotify.com/track/4KTFOANiDY5YSxWVfTQOpD"
     },
     {
       "added_at": "2026-08-07 10:39:58",
@@ -719,26 +823,6 @@
       "duration_ms": 209580,
       "name": "MAYAKAMA",
       "url": "https://open.spotify.com/track/3HUBdnP13iIzMAT92kKmQ3"
-    },
-    {
-      "added_at": "2026-07-27 06:38:44",
-      "album": {
-        "name": "I-Popstar Tamil | Ep 01",
-        "url": "https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD"
-      },
-      "artists": [
-        {
-          "name": "Hemi",
-          "url": "https://open.spotify.com/artist/7MP4gHewke7qLeU0Yqlhvi"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Bodha Kannadi",
-      "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
     },
     {
       "added_at": "2026-07-10 15:09:33",
@@ -957,6 +1041,26 @@
       "url": "https://open.spotify.com/track/2Vvv7DwO5CQ4HMKeWF1FzG"
     },
     {
+      "added_at": "2026-07-27 06:38:44",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 03",
+        "url": "https://open.spotify.com/album/2rEAcLoRlmzSwrVkCLk6Pv"
+      },
+      "artists": [
+        {
+          "name": "Sai Prashob",
+          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 176153,
+      "name": "Pudhu Pudhu Payaname",
+      "url": "https://open.spotify.com/track/4UTWmbqELwp7zUugvpylA6"
+    },
+    {
       "added_at": "2026-06-30 11:25:01",
       "album": {
         "name": "Vaazhkai",
@@ -1001,26 +1105,6 @@
       "url": "https://open.spotify.com/track/23ncGHyB0DXrczXgsGZFho"
     },
     {
-      "added_at": "2026-07-27 06:38:44",
-      "album": {
-        "name": "I-Popstar Tamil | Ep 01",
-        "url": "https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD"
-      },
-      "artists": [
-        {
-          "name": "Rockzane",
-          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Bachelorette Party",
-      "url": "https://open.spotify.com/track/4KTFOANiDY5YSxWVfTQOpD"
-    },
-    {
       "added_at": "2026-07-08 06:10:44",
       "album": {
         "name": "Aathadi",
@@ -1039,26 +1123,6 @@
       "duration_ms": 267500,
       "name": "Aathadi",
       "url": "https://open.spotify.com/track/3EzGEMuDVJF8pxbWnNJWNx"
-    },
-    {
-      "added_at": "2026-07-27 06:38:44",
-      "album": {
-        "name": "I-Popstar Tamil | Ep 03",
-        "url": "https://open.spotify.com/album/2rEAcLoRlmzSwrVkCLk6Pv"
-      },
-      "artists": [
-        {
-          "name": "Sai Prashob",
-          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 176153,
-      "name": "Pudhu Pudhu Payaname",
-      "url": "https://open.spotify.com/track/4UTWmbqELwp7zUugvpylA6"
     },
     {
       "added_at": "2026-07-16 15:08:02",
@@ -1275,26 +1339,6 @@
       "duration_ms": 192512,
       "name": "Anu Anuvai",
       "url": "https://open.spotify.com/track/7rsNofmYWP8dRnHAulqs1c"
-    },
-    {
-      "added_at": "2026-07-10 15:14:01",
-      "album": {
-        "name": "27 Saayal",
-        "url": "https://open.spotify.com/album/36sC0MtrdgnqBw6D6yWVVe"
-      },
-      "artists": [
-        {
-          "name": "Kanav",
-          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
-        },
-        {
-          "name": "Dharshu Prakash",
-          "url": "https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb"
-        }
-      ],
-      "duration_ms": 154186,
-      "name": "Kallaatam",
-      "url": "https://open.spotify.com/track/0zYffmclu4HJoeFZusAE3Q"
     },
     {
       "added_at": "2026-06-25 06:48:21",
@@ -1967,42 +2011,6 @@
       "duration_ms": 168545,
       "name": "Paarthale Pathikichu",
       "url": "https://open.spotify.com/track/6CDBGXl3iFpcI19aucjIv5"
-    },
-    {
-      "added_at": "2026-03-14 14:43:30",
-      "album": {
-        "name": "Kaadhal Mazhai",
-        "url": "https://open.spotify.com/album/6RrWEPn2MK7weXFml7VoGc"
-      },
-      "artists": [
-        {
-          "name": "Satish GM Benilda",
-          "url": "https://open.spotify.com/artist/5ZTqNLoPXr3MQwxbCeYi9B"
-        },
-        {
-          "name": "Alisha Mathew Thayil",
-          "url": "https://open.spotify.com/artist/4qqgPPYCo4LUdFqrhvb0Oo"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Kaadhal Mazhai",
-      "url": "https://open.spotify.com/track/4Y30WM8dndBVZQohdrM81d"
-    },
-    {
-      "added_at": "2026-03-10 11:21:51",
-      "album": {
-        "name": "Nikkath\u00e9",
-        "url": "https://open.spotify.com/album/7r3tzdTW2Bc5ZHAdDyCX1C"
-      },
-      "artists": [
-        {
-          "name": "PAX DHARMA",
-          "url": "https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ"
-        }
-      ],
-      "duration_ms": 169437,
-      "name": "Nikkath\u00e9",
-      "url": "https://open.spotify.com/track/4TLjttDPZsTzPe2KLtngtl"
     },
     {
       "added_at": "2026-04-09 10:06:42",

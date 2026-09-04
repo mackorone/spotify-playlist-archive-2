@@ -2449,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "Old Ways",
+        "url": "https://open.spotify.com/album/52oAZMwTzU5KVcZb8rYMmR"
+      },
+      "artists": [
+        {
+          "name": "Reyne L.",
+          "url": "https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe"
+        },
+        {
+          "name": "REYNE",
+          "url": "https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157388,
+      "name": "Old Ways",
+      "url": "https://open.spotify.com/track/7e6AVhcPeQPOLPgMAhoqmI"
+    },
+    {
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/4eVo5kyRzRJqV6xvB59Z9v"
       },
@@ -2508,6 +2530,24 @@
       "duration_ms": 365932,
       "name": "On This Day on This Hour",
       "url": "https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/6606NOmoMXX7UUingAcxVT"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201932,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1mUrlzT59pAUOgDF6Sghiz"
     },
     {
       "album": {
@@ -3466,6 +3506,24 @@
       "duration_ms": 361600,
       "name": "Throne Room Song",
       "url": "https://open.spotify.com/track/1PUvZx8bARsf3ORSdmTxuN"
+    },
+    {
+      "album": {
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/7ICWs58bkQa6jEi6LoNN64"
+      },
+      "artists": [
+        {
+          "name": "Hope Music PH",
+          "url": "https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369473,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3sNvvtOd10RDZJJr4Y7cnW"
     },
     {
       "album": {

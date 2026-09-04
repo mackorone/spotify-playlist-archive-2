@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 
 > Explore the great works of Maurice Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,099 likes - 69 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,114 likes - 69 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhMbcax6CUd.md) - [plain]
 | 68 | [L'enfant et les sortilèges, M\. 71, Pt\. 2: Il est bon, l'enfant, il est sage](https://open.spotify.com/track/4AvY7gVmTUfiB3ss0FyG9J) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Julie Pasturaud](https://open.spotify.com/artist/3sli26dVl4gGSIng29sCYb), [Chœur Britten](https://open.spotify.com/artist/0ScBk7Uqee8JIiCa6n7j8M), [Jeune Chœur symphonique](https://open.spotify.com/artist/5VoGv1xzdrtcknh9cTlXyE), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: L'enfant et les sortilèges, M\. 71 & Ma mère l'oye, M\. 62](https://open.spotify.com/album/1XZNjMKhs0COCGQfkNUlzE) | 2:42 |
 | 69 | [Vocalise\-étude en forme de Habanera, M\. 51 \(Arr\. A\. Hoérée for Violin & Orchestra\)](https://open.spotify.com/track/1o5ShvQi10LrKMghc1ztH6) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Jennifer Gilbert](https://open.spotify.com/artist/5fZX4Z4yKaKq8TXAqZCIJK), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 1](https://open.spotify.com/album/3D9xsYnbDunYDlNpHPhaUo) | 3:12 |
 
-Snapshot ID: `AAAAAGo1PdC1KiEKQvQ3gApUr4YvY7+q`
+Snapshot ID: `AAAAAN9eY+7/MX1KPD/ww7EMZ1SEDMZ+`

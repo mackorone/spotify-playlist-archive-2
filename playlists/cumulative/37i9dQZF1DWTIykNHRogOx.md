@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Heroe.
+> Les  meilleures nouveautés de la chanson française avec Eddy de Pretto.
 
-368 songs - 20 hr 2 min
+369 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 | 2025-01-10 | 2025-02-21 |
 | [Bleu](https://open.spotify.com/track/5QgOSe0IWekbANgFkwqBz5) | [Antonin](https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC) | [Bleu](https://open.spotify.com/album/33Zk8TkJpJBKx58OYNQfRg) | 2:40 | 2026-03-19 | 2026-06-19 |
 | [Bonjour mon amour](https://open.spotify.com/track/3R9KKJYSdraCwuJZVRTnCp) | [Alexis Muratti](https://open.spotify.com/artist/0ZtYN8Q6LXIiyqE7bcDuJX) | [Bonjour mon amour](https://open.spotify.com/album/6VB0596dJfgxrlS0bFR7DK) | 4:53 | 2026-05-14 |  |
-| [bonjour mon amour, bonne nuit.](https://open.spotify.com/track/02JicXcJJFbV2J5c8RkQxX) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [bonjour mon amour, bonne nuit.](https://open.spotify.com/album/2JYLJM6efgqZQ7treAnsn1) | 2:43 | 2026-04-23 |  |
+| [bonjour mon amour, bonne nuit.](https://open.spotify.com/track/02JicXcJJFbV2J5c8RkQxX) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [bonjour mon amour, bonne nuit.](https://open.spotify.com/album/2JYLJM6efgqZQ7treAnsn1) | 2:43 | 2026-04-23 | 2026-09-04 |
 | [Bye Bye](https://open.spotify.com/track/21voZTmJ9CUaws5PnW8eqb) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Bye Bye](https://open.spotify.com/album/1njh9CTA7moOYkmr6BdaNl) | 2:25 | 2026-04-02 | 2026-07-03 |
 | [C'est fou comme je t'aime](https://open.spotify.com/track/46KAkT2PJ7aAgYiJAUsrKM) | [Foé](https://open.spotify.com/artist/5KRLYv4JDKx5jvR2EOdw7a) | [C'est fou comme je t'aime](https://open.spotify.com/album/1vXL0FA7JkIjvBbv0J4kdm) | 2:40 | 2024-06-27 | 2024-07-27 |
 | [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 | 2024-11-28 | 2025-04-25 |
@@ -319,6 +319,7 @@
 | [Sinon rien](https://open.spotify.com/track/6tQMgq461dDsvSstb8rDMG) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Sinon rien](https://open.spotify.com/album/5CcBcnoMEb3rVQ5cUKCAc3) | 2:08 | 2026-02-19 | 2026-05-29 |
 | [Soleil profond](https://open.spotify.com/track/29kFcRcb57sJwNSpFs9HaL) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Le Disque Bleu](https://open.spotify.com/album/0gv09X6sIqISSEyZUVznrD) | 4:11 | 2026-01-22 | 2026-04-24 |
 | [Solo dans mon lit double](https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe) | 3:39 | 2025-06-12 | 2025-10-03 |
+| [sous influence](https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [sous influence](https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP) | 3:06 | 2026-09-03 |  |
 | [Sous mon bob](https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Sous mon bob](https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ) | 2:42 | 2024-06-27 | 2024-10-11 |
 | [Souveraines](https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:13 | 2024-06-27 | 2024-09-27 |
 | [Syracuse](https://open.spotify.com/track/4a9SKqxRA9geKc5YoPnAf9) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Syracuse](https://open.spotify.com/album/4c0WzbUK3R4b1CeAsErd2M) | 2:48 | 2025-01-16 | 2025-06-13 |

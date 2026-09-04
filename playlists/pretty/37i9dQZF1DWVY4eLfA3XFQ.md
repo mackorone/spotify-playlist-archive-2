@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 💋 Tech house operators, featuring SIDEPIECE
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,741 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,843 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |
 | 125 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
 
-Snapshot ID: `AAAAAExTW6bbiMbjOJn66bfbPxXznMaZ`
+Snapshot ID: `AAAAAG54u4WC2oA+TKJFRbIvBjhdMVrC`

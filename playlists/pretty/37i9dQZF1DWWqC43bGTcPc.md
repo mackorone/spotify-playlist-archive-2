@@ -2,43 +2,43 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Patrick Brasca 派偉俊
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 理想混蛋 & 高爾宣OSN
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,668 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,684 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [甲乙丙丁Strangers](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁Strangers](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 |
-| 2 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 |
-| 3 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
-| 4 | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP) | 4:02 |
-| 5 | [一樣會愛上你](https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [一樣會愛上你](https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs) | 3:46 |
+| 2 | [一樣會愛上你](https://open.spotify.com/track/2wosRpLNTfFPZUhvwdo2Mc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [一樣會愛上你](https://open.spotify.com/album/519IY8cOwFs2GFZXqWKrQs) | 3:46 |
+| 3 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 |
+| 4 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
+| 5 | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP) | 4:02 |
 | 6 | [請圍著火焰保護我](https://open.spotify.com/track/2R7crW2wgXJwSKPfKplHlT) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [請圍著火焰保護我](https://open.spotify.com/album/1SkojqzU2AQIPpSrmei9y3) | 2:45 |
 | 7 | [一個人](https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [一個人](https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb) | 4:58 |
 | 8 | [整個世界，只有你連上了我 \- 《整個世界，只有你連上了我》影集主題曲](https://open.spotify.com/track/1kEDF2O38pTvoeI1OeazbZ) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [整個世界，只有你連上了我 \(《整個世界，只有你連上了我》影集主題曲\)](https://open.spotify.com/album/4aPSsJzEkjBA5Y5qLKlIV2) | 4:04 |
-| 9 | [Love Me Again](https://open.spotify.com/track/5qmJIlMbH22MJjlEjlFAPX) | [林佳辰](https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg) | [Love Me Again](https://open.spotify.com/album/2Ui78PqChH0aFRBOfmxsSv) | 3:34 |
-| 10 | [紫外線 2.0](https://open.spotify.com/track/5aOqVv5fepCrbUv8wBic3x) | [Dizzy Dizzo 蔡詩芸](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [紫外線 2.0](https://open.spotify.com/album/1W8Ebu3CEleo0f66iQpJGb) | 3:16 |
-| 11 | [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 |
-| 12 | [第八大洋](https://open.spotify.com/track/2k1pmgxA5wttMfSWR1khKY) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [第八大洋](https://open.spotify.com/album/0qzzrIkyJWdLMcWl7BvNfj) | 3:19 |
-| 13 | [平行宇宙](https://open.spotify.com/track/7EnFJKFmAIBMkqXgBGWxd3) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [平行宇宙](https://open.spotify.com/album/17ughE2j6dN17jfOK7w2Ys) | 3:27 |
-| 14 | [BAD IDEA](https://open.spotify.com/track/4a5qPoRELzRjKrxHwPD4yI) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 2:35 |
-| 15 | [殼 \- HBO原創影集《來！金來號！》片尾曲](https://open.spotify.com/track/2lrfadrCJt3NajEvUdt77p) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [殼 \(HBO原創影集《來！金來號！》片尾曲\)](https://open.spotify.com/album/4AFSk6RpSohw1mOZfnZOcT) | 3:31 |
-| 16 | [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 |
-| 17 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 |
-| 18 | [語音鈴聲](https://open.spotify.com/track/2lraKbtNwjVzT7Md0rHsGv) | [韋德WADE](https://open.spotify.com/artist/4XWexGlqZtr4NvxRx3dnfh), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [語音鈴聲](https://open.spotify.com/album/4BhVclm08xUqpDx9YDKSYz) | 3:19 |
-| 19 | [如果我很平庸](https://open.spotify.com/track/0o0yzV24yRsgFE1xstBeeV) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [如果我很平庸](https://open.spotify.com/album/2nvAnh0zMCPbV8Rm4tJsLi) | 4:05 |
-| 20 | [停在那邊](https://open.spotify.com/track/15sexXUOQLgqIgB3sLdQZV) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [停在那邊](https://open.spotify.com/album/4fjiXbRTCkgglWdTFQ9IfO) | 3:24 |
-| 21 | [去年下的那場雪](https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 4:20 |
-| 22 | [給我一槍](https://open.spotify.com/track/7McuqcfvOL7i4BOBgMrEkq) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [我墜落你自由](https://open.spotify.com/album/4yLGdlO6LRpg2I55eSbZJR) | 3:18 |
-| 23 | [頻率再也對不上了](https://open.spotify.com/track/565hcmMjB2cTeFmmO3zvUe) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [頻率再也對不上了](https://open.spotify.com/album/4rZkzwzljQcXCEnCHaOlWk) | 3:17 |
-| 24 | [變形記 \(影集《聰明鎮》宣傳曲\)](https://open.spotify.com/track/3aGCZOOlEkgFJtl0rJjyme) | [Fran](https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO) | [變形記](https://open.spotify.com/album/072TwJkm4l1PuHgwi8atEO) | 4:06 |
-| 25 | [Dream Light \- HBO原創影集《來！金來號！》主題曲](https://open.spotify.com/track/5p3ipydCyJLu1suJsODquu) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [Dream Light \- HBO原創影集《來！金來號！》主題曲](https://open.spotify.com/album/3PBQbrQX9TaEa8NMdKCh0u) | 3:44 |
+| 9 | [愛情長跑](https://open.spotify.com/track/0DtZEmbJCUAhylo5HVbTj2) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [洋蔥](https://open.spotify.com/artist/6JIc47t8N2DH29x4ysG5ib) | [愛情長跑](https://open.spotify.com/album/7yxoIdJEoigkkoOoHAX8VY) | 3:58 |
+| 10 | [Love Me Again](https://open.spotify.com/track/5qmJIlMbH22MJjlEjlFAPX) | [林佳辰](https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg) | [Love Me Again](https://open.spotify.com/album/2Ui78PqChH0aFRBOfmxsSv) | 3:34 |
+| 11 | [紫外線 2.0](https://open.spotify.com/track/5aOqVv5fepCrbUv8wBic3x) | [Dizzy Dizzo 蔡詩芸](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw) | [紫外線 2.0](https://open.spotify.com/album/1W8Ebu3CEleo0f66iQpJGb) | 3:16 |
+| 12 | [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 |
+| 13 | [第八大洋](https://open.spotify.com/track/2k1pmgxA5wttMfSWR1khKY) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [第八大洋](https://open.spotify.com/album/0qzzrIkyJWdLMcWl7BvNfj) | 3:19 |
+| 14 | [平行宇宙](https://open.spotify.com/track/7EnFJKFmAIBMkqXgBGWxd3) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [平行宇宙](https://open.spotify.com/album/17ughE2j6dN17jfOK7w2Ys) | 3:27 |
+| 15 | [BAD IDEA](https://open.spotify.com/track/4a5qPoRELzRjKrxHwPD4yI) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 2:35 |
+| 16 | [殼 \- HBO原創影集《來！金來號！》片尾曲](https://open.spotify.com/track/2lrfadrCJt3NajEvUdt77p) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [殼 \(HBO原創影集《來！金來號！》片尾曲\)](https://open.spotify.com/album/4AFSk6RpSohw1mOZfnZOcT) | 3:31 |
+| 17 | [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 |
+| 18 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 |
+| 19 | [語音鈴聲](https://open.spotify.com/track/2lraKbtNwjVzT7Md0rHsGv) | [韋德WADE](https://open.spotify.com/artist/4XWexGlqZtr4NvxRx3dnfh), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [語音鈴聲](https://open.spotify.com/album/4BhVclm08xUqpDx9YDKSYz) | 3:19 |
+| 20 | [如果我很平庸](https://open.spotify.com/track/0o0yzV24yRsgFE1xstBeeV) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [如果我很平庸](https://open.spotify.com/album/2nvAnh0zMCPbV8Rm4tJsLi) | 4:05 |
+| 21 | [停在那邊](https://open.spotify.com/track/15sexXUOQLgqIgB3sLdQZV) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [停在那邊](https://open.spotify.com/album/4fjiXbRTCkgglWdTFQ9IfO) | 3:24 |
+| 22 | [去年下的那場雪](https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 4:20 |
+| 23 | [給我一槍](https://open.spotify.com/track/7McuqcfvOL7i4BOBgMrEkq) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [我墜落你自由](https://open.spotify.com/album/4yLGdlO6LRpg2I55eSbZJR) | 3:18 |
+| 24 | [頻率再也對不上了](https://open.spotify.com/track/565hcmMjB2cTeFmmO3zvUe) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [頻率再也對不上了](https://open.spotify.com/album/4rZkzwzljQcXCEnCHaOlWk) | 3:17 |
+| 25 | [變形記 \(影集《聰明鎮》宣傳曲\)](https://open.spotify.com/track/3aGCZOOlEkgFJtl0rJjyme) | [Fran](https://open.spotify.com/artist/153IGWBrtnwq4YxIvg3zeO) | [變形記](https://open.spotify.com/album/072TwJkm4l1PuHgwi8atEO) | 4:06 |
 | 26 | [孤芳自賞](https://open.spotify.com/track/5rSDX95qZzbdjmB2IAKDzq) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [孤芳自賞](https://open.spotify.com/album/3kWAPgQyHaWMmSZbYISZbk) | 3:14 |
 | 27 | [綿綿無絕期](https://open.spotify.com/track/2s00UudzwUn1i16mO3zjVw) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 4:12 |
-| 28 | [背光的角色](https://open.spotify.com/track/7FP5KV7UzUNE0HMDfSXCmp) | [蕭景鴻](https://open.spotify.com/artist/2Gc59qel2tAk77ABsaCQDM) | [蕭景鴻 首張同名專輯](https://open.spotify.com/album/4METGEdv8Mxihlyq7J4Kjc) | 4:26 |
-| 29 | [聰明鎮 \(Netflix 影集《聰明鎮》宣傳曲\)](https://open.spotify.com/track/3mAQPr6HpFl1PZ40Ik68wm) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [怪星電影院](https://open.spotify.com/album/4nYYB4OUnICXj9iTQArQGi) | 3:20 |
-| 30 | [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 |
-| 31 | [Birdy Fly](https://open.spotify.com/track/1kYQz3ILMz6t6QiEuMeNpQ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Birdy Fly](https://open.spotify.com/album/2xZcep5azEozE5BpjnEN0o) | 4:00 |
+| 28 | [Dream Light \- HBO原創影集《來！金來號！》主題曲](https://open.spotify.com/track/5p3ipydCyJLu1suJsODquu) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [Dream Light \- HBO原創影集《來！金來號！》主題曲](https://open.spotify.com/album/3PBQbrQX9TaEa8NMdKCh0u) | 3:44 |
+| 29 | [背光的角色](https://open.spotify.com/track/7FP5KV7UzUNE0HMDfSXCmp) | [蕭景鴻](https://open.spotify.com/artist/2Gc59qel2tAk77ABsaCQDM) | [蕭景鴻 首張同名專輯](https://open.spotify.com/album/4METGEdv8Mxihlyq7J4Kjc) | 4:26 |
+| 30 | [聰明鎮 \(Netflix 影集《聰明鎮》宣傳曲\)](https://open.spotify.com/track/3mAQPr6HpFl1PZ40Ik68wm) | [怪星](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [怪星電影院](https://open.spotify.com/album/4nYYB4OUnICXj9iTQArQGi) | 3:20 |
+| 31 | [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 |
 | 32 | [過了幾天\(合唱版\)](https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天\(合唱版\)](https://open.spotify.com/album/06IQjkT67ciPebOSd4pdIP) | 4:55 |
 | 33 | [那天下雨了](https://open.spotify.com/track/0bWGqfaEeTIvrnKGPJFD18) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:43 |
 | 34 | [當世界遺落你](https://open.spotify.com/track/6bwZmEzzlIYdQX3QOKvu2a) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [當世界遺落你](https://open.spotify.com/album/3DVZ6c6UyzcCC8xMqTvLKR) | 3:58 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 38 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 |
 | 39 | [不是朋友的朋友](https://open.spotify.com/track/1TvfQuwyYmdphgTjHg5rHy) | [鄭馥儀](https://open.spotify.com/artist/0hV47C30VMq4Yi6zAQwPUB) | [不是朋友的朋友](https://open.spotify.com/album/4qoP6vyuEqUQFBR0EMokeL) | 4:00 |
 | 40 | [繞路](https://open.spotify.com/track/38RcCZ3geLYeYMzxTF1tpg) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [繞路](https://open.spotify.com/album/7LEQYEoBYvnlsoos9STleJ) | 4:36 |
-| 41 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 |
-| 42 | [等你等我](https://open.spotify.com/track/7DAfxIe4dYbg8EXWeuHC9j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [未完成的關係](https://open.spotify.com/album/700UtwY97ixDyGBea5GQD8) | 3:39 |
-| 43 | [我獨自求救](https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我獨自求救](https://open.spotify.com/album/5vxba0YEJcbCWvnkPaH2jI) | 2:48 |
-| 44 | [總有一工](https://open.spotify.com/track/6a1Vc9cjuo3uir25udeagc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [總有一工](https://open.spotify.com/album/7eOa9KsdxugJDb7bflaVPr) | 4:08 |
-| 45 | [我還有個夢](https://open.spotify.com/track/0zAirwis62ZB9LExKoWXtH) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [我還有個夢](https://open.spotify.com/album/4Dl1sqiAfFk2XzVVF8g2A1) | 3:52 |
-| 46 | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/track/7fsuhPKDSuyRPTKGDVW975) | [AC](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/album/1TiEJm1FGVxVgJk5oke0ZI) | 3:49 |
+| 41 | [等你等我](https://open.spotify.com/track/7DAfxIe4dYbg8EXWeuHC9j) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [未完成的關係](https://open.spotify.com/album/700UtwY97ixDyGBea5GQD8) | 3:39 |
+| 42 | [總有一工](https://open.spotify.com/track/6a1Vc9cjuo3uir25udeagc) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [總有一工](https://open.spotify.com/album/7eOa9KsdxugJDb7bflaVPr) | 4:08 |
+| 43 | [火花](https://open.spotify.com/track/005eESnSIcR99N474aIINN) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [火花](https://open.spotify.com/album/2YcI0NdlIWmclLZixP6oMb) | 4:23 |
+| 44 | [我還有個夢](https://open.spotify.com/track/0zAirwis62ZB9LExKoWXtH) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [我還有個夢](https://open.spotify.com/album/4Dl1sqiAfFk2XzVVF8g2A1) | 3:52 |
+| 45 | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/track/7fsuhPKDSuyRPTKGDVW975) | [AC](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/album/1TiEJm1FGVxVgJk5oke0ZI) | 3:49 |
+| 46 | [To\-Do list ft\. 呂允](https://open.spotify.com/track/5U6ZFzKLDfQc94lawVvTMY) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx), [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [永恆少年少女](https://open.spotify.com/album/5qfTuiKKQwMEnZvbyFyyrU) | 2:59 |
 | 47 | [流浪流浪就好](https://open.spotify.com/track/6PJ0cGnIfDYIn9QEfEYRuW) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [流浪流浪就好](https://open.spotify.com/album/3GgYoKS7SM7XkUF02gxOUC) | 3:03 |
-| 48 | [漫漫長夜](https://open.spotify.com/track/6juKLpiHRBMociN7R4WP74) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [漫漫長夜](https://open.spotify.com/album/2u1JHZs5XcvIRShNl3K66J) | 3:13 |
-| 49 | [裝睡的人](https://open.spotify.com/track/1N4xGyCDZNWsHZZlBSJkFs) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [裝睡的人](https://open.spotify.com/album/7rUx8sF2L40YZjJo2nIx6e) | 4:28 |
-| 50 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
+| 48 | [裝睡的人](https://open.spotify.com/track/1N4xGyCDZNWsHZZlBSJkFs) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [裝睡的人](https://open.spotify.com/album/7rUx8sF2L40YZjJo2nIx6e) | 4:28 |
+| 49 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
+| 50 | [未來日記](https://open.spotify.com/track/0TvW7hB1zS0KiBaEvmWJdc) | [曾柏鈞 JIMBo](https://open.spotify.com/artist/1A6qrb6qglTwq3rtzQ3L7L) | [未來日記](https://open.spotify.com/album/4vLw8KLL07kHKceMPkQiic) | 3:03 |
 
-Snapshot ID: `AAAAADXIDiXTzGHKtWObxG0eOyy3Mraj`
+Snapshot ID: `AAAAANjR03lXVJ2qksgI/xVLrUWS7onz`

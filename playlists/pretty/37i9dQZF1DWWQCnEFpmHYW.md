@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,614 likes - 125 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,677 likes - 125 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQCnEFpmHYW.md) - [plain]
 | 124 | [Grey Clouds](https://open.spotify.com/track/5U3PWh3MROXWtepFYB6NAF) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 |
 | 125 | [Rain Zone](https://open.spotify.com/track/32W2llxLUCICb1tA56NvcL) | [Washy Wonka](https://open.spotify.com/artist/3U9X5kGfb8HedidPV4Vn0L) | [Wicked Weather](https://open.spotify.com/album/4t7eWexNZDGac2eturu9xI) | 2:36 |
 
-Snapshot ID: `AAAAAM7vFdYBSP7slnikeWLnFyxVb4On`
+Snapshot ID: `AAAAAEcURr8SwJdRXsksGvukBdYbnzGP`

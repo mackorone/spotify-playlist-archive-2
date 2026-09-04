@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "amor \u00e9 bom mas ningu\u00e9m quer",
+  "description": "os mlk a milh\u00e3o do 013 ao 019",
   "name": "creme",
   "tracks": [
     {
@@ -1116,6 +1116,28 @@
       "duration_ms": 185666,
       "name": "Amina",
       "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
+    },
+    {
+      "album": {
+        "name": "AMO FLOR",
+        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "AMO FLOR",
+      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
     },
     {
       "album": {
@@ -5494,7 +5516,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 107476,
       "name": "Ego - th4ys Remix",
       "url": "https://open.spotify.com/track/0JQIFWq4KVdmYjaqyMfYuk"
@@ -10721,6 +10743,32 @@
     },
     {
       "album": {
+        "name": "MLK DOIDO",
+        "url": "https://open.spotify.com/album/562oXxAsAVd6hSKeLTPUXP"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145846,
+      "name": "MLK DOIDO",
+      "url": "https://open.spotify.com/track/6zrNb0YZ22L83CL5kpUIKn"
+    },
+    {
+      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
@@ -11788,6 +11836,32 @@
       "duration_ms": 156000,
       "name": "No Raio da Pallaz",
       "url": "https://open.spotify.com/track/43OJZcJJZEcZpWkHle9oh9"
+    },
+    {
+      "album": {
+        "name": "PAGANDO O PRE\u00c7O",
+        "url": "https://open.spotify.com/album/1AeMj46ygsaR5svcSy6P34"
+      },
+      "artists": [
+        {
+          "name": "Ghard",
+          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Nois Dois",
+      "url": "https://open.spotify.com/track/6czFTaJt3z4dQTUj9krR6k"
     },
     {
       "album": {
@@ -16708,7 +16782,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 518783,
       "name": "SET DO JAPA NK 2.0",
       "url": "https://open.spotify.com/track/1JZDwJgE9VSC0V2GR66z63"
@@ -18716,7 +18790,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 217941,
       "name": "VAI DESCE BABY",
       "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"

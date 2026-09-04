@@ -4,7 +4,7 @@
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Theo Rose
 
-574 songs - 1 day 3 hr 13 min
+575 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Hide](https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Hide](https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P) | 3:38 | 2024-09-03 | 2024-10-03 |
 | [Homesick](https://open.spotify.com/track/7oZpj2oUCBwh9UaB2B9amZ) | [Krrysopher](https://open.spotify.com/artist/3ONx3pRxTJspIUsqkpa1ky) | [ROGVAIV](https://open.spotify.com/album/3lQ2pDckiupoMJRPYOzI8c) | 4:19 | 2026-03-19 | 2026-04-08 |
 | [hot like this](https://open.spotify.com/track/0cbx5o34TNsYW1HM2XtG8l) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [hot like this](https://open.spotify.com/album/5GEJu74dpDFP43LSUmBHEC) | 2:24 | 2025-08-05 | 2025-09-03 |
+| [I Knew](https://open.spotify.com/track/2Fy3nVEjM2Mmvc6WrDPZ10) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [I Knew](https://open.spotify.com/album/3H0tJAfrzkljPGFKEplXR5) | 2:43 | 2026-09-01 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'll Be Waiting](https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0) | 2:03 | 2025-06-03 | 2025-09-03 |
 | [I'm Sorry](https://open.spotify.com/track/5iBXKI4n7OdjdAL057Ljad) | [Silvia Tache](https://open.spotify.com/artist/1lIt10eXYGaJpIovEYnEQ5) | [I'm Sorry](https://open.spotify.com/album/61lqVCn8wsaibnOUOBLA5B) | 3:08 | 2026-06-30 |  |
 | [Ia Loc](https://open.spotify.com/track/6wOQ7xqVkemBbc8tySYBcA) | [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Ia Loc](https://open.spotify.com/album/3UAVxkT83K8fmqeA4RZHdb) | 3:21 | 2024-06-04 | 2024-09-04 |

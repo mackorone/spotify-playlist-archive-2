@@ -5853,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "Ding Ding",
+        "url": "https://open.spotify.com/album/2fM327n42oR9FGLNh9XOvy"
+      },
+      "artists": [
+        {
+          "name": "Unge Lama",
+          "url": "https://open.spotify.com/artist/17FU6Qmo3DRxs1xxyxbUOd"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145868,
+      "name": "Ding Ding",
+      "url": "https://open.spotify.com/track/7HiYdEFklEgpCR8iJzjc4c"
+    },
+    {
+      "album": {
         "name": "Disco",
         "url": "https://open.spotify.com/album/7eJPgcbO2zBslEqZWNWTuk"
       },
@@ -18847,6 +18865,32 @@
     },
     {
       "album": {
+        "name": "LESS P\u00c5 DIG",
+        "url": "https://open.spotify.com/album/3vuFUWP5RpwS7CBxbTAcLP"
+      },
+      "artists": [
+        {
+          "name": "KYPARN",
+          "url": "https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147100,
+      "name": "LESS P\u00c5 DIG",
+      "url": "https://open.spotify.com/track/0PpOPPzQx4Kvw9CZVEQKIY"
+    },
+    {
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/5Pd8Q52s4adFAMA24dqz42"
       },
@@ -21112,6 +21156,24 @@
       "duration_ms": 113200,
       "name": "MUSTASCH",
       "url": "https://open.spotify.com/track/7HlKwS6sHRuSzQ9zef9Wul"
+    },
+    {
+      "album": {
+        "name": "MVH (Fuck You Goodbye)",
+        "url": "https://open.spotify.com/album/1jBjhyl2vBZ5WWhm69WkNN"
+      },
+      "artists": [
+        {
+          "name": "10.2%",
+          "url": "https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142816,
+      "name": "MVH (Fuck You Goodbye)",
+      "url": "https://open.spotify.com/track/2UGrTfg8ykVeWeUFSWReUZ"
     },
     {
       "album": {
@@ -24100,7 +24162,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 148153,
       "name": "P\u00c5 LOKAL",
       "url": "https://open.spotify.com/track/5pF1DygehF10LeCIpV936H"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep 💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,759 likes - 234 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,815 likes - 234 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 233 | [still waiting](https://open.spotify.com/track/454yeJafX48nm3ml9HKOxW) | [soluneia](https://open.spotify.com/artist/2xhXuKXaagqT7QOUe7Af7c) | [still waiting](https://open.spotify.com/album/0cfXrYr1HQKNICTBqqGB2l) | 1:51 |
 | 234 | [Neural Lull Code](https://open.spotify.com/track/4YljW7DTRjnMxFejdUy9er) | [Dorm Sentry](https://open.spotify.com/artist/74NpAp6R9lzpE19Tnebqf7) | [Neural Lull Code](https://open.spotify.com/album/2BR8sAIroEDyLiT7Z7qyaw) | 2:40 |
 
-Snapshot ID: `AAAAAAf/K2rwQw40LJ+2lgsXdy7IW0ty`
+Snapshot ID: `AAAAAOgNEFPXphNiEi4ofmcHpYFl6rCW`

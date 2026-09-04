@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 78963,
+  "num_followers": 78965,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPEh7gfSyHYKf+2UpnbLFQJJyqhU",
+  "snapshot_id": "AAAAACnWQu6fVuivm7I8mWD4vsYj02OV",
   "tracks": [
     {
       "added_at": "2025-10-06 14:50:07",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Estihala (Live Acoustic)",
-        "url": "https://open.spotify.com/album/3tVevDZe08Jf26YZnjInGT"
-      },
-      "artists": [
-        {
-          "name": "Sherif Meged",
-          "url": "https://open.spotify.com/artist/42dFHQGSt3aXlp0v3Dy4xG"
-        }
-      ],
-      "duration_ms": 198194,
-      "name": "Estihala - Live Acoustic",
-      "url": "https://open.spotify.com/track/0CHNFpFyVHk2GwYxcbStKx"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "\u0645\u0641\u0631\u0642 48 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 173013,
       "name": "Keber Al Alb",
       "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Estihala (Live Acoustic)",
+        "url": "https://open.spotify.com/album/3tVevDZe08Jf26YZnjInGT"
+      },
+      "artists": [
+        {
+          "name": "Sherif Meged",
+          "url": "https://open.spotify.com/artist/42dFHQGSt3aXlp0v3Dy4xG"
+        }
+      ],
+      "duration_ms": 198194,
+      "name": "Estihala - Live Acoustic",
+      "url": "https://open.spotify.com/track/0CHNFpFyVHk2GwYxcbStKx"
     },
     {
       "added_at": "2025-10-06 14:50:07",

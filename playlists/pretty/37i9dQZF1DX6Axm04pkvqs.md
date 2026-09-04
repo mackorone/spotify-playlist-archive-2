@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,791 likes - 80 songs - 12 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,858 likes - 80 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 79 | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/track/3GBLldAE30bF3eAnE1z4ws) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/album/7rt2Nc83eLlhmILEvHrskU) | 5:11 |
 | 80 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 
-Snapshot ID: `AAAAACJaBTU+bQi/b6dfIXkgza8o1Xhp`
+Snapshot ID: `AAAAAKsFnpY97VUPiCzRNP4TenfLuVJl`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Inge Lamboo",
+  "description": "Nieuwe tijdloze muziek. Cover: Douwe Bob",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 301674,
       "name": "Click Clack Symphony. (feat. Hans Zimmer)",
       "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 186438,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 215584,
       "name": "Dark Before The Dawn",
       "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196012,
       "name": "HOME TO MOTHER",
       "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
@@ -6788,7 +6788,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 377003,
       "name": "I Know You're Hurting.",
       "url": "https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ"
@@ -7258,7 +7258,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 273906,
       "name": "In A Life",
       "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
@@ -8023,6 +8023,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Behind",
+        "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228052,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB"
       },
@@ -8416,7 +8434,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 198133,
       "name": "Little Julie",
       "url": "https://open.spotify.com/track/4R81EpbX3pkXUfnwnVJuME"
@@ -8470,7 +8488,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 219103,
       "name": "Livin' For",
       "url": "https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG"
@@ -9559,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/0GKR0SFsSk5KptVO88Mpph"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241057,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/6ZZBMSIa6EaOxRrzhxK0fA"
+    },
+    {
+      "album": {
         "name": "My Mess",
         "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
       },
@@ -10078,6 +10114,24 @@
       "duration_ms": 188840,
       "name": "Not My Game",
       "url": "https://open.spotify.com/track/1OXpViolgHGZiUxeFTdx0I"
+    },
+    {
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/5lIHC13ACZ3AAgCggkR50i"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/1nYfCyKon0jtsOh2WYMfxo"
     },
     {
       "album": {
@@ -13090,7 +13144,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 221218,
       "name": "Still Champagne",
       "url": "https://open.spotify.com/track/5O2Ut0Ka1wthWEuarwCWSJ"
@@ -13953,6 +14007,24 @@
     },
     {
       "album": {
+        "name": "That Ain't You",
+        "url": "https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156230,
+      "name": "That Ain\u2019t You",
+      "url": "https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7"
+    },
+    {
+      "album": {
         "name": "That Is You",
         "url": "https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X"
       },
@@ -14022,7 +14094,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 207520,
       "name": "That\u2019s The Way Love Goes",
       "url": "https://open.spotify.com/track/2jFPkfDvzOcr1wnP9v5n10"
@@ -14066,6 +14138,24 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+    },
+    {
+      "album": {
+        "name": "The Ballad Of Terry Fox",
+        "url": "https://open.spotify.com/album/57iGR84BHy4SlXzBYhLHfI"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269936,
+      "name": "The Ballad Of Terry Fox",
+      "url": "https://open.spotify.com/track/1OvkfOMOTNHsnfgVgGWWbQ"
     },
     {
       "album": {
@@ -14629,6 +14719,24 @@
     },
     {
       "album": {
+        "name": "Therapist's Daughter",
+        "url": "https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173593,
+      "name": "Therapist's Daughter",
+      "url": "https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R"
+    },
+    {
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t"
       },
@@ -15114,7 +15222,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 253703,
       "name": "Today (Elevator Song)",
       "url": "https://open.spotify.com/track/0CwrWwanRwqVs8ClgYuEjl"
@@ -15540,7 +15648,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177813,
       "name": "Until My Last Breath",
       "url": "https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1"
@@ -15642,6 +15750,24 @@
       "duration_ms": 200160,
       "name": "Vinegar & Salt - Live With Strings",
       "url": "https://open.spotify.com/track/6pYv0MOWok2xVsotQ8fOW7"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/16oh12XXfnBEZI2qyYiTQy"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/4U6J2RfAvrShW9OUsADVlX"
     },
     {
       "album": {
@@ -16112,7 +16238,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169637,
       "name": "Welcome To Outcast Town",
       "url": "https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ"
@@ -16130,7 +16256,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 165785,
       "name": "What A Way To Die",
       "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
@@ -16826,6 +16952,28 @@
       "duration_ms": 210931,
       "name": "Wrong - Re-imagined",
       "url": "https://open.spotify.com/track/10pLmMEidgvRhd6MEqxb2r"
+    },
+    {
+      "album": {
+        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
+      },
+      "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204690,
+      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
     },
     {
       "album": {

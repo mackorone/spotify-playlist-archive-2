@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,185 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,182 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Baby Roe](https://open.spotify.com/track/5uxTlayhGSIwr8SjEqVQQ9) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Baby Roe](https://open.spotify.com/album/5CX31s6MUWs5DsSuU7s20G) | 3:06 |
 | 150 | [The Saddest Song](https://open.spotify.com/track/1jFPb2lw9llGvXcFEMXmD5) | [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [The Saddest Song](https://open.spotify.com/album/5X1aa8zc8YsN4eatUsDkNE) | 3:33 |
 
-Snapshot ID: `AAAAAFUa1orukkp3KmBsS5leGPqsUFKX`
+Snapshot ID: `AAAAAJCBBZbyoO4Xoj0SP1V+GDecZ70S`

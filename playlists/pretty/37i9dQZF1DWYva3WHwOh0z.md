@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYva3WHwOh0z.md) - [plain]
 
 > ¡Las canciones rancheras de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,138 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,167 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYva3WHwOh0z.md) - [plain]
 | 49 | [Perfidia](https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Romances](https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv) | 3:26 |
 | 50 | [Los días felices](https://open.spotify.com/track/3MMCBN8S3HRrDkJ1flKQQ8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 3:48 |
 
-Snapshot ID: `AAAAAHl5n9xFqFdNct15yBUdKEK8iTNN`
+Snapshot ID: `AAAAAHn4dJE14VXjM0Nl4k+uHg55oYzR`

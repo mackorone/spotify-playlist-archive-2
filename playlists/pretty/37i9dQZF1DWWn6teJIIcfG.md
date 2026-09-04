@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,390 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,396 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 119 | [Sing Gently](https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Sing Gently](https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY) | 3:45 |
 | 120 | [Préludes, Book 2: V\. Bruyères](https://open.spotify.com/track/1MXHiRxjE4jp6MxHXWYIT7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Anna Tsybuleva](https://open.spotify.com/artist/5KR6Fiu20JZXyqLH7PHn8N) | [Debussy: Préludes, Book 2: V\. Bruyères](https://open.spotify.com/album/11Fu5kidvDn8hule3EVVb1) | 3:33 |
 
-Snapshot ID: `AAAAACV4orxSCnH37hnYBBWr9inVuhXz`
+Snapshot ID: `AAAAAF8OJcvNNsqLzbEJm+XRj6Voh9c/`

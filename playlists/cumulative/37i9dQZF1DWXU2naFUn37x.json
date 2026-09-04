@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "PACCHI, VOL. 1: END OF SUMMER",
+        "url": "https://open.spotify.com/album/02HRXRRaUzG4XCZrbEmXpY"
+      },
+      "artists": [
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152842,
+      "name": "187",
+      "url": "https://open.spotify.com/track/3XocpUPxU3nhIuNh0A3jPa"
+    },
+    {
+      "album": {
         "name": "2 Minuti",
         "url": "https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 131296,
       "name": "A ROT GIR",
       "url": "https://open.spotify.com/track/3twNLjZOcirgWcvGyFLpwL"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 134558,
       "name": "BOBO",
       "url": "https://open.spotify.com/track/5gYRQlaVLI9ElFPvddbzOi"
@@ -4818,7 +4836,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 127316,
       "name": "Cardi B (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/5SRHJ0ZuinjybrFmD5p8R7"
@@ -5140,7 +5158,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 119130,
       "name": "Cavernicolo (feat. G.Mineiro)",
       "url": "https://open.spotify.com/track/5cxWrhYjKgoVSkbSQ4bGCP"
@@ -10898,7 +10916,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 112387,
       "name": "Il traditore",
       "url": "https://open.spotify.com/track/0moE4sXGN25fSYjyK4vvFH"
@@ -19426,7 +19444,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 164707,
       "name": "RODRIGO RISIVI",
       "url": "https://open.spotify.com/track/6uaOFCMlR4oF0UXZKecenU"

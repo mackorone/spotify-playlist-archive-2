@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Bea",
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: MISSU",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -182,6 +182,24 @@
       "duration_ms": 163738,
       "name": "2PAGEU",
       "url": "https://open.spotify.com/track/0UWW0ia2ftBg6S73OhqWfX"
+    },
+    {
+      "album": {
+        "name": "3 Month Mark",
+        "url": "https://open.spotify.com/album/4SjYVCWZRMJ2KUXTEybzTv"
+      },
+      "artists": [
+        {
+          "name": "Ruby Poole",
+          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "3 Month Mark",
+      "url": "https://open.spotify.com/track/6nFHVsqOubPuqE9pA885YF"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 191422,
       "name": "all my favourite people are sad",
       "url": "https://open.spotify.com/track/73teKlQSNXkhFn4rBxETwI"
@@ -4221,6 +4239,24 @@
     },
     {
       "album": {
+        "name": "ARE WE GONNA SING?",
+        "url": "https://open.spotify.com/album/0p886Wigw8LQsk1Dq0i0st"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "CAUGHT IN THE MIDDLE",
+      "url": "https://open.spotify.com/track/3rZ8MPU2GY4Vfv3mRnxUP9"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
       },
@@ -4542,7 +4578,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194351,
       "name": "Choosy",
       "url": "https://open.spotify.com/track/2qILFsJ6GbmqBVdBrmF0Qh"
@@ -8069,6 +8105,24 @@
     },
     {
       "album": {
+        "name": "First Move",
+        "url": "https://open.spotify.com/album/4XHOqxua9xaYvLLRTjWSvf"
+      },
+      "artists": [
+        {
+          "name": "Lily Ward",
+          "url": "https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191450,
+      "name": "First Move",
+      "url": "https://open.spotify.com/track/7F1lGSxfmWzayn8Y8GJr4P"
+    },
+    {
+      "album": {
         "name": "First Original Thought",
         "url": "https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD"
       },
@@ -10851,6 +10905,24 @@
     },
     {
       "album": {
+        "name": "Hysteric Glamour",
+        "url": "https://open.spotify.com/album/354MCyTE5jwqYiRRcHjVyy"
+      },
+      "artists": [
+        {
+          "name": "Abby Roberts",
+          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170973,
+      "name": "Hysteric Glamour",
+      "url": "https://open.spotify.com/track/4faV50p9ylTYr02LPmvNuz"
+    },
+    {
+      "album": {
         "name": "PRINCESS OF POWER",
         "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU"
       },
@@ -11100,6 +11172,24 @@
       "duration_ms": 204568,
       "name": "I Hate Everyone",
       "url": "https://open.spotify.com/track/3zHbHakOUTrzFWhpKycFbQ"
+    },
+    {
+      "album": {
+        "name": "I HATE YOU DON'T LEAVE ME !",
+        "url": "https://open.spotify.com/album/64MjPDx2RsvKOFSAqu5B2q"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "I HATE YOU DON'T LEAVE ME !",
+      "url": "https://open.spotify.com/track/2nZFXBGRt0j2OidpbhDhNn"
     },
     {
       "album": {
@@ -12148,7 +12238,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208379,
       "name": "Island",
       "url": "https://open.spotify.com/track/4OlKkdk4xclh30KufpSmf5"
@@ -13171,6 +13261,24 @@
     },
     {
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/3cr9fPQGmf95wDijsPMS93"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244482,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/0Ips33gQFgMbm0ipaWkpcb"
+    },
+    {
+      "album": {
         "name": "left out",
         "url": "https://open.spotify.com/album/2bLEEt5KR7gHlKotBWg3CU"
       },
@@ -13402,6 +13510,24 @@
       "duration_ms": 193755,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/7tuKf6C1YINV2hPGlccnG9"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240648,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5sTcGQXd5WuW1slqxpDP0E"
     },
     {
       "album": {
@@ -16491,6 +16617,24 @@
     },
     {
       "album": {
+        "name": "Orange Wine",
+        "url": "https://open.spotify.com/album/1Y3SirSXiKgZMnrPQubauH"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190934,
+      "name": "Orange Wine",
+      "url": "https://open.spotify.com/track/2v1eNKtCcOThjhGcXAgI3V"
+    },
+    {
+      "album": {
         "name": "SINK NOW, SWIM LATER",
         "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
       },
@@ -16672,6 +16816,24 @@
       "duration_ms": 161398,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf"
+    },
+    {
+      "album": {
+        "name": "OUTTASIGHT",
+        "url": "https://open.spotify.com/album/4hKK9lShc89pZBDmeb60n6"
+      },
+      "artists": [
+        {
+          "name": "MISSU",
+          "url": "https://open.spotify.com/artist/0mgZJ2lmD9jk1YSF43YwSG"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123633,
+      "name": "OUTTASIGHT",
+      "url": "https://open.spotify.com/track/5IHMpQ31TkzT3Tv1SUPYOw"
     },
     {
       "album": {
@@ -17954,7 +18116,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 149665,
       "name": "Put Some Miles On It",
       "url": "https://open.spotify.com/track/4miuDgDJTSi3wsuhv8m6yV"
@@ -18754,7 +18916,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196362,
       "name": "RUMOURS",
       "url": "https://open.spotify.com/track/1i75EU9PVdgpbGHduHclqd"
@@ -19143,6 +19305,24 @@
     },
     {
       "album": {
+        "name": "saysomething (bite)",
+        "url": "https://open.spotify.com/album/3sFipt905VqFVSuvsYhsxt"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260559,
+      "name": "saysomething (bite)",
+      "url": "https://open.spotify.com/track/4wE4dYWfANThsgaMCawMxu"
+    },
+    {
+      "album": {
         "name": "Scared",
         "url": "https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju"
       },
@@ -19399,6 +19579,24 @@
     },
     {
       "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/2nAaHgWie5zUSirGt0C6wF"
+      },
+      "artists": [
+        {
+          "name": "Thanks For The Help",
+          "url": "https://open.spotify.com/artist/0MdXgQRrtJ1l2YEgxSMTGO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118874,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/28wIjEscbAu1G0LNmCW5sy"
+    },
+    {
+      "album": {
         "name": "sex dreams do cum tru",
         "url": "https://open.spotify.com/album/5YzxSH4ctA14VlbzNKmrAP"
       },
@@ -19626,7 +19824,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 200417,
       "name": "She's The Only One",
       "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
@@ -19720,6 +19918,42 @@
       "duration_ms": 181866,
       "name": "Short Enough",
       "url": "https://open.spotify.com/track/7beWZqeIrKivVpZeD18nQQ"
+    },
+    {
+      "album": {
+        "name": "shortman syndrome",
+        "url": "https://open.spotify.com/album/0upkP5O2rhQjBnmn5lPpYN"
+      },
+      "artists": [
+        {
+          "name": "fliss",
+          "url": "https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "shortman syndrome",
+      "url": "https://open.spotify.com/track/6RjxywsCw5dR6EPT458NED"
+    },
+    {
+      "album": {
+        "name": "Should Have Known Better",
+        "url": "https://open.spotify.com/album/07hdmwLeCeGdGuORY18mRZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos",
+          "url": "https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177046,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/5SUmgoHUVgM8piA2qSHWN2"
     },
     {
       "album": {
@@ -19846,7 +20080,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 211753,
       "name": "sickofmyself",
       "url": "https://open.spotify.com/track/6raJqhmnpOyHr5n7QJI1cC"
@@ -20332,7 +20566,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179000,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5E0hXNBZHBVNa67rIzlACp"
@@ -22504,7 +22738,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 201000,
       "name": "THE SCARIEST PART !",
       "url": "https://open.spotify.com/track/04EUp7IZUomln2noaHvwRw"
@@ -24126,6 +24360,24 @@
       "duration_ms": 188800,
       "name": "Where Do I Go?",
       "url": "https://open.spotify.com/track/29DCVs4TdORajbgYMWG9qg"
+    },
+    {
+      "album": {
+        "name": "Where the Fairies Lie",
+        "url": "https://open.spotify.com/album/1slvZQBeHdjFA5h344FYOl"
+      },
+      "artists": [
+        {
+          "name": "Ruby Aeron",
+          "url": "https://open.spotify.com/artist/6yaRQJMtG4zuH0qPme91xP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166752,
+      "name": "Where the Fairies Lie",
+      "url": "https://open.spotify.com/track/1v5F9Lf9UqhdGUasJF84EQ"
     },
     {
       "album": {

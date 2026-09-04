@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest alternative rock songs through the decades\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,505 likes - 200 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,589 likes - 200 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 199 | [I Miss You](https://open.spotify.com/track/3jBvVySFsir2Cn8kGH90Ah) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \(Explicit Version\)](https://open.spotify.com/album/2ghxwONTYbBQNxkROvij6C) | 3:47 |
 | 200 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 |
 
-Snapshot ID: `AAAAAPy3W+rdSR6ju3hKutNJxv2L/kJA`
+Snapshot ID: `AAAAAKZazTgXCnzWeZhdrskkyY7xd9T5`

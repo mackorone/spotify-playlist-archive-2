@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Iuna Falc\u00e3o",
+  "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Camargo",
   "name": "Fresh Finds Brasil",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
@@ -3662,6 +3662,24 @@
       "duration_ms": 231978,
       "name": "Mau Contato",
       "url": "https://open.spotify.com/track/3t3Ris8Le34GdkYN8pkuRT"
+    },
+    {
+      "album": {
+        "name": "Pureza Selvagem",
+        "url": "https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww"
+      },
+      "artists": [
+        {
+          "name": "Sofia Pitta",
+          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "Me Devora",
+      "url": "https://open.spotify.com/track/1JCG7ZiDvgpIYvXn0ciuQ5"
     },
     {
       "album": {

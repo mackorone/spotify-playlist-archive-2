@@ -4017,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Fria Pero Quema",
+        "url": "https://open.spotify.com/album/4NuiGgK6hMFLDeF6AraUM3"
+      },
+      "artists": [
+        {
+          "name": "Mr Brey",
+          "url": "https://open.spotify.com/artist/6oOAP9o5Hqmtzffr6OyQ9y"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Fria Pero Quema",
+      "url": "https://open.spotify.com/track/3QlVCOzSv1eMq99lhTxFP0"
+    },
+    {
+      "album": {
         "name": "Fuiste t\u00fa",
         "url": "https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 
 > Discover the music of Richard Strauss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,646 likes - 58 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,651 likes - 58 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37CqNpZIOOZ.md) - [plain]
 | 57 | [2 Pieces for Piano Quartet, TrV 169: No\. 2, Liebesliedchen](https://open.spotify.com/track/6YMtas8ktUtnpd9ohwObiG) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Amelia Piano Trio](https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB), [Max Mandel](https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE) | [Strauss: Piano Trios Nos\. 1 & 2](https://open.spotify.com/album/5AGn7qxEHrG5DrANH8ruNs) | 6:06 |
 | 58 | [5 Piano Pieces, Op\. 3, TrV 105: No\. 1, Andante](https://open.spotify.com/track/3inJynR0nRo1iShzDdrGmv) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Stefan Veselka](https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX) | [Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder](https://open.spotify.com/album/3uXTokRvuzwZhd0pJqV5nk) | 4:47 |
 
-Snapshot ID: `AAAAALNhpk7VnaVZusrI2oOecqPsrXK8`
+Snapshot ID: `AAAAADVy68M9cp3Q/xQTJPo47uyURl3T`

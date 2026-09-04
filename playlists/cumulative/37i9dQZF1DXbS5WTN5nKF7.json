@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Shakira & Burna Boy",
+  "description": "Le meilleur des hits avec Manon Lisa",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 172497,
       "name": "Attraction",
       "url": "https://open.spotify.com/track/1Eu7sKRxbJJPu7YLePnrwQ"
@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "D'or et d'\u00e9tain",
+        "url": "https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196970,
+      "name": "D'or et d'\u00e9tain",
+      "url": "https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf"
+    },
+    {
+      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -2586,7 +2604,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 189419,
       "name": "DJ",
       "url": "https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
@@ -7220,7 +7238,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
@@ -7926,7 +7944,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
@@ -8902,7 +8920,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 156443,
       "name": "Take Me Away - French Version",
       "url": "https://open.spotify.com/track/73SraS0lQwmtbEGXUIkIQO"
@@ -10392,7 +10410,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195293,
       "name": "\u00c0 l'imparfaite",
       "url": "https://open.spotify.com/track/0jRLZZLyNGdB4x2fivRfnk"

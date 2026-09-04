@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,257 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,287 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 149 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 150 | [Good Shepherd \- Live](https://open.spotify.com/track/3Z5CGIlLTLf2TIitKp1Nu2) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Laean Angeles](https://open.spotify.com/artist/21XzSHFNLEHzOfdVETVMNU) | [Have You Heard? \(Live\)](https://open.spotify.com/album/2dwzPEmwFT9kqRz5gL5u49) | 5:27 |
 
-Snapshot ID: `AAAAAKB32ajLRBrBE/mcIZQV5fUhtggU`
+Snapshot ID: `AAAAAKKmzOXi83phHNOQpvYk+WwPTITM`

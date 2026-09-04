@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,916 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,948 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Youth and Dreams](https://open.spotify.com/track/313fLJRcDdlY6ROUklUo5k) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:42 |
 | 100 | [Alternate Ending](https://open.spotify.com/track/4ARFJVAoSfB6pw5lZ9AnAI) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Alternate Ending](https://open.spotify.com/album/1imXHb4yzZBWR5ZEZZVaRJ) | 3:10 |
 
-Snapshot ID: `AAAAAOcdEs1LVYqA3d9M5m+r3G9VCFRz`
+Snapshot ID: `AAAAAIT+W0exgcO4VR4tfe1ZOmnv0UOw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Zaoui",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Sam Sauvage.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 188041,
       "name": "1000 morceaux",
       "url": "https://open.spotify.com/track/1hsXj9X9i3A00KXXOLMAvv"
@@ -56,6 +56,24 @@
       "duration_ms": 168458,
       "name": "1000_vies_(avec_toi).MPEG-4",
       "url": "https://open.spotify.com/track/4k3zBTIr9ixWJw9Jc6y5c6"
+    },
+    {
+      "album": {
+        "name": "2 aliens",
+        "url": "https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm"
+      },
+      "artists": [
+        {
+          "name": "satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146874,
+      "name": "2 aliens",
+      "url": "https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS"
     },
     {
       "album": {
@@ -456,7 +474,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 155265,
       "name": "anomalisa",
       "url": "https://open.spotify.com/track/0QqoIiNASyVnhFpVxMyka0"
@@ -2668,7 +2686,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 193856,
       "name": "elle sourit",
       "url": "https://open.spotify.com/track/4PaWXATNheu2TRXHBpBO7s"
@@ -4281,6 +4299,24 @@
     },
     {
       "album": {
+        "name": "Je te donnerais",
+        "url": "https://open.spotify.com/album/5bfnw2F8mXCCMBDs5r7pgh"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Je te donnerais",
+      "url": "https://open.spotify.com/track/0wnYswRkILI93NbVhtfrbw"
+    },
+    {
+      "album": {
         "name": "Je trace",
         "url": "https://open.spotify.com/album/0liEQ85REpuvXdh7kD1WYq"
       },
@@ -4866,6 +4902,28 @@
       "duration_ms": 167762,
       "name": "La fi\u00e8vre",
       "url": "https://open.spotify.com/track/2c3AR4QkQ49CbmM1O73luX"
+    },
+    {
+      "album": {
+        "name": "La flemme",
+        "url": "https://open.spotify.com/album/7hPscfFDNYH4ITpKBYPgNX"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        },
+        {
+          "name": "Adam\u00e9",
+          "url": "https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123506,
+      "name": "La flemme",
+      "url": "https://open.spotify.com/track/4bOIaQgprATStZk6AEPo71"
     },
     {
       "album": {
@@ -6196,7 +6254,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 170839,
       "name": "Mon paradis",
       "url": "https://open.spotify.com/track/57Gb0oCRyNV2m7fNaLNDqj"
@@ -6572,6 +6630,24 @@
       "duration_ms": 156857,
       "name": "Next",
       "url": "https://open.spotify.com/track/2nlKZzn6mjAiYziEqYr2Kz"
+    },
+    {
+      "album": {
+        "name": "Ni l'une, ni l'autre",
+        "url": "https://open.spotify.com/album/2qc0zx9p7Xq4MhiIX49bD4"
+      },
+      "artists": [
+        {
+          "name": "Marguerite Thiam",
+          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "Ni l'une, ni l'autre",
+      "url": "https://open.spotify.com/track/4rIimcM8yuCTPBblcAknhu"
     },
     {
       "album": {
@@ -8615,6 +8691,24 @@
     },
     {
       "album": {
+        "name": "Sorry I'm French",
+        "url": "https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158063,
+      "name": "Sorry I'm French",
+      "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
+    },
+    {
+      "album": {
         "name": "si t'essayais d'\u00eatre heureux ?",
         "url": "https://open.spotify.com/album/0JAuF1R6ZwlprcI5fnEnXc"
       },
@@ -9366,7 +9460,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196644,
       "name": "Tomorrows",
       "url": "https://open.spotify.com/track/5oIHQx3Lng4NlSqWxbxgMd"

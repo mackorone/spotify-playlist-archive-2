@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Valentino Merlo & Marama
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,842 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,688 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 61 | [El Amor De Tu Vida](https://open.spotify.com/track/5aFToP9WaXJzjr6yneD5rg) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [El Amor De Tu Vida](https://open.spotify.com/album/5iNHS6Q4FkT7SPPdaAjX8n) | 2:50 |
 | 62 | [Puño De Diamantes](https://open.spotify.com/track/3eumA02V1WiYGE7cGlnJRT) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Martin Salinas](https://open.spotify.com/artist/4DR8wKNbFiIgetpuVdRgjh), [El Amante](https://open.spotify.com/artist/2rFznqF1juLuKmA0h11u2Z) | [Puño De Diamantes](https://open.spotify.com/album/03YTHkGhIR301Op2wJiJMa) | 3:26 |
 | 63 | [Quiero Olvidarte](https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Quiero Olvidarte](https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l) | 3:26 |
-| 64 | [Tu Sacaganas \(Remix\)](https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tu Sacaganas \(Remix\)](https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD) | 3:21 |
+| 64 | [Tu Sacaganas \(Remix\)](https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Tu Sacaganas \(Remix\)](https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD) | 3:21 |
 | 65 | [Dame Un Beso](https://open.spotify.com/track/2xYYDTx5fHTJPgyokvMEEe) | [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Dame Un Beso](https://open.spotify.com/album/4Vafbbh8PqMOZkZnG8nEtb) | 2:13 |
 | 66 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 |
 | 67 | [VIAJEMOS EN EL TIEMPO \#2 \| Cásate Conmigo](https://open.spotify.com/track/78U6wIRpfUkdjYdcexWTXe) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [VIAJEMOS EN EL TIEMPO \#2 \| Cásate Conmigo](https://open.spotify.com/album/2bni1x1fcaOh0WWCplqzXl) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 |
 | 100 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 
-Snapshot ID: `AAAAAO/yPgq4wWlImk0/Y2vGA3nNc3pS`
+Snapshot ID: `AAAAABsQcZcXFgdJ+oLXvOzciLYbCnpx`

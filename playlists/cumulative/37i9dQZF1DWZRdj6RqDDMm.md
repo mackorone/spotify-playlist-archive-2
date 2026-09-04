@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-700 songs - 1 day 14 hr 50 min
+702 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [HOLY PLACE](https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [HOLY PLACE](https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4) | 4:17 | 2026-01-30 |  |
 | [Holy Pressure](https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb) | [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a) | [Holy Pressure](https://open.spotify.com/album/7IH7G3dtJBYnVh8H6F9z1n) | 2:30 | 2026-05-22 | 2026-08-28 |
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 |  |
+| [Honest](https://open.spotify.com/track/6HntfG97j8SWxuXTZsrWuN) | [Mahinda](https://open.spotify.com/artist/5tDKtRRdd21U6j0y9SPJXG) | [Honest](https://open.spotify.com/album/25boAxn6zdXLf5vZy76ITU) | 3:00 | 2026-09-04 |  |
 | [Hossana](https://open.spotify.com/track/3rGzoZemU63QFPr0pNwxwy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Mairos](https://open.spotify.com/artist/6magWqKDY1pnK2maOgtH6s), [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Hossana](https://open.spotify.com/album/6z3uhmYUiARvZFUMnxoErm) | 2:34 | 2024-06-14 | 2024-08-16 |
 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 | 2026-08-28 |  |
 | [How Great Thou Art](https://open.spotify.com/track/7D1WuQYqXlLd2ZlTghv6iV) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [How Great Thou Art](https://open.spotify.com/album/7j0vex4YSlNjS5U3SKi5RC) | 2:04 | 2025-04-25 | 2025-06-06 |
@@ -281,6 +282,7 @@
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-04-06 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-10-20 | 2024-04-19 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-10-20 |  |
+| [I will wait](https://open.spotify.com/track/1tEA5NKOwlYGz49iHLCiV9) | [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [I will wait](https://open.spotify.com/album/2Acki6CgdQMoPK04hc0s8e) | 3:16 | 2026-09-04 |  |
 | [I'm Free](https://open.spotify.com/track/6umTm5ZxO2lI4QxjfZeg91) | [Testy cee](https://open.spotify.com/artist/3dylVXV2vkHdlMM9t3voIE), [Ifé harmony](https://open.spotify.com/artist/6S2C1f1dlnpZrc2NhkZsLU) | [Free](https://open.spotify.com/album/5D8RvDagX3YfsNqx8eVrIH) | 1:37 | 2025-09-19 | 2025-10-17 |
 | [I'm Good](https://open.spotify.com/track/5wCvUvZD5xwemckHD91FUe) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt) | [I'm Good](https://open.spotify.com/album/2QvTZ5cbUdxYcIO8PvwKWY) | 3:35 | 2025-10-10 | 2025-11-07 |
 | [I'm Grateful \(Live\)](https://open.spotify.com/track/2PZ0PgLrppcVON5sGS0VRE) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [I'm Grateful \(Live\)](https://open.spotify.com/album/4jaJrW5388WekmIDZgQt8z) | 7:12 | 2023-12-08 | 2024-02-02 |

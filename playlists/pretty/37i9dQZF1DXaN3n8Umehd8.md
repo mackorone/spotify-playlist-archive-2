@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > El fuego del amor que enciende la pista de baile\. Eddie Santiago en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,843 likes - 45 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,902 likes - 45 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 44 | [Y Si Te Quedas, Que?](https://open.spotify.com/track/3NXOGjWzw2itxXcIqZOzvH) | [Carlos D'Castro](https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE) | [Para Que Negarlo](https://open.spotify.com/album/0Uc5cugAlb1vUcg4V5dyXT) | 4:23 |
 | 45 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 
-Snapshot ID: `AAAAAH52ObQix9eer1WVF/qlHdb2KeQx`
+Snapshot ID: `AAAAABbuy7cDs/uN96ypt4j7s9UiQ4IJ`

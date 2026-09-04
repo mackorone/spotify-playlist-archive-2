@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 7 | [Bad Kicking Is Bad Football… Dons Break Drought & Gather Round Wrap \| TYPECast \#8](https://open.spotify.com/episode/7uu6JulBTQHf5bAacX1Q04) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:13:55 |
 | 8 | [I’M Genuinely Scared of This Team… Daicos, Dees & Freo Glaze \| TYPECast Ep\. 10](https://open.spotify.com/episode/765eTahNKYee0DAhQLOEfa) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:17:08 |
 
-Snapshot ID: `AAAAAB9SWKtVji0Vpj+6/RIg1zhuzkam`
+Snapshot ID: `AAAAALgSNhg+1w7m0vCYtUfHKnu8sCct`

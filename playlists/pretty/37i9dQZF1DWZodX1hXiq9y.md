@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,363 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,394 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 111 | [Joshua](https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU) | [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Analog Man](https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP) | 10:05 |
 | 112 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
 | 113 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
-| 114 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 |
-| 115 | [Pannonica](https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Joyous Encounter](https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu) | 8:05 |
+| 114 | [Pannonica](https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Joyous Encounter](https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu) | 8:05 |
+| 115 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 |
 | 116 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
 | 117 | [Blues In Pig Alley](https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Warm Woods](https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba) | 3:07 |
 | 118 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [On the Sunny Side of the Street \- 2003 Remastered Version](https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Just You, Just Me](https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN) | 3:28 |
 | 150 | [Countdown](https://open.spotify.com/track/35LAll8dgzkn42G8OPVbKR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 2:25 |
 
-Snapshot ID: `AAAAAM/kKYzzQ6vThkGO+KGkVxWt9wK8`
+Snapshot ID: `AAAAAE4ICWfMsTKFsNd8ur4lczKQqbzZ`

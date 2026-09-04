@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,830 likes - 98 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,730 likes - 98 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 97 | [Your favorite flowers](https://open.spotify.com/track/7GktPyKzNCeAaThYG4cJ7D) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/25ilbvHuFozwjisTCEGyuR) | 3:29 |
 | 98 | [Take Me Back](https://open.spotify.com/track/411DffMINw0IEOtN3sq2YH) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Take Me Back](https://open.spotify.com/album/4lAznVHCalkujlMWWNGkpU) | 3:08 |
 
-Snapshot ID: `AAAAABhi0jlqO5cw/VDtaf5j0+N7y2uQ`
+Snapshot ID: `AAAAANSr1/8l3ctbsmkb1yrRv/cTctUd`

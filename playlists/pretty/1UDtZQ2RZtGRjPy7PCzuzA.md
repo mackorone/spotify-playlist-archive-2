@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia🍭](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,303 songs - 3 day 2 hr 18 min
+[lia🍭](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,313 songs - 3 day 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1311,5 +1311,15 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1301 | [Girl That I Am](https://open.spotify.com/track/4XqFnAfNRrVRdDqCPI1nCz) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Off Campus: The Mixtape \(Extra Credit\)](https://open.spotify.com/album/21ZubmyASbZKZf1qpCz6F8) | 3:57 |
 | 1302 | [Featherweight](https://open.spotify.com/track/1uiMsJttBWXVLx1Bx0Mtf8) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 3:11 |
 | 1303 | [Art Deco](https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 |
+| 1304 | [SUMMER](https://open.spotify.com/track/66dQdXAbtuPdSasezCQVZE) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION II](https://open.spotify.com/album/0XnqQzdSFAml08XZoRt1St) | 3:24 |
+| 1305 | [Best View](https://open.spotify.com/track/47yB12k2uZtaLSwHVdszhH) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/3N9piIqnt2BHomjXpg4BEe) | 3:39 |
+| 1306 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
+| 1307 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
+| 1308 | [These Four Walls](https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:05 |
+| 1309 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
+| 1310 | [Right My Wrongs](https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:20 |
+| 1311 | [Growing Pains](https://open.spotify.com/track/57klXSpBXtdDOriCLLy9rQ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Carpet Bed EP](https://open.spotify.com/album/4pX1lVZftqOyT77W2ePFym) | 5:28 |
+| 1312 | [Lilies](https://open.spotify.com/track/1wtqANUwRLMKPogJt1IPKT) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [Mercy Necromancy](https://open.spotify.com/artist/0LdEFRiFrm1kVJhGgAqL8d) | [Golden Age](https://open.spotify.com/album/1wvJf32qDHmwku12nfzVGN) | 5:04 |
+| 1313 | [Misuse Oh](https://open.spotify.com/track/4ceYoSkxbt9ALe5vTxBR3B) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Carpet Bed EP](https://open.spotify.com/album/4pX1lVZftqOyT77W2ePFym) | 3:07 |
 
-Snapshot ID: `AAAMoCmvA7iGoyMAXxkEAlzauwx6a004`
+Snapshot ID: `AAAMqkaxgGyvVvahABTZYXb2rojjroS1`

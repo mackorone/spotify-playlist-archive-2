@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,004 likes - 271 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,049 likes - 271 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 68 | [Space For You \(From "It's Not Like That" Soundtrack\)](https://open.spotify.com/track/6U5Y77TUKB8AP1AgD3XQq9) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7), [Kipper Gray](https://open.spotify.com/artist/3ONpnlqUcVTNm21ebPSp2Z) | [Still My Home \(Main Title\) / Space For You \(From "It's Not Like That" Soundtrack\)](https://open.spotify.com/album/7yCzn2IAfBU7AJ91O5FsCR) | 1:25 |
 | 69 | [Mortal Kombat](https://open.spotify.com/track/43ax0mx64pVunOLHQldEL2) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Mortal Kombat II \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VNDFAiHuQSrylACl8IBRw) | 4:42 |
 | 70 | [Saving Grace \- From the Prime Original Series Spider\-Noir](https://open.spotify.com/track/0WnGsQz6tZl0r4E1lC9Hlq) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Saving Grace \(From The Prime Original Series Spider\-Noir\)](https://open.spotify.com/album/3thfVRtLS6Bdr6VEc89RLa) | 2:47 |
-| 71 | [Firstborn](https://open.spotify.com/track/0mNzsWCPtIxUDLL7tdf13R) | [Ted Reedy](https://open.spotify.com/artist/5YP9SigHg8VaM8EZ5xyXUi), [Diablo](https://open.spotify.com/artist/1fhuuNHBmQFhBizWLlzGJ8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59) | [Diablo IV: Lord of Hatred Original Soundtrack](https://open.spotify.com/album/6OLXEVN6KSOllsVNF95Ejy) | 4:11 |
+| 71 | [Firstborn](https://open.spotify.com/track/0mNzsWCPtIxUDLL7tdf13R) | [Ted Reedy](https://open.spotify.com/artist/5YP9SigHg8VaM8EZ5xyXUi), [Diablo](https://open.spotify.com/artist/1fhuuNHBmQFhBizWLlzGJ8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59) | [Diablo IV: Lord of Hatred \(Original Soundtrack\)](https://open.spotify.com/album/6OLXEVN6KSOllsVNF95Ejy) | 4:11 |
 | 72 | [The Stone Room](https://open.spotify.com/track/1H9VDT6atVQFzXMY7k2l0T) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Widow's Bay \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/46BSzoOHKyg7R4c7TjqCo9) | 1:35 |
 | 73 | [Aphelion](https://open.spotify.com/track/3f1dlqULP7lPsrLB04q1Ek) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Aphelion \(Original Game Soundtrack\)](https://open.spotify.com/album/6gUHcjFXsRKs9CPPfVbVZd) | 1:41 |
 | 74 | [Run For Your Death](https://open.spotify.com/track/0DoyDOJVWQGF9I2mCgZxMC) | [BLARF](https://open.spotify.com/artist/3ytJrgQ3L8M1atEYZ8vFdP) | [Film Scores for Films That Don’t Exist](https://open.spotify.com/album/7zkrjgsvATa97fmoWbJgoQ) | 2:22 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 270 | [What it Takes](https://open.spotify.com/track/0KgcGvK9SCLEuV0ozk7cuo) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:17 |
 | 271 | [Inbred for Generations](https://open.spotify.com/track/511Lu6jf1y9dm5XtEVzg4B) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Joanne Higginbottom](https://open.spotify.com/artist/6jH2c4lJnHcaxM2iFEEhyk) | [Fixed \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0WtAJVbwQDgRTKnasRBtNN) | 1:44 |
 
-Snapshot ID: `AAAAAJ7oRCVU/vGNjxDbkQiOY11u7ha1`
+Snapshot ID: `AAAAAMiSLsctgMGZbPX+bdvZiNnQxY67`

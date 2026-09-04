@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,077 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,135 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Khetiwe](https://open.spotify.com/track/1w9VIloDbk4DiwwHD7c9Bc) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Piano Essence](https://open.spotify.com/artist/3T4aRbLTWsQdCtGIuXplpp), [Lintonto](https://open.spotify.com/artist/1isPpcHRJEgg4jyuAF3yd4), [FLUXX](https://open.spotify.com/artist/3EBIij4PVtSFD8aoKa4Hwf), [Xman Rsa](https://open.spotify.com/artist/2AyNNC4hdqtQBcZzRtb730) | [Khetiwe](https://open.spotify.com/album/7LSJg8madvQUCxFIecgHmG) | 6:17 |
 | 50 | [Bass Outra !](https://open.spotify.com/track/6r5GQYg2Z3Jfz4KIxrFjTH) | [Sgija Keys](https://open.spotify.com/artist/3nMUXRbnQ1LAixKdBCt0Ti), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j) | [Bass Outra !](https://open.spotify.com/album/2f8SzIxSBQW10s8ge33O59) | 5:51 |
 
-Snapshot ID: `AAAAAKt8DRyOgWqFP9tMy1Nm5Ht6emcn`
+Snapshot ID: `AAAAALxP5NgAT1QUF5EKhzl3vp6owRSo`

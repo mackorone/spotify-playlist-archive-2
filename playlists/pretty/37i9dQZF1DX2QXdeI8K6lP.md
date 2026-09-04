@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,036 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,059 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [No Me Quieras Tanto \(Bolero\)](https://open.spotify.com/track/427gTQ1L5cTv9OtKNC13aE) | [Hernando Avilés](https://open.spotify.com/artist/1qIqCjFr9BRIsxiKPWWHeV), [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Una Copa Más](https://open.spotify.com/album/51If9keVmTRGDzOZ6npnky) | 2:58 |
 | 100 | [Amar y Querer \- Mariachi Bolero Cover](https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:54 |
 
-Snapshot ID: `AAAAAAjqtpB0um1fi1tof3GfEgsqI6y6`
+Snapshot ID: `AAAAAC8hXTscNQfAdet4vL8KMmHIsCOx`

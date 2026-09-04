@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3vclZcfLG1jm2B4EsDzXNq"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157360,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/7qEYzLG4gvSMYY2IKMvePE"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/4Ce3MvugKQgiwradW4O5gb"
       },
@@ -596,7 +614,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 222857,
       "name": "Air",
       "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177000,
       "name": "Astra",
       "url": "https://open.spotify.com/track/0lLbYllOSgXnuKM2rA59Xw"
@@ -4055,6 +4073,28 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
+    },
+    {
+      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/6NMZ25OHvfR4HzWIM1LJqq"
       },
@@ -4452,7 +4492,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 188260,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/4Z1iYzw4E1OOsJlESasSdc"
@@ -4636,6 +4676,24 @@
       "duration_ms": 221403,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/45NFxKynvxmwENLCosI1Hp"
+    },
+    {
+      "album": {
+        "name": "Chasing Dreams",
+        "url": "https://open.spotify.com/album/4M8mWeEYEffz96T1j1Jqtn"
+      },
+      "artists": [
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Chasing Dreams",
+      "url": "https://open.spotify.com/track/0YfWwAiPhHSqUjgP7CPPlY"
     },
     {
       "album": {
@@ -10220,7 +10278,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182535,
       "name": "Gimme The Love",
       "url": "https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E"
@@ -11190,7 +11248,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 152432,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1KpWOjSqJMdXaEVh2rMwQl"
@@ -11924,7 +11982,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 172202,
       "name": "I Can See It",
       "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
@@ -11990,6 +12048,28 @@
       "duration_ms": 164983,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
     },
     {
       "album": {
@@ -12482,7 +12562,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 222978,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
@@ -12556,6 +12636,32 @@
       "duration_ms": 210755,
       "name": "Impulse Barrier",
       "url": "https://open.spotify.com/track/0MOhdjgbXWj2K8k86myH6l"
+    },
+    {
+      "album": {
+        "name": "In And Out Of Love (Ben Hemsley Remix)",
+        "url": "https://open.spotify.com/album/14lnw0ksPxxXLYrYcxiot5"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+        },
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297464,
+      "name": "In And Out Of Love - Ben Hemsley Remix",
+      "url": "https://open.spotify.com/track/3yibAW14UUtXZYVPzUUErb"
     },
     {
       "album": {
@@ -12884,7 +12990,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 192608,
       "name": "Inside This Room",
       "url": "https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd"
@@ -13060,7 +13166,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 214872,
       "name": "Is It Beautiful? (A State of Trance 2025 TRANSFORMATION Anthem)",
       "url": "https://open.spotify.com/track/0oVnw2HtmZAMQAyUoWx2k1"
@@ -14076,7 +14182,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182380,
       "name": "Lethal Industry (Rose Ringed Remix)",
       "url": "https://open.spotify.com/track/7G4XrZlnEUpng7NrRXOnb8"
@@ -14670,7 +14776,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176666,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y"
@@ -15474,7 +15580,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158000,
       "name": "Madness",
       "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
@@ -19707,6 +19813,24 @@
     },
     {
       "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/78WYVjJPZp2Nm2N3ZbtV5z"
+      },
+      "artists": [
+        {
+          "name": "DJ IP",
+          "url": "https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/665vLI8162ps61cjADel7H"
+    },
+    {
+      "album": {
         "name": "Rain Onto Me (C-Systems Remix)",
         "url": "https://open.spotify.com/album/7rrdux0POgTvWsJ6f6ctmL"
       },
@@ -22324,7 +22448,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 198500,
       "name": "Solarcoaster - SUPERSTRINGS Emotional Rollercoaster Remix",
       "url": "https://open.spotify.com/track/6WJbxDswVnU6S8efA3lfmp"
@@ -22588,7 +22712,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 214842,
       "name": "Something Returns",
       "url": "https://open.spotify.com/track/2csPQZuankJIXrNEiKe3sO"
@@ -23516,6 +23640,28 @@
       "duration_ms": 314375,
       "name": "Stormarn",
       "url": "https://open.spotify.com/track/40rJRda0SwHICpgKTrlfkW"
+    },
+    {
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/52wn18Te0DRp5yx2wC43Lq"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Strange World",
+      "url": "https://open.spotify.com/track/502ZdenfgYx81QLErj8CxQ"
     },
     {
       "album": {
@@ -25272,7 +25418,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 186838,
       "name": "The Orange Theme",
       "url": "https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT"
@@ -26650,7 +26796,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 142344,
       "name": "U Got 2 Know",
       "url": "https://open.spotify.com/track/5mZDiIV5z3mmYnIvXGENFX"
@@ -27012,6 +27158,28 @@
       "duration_ms": 232944,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/0lshe5VyHv6KqY4dY8y8I0"
+    },
+    {
+      "album": {
+        "name": "Unsaid",
+        "url": "https://open.spotify.com/album/1pleNye9zWKAYIzZv2krEB"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        },
+        {
+          "name": "Amba Shepherd",
+          "url": "https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "Unsaid",
+      "url": "https://open.spotify.com/track/6nfOqcgfnIF0l4n4SxzeWZ"
     },
     {
       "album": {
@@ -28086,7 +28254,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 204447,
       "name": "When Nobody Cares",
       "url": "https://open.spotify.com/track/7GO88UVwZKecAePIrP50KW"
@@ -28288,10 +28456,32 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 232285,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR"
+    },
+    {
+      "album": {
+        "name": "Why Can't We Live Forever?",
+        "url": "https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151021,
+      "name": "Why Can\u2019t We Live Forever?",
+      "url": "https://open.spotify.com/track/6UVMbsN3o13f4LriXGsAmU"
     },
     {
       "album": {
@@ -29076,6 +29266,28 @@
       "duration_ms": 210909,
       "name": "Your Love Has Brought Me Home",
       "url": "https://open.spotify.com/track/76lMJUN54kd9DYIovsMRAC"
+    },
+    {
+      "album": {
+        "name": "Your Loving Arms",
+        "url": "https://open.spotify.com/album/5ZAeOuHqgJV6Kpu1OaZlZ7"
+      },
+      "artists": [
+        {
+          "name": "KIMMIC",
+          "url": "https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN"
+        },
+        {
+          "name": "Karen Overton",
+          "url": "https://open.spotify.com/artist/1lIWmG51qV9UGl0H9hr9mR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Your Loving Arms",
+      "url": "https://open.spotify.com/track/37LOUMKpew74fxQaM0bXIO"
     },
     {
       "album": {

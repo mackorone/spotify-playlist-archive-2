@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,142 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,133 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 | 99 | [WENN DU MICH SIEHST](https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [WENN DU MICH SIEHST](https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2) | 2:39 |
 | 100 | [ILLUSION](https://open.spotify.com/track/3Yw0WvBAqhYASi05VsaBDK) | [Salah](https://open.spotify.com/artist/2REf7YgHDhCTzi7P6wvGpl), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [ILLUSION](https://open.spotify.com/album/2mEpslwVTu9w2P5cK95EcN) | 2:45 |
 
-Snapshot ID: `AAAAAHzY2eLfgwyIx/oMwvB0cp0uX0QP`
+Snapshot ID: `AAAAABqI/IDY5mv3wojH3ayAUVf/8Xkl`

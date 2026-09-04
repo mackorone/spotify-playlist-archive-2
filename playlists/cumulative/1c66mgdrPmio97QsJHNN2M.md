@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,766 songs - 6 day 2 hr 6 min
+2,771 songs - 6 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Black Shuck](https://open.spotify.com/track/2J1zTqh6ASy4v4hxcILIjA) | [DJ Steamloco](https://open.spotify.com/artist/7fkObbalUSkA7JK1zx5nqU) | [Monster's Ball](https://open.spotify.com/album/5rVpaUEkbVYSCxQrYnKqIT) | 2:54 | 2026-08-14 |  |
 | [Black Waters](https://open.spotify.com/track/7qWoBoXAPrKl8rtf9O7cYj) | [Stealing Handshakes](https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ) | [Stealing Handshakes](https://open.spotify.com/album/7GpwIkQovatVexeuHCPoIK) | 4:51 | 2026-06-15 | 2026-07-16 |
 | [Bleach](https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf) | [mischa and the bear](https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6) | [Bleach](https://open.spotify.com/album/7KJ9r2YHllq5jnGCceHHEY) | 3:16 | 2026-06-09 | 2026-07-10 |
+| [BLEED OUT](https://open.spotify.com/track/3U2YXGPp3XVFh7T8DpCnwn) | [JAYCO](https://open.spotify.com/artist/5YdLGXi9DkJVEnBQr6iClY) | [BLEED OUT](https://open.spotify.com/album/0YiPhjqrZpUlmJEu5nOSI2) | 1:58 | 2026-09-03 |  |
 | [Bleeding Star](https://open.spotify.com/track/6G0U1q09GkFQ8ZmqZaQTlm) | [deepbleak](https://open.spotify.com/artist/7z0v66N91NHVvPJW9HccIi), [Jeffrey Stevenson](https://open.spotify.com/artist/3XFOxeccJDkzwjiMkRx2Py) | [Bleeding Star](https://open.spotify.com/album/0GOb0FZ4htOaHpcac78G3y) | 2:55 | 2026-08-11 |  |
 | [blind](https://open.spotify.com/track/6qkBwWOC6dElnFEfUYWuXp) | [JsSenor](https://open.spotify.com/artist/5yVsxZ7i7YcnR5k7mBtzX9), [hiacynth](https://open.spotify.com/artist/5uKdblWDAh7mYZaXsHhCXG) | [I'm sorry i could let go](https://open.spotify.com/album/7vyptl7gBQnM30gmNrimDb) | 2:18 | 2026-03-25 | 2026-04-26 |
 | [Blind](https://open.spotify.com/track/0O24YZs4wvgoHMcgyLdePp) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Blind](https://open.spotify.com/album/5rBh1tA0ZhWg6UZ22hWPHf) | 3:17 | 2026-03-08 | 2026-04-09 |
@@ -752,6 +753,7 @@
 | [Fading light](https://open.spotify.com/track/7gWdjXn00TIfhXLyQfMkfl) | [DG Productions Audio](https://open.spotify.com/artist/7FtOuSc2VZTItX9lMMcZyt) | [Seas of silence](https://open.spotify.com/album/7co99p4zZ4Q92FdM68lEZg) | 5:37 | 2026-05-03 | 2026-06-05 |
 | [Fairfax](https://open.spotify.com/track/3IzPT39iMVYIapjO498Ktn) | [bennix](https://open.spotify.com/artist/366UaJhCL13w14YAxmnzZb) | [Fairfax](https://open.spotify.com/album/25qBXYHV6w0qWutM5UPEVp) | 2:36 | 2025-12-30 | 2026-02-03 |
 | [Faith In You](https://open.spotify.com/track/2gUXvRPLAN3YqNK4fL4PyF) | [Nostalgia](https://open.spotify.com/artist/2Ff11vHH453r07VJTC1PiL), [Medha](https://open.spotify.com/artist/2sAmPWwBMVdtunTnAPqBnD) | [Faith In You](https://open.spotify.com/album/4pc59iOgsryeMFIRLpAxvQ) | 3:44 | 2025-11-14 | 2026-01-15 |
+| [Faithless \(Sacrifice\)](https://open.spotify.com/track/2nLkESvNMPNZQZaxZXI8qx) | [Lex Bucha](https://open.spotify.com/artist/32RrPOjvu5FsrIGnVTJdEX) | [Faithless \(Sacrifice\)](https://open.spotify.com/album/0HYfw9R6tktU8N4Q1gXWqQ) | 3:06 | 2026-09-03 |  |
 | [Faithlessly](https://open.spotify.com/track/5UC1GFndf9Mk6SzKPT9gu1) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Faithlessly](https://open.spotify.com/album/1wTuFBEAb8rOAKpQgcbCaX) | 2:33 | 2026-06-01 | 2026-07-05 |
 | [Fall](https://open.spotify.com/track/6ViWKJNo5pGE5gmtSRnPwv) | [Skyyy](https://open.spotify.com/artist/4EmOC9W13wmWQyJTYyqyXo) | [Fall](https://open.spotify.com/album/7rr5HrnDNEXqUoWVNdVhEp) | 2:29 | 2026-04-24 | 2026-05-25 |
 | [Fall 4 U?](https://open.spotify.com/track/1DZVuvRaflePwj0i21rGJK) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [Fall 4 U?](https://open.spotify.com/album/469Q17bt6mCHrRGN10pJ46) | 2:40 | 2026-06-26 | 2026-07-28 |
@@ -951,6 +953,7 @@
 | [Greatest Band Ever](https://open.spotify.com/track/2b1Sh6CXU6cgB0LWU2ejQF) | [Goldy](https://open.spotify.com/artist/5JtiTG9V7fKA0fDy9NNnel) | [Greatest Band Ever](https://open.spotify.com/album/6sAC3n7VKIb0SyIkNS6Li7) | 3:32 | 2026-03-11 | 2026-04-13 |
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-23 |
 | [Green Flag](https://open.spotify.com/track/0QpEceuZn0UrAMPjgFSeln) | [Ariadna Millet](https://open.spotify.com/artist/2kUrPAt14wNg4br0zmQ93V) | [Green Flag](https://open.spotify.com/album/4cQxJoJOfbn9gKjuADPfEJ) | 3:14 | 2026-02-06 | 2026-03-10 |
+| [Green Gemstones](https://open.spotify.com/track/7eM0HSIfDbzeeOLiJVictB) | [LIZZIE JEAN](https://open.spotify.com/artist/1b6HJ3q8AGKxk3Ujvum9JA) | [Green Gemstones](https://open.spotify.com/album/5zc7sMucDVZvOW7BOPCU2M) | 3:25 | 2026-09-03 |  |
 | [Green one](https://open.spotify.com/track/1qYwYPo0QXjWRVnUXEYvX0) | [FabofaWo](https://open.spotify.com/artist/7miAoTJuBk3eAe2HOSWFju) | [Green one](https://open.spotify.com/album/6lScNE8PCjz6muTbc74Egy) | 2:56 | 2026-08-14 |  |
 | [Grey](https://open.spotify.com/track/1nAM5kHtIcyEinyD3iOwpi) | [Rxzwell](https://open.spotify.com/artist/6qmhxNUynVviDvxQRggtFA) | [Grey](https://open.spotify.com/album/27Gos8VBn3KtValP4NyMoz) | 1:37 | 2026-08-10 |  |
 | [Grey Rockin'](https://open.spotify.com/track/7scEbhS7Fnqulg9cEYyEJo) | [Nada UV](https://open.spotify.com/artist/4musO8DBvt9mUrWmR3PUQc) | [Grey Rockin'](https://open.spotify.com/album/6ecXquf0RTe2djWcHWVE2m) | 4:48 | 2026-01-16 | 2026-02-17 |
@@ -1509,6 +1512,7 @@
 | [Meant to be me \(unplugged\)](https://open.spotify.com/track/2XZQOTMO2rsg3uK9nuOooR) | [greenVIOLET](https://open.spotify.com/artist/3dm73uJdkFTebai5DZNVnI) | [Meant to be me \(live\)](https://open.spotify.com/album/5DCfTqE5syV5iYZKuS3hV6) | 3:04 | 2026-01-17 | 2026-02-21 |
 | [Medium Ugly](https://open.spotify.com/track/2hoQ1QWYFoHoxmMCNErCmt) | [Megan Burke](https://open.spotify.com/artist/6hyEvVAoREnUuUEfzOAG7C) | [Medium Ugly](https://open.spotify.com/album/6QAQWfuw2WH0VOXPNpgxm5) | 3:22 | 2025-11-10 | 2025-12-11 |
 | [Megalomaníacos](https://open.spotify.com/track/58HYvjRyjxKlxgFB2HlVqc) | [Hady](https://open.spotify.com/artist/2qGLXYYehyVLp2k2wfrtBt) | [Megalomaníacos](https://open.spotify.com/album/7lCVZ1ZfC0fC2nW5mp8lPf) | 3:29 | 2026-01-06 | 2026-02-07 |
+| [Mellow](https://open.spotify.com/track/1pFcAbbMyByoi03hZlOip8) | [DECO\-LUXE](https://open.spotify.com/artist/2j3K8z15j2LdBX0pHafEwD), [Kyat Cute](https://open.spotify.com/artist/4BL32kGiMSmAs1vKPWFfL4) | [Eventide](https://open.spotify.com/album/1J8zyVJVITfNX8sxNhpA4Q) | 3:47 | 2026-09-03 |  |
 | [Melody Rules](https://open.spotify.com/track/0H784Zsy48coFQLHTwthPA) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Melody Rules](https://open.spotify.com/album/0Hsux3OUWvxIkTPhzTWWsm) | 3:00 | 2025-10-24 | 2025-11-26 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2026-01-17 | 2026-02-21 |
 | [Memories By The Sea](https://open.spotify.com/track/2cQN2GNkJxJrXaIAW4GdJv) | [Gina DiGiorgio](https://open.spotify.com/artist/5g4rQ3oztGj7XljSJ2eHe6), [Ventura Howie](https://open.spotify.com/artist/0EGmRfKAmYr9r9SDt6NgAz), [KATARINA JOVCHEVSKA](https://open.spotify.com/artist/7sbTUP3Ut789sWXF4IxCvm) | [Memories By The Sea](https://open.spotify.com/album/3YOsuX7dyYJ1NIwdPQWfhi) | 2:41 | 2025-10-20 | 2025-11-23 |
@@ -2220,6 +2224,7 @@
 | [Stuck in The Programmed Death](https://open.spotify.com/track/2G3O85k3Q8iHarWK7QHoyV) | [Michael Paul](https://open.spotify.com/artist/3EEUlpqSvIkd3fATYXbjKe) | [The Rainbow Moon](https://open.spotify.com/album/0zmIxSRYfnPy3tSP0EMRUM) | 2:55 | 2026-08-09 |  |
 | [submerged](https://open.spotify.com/track/4tVKwI5pbW2OctxqIYrHp2) | [3one](https://open.spotify.com/artist/3c3wnuthee73iDayBep9Th) | [submerged](https://open.spotify.com/album/4tIEYgYE2Au5WwScjqabX2) | 3:08 | 2026-01-24 | 2026-02-25 |
 | [Success](https://open.spotify.com/track/75sePLN6c7Qzs8OgFvZJkX) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC), [Covo](https://open.spotify.com/artist/09qCDVsKSmqST6eEXyKPF8) | [Success](https://open.spotify.com/album/6HXv3wCAfiXUve0Ja7sjwk) | 3:43 | 2025-10-27 | 2025-11-29 |
+| [Sugar Key](https://open.spotify.com/track/1L6ObDjFT9RKEzAY1W4e7I) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Sugar Key](https://open.spotify.com/album/6cfTu8eoidouaT6jO2Nub7) | 3:04 | 2026-09-03 |  |
 | [Sugar Kicks](https://open.spotify.com/track/6eset74gn8vyFdjNT8CfUR) | [Fog is for Frogs](https://open.spotify.com/artist/60UkqXujhix5oisFxy60ZT) | [Cat in the Box](https://open.spotify.com/album/2zTeG9s1fDpYQWdH5uXqKF) | 3:21 | 2025-12-22 | 2026-01-24 |
 | [Suitcase](https://open.spotify.com/track/3UgD8BMPw7N2odtvhtEu5y) | [Steven Bridgewater](https://open.spotify.com/artist/3jvxPBmd0Fhe5YupO3r3xl) | [Suitcase](https://open.spotify.com/album/3HnjiiJGoMPqrWQtdhrXxR) | 2:38 | 2026-08-14 |  |
 | [Summer](https://open.spotify.com/track/1c68zNuE2Y3A7OOwOHui01) | [CHARM](https://open.spotify.com/artist/0hFjDfyStYnZssxpXmbeP3) | [GROW UP!](https://open.spotify.com/album/6rpHESrfh9LFGR6HZCEBRQ) | 2:28 | 2025-11-01 | 2025-12-03 |

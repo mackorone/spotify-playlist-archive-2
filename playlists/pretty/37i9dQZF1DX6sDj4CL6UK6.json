@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists.\nCover: Tsumyoki",
-  "num_followers": 40140,
+  "num_followers": 40143,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKDoqxZDWpLAWBOqUb8kX9ZQb8nw",
+  "snapshot_id": "AAAAAMbfJ5OqnxoLHI/TXpGrdmYF3aJ7",
   "tracks": [
     {
       "added_at": "2026-08-24 06:52:03",
@@ -896,16 +896,16 @@
       },
       "artists": [
         {
-          "name": "Shriya",
-          "url": "https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX"
-        },
-        {
           "name": "Noah Cerejo",
           "url": "https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw"
         },
         {
           "name": "Hersh Desai",
-          "url": "https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r"
+          "url": "https://open.spotify.com/artist/6CZSdPVUc9z0ecqB1Sh47e"
+        },
+        {
+          "name": "Shriya Rao",
+          "url": "https://open.spotify.com/artist/3WYwVaonD3shZ1y7gq4Hey"
         }
       ],
       "duration_ms": 161424,

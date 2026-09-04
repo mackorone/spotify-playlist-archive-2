@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,387 likes - 249 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,439 likes - 249 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 248 | [Waves](https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves](https://open.spotify.com/album/3Bvfvwrb3Kid38Bp8ELuhL) | 4:36 |
 | 249 | [Enigma](https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Enigma](https://open.spotify.com/album/0sqAkaZowvfKs9C9HJM9uW) | 3:58 |
 
-Snapshot ID: `AAAAAF1NyOQObewsroUp0DAcyNR2seOB`
+Snapshot ID: `AAAAALgEiIAmiCHVnGpAm0cdldF/GLn7`

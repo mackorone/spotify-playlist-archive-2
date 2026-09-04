@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> 6 🤷🏼‍♂️7 //  Madame in cover
+> solo le tracce con l'aura migliore 👾 ARIETE e Angelina Mango in cover
 
-1,228 songs - 2 day 9 hr 17 min
+1,231 songs - 2 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [il ponte dell'arcobaleno](https://open.spotify.com/track/2tHizGPJG1anePrnrby0qB) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [il ponte dell'arcobaleno](https://open.spotify.com/album/5rLnO7NXQqTBueE4QrZzfc) | 2:55 | 2026-01-22 | 2026-02-13 |
 | [il problema ero io](https://open.spotify.com/track/1IW2xjoKjXIRsWHAY6y2S8) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [il problema ero io](https://open.spotify.com/album/0ACp7I86LSwsRr4NCOMp16) | 2:30 | 2024-02-29 | 2024-03-15 |
 | [Il sesso](https://open.spotify.com/track/2fp7g2vZsq3OprQu8Pibwi) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Il sesso](https://open.spotify.com/album/3ilxQoR2lcuZ6hfJtthmuy) | 3:06 | 2026-05-28 | 2026-06-19 |
+| [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/track/7Eg0McMVERpFrpuJ9P4e0O) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Roy Paci](https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb) | [IL SOLE \(feat\. Alvaro Soler & Roy Paci\)](https://open.spotify.com/album/3hv1rvBltcEwa2VN0bK80U) | 2:10 | 2026-09-03 |  |
 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-27 | 2024-09-27 |
 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:54 | 2024-03-07 | 2024-04-19 |
 | [il tuo posto nel mondo](https://open.spotify.com/track/6Bkk58VWPVoPMxBG7VFS49) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il tuo posto nel mondo](https://open.spotify.com/album/3wIz0ZCssynXC1vsYCuqGj) | 3:03 | 2024-10-24 | 2025-04-18 |
@@ -551,6 +552,7 @@
 | [LA SCELTA MIGLIORE](https://open.spotify.com/track/05GF1uj3i2yxc3fN7dF09j) | [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [LA SCELTA MIGLIORE](https://open.spotify.com/album/2yGOeuOJxpi2VUYuABdGqT) | 2:07 | 2025-07-31 | 2025-08-15 |
 | [La Storia Della Nostra Vita](https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G) | [Spacehippiez](https://open.spotify.com/artist/1SMNrh8qrsRR3ufDamWNFh) | [La Storia Della Nostra Vita](https://open.spotify.com/album/5MPPs3GuXNAfY0TdOO2yCp) | 2:46 | 2025-01-02 | 2025-01-24 |
 | [La Storia Più Triste Del Mondo](https://open.spotify.com/track/4FeBQvfSqo5YxuUKKDGW30) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [La Storia Più Triste Del Mondo](https://open.spotify.com/album/7HLFnEr0FHVK4UvNdaSV3T) | 2:56 | 2024-05-09 | 2024-06-28 |
+| [La testa nel pallone](https://open.spotify.com/track/2JO8MuAETPjWOKEqfIhXCY) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS) | [La testa nel pallone](https://open.spotify.com/album/1vhW8WTdVHv8ADmpJtp2VH) | 2:46 | 2026-09-03 |  |
 | [LA VITA CHE VIVO](https://open.spotify.com/track/2q9O6twPyMmPXqd4arGkA9) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [LA VITA CHE VIVO](https://open.spotify.com/album/4yKtowdWYMpI2FX784fRnQ) | 2:58 | 2026-02-12 | 2026-03-27 |
 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 | 2024-05-16 | 2024-10-04 |
 | [Lacrima](https://open.spotify.com/track/6FzN2LI1Tmf5uKrSdVUe1f) | [SickTeens](https://open.spotify.com/artist/43zSSTbEARYCOTzP6IsCZi) | [Lacrima](https://open.spotify.com/album/26B8nhPmJgwJZH69EVKF0Z) | 2:44 | 2025-03-13 | 2025-05-02 |
@@ -750,7 +752,7 @@
 | [Non è abbastanza](https://open.spotify.com/track/4pVl4rqimmJupO2B2aPfTb) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non è abbastanza](https://open.spotify.com/album/78Hk7mg4eWrYauEPYI8yIn) | 2:59 | 2024-01-04 | 2024-01-19 |
 | [NON È DOMENICA](https://open.spotify.com/track/2OCnhdAKQOUKFcILscyAcU) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [NON È DOMENICA](https://open.spotify.com/album/3uBR98hoGVgJNahHGWsfyT) | 2:33 | 2025-01-28 | 2025-03-14 |
 | [Non è mica fantasia](https://open.spotify.com/track/3Dz2fejA93xBDDOQgOnLhA) | [Elena D'Elia](https://open.spotify.com/artist/1uWkqyyuDWWp2rcrFl1LrN) | [Non è mica fantasia](https://open.spotify.com/album/7C6egkXWJNjlUgVBj9QfMN) | 2:37 | 2026-05-28 | 2026-06-26 |
-| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-08-21 |  |
+| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-08-21 | 2026-09-04 |
 | [Nonostante te](https://open.spotify.com/track/38ZeOiXbQJsmuTBTLyOfH6) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Nonostante te](https://open.spotify.com/album/0kB7eqpyZ95HVDghwFIVcI) | 2:48 | 2024-09-05 | 2024-10-04 |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |
@@ -1057,6 +1059,7 @@
 | [Stories d'amore](https://open.spotify.com/track/3pFBuDWXeYQadSfpYQs86t) | [Jesto](https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8) | [Buongiorno Italia](https://open.spotify.com/album/4hOOOiGeJcCEoY98DwAQpa) | 3:30 | 2025-06-27 | 2025-10-03 |
 | [Stranamore](https://open.spotify.com/track/0Oh0MvuU2uZhB8Vb3CwmmJ) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [Stranamore](https://open.spotify.com/album/5k87tkbPKfhRufPG2vt94H) | 2:43 | 2026-07-09 | 2026-08-28 |
 | [Strappami](https://open.spotify.com/track/2hwhhzr8w5BDJVYYLWINTV) | [FirkLøver](https://open.spotify.com/artist/4565nNjbVvjOjpZjtJnH3R) | [Strappami](https://open.spotify.com/album/1g68iPAK1qMQaC0uRHj98w) | 2:29 | 2023-10-19 | 2023-11-10 |
+| [STRIPPER](https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [STRIPPER](https://open.spotify.com/album/4YC00XnYhLvJpj54BIyzLM) | 1:54 | 2026-09-03 |  |
 | [STUPIDA](https://open.spotify.com/track/4NGPyafxftu7QwRoi7S8mt) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [STUPIDA](https://open.spotify.com/album/6LkpOdi3MYn99m0Cgz2HfF) | 2:21 | 2026-03-19 | 2026-05-01 |
 | [Stupida Libertà](https://open.spotify.com/track/08yqlwXJL84xS3q6iY1S8Y) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Stupida Libertà](https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh) | 3:12 | 2023-11-23 | 2024-02-23 |
 | [Stupida Vita](https://open.spotify.com/track/0nCcnpWjuC3Ti5I6Fqtkpv) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Stupida Vita](https://open.spotify.com/album/7gYGE5878gGN8STgInaEom) | 3:02 | 2026-01-29 |  |
@@ -1070,7 +1073,7 @@
 | [Sweet Panorama](https://open.spotify.com/track/2BOL025Qdl4IU0o48irbED) | [Emma Muscat](https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX) | [Sweet Panorama](https://open.spotify.com/album/20mUgc86HD7BsTvjtrHDO7) | 2:43 | 2026-06-11 | 2026-07-03 |
 | [Tacchi \(fra le dita\)](https://open.spotify.com/track/1C8gCISvVrJcDgNO0R8488) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Tacchi \(fra le dita\)](https://open.spotify.com/album/7wdZw7A2pqmapsvHN6TgqD) | 2:46 | 2024-10-03 | 2025-09-12 |
 | [TAKE THAT](https://open.spotify.com/track/5233Et7TevpTcv9vbNPqGY) | [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [TAKE THAT](https://open.spotify.com/album/54d21v6KBpRK2Ogd2ezPuh) | 2:37 | 2024-05-31 | 2024-06-14 |
-| [Taki](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Taki](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 |  |
+| [Taki](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Taki](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 | 2026-09-04 |
 | [TANANAI](https://open.spotify.com/track/0IFp7DNMUrHroGDK7GASC7) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [TANANAI](https://open.spotify.com/album/4aecpa6YWXWu1rVqBIgY1c) | 2:33 | 2023-11-09 | 2024-01-12 |
 | [Tango](https://open.spotify.com/track/4NFjPwig4QrR4el2g3aZcq) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Tango](https://open.spotify.com/album/5yfi4ehFr9Cci75IdsFnui) | 2:11 | 2024-06-20 | 2024-06-28 |
 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 | 2023-03-23 | 2023-11-17 |
@@ -1169,7 +1172,7 @@
 | [uomo che cade](https://open.spotify.com/track/3vwObRd71oUa145riRt42O) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [uomo che cade](https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj) | 3:37 | 2026-02-25 |  |
 | [Up & Down](https://open.spotify.com/track/5xHrjemS8vIl1tkyUwk5NP) | [fiori d'artificio](https://open.spotify.com/artist/3MXnL1M89Wm3mO7kInwwRO) | [Up & Down](https://open.spotify.com/album/5Cmr7WhuhmV1nAHHuvdUd9) | 2:43 | 2026-02-05 | 2026-03-06 |
 | [UP&DOWN \(feat\. BNKR44\)](https://open.spotify.com/track/11C3GZQwGuGG5UT3FzyhXn) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [MALDIVITA](https://open.spotify.com/album/4blLRBo0nkLZE4t5EXyPbz) | 2:34 | 2025-10-02 | 2025-12-12 |
-| [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 | 2025-09-04 |  |
+| [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 | 2025-09-04 | 2026-09-04 |
 | [URLA \(feat\. Fasma\)](https://open.spotify.com/track/0ByflMiw9uDJleR9iEQxuK) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk) | [URLA \(feat\. Fasma\)](https://open.spotify.com/album/6J6yVPzd8nLTd0c9fTSOwQ) | 3:21 | 2023-06-15 | 2023-06-30 |
 | [Urlare](https://open.spotify.com/track/0MJlYJCJLh3Fw4mCi1Lxi4) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Urlare](https://open.spotify.com/album/4DH976R3tA0OfqSlIb0rd6) | 2:33 | 2024-01-04 | 2024-02-07 |
 | [Urlare](https://open.spotify.com/track/1SZH869hNrHGJTKo7LMCzW) | [Fra Melito](https://open.spotify.com/artist/7jADIGDmEXtQaVxUtOgw5Z) | [Urlare](https://open.spotify.com/album/2euJgTBFjT5YPXL0hPM9v3) | 3:16 | 2023-09-14 | 2023-10-06 |

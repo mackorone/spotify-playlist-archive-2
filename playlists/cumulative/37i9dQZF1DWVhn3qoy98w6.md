@@ -4,7 +4,7 @@
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Patronato.
 
-8,571 songs - 18 day 4 hr 33 min
+8,574 songs - 18 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,6 +814,7 @@
 | [AYÚDAME](https://open.spotify.com/track/4XkJij98a6w9IGsiwQ1mHU) | [Coolnenas](https://open.spotify.com/artist/4hLqOlbnetKrAoF7PHZzwd), [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [AYÚDAME](https://open.spotify.com/album/3Flgsmui7JOBojnuefeKIO) | 1:53 | 2024-04-02 | 2024-04-10 |
 | [Azar](https://open.spotify.com/track/1HuNUiK6eAA1vnYc0xPngx) | [La Muela](https://open.spotify.com/artist/2k8Y4OtrYLqNzyRcSSUgca) | [Blanco Duelo](https://open.spotify.com/album/0PGKoqMPqHXmlzaBkWa9iL) | 2:23 | 2023-05-30 | 2023-06-14 |
 | [Azken Eguzki Printzak](https://open.spotify.com/track/0HkakelZExZsASbDW26e6d) | [Olatz Salvador](https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk) | [Azken Eguzki Printzak](https://open.spotify.com/album/4OA4HlmwrINdyI2WUXzt87) | 2:46 | 2024-06-18 | 2024-06-26 |
+| [Azul](https://open.spotify.com/track/09wFZTljEFzOvXXCJseHQP) | [Junio](https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8) | [Azul](https://open.spotify.com/album/4vtEjEeynMBz3JiAoU8SZu) | 3:06 | 2026-09-01 |  |
 | [Azul](https://open.spotify.com/track/5RNrbe8maAu8sk0BuZQ2Zf) | [kenai white](https://open.spotify.com/artist/6vHokTOepZ7bishDD5owjJ) | [Azul](https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z) | 3:26 | 2024-09-17 | 2024-09-25 |
 | [Azul](https://open.spotify.com/track/7aP9DEr5YQ91NzJM936Vb0) | [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Azul](https://open.spotify.com/album/3BwfhYolVprFxzh02eqmDA) | 3:26 | 2022-06-29 | 2022-07-13 |
 | [azul casi transparente](https://open.spotify.com/track/0Xkpn8lcmi0s1TADYgJJ0d) | [9ckles](https://open.spotify.com/artist/1DfbSaxJu1kOKS0uOLcKYR) | [azul casi transparente](https://open.spotify.com/album/30rxI39Q1NaAySNSz5S0r9) | 1:40 | 2023-10-17 | 2023-11-02 |
@@ -6517,6 +6518,7 @@
 | [Qué Más Da](https://open.spotify.com/track/1MiHaYKQiMFLFraTFlguMN) | [Nevver](https://open.spotify.com/artist/5G3lfgfMQhRVTXQwbXvzrW) | [Qué Más Da](https://open.spotify.com/album/4FK7ljLaLfJpqI6VedEiia) | 3:22 | 2025-07-08 | 2025-07-16 |
 | [qué más da](https://open.spotify.com/track/6KVV3sZhXKfRXBKfPR6yIB) | [paco te quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [qué más da](https://open.spotify.com/album/6yyQA8ZrVFeM3IBTwJypUG) | 3:46 | 2025-10-21 | 2025-11-05 |
 | [QUÉ MÁS DA](https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [QUÉ MÁS DA](https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi) | 2:33 | 2023-07-11 | 2023-07-27 |
+| [Qué nombre, qué cara, qué rara](https://open.spotify.com/track/61RkUDqdl3YZERVTo6LUP0) | [Xerach](https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW) | [Qué nombre, qué cara, qué rara](https://open.spotify.com/album/7dVEIE2SvN4WToTjeLNsP0) | 2:57 | 2026-09-01 |  |
 | [Qué Pereza](https://open.spotify.com/track/4sbIJd96yK6qbLsYPfxc3E) | [Todo Mal](https://open.spotify.com/artist/3jpWZ08DVKnL2nuzIBwxqe) | [Qué Pereza](https://open.spotify.com/album/0BhI2Io7GPgyaZkPXT6anZ) | 2:55 | 2025-01-21 | 2025-01-29 |
 | [Qué pereza, la verdad](https://open.spotify.com/track/2yI0FaZlD2IQP0VP0wivQs) | [very magenta](https://open.spotify.com/artist/6XXXKQtXtkH9yrjAKYF9z6) | [Qué pereza, la verdad](https://open.spotify.com/album/6m4NOiiOjBZkfHhejJg2ar) | 4:11 | 2024-07-09 | 2024-07-17 |
 | [Qué Piel Habito Hoy](https://open.spotify.com/track/6xRcTBlHSwU6NhLo4BCVLq) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Karina Pasian](https://open.spotify.com/artist/2K3wt6XhUpoRdqg6XIdCp0) | [LO PURO](https://open.spotify.com/album/0FSNoh3jzgyMrFT5oYfWP6) | 2:46 | 2023-10-24 | 2023-11-08 |
@@ -7916,6 +7918,7 @@
 | [tú eres lo primero](https://open.spotify.com/track/1Rt113yAYQIZwrIdRXBfO3) | [FINTA](https://open.spotify.com/artist/4q5q5oeMnuEHo6UMyTOwrW) | [tú eres lo primero](https://open.spotify.com/album/3bWxqMK9nArlkcaAYnXvGU) | 2:35 | 2025-05-27 | 2025-06-05 |
 | [tú eres veneno](https://open.spotify.com/track/0fdJkV5G92QinRG6d8EJ5n) | [fuckfilipp](https://open.spotify.com/artist/6gFcPZeMtfpB8DPaSqm10A) | [desde el cuarto que antes odiaba](https://open.spotify.com/album/6KrrPITxoW3BxtVGfL7wVl) | 2:27 | 2025-02-25 | 2025-03-05 |
 | [Tú me jodiste](https://open.spotify.com/track/0sQsn7M7i0STKVCdzjGk6H) | [AGGAPPÉ](https://open.spotify.com/artist/3JZdWCgc2FzcbBqpn16tQy) | [Des\-amor](https://open.spotify.com/album/4RrlDtVvFMmOr701kwSmo6) | 2:51 | 2023-11-07 | 2023-11-16 |
+| [Tú más](https://open.spotify.com/track/0spLvCo2TYEkPXuYGq7L1S) | [GAMBOA](https://open.spotify.com/artist/77SXVwlcNRv5y0jxaCtjr6) | [Tú más](https://open.spotify.com/album/6JMZQRP1WJUL3UsjJKZzKL) | 2:42 | 2026-09-01 |  |
 | [TÚ NO SABES DE AMOR](https://open.spotify.com/track/5HNkH6Y0p81cuXaXHGA8jL) | [Delilah](https://open.spotify.com/artist/6LHTZ3a8efP3ejEWf4T58N) | [TÚ NO SABES DE AMOR](https://open.spotify.com/album/5xEzRFN5zye2j7duDrgVEL) | 2:37 | 2025-10-14 | 2025-10-29 |
 | [Tú sabrás, lo digo por tu bien](https://open.spotify.com/track/5fIqQ9w6M0xyG7WrhoThAw) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK) | [Tú sabrás, lo digo por tu bien](https://open.spotify.com/album/1TEWUQnR5kRM6BgitGffDT) | 3:59 | 2024-09-03 | 2024-09-11 |
 | [Tú Siempre Estás Ahí](https://open.spotify.com/track/6RG4gRvEB9lIt6V3oCzDH3) | [Noran](https://open.spotify.com/artist/7kDFUhCZeHoOWuzjRr4SNc) | [Tú Siempre Estás Ahí](https://open.spotify.com/album/3fSUImuyFxqFqUw9Dz1og9) | 3:31 | 2024-04-24 | 2024-05-01 |

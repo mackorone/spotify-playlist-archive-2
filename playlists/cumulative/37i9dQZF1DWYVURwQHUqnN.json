@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Gambi",
+  "description": "Photo : PLK",
   "name": "Best Life",
   "tracks": [
     {
@@ -3516,7 +3516,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 145454,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/0cZfbE7cVmQsVycxlU5wIo"
@@ -3586,6 +3586,24 @@
       "duration_ms": 131000,
       "name": "DEFONCE",
       "url": "https://open.spotify.com/track/3OVlg6EPvuhe44rrizXQkS"
+    },
+    {
+      "album": {
+        "name": "Deliciosa",
+        "url": "https://open.spotify.com/album/2yQEjpmi32nlH7DLUl62cd"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165967,
+      "name": "Deliciosa",
+      "url": "https://open.spotify.com/track/17QCWlVhlMWt5VVwale5nS"
     },
     {
       "album": {
@@ -4008,6 +4026,24 @@
       "duration_ms": 151351,
       "name": "D\u00e8s l'matin",
       "url": "https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h"
+    },
+    {
+      "album": {
+        "name": "D\u00c9SACCORD",
+        "url": "https://open.spotify.com/album/1N5y9sKCFCXPFV3lLvf1Zt"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "D\u00c9SACCORD",
+      "url": "https://open.spotify.com/track/2RNJPwQ5XEqvcylsulXQGz"
     },
     {
       "album": {
@@ -5730,7 +5766,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162735,
       "name": "L'argent rend fou",
       "url": "https://open.spotify.com/track/2Vnar4zfHYGmKjfuHFspif"
@@ -6590,7 +6626,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 157500,
       "name": "Magique",
       "url": "https://open.spotify.com/track/4TIDf6oZOBDIhmgYEK58hB"
@@ -7740,6 +7776,24 @@
       "duration_ms": 171266,
       "name": "NEXT",
       "url": "https://open.spotify.com/track/7I396oMpP77YKsQVOAQWFv"
+    },
+    {
+      "album": {
+        "name": "Ngami Amich\u00e9 / Lov\u00e9 / Full Black / +33 / Aventador\u00e9 / Cardio",
+        "url": "https://open.spotify.com/album/4Koe6Sw8T26TrmydfJRFWs"
+      },
+      "artists": [
+        {
+          "name": "HT",
+          "url": "https://open.spotify.com/artist/50pqrGq4DqUlNmsaCfRexx"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "Ngami Amich\u00e9",
+      "url": "https://open.spotify.com/track/7ouRHt3TSDAqSiRJOGNlw4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,384 likes - 500 songs - 1 day 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,475 likes - 500 songs - 1 day 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [Ponta De Areia](https://open.spotify.com/track/2m4AKjV0OBfSft7YYh8y5x) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 5:36 |
 | 500 | [Monticello](https://open.spotify.com/track/0FKnknau5UBXgN2Q6vVHgC) | [The Monty Alexander Trio](https://open.spotify.com/artist/31KKBLM5RlNTW9EAYa6kW9) | [We've Only Just Begun](https://open.spotify.com/album/6ynS20qvBhX3zrvhCY9w93) | 3:52 |
 
-Snapshot ID: `AAAAACMitK1ca2K9buj/SmRJPofIkaAO`
+Snapshot ID: `AAAAAGgihja65nVENVzaWWaRkJMsUu5J`

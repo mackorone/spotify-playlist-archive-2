@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-208 songs - 15 hr 57 min
+211 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,9 +132,11 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Zion](https://open.spotify.com/album/4rbOCwVhFYT2yYBmmUsekd) | 8:56 | 2022-04-15 |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 | 2022-04-15 | 2024-04-19 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/6ax2Ggo7GekdiKS8rnaQFP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Essential Christian Mix](https://open.spotify.com/album/3u318s3bi0JWwEH3p5zmaJ) | 8:55 | 2022-11-03 | 2022-11-13 |
+| [Old Ways](https://open.spotify.com/track/7e6AVhcPeQPOLPgMAhoqmI) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Old Ways](https://open.spotify.com/album/52oAZMwTzU5KVcZb8rYMmR) | 2:37 | 2026-09-04 |  |
 | [On Repeat](https://open.spotify.com/track/1RVSKrJR0Qoi1eoSMuT1AH) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [On Repeat](https://open.spotify.com/album/4eVo5kyRzRJqV6xvB59Z9v) | 4:31 | 2024-03-19 | 2024-10-25 |
 | [On Repeat](https://open.spotify.com/track/0HiR1fErIN1CgzLyzBFhDw) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Are We There Yet?](https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq) | 4:31 | 2023-03-31 | 2024-04-19 |
 | [On This Day on This Hour](https://open.spotify.com/track/3QVdA3isRpwIt6t5KMRNMw) | [Mark Anthony Cuevas](https://open.spotify.com/artist/52ngUZYjfnI4GOTkqyMbhd) | [On This Day on This Hour](https://open.spotify.com/album/4bq1w4dtLOtZ7qNOSJSEb0) | 6:05 | 2022-04-15 |  |
+| [Only You](https://open.spotify.com/track/1mUrlzT59pAUOgDF6Sghiz) | [AWAKE84](https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg) | [Only You](https://open.spotify.com/album/6606NOmoMXX7UUingAcxVT) | 3:21 | 2026-09-04 |  |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2023-03-31 |  |
 | [PAANO MO KINAYA \- WATERWALK Sessions Version](https://open.spotify.com/track/6NjHzLaJLk8ej0e6o6XqFF) | [Lee Simon Brown](https://open.spotify.com/artist/2JCVZPC2G6aBFrcDfLRSIX) | [PAANO MO KINAYA \(WATERWALK Sessions Version\)](https://open.spotify.com/album/33uY0RKMoBPf63yOOFtTj3) | 4:10 | 2022-11-03 |  |
 | [Pag\-ibig Mo Sa'kin](https://open.spotify.com/track/4KZeqaGxg3yr7q69sI9gmv) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Pag\-ibig Mo Sa'kin](https://open.spotify.com/album/60YC9Dpcxu8iysvqjEEVRg) | 4:01 | 2024-03-19 |  |
@@ -186,6 +188,7 @@
 | [This Year](https://open.spotify.com/track/232GkQUm3vxkug4dFIknAf) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/5s1UWPJuRes1KBa3ODY8Kv) | 3:00 | 2022-04-15 |  |
 | [This Year](https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [This Year](https://open.spotify.com/album/0ueqRiZwnfRqcm2ZZqYeuL) | 3:00 | 2023-05-05 | 2024-04-19 |
 | [Throne Room Song](https://open.spotify.com/track/1PUvZx8bARsf3ORSdmTxuN) | [May Angeles](https://open.spotify.com/artist/3QnnsnDjUGYX8cYQuub0eh), [Jordan Merritt](https://open.spotify.com/artist/39DgyPkCHL68NcN1rBsjbE) | [Never Wanna Go Back](https://open.spotify.com/album/2KoA6hrHiqvWzz6ItlJDhc) | 6:01 | 2022-04-15 |  |
+| [TREASURE](https://open.spotify.com/track/3sNvvtOd10RDZJJr4Y7cnW) | [Hope Music PH](https://open.spotify.com/artist/6O01ivbiwFip0rVDBubs3B) | [TREASURE](https://open.spotify.com/album/7ICWs58bkQa6jEi6LoNN64) | 6:09 | 2026-09-04 |  |
 | [Tribes](https://open.spotify.com/track/7A6iCvA36tfeXuMHXa0hLD) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Tribes](https://open.spotify.com/album/5ZvBbZGgcqZupaYw7tr1TU) | 4:27 | 2024-03-19 |  |
 | [Trust in You \- Renewed](https://open.spotify.com/track/4cOAWfJIUmybRvbhX3LHBx) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Trust in You \(Renewed\)](https://open.spotify.com/album/05fAHM2ARLtd0DEDfXmNmF) | 4:38 | 2022-04-15 |  |
 | [Tungo Sa'yo](https://open.spotify.com/track/2UodFaBIAVbTvvev04pth1) | [Bituin Escalante](https://open.spotify.com/artist/0lyIvVIJZWM6K64it2HqWk), [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX) | [Tungo Sa'yo](https://open.spotify.com/album/4dMokw1VM5U3OgGJJYkFEZ) | 4:59 | 2024-03-19 |  |

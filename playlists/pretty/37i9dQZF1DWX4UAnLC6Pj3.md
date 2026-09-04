@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,628 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,620 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Fuiste Mi Todo](https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH), [Israel Cienfuegos](https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y) | [Fuiste Mi Todo](https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP) | 2:26 |
 | 100 | [Tu Ex Amigo](https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Tu Ex Amigo](https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb) | 4:04 |
 
-Snapshot ID: `AAAAACr4UnG78Xa5UpfGLaJD7gTawf9h`
+Snapshot ID: `AAAAAILdcDTLkrpdtET0VaAEAxNf80LL`

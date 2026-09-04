@@ -4455,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "I Knew",
+        "url": "https://open.spotify.com/album/3H0tJAfrzkljPGFKEplXR5"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163887,
+      "name": "I Knew",
+      "url": "https://open.spotify.com/track/2Fy3nVEjM2Mmvc6WrDPZ10"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,368 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,393 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
 | 50 | [Ram Ram Ji](https://open.spotify.com/track/5ZqYBdWWBUHIFozRL3PZGP) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [Aniket Jain](https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH) | [Ram Ram Ji](https://open.spotify.com/album/5xKv5CE1f2cbmBk1URdlYr) | 2:43 |
 
-Snapshot ID: `AAAAAKtL5Lsb6NSmJCJaeF1Jz6v6MspV`
+Snapshot ID: `AAAAALymsKf1mragcWCC35897K9IOHBc`

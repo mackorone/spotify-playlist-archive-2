@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 158 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 646 likes - 158 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 57 | [\(I've Got\) Beginner's Luck](https://open.spotify.com/track/6aPqzx06H4yFkO4GnPv21e) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:11 |
 | 58 | [Things Are Looking Up \(with Teddy Wilson & His Orchestra\)](https://open.spotify.com/track/2Cea9NVAO6TkS4TvvgnQ8C) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Billie Holiday Collection Volume 3](https://open.spotify.com/album/4GaAJzLvJW2ulKrQ4BZxuS) | 3:19 |
 | 59 | [That Certain Feeling](https://open.spotify.com/track/0LErVxjTqak8uoHS33WPZQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 2:47 |
-| 60 | [How Long Has This Been Going On?](https://open.spotify.com/track/6MSPmlosmWdBLPxXxLfhTW) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 2:33 |
-| 61 | [NO HYPE \(con Tredici Pietro, Diss Gacha\)](https://open.spotify.com/track/2WaTC44IfgHh1ppGAzoOCD) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 2:47 |
+| 60 | [NO HYPE \(con Tredici Pietro, Diss Gacha\)](https://open.spotify.com/track/2WaTC44IfgHh1ppGAzoOCD) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 2:47 |
+| 61 | [How Long Has This Been Going On?](https://open.spotify.com/track/6MSPmlosmWdBLPxXxLfhTW) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 2:33 |
 | 62 | [Summer Life \(feat\. YG\)](https://open.spotify.com/track/7FTI3GKtcp6hr1h6SFL93z) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Skywalker](https://open.spotify.com/album/39z4dxWE6Kpl8NvMdY2L0t) | 3:55 |
 | 63 | [By Strauss](https://open.spotify.com/track/2ciXabBYqwolDxCVl3I0cn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
 | 64 | [What Causes That?](https://open.spotify.com/track/2cyI5N2VPo8t6KgECfyGX4) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [Chris Langham](https://open.spotify.com/artist/6LskopbUrca2rPzMQkPwng) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 3:42 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcbQvAAAAAAgsP8p82Onwsv8+cTz+8q8`
+Snapshot ID: `AcbWXAAAAACHOm3OquCe1kBmMPrtaRoT`

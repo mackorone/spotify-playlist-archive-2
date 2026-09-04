@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover:  Colde)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover:  Bumkey)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 203234,
       "name": "2002",
       "url": "https://open.spotify.com/track/68Djj6rG9XWVK9NB8LnLU1"
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152307,
       "name": "Chung Choon",
       "url": "https://open.spotify.com/track/7FsUed4IoZXFNKcAzsPDmv"
@@ -6262,6 +6262,28 @@
       "duration_ms": 215999,
       "name": "free flight",
       "url": "https://open.spotify.com/track/2bK55R5VEB1c3pDhri09OZ"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/7f81fBpW87RLvKrkU2JNot"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Freewill",
+      "url": "https://open.spotify.com/track/6yvJEFIUNpXAY3wPJLe1kr"
     },
     {
       "album": {
@@ -11973,6 +11995,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0XBdrJcgVNBkZ8MpTAO6ML"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/776vLcNy6mHNmPisdejR0I"
+    },
+    {
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -13518,7 +13558,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208999,
       "name": "PULL UP",
       "url": "https://open.spotify.com/track/5HVThrpHFfjp0bPqyCdKku"

@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176354,
       "name": "Alvida",
       "url": "https://open.spotify.com/track/0MzimbGlnX7GS2lRuD5eTT"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 190566,
       "name": "Fame Us - From \"Tu Yaa Main\"",
       "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
@@ -5811,6 +5811,28 @@
     },
     {
       "album": {
+        "name": "SAFAL (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/2DuekyAhrZTZxAoGR1Z0RW"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "MEMAX",
+          "url": "https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "SAFAL - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/1Rc8HH8HNlclwmvobJD2WK"
+    },
+    {
+      "album": {
         "name": "Saggey",
         "url": "https://open.spotify.com/album/6r57AvtE6Xl3HrrFbPgZcI"
       },
@@ -6590,6 +6612,28 @@
       "duration_ms": 151895,
       "name": "Tateeree",
       "url": "https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm"
+    },
+    {
+      "album": {
+        "name": "TAX",
+        "url": "https://open.spotify.com/album/6GVbLAebCu28akVbn0pa9A"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "aywy",
+          "url": "https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "TAX",
+      "url": "https://open.spotify.com/track/6aaeNPz3nlLVbJBg75aVls"
     },
     {
       "album": {

@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Bachke Chaliye",
+        "url": "https://open.spotify.com/album/6IL3ppNbFtf5X3H1HAjlx3"
+      },
+      "artists": [
+        {
+          "name": "Its Aghori",
+          "url": "https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "Bachke Chaliye",
+      "url": "https://open.spotify.com/track/5Al4c9dCweN02VU2x0c23r"
+    },
+    {
+      "album": {
         "name": "Back Off",
         "url": "https://open.spotify.com/album/3IAkSxjIqQY9ON7eylndZZ"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208695,
       "name": "Bhai 4",
       "url": "https://open.spotify.com/track/6rGgaRS0jslie0KkC24wJZ"
@@ -4297,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/1rJEKN9aGVatkkpuiJdrSv"
+      },
+      "artists": [
+        {
+          "name": "raghavforbharat",
+          "url": "https://open.spotify.com/artist/2GzczL1ySXt5RJCuGuaMPW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112136,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/4nKrCO2cL8TYxa9dvdxPnw"
+    },
+    {
+      "album": {
         "name": "Do Numbari (From \u201cMirzapur The Movie\u201d)",
         "url": "https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE"
       },
@@ -6292,7 +6328,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162461,
       "name": "High Rated Chhora",
       "url": "https://open.spotify.com/track/5Ta38h1WLIUGum6e8KYtSs"
@@ -6420,7 +6456,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 168531,
       "name": "Hood Boss",
       "url": "https://open.spotify.com/track/1gaQ1ECyyDKNZtVE15SLNo"
@@ -7708,7 +7744,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178858,
       "name": "Kaarnaame",
       "url": "https://open.spotify.com/track/1gHnnYgbK1ZOjF3m5LcQ3J"
@@ -12012,6 +12048,24 @@
     {
       "album": {
         "name": "Rutba",
+        "url": "https://open.spotify.com/album/7e4GZ6RqUXdbY5KrBctbuf"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193201,
+      "name": "Rutba",
+      "url": "https://open.spotify.com/track/72k6qzK3xph0ZaiY43dCaw"
+    },
+    {
+      "album": {
+        "name": "Rutba",
         "url": "https://open.spotify.com/album/7fbRe5nvzSNcp67ghhzZph"
       },
       "artists": [
@@ -13271,6 +13325,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4DrMykT2LZZkxAuCq9fCVz"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        },
+        {
+          "name": "Rashmi Nishad",
+          "url": "https://open.spotify.com/artist/2wL76UFPA2SsIqyRATmAG0"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166486,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/61BSrgSdXnCF71vfis0zCY"
+    },
+    {
+      "album": {
         "name": "Tell Me Who?",
         "url": "https://open.spotify.com/album/17RZZWoh6BOD2Dav0mRbi3"
       },
@@ -14144,7 +14220,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 186789,
       "name": "Uski Leela",
       "url": "https://open.spotify.com/track/2hA6FUXKrqkIJh9XTN4sc2"
@@ -14606,6 +14682,28 @@
       "duration_ms": 209629,
       "name": "Yamraaj",
       "url": "https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0"
+    },
+    {
+      "album": {
+        "name": "Yamraaj",
+        "url": "https://open.spotify.com/album/1xwVPiJZ9SgseiFB4zeGnb"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        },
+        {
+          "name": "BAD Junkie",
+          "url": "https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Yamraaj",
+      "url": "https://open.spotify.com/track/4E9uD7yOwBOuiAdiMXIY3T"
     },
     {
       "album": {

@@ -6112,7 +6112,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 181737,
       "name": "Subira",
       "url": "https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz"
@@ -7068,6 +7068,24 @@
       "duration_ms": 246666,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk"
+    },
+    {
+      "album": {
+        "name": "Wawili",
+        "url": "https://open.spotify.com/album/47byUBwGZDE9UY3UQIweMy"
+      },
+      "artists": [
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Wawili",
+      "url": "https://open.spotify.com/track/6fUSXK3W1rsv4mhFDP7dZy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Stella Lefty
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,345,880 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,345,491 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 |
 | 75 | [Fabulous \- Felix Jaehn Remix](https://open.spotify.com/track/6Lr9mVWFH5LwcdLej5OVjW) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fabulous \(Felix Jaehn Remix\)](https://open.spotify.com/album/1MvjwsMhesKPDq503pQWxR) | 2:33 |
 
-Snapshot ID: `AAAAAJBj84zDBrVTH1mJNUqREEZ5SfPD`
+Snapshot ID: `AAAAAKqQlx0k99OZPHHN+VZ3Oqk9blxP`

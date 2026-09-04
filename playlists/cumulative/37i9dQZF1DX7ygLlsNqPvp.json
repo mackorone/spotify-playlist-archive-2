@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  O'Kenneth",
+  "description": "The most intense local drill music firing up the continent. Cover:  Black Sherif",
   "name": "Asakaa",
   "tracks": [
     {
@@ -2562,6 +2562,24 @@
       "duration_ms": 276410,
       "name": "Frodo Baggins",
       "url": "https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo"
+    },
+    {
+      "album": {
+        "name": "SUN SHERIF",
+        "url": "https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176013,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/2z4BvfN4Ce4kwnAFLvq9EV"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Strictly Nigerian worship songs\. Cover: Sunmisola Agbebi
 
-449 songs - 2 day 8 hr 13 min
+452 songs - 2 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aanu Ni](https://open.spotify.com/track/6Xlk1BRpm8popHswG85vsw) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 3:42 | 2026-06-12 |  |
 | [Able God](https://open.spotify.com/track/4CkDjy3zvHHDNm51joKmst) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Able God](https://open.spotify.com/album/6pwOhF1h9S0TKheP28rNLa) | 3:33 | 2025-04-25 | 2025-06-20 |
 | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/track/1vFoYxBAvdUHykCWCiI9Mc) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW) | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/album/4wzpW58kU9MLOUMxxWYKv2) | 7:55 | 2026-08-21 |  |
+| [Addicted to Your Love \(Spontaneous\)](https://open.spotify.com/track/3RX3mn7lFIhx67kk6okhUA) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Addicted to Your Love \(Spontaneous\)](https://open.spotify.com/album/5XUQhx3NkmkY2XhMTTN3SS) | 4:43 | 2026-09-04 |  |
 | [Adonai](https://open.spotify.com/track/2w74zoXGcIDVf1bPa52Bx8) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/18s4VVZoZFyokvcqDCnUu8) | 8:31 | 2026-04-01 | 2026-04-07 |
 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 | 2024-11-15 | 2025-01-10 |
 | [Adoration](https://open.spotify.com/track/2r80jXetPGcYiO0hWjIwlb) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Adoration](https://open.spotify.com/album/4cL97GKu8RwETLtFQ1n4tk) | 6:01 | 2025-03-28 | 2025-07-04 |
@@ -184,6 +185,7 @@
 | [Hungry for You](https://open.spotify.com/track/2NexQa4KeCyXqmNDdVjWA6) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Hungry for You](https://open.spotify.com/album/5b80Kb9atpUSjZwa0crLAy) | 8:03 | 2024-09-20 | 2025-01-10 |
 | [I Am Yours](https://open.spotify.com/track/5mUjdff3OcxmnuCEvA44It) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [I Am Yours](https://open.spotify.com/album/6oQdwlGvYdKeASdRbfuG6v) | 6:49 | 2026-02-27 | 2026-04-17 |
 | [I Believe](https://open.spotify.com/track/4aBhXsIOid0Ywk8SagSDeX) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD) | [The Lord's](https://open.spotify.com/album/7kFFcia3s1RBDmsyDPPm0S) | 6:15 | 2025-08-29 | 2025-10-24 |
+| [I Belong](https://open.spotify.com/track/3EStBKZ79toJa7gj7nif5w) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [I Belong](https://open.spotify.com/album/4aoDkktKJffjHHi3k6YsXc) | 7:04 | 2026-09-04 |  |
 | [I Cant Tell It All](https://open.spotify.com/track/6h8Kqtmm4skWxoXkVhnTMT) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [I Cant Tell It All](https://open.spotify.com/album/3hJEXMrli90vxYUlDubnHd) | 5:03 | 2024-12-27 | 2025-04-04 |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2024-05-09 |  |
 | [I give you praise](https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [I give you praise](https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY) | 13:36 | 2025-05-23 | 2025-08-08 |
@@ -254,6 +256,7 @@
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Longing of My Heart](https://open.spotify.com/track/2OeCSaESoZrzclzzZycosi) | [Chimdi Ochei](https://open.spotify.com/artist/3KGTgIIbXrMNFh1GLZFnfO), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Happily Yours](https://open.spotify.com/album/2IpVL6spEIj8BErpyUd33G) | 4:27 | 2026-04-01 | 2026-04-07 |
 | [Looking To Jesus \- Live](https://open.spotify.com/track/3b1f6v216f46C0FZA3FsFZ) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:00 | 2026-04-01 | 2026-04-07 |
+| [Lord Most High](https://open.spotify.com/track/5QdSwe7gS1ORjW6CQpsgDl) | [Dolapo Lawal](https://open.spotify.com/artist/3q4KhtQjtB8DQg0n2eGUMC), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Soli Deo Gloria](https://open.spotify.com/album/5EE2xY6Q8vDMoOUNj5bBI2) | 6:13 | 2026-09-04 |  |
 | [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 | 2026-04-17 |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 | 2025-09-12 |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |

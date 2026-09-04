@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Eddy de Pretto.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 163359,
       "name": "bonjour mon amour, bonne nuit.",
       "url": "https://open.spotify.com/track/02JicXcJJFbV2J5c8RkQxX"
@@ -5824,6 +5824,24 @@
       "duration_ms": 219266,
       "name": "Solo dans mon lit double",
       "url": "https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d"
+    },
+    {
+      "album": {
+        "name": "sous influence",
+        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186908,
+      "name": "sous influence",
+      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
     },
     {
       "album": {

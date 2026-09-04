@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,708 likes - 200 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,703 likes - 200 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 199 | [silkysmooth](https://open.spotify.com/track/2x4o4WaPZRtdkWiJoZ5yYK) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [silkysmooth](https://open.spotify.com/album/2pGNKhitHKrBI8JH37iiL7) | 2:41 |
 | 200 | [Palmera](https://open.spotify.com/track/4M4IRdZcrFN6cABVZXVjmB) | [Gofica](https://open.spotify.com/artist/55F2AITuHErxRXifp8W8Y7) | [Palmera](https://open.spotify.com/album/5HgXP8PWHqMHLtdWL7dbMV) | 2:10 |
 
-Snapshot ID: `AAAAAA5lBNrI9rdOmctwugf4n4Vwlj9l`
+Snapshot ID: `AAAAAPb9Ykd5cc5NoC02s9vPntRHtGtD`

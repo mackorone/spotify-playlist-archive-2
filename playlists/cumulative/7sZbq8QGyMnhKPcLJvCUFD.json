@@ -17713,6 +17713,28 @@
     },
     {
       "album": {
+        "name": "Watching You",
+        "url": "https://open.spotify.com/album/6HJGgHVXXV9B31lWKvoFXA"
+      },
+      "artists": [
+        {
+          "name": "Silver Bullet",
+          "url": "https://open.spotify.com/artist/0SEngfaDuGowIj9cDEN2yq"
+        },
+        {
+          "name": "Jess Cullity",
+          "url": "https://open.spotify.com/artist/0zndkaVxTZEpHyXH5yk6nJ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151714,
+      "name": "Watching You",
+      "url": "https://open.spotify.com/track/1wOi7w4KdjJWvsxGDvqnTf"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g"
       },

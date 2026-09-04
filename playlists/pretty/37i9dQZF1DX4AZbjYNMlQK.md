@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,102 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,051 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 74 | [Human Nature \- En Español](https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 4:15 |
 | 75 | [Navidad Contigo](https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Navidad Contigo](https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1) | 2:03 |
 
-Snapshot ID: `AAAAAJ1PKJ3BODDlEvXldfWUy6l6zHMe`
+Snapshot ID: `AAAAAPjm20Vl1ZusXpP/5SujnW3WrzCk`

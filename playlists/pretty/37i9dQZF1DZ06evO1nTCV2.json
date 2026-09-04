@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45330,
+  "num_followers": 45333,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAABuN33u4SjQ9N9GPBSx8oyc",
+  "snapshot_id": "apdnAAAAAABCIxZU4RXIOBhdqHEpq5fw",
   "tracks": [
     {
       "added_at": null,
@@ -747,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 162306,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Suicide Handbook",
-        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Touch, Feel & Lose",
-      "url": "https://open.spotify.com/track/3XDaAJRBkyzDGZmCANjLZr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Battle",
         "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
@@ -799,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/0MnbUy15v2y5Mqmbx8bsui"
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
       },
       "artists": [
         {
@@ -808,9 +776,41 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 203386,
-      "name": "Let It Ride - Single Version",
-      "url": "https://open.spotify.com/track/5KNEBv1HzJnufcfWpsihN1"
+      "duration_ms": 226160,
+      "name": "Touch, Feel & Lose",
+      "url": "https://open.spotify.com/track/3XDaAJRBkyzDGZmCANjLZr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 162306,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "The Shadowlands",
+      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
     }
   ],
   "unique_name": "This Is Ryan Adams",

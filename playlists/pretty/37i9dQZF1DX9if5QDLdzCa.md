@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,554 likes - 165 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,557 likes - 165 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 164 | [Sky Waves](https://open.spotify.com/track/4dHtg5BstRQexbgb3nJs1h) | [Earth Rotation](https://open.spotify.com/artist/7FPgFjMgODapgQxBbhyuv0) | [A Scent Of Waves](https://open.spotify.com/album/3oILcu1IH7r5HpyPD9h9go) | 2:29 |
 | 165 | [Light Ocean Waves](https://open.spotify.com/track/5SxUwK1RuHTLnaP5bgv3Wl) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Light Ocean Waves](https://open.spotify.com/album/0PgPNssEN1eYkysKCgtOGI) | 3:26 |
 
-Snapshot ID: `AAAAAOkqivkNYIwtMXkoPmyzM9bJgsi+`
+Snapshot ID: `AAAAAM7pNVOrYgOrw+0rMvDiVS50BC9R`

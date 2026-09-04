@@ -4904,7 +4904,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 199338,
       "name": "Karikhaalam",
       "url": "https://open.spotify.com/track/7CrV2L9mDStNBJ1TDyk6vw"
@@ -9694,6 +9694,28 @@
       "duration_ms": 242659,
       "name": "Ruhani",
       "url": "https://open.spotify.com/track/0TMOKvYLDqVx2TCMREEkjd"
+    },
+    {
+      "album": {
+        "name": "Saahiba",
+        "url": "https://open.spotify.com/album/2ts29yZrYJwOlL5AoEGzUV"
+      },
+      "artists": [
+        {
+          "name": "Sajeer Koppam",
+          "url": "https://open.spotify.com/artist/7Ea6gI259RLD4aFoAsPtph"
+        },
+        {
+          "name": "Sibu Sukumaran",
+          "url": "https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203201,
+      "name": "Saahiba",
+      "url": "https://open.spotify.com/track/6YKKnCsotlEDF9Qhs9GnlA"
     },
     {
       "album": {

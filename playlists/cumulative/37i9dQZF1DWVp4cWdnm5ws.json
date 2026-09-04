@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Introducing RADAR Philippines Cast of 2026. Cover: HEY JUNE!",
+  "description": "Introducing RADAR Philippines Cast of 2026. Cover: Chezka",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -2280,6 +2280,24 @@
       "duration_ms": 196363,
       "name": "Hindi Ko Kaya",
       "url": "https://open.spotify.com/track/5DAVHXdtJfSoz2uyPyzZUo"
+    },
+    {
+      "album": {
+        "name": "Hit and Run",
+        "url": "https://open.spotify.com/album/4XYA6GKi56VFiF2PQcB4Gk"
+      },
+      "artists": [
+        {
+          "name": "Chezka",
+          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213488,
+      "name": "Hit and Run",
+      "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
     },
     {
       "album": {

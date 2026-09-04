@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,301 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,311 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 99 | [On Top Of De](https://open.spotify.com/track/4VknnXlY83VkUGxblL06Uy) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Turk](https://open.spotify.com/artist/3CCnfGrTPgEJoHFk4UOe0O), [Spacekees](https://open.spotify.com/artist/4qGhPy6Sl7Efs3D7a230wM) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 4:01 |
 | 100 | [9 tot 5](https://open.spotify.com/track/0tUZPEifyYlDfqH0MrvCnh) | [Raymzter](https://open.spotify.com/artist/5ZntjOpn1ADiQnLx3W9Eja) | [Rayalistisch \(Reissue\)](https://open.spotify.com/album/7vrpUK5hOOuI2y1jSGuaVq) | 4:03 |
 
-Snapshot ID: `AAAAALSNBhFbEBClSVgJgpojSSpqsRe+`
+Snapshot ID: `AAAAAPB+GziNj3Jb2jMfvP+LAUvMT1Q8`

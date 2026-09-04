@@ -1,15 +1,31 @@
 {
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giannis Ploutarhos",
-  "num_followers": 39508,
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Katerina Lioliou",
+  "num_followers": 39507,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANGtfpMevSAfgpUsA18IVdZmqnz1",
+  "snapshot_id": "AAAAAH+fdjicqjg9FUL0MllP8yREia0B",
   "tracks": [
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
+      "album": {
+        "name": "Pagkosmia Mera Tou Psefti",
+        "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 165239,
+      "name": "Pagkosmia Mera Tou Psefti",
+      "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
+    },
+    {
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Enoho Kormi",
         "url": "https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "S' Agapo San Amartia",
         "url": "https://open.spotify.com/album/2hoqDGJphZg8aeWZVGKFKK"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3S9BnC9E3a2DmJ8oq6BTwu"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Mono Logia",
         "url": "https://open.spotify.com/album/2GldFBWaLnny94cZ9gikGh"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/5nLZH9sUmzExy4kOewevc9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Pagkosmio Fainomeno",
         "url": "https://open.spotify.com/album/0OdoqXPaomx7ylY27x7i6l"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/6D4HZbIu78JR8Dh9Owi7OO"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Avgoustiatiko Feggari",
         "url": "https://open.spotify.com/album/0B76RWy33vHjif3wLg8POA"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/4m1rVXIjwDNnWiuMZov3o9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Sta Kalitera Pou Elkontai (Agapate Katallilous)",
         "url": "https://open.spotify.com/album/32QmrCVsuU8DqDaQNqw3Y2"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Prive",
         "url": "https://open.spotify.com/album/5Ng1SdSHpXtaOw7Dhx0tyJ"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/5Jwzkuu1edcK252FWNNpM9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Erws",
         "url": "https://open.spotify.com/album/78CEh8TlHJhappoIWJMmEc"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/1kl2x4SKPXSlqjQ36NQBcZ"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Pare Na Exeis",
         "url": "https://open.spotify.com/album/7crwOz5bsAg7RxhzDyJtDd"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/1MGkBi3OFvputs43Hw9z15"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "12 Tsigara",
         "url": "https://open.spotify.com/album/42cuv51ZSnng9JYeWwepQZ"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/3KjgRSqqVtkbs44g2dlRnQ"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Sto Mualo Sou",
         "url": "https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "KABANES",
         "url": "https://open.spotify.com/album/3F8n2brlXT4gorr1ebbyfA"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/4XDlAln3qATRL5FCZwnny5"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Se Sena Milao",
         "url": "https://open.spotify.com/album/7Iymk9PTs7U1zuTVBff9BZ"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Psemata Mi Po",
         "url": "https://open.spotify.com/album/0LI83NjQK7UoCh79ZWqxt4"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/3NDkI4Vqf7AYBBNQXufprj"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Katarameni Kardia",
         "url": "https://open.spotify.com/album/1e7DtYTJTenGBMPS9fso3h"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/36X7kwEYIWh6gQtB4MGZaJ"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ti Sou Hrostao",
         "url": "https://open.spotify.com/album/4aQB3sUB56Gn52u3BJ1lel"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/0oFoDNiUUSxcx0wzZsT8y2"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ti Gynaika Eisai Esy",
         "url": "https://open.spotify.com/album/6yIieDqzL1ASOvYuNHHQ0R"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Thimizeis Kati Apo Ellada",
         "url": "https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Na Girnouses Piso",
         "url": "https://open.spotify.com/album/5eL4oCsMNUNGr0M2kCXnpA"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/2opshSqvan9kufDbZSmbzw"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Lemonia Mou",
         "url": "https://open.spotify.com/album/7CoZkSE8IKiifsbOh3GU46"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/3Ypd9akQZ1uisFau9qWi73"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Astrofeggia",
         "url": "https://open.spotify.com/album/4cUAyISg8OcodUZnE1LLIq"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/6VYarRcF6WxGDZ0BejmCR9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Monadikos Ipefthinos",
         "url": "https://open.spotify.com/album/49VzWCWmhDkrdnIg3npogS"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/66wNGWlJ3jl50Yfrp9U1iC"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Gia To Kalo Mou",
         "url": "https://open.spotify.com/album/2BS6POovpDW5cFp7sBgxjZ"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/4Ga61DQK2yrGSkh0xn9iur"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ase Oti Kaneis",
         "url": "https://open.spotify.com/album/6UVZFYaPgMJ66oHCAawL0e"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/2fSUhpsHAuW3exWwQiAI3s"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "To Proto Sou Fili",
         "url": "https://open.spotify.com/album/2hB4UWuI7bYEd1L4QUOZWR"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/5KKrxq8JQ90ETCeRgeKGcT"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Antisimvatiki Sxesi",
         "url": "https://open.spotify.com/album/2nH9TR365bFoDbxHo3UqEj"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/1iqDMi4MyYsxj2aAivSsdC"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Eipes",
         "url": "https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ta Parapona mou",
         "url": "https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Spaste Ta",
         "url": "https://open.spotify.com/album/3jfetX93UbxUrzpaEd1dRq"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Den Apantas",
         "url": "https://open.spotify.com/album/1vfjKo8jo84sTAiI5ciu5m"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/3KyUbMHPsZsPDoCTpSQ1DJ"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Itan Na Vrethoume",
         "url": "https://open.spotify.com/album/4McNW9nL6Y58uXk8Xcu8Jd"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/1VmTEkRCztvb2ubRcH1Gs9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "KABANES",
         "url": "https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/369kX7fbtHY20flzXt0m37"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Xelogiastra",
         "url": "https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Epithesi",
         "url": "https://open.spotify.com/album/3m4RXgBJF7rz8btj5Wcvyj"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/50QoR0IEoj8pg3cqzn2nPC"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Etsi Exei Mathei",
         "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Na M' Agapas",
         "url": "https://open.spotify.com/album/46U7QZidges6iCwapYS8Gj"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/3gE0aPgt8hXdVFY6ocKfRO"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Lathos Sou",
         "url": "https://open.spotify.com/album/2922T1lHkRFUz3MU6Pr3sK"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/2vDJ8rZVKKDQvzeZknZpMH"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Perastikoi",
         "url": "https://open.spotify.com/album/4TI8RirkAmE8aOVrVIDt0V"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/5lGwvQdPqkISzWf2t1c4HN"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Mavra Feggaria",
         "url": "https://open.spotify.com/album/4itX5qMwCqZv3yaOFfYAdJ"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Kai Eis Anotera",
         "url": "https://open.spotify.com/album/4gionUX9mlENe6K3e4KOjd"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/03Fk1HBXI8zwOqOSqA8n5D"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Exigiste Mou",
         "url": "https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Xatiri",
         "url": "https://open.spotify.com/album/67REkysmauj7wNh51RHhkU"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/53XZxBD8QICUrA1PrClBvh"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Me Xodepses",
         "url": "https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Fortigo",
         "url": "https://open.spotify.com/album/66mrSDnk640euJ6tJ2d4Y2"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/2NndVcLMwvJt6NYnm7ufUs"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ta Erotika Part 2 (Unplugged Live Medley)",
         "url": "https://open.spotify.com/album/5Bamz8lvuYy4OrJPp42fNa"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/3q1xdKVTR8dI1A4Udmp4jt"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Apo To Xthes Sto Simera (Part 2)",
         "url": "https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Sousouro",
         "url": "https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ta Dika Mou Nisiotika",
         "url": "https://open.spotify.com/album/4yHDv2u45TqswVzz6mB29k"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/1tmJFGLIJbUWWRdmXZ3T1Q"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Ala...Palia (Live)",
         "url": "https://open.spotify.com/album/4cWesOXygA9F6DdFy4wdCK"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/1ykIbJe0wczOTWYEv1gu9x"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Kollima",
         "url": "https://open.spotify.com/album/0LEQbCuNx05qvuTE4BnSEc"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/1jGZX7XcviQ8PAwOCnP0pA"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Amyna",
         "url": "https://open.spotify.com/album/1AzKX9Jk5enuqbdbTG6wdf"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/3taCePOvlBh8K72OS2I0B9"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Panta Edo",
         "url": "https://open.spotify.com/album/5FnWQS0QecEeWfLZTelaI6"
@@ -937,7 +953,7 @@
       "url": "https://open.spotify.com/track/7mLlh7q7iKTPoYTeog0OUc"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Panta Edo",
         "url": "https://open.spotify.com/album/5FnWQS0QecEeWfLZTelaI6"
@@ -953,7 +969,7 @@
       "url": "https://open.spotify.com/track/5BgJaJcoUx5iZmbYwxl1ew"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "PAR\u00c9A (co-starring Lena Zevgara)",
         "url": "https://open.spotify.com/album/01qQx5SUUIaPII6dedD550"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/1Ualn0R2DXgdx3OxlaGKLC"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Xereis Pollous?",
         "url": "https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Kori Mou",
         "url": "https://open.spotify.com/album/2HfDevgMGzlJ7wG3dROEfQ"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0XiLP3zSCn3lSlds4Zdo6x"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Etsi Eimai",
         "url": "https://open.spotify.com/album/61uDiFwh8cGDhhFoinSfs5"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0Fc4uo72OdhOgIeoASzIT8"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Vrexei",
         "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
-      "added_at": "2026-08-27 22:02:39",
+      "added_at": "2026-09-03 21:01:27",
       "album": {
         "name": "Epiptoseis",
         "url": "https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu"

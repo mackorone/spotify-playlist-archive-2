@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Chandler Jewels",
+  "description": "The best new AUS & NZ Rap. Cover: 3%",
   "name": "Local Hype",
   "tracks": [
     {
@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 146210,
       "name": "Cater to You",
       "url": "https://open.spotify.com/track/09268G5sLPyaafvzvUZ7rS"
@@ -5734,7 +5734,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 127411,
       "name": "Coi Leray",
       "url": "https://open.spotify.com/track/63gT4CgElNJRW3OlDwgctz"
@@ -7681,6 +7681,24 @@
     },
     {
       "album": {
+        "name": "Down Under",
+        "url": "https://open.spotify.com/album/5umHYBfJAjay2kclXZaO1e"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131223,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/0pix73eaOwBURno4UHghTW"
+    },
+    {
+      "album": {
         "name": "Downtown Dreamin'",
         "url": "https://open.spotify.com/album/50zvQoDybsFkPrHrClyaVu"
       },
@@ -9040,6 +9058,24 @@
       "duration_ms": 145640,
       "name": "Family Cash Cow",
       "url": "https://open.spotify.com/track/0l692yRfgOEuWfvRawWWqq"
+    },
+    {
+      "album": {
+        "name": "FARK OFF",
+        "url": "https://open.spotify.com/album/7pWmNttatMq8nCWrOkF0MP"
+      },
+      "artists": [
+        {
+          "name": "takytheartist",
+          "url": "https://open.spotify.com/artist/43Wy4rxJRXDA9ybTkBz2Lf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164689,
+      "name": "FARK OFF",
+      "url": "https://open.spotify.com/track/5CECj9Jd8SC9Rr5MScgy14"
     },
     {
       "album": {
@@ -14704,7 +14740,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 118500,
       "name": "Jezebel",
       "url": "https://open.spotify.com/track/2ww5S3KQ6d73WAVbPXgCPC"
@@ -20379,6 +20415,28 @@
     },
     {
       "album": {
+        "name": "Not Many - Ganay Biralunbar",
+        "url": "https://open.spotify.com/album/6Bb0LzeqGThvu8hrEYcyVh"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        },
+        {
+          "name": "Fred Leone",
+          "url": "https://open.spotify.com/artist/6VJsigqfG1cGogt4Q8LQ2s"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Not Many - Ganay Biralunbar",
+      "url": "https://open.spotify.com/track/6ytpqi2XfBbtNguP5QsmN5"
+    },
+    {
+      "album": {
         "name": "Nothing To Something",
         "url": "https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2"
       },
@@ -20889,6 +20947,28 @@
     },
     {
       "album": {
+        "name": "ON MY MIND",
+        "url": "https://open.spotify.com/album/6iemH4ryFgQWRaSEVN3zKV"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/49En5kPk69YS7lSK1he7D8"
+    },
+    {
+      "album": {
         "name": "On Sight",
         "url": "https://open.spotify.com/album/1Qy6lDCDO6HRSDLJdsldvM"
       },
@@ -21224,7 +21304,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 205397,
       "name": "Other",
       "url": "https://open.spotify.com/track/6jSwoPoyTthzDYNmr6XS5Z"

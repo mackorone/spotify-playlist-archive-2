@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTPW6ovEXP8.md) - [plain]
 
 > enjoy the Park Hyo Shin Concert \[LIVE A&E 2026\] LIVE SET including the voices of them on stage! \(박효신의 무대 멘트와 목소리가 포함된 \[LIVE A&E 2026\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,680 likes - 26 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,684 likes - 26 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTPW6ovEXP8.md) - [plain]
 | 25 | [MENT6](https://open.spotify.com/track/4O3aXdVZ7PCCUJNm0RrYVC) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [PARK HYO SHIN Concert \[LIVE A & E 2026\]](https://open.spotify.com/album/435AnVeKuxud0TGN4AINa9) | 1:18 |
 | 26 | [Stellar Night](https://open.spotify.com/track/6arMSjTWVwACWtptXuWms8) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [A & E](https://open.spotify.com/album/7droYw9f5Gby9pgjzGH8yh) | 4:03 |
 
-Snapshot ID: `AAAAAM5ZSg8xtPTyJFuPVV8Q4DdGytdC`
+Snapshot ID: `AAAAAEdxhmWHI7qPvEm8GeTTzkIMVMtG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,468 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,473 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 50 | [100 raccourcis](https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn) | [Kanda Gang](https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5), [ANAÏS.](https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej), [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [100 raccourcis](https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q) | 3:34 |
 
-Snapshot ID: `AAAAABWrYXxsghUf0Wi1AjaaWYpirF61`
+Snapshot ID: `AAAAAEd57ekHzSjPYLZQ7vqcxKcIKvVw`

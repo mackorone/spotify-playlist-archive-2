@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 14258,
+  "num_followers": 14262,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAABXjuX0b+I0NWakoRDz57tJ",
+  "snapshot_id": "apdnAAAAAAAkT2kp0baLEXECfEgVRj2U",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Nights",
-        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "If You Don't Know Me by Now",
-      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 212240,
       "name": "Let It Be You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Nights",
+        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "If You Don't Know Me by Now",
+      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
-        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Album",
         "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 361093,
       "name": "Prayin'",
       "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
-        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 212551,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Don't Know Christ by Now",
         "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 275070,
       "name": "If You Don't Know Christ by Now",
       "url": "https://open.spotify.com/track/6gXtxEee0iLH3Dug0WV81T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
+        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 212551,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
     },
     {
       "added_at": null,

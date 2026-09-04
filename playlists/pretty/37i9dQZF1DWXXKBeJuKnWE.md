@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Comeback Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,034 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,997 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 99 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 100 | [Slip the Noose](https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Hum of Hurt](https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43) | 1:43 |
 
-Snapshot ID: `AAAAAMi8EIQy9e5ja1rtbgJV6crxHQiL`
+Snapshot ID: `AAAAAMzIkvpV182+vKeDKXMaMfWvM7GC`

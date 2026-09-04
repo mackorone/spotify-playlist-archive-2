@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Interpol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,032 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,993 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 49 | [Running](https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Running](https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf) | 4:12 |
 | 50 | [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 |
 
-Snapshot ID: `AAAAACjsUxm6Nvg1NuDq1MKr8VLcumH7`
+Snapshot ID: `AAAAABAq0nphFl2hjxNwUnfVvPPm+wDs`

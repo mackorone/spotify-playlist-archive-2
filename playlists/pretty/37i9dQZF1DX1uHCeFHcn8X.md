@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,545 likes - 250 songs - 15 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,768 likes - 250 songs - 15 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Irony](https://open.spotify.com/track/0UEszsTJ5SezkEQPeAM9S9) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Irony](https://open.spotify.com/album/5KfnL4B6k6Uw6c5gTLATtZ) | 3:28 |
 | 250 | [Not Easy](https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Not Easy](https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O) | 4:05 |
 
-Snapshot ID: `AAAAAEEun+Ax6aJexmcyAznZDrr7GKFI`
+Snapshot ID: `AAAAAHRlpT2k07AjXUiPMLOGAy1KG8wB`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: untitled (halo)",
+  "description": "Beyond titles, beyond genre. Cover: Liana Flores",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 257589,
       "name": "Dead Dog Dream",
       "url": "https://open.spotify.com/track/58jjOO3yM3LqZBugA7G0vw"
@@ -6468,7 +6468,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 186779,
       "name": "GO",
       "url": "https://open.spotify.com/track/3gcB7Y9TZh1kXcsih6PV8G"
@@ -6678,7 +6678,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 208621,
       "name": "Green Velvet",
       "url": "https://open.spotify.com/track/5s2GQSKlbKOzUvqyRfwjiE"
@@ -7228,7 +7228,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 174615,
       "name": "HEAVENS #1",
       "url": "https://open.spotify.com/track/0nl8sLJ9FywNZu1hJSIYtT"
@@ -10878,6 +10878,24 @@
       "duration_ms": 176522,
       "name": "Mejor Contigo (Homesick)",
       "url": "https://open.spotify.com/track/2lPBZtmMVEWbHPBWoCAEKl"
+    },
+    {
+      "album": {
+        "name": "MEZZANINE",
+        "url": "https://open.spotify.com/album/0H21c88LLaA0ATOBSLaEB6"
+      },
+      "artists": [
+        {
+          "name": "otta",
+          "url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509000,
+      "name": "MEZZANINE",
+      "url": "https://open.spotify.com/track/2cXZlQo84TruuheHlho8A0"
     },
     {
       "album": {
@@ -14898,7 +14916,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 197176,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
@@ -15021,6 +15039,24 @@
     },
     {
       "album": {
+        "name": "Slowly/She",
+        "url": "https://open.spotify.com/album/1JZdivoulqJRh70AXeaMkK"
+      },
+      "artists": [
+        {
+          "name": "RIO KOSTA",
+          "url": "https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216140,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/5vLWADBMrVdl5pbUwF12rX"
+    },
+    {
+      "album": {
         "name": "Smell The Daisies",
         "url": "https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk"
       },
@@ -15094,6 +15130,24 @@
       "duration_ms": 156340,
       "name": "So it goes",
       "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "album": {
+        "name": "And so it goes...",
+        "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180913,
+      "name": "So mysterious",
+      "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
     },
     {
       "album": {
@@ -15188,6 +15242,24 @@
       "duration_ms": 219841,
       "name": "Somewhere Only We Go",
       "url": "https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv"
+    },
+    {
+      "album": {
+        "name": "back to the drawing board",
+        "url": "https://open.spotify.com/album/59uQFNY6SMftymuY309tdj"
+      },
+      "artists": [
+        {
+          "name": "venbee",
+          "url": "https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242477,
+      "name": "song 2",
+      "url": "https://open.spotify.com/track/45Iz1J6e1oHWJLAJ25TZt5"
     },
     {
       "album": {
@@ -16862,6 +16934,28 @@
       "duration_ms": 297787,
       "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
       "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "album": {
+        "name": "The Only One (feat. Christine and the Queens)",
+        "url": "https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251515,
+      "name": "The Only One (feat. Christine and the Queens)",
+      "url": "https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD"
     },
     {
       "album": {

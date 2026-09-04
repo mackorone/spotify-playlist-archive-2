@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,593 likes - 100 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,599 likes - 100 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 99 | [La puissance de l’amour](https://open.spotify.com/track/1z6VlP3bxWuplJtj03QhYO) | [Isaac Bukasa](https://open.spotify.com/artist/4hDlHt08OIAgnRiQlDUTlX), [Emmanim Gospel](https://open.spotify.com/artist/6P84FqPeUbV8zaG7O0B6wI) | [La puissance de l’amour](https://open.spotify.com/album/3fKsYozk8Gijd3qTPGslcn) | 7:48 |
 | 100 | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Biggest Name \(Man of Galilee\)](https://open.spotify.com/album/1LZZycH5z1vzlyuyYYlFq4) | 3:31 |
 
-Snapshot ID: `AAAAAFz+AB6ivAG5NbBUcWcInfANI1fe`
+Snapshot ID: `AAAAANZ0oZvDzweYH8h1SglCW5l/GFzJ`

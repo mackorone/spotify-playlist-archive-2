@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 125171,
       "name": "AREHNAL",
       "url": "https://open.spotify.com/track/3rzGEMkx06lgRlz1Jb3ANU"
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Dideldum",
+        "url": "https://open.spotify.com/album/0fojFr89kar4mJGuJsl7zu"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179823,
+      "name": "Dideldum",
+      "url": "https://open.spotify.com/track/0tuq5SYY46Ra31sHgAHnKp"
+    },
+    {
+      "album": {
         "name": "Die l\u00e4ngste Nacht der Welt",
         "url": "https://open.spotify.com/album/0Lh5k7AbPLHJdLV4cLbZ7G"
       },
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179266,
       "name": "Hammer & S\u00e4ge (Baustellensong)",
       "url": "https://open.spotify.com/track/2IAooEX3flEp1iki244W1y"
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162857,
       "name": "K\u00e4pt'n Morgen - 90s Remix",
       "url": "https://open.spotify.com/track/25hyWCjX6xya3SoXF5BSzl"
@@ -4408,6 +4426,24 @@
       "duration_ms": 141000,
       "name": "RESPEKTLOS",
       "url": "https://open.spotify.com/track/2vFtIRRnVeelWIv6SIzTc6"
+    },
+    {
+      "album": {
+        "name": "Roger Federer",
+        "url": "https://open.spotify.com/album/7IISafvSpBpXjPCK4Zy3ET"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143615,
+      "name": "Roger Federer",
+      "url": "https://open.spotify.com/track/6P2c3YRPeB1Hf8Rw4USLmL"
     },
     {
       "album": {

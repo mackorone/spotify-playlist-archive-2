@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,132 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,056 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Se é pra Gente Ficar \(feat\. Wesley Safadão\)](https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy) | 2:56 |
 | 100 | [Short Jeans \- Ao Vivo](https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Short Jeans \(Ao Vivo\)](https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x) | 3:00 |
 
-Snapshot ID: `AAAAACbxvLOuAEgxFWeJFp1MhnjJSapr`
+Snapshot ID: `AAAAACls3tbbl/P8v9gRng2SS8VTqOBG`

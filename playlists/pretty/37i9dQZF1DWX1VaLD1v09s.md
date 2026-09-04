@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,369 likes - 150 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,366 likes - 150 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |
 | 150 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |
 
-Snapshot ID: `AAAAANdzT5rwRznhQe0wDSQFCQ3Fh6eQ`
+Snapshot ID: `AAAAADnl32iCLGRYBC5AoYlf88Me+Bgv`

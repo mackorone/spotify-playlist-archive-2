@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Tiffi M",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Fine",
   "name": "Cph+",
   "tracks": [
     {
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Girl Who Needs A Brain",
+        "url": "https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP"
+      },
+      "artists": [
+        {
+          "name": "Toxe",
+          "url": "https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122823,
+      "name": "A Girl Who Needs A Brain",
+      "url": "https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT"
+    },
+    {
+      "album": {
         "name": "first notes",
         "url": "https://open.spotify.com/album/1NEnCOAIgijOWsaiEojZXe"
       },
@@ -194,6 +212,24 @@
       "duration_ms": 160067,
       "name": "Air",
       "url": "https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC"
+    },
+    {
+      "album": {
+        "name": "All I Mean",
+        "url": "https://open.spotify.com/album/4TPy0ZQX3J1wdxyt9GamlC"
+      },
+      "artists": [
+        {
+          "name": "Bashir Billow",
+          "url": "https://open.spotify.com/artist/5WkaOt8ljLuutoznP3PyNA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56638,
+      "name": "All I Mean",
+      "url": "https://open.spotify.com/track/4v4jbSJJa2oYBn046CjPZs"
     },
     {
       "album": {
@@ -1696,6 +1732,24 @@
       "duration_ms": 216931,
       "name": "Even God Gets Stuck In Devotion",
       "url": "https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp"
+    },
+    {
+      "album": {
+        "name": "Everything in the shade",
+        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216750,
+      "name": "Everything in the shade",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
     },
     {
       "album": {

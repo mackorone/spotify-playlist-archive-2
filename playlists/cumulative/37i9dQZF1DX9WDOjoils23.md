@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-121 songs - 14 hr 4 min
+122 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Das Kee Milia Ea](https://open.spotify.com/track/56ByUNq7ZRqyyMEu52UFVX) | [Abid Ali Abid](https://open.spotify.com/artist/2qAa4xDmS5pcvAhtGRfPYI) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 12:03 | 2023-02-15 | 2025-05-29 |
 | [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 | 2026-08-07 |  |
 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Singh](https://open.spotify.com/artist/2lL1IVLbaAKFsHsbtAs6KR) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 | 2026-03-06 |  |
+| [Dil Udeya \(From "Singh Vs Kaur 2"\)](https://open.spotify.com/track/6fCkK7jPK7le0ijFcAGWW6) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Dil Udeya \(From "Singh Vs Kaur 2"\)](https://open.spotify.com/album/38z25IqJscmjWtolWYlhlG) | 3:29 | 2026-09-03 |  |
 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 | 2025-05-13 |  |
 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 | 2025-04-08 |  |
 | [Eh Mera Geet Kise Na Gaana](https://open.spotify.com/track/1AaLeN0tyvv268Y2YG0HOS) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Great Poet \- Shiv Kumar Batalvi](https://open.spotify.com/album/3QpOx3PDrq1G0MuUodxjQy) | 2:43 | 2025-05-13 | 2025-08-29 |
@@ -58,7 +59,7 @@
 | [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 | 2024-04-19 |
 | [Jogi](https://open.spotify.com/track/0HaC7Uip2vMyHwLO5bQbB3) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Manpreet Singh](https://open.spotify.com/artist/0vqqFNT40Yi47BEE0XBkfg), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Jogi](https://open.spotify.com/album/0IG13ld7Mb7nAcSemcgjfb) | 4:45 | 2026-04-17 |  |
 | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/track/4y0HMpAmZMMZYr9f44FHv6) | [Raman Kapoor](https://open.spotify.com/artist/24G6ZqD5Ia9B402pUd0ePh) | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/album/5BmWoNx2ItokOGwEmfP0ta) | 3:10 | 2025-02-21 | 2025-03-01 |
-| [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 | 2026-08-14 |  |
+| [Kaaga](https://open.spotify.com/track/3ugd8mBNtw0naDSaLrBRMA) | [Gulshan Meer](https://open.spotify.com/artist/1EZcVTGSDVhB72lBtf6SjP), [Sultana Nooran](https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG), [Sahil Meer](https://open.spotify.com/artist/5HZhpZWXJlL7ayDmFh5ueT), [Daman](https://open.spotify.com/artist/3duxzUqOrJ1iNR0mjlzAGm) | [Kaaga](https://open.spotify.com/album/2H4HwRqgmm9J5sA1WYAGhI) | 3:45 | 2026-08-14 | 2026-09-04 |
 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 | 2025-02-01 |  |
 | [Kalli Beh Ke Sochni](https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64) | [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5) | [Greatest Hits Of Manmohan Waris](https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9) | 6:57 | 2023-02-15 |  |
 | [Kavita](https://open.spotify.com/track/0YXrj0gYt6QKj9Kwni5QMt) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Shikhar](https://open.spotify.com/album/6ylmH5wcCn80rTOLsfYwkd) | 3:49 | 2025-08-28 |  |

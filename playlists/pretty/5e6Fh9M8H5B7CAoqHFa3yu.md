@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,586 songs - 6 day 8 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,588 songs - 6 day 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2594,5 +2594,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2584 | [Soldier](https://open.spotify.com/track/3XNqldYiG9yjybANACOLea) | [Brandon Wolf Hill Beats](https://open.spotify.com/artist/5jmdyJX8m6wyUCs8e6wDaJ) | [Fresh Beats](https://open.spotify.com/album/2AmVDeeaizA342YJPuq08F) | 2:53 |
 | 2585 | [Spiralling](https://open.spotify.com/track/3L7c36jPHgRGB3kzHyqwSz) | [Woodshed Collective](https://open.spotify.com/artist/66ERbdG1LOgYehexF3eER3) | [Spiralling](https://open.spotify.com/album/2bAhCw8O8n33HUdmzWS9Te) | 4:00 |
 | 2586 | [leaf](https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [My aloe](https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57) | 2:49 |
+| 2587 | [No more Gunmen Dub \(cut 1\)](https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 3:50 |
+| 2588 | [1000 Dollars](https://open.spotify.com/track/6XDfS3RcnpaZ3pmeo577bZ) | [MAGIC MONDAY](https://open.spotify.com/artist/03JUoALu8i6GFdXJR0BVHT) | [1000 Dollars](https://open.spotify.com/album/5bGROZndv3uhgFGukOylre) | 4:21 |
 
-Snapshot ID: `AAALDJPqyqXIeXLsGQEA0/AECepFOJyy`
+Snapshot ID: `AAALDiFm5UH2DalLn91aRLBNq/sYx1j8`

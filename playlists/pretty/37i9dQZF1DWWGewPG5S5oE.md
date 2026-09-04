@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石若 駿
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,751 likes - 159 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,758 likes - 159 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 127 | [Zig\-Zag](https://open.spotify.com/track/2TtrLyX6HKHCZPX0mebwEw) | [Hiroaki Nakahara](https://open.spotify.com/artist/0SEnJE6D4QGANQU6IYGEq5) | [Zig\-Zag](https://open.spotify.com/album/2uB686S8OuIgQ3QZHbJxyy) | 4:26 |
 | 128 | [One Finger Snap](https://open.spotify.com/track/4AKkklT755XpgM5uPLY5PZ) | [Ray Chatani Orchestra](https://open.spotify.com/artist/3ZwtL8XJDhYrac8LLuwhI2) | [Ray Chatani Orchestra](https://open.spotify.com/album/4FydYamzGtzRNIAwVcJj4p) | 5:37 |
 | 129 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 |
-| 130 | [Metamorphose](https://open.spotify.com/track/5ieaFuii1CPqtb3MnOEh5l) | [杉山寛](https://open.spotify.com/artist/2zEVxOLSb6U1OA1uKHQIZw) | [Metamorphose](https://open.spotify.com/album/0xwUq5iVUJjcs5A8aN7KXM) | 6:42 |
-| 131 | [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 |
+| 130 | [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 |
+| 131 | [Metamorphose](https://open.spotify.com/track/5ieaFuii1CPqtb3MnOEh5l) | [杉山寛](https://open.spotify.com/artist/2zEVxOLSb6U1OA1uKHQIZw) | [Metamorphose](https://open.spotify.com/album/0xwUq5iVUJjcs5A8aN7KXM) | 6:42 |
 | 132 | [Downswing](https://open.spotify.com/track/7abenmV4h0adAPm9kKePyX) | [Terumasa Hino](https://open.spotify.com/artist/2BiwOj6ssDQ2KfqaowIpHH) | [Alone, Alone And Alone](https://open.spotify.com/album/7f5NHgI7Sbfs1eRxeXKm8R) | 3:21 |
 | 133 | [The night and the lie](https://open.spotify.com/track/2j4HBCnMc0QuzEemvQpQ0P) | [HANCE](https://open.spotify.com/artist/44XeFBVDC0qPHCnN1y0cmU) | [Jazz Piano Selections](https://open.spotify.com/album/2SjTsWpAGzPs45fzPtgzJH) | 5:03 |
 | 134 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 137 | [Hello,,Dawn,Unknown](https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Synapse Confusion](https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p) | 5:39 |
 | 138 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 |
 | 139 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
-| 140 | [Alice in Wonderland](https://open.spotify.com/track/4DC3UVUPIfrnYMa3Y6Nq8i) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [REQUESTS](https://open.spotify.com/album/5yygVC8GBO62YTt9HF6fpx) | 7:46 |
+| 140 | [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 |
 | 141 | [Stardust](https://open.spotify.com/track/6UheBTCkGcGGUvkb2r2H2V) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [My Precious](https://open.spotify.com/album/6O61Adtr2NPA0IWCZJcZDS) | 5:59 |
 | 142 | [dawn highway](https://open.spotify.com/track/54s18WiYM4XlfFDfUOvIa3) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [dawn highway](https://open.spotify.com/album/5anIBZvF2hBoS8rnRgAYsL) | 3:29 |
 | 143 | [Isolated](https://open.spotify.com/track/2Cd00qspnUW0t7DK19AG66) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3), [布施音人](https://open.spotify.com/artist/6LHpTLMRsV5W1UKXtscSOw) | [Isolated](https://open.spotify.com/album/1ww22Nw6kl7TtMIUpr5HX9) | 5:28 |
@@ -166,6 +166,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 156 | [Love Theme From Spartacus](https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Sunrise](https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc) | 4:22 |
 | 157 | [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 |
 | 158 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
-| 159 | [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 |
+| 159 | [Alice in Wonderland](https://open.spotify.com/track/4DC3UVUPIfrnYMa3Y6Nq8i) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3), [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [REQUESTS](https://open.spotify.com/album/5yygVC8GBO62YTt9HF6fpx) | 7:46 |
 
-Snapshot ID: `AAAAAPoMPvpIQE3+J74K8mM3hJ9Y9FF3`
+Snapshot ID: `AAAAAM8Rzl8zNu2XHIx4ZgEWZvTyo14F`

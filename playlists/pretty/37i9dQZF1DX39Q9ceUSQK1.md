@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,899 likes - 102 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,907 likes - 102 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 101 | [NEED](https://open.spotify.com/track/7sav8HC9epsE3GSh7Fwrlj) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [NEED](https://open.spotify.com/album/3bBBVJU9Vi5fXJczzWeZCl) | 4:02 |
 | 102 | [That's Me](https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn) | 2:11 |
 
-Snapshot ID: `AAAAANhfrOwVl10+3MDT35M9jch8mlsI`
+Snapshot ID: `AAAAAAxVWFfH2JqLP0E0Wd4U77z0pk3H`

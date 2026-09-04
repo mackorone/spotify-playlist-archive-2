@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: MILLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,429 likes - 26 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,411 likes - 26 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 25 | [Mirror Mirror](https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Mirror Mirror](https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS) | 3:52 |
 | 26 | [SAD AEROBIC](https://open.spotify.com/track/1fNBoi6eboos35LDL1z9XE) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [SAD AEROBIC](https://open.spotify.com/album/1SSUGglnMaxM3Mb6x3rlP8) | 2:48 |
 
-Snapshot ID: `AAAAANyZZDAKg+GpeQu9FYqyjA8bANn4`
+Snapshot ID: `AAAAACIh4NzpWyF5/4G8FXuVr0hLLC/u`

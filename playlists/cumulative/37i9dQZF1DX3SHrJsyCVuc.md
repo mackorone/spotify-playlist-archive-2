@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: Fontaines D.C.
+> A new world of alternative noise\. Cover: GRUB
 
-250 songs - 13 hr 54 min
+254 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,9 +38,10 @@
 | [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-22 | 2026-04-24 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-10-23 | 2026-04-10 |
 | [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-10-23 | 2025-11-07 |
+| [Call It What You Want](https://open.spotify.com/track/46museEHuxvmYT16wjAEkD) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Call It What You Want](https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9) | 2:50 | 2026-09-03 |  |
 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 | 2025-10-23 | 2026-05-15 |
 | [Can't Feel It](https://open.spotify.com/track/0FeXCUdFEYzYRxsl0ntsgH) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Can't Feel It](https://open.spotify.com/album/0NF5PG5PmiomlWNUBt0mTa) | 3:37 | 2025-10-23 | 2026-04-10 |
-| [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 | 2026-07-02 |  |
+| [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 | 2026-07-02 | 2026-09-04 |
 | [Cha Cha Slide](https://open.spotify.com/track/2oOD1Ad2TZocSGeySYrXgn) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Cha Cha Slide](https://open.spotify.com/album/1f0RT7It3HxnOSgaYR0Sue) | 2:50 | 2026-07-09 |  |
 | [Claires Whip](https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t) | [Dragnet](https://open.spotify.com/artist/4N5f5r6VSt8LaWeAKlK91o) | [Dragnet Reigns!](https://open.spotify.com/album/62I8kD8qVSthButF7DN4pR) | 1:52 | 2025-10-23 | 2026-02-13 |
 | [Cola](https://open.spotify.com/track/4BvMEPDYv85Z9ofDZjL2GF) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [\\ \(^\_^\) /](https://open.spotify.com/album/6zKGIFG5YMxgaVixABT5A5) | 3:19 | 2026-06-18 | 2026-07-24 |
@@ -77,6 +78,7 @@
 | [FIG TREE](https://open.spotify.com/track/5Gc96BrAvQwVPHSTNAuM9o) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [FIG TREE](https://open.spotify.com/album/4xgAG3Mzt6qHU1lqo7ZoJN) | 2:52 | 2025-11-13 | 2026-02-06 |
 | [Flowers To A Knife Fight](https://open.spotify.com/track/0zI2Qbpc4dgBKrGFTnLAYJ) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Flowers To A Knife Fight](https://open.spotify.com/album/7nGo6NF2aI9XfD1QiAs149) | 3:30 | 2026-05-29 | 2026-07-24 |
 | [FME](https://open.spotify.com/track/46mmlCxxF6c4mzobMVK94b) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [FME](https://open.spotify.com/album/2EVaRxUjrnJY0eSRdEdeZi) | 2:15 | 2025-10-23 | 2026-04-17 |
+| [Foresight](https://open.spotify.com/track/5sqbrBym3BeDQgO7OGU6JJ) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Foresight](https://open.spotify.com/album/5ToirZ1URa5H2hbUUHGNlZ) | 4:16 | 2026-09-03 |  |
 | [Forgotten Token](https://open.spotify.com/track/0SaFJ21gDyyTrEsHGgJr5d) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Forgotten Token / Un Momento](https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM) | 3:28 | 2025-10-23 | 2025-11-07 |
 | [Friendship Bracelet](https://open.spotify.com/track/60FBfGHqju9muD7rNs6tz3) | [Behind You](https://open.spotify.com/artist/1T6MrJ05LTMSvGL8zMNjku), [SUPEREGO](https://open.spotify.com/artist/6F91LpAhKWgrnHf4uAc1ER) | [Friendship Bracelet](https://open.spotify.com/album/0IhqfuNHOmWgjgj5oIuBSQ) | 3:04 | 2025-10-23 | 2025-11-07 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-10-23 | 2025-11-14 |
@@ -84,7 +86,7 @@
 | [Get Down](https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Get Down](https://open.spotify.com/album/7Jjy5cMMezoI3o6vEKzrTe) | 3:27 | 2026-07-30 |  |
 | [Get Up and Dance](https://open.spotify.com/track/4hGBY8lwQbg6UojWNmeJC1) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Get Up and Dance](https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn) | 4:21 | 2026-06-25 |  |
 | [Giraffe](https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Giraffe](https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp) | 4:28 | 2026-05-29 | 2026-08-21 |
-| [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 | 2026-03-26 |  |
+| [Glassman](https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Swan Songs](https://open.spotify.com/album/2GtYQMZi2e2BLHn8gAYBrc) | 4:28 | 2026-03-26 | 2026-09-04 |
 | [gloss](https://open.spotify.com/track/4954IoAJu2QJAYZBDWTn6F) | [horse](https://open.spotify.com/artist/6V9Tfh0YmcoTEBKd35s9ql) | [gloss](https://open.spotify.com/album/5cB6ytAOOS0PSbkWewmteI) | 2:58 | 2026-06-04 |  |
 | [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-15 | 2026-07-31 |
 | [Gold](https://open.spotify.com/track/4ab3Sjx3e92nsAGrL0BYL7) | [The world is against you](https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz) | [gold / fawn](https://open.spotify.com/album/2TOEnmEgLeiozFQcJKats7) | 4:27 | 2026-02-05 | 2026-07-24 |
@@ -160,6 +162,7 @@
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 | 2025-12-19 |
 | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/track/2pM5288FJrc08RobtMlEOy) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [ONLY FREE WHEN SLEEPING](https://open.spotify.com/album/6n5FhsyPFibZFYOMI5VW8x) | 2:59 | 2026-04-16 | 2026-06-12 |
 | [Out in the Cold](https://open.spotify.com/track/2C6F59QTIWhaSseXYh98HT) | [Bennetts Grove](https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA) | [Out in the Cold](https://open.spotify.com/album/0yw2HPjvofIC090IOFx28b) | 4:36 | 2026-04-09 | 2026-07-17 |
+| [Outside](https://open.spotify.com/track/2Jlb8RDEDuObHS224aQOIo) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Outside](https://open.spotify.com/album/3jjnX7SGyab9IkMFonKuDk) | 2:59 | 2026-09-03 |  |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 | 2026-03-27 |
 | [Perla](https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Perla](https://open.spotify.com/album/7nLDUciyhxmS4Mk7QVcSCj) | 3:04 | 2026-08-13 |  |
 | [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 | 2026-07-17 |
@@ -210,9 +213,10 @@
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 | 2026-05-15 |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 | 2026-03-20 |
 | [Sounds We Cannot Hear](https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Sounds We Cannot Hear](https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt) | 5:26 | 2026-07-23 |  |
-| [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 | 2026-05-21 |  |
+| [Special Unit](https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Special Unit](https://open.spotify.com/album/3gYLrXlIRzJb3xnxqCdBto) | 2:39 | 2026-05-21 | 2026-09-04 |
 | [spill](https://open.spotify.com/track/6hnS1s3LCpOhIIeutpoGGp) | [shane](https://open.spotify.com/artist/328tDiwMTmuvnBGudZtb4o), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [spill](https://open.spotify.com/album/5tJVmhPFxlPvt6XBN9lCuW) | 3:56 | 2026-05-08 | 2026-06-05 |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 | 2026-07-31 |
+| [Stability Please](https://open.spotify.com/track/75PpoIBiq0zZ8vCXmTI3MJ) | [GRUB](https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v) | [Stability Please](https://open.spotify.com/album/6BwxKmB2H9neTDgdP0wKeH) | 3:35 | 2026-09-03 |  |
 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-02-19 | 2026-05-22 |
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-23 | 2026-08-07 |
 | [Stay Right](https://open.spotify.com/track/4ijtVwvHowS1kJ3v8jQwrR) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Stay Right](https://open.spotify.com/album/42vDjhnZcnDihTeXfAyj2b) | 3:44 | 2025-12-04 | 2026-06-12 |
@@ -242,7 +246,7 @@
 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-12 | 2026-05-30 |
 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 | 2026-07-16 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
-| [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-05 |  |
+| [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-05 | 2026-09-04 |
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-11-27 | 2026-04-10 |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 | 2025-11-21 |
 | [Unravel](https://open.spotify.com/track/3ez0xKG3l1OrHFZ6wy64OB) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Unravel](https://open.spotify.com/album/0tibtVhSBn7hILu0brCz8e) | 3:46 | 2025-11-20 | 2026-05-22 |

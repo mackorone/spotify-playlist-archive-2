@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Jesus Paez, Jesús Chaidez, Los De La Nueva Era, Los Chavalos de la Perla
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,428,928 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,428,772 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [ENCERRONES](https://open.spotify.com/track/5GlqjDLsp35lSbyn78WfFS) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ENCERRONES](https://open.spotify.com/album/2KWy5cA0q2x2xYI4FSlybO) | 2:23 |
 | 75 | [El Cholo](https://open.spotify.com/track/4WVB9AmaahfQvqH3ofY6OU) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 2:11 |
 
-Snapshot ID: `AAAAAMf/MdKNpDOtV0ZMmbFiRSgfYlDL`
+Snapshot ID: `AAAAANwKDnZBkYXovCmEJBw5JyvGxqL8`

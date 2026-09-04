@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Course of the River II",
+        "url": "https://open.spotify.com/album/2tFdBog1x4Kla6Nvgj3NvX"
+      },
+      "artists": [
+        {
+          "name": "Paul Vens & Friends",
+          "url": "https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260798,
+      "name": "Course of the River II",
+      "url": "https://open.spotify.com/track/1Ym7uKRF82D9igPwtV3ciA"
+    },
+    {
+      "album": {
         "name": "Coyote Howl",
         "url": "https://open.spotify.com/album/5opN4qPpTo05LTfAFn7ViZ"
       },
@@ -2188,6 +2206,24 @@
       "duration_ms": 131343,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/40Jg0pluUomkkLyOf15ASw"
+    },
+    {
+      "album": {
+        "name": "SUNWAVES",
+        "url": "https://open.spotify.com/album/0hCRjKMKlt7hx73Z9jmqJ1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Demeli",
+          "url": "https://open.spotify.com/artist/62iOQq0JgS45GsWjuUtVZU"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129844,
+      "name": "SUNWAVES",
+      "url": "https://open.spotify.com/track/2RpBR5iXf8mDkVXTTAf4rC"
     },
     {
       "album": {

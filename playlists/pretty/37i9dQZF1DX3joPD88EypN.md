@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,697 likes - 100 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,717 likes - 100 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [Flying Thing \- Remastered](https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Magnetic North Orchestra](https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh) | [Magnetic Works 1993\-2001](https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L) | 4:56 |
 | 100 | [En midsommardröm](https://open.spotify.com/track/1gRiWSw04dIPRQM2H4m3Ch) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC) | [En midsommardröm](https://open.spotify.com/album/7wI7kUlMH7ndq1RS9HTBI9) | 4:49 |
 
-Snapshot ID: `AAAAABjogc2Yr7CdBL6c3helUwyvk21+`
+Snapshot ID: `AAAAAOGLCF27vRejFhcG46Zuuezgw6p6`

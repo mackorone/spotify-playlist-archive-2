@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: La Mano 1.9, PLK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,553 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,571 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 74 | [CHÈVRE GOAT NTABA \- GRM x yard](https://open.spotify.com/track/16MJYG3Bcljvh1Qm8prgyq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [CHÈVRE GOAT NTABA \(GRM x yard\)](https://open.spotify.com/album/5RrVVBQd9Jle9ym3nw9yb3) | 2:54 |
 | 75 | [Soleil levant](https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:24 |
 
-Snapshot ID: `AAAAADgZGHqyiOBHu/y7Ni5ML6U/RPfC`
+Snapshot ID: `AAAAAEoxNDspgaoZnXzgpVdNif49h9Wj`

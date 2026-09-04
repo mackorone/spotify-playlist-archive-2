@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,527 likes - 225 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,501 likes - 225 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 224 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
 | 225 | [Synchrony](https://open.spotify.com/track/2JLs8GX220nVBKyTAT9sIJ) | [Chasing Gravity](https://open.spotify.com/artist/3fwKy25FHHzP3Rl1s0yRlL) | [Synchrony](https://open.spotify.com/album/074tuaUTYyxa8AgrUNg560) | 2:50 |
 
-Snapshot ID: `AAAAAPdjmzsyA/yBCR0XgFvKm+PN6uH5`
+Snapshot ID: `AAAAAHIAOHlAmHG47yUB3BvmvdklX19B`

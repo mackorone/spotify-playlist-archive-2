@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Bouvier Normal
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,815 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,832 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 79 | [When the sun comes down](https://open.spotify.com/track/43YRk6mjE8VTSG20DOdOB4) | [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [When the sun comes down](https://open.spotify.com/album/26tJvz93t948MJTjxrh7HZ) | 2:40 |
 | 80 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 |
 
-Snapshot ID: `AAAAAOkx9o0wsmhvbyQ+aTNG56hCRwfk`
+Snapshot ID: `AAAAAB4v7g/xXzBq6m88lIgx8Xo1oJ2f`

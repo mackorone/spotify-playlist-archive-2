@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,093 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,110 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Echoes from the Margins](https://open.spotify.com/track/7duWqlQB1gOpM5AupXPfWc) | [Rahul Deshpande](https://open.spotify.com/artist/05TsqmnjBF2zgaB11M5tlT), [Samir Bodhi](https://open.spotify.com/artist/2UpPoyTz1pbWWQEvxbYlRk), [Pt\. Ronu Majumdar](https://open.spotify.com/artist/63fTlFkkC12YNGgpfFEKkA), [Pratik Srivastava](https://open.spotify.com/artist/1ioTOJcqbq3nIamjxAa7rA) | [Echoes from the Margins](https://open.spotify.com/album/27iac2Z2C7QTFD1LmfnspP) | 3:48 |
 | 50 | [Mere Suron Mein](https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Ajoy Chakrabarty](https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 6:27 |
 
-Snapshot ID: `AAAAAKy24+8i8HnCNfjrTyjtVNg4tn5U`
+Snapshot ID: `AAAAABEnVIrqZvKhauAMCMHCZVC/mPC3`

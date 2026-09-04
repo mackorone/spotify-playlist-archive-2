@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,140 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,193 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 |
 | 150 | [Pathfinder](https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ) | [Pathfinder](https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy) | 3:44 |
 
-Snapshot ID: `AAAAAIryfpzapO3qCqUw0dak4avmSx8f`
+Snapshot ID: `AAAAAGneSpQ/OCPd7yX0Cs+4zHMBAA0i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,588,312 likes - 125 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,588,279 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [1998](https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5) | 3:38 |
 | 125 | [Welcome 2 Miami](https://open.spotify.com/track/1cKE1icepv5syN00224VYX) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Welcome 2 Miami](https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW) | 3:12 |
 
-Snapshot ID: `AAAAAMb0qjQEO5QnTcMdxfhvRv6U3wXV`
+Snapshot ID: `AAAAAPFcHVzn+9ThiA08oJMTP/wTIFHu`

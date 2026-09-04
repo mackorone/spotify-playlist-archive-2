@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Tiffi M
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,289 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,297 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Baby It's Ok](https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR) | [Julia Sandstorm](https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm) | [Baby It's Ok](https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO) | 4:46 |
 | 50 | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/track/1gbUMAbVnNBpSHPgMoHS0r) | [Claar](https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa) | [ANOTHER HOT DAY IN FRONT OF THE TV](https://open.spotify.com/album/3tW83tYUsjjATEomFjkhLI) | 3:24 |
 
-Snapshot ID: `AAAAAKE3iXXn4hQ0MOQAX13LxNsXuUTj`
+Snapshot ID: `AAAAAN/znr1XkKR2Z8rfY+Hns63jOqYj`

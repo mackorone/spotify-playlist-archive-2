@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,086 likes - 100 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,119 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [So What \- Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963](https://open.spotify.com/track/05DVJdzKMwe9YLIpWfscLP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [So What \(Live at Festival Mondial Du Jazz Antibes/Juan\-Les\-Pins, France \- July 26, 1963\)](https://open.spotify.com/album/3lsoWhkQVSWgFuFREKwpV2) | 9:46 |
 | 100 | [Children's Waltz](https://open.spotify.com/track/6vhp7oVhC3y83H1ItCzNce) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 2:59 |
 
-Snapshot ID: `AAAAAHr+pDkh5DjnqGqHONxyxa4pr8pc`
+Snapshot ID: `AAAAAGb9yaZbE+3Itd3aMbMHlaObaaka`

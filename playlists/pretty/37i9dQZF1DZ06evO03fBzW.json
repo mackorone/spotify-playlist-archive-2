@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122596,
+  "num_followers": 122612,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAAAxX796Yh2BGpntVkTWZ9I4",
+  "snapshot_id": "apdnAAAAAABSi8s3daPSPSyAZyEHgNPU",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+      "duration_ms": 232346,
+      "name": "Big Distraction",
+      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 232346,
-      "name": "Big Distraction",
-      "url": "https://open.spotify.com/track/66GLFCPG55GpYzQKifsU3L"
+      "duration_ms": 206880,
+      "name": "Everything In Time - Los Angeles",
+      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
+      "duration_ms": 269666,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
+      "duration_ms": 228840,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 206880,
-      "name": "Everything In Time - Los Angeles",
-      "url": "https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
       "duration_ms": 192093,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/6ODiIJASdmYZwoyhLhUz7c"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        },
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Monkey Man",
-      "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
     },
     {
       "added_at": null,

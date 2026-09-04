@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 
 > 90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,829 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,167 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 127 | [Remember the Time](https://open.spotify.com/track/5UPFc9BUXcevLcM3ukWMhS) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- Past, Present and Future \- Book I](https://open.spotify.com/album/4orVhH7SdUOBQ3wcEYSjaO) | 3:59 |
 | 128 | [Got 'Til It's Gone](https://open.spotify.com/track/3meO9UqKuHqNyJ8n2IE1z3) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Number Ones](https://open.spotify.com/album/72AKESbPVJH2P2lq7i1owF) | 3:36 |
 
-Snapshot ID: `AAAAAJNVqA4HphHmcU2W4qysTLHlWIN+`
+Snapshot ID: `AAAAADu14TyddkSjgpbvDyuLPOJ1hHom`

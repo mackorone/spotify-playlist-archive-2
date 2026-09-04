@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Raf Sandou)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop. (Cover: MilliMax) \ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -898,7 +898,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158000,
       "name": "APPLE JUICE (Feat. Chan)",
       "url": "https://open.spotify.com/track/6R2l9v1sKQ1A4PTxtIJryL"
@@ -8074,7 +8074,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 278200,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh"
@@ -10144,6 +10144,28 @@
       "duration_ms": 215436,
       "name": "Mr.Crooked (Feat. Kim Seungmin, Han Yo Han)",
       "url": "https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz"
+    },
+    {
+      "album": {
+        "name": "milli vs the world",
+        "url": "https://open.spotify.com/album/7z7DH7dl3hM4ScsnoCkuoG"
+      },
+      "artists": [
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Ms. Mental (with TRADE L)",
+      "url": "https://open.spotify.com/track/4SdpQ4YCmNxbp58QnRSDYs"
     },
     {
       "album": {
@@ -16302,6 +16324,28 @@
       "duration_ms": 226499,
       "name": "U",
       "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/3qBHaiHyAAlfdbgM6bjasU"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/3JpcAj2SxrmZdzjnGVkjhM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,348 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,357 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [Cru](https://open.spotify.com/track/41Oa5fohSoOoJeAGXEFROw) | [TOM LECHEF](https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd) | [Cru](https://open.spotify.com/album/5de3SMpwYt1g6z2lam3cCU) | 3:30 |
 | 70 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
 
-Snapshot ID: `AAAAALmXlUMZ0MsXomWGOPTbCz3LbPny`
+Snapshot ID: `AAAAALsgLKdtHuqdxmxmtngyX/uULhRi`

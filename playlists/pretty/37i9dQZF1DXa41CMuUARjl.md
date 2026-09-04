@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Josh Baker, CHRIS STASSY, Anyma, Chloé Caillet, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,374 likes - 130 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,405 likes - 130 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 129 | [A.h.](https://open.spotify.com/track/71vjKkdzjP25WMtSXIBmWh) | [Jonasclean](https://open.spotify.com/artist/3O6O1853emF2Xcrr2ing5N) | [Jonasclean](https://open.spotify.com/album/2Rn1pYP56wegs3AvD5XejX) | 5:20 |
 | 130 | [To the Beat](https://open.spotify.com/track/2maUdXXEW3CMyZ8ieP7OQU) | [Jack Realist](https://open.spotify.com/artist/1RAwNEP5GJJImOKKWqCyfn) | [All Night Long](https://open.spotify.com/album/6bhFg62YpyclWdXXAK5GUF) | 3:45 |
 
-Snapshot ID: `AAAAAKViC1UF+JVY66USzeRIuxBVxNXO`
+Snapshot ID: `AAAAAJraW391fWwaPxzgCwq62XgPoN6k`

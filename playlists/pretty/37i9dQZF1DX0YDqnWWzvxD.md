@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,233 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,400 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [Blue Dunes](https://open.spotify.com/track/3nHM0vcX17s8pBDcGIozHQ) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Blue Dunes](https://open.spotify.com/album/4N4vqojadhjwZCBKFyzMBv) | 2:48 |
 | 100 | [Arms Around Sleep](https://open.spotify.com/track/1ZdOVQclzc6XDJAJQKxu1u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Wake:Sleep](https://open.spotify.com/album/0Cd1W132OG9F3UJw8g0Oha) | 9:51 |
 
-Snapshot ID: `AAAAAI51QjD7LdqtOaBZFwclBWWHMfFV`
+Snapshot ID: `AAAAAIlZRQEYHgOUrkYw7CTSWZg/+apN`

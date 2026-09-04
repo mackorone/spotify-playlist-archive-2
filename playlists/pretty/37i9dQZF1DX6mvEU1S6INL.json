@@ -1,12 +1,12 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142063,
+  "num_followers": 1142073,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGeqEBUdZ95r9BRTzTfWp5B8uLAq",
+  "snapshot_id": "AAAAAIdTH9vsURq6pPJ7Uh1HKkqYt3B/",
   "tracks": [
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 109735,
       "name": "Flowers in Your Hair",
       "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Youuu",
-        "url": "https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Youuu",
-      "url": "https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD"
     }
   ],
   "unique_name": "You & Me",

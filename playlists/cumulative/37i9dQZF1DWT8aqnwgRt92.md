@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,789 songs - 7 day 3 hr 50 min
+2,790 songs - 7 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1592,7 +1592,7 @@
 | [℃](https://open.spotify.com/track/0Ak4R2wHWIv49cCKBeHZi0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [℃](https://open.spotify.com/album/5mZkRx5kPB0Ude08mHnrxR) | 3:34 | 2023-01-05 | 2023-04-02 |
 | [∞](https://open.spotify.com/track/0UiRwRjRNrPS5SgtDHp5fJ) | [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU) | [∞](https://open.spotify.com/album/4WhdhtUiZHMsj7VrC9M8gE) | 3:31 | 2025-04-15 | 2025-07-09 |
 | [∞劣等星](https://open.spotify.com/track/3M69EtAKB8T0MBWyKHvxK4) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [∞劣等星](https://open.spotify.com/album/58nziDn890SKqaJdgs6DVr) | 3:04 | 2026-07-14 |  |
-| [「ねえ、言っちゃうよ。」](https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [アオワイファイ](https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN) | [「ねえ、言っちゃうよ。」](https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N) | 3:56 | 2026-08-18 |  |
+| [「ねえ、言っちゃうよ。」](https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [アオワイファイ](https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN) | [「ねえ、言っちゃうよ。」](https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N) | 3:56 | 2026-08-18 | 2026-09-04 |
 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 | 2024-01-09 | 2024-04-24 |
 | [あいくらふと](https://open.spotify.com/track/1jE7oyUD2V1jlB0Dat0OpB) | [キミのね](https://open.spotify.com/artist/28La3YWZze3hrTAStA8g1k) | [あいくらふと](https://open.spotify.com/album/7KbV2xSeJaDP9BXC1jBTWe) | 3:30 | 2025-01-16 | 2025-04-05 |
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 | 2022-08-05 |
@@ -2102,6 +2102,7 @@
 | [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 | 2023-01-12 |
 | [ホントのじぶん \- from CrosSing](https://open.spotify.com/track/1Kol2WMwC98IYXKdtNW92c) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [ホントのじぶん \- from CrosSing](https://open.spotify.com/album/7KnCDZeUptrgniN9CUGzpu) | 4:03 | 2023-06-27 | 2023-06-29 |
 | [ポケット](https://open.spotify.com/track/0IHBe0KFpJ2QeasyRprvUx) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ポケット](https://open.spotify.com/album/3H30hm2wmhuvrnU1OpS30f) | 4:12 | 2025-01-07 | 2025-02-19 |
+| [ポケモンオールスターズ1025](https://open.spotify.com/track/1XU7MixZOZtHLhGovUBgU3) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ポケモンオールスターズ1025](https://open.spotify.com/album/2Gpfe1STmWqA3MAtKfwDi2) | 21:59 | 2026-09-03 |  |
 | [ポケモンオールスターズ1025 \(213/1025\)](https://open.spotify.com/track/3SCivGWuY95FJmXyGWaGDp) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ポケモンオールスターズ1025 \(213/1025\)](https://open.spotify.com/album/6HLu6vg0ic14J3CV4FI2u1) | 4:17 | 2026-04-23 | 2026-05-27 |
 | [ポップ・スナック・ジャンクなHUNNY](https://open.spotify.com/track/62w9anv9STb3fZo5Xj7TEn) | [あおぎり高校](https://open.spotify.com/artist/3woHXKf2rehAfBMH53utge), [音霊魂子](https://open.spotify.com/artist/1vh0mBeXRlWH0yMeGOPmfv), [石狩あかり](https://open.spotify.com/artist/6Yl7KHL8q54Jm8KWxQyHGb), [山黒音玄](https://open.spotify.com/artist/3Uz5xx9bygUtzGUyArjCeg), [栗駒こまる](https://open.spotify.com/artist/2GfqAVtZny80ezhKzuOfrs), [千代浦蝶美](https://open.spotify.com/artist/5omiCCw1A9eN5K4eLN7xvL), [我部りえる](https://open.spotify.com/artist/73XFEwTfiWs00yQYdgqBrp), [エトラ](https://open.spotify.com/artist/2xDx8tG3toICeoHIyZlEja), [春雨麗女](https://open.spotify.com/artist/5WrEApzIDO60uPdg5hTEFI), [ぷわぷわぽぷら](https://open.spotify.com/artist/0esxJWCjwa7HWJ9OZoe37Q), [萌実](https://open.spotify.com/artist/21uhGhTELgDEcfiJ3mqMys), [月赴ゐぶき](https://open.spotify.com/artist/4X8p2sFgk7ResihKLwDA6M), [うる虎がーる](https://open.spotify.com/artist/1428m7R6AnP35w0WT0s7fE), [八十科むじな](https://open.spotify.com/artist/0jgSTdCz2kp2TK8n7MhLxn), [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr) | [ポップ・スナック・ジャンクなHUNNY](https://open.spotify.com/album/1oBqOxK1L9CTZwcyGkRJ5d) | 3:48 | 2026-04-16 | 2026-07-08 |
 | [ポムポムPow](https://open.spotify.com/track/73SZWy0x4sxvya9mr9KQg5) | [ポムポムプリン](https://open.spotify.com/artist/7LGKtFZf6Mm5AoZWl68uGL) | [ポムポムPow](https://open.spotify.com/album/5hJ2JjEl0AEW41K3EYBxb3) | 4:52 | 2026-03-24 | 2026-04-13 |

@@ -721,6 +721,32 @@
     },
     {
       "album": {
+        "name": "Echo (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135398,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1"
+    },
+    {
+      "album": {
         "name": "Estamos Arriba",
         "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
       },

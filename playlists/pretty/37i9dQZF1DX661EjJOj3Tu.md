@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Gracias por la música, Eddie Palmieri 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,173 likes - 100 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,181 likes - 100 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Cacao](https://open.spotify.com/track/6XfWGC5eipLnGRUY47Rvom) | [Gonzalo Grau](https://open.spotify.com/artist/0kHkqT79Moy6COGdjZdiLI), [Plural](https://open.spotify.com/artist/6kTEyy1WTvIbF0HRfX2uIW) | [La Receta](https://open.spotify.com/album/1qPkHtWlPt8T0CphqNMlz6) | 7:02 |
 | 100 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 |
 
-Snapshot ID: `AAAAAPP/DkdJR5YZ4l9KQmS/AsdkXuGI`
+Snapshot ID: `AAAAAFw6DPe8sWfrLJvVfFCw4eAB4HVX`

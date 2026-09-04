@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"La lune\" de Christophe Ma\u00e9 est le Grand Hit de la semaine.  ",
+  "description": "\"Sur la piste\" d'Eva est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 166240,
       "name": "OK KO (feat. Kyo)",
       "url": "https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV"
@@ -5892,6 +5892,24 @@
       "duration_ms": 152373,
       "name": "Tara",
       "url": "https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh"
+    },
+    {
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
     },
     {
       "album": {

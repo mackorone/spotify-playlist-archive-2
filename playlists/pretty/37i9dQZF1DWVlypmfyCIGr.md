@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: zoo zoo sea
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,505 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,521 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [記憶と、こころ](https://open.spotify.com/track/29fKnocsXZLQKscmIERvwA) | [夜桐蒼](https://open.spotify.com/artist/46VkT9e4RcJFJtuMYshEL4) | [記憶と、こころ](https://open.spotify.com/album/1o6i2xQs8DEkbAUEl2Q90w) | 1:57 |
 | 80 | [八月の最後](https://open.spotify.com/track/6oQRlCBO4utFTYaoagmKVr) | [美根](https://open.spotify.com/artist/5NDtujcf6hBmjyLI89Y11g) | [八月の最後](https://open.spotify.com/album/3KwCuhe9MP0Q66ZogTTWpu) | 3:51 |
 
-Snapshot ID: `AAAAAFOstCxXK+y+rUgTvlheqs0SviZb`
+Snapshot ID: `AAAAACwNDccgtibP3sf8qftD6/WwWNTu`

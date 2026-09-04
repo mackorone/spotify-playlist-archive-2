@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover: Seyi Vibez",
+  "description": "Sweet afro melodies. Cover: Darkua",
   "name": "Ginja",
   "tracks": [
     {
@@ -5160,7 +5160,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 143008,
       "name": "Do Me",
       "url": "https://open.spotify.com/track/22cimUbmSqx1cMzsDTdvP1"
@@ -10454,6 +10454,28 @@
       "duration_ms": 173207,
       "name": "Kiss N Tell",
       "url": "https://open.spotify.com/track/7nSWzUr4SoqZny0BozXegP"
+    },
+    {
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/2O4HKK60xZkvArl0Il5fha"
+      },
+      "artists": [
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        },
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163650,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/58nwReMJ5wix6IvUt78sya"
     },
     {
       "album": {
@@ -18877,6 +18899,32 @@
     },
     {
       "album": {
+        "name": "Time Of Our Lives",
+        "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Time Of Our Lives",
+          "url": "https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Time Of Our Lives",
+      "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
+    },
+    {
+      "album": {
         "name": "Timing",
         "url": "https://open.spotify.com/album/3sMcxdB5Y9QVJ1avHaq9H8"
       },
@@ -20804,7 +20852,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"

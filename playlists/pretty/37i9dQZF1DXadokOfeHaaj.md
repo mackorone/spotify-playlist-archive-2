@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Maribou State
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,879 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,882 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 |
 | 70 | [Jersey \(feat\. Jam City\)](https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Jersey \(feat\. Jam City\)](https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h) | 3:30 |
 
-Snapshot ID: `AAAAAElNEsZMqixEMotU4ko0aptDidCV`
+Snapshot ID: `AAAAAEL5Zx+K734exnRrD6gdDpFcWWCo`

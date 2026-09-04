@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,399 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,396 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 54 | [Everything](https://open.spotify.com/track/18mCHcuA8CTMP3MbBvlQFy) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Everything](https://open.spotify.com/album/2RovjXadu6XK1EGE04hJFT) | 2:27 |
 | 55 | [Lucy \(Acoustic\)](https://open.spotify.com/track/20SeS0DB6vYwf3z0muFz45) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [The Different Lives of Lucy](https://open.spotify.com/album/6o3xGchVNgD8OmrwGByYls) | 3:47 |
 
-Snapshot ID: `AAAAAOm44XrUCo+AQVfkQnBY2JBhUiT6`
+Snapshot ID: `AAAAAJ2OKk2iM1JOFG7YdyqvoSAVJV5O`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Massendefekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,727 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,752 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
 | 100 | [Rómpela](https://open.spotify.com/track/7vECiTc2ctR0rdVefmcE2M) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Rómpela](https://open.spotify.com/album/2jovrBd9NY3lFixD3QllQ6) | 3:19 |
 
-Snapshot ID: `AAAAAFXy1Vo3PBVvQLhk83L4R/C8KGEf`
+Snapshot ID: `AAAAAHIpNsc4wBP/BSMk/xc5AnvhB3Yw`

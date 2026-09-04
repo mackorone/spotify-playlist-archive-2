@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,896 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,897 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 48 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 49 | [LIFE KEEPS GOING](https://open.spotify.com/track/7bUGV0iRkAlZ4qeGix6O9H) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [LIFE KEEPS GOING](https://open.spotify.com/album/25ck4PVSVUW7h54ZHGX34m) | 3:39 |
 
-Snapshot ID: `AAAAAAKyWUNruQSznjyV5mmuN05WsO/T`
+Snapshot ID: `AAAAAOYJxs0SaGif5lsUMYh+4qSQn78v`

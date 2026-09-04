@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Isn't it sweeter?",
+        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199747,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/60i5ZG7D5dlDQk9HqoQARL"
+    },
+    {
+      "album": {
         "name": "Gimmicks",
         "url": "https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV"
       },

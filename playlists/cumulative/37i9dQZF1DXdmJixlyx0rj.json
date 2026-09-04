@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
+  "description": "New & best K-Electronic music is here. (Cover: CIFIKA)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 229565,
       "name": "AGN",
       "url": "https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt"
@@ -2912,6 +2912,24 @@
       "duration_ms": 237200,
       "name": "HERO",
       "url": "https://open.spotify.com/track/5bxJv7l1QE9Qv9rpYvbSlO"
+    },
+    {
+      "album": {
+        "name": "Old Fantasy",
+        "url": "https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "HEX",
+      "url": "https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP"
     },
     {
       "album": {

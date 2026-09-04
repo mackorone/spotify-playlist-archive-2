@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [떠버리 Pt\. 2 \(feat\. Pocyomkin, 1 Kyne, Sean2slow & 더블케이\)](https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Pocyomkin](https://open.spotify.com/artist/6IN0p90dq8Adz9mg4jXn6e), [1 Kyne](https://open.spotify.com/artist/5mbtyCGys1Blku95lkAMVV), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU), [Double K](https://open.spotify.com/artist/6Xv8PJrOONqS2n2eSskF4C) | [Ill Skill](https://open.spotify.com/album/4KklnGUIFOgIvlWeTtahZJ) | 4:13 |
 | 100 | [Guilty](https://open.spotify.com/track/7rUURVpd1ucUhkbnYNlJbw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Band of Dynamic Brothers](https://open.spotify.com/album/1v5PBEn1CygICPOdOuJfSc) | 3:44 |
 
-Snapshot ID: `AAAAAJjjeEQG/zslSTtVI/em8CzChaKp`
+Snapshot ID: `AAAAALjqxEAC2VpLQKy61E34c6mwT2Iz`

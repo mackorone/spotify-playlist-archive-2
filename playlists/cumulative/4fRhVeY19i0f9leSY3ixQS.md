@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,215 songs - 5 day 4 hr 2 min
+2,219 songs - 5 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -959,7 +959,7 @@
 | [Information Overload](https://open.spotify.com/track/3QQ4GcKUatA4PQsKkr17aY) | [Dubinski](https://open.spotify.com/artist/28QbbtfH9j2mOoswDXnDKk) | [Information Overload](https://open.spotify.com/album/6G9l5Vtnwn4ZL8aGzytSE7) | 3:25 | 2026-06-30 | 2026-08-01 |
 | [Inherit](https://open.spotify.com/track/5iZG3WeokJZRVN8TerrB9o) | [Sawtega](https://open.spotify.com/artist/2mg21MnmX8XLnHJYQV8hbU) | [Inherit](https://open.spotify.com/album/6HK0iU1KaC5HJlAfbc1CE8) | 3:20 | 2026-04-07 | 2026-05-07 |
 | [InMyPocket](https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS) | [kiftoh](https://open.spotify.com/artist/4vU0G9EFI6KcI3wlswQZux) | [InMyPocket](https://open.spotify.com/album/5UD14tyo9S72nM4t1hJl0F) | 2:38 | 2026-04-05 | 2026-04-24 |
-| [Innocence](https://open.spotify.com/track/2ZiOisOpJhtjPPaqe1E3jh) | [The Absent](https://open.spotify.com/artist/4ARdlYS2SJ02nwnjzrtWHu) | [Innocence](https://open.spotify.com/album/5ew0ZLrYs8FV8RxdXO1ubq) | 3:38 | 2026-08-03 |  |
+| [Innocence](https://open.spotify.com/track/2ZiOisOpJhtjPPaqe1E3jh) | [The Absent](https://open.spotify.com/artist/4ARdlYS2SJ02nwnjzrtWHu) | [Innocence](https://open.spotify.com/album/5ew0ZLrYs8FV8RxdXO1ubq) | 3:38 | 2026-08-03 | 2026-09-04 |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
 | [INSANE](https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b) | [Mercedes & Marxx](https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8) | [INSANE](https://open.spotify.com/album/6t6r2yWgSCNsZQh3dtIUoJ) | 1:23 | 2026-03-03 | 2026-04-04 |
 | [Insomniac](https://open.spotify.com/track/3kVgfLWdCTwG3YO4qlBQLj) | [El Chavito](https://open.spotify.com/artist/7LYglsbl5OU5h5aEKAEuBc) | [Insomniac](https://open.spotify.com/album/0vLowwIynpNDDvRYtZ90Jn) | 2:57 | 2026-03-13 | 2026-04-14 |
@@ -1291,6 +1291,7 @@
 | [Nightshade](https://open.spotify.com/track/6Y4wVPUTaUwhfL4F0Bt8cz) | [The Operating Room](https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP) | [Era Viscera](https://open.spotify.com/album/2mX5nj6KOCPU7akHs3LaSB) | 2:35 | 2026-04-23 | 2026-05-25 |
 | [NINAA \(No Is Not An Answer\)](https://open.spotify.com/track/5AWdWbFirKSaa9hj0g1vYi) | [ViperSnatch](https://open.spotify.com/artist/5lChenI5TQ9lPyA7hNs6Uo) | [BITCH BITE](https://open.spotify.com/album/3MHga6gKy2cjvESdqnTF1j) | 3:32 | 2026-08-18 |  |
 | [Nine Circles Deep](https://open.spotify.com/track/4dRnNyrpCKgYyoZkKrosAN) | [Lies We Sold](https://open.spotify.com/artist/1ZaXyPktPr1gpp3m3c7330) | [Nine Circles Deep](https://open.spotify.com/album/0N2HiAO3HuSd7b4G4cutQq) | 3:00 | 2025-12-15 | 2026-01-06 |
+| [Nirvana 2](https://open.spotify.com/track/1ag5xhtxqT3Rkcjg4llYhH) | [Worst Case](https://open.spotify.com/artist/2dvBtUQeRQcxkQbI3Os6az) | [Worst Case](https://open.spotify.com/album/7544hbgFHTtoFnRtlHSNzN) | 3:54 | 2026-09-03 |  |
 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 | 2025-11-29 | 2026-05-30 |
 | [No Clip](https://open.spotify.com/track/13P6rlAj1n7P2J1aIyTZkB) | [Perilist](https://open.spotify.com/artist/3OVG2M8SfR4g4NzUUQVEYu) | [No Clip](https://open.spotify.com/album/41UousURaAFq50JCLTTQdr) | 5:39 | 2026-04-27 | 2026-05-22 |
 | [No Escape](https://open.spotify.com/track/0K15Wt8Zr2lBihYjvRX315) | [This World Stands Still](https://open.spotify.com/artist/0ReYfibZzwQRGgNJEXas0t) | [Inconsistency](https://open.spotify.com/album/2TtVrIAvRehVZPLdVHXDrE) | 2:32 | 2026-04-21 | 2026-05-23 |
@@ -1335,7 +1336,7 @@
 | [Nuclear Bounty Hunter](https://open.spotify.com/track/4uhYbC13QEPPPyPGz894Jh) | [Bug Facer](https://open.spotify.com/artist/7hmVjur3eaS0Rj3HdOUAxB) | [Nuclear Bounty Hunter](https://open.spotify.com/album/59dbDdU5bAWSYFa7OIPTei) | 4:37 | 2026-08-25 |  |
 | [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 | 2026-02-03 | 2026-03-07 |
 | [O pai do Grunge](https://open.spotify.com/track/26K7JzETd3WzfhHCBrOs7S) | [Signista](https://open.spotify.com/artist/0z9toQm8sBemSqbhMU2xJk) | [O pai do Grunge](https://open.spotify.com/album/3SLdc6fLquanROOrBrnAjP) | 3:17 | 2026-07-17 | 2026-08-13 |
-| [Obey](https://open.spotify.com/track/59DmyKALtFVsIBnUbsHv1h) | [TORNADO LOBSTER KILLER](https://open.spotify.com/artist/0ez4BRHXwetKDIMwIeRGzl) | [Lobsteria](https://open.spotify.com/album/6uQJjggp9JBejmVwEQGa9Q) | 2:04 | 2026-08-03 |  |
+| [Obey](https://open.spotify.com/track/59DmyKALtFVsIBnUbsHv1h) | [TORNADO LOBSTER KILLER](https://open.spotify.com/artist/0ez4BRHXwetKDIMwIeRGzl) | [Lobsteria](https://open.spotify.com/album/6uQJjggp9JBejmVwEQGa9Q) | 2:04 | 2026-08-03 | 2026-09-04 |
 | [Oblivion](https://open.spotify.com/track/5bdW7nt9fpg497enkGAdTP) | [Aleh Adler](https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK) | [Oblivion](https://open.spotify.com/album/5Sd9ktwzF0CwrWV0SF9CyL) | 3:34 | 2026-04-16 | 2026-05-08 |
 | [Oblivion](https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Oblivion](https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo) | 5:35 | 2026-01-30 | 2026-02-27 |
 | [Oblivion](https://open.spotify.com/track/6o5S6TmTAt0PmxSLHhUPfy) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Oblivion](https://open.spotify.com/album/6JxEAIvajQ93CAMEdmnR9E) | 3:41 | 2026-01-23 | 2026-02-24 |
@@ -1393,6 +1394,7 @@
 | [Paloma](https://open.spotify.com/track/2olsbUwBbE9MHbUjGoXNTu) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [Paloma](https://open.spotify.com/album/1D3LUKlCurWpO7LlWovGIL) | 1:55 | 2026-03-30 | 2026-04-21 |
 | [Pantallas de Plomo](https://open.spotify.com/track/5xoO3OZxCXLfqUg09fdU2q) | [PunkoniA](https://open.spotify.com/artist/3kr51tm8al5xAW5wTSBpnd) | [Pantallas de Plomo](https://open.spotify.com/album/10XyGf869NPJ1g53woxYW4) | 2:54 | 2025-12-23 | 2026-01-15 |
 | [Paper Trails](https://open.spotify.com/track/1lk7GZY3qP2LCRslE9pXki) | [King Dead](https://open.spotify.com/artist/4V4u70VKUuR6WNRQgfUjc4) | [King Dead](https://open.spotify.com/album/1s7Kbr7RRnXbMaWImSYC1L) | 9:12 | 2025-12-27 | 2026-01-22 |
+| [Paracetamol](https://open.spotify.com/track/3PgbBtLJi2MQ3MeWOy3u8C) | [Vitamin Dead](https://open.spotify.com/artist/0HYZ4yzHvtXD5dgts4G4n3) | [Paracetamol](https://open.spotify.com/album/6Sc3HRkHaktWhLjfUeA7UC) | 2:22 | 2026-09-03 |  |
 | [Paranoia](https://open.spotify.com/track/5VCwbqnX5NQY8UQzIiOPAA) | [Sorin Marz](https://open.spotify.com/artist/48kGjnsvitw9XkswqhQKhn) | [Collapse](https://open.spotify.com/album/6QwYqm9CtT6WgBxz1NQ9cx) | 3:00 | 2026-05-12 | 2026-06-13 |
 | [Paranoid Clown](https://open.spotify.com/track/1kXsBAH2zE7qxkfAmWAenn) | [Sludder](https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n) | [Paranoid Clown](https://open.spotify.com/album/4FjqObTunaclJi07rhRvWO) | 2:09 | 2026-02-02 | 2026-03-06 |
 | [Paraphernalia](https://open.spotify.com/track/7b0fz8XxexVbzS6pBP3N6n) | [RICHARICHAR](https://open.spotify.com/artist/4plmWBEKn6dN7OtE3SacfK) | [PARAPHERNALIA EP](https://open.spotify.com/album/4wW58yp1I2U4VhDXJOEMIj) | 3:14 | 2026-04-11 | 2026-05-13 |
@@ -1657,6 +1659,7 @@
 | [Silver Tears](https://open.spotify.com/track/5hzCBPz5Hf9YrxtbbuN376) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [Studio Mono demos](https://open.spotify.com/album/2BaGSSSCPoOAYNlw51EOOf) | 3:28 | 2026-07-14 |  |
 | [Simon Dice](https://open.spotify.com/track/0I24rhHVXYGYgJyG2L8Vu2) | [Jardin Animal](https://open.spotify.com/artist/38QAh40vAt0RRB7V5KxOJN) | [Simon Dice](https://open.spotify.com/album/0PAOV8XpwnoeLCFHT3GzL4) | 3:37 | 2025-11-16 | 2025-12-10 |
 | [Simply Fabulous](https://open.spotify.com/track/7fMn70HEPQngTwPtla6K6R) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:09 | 2025-08-03 | 2026-05-30 |
+| [Simulacra \(Steve Albini Mix\)](https://open.spotify.com/track/6Trgr5fXIomDm4iNwuUMfd) | [Charm School](https://open.spotify.com/artist/0dw0yoBLUACycC9fNcNnFl), [Andrew Charm](https://open.spotify.com/artist/5yZ9AvSPEOIozDwIzTz3UD) | [Simulacra Remixed](https://open.spotify.com/album/3yMUHX5BsdsHhd321R7VkI) | 3:51 | 2026-09-03 |  |
 | [Sink Down to You](https://open.spotify.com/track/43nEFRzIE4vEm0qyN8lA2g) | [cmon](https://open.spotify.com/artist/3fZrj8YkFdilNYtdQtFXUB) | [Sink Down to You](https://open.spotify.com/album/1Z5Y2yUQQwWZyG8JHfbufw) | 3:46 | 2026-03-18 | 2026-04-07 |
 | [Sins](https://open.spotify.com/track/0e7qshg39yZQKsA7pCfuHx) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Sins](https://open.spotify.com/album/7upoZURMk4ZcAlulV9Rluu) | 3:28 | 2026-03-18 | 2026-04-19 |
 | [Six Seasons And A Movie](https://open.spotify.com/track/0bBL5fiStd3yOZUGK2PgiA) | [Kill The Joy](https://open.spotify.com/artist/7u9DBKVrjwrpraYElkztA2) | [Six Seasons And A Movie](https://open.spotify.com/album/1TAkIJFPRFCn0Hza7jpTBF) | 3:52 | 2026-03-27 | 2026-04-17 |
@@ -1730,6 +1733,7 @@
 | [Spiral](https://open.spotify.com/track/2GmR8f2PjE9gcUkRws7rYJ) | [Worn Out Welcome](https://open.spotify.com/artist/0ibx8tICHFMIC94A8NrrqM) | [Spiral](https://open.spotify.com/album/2q2Ht27aBPC0AbXIEO4gmA) | 3:46 | 2025-12-29 | 2026-01-22 |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-12-15 | 2026-01-15 |
 | [Split My Head](https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi) | [Off Wing](https://open.spotify.com/artist/0kjIZRyDptIqkPCvruV4Ew) | [Split My Head](https://open.spotify.com/album/5esLfxa6lMuXNEC5Vp9Sv0) | 2:23 | 2026-03-05 | 2026-04-06 |
+| [Spoiled Rotten](https://open.spotify.com/track/7fljNC1eGjzhbrnhFBfP7v) | [Brendan Miller](https://open.spotify.com/artist/5w3l4qzoBGRzgo7Q9KPV2v) | [Spoiled Rotten](https://open.spotify.com/album/7gLEggBS4NiuaSO0DZlOLM) | 3:48 | 2026-09-03 |  |
 | [Spooky bass](https://open.spotify.com/track/35WsAwdMlQD1S9ySFGfd4C) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 1:31 | 2025-08-03 |  |
 | [SPORTS CAR](https://open.spotify.com/track/7Illb7mvXtkMHfd20Px8D3) | [Ben Jarvis](https://open.spotify.com/artist/47L0IXN10HwDA8hJy5vc3d) | [SPORTS CAR](https://open.spotify.com/album/2H2paMeno2qRxOGx3TBZb6) | 2:44 | 2026-08-16 |  |
 | [Spring Is Ours](https://open.spotify.com/track/1C0VVpowQLC7FyTHh9wJpW) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Spring Is Ours](https://open.spotify.com/album/5qtk1Bb4EVSExQEEZrGYjh) | 3:18 | 2026-05-29 | 2026-07-04 |

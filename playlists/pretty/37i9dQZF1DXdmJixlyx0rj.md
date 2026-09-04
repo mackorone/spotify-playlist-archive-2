@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Winter Back\)
+> New & best K\-Electronic music is here\. \(Cover: CIFIKA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,040 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,041 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AGN](https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt) | [Winter Back](https://open.spotify.com/artist/7obj6hnqThkyQFP9Sq07Pk) | [Headphone Beats 2025\-2026](https://open.spotify.com/album/6F0H5yZIw2liTOAG0xLtn6) | 3:49 |
+| 1 | [HEX](https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Old Fantasy](https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd) | 3:54 |
 | 2 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 |
 | 3 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 4 | [CELEBRATION](https://open.spotify.com/track/3OKvpTlnhvj8u6fbV53kqC) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 | 99 | [Eternity](https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Eternity](https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg) | 2:14 |
 | 100 | [firefly](https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [firefly](https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf) | 4:29 |
 
-Snapshot ID: `AAAAAAl5/l/DZ9atvwz+pCzD/y/usUUH`
+Snapshot ID: `AAAAAH1ZK0KjNkqKqHweqgIX+i2lUpqH`

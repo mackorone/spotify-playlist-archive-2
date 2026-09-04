@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Tazeboy",
+  "description": "Le meilleur du rap africain francophone. Photo : Sindika",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 182167,
       "name": "3X NDOSS (feat. Yorssy)",
       "url": "https://open.spotify.com/track/3h3nMY4MqyboUJRpeqT2Wn"
+    },
+    {
+      "album": {
+        "name": "3X SAINT",
+        "url": "https://open.spotify.com/album/2lsrcDzx04kx1AHbMFmU87"
+      },
+      "artists": [
+        {
+          "name": "King Of Ntcham",
+          "url": "https://open.spotify.com/artist/6uuOFWfVXWTRI0DLAYWI05"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150812,
+      "name": "3X SAINT",
+      "url": "https://open.spotify.com/track/0ueLdzRWqNM8mSc9sUYQcu"
     },
     {
       "album": {
@@ -738,7 +760,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 207576,
       "name": "Bad Bitchiz",
       "url": "https://open.spotify.com/track/1S750kuZUnE2aR84RZaUQT"
@@ -1104,7 +1126,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162461,
       "name": "BRAMOGO",
       "url": "https://open.spotify.com/track/6I7jDDtu8qKPpiBITFv7nt"
@@ -2013,6 +2035,24 @@
     },
     {
       "album": {
+        "name": "CONTINUE",
+        "url": "https://open.spotify.com/album/0vkxj5RA6jzUbxPr8NNzco"
+      },
+      "artists": [
+        {
+          "name": "Benzolamelo",
+          "url": "https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143369,
+      "name": "CONTINUE",
+      "url": "https://open.spotify.com/track/7gq5vPY152YQkAczlqWuNb"
+    },
+    {
+      "album": {
         "name": "CONTRAT",
         "url": "https://open.spotify.com/album/4KxlqtnHpU5GGtlPsl5PHX"
       },
@@ -2853,6 +2893,28 @@
     },
     {
       "album": {
+        "name": "ENJOY",
+        "url": "https://open.spotify.com/album/2NqN1B9u8LBNh3D5CdCgeO"
+      },
+      "artists": [
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        },
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "ENJOY",
+      "url": "https://open.spotify.com/track/7aadjD6KaW5mWWRKxyVo93"
+    },
+    {
+      "album": {
         "name": "DIYILEM & BAZARHOFF : GENIUS",
         "url": "https://open.spotify.com/album/0XRYwM7Fb1oAhjCaKSoSfp"
       },
@@ -2956,6 +3018,28 @@
       "duration_ms": 135187,
       "name": "Eza Dega",
       "url": "https://open.spotify.com/track/0jU0RuqVfQqeznl4u9eeLA"
+    },
+    {
+      "album": {
+        "name": "F I R S T S T E P",
+        "url": "https://open.spotify.com/album/7HMEdomw55BQeBlr8T2aEO"
+      },
+      "artists": [
+        {
+          "name": "Le JK",
+          "url": "https://open.spotify.com/artist/2Tcb87jvCwuGVmXkUS6jSA"
+        },
+        {
+          "name": "Toto le Banzou",
+          "url": "https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250174,
+      "name": "F I R S T S T E P",
+      "url": "https://open.spotify.com/track/0Jw8XVoDNyQmtrxpMFNHvb"
     },
     {
       "album": {
@@ -3973,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/0Yx8f82cgVONps5ojHljVI"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/5FIUkCeZbTxg2vjKMl5aOu"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/7GkqQthzG3je276bnSIiBI"
       },
@@ -4162,7 +4264,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162508,
       "name": "Kossa Moi \u00c7a",
       "url": "https://open.spotify.com/track/3f7NjkkdYfe3sIEEwoOoYT"
@@ -5172,7 +5274,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178796,
       "name": "Monter Descendre",
       "url": "https://open.spotify.com/track/3S1Mls5c6hhflUvzZv8yKp"
@@ -5332,6 +5434,24 @@
       "duration_ms": 169655,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/02CJ2HE3SPd4i5gOSAJiGZ"
+    },
+    {
+      "album": {
+        "name": "M\u00e9daillon",
+        "url": "https://open.spotify.com/album/49nNj8EJpnFLbpp5BJXEiM"
+      },
+      "artists": [
+        {
+          "name": "FLOCKA ICE",
+          "url": "https://open.spotify.com/artist/4GFpFNFM22K6DpBnLsJvrw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "M\u00e9daillon",
+      "url": "https://open.spotify.com/track/7DTJxVjbo5Huz9nsStOiNt"
     },
     {
       "album": {
@@ -6876,7 +6996,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 226693,
       "name": "Selekele",
       "url": "https://open.spotify.com/track/37nueKwkPAXDaX5TqEA9cb"
@@ -7350,7 +7470,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158063,
       "name": "Tchiza",
       "url": "https://open.spotify.com/track/5LmvAYsbiAnm7DU9mxglZZ"
@@ -8244,7 +8364,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152112,
       "name": "YAI PAS TETE",
       "url": "https://open.spotify.com/track/2AZdqR7oxMKBsEzWiQI9TE"

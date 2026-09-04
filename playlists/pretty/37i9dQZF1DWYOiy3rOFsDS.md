@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 
 > Romance a la antigüita con Tuffic en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,918 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,852 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOiy3rOFsDS.md) - [plain]
 | 99 | [Una Mañana](https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM) | [Denise Gutiérrez](https://open.spotify.com/artist/3EqIHpUI8pbcH5UgqZBWbW) | [Una Mañana](https://open.spotify.com/album/7cShrPBSg4JiIqPMmodnUX) | 2:51 |
 | 100 | [Arrancando Flores](https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Escarlata](https://open.spotify.com/album/6dHtfspjlnEwvbCoKc1NYT) | 2:30 |
 
-Snapshot ID: `AAAAACapZ0qcAUIzOCpDt8m2Y0oPlPVU`
+Snapshot ID: `AAAAAHBL4in4ybLEfWxXDknX+UAbthye`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,434 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,461 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [TRUTH HURTS](https://open.spotify.com/track/0QSs6rMlWl0JWU53HKMgsR) | [Ashton Francis](https://open.spotify.com/artist/18SWkvRmEGTL9349v0Hu5s) | [OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR](https://open.spotify.com/album/3eJGGMA3ffRB8q4dKx0RpF) | 3:29 |
 | 100 | [MIROIR](https://open.spotify.com/track/5FfXM1nteZWgTetnDZQJem) | [Nahlé](https://open.spotify.com/artist/4bckn9wOQswhAmiUunNqKO), [Avian](https://open.spotify.com/artist/5gvfHg3GsPE9GHaD3SnHiP) | [MIROIR](https://open.spotify.com/album/5F1TZOFKyNPC5dswz3P0Fm) | 1:29 |
 
-Snapshot ID: `AAAAAINlrN2x2Hiz/RG2tPDvfHh1iY6b`
+Snapshot ID: `AAAAADEMKccoAIiaUqvkgFpetOuUmgfT`

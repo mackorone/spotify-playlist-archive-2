@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Zwide",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Mjolisi",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 270184,
       "name": "Kawungondli",
       "url": "https://open.spotify.com/track/2s3bK3DPCb84Rl1Rfp01TH"
@@ -3102,6 +3102,32 @@
       "duration_ms": 277551,
       "name": "Life After Matric",
       "url": "https://open.spotify.com/track/069gnXnIJUwibeufW3sq71"
+    },
+    {
+      "album": {
+        "name": "Kuphelele",
+        "url": "https://open.spotify.com/album/6GEKyyFeiQOaUCdaWVUgbJ"
+      },
+      "artists": [
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        },
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "SOMCWAYI",
+          "url": "https://open.spotify.com/artist/4kLo4bjriPxt8Bbx3UnuDZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229793,
+      "name": "Liyoma Ngami",
+      "url": "https://open.spotify.com/track/662p5yCu62sqXtZN2nihdB"
     },
     {
       "album": {
@@ -3786,7 +3812,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 296751,
       "name": "NGITHANDANA NE OWNER",
       "url": "https://open.spotify.com/track/5twLen4btRsNxaiUVDfxiC"
@@ -4754,8 +4780,8 @@
       },
       "artists": [
         {
-          "name": "TEASPOON",
-          "url": "https://open.spotify.com/artist/3PcXuRI03Po574UOLuiKbp"
+          "name": "Teaspoon",
+          "url": "https://open.spotify.com/artist/7JajQZ73LbTTWjEQFQdq3i"
         },
         {
           "name": "Inkos'yamagcokama",
@@ -5030,7 +5056,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 271856,
       "name": "Ubasela ama-Ex",
       "url": "https://open.spotify.com/track/5Z41KRKlonoT7McWnIPCrY"

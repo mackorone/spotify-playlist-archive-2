@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,683 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,747 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 |
 | 100 | [A Time For Love](https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz) | 5:06 |
 
-Snapshot ID: `AAAAAElPZi/lp68BEBj3AKKrX+k9bIqY`
+Snapshot ID: `AAAAAOs8SLZLC7WNUc/DgnaTu1+ZUa5y`

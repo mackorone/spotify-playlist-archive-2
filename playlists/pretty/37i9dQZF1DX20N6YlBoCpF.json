@@ -1,13 +1,73 @@
 {
-  "description": "Al die nuutste Afrikaanse musiek met Juanita du Plessis, Franja du Plessis, Ruan Josh, Francois van Coke, Zaan Sonnekus en meer!",
-  "num_followers": 44323,
+  "description": "Al die nuutste Afrikaanse musiek met Ryno Velvet, Byron Minnie, Snotkop, Ricus Nel, Dirk Van Der Westhuizen en meer!",
+  "num_followers": 44325,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM12kxOppFGCkOU394NXFjB/TqoP",
+  "snapshot_id": "AAAAALqm+MmCir/XYH5bbRJ7TG79M3c7",
   "tracks": [
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Nommerpas",
+        "url": "https://open.spotify.com/album/0uN7sKOc0lIjJnISJHcQDo"
+      },
+      "artists": [
+        {
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+        },
+        {
+          "name": "Byron Minnie",
+          "url": "https://open.spotify.com/artist/6PavrsWQeBFgYfFSTPmoBv"
+        }
+      ],
+      "duration_ms": 141465,
+      "name": "Nommerpas",
+      "url": "https://open.spotify.com/track/3UwWqAI5hrUd7ZqEdK8PiH"
+    },
+    {
+      "added_at": "2026-08-27 22:01:27",
+      "album": {
+        "name": "Biri Boem Boem (feat. Early B)",
+        "url": "https://open.spotify.com/album/4A7pREs3thqOAH2P6hW7pS"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp"
+        }
+      ],
+      "duration_ms": 203707,
+      "name": "Biri Boem Boem (feat. Early B)",
+      "url": "https://open.spotify.com/track/6q7GqSmMzzTIkGZfyQMdtQ"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Koelboks Koning (feat. Ricus Nel)",
+        "url": "https://open.spotify.com/album/6QFtTfhhZP1y0MSnn8v3LL"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "duration_ms": 156527,
+      "name": "Koelboks Koning (feat. Ricus Nel)",
+      "url": "https://open.spotify.com/track/19ZL0JZXhb9Yqb6YKEotxw"
+    },
     {
       "added_at": "2026-08-27 22:01:27",
       "album": {
@@ -33,6 +93,22 @@
       "url": "https://open.spotify.com/track/61Sk8qacKHqQj3CW5TWPkA"
     },
     {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Adrenalien",
+        "url": "https://open.spotify.com/album/4JHGIbxVk6q6pACO44VpiS"
+      },
+      "artists": [
+        {
+          "name": "Dirk Van Der Westhuizen",
+          "url": "https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Adrenalien",
+      "url": "https://open.spotify.com/track/6FEkGZeuPvZChGKPbq16nx"
+    },
+    {
       "added_at": "2026-08-20 22:01:17",
       "album": {
         "name": "Probeer",
@@ -53,24 +129,20 @@
       "url": "https://open.spotify.com/track/21zQYKKjLYbXtUkVq75cOU"
     },
     {
-      "added_at": "2026-08-27 22:01:27",
+      "added_at": "2026-09-03 22:01:13",
       "album": {
-        "name": "LEWE",
-        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+        "name": "Koffiewinkel",
+        "url": "https://open.spotify.com/album/7zk0SEV00lgqA2iWunLnsY"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Winter Hotel",
+          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
         }
       ],
-      "duration_ms": 166531,
-      "name": "LEWE",
-      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
+      "duration_ms": 188347,
+      "name": "Koffiewinkel",
+      "url": "https://open.spotify.com/track/71guaUcOyBgkADuVCW9Uwu"
     },
     {
       "added_at": "2026-08-20 22:01:17",
@@ -93,24 +165,128 @@
       "url": "https://open.spotify.com/track/15hz44Nt7UKIxC6NcW4qLg"
     },
     {
-      "added_at": "2026-08-27 22:01:27",
+      "added_at": "2026-09-03 22:01:13",
       "album": {
-        "name": "Biri Boem Boem (feat. Early B)",
-        "url": "https://open.spotify.com/album/4A7pREs3thqOAH2P6hW7pS"
+        "name": "Maklik In Die Moeilikheid",
+        "url": "https://open.spotify.com/album/0HLGFlyDL49UMX5y3PushY"
       },
       "artists": [
         {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+          "name": "Posduif",
+          "url": "https://open.spotify.com/artist/0BIs8iCsPrho1IZMdse349"
         },
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp"
+          "name": "Richann Br\u00fcssow",
+          "url": "https://open.spotify.com/artist/6Oj09J13TIKZrR0n18DAom"
         }
       ],
-      "duration_ms": 203707,
-      "name": "Biri Boem Boem (feat. Early B)",
-      "url": "https://open.spotify.com/track/6q7GqSmMzzTIkGZfyQMdtQ"
+      "duration_ms": 236000,
+      "name": "Maklik In Die Moeilikheid",
+      "url": "https://open.spotify.com/track/0XIEoQ3FmVo61aX3fIVovM"
+    },
+    {
+      "added_at": "2026-08-27 22:01:27",
+      "album": {
+        "name": "LEWE",
+        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 166531,
+      "name": "LEWE",
+      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Kinders Van Die Lig",
+        "url": "https://open.spotify.com/album/6AiPY4tBI0OZGtt4gbxue7"
+      },
+      "artists": [
+        {
+          "name": "Lizl",
+          "url": "https://open.spotify.com/artist/4WL8pDXoxTkYTnXgMghRst"
+        },
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Kinders Van Die Lig",
+      "url": "https://open.spotify.com/track/6zAeRLFLu4DQa6JW9frHZt"
+    },
+    {
+      "added_at": "2026-08-27 22:01:27",
+      "album": {
+        "name": "Paarlberg",
+        "url": "https://open.spotify.com/album/4iirR04mMCOpcmQReMLePZ"
+      },
+      "artists": [
+        {
+          "name": "FRANCO",
+          "url": "https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc"
+        }
+      ],
+      "duration_ms": 213068,
+      "name": "Paarlberg",
+      "url": "https://open.spotify.com/track/1VOcaNMqOvAqafMBJajy7A"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Sal Jy?",
+        "url": "https://open.spotify.com/album/3OXWQC4jYMwy0WNBlFjjcd"
+      },
+      "artists": [
+        {
+          "name": "Valeska Muller",
+          "url": "https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m"
+        }
+      ],
+      "duration_ms": 233515,
+      "name": "Sal Jy?",
+      "url": "https://open.spotify.com/track/5ZdMOLZV1OJpHGTU33VWEA"
+    },
+    {
+      "added_at": "2026-08-27 22:01:27",
+      "album": {
+        "name": "Boland",
+        "url": "https://open.spotify.com/album/7lWbqv1OBAkshpJOm30Vbx"
+      },
+      "artists": [
+        {
+          "name": "Tino",
+          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
+        }
+      ],
+      "duration_ms": 226433,
+      "name": "Boland",
+      "url": "https://open.spotify.com/track/4e903jR2x0VDWQb1RkrWiQ"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Vrede",
+        "url": "https://open.spotify.com/album/16fOih66c4z0CwLkeGizxH"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "duration_ms": 192006,
+      "name": "Vrede",
+      "url": "https://open.spotify.com/track/3xxfiGciFoIospEPrcadlo"
     },
     {
       "added_at": "2026-08-20 22:01:17",
@@ -127,6 +303,74 @@
       "duration_ms": 224150,
       "name": "Lyftaal",
       "url": "https://open.spotify.com/track/1hQuHfOK49htuFvr7dHpKA"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Sal Jy Vir My Waai",
+        "url": "https://open.spotify.com/album/3WaTLxlkXEWGf6m46vYKkQ"
+      },
+      "artists": [
+        {
+          "name": "Wouter Van De Venter",
+          "url": "https://open.spotify.com/artist/3cZNCHI9iQev06QNIw1g7M"
+        },
+        {
+          "name": "Etienne Steyn",
+          "url": "https://open.spotify.com/artist/4dxKeBjgTEvUYgtS4oBi94"
+        }
+      ],
+      "duration_ms": 254436,
+      "name": "Sal Jy Vir My Waai",
+      "url": "https://open.spotify.com/track/3aNMGWIbFZuK5nYvFGZjRn"
+    },
+    {
+      "added_at": "2026-08-20 22:01:17",
+      "album": {
+        "name": "LiefieLyf",
+        "url": "https://open.spotify.com/album/7gTggRcRvvM6dgBGIV1j9G"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 181406,
+      "name": "LiefieLyf",
+      "url": "https://open.spotify.com/track/1WuByP7Q9Av3tgA9GNSyHH"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "S\u00ea My Hoe",
+        "url": "https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2"
+      },
+      "artists": [
+        {
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "S\u00ea My Hoe",
+      "url": "https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt"
+    },
+    {
+      "added_at": "2026-08-27 22:01:27",
+      "album": {
+        "name": "Daar Sal Jy My Kry",
+        "url": "https://open.spotify.com/album/5EyBkNECtRKjFdwtxuMN2P"
+      },
+      "artists": [
+        {
+          "name": "Fanus Pienaar",
+          "url": "https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge"
+        }
+      ],
+      "duration_ms": 225256,
+      "name": "Daar Sal Jy My Kry",
+      "url": "https://open.spotify.com/track/6fdodHUJAFtqBTKkssDf6L"
     },
     {
       "added_at": "2026-08-27 22:01:27",
@@ -151,34 +395,18 @@
     {
       "added_at": "2026-08-20 22:01:17",
       "album": {
-        "name": "LiefieLyf",
-        "url": "https://open.spotify.com/album/7gTggRcRvvM6dgBGIV1j9G"
+        "name": "Als vir die Bok",
+        "url": "https://open.spotify.com/album/6muknqLGBGp4PnVoT5hliX"
       },
       "artists": [
         {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
         }
       ],
-      "duration_ms": 181406,
-      "name": "LiefieLyf",
-      "url": "https://open.spotify.com/track/1WuByP7Q9Av3tgA9GNSyHH"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Paarlberg",
-        "url": "https://open.spotify.com/album/4iirR04mMCOpcmQReMLePZ"
-      },
-      "artists": [
-        {
-          "name": "FRANCO",
-          "url": "https://open.spotify.com/artist/0qsDqYiHyBmzLQZkEGygKc"
-        }
-      ],
-      "duration_ms": 213068,
-      "name": "Paarlberg",
-      "url": "https://open.spotify.com/track/1VOcaNMqOvAqafMBJajy7A"
+      "duration_ms": 224197,
+      "name": "Als vir die Bok",
+      "url": "https://open.spotify.com/track/15gQK3oAWJTN5JPSZPY3pe"
     },
     {
       "added_at": "2026-08-20 22:01:17",
@@ -201,116 +429,24 @@
       "url": "https://open.spotify.com/track/0Npu9zmvuyy9bJiqPMKmde"
     },
     {
-      "added_at": "2026-08-27 22:01:27",
+      "added_at": "2026-07-30 22:01:20",
       "album": {
-        "name": "Boland",
-        "url": "https://open.spotify.com/album/7lWbqv1OBAkshpJOm30Vbx"
+        "name": "Nuwe Spore",
+        "url": "https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv"
       },
       "artists": [
         {
-          "name": "Tino",
-          "url": "https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36"
-        }
-      ],
-      "duration_ms": 226433,
-      "name": "Boland",
-      "url": "https://open.spotify.com/track/4e903jR2x0VDWQb1RkrWiQ"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Als vir die Bok",
-        "url": "https://open.spotify.com/album/6muknqLGBGp4PnVoT5hliX"
-      },
-      "artists": [
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
         {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
         }
       ],
-      "duration_ms": 224197,
-      "name": "Als vir die Bok",
-      "url": "https://open.spotify.com/track/15gQK3oAWJTN5JPSZPY3pe"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Nooit Geweet",
-        "url": "https://open.spotify.com/album/4GwfxkJ9XaQSqw4qtmrhIM"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Zamudio",
-          "url": "https://open.spotify.com/artist/24aSssaQ13E1GvbhTxSrSS"
-        }
-      ],
-      "duration_ms": 202151,
-      "name": "Nooit Geweet",
-      "url": "https://open.spotify.com/track/4SDDyhg8LVPMXAhSFclWzf"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Elke Hond",
-        "url": "https://open.spotify.com/album/51x6S9zPimujoEDgqqCxV7"
-      },
-      "artists": [
-        {
-          "name": "Prop",
-          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Elke Hond",
-      "url": "https://open.spotify.com/track/0WUhFgI2gLLMx9WUpAKdia"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Daar Sal Jy My Kry",
-        "url": "https://open.spotify.com/album/5EyBkNECtRKjFdwtxuMN2P"
-      },
-      "artists": [
-        {
-          "name": "Fanus Pienaar",
-          "url": "https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge"
-        }
-      ],
-      "duration_ms": 225256,
-      "name": "Daar Sal Jy My Kry",
-      "url": "https://open.spotify.com/track/6fdodHUJAFtqBTKkssDf6L"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Soentjies",
-        "url": "https://open.spotify.com/album/6k0FEnzjXjiwF8zrkCCsz9"
-      },
-      "artists": [
-        {
-          "name": "Brandon Miles",
-          "url": "https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z"
-        }
-      ],
-      "duration_ms": 228091,
-      "name": "Soentjies",
-      "url": "https://open.spotify.com/track/35naRhsUWK7ffLwJnxtkgn"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "VIR DIE HUIS",
-        "url": "https://open.spotify.com/album/7fhkVuovpSaqsGdq5JQKdr"
-      },
-      "artists": [
-        {
-          "name": "Bcom",
-          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "VIR DIE HUIS",
-      "url": "https://open.spotify.com/track/6uEfoQrvM9GTl10gb7LGIN"
+      "duration_ms": 197500,
+      "name": "Dank Die Here Vir Jou",
+      "url": "https://open.spotify.com/track/1vWle2FaFHWU0mpLilFz8M"
     },
     {
       "added_at": "2026-08-07 04:35:15",
@@ -341,22 +477,6 @@
       "url": "https://open.spotify.com/track/4kF7Z6BsBpcuQQCJTiazsP"
     },
     {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Wie Is Ek",
-        "url": "https://open.spotify.com/album/76rwHsPmCi5P6IBaUcHYHg"
-      },
-      "artists": [
-        {
-          "name": "Mark Pekeur",
-          "url": "https://open.spotify.com/artist/0UXdX1Rbzo1BHCI5V2w4jt"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Wie Is Ek",
-      "url": "https://open.spotify.com/track/148i2mayf1mghKE1prXuoP"
-    },
-    {
       "added_at": "2026-08-13 22:01:06",
       "album": {
         "name": "Sonder Jou Is Sonde",
@@ -377,40 +497,36 @@
       "url": "https://open.spotify.com/track/7kuYKjFU4ClKn4EQ9Y8uQg"
     },
     {
-      "added_at": "2026-08-27 22:01:27",
+      "added_at": "2026-08-20 22:01:17",
       "album": {
-        "name": "Weer Saam Dans",
-        "url": "https://open.spotify.com/album/7tn7foGbheJVnvZhSdgcbL"
+        "name": "Elke Hond",
+        "url": "https://open.spotify.com/album/51x6S9zPimujoEDgqqCxV7"
       },
       "artists": [
         {
-          "name": "Ruderick Heuer",
-          "url": "https://open.spotify.com/artist/5hPDlLuNcGmAQPiJ0WQwcD"
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
         }
       ],
-      "duration_ms": 268285,
-      "name": "Weer Saam Dans",
-      "url": "https://open.spotify.com/track/7HPvmXgf5rqFLNYYHNf6EO"
+      "duration_ms": 182500,
+      "name": "Elke Hond",
+      "url": "https://open.spotify.com/track/0WUhFgI2gLLMx9WUpAKdia"
     },
     {
-      "added_at": "2026-07-30 22:01:20",
+      "added_at": "2026-08-20 22:01:17",
       "album": {
-        "name": "Nuwe Spore",
-        "url": "https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv"
+        "name": "Soentjies",
+        "url": "https://open.spotify.com/album/6k0FEnzjXjiwF8zrkCCsz9"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        },
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+          "name": "Brandon Miles",
+          "url": "https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Dank Die Here Vir Jou",
-      "url": "https://open.spotify.com/track/1vWle2FaFHWU0mpLilFz8M"
+      "duration_ms": 228091,
+      "name": "Soentjies",
+      "url": "https://open.spotify.com/track/35naRhsUWK7ffLwJnxtkgn"
     },
     {
       "added_at": "2026-08-13 22:01:06",
@@ -427,6 +543,54 @@
       "duration_ms": 200160,
       "name": "Mila",
       "url": "https://open.spotify.com/track/1XPoCDob6Y7XgFq4TWeQA4"
+    },
+    {
+      "added_at": "2026-07-30 22:01:20",
+      "album": {
+        "name": "Dammit Ek's Lief Vir Jou",
+        "url": "https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 170431,
+      "name": "Dammit Ek's Lief Vir Jou",
+      "url": "https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS"
+    },
+    {
+      "added_at": "2026-07-30 22:01:20",
+      "album": {
+        "name": "Heuning",
+        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
+      },
+      "artists": [
+        {
+          "name": "Winter Hotel",
+          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Heuning",
+      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
+    },
+    {
+      "added_at": "2026-07-09 22:00:55",
+      "album": {
+        "name": "Duikweg Vreemdeling",
+        "url": "https://open.spotify.com/album/5lnUVTwj1FxukKnHYdcWRX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "Duikweg Vreemdeling",
+      "url": "https://open.spotify.com/track/5AfbPovjjbQmBGkrT75DTS"
     },
     {
       "added_at": "2026-08-13 22:01:06",
@@ -447,70 +611,6 @@
     {
       "added_at": "2026-07-30 22:01:20",
       "album": {
-        "name": "Dammit Ek's Lief Vir Jou",
-        "url": "https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 170431,
-      "name": "Dammit Ek's Lief Vir Jou",
-      "url": "https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS"
-    },
-    {
-      "added_at": "2026-08-13 22:01:06",
-      "album": {
-        "name": "Bietjie Beter",
-        "url": "https://open.spotify.com/album/3MGuqTzM8UZ61LjMiVHWHI"
-      },
-      "artists": [
-        {
-          "name": "CHXRL",
-          "url": "https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Bietjie Beter",
-      "url": "https://open.spotify.com/track/6iXsv2bJ3SsbZWONNbwbwe"
-    },
-    {
-      "added_at": "2026-07-30 22:01:20",
-      "album": {
-        "name": "Heuning",
-        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
-      },
-      "artists": [
-        {
-          "name": "Winter Hotel",
-          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Heuning",
-      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Laat Los",
-        "url": "https://open.spotify.com/album/0ryC8tAK2H6B61qeAfpEDD"
-      },
-      "artists": [
-        {
-          "name": "Mari Bosman",
-          "url": "https://open.spotify.com/artist/0fEMsngAB6I31d1akISvYX"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Laat Los",
-      "url": "https://open.spotify.com/track/4pfKr3SEwmNGL1M8NtRYYZ"
-    },
-    {
-      "added_at": "2026-07-30 22:01:20",
-      "album": {
         "name": "Gevaar",
         "url": "https://open.spotify.com/album/5gRKMqhvmyDELBEnTnxzv6"
       },
@@ -523,38 +623,6 @@
       "duration_ms": 200652,
       "name": "Gevaar",
       "url": "https://open.spotify.com/track/1WvUSBEXsQKk3N3sQYrL9o"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Liefde Klou",
-        "url": "https://open.spotify.com/album/4Bw4HoIxjLujr2q6jn7IDk"
-      },
-      "artists": [
-        {
-          "name": "Armand Joubert",
-          "url": "https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Liefde Klou",
-      "url": "https://open.spotify.com/track/54JpD2NVprqC67qzMjY4l0"
-    },
-    {
-      "added_at": "2026-08-07 04:35:15",
-      "album": {
-        "name": "Bedaar",
-        "url": "https://open.spotify.com/album/2weZUlb5bzsW3XZvIdEj6r"
-      },
-      "artists": [
-        {
-          "name": "Pieter Pruis",
-          "url": "https://open.spotify.com/artist/4QCYH75el0MiapfairqJEc"
-        }
-      ],
-      "duration_ms": 196069,
-      "name": "Bedaar",
-      "url": "https://open.spotify.com/track/2JST9sSPkmk086ewdym58h"
     },
     {
       "added_at": "2026-07-23 22:01:03",
@@ -571,22 +639,6 @@
       "duration_ms": 201120,
       "name": "Lof",
       "url": "https://open.spotify.com/track/7iZjgjjgGzvtLneThjDLto"
-    },
-    {
-      "added_at": "2026-08-13 22:01:06",
-      "album": {
-        "name": "Boer Op Jou Land",
-        "url": "https://open.spotify.com/album/3VQsi5XuOcXavlwxoZbBLN"
-      },
-      "artists": [
-        {
-          "name": "Arnold de Wet",
-          "url": "https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Boer Op Jou Land",
-      "url": "https://open.spotify.com/track/7vhGUBdqJImJdMDdSPTYe3"
     },
     {
       "added_at": "2026-08-07 04:35:15",
@@ -673,186 +725,6 @@
       "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
     },
     {
-      "added_at": "2026-06-04 22:01:23",
-      "album": {
-        "name": "Daai Gevoel",
-        "url": "https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 191222,
-      "name": "Daai Gevoel",
-      "url": "https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Helkat",
-        "url": "https://open.spotify.com/album/3HUSvMpH1QHRRcpDURQNe1"
-      },
-      "artists": [
-        {
-          "name": "TonnelVisie",
-          "url": "https://open.spotify.com/artist/4dQMIBwoSPDi238yr7jUwT"
-        },
-        {
-          "name": "SAMPAULE",
-          "url": "https://open.spotify.com/artist/09zTDGYwMPw6EVHJa04NM8"
-        }
-      ],
-      "duration_ms": 234463,
-      "name": "Helkat",
-      "url": "https://open.spotify.com/track/7HVv7sMBxx6HLffNs881ld"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "As die mooi aan ons haak",
-        "url": "https://open.spotify.com/album/7KNZHCV4zaVlTS6If6HQXo"
-      },
-      "artists": [
-        {
-          "name": "Kristi Steyn",
-          "url": "https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU"
-        }
-      ],
-      "duration_ms": 217109,
-      "name": "Kies net vir my",
-      "url": "https://open.spotify.com/track/6nvQd4x7iYi0rXbmiUtKFi"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Worsbroodjie Blues",
-        "url": "https://open.spotify.com/album/1jzWZgKkFWI6JYfe3vlRbt"
-      },
-      "artists": [
-        {
-          "name": "Ruben Eloff",
-          "url": "https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS"
-        }
-      ],
-      "duration_ms": 218050,
-      "name": "Worsbroodjie Blues",
-      "url": "https://open.spotify.com/track/0rlU2SxKpKO13CSjhQyuAI"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Vas In My Kop",
-        "url": "https://open.spotify.com/album/4UQkPteTY9n7Qmwe3pkAUo"
-      },
-      "artists": [
-        {
-          "name": "Heidi",
-          "url": "https://open.spotify.com/artist/0tE22XnY1KpKng29BSLOJc"
-        }
-      ],
-      "duration_ms": 173720,
-      "name": "Vas In My Kop",
-      "url": "https://open.spotify.com/track/2l9vOSYUJqJNW0aURZpq3w"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Wanneer Ek S\u00ea",
-        "url": "https://open.spotify.com/album/7IXuh6FsHhnwpyR8cJlJxN"
-      },
-      "artists": [
-        {
-          "name": "Nico Booijse",
-          "url": "https://open.spotify.com/artist/2qPbWpMGJHe0RVPdSFq27g"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Wanneer Ek S\u00ea",
-      "url": "https://open.spotify.com/track/3x0JTMM3FeYxLXpPAcDTtt"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Asem In Die Strate",
-        "url": "https://open.spotify.com/album/30SmJUOTyNLBk7PmhC9cVw"
-      },
-      "artists": [
-        {
-          "name": "Neil Nachtrein",
-          "url": "https://open.spotify.com/artist/4BzXDRscCSZ0cgLq8SRzZr"
-        }
-      ],
-      "duration_ms": 249310,
-      "name": "Asem In Die Strate",
-      "url": "https://open.spotify.com/track/2rJxwdk5iUZn0PmEBVIyfD"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Sterker",
-        "url": "https://open.spotify.com/album/76y2wLGiScnTt5GC8ZRnYV"
-      },
-      "artists": [
-        {
-          "name": "Onike",
-          "url": "https://open.spotify.com/artist/3THs0F9sAhSVj0g2p0xoj4"
-        }
-      ],
-      "duration_ms": 216036,
-      "name": "Sterker",
-      "url": "https://open.spotify.com/track/0SLfRC48sFcx5S7KaleMri"
-    },
-    {
-      "added_at": "2026-08-27 22:01:27",
-      "album": {
-        "name": "Bok",
-        "url": "https://open.spotify.com/album/5EZnFyCe0uTN1M8Si0ZZbO"
-      },
-      "artists": [
-        {
-          "name": "Reets",
-          "url": "https://open.spotify.com/artist/23l2yZyJ9WJ84VLZMshWvk"
-        }
-      ],
-      "duration_ms": 366058,
-      "name": "Bok",
-      "url": "https://open.spotify.com/track/7rlb294F4xQIOZt4YY9JBi"
-    },
-    {
-      "added_at": "2026-08-20 22:01:17",
-      "album": {
-        "name": "Ke Saterdag!",
-        "url": "https://open.spotify.com/album/368J21CAs1g0aowHUiTJmf"
-      },
-      "artists": [
-        {
-          "name": "Die Boeries",
-          "url": "https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "Ke Saterdag!",
-      "url": "https://open.spotify.com/track/01P7gYNsSf1Z352xiXOZ8b"
-    },
-    {
-      "added_at": "2026-08-07 04:35:15",
-      "album": {
-        "name": "Eerste Lig",
-        "url": "https://open.spotify.com/album/44ME6rytCMZkDr7OnEysDn"
-      },
-      "artists": [
-        {
-          "name": "Joshua Na Die Re\u00ebn",
-          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
-        }
-      ],
-      "duration_ms": 246580,
-      "name": "Eerste Lig",
-      "url": "https://open.spotify.com/track/2KbZ4jo5wz2QNRhT4Lbzuj"
-    },
-    {
       "added_at": "2026-07-23 22:01:03",
       "album": {
         "name": "V\u00ear Vry",
@@ -867,6 +739,26 @@
       "duration_ms": 178917,
       "name": "V\u00ear Vry",
       "url": "https://open.spotify.com/track/5KlNsoimisEqoxlOMLZ7jb"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Op My Knie\u00eb",
+        "url": "https://open.spotify.com/album/6BjqazI8xNCZZggu6QuA7Q"
+      },
+      "artists": [
+        {
+          "name": "Rikus Van Der Vlies",
+          "url": "https://open.spotify.com/artist/2Ik58q2nVrcW1GZ9o9m16Q"
+        },
+        {
+          "name": "Tuin",
+          "url": "https://open.spotify.com/artist/3QbENMCYbyvJGJHkjcUllj"
+        }
+      ],
+      "duration_ms": 216938,
+      "name": "Op My Knie\u00eb",
+      "url": "https://open.spotify.com/track/3o56xSNPWbUHCL6OBsYa32"
     },
     {
       "added_at": "2026-07-31 11:47:47",
@@ -885,20 +777,20 @@
       "url": "https://open.spotify.com/track/2RzbEfDyfvqX6LkzSYlTlz"
     },
     {
-      "added_at": "2026-07-30 22:01:20",
+      "added_at": "2026-09-03 22:01:13",
       "album": {
-        "name": "Tot Die Aarde Ons Laat Gaan",
-        "url": "https://open.spotify.com/album/1iAzSZGGFicK5cpQ0J1diu"
+        "name": "Onafgerond",
+        "url": "https://open.spotify.com/album/1gWk3snHtm5bbbWnwevSUQ"
       },
       "artists": [
         {
-          "name": "Arno Jordaan",
-          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+          "name": "Francois van Rensburg",
+          "url": "https://open.spotify.com/artist/1HfYVQ4fZGU6nt7XfUiMfI"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Tot Die Aarde Ons Laat Gaan",
-      "url": "https://open.spotify.com/track/6HBXZ3zprHU8k1mCeABV6e"
+      "duration_ms": 213266,
+      "name": "Onafgerond",
+      "url": "https://open.spotify.com/track/7t8Tb0XPXFlOQknNw5F9D7"
     },
     {
       "added_at": "2026-07-16 22:01:04",
@@ -917,6 +809,22 @@
       "url": "https://open.spotify.com/track/7gTB88HT9gkqvlWO8ajJeP"
     },
     {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "In Potlood Geskryf",
+        "url": "https://open.spotify.com/album/7E8bgZ7sFxV2GQSG3zQcqy"
+      },
+      "artists": [
+        {
+          "name": "Kris Ray",
+          "url": "https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "In Potlood Geskryf",
+      "url": "https://open.spotify.com/track/5LHPdMah1lWWOea0upLRhj"
+    },
+    {
       "added_at": "2026-06-18 22:02:14",
       "album": {
         "name": "Genadewater",
@@ -931,6 +839,22 @@
       "duration_ms": 168624,
       "name": "Genadewater",
       "url": "https://open.spotify.com/track/7rMAZdd1TPdh20bCiRBqJd"
+    },
+    {
+      "added_at": "2026-09-03 22:01:13",
+      "album": {
+        "name": "Vrees",
+        "url": "https://open.spotify.com/album/38V1l5SJZXcECv2KaaRXSb"
+      },
+      "artists": [
+        {
+          "name": "CHANTEL VAN DYK",
+          "url": "https://open.spotify.com/artist/2MR3tWcdcvpORyiZONy1ij"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Vrees",
+      "url": "https://open.spotify.com/track/69qAcLmsKMuEBfAAWhbqgq"
     },
     {
       "added_at": "2026-07-23 22:01:03",
@@ -1003,22 +927,6 @@
     {
       "added_at": "2026-07-09 22:00:55",
       "album": {
-        "name": "Duikweg Vreemdeling",
-        "url": "https://open.spotify.com/album/5lnUVTwj1FxukKnHYdcWRX"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 186176,
-      "name": "Duikweg Vreemdeling",
-      "url": "https://open.spotify.com/track/5AfbPovjjbQmBGkrT75DTS"
-    },
-    {
-      "added_at": "2026-07-09 22:00:55",
-      "album": {
         "name": "Verby Dans",
         "url": "https://open.spotify.com/album/3L2X47ndGgPRg616JYQIQK"
       },
@@ -1031,38 +939,6 @@
       "duration_ms": 147357,
       "name": "Verby Dans",
       "url": "https://open.spotify.com/track/1tCPX7OAeLdlAE4vhEz7bP"
-    },
-    {
-      "added_at": "2026-08-13 22:01:06",
-      "album": {
-        "name": "Elastisiteit",
-        "url": "https://open.spotify.com/album/7pq85UG3n27qolneeDDkHj"
-      },
-      "artists": [
-        {
-          "name": "Eric Streso",
-          "url": "https://open.spotify.com/artist/3EBdDrA15qA8un8O3pXsFi"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Elastisiteit",
-      "url": "https://open.spotify.com/track/38jUSiUBldeSONurL9ujch"
-    },
-    {
-      "added_at": "2026-07-09 22:00:55",
-      "album": {
-        "name": "Chill Pill",
-        "url": "https://open.spotify.com/album/6W1R5gqC9z6V3QlyjuMRHC"
-      },
-      "artists": [
-        {
-          "name": "Lianie May",
-          "url": "https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B"
-        }
-      ],
-      "duration_ms": 227053,
-      "name": "Chill Pill",
-      "url": "https://open.spotify.com/track/7xtcP9oTxq5ngvRuvKT9Ju"
     },
     {
       "added_at": "2026-07-09 22:00:55",
@@ -1167,22 +1043,6 @@
       "duration_ms": 208780,
       "name": "Vra Net Vir Jou",
       "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
-    },
-    {
-      "added_at": "2026-08-07 04:35:15",
-      "album": {
-        "name": "Op Soek Na Liefde",
-        "url": "https://open.spotify.com/album/6ec4erHR9PxqEgUUuW2fVi"
-      },
-      "artists": [
-        {
-          "name": "Justin Coetzee",
-          "url": "https://open.spotify.com/artist/4gtgBeq9fxIuKdgBX0DjIj"
-        }
-      ],
-      "duration_ms": 220345,
-      "name": "Op Soek Na Liefde",
-      "url": "https://open.spotify.com/track/2I2sycGvsiSYEsuwCbByO5"
     },
     {
       "added_at": "2026-07-16 22:01:04",

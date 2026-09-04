@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Winter Back\)
+> New & best K\-Electronic music is here\. \(Cover: CIFIKA\)
 
-333 songs - 18 hr 45 min
+334 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [??? \(ODD\)](https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB) | [Ki:XÉ](https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v) | [??? \(ODD\)](https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k) | 2:40 | 2025-05-20 | 2025-08-01 |
 | [@\_@](https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI) | 2:07 | 2024-04-05 | 2025-08-25 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2024-06-28 | 2026-06-23 |
-| [AGN](https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt) | [Winter Back](https://open.spotify.com/artist/7obj6hnqThkyQFP9Sq07Pk) | [Headphone Beats 2025\-2026](https://open.spotify.com/album/6F0H5yZIw2liTOAG0xLtn6) | 3:49 | 2026-08-07 |  |
+| [AGN](https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt) | [Winter Back](https://open.spotify.com/artist/7obj6hnqThkyQFP9Sq07Pk) | [Headphone Beats 2025\-2026](https://open.spotify.com/album/6F0H5yZIw2liTOAG0xLtn6) | 3:49 | 2026-08-07 | 2026-09-04 |
 | [Algorithm \(IMLAY Remix\)](https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [\[Algorithm \(Remixes\)\]](https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0) | 2:28 | 2024-09-24 | 2025-05-07 |
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
 | [All I Wanna Do](https://open.spotify.com/track/4ScfjW8eccBGFqmoaOKfND) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Point of Hue](https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF) | 6:58 | 2025-02-11 | 2025-07-02 |
@@ -147,6 +147,7 @@
 | [HAPPYEND \(Closing\) \- “Arexibo” Remix](https://open.spotify.com/track/1Tc4G0ul4vhAe3pzIYe1wj) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto), [Arexibo](https://open.spotify.com/artist/0mMVB6TJ94c6hvihOcAV13) | [Reminded of HAPPYEND](https://open.spotify.com/album/1wkWf7aTxTn0JS7R8Mqmg7) | 5:59 | 2026-06-24 | 2026-07-15 |
 | [Heart Of Steel](https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [Heart Of Steel](https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS) | 3:27 | 2024-06-28 | 2025-09-13 |
 | [HERO](https://open.spotify.com/track/5bxJv7l1QE9Qv9rpYvbSlO) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [DJ Mii](https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m) | [HERO GIRLS](https://open.spotify.com/album/0mBQNCgnsfa2hMM3NtgJxL) | 3:57 | 2026-01-23 | 2026-02-24 |
+| [HEX](https://open.spotify.com/track/5oau4lVFN4HTeKV5lL3jiP) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Old Fantasy](https://open.spotify.com/album/1ncC7Mukkb6V009qD31TVd) | 3:54 | 2026-09-04 |  |
 | [High](https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [High](https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36) | 3:25 | 2024-09-17 |  |
 | [Hold You](https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG) | [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA), [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj) | [Hold You](https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw) | 2:48 | 2024-04-05 | 2024-10-03 |
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |

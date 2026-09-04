@@ -1,13 +1,53 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: unfazed",
-  "num_followers": 117785,
+  "num_followers": 117776,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAh3QB+//eZuP6BQaJkHli5nmX881QG",
+  "snapshot_id": "AAAh30nBprUYaTNIwtnAKEHJbtHRfUOR",
   "tracks": [
+    {
+      "added_at": "2026-09-03 22:00:04",
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT"
+    },
+    {
+      "added_at": "2026-09-03 22:00:04",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3Ul23eh918yziF22bJkswP"
+    },
     {
       "added_at": "2026-08-28 06:15:42",
       "album": {

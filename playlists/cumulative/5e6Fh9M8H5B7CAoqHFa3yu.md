@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,516 songs - 6 day 4 hr 2 min
+2,518 songs - 6 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | ['Maybe I've fallen out of love with you'](https://open.spotify.com/track/3HajiMNrCFAo2VnqtZvptz) | [Tommy Snow](https://open.spotify.com/artist/7MD1sZsn15FxxsklgG5bNq) | ['Maybe I've fallen out of love with you'](https://open.spotify.com/album/4cnffIVYczSKzzhEm0u2FH) | 2:08 | 2025-06-09 |  |
 | ['O bbene 'e chesta vita](https://open.spotify.com/track/6TBieVb4PhIh12HAxDEjf0) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | ['O bbene 'e chesta vita](https://open.spotify.com/album/08sQSKlEk8tnwMP0kGQ9UX) | 3:22 | 2025-07-02 |  |
 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 | 2026-05-22 |  |
+| [1000 Dollars](https://open.spotify.com/track/6XDfS3RcnpaZ3pmeo577bZ) | [MAGIC MONDAY](https://open.spotify.com/artist/03JUoALu8i6GFdXJR0BVHT) | [1000 Dollars](https://open.spotify.com/album/5bGROZndv3uhgFGukOylre) | 4:21 | 2026-09-03 |  |
 | [1000 Mile Drift \- Adrian Sherwood Mix](https://open.spotify.com/track/7boe7zXZ1YObXa5YuX7CdF) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:50 | 2024-08-31 |  |
 | [126 Géneros](https://open.spotify.com/track/5Uw2JJzoWg25VOZp4XRHSH) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [126 Géneros](https://open.spotify.com/album/1nGEL8KNbLDl1r1DT6OG5W) | 3:55 | 2026-01-24 |  |
 | [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 | 2026-04-12 |  |
@@ -1526,6 +1527,7 @@
 | [No Me Faltes](https://open.spotify.com/track/6vRrzftD5VPE97cASRGDO6) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Me Faltes](https://open.spotify.com/album/3hCoH6JUGGzoiihYLssRVu) | 3:18 | 2026-03-30 |  |
 | [No Me Hables](https://open.spotify.com/track/2yu6eLRYCQGTlpIuMtgOV1) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sin Paris o New York](https://open.spotify.com/album/0XK7kSk0OdIHV3FrS3oyPC) | 4:15 | 2026-07-01 |  |
 | [NO ME PUEDO RENDIR](https://open.spotify.com/track/48kd0xa7KPJbOrvFzlBE2e) | [JNJ](https://open.spotify.com/artist/4ff88NG2akCbGQMhpYVV0o) | [DESDE 2022](https://open.spotify.com/album/1W9m2PNsLXU3EGFeoVeaHi) | 2:19 | 2025-05-28 |  |
+| [No more Gunmen Dub \(cut 1\)](https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 3:50 | 2026-09-03 |  |
 | [No No No](https://open.spotify.com/track/4DcJqeEsFI9q31wGoSU9fQ) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [No No No](https://open.spotify.com/album/6BueIXrNmmvd1ShZAxja7m) | 2:42 | 2025-08-06 |  |
 | [No One Like You](https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65) | [Sandi Padilla](https://open.spotify.com/artist/2iSXutDQwaCqQX7xujsUWq) | [The Frequency of Healing](https://open.spotify.com/album/2klgeDpHJWUaO4ractZY05) | 6:22 | 2025-08-12 |  |
 | [No Other Dub](https://open.spotify.com/track/1TzsrmvHTedCaLDl1UKS2t) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:32 | 2024-03-25 |  |

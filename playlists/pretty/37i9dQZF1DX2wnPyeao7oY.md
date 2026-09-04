@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,619 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,669 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Flesh and Bone](https://open.spotify.com/track/2AbOj8FBoZ17C0u3HsSiFp) | [Purified](https://open.spotify.com/artist/4PP1xBqS1H1BXen5qH6Xny) | [Flesh and Bone](https://open.spotify.com/album/5AzlgI6h3g1qJjaWEimIgu) | 2:45 |
 | 50 | [Psyche](https://open.spotify.com/track/3NiBX3eWRj1dKayryqoz5W) | [Our Chronicle](https://open.spotify.com/artist/3szC2sXLPdKUSxFmwHRhtA) | [Psyche](https://open.spotify.com/album/6DPebgfLHUR40qKEHzfxre) | 6:12 |
 
-Snapshot ID: `AAAAACP/MqPq9/Dz2rQOuUcYszHyBHmP`
+Snapshot ID: `AAAAACEHhKkUREczhXzxnAr7IusZVoL2`

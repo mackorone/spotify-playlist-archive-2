@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239586,
+  "num_followers": 239613,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAACud7OlId1+A+HUMol8RjjB",
+  "snapshot_id": "apdnAAAAAAAOXNVXaFSLmJUSUbZ8fz2A",
   "tracks": [
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Movimiento Alterado, Vol. 4",
-        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
-      },
-      "artists": [
-        {
-          "name": "Los Buitres De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Recordando a Michoacan",
-      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Movimiento Alterado, Vol. 4",
+        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Recordando a Michoacan",
+      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Se Diga M\u00e1s",
         "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
       },
@@ -875,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Quitaron la Vida a mi Padre",
-        "url": "https://open.spotify.com/album/4YA2RajdZVcFnrg2VQykF7"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
         }
       ],
-      "duration_ms": 162661,
-      "name": "Le Quitaron la Vida a mi Padre",
-      "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
     }
   ],
   "unique_name": "This Is El Komander",

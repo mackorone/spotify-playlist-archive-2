@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,875 likes - 200 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,925 likes - 200 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 199 | [Lakeside](https://open.spotify.com/track/4boESkiRPGx2bR2sLkn19N) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Lakeside](https://open.spotify.com/album/6jjX8QtyQEN6Z8H55dqUpC) | 1:43 |
 | 200 | [Kater](https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kater](https://open.spotify.com/album/1cIUKP7opzS2s3Q0uk0Oco) | 1:44 |
 
-Snapshot ID: `AAAAAJzMSy1vj/oXq4jzuwP91s3o5tSX`
+Snapshot ID: `AAAAAH5f0Dqvuj4O5qXcVZRj+Ze8j8di`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,583 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,553 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 133 | [Solitude Symphony](https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Solitude Symphony](https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw) | 4:08 |
 | 134 | [Sleep Deprivation](https://open.spotify.com/track/1xNbrJNkuEmItjwCt2dvnM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:30 |
 
-Snapshot ID: `AAAAAP+oDSHIbUW0brwP9ZG3IjVIbrR+`
+Snapshot ID: `AAAAACU5vgtiPjQEPS8F/42AmK68cDl+`

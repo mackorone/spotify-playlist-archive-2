@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,828 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,826 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 41 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 |
 | 42 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 |
 | 43 | [El Coqui](https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:18 |
-| 44 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 |
-| 45 | [Aires Navideños](https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Pa' mi Gente](https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp) | 4:45 |
+| 44 | [Aires Navideños](https://open.spotify.com/track/5aXFP07TGvWno27s3YNSS1) | [Charlie Aponte](https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7) | [Pa' mi Gente](https://open.spotify.com/album/4h29hT64GDgOUwoNbaJTsp) | 4:45 |
+| 45 | [Esta Navidad](https://open.spotify.com/track/3NvDk88G0njN98HkUg6Y7e) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [Con Tanto Cache](https://open.spotify.com/album/4VEo435ch0afkFTpXwg64Z) | 4:33 |
 | 46 | [Navidad para el pueblo](https://open.spotify.com/track/0NMKMatww8aQFrGTI88QOa) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Toño en America](https://open.spotify.com/album/3vBuyDnFfXcMORQsi1yMJe) | 4:19 |
 | 47 | [Ay, Ven en Navidad](https://open.spotify.com/track/7MiMJ4uF7MmYGEDaeMhwey) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:45 |
 | 48 | [El Rondon](https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 |
 | 100 | [El Burrito de Belen](https://open.spotify.com/track/2qAmDGh1zscmI2VHWngoFq) | [Chino Espinoza y Los Duenos del Son](https://open.spotify.com/artist/7jSIb1Ypq4ZYLYBmh39xOP) | [Ponle Salsa a Tu Navidad](https://open.spotify.com/album/4RDkbrYWX7pb7BH3lhMIC1) | 5:00 |
 
-Snapshot ID: `AAAAAD/gWHSJOYMd5q/YwUhvna08qBoH`
+Snapshot ID: `AAAAAP1kVhIAJWpvb5NAVUbHEBHDcnAC`

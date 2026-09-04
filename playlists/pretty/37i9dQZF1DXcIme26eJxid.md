@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,756 likes - 40 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,795 likes - 40 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 40 | [Sweet Mother](https://open.spotify.com/track/64XECoRdQMPInulJ9oiVfI) | [Prince Nico Mbarga & Rocafil Jazz International](https://open.spotify.com/artist/4GwFsI0S9Eb90LjF97Xz04), [Rocafil Jazz International](https://open.spotify.com/artist/1d443JHYBFPbItORt7gUvN) | [African Football Anthems, Vol\. 1](https://open.spotify.com/album/6ToF3l6wpY2xCS6FXGRF6f) | 10:02 |
 
-Snapshot ID: `AAAAAPkvHA/Qm1jMNFfP7XsKjqLq3EYm`
+Snapshot ID: `AAAAAHIoSxu318JwEJqJLtk6NvH49Rop`

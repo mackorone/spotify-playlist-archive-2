@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Lucky",
+  "description": "New and local indie noise. Cover: Ra Ra Viper",
   "name": "Local Noise",
   "tracks": [
     {
@@ -1637,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "How Much Love Have I Got Left",
+        "url": "https://open.spotify.com/album/3zL86XaQOQzSpBK7YkslOy"
+      },
+      "artists": [
+        {
+          "name": "CHEEKY LEASH",
+          "url": "https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190708,
+      "name": "Best Friend's House",
+      "url": "https://open.spotify.com/track/2q40r1POGq0BHWpJoaKIAo"
+    },
+    {
+      "album": {
         "name": "better",
         "url": "https://open.spotify.com/album/4dBRpAjGdaspvQ6w2EIW3T"
       },
@@ -1857,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Biopsy Of An Unknown Growth",
+        "url": "https://open.spotify.com/album/3nglPLhNIlSz7lESpTIbSk"
+      },
+      "artists": [
+        {
+          "name": "HEADSEND",
+          "url": "https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250139,
+      "name": "Biopsy Of An Unknown Growth",
+      "url": "https://open.spotify.com/track/30SbHtWe8LROWaPQ6NQtKK"
+    },
+    {
+      "album": {
         "name": "Ask me again next year",
         "url": "https://open.spotify.com/album/7wVXyg1PByrbx2tIyBatrz"
       },
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195333,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/0BSmfFgnlfWoLYY8h8bzhe"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194552,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2083CrLuKn9CWQU3R75In8"
@@ -7195,6 +7231,24 @@
     },
     {
       "album": {
+        "name": "HAD YOUR WAY",
+        "url": "https://open.spotify.com/album/6qUkKpNIKgpKdBVT86ykSS"
+      },
+      "artists": [
+        {
+          "name": "Spike Fuck",
+          "url": "https://open.spotify.com/artist/1BCTAGmHZ4djDWQ0KtfKdZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "HAD YOUR WAY",
+      "url": "https://open.spotify.com/track/0tYByGQUZvtILNCMqrkHpH"
+    },
+    {
+      "album": {
         "name": "Half Asleep Behind the Wheel",
         "url": "https://open.spotify.com/album/28AsiDbhfcCgPTY26WmHqn"
       },
@@ -7210,7 +7264,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 212081,
       "name": "Half Asleep Behind the Wheel",
       "url": "https://open.spotify.com/track/0LMnkc15gLwY34F41sy6df"
@@ -7264,10 +7318,32 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 213395,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/53oAPCPAZlaMGGKqDnrL5D"
+    },
+    {
+      "album": {
+        "name": "UNDENIABLE",
+        "url": "https://open.spotify.com/album/4FiUoGaLvYARfgMG2K3qba"
+      },
+      "artists": [
+        {
+          "name": "ILLAN KAAPAN",
+          "url": "https://open.spotify.com/artist/1pMwGxFxWKzqkHHgaYrpZ4"
+        },
+        {
+          "name": "TIMEPEACE",
+          "url": "https://open.spotify.com/artist/3NAGEPAJPqjlh5QP1lDf8C"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144182,
+      "name": "HAND IN HAND",
+      "url": "https://open.spotify.com/track/6M96hhAHp58G0FKL2pZH1H"
     },
     {
       "album": {
@@ -8234,7 +8310,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 185572,
       "name": "Hurracane",
       "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
@@ -8724,7 +8800,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 228000,
       "name": "In Spite Of",
       "url": "https://open.spotify.com/track/5e1bcco2t7LBJ4qYyFTSwE"
@@ -9106,6 +9182,24 @@
       "duration_ms": 248849,
       "name": "JOY",
       "url": "https://open.spotify.com/track/7gseRradPwugHQ68OKLK4t"
+    },
+    {
+      "album": {
+        "name": "Juice A Jumbo Jet",
+        "url": "https://open.spotify.com/album/3MDvb0nm9ZuSTvNnFVmbnK"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291873,
+      "name": "Juice A Jumbo Jet",
+      "url": "https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k"
     },
     {
       "album": {
@@ -12996,7 +13090,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 147230,
       "name": "perfectly calm",
       "url": "https://open.spotify.com/track/16bECm1tkOrHvDU4J9G994"
@@ -13656,6 +13750,24 @@
       "duration_ms": 128916,
       "name": "RAINED OFF",
       "url": "https://open.spotify.com/track/1TX3yGKnupf5TBNKJuk1Vm"
+    },
+    {
+      "album": {
+        "name": "Ramona, Again",
+        "url": "https://open.spotify.com/album/0ujn3IH6GMB8jzPTNEnOon"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206623,
+      "name": "Ramona, Again",
+      "url": "https://open.spotify.com/track/22JLm8VcNSWxmdy6CWOnrk"
     },
     {
       "album": {
@@ -14412,7 +14524,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 259834,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/3fQLQSOhijzOC6W1NPhYle"
@@ -15107,6 +15219,24 @@
     },
     {
       "album": {
+        "name": "shg",
+        "url": "https://open.spotify.com/album/3THuvZ1ikdxlU8O36Rfhu4"
+      },
+      "artists": [
+        {
+          "name": "koady",
+          "url": "https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150933,
+      "name": "shg",
+      "url": "https://open.spotify.com/track/3joFQakfyBFzhZqLc7gqxb"
+    },
+    {
+      "album": {
         "name": "shirt song",
         "url": "https://open.spotify.com/album/1bwySi6XTR537IThrVMXte"
       },
@@ -15590,7 +15720,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179133,
       "name": "Sleep In It",
       "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
@@ -16138,7 +16268,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 256799,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/4MMzfqnOGo4DzG3HQtGfBy"
@@ -17007,6 +17137,24 @@
     },
     {
       "album": {
+        "name": "The Great Rarier Beef",
+        "url": "https://open.spotify.com/album/7FK9w6uFkRP1462zdE2N6P"
+      },
+      "artists": [
+        {
+          "name": "The Beefs",
+          "url": "https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "Take My Advice",
+      "url": "https://open.spotify.com/track/56kYfxM3fhM2j6GfnDrfOX"
+    },
+    {
+      "album": {
         "name": "Taking On Water",
         "url": "https://open.spotify.com/album/6zJRXO2bxIIZkUufs4uzEq"
       },
@@ -17389,6 +17537,24 @@
     },
     {
       "album": {
+        "name": "Making Room For Others",
+        "url": "https://open.spotify.com/album/4K4cRXMR8DarntrQ7OyPy1"
+      },
+      "artists": [
+        {
+          "name": "Civic Video",
+          "url": "https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295800,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/3MukT01dgEUorBAvhVRhhB"
+    },
+    {
+      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/5iRCN2qjX37tvNdGlBJ3Dk"
       },
@@ -17642,6 +17808,24 @@
       "duration_ms": 238800,
       "name": "The Lawn",
       "url": "https://open.spotify.com/track/3NfOkOWIqDTD2IubvHihUH"
+    },
+    {
+      "album": {
+        "name": "The Local Drug Front",
+        "url": "https://open.spotify.com/album/0E6Klypuxw6Wiizr4KEKhb"
+      },
+      "artists": [
+        {
+          "name": "STUMPS",
+          "url": "https://open.spotify.com/artist/5VTNPMxFc3xPrKZsUzSvsM"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148818,
+      "name": "The Local Drug Front",
+      "url": "https://open.spotify.com/track/7uIcvAmCTcOUfRThVWZoU9"
     },
     {
       "album": {
@@ -18381,6 +18565,24 @@
     },
     {
       "album": {
+        "name": "Enjoy Your Problems",
+        "url": "https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk"
+      },
+      "artists": [
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ"
+    },
+    {
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00"
       },
@@ -19088,7 +19290,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 215000,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2XZQSem0XYvKPssxUNIPO1"

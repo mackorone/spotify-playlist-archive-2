@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,530 likes - 200 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,702 likes - 200 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Golden Chain](https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Golden Chain](https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly) | 2:49 |
 | 200 | [Happy Anniversary, Stranger](https://open.spotify.com/track/2PfEJ9Iqa0HU5Nw5iwXTmq) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:54 |
 
-Snapshot ID: `AAAAANkdukXxhf3f4wmetUfC6Y7iFnhc`
+Snapshot ID: `AAAAAHZVMoNn2j63NznLvxQbRywuAC+A`

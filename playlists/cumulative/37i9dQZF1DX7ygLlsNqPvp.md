@@ -2,9 +2,9 @@
 
 ### [Asakaa](https://open.spotify.com/playlist/37i9dQZF1DX7ygLlsNqPvp)
 
-> The most intense local drill music firing up the continent\. Cover:  O'Kenneth
+> The most intense local drill music firing up the continent\. Cover:  Black Sherif
 
-308 songs - 15 hr 17 min
+309 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/track/4JFvMJhj0IItMMOosrxEJY) | [FREE THE YOUTH](https://open.spotify.com/artist/0DtFQ5ZCavMbEf4jmYsgui), [Lil Skid](https://open.spotify.com/artist/1e9JfhpBsf4VF51AWObUBa), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [FREEEE \(feat\. Lil Skid & Bosom P\-Yung\)](https://open.spotify.com/album/27UWJ4EXmYP7pg6B9Aehxp) | 2:59 | 2025-02-28 | 2025-04-01 |
 | [Frodo Baggins](https://open.spotify.com/track/6psxms6SF70V1tnuKc6wUl) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/0lGiu4Pd2R1BWhXRir1Dbb) | 4:35 | 2023-01-13 | 2024-03-15 |
 | [Frodo Baggins](https://open.spotify.com/track/1tANLsAscqWcdbEg7GzgSo) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Nova Blaq](https://open.spotify.com/artist/29gIzlEu6SIVC6ibRZagNb) | [Bar 6](https://open.spotify.com/album/7tXVr3QOLpz8xUiXLbbpgs) | 4:36 | 2022-06-09 | 2023-02-26 |
+| [Frontline](https://open.spotify.com/track/2z4BvfN4Ce4kwnAFLvq9EV) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 2:56 | 2026-09-04 |  |
 | [Gagging](https://open.spotify.com/track/13MdYCDGb9vSdgrYeF77Kv) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Gagging](https://open.spotify.com/album/3TmImBXEyLpj4fSP81HAX8) | 3:00 | 2025-02-28 | 2025-05-09 |
 | [Gang Gathering](https://open.spotify.com/track/1h0kDUu2SmI5m9U7lAlJ2b) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Gang Gathering](https://open.spotify.com/album/0ZobBrKJGD69Wua05SYZa5) | 3:28 | 2025-05-16 | 2026-01-15 |
 | [Geeking](https://open.spotify.com/track/0GjTn5yPi4Q1dbAB4eG58l) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Yung NB](https://open.spotify.com/artist/7cQQiXUacVNG0rFe5GHylS), [21 Kelly](https://open.spotify.com/artist/7uozBRpWxw952UW2nMf9Qo) | [Geeking](https://open.spotify.com/album/5Oce1ZPus8wESW3UqL5Af0) | 2:15 | 2026-05-01 | 2026-05-19 |

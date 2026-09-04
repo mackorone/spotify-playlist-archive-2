@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,961 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,997 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 99 | [Thankful \(7.6.19\)](https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Thankful \(7.6.19\)](https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX) | 2:32 |
 | 100 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 |
 
-Snapshot ID: `AAAAAFqta0CvXjtl3ULWjNVD3ZNLwvBv`
+Snapshot ID: `AAAAAAmdI8PKn5y71df2uHvKfg18cn70`

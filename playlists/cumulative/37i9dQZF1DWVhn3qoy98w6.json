@@ -15402,6 +15402,24 @@
     {
       "album": {
         "name": "Azul",
+        "url": "https://open.spotify.com/album/4vtEjEeynMBz3JiAoU8SZu"
+      },
+      "artists": [
+        {
+          "name": "Junio",
+          "url": "https://open.spotify.com/artist/0dDocNwgvOhqIGYYO50Ew8"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186513,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/09wFZTljEFzOvXXCJseHQP"
+    },
+    {
+      "album": {
+        "name": "Azul",
         "url": "https://open.spotify.com/album/1r0duCuGvCX0dclZLE6C5z"
       },
       "artists": [
@@ -123643,6 +123661,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 nombre, qu\u00e9 cara, qu\u00e9 rara",
+        "url": "https://open.spotify.com/album/7dVEIE2SvN4WToTjeLNsP0"
+      },
+      "artists": [
+        {
+          "name": "Xerach",
+          "url": "https://open.spotify.com/artist/22xGQrjGoc0Mx9erdz4KfW"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177548,
+      "name": "Qu\u00e9 nombre, qu\u00e9 cara, qu\u00e9 rara",
+      "url": "https://open.spotify.com/track/61RkUDqdl3YZERVTo6LUP0"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Pereza",
         "url": "https://open.spotify.com/album/0BhI2Io7GPgyaZkPXT6anZ"
       },
@@ -150370,6 +150406,24 @@
       "duration_ms": 171692,
       "name": "T\u00fa me jodiste",
       "url": "https://open.spotify.com/track/0sQsn7M7i0STKVCdzjGk6H"
+    },
+    {
+      "album": {
+        "name": "T\u00fa m\u00e1s",
+        "url": "https://open.spotify.com/album/6JMZQRP1WJUL3UsjJKZzKL"
+      },
+      "artists": [
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/77SXVwlcNRv5y0jxaCtjr6"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162883,
+      "name": "T\u00fa m\u00e1s",
+      "url": "https://open.spotify.com/track/0spLvCo2TYEkPXuYGq7L1S"
     },
     {
       "album": {

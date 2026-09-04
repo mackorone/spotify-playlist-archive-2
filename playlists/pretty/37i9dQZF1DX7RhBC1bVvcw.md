@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RhBC1bVvcw.md) - [plain]
 
 > 드라마 대사와 함께 더 몰입감 있게 작품의 사운드 트랙을 감상해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 15 songs - 27 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 15 songs - 27 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RhBC1bVvcw.md) - [plain]
 | 14 | [Everything will be fine](https://open.spotify.com/track/7yKNNZYdCh6CHMqbhwFzsV) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [We Are All Trying Here \(Original Soundtrack\) Part.7](https://open.spotify.com/album/0U9RM8BIurxrFBVL4z7oob) | 3:46 |
 | 15 | [대사8 \(Line 8\)](https://open.spotify.com/track/2rXFJ25FPSwWYjMA95M60M) | [모두가 자신의 무가치함과 싸우고 있다](https://open.spotify.com/artist/4hbfRZL7JZ2KprsosaYUwH) | [모두가 자신의 무가치함과 싸우고 있다: Audio Liner](https://open.spotify.com/album/4Iy28z9UPTXnxXg2lTvEPe) | 0:04 |
 
-Snapshot ID: `AAAAAA0vdPeoEg4W/JauOl6ZqeE1zC/H`
+Snapshot ID: `AAAAAKHm9eFFTPJ3S08fufoel/v+H7q+`

@@ -1,12 +1,12 @@
 {
   "description": "\u26b8\u26b8\u26b8 a journey into the unknown, dark, and experimental \u26b8\u26b8\u26b8 featuring Marina Herlop",
-  "num_followers": 252372,
+  "num_followers": 252379,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuXChn0cCKCeNvQPb+gS0DJR1nR",
+  "snapshot_id": "AAAAANnhX79ehPxFRSs2a9RXZoaXi9rl",
   "tracks": [
     {
       "added_at": "2026-08-03 08:02:19",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-08-03 08:02:19",
       "album": {
-        "name": "Jard\u00edn de Planetas",
-        "url": "https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
-        }
-      ],
-      "duration_ms": 374422,
-      "name": "Jard\u00edn de Planetas",
-      "url": "https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x"
-    },
-    {
-      "added_at": "2026-08-03 08:02:19",
-      "album": {
         "name": "Grief",
         "url": "https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 272000,
       "name": "Grief",
       "url": "https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt"
+    },
+    {
+      "added_at": "2026-08-03 08:02:19",
+      "album": {
+        "name": "Jard\u00edn de Planetas",
+        "url": "https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+        }
+      ],
+      "duration_ms": 374422,
+      "name": "Jard\u00edn de Planetas",
+      "url": "https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x"
     },
     {
       "added_at": "2026-08-03 08:02:19",

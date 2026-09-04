@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,137 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,768 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Varsham Munduga](https://open.spotify.com/track/0LZVBuMjBypnzwHLNQVSnv) | [Joshua Sridhar](https://open.spotify.com/artist/43IDw3YzwADpAkdEzP81SZ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80), [Suzanne](https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF) | [Sega](https://open.spotify.com/album/39pfWQJrvXW7AdtQDi8BbG) | 4:27 |
 | 50 | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5) | 3:13 |
 
-Snapshot ID: `AAAAAJHb/9gMjqBgL9X/GantM1qj/7+W`
+Snapshot ID: `AAAAAMmM3wlCu7NgU/nLQUIedIEnkzfS`

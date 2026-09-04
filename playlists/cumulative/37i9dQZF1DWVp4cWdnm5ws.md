@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: HEY JUNE!
+> Introducing RADAR Philippines Cast of 2026\. Cover: Chezka
 
-355 songs - 21 hr 1 min
+356 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Higa](https://open.spotify.com/track/63qA4ydokzNOFpsaNlsYsC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 4:05 | 2021-11-25 | 2022-03-25 |
 | [Himala](https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Himala](https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL) | 4:21 | 2021-11-25 | 2022-03-25 |
 | [Hindi Ko Kaya](https://open.spotify.com/track/5DAVHXdtJfSoz2uyPyzZUo) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Hindi Ko Kaya](https://open.spotify.com/album/1XMlZH0h8IWOlILf1ylOsN) | 3:16 | 2021-11-25 | 2022-03-25 |
+| [Hit and Run](https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Hit and Run](https://open.spotify.com/album/4XYA6GKi56VFiF2PQcB4Gk) | 3:33 | 2026-09-04 |  |
 | [hiwaga](https://open.spotify.com/track/4ZNYQe3qM4BhCUCuVzlJ8m) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [hiwaga](https://open.spotify.com/album/3uGR2NMYPz4AkbOdp78zFT) | 3:29 | 2021-11-25 | 2022-03-25 |
 | [Home](https://open.spotify.com/track/6bDW6rxCjoxk8wcrkevKXL) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Home](https://open.spotify.com/album/0pm3nGgzGYqIpbvdPR4M3a) | 3:54 | 2025-07-14 | 2026-04-07 |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-04-02 | 2025-03-28 |

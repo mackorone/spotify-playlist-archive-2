@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-1,761 songs - 3 day 8 hr 54 min
+1,762 songs - 3 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-31 | 2023-12-15 |
 | [BAD MOOD](https://open.spotify.com/track/5ush1W9PbAhCaW9TZIjzun) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [gothskyler](https://open.spotify.com/artist/5Icn4IrF6ZRh3SOshHAsJx) | [BAD MOOD](https://open.spotify.com/album/2IRdvbkfv7mYJcVYuK6Zgm) | 2:16 | 2024-06-06 | 2024-06-28 |
 | [Baggen](https://open.spotify.com/track/4amQQ9Z5pHo2kpe3jUK47T) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Baggen](https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W) | 3:09 | 2023-10-12 | 2024-03-22 |
-| [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 | 2026-01-23 |  |
+| [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 | 2026-01-23 | 2026-09-04 |
 | [Balleremo](https://open.spotify.com/track/4cjGNHTLNQ2XWtnV3vbhgr) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [Balleremo](https://open.spotify.com/album/1NkMN4kEtsUwir8JRum22H) | 3:19 | 2026-05-28 | 2026-06-19 |
 | [BAMBINA IN DISCOTECA](https://open.spotify.com/track/5xgYbfxberTCnMlMrnmGHh) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [BAMBINA IN DISCOTECA](https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1) | 2:09 | 2022-12-08 | 2022-12-24 |
 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 | 2022-12-22 | 2023-01-13 |
@@ -1506,6 +1506,7 @@
 | [Strappami il Cuore](https://open.spotify.com/track/1Y5D0a5RatG4WXjGWqfFF7) | [Scaglia](https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7) | [Strappami il Cuore](https://open.spotify.com/album/4pt1RtKgITuqEjnn6TyzE2) | 2:22 | 2023-05-11 | 2023-07-14 |
 | [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2022-05-06 | 2024-06-07 |
 | [STRESS](https://open.spotify.com/track/1qLJupRlpqolbKNnrVDp9x) | [DIREI](https://open.spotify.com/artist/1xvnIuvn8DLzSwlKRT74IY) | [STRESS](https://open.spotify.com/album/62ObkL6tzkrz1yNXkPBFvE) | 3:13 | 2024-06-13 | 2024-09-20 |
+| [STRIPPER](https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [STRIPPER](https://open.spotify.com/album/4YC00XnYhLvJpj54BIyzLM) | 1:54 | 2026-09-03 |  |
 | [Strobo](https://open.spotify.com/track/4Ftvl0UNFtVleWuo7dz061) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Strobo](https://open.spotify.com/album/3fMYjsVrP2VYmFSLnxZx5V) | 2:55 | 2025-03-20 | 2025-06-27 |
 | [Strongly Worded Letter](https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Strongly Worded Letter](https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9) | 2:18 | 2023-07-20 | 2023-08-11 |
 | [STRONZA](https://open.spotify.com/track/7i1bSbQSkfRrTqYSgghQbU) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [STRONZA](https://open.spotify.com/album/5HHARSWrbV5A5VLLRttymd) | 2:48 | 2026-03-19 | 2026-04-03 |

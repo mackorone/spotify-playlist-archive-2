@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,720 likes - 150 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,763 likes - 150 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 149 | [I Loves You, Porgy](https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE) | [Norma Winstone](https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5) | [Like Song, Like Weather](https://open.spotify.com/album/7AdnrCG683BZgTuuoJ2dfg) | 6:06 |
 | 150 | [May I Come In](https://open.spotify.com/track/51NfTuAXFJrNzIfaGsR5hD) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [May I Come In](https://open.spotify.com/album/6y82IM329PZUfWZ0HiFiup) | 5:10 |
 
-Snapshot ID: `AAAAAGA/yMA2Vi2mbUMtbffVLvgtZNId`
+Snapshot ID: `AAAAAA6KM6lNgRvSu7z4o3qqsI9e2JAe`

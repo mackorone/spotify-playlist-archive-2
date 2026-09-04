@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,991 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,835 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 114 | [1204](https://open.spotify.com/track/46TxZmfZdm2FBku9B0cSnG) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [1204](https://open.spotify.com/album/6w9zniCbXkVsVCMCHdSRQx) | 3:55 |
 | 115 | [2+2](https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [2+2](https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG) | 3:18 |
 
-Snapshot ID: `AAAAAGkzQ12SosKgSpA9Ef6bXxisNt4v`
+Snapshot ID: `AAAAAH74KEdVMJQQCAYiMwzhVeKvmBDl`

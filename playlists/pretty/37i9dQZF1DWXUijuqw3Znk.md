@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 99 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 |
 | 100 | [APOLOGY](https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:23 |
 
-Snapshot ID: `AAAAAJjDUIvNO7mia3nAru3NA3LxX2NH`
+Snapshot ID: `AAAAAOVmNJophUga7EGKhGWS18EjNzSe`

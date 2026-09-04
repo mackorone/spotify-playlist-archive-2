@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 
 > The Biggest Afrobeats festival in World
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,937 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,018 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 | 99 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
 | 100 | [Who You Epp \(feat\. Wande Coal & Phyno\)](https://open.spotify.com/track/2zNnAhKK2RGJ3PF9cHF2Zh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Phyno](https://open.spotify.com/artist/1Zj017W6N6SmZRLS4ODpjS) | [The Glory](https://open.spotify.com/album/6z6r9RgyDDp35cfOAixpvq) | 3:52 |
 
-Snapshot ID: `AAAAACSZocyQ8Z0Yme9TAVL5dFxFTqu2`
+Snapshot ID: `AAAAAHxHM7z/QPlS1idBS+MV4TQs6AQf`

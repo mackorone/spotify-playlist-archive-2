@@ -5306,7 +5306,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 242666,
       "name": "Kaadhal Mazhai",
       "url": "https://open.spotify.com/track/4Y30WM8dndBVZQohdrM81d"
@@ -6297,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Kadhali",
+        "url": "https://open.spotify.com/album/4bfBOMy3IesXkGgfpO8b0K"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vinod",
+          "url": "https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy"
+        },
+        {
+          "name": "Vishnu Prasad",
+          "url": "https://open.spotify.com/artist/0mp6Aq2o1sTlst2kLmCtNC"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194295,
+      "name": "Kadhali",
+      "url": "https://open.spotify.com/track/3HKnrd56ymiij3smSjsRoF"
+    },
+    {
+      "album": {
         "name": "Kadhara Kadhara Oru Kaadhaal",
         "url": "https://open.spotify.com/album/5VhJAITlwZo0ndcBysOQnb"
       },
@@ -6400,7 +6422,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 154186,
       "name": "Kallaatam",
       "url": "https://open.spotify.com/track/0zYffmclu4HJoeFZusAE3Q"
@@ -7878,6 +7900,24 @@
       "duration_ms": 288000,
       "name": "Kullama",
       "url": "https://open.spotify.com/track/1tUbPKPSj05LI309xJ1Fid"
+    },
+    {
+      "album": {
+        "name": "Kutty Ulagam",
+        "url": "https://open.spotify.com/album/0LcsIwoh5hNdP6VKfSwK8m"
+      },
+      "artists": [
+        {
+          "name": "Zhagaran sethu",
+          "url": "https://open.spotify.com/artist/543tJ8IQ1VsXFyZDya6JHw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177662,
+      "name": "Kutty Ulagam",
+      "url": "https://open.spotify.com/track/5PuWh6Eh9csA6lewCQ9CoO"
     },
     {
       "album": {
@@ -10966,7 +11006,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169437,
       "name": "Nikkath\u00e9",
       "url": "https://open.spotify.com/track/4TLjttDPZsTzPe2KLtngtl"
@@ -12030,6 +12070,36 @@
       "duration_ms": 208800,
       "name": "Oruvan Varuvan",
       "url": "https://open.spotify.com/track/6HkWmT4Kb5dha2URWxl36W"
+    },
+    {
+      "album": {
+        "name": "Ottaa Kili",
+        "url": "https://open.spotify.com/album/0D8bnRSno6JO9bm96kJZ1k"
+      },
+      "artists": [
+        {
+          "name": "Arif Ansar",
+          "url": "https://open.spotify.com/artist/3nkD8hzJSx5c4sfx2Pg309"
+        },
+        {
+          "name": "Yadu Krishnan K",
+          "url": "https://open.spotify.com/artist/1I6YuaNMRm0Jf8WWcSpfyz"
+        },
+        {
+          "name": "Nihara Harsh",
+          "url": "https://open.spotify.com/artist/7ftjIGY3IRCc1wnMGggNMa"
+        },
+        {
+          "name": "Ahamed Shyam",
+          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216425,
+      "name": "Ottaa Kili",
+      "url": "https://open.spotify.com/track/4r7O9WhyMeDJ7RGEoCYpei"
     },
     {
       "album": {

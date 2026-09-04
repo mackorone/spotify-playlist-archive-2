@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,173 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,294 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [growing pains](https://open.spotify.com/track/4WeCo6hl3XULFtcDqhIQkp) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8), [Jake Hansen](https://open.spotify.com/artist/1hIkaJxaj6hvoIbVR5cvP3) | [growing pains](https://open.spotify.com/album/2lRJ5ZXkcEWk27SIrksfgH) | 3:25 |
 | 75 | [Let Them See You](https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Weeks Revival](https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE) | 3:56 |
 
-Snapshot ID: `AAAAABMy+IM8OnoQxm1U5TQXG4PbJywH`
+Snapshot ID: `AAAAAHvXMSVEDuaDlQ6YP/768jCVEfmh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,504 likes - 144 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,582 likes - 144 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 143 | [chim](https://open.spotify.com/track/5XvMaCt17K5caQwsx8izP3) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [nghỉ ngơi](https://open.spotify.com/album/19PgLS9BeYBBr6yo1SuTrR) | 2:28 |
 | 144 | [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 |
 
-Snapshot ID: `AAAAAGlWVSY7WdtQevNm1840WQRaRrvM`
+Snapshot ID: `AAAAABLGdBVzfbQud3HSebaiJeimy8y6`

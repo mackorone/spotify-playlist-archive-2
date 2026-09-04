@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 186591,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4NFAsjGOjZ29JKvbCaA5mz"
@@ -7561,6 +7561,28 @@
     },
     {
       "album": {
+        "name": "pa ke te enamores",
+        "url": "https://open.spotify.com/album/47QS3PmUvE2uaaqlHAGEZP"
+      },
+      "artists": [
+        {
+          "name": "Turde",
+          "url": "https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU"
+        },
+        {
+          "name": "Sneaky wh",
+          "url": "https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117351,
+      "name": "pa ke te enamores",
+      "url": "https://open.spotify.com/track/0qsse49O6abs5bVAUC3pu8"
+    },
+    {
+      "album": {
         "name": "Pa La Playita",
         "url": "https://open.spotify.com/album/1bDDpIDQCKSB9J46d5fpcP"
       },
@@ -10226,7 +10248,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 228053,
       "name": "Uff Baby",
       "url": "https://open.spotify.com/track/0gmBeRHQWPiL9dkNs8FsDo"
@@ -10274,6 +10296,28 @@
       "duration_ms": 220702,
       "name": "Un Beso Menos",
       "url": "https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK"
+    },
+    {
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/4ZoWpVXLtBtvJdOadV4mXu"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Underaiki",
+          "url": "https://open.spotify.com/artist/0PVXQpnvEogkTBCnMJiliA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/4LCLxc1ySgm5qNqkSmmtlT"
     },
     {
       "album": {

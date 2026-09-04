@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 34 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 |
 | 35 | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/track/4eP9Et7gkdPf6eeCRNal75) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/album/1P4e2cMIcjR9zM709Bd8QY) | 3:56 |
 | 36 | [Inside Out](https://open.spotify.com/track/5lHndfQNCimM1zHRgJiQCA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:37 |
-| 37 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
-| 38 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 |
+| 37 | [California Gurls](https://open.spotify.com/track/0UIOvoQGJxydXVBGQo85qJ) | [Rio Branco](https://open.spotify.com/artist/3n4PootMSIDqpViSB9SA1D) | [Bossa Nova Covers \(Vol\. 4\)](https://open.spotify.com/album/2TQn2mu1GZNRDwAXLzkGB8) | 4:02 |
+| 38 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
 | 39 | [Guilty Pleasure](https://open.spotify.com/track/6OeglDMxrFvhmHxegrNLz2) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [¡Viva la Cobra!](https://open.spotify.com/album/5hJuFOrpXDXHtBmAHnAvua) | 3:22 |
 | 40 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 |
 | 41 | [Forever Drunk](https://open.spotify.com/track/2owL06IrgS4toOcQDCzvgI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Chapter 1: Singles Collection](https://open.spotify.com/album/6w38zCie2cfb5T1nhMZqY4) | 3:10 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 146 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 | 147 | [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 |
 
-Snapshot ID: `AcbQvAAAAADZJEm2wC3d0Br54Q5AAiVx`
+Snapshot ID: `AcbWUgAAAAAXsQEYFIHodDV4Ei6wu+JZ`

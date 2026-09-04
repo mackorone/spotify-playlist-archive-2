@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,693 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,642 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,21 +81,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 71 | [ハイメンテナンスガール](https://open.spotify.com/track/08wiYF42f2wVoEW0xZfzAl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ハイメンテナンスガール](https://open.spotify.com/album/3T0JjpxWBEzCQ2Qv8KzzcQ) | 3:29 |
 | 72 | [CRIMSON BULLET](https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CRIMSON BULLET](https://open.spotify.com/album/22BbEtt6cGo4diABXKfUhC) | 3:42 |
 | 73 | [BREAK IT](https://open.spotify.com/track/3ocRE4rjwPl3sLGrjraVJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [BREAK IT](https://open.spotify.com/album/7aA46xGZl0Sef4BumlxQ1e) | 3:10 |
-| 74 | [「ねえ、言っちゃうよ。」](https://open.spotify.com/track/4LFUsQRWgtuiKJ6oXkj0V9) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [アオワイファイ](https://open.spotify.com/artist/26GOjmK4PXXHaRArHl61IN) | [「ねえ、言っちゃうよ。」](https://open.spotify.com/album/14kMFgfCFcoQBzPEwjiv6N) | 3:56 |
-| 75 | [NEW GAME](https://open.spotify.com/track/5737EHlVX7lgite3eziaS6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [NEW GAME](https://open.spotify.com/album/54zJD3TJzGjPVwc9B0UbbS) | 3:09 |
-| 76 | [縁のつき](https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl) | [KI\_EN](https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5) | [縁のつき](https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ) | 3:36 |
-| 77 | [貸しっぱなしデスティニー](https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [貸しっぱなしデスティニー/また帰ってきたケロッ！とマーチ](https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ) | 4:37 |
-| 78 | [All in](https://open.spotify.com/track/3B2FmUgXzhzIyTZFDtLDFy) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [All in](https://open.spotify.com/album/1miPzCysreRcRYRQzeYsrp) | 2:55 |
-| 79 | [Power of Love](https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Power of Love](https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ) | 3:40 |
-| 80 | [コニファー](https://open.spotify.com/track/0xiPPtrQgUp9dB0Z3oQ3x8) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [コニファー](https://open.spotify.com/album/44W6rIo0iB8w2337QadDL6) | 3:39 |
-| 81 | [FLASHBULB](https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [FLASHBULB](https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ) | 3:39 |
-| 82 | [ナンセンスナンセンス](https://open.spotify.com/track/1jGaAEq1siWBT18msX0zfJ) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ナンセンスナンセンス](https://open.spotify.com/album/6iS55LaBQjNaUmqdEZhls4) | 2:34 |
-| 83 | [ばけもん](https://open.spotify.com/track/2Og2WwWWnBUoMiRnFBKVAA) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ばけもん](https://open.spotify.com/album/29F4dvRCBdSNRIo4Ys8n4N) | 3:01 |
-| 84 | [BAD遺伝子](https://open.spotify.com/track/7w8u8jKTZXDsP6Q1t7IsuF) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [BAD遺伝子](https://open.spotify.com/album/2m5fFSp0qAEPinuAiqOOew) | 3:14 |
-| 85 | [最終回](https://open.spotify.com/track/0ATR6bl67k4HkMXLZkaYtQ) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [最終回](https://open.spotify.com/album/0T9Z353OEXq2nrxWIYzkMw) | 3:33 |
-| 86 | [Summer Challenger](https://open.spotify.com/track/6z4V5L4qXritj0Fj1vB2n4) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [Summer Challenger](https://open.spotify.com/album/14NNQ5xMlTIftrbTJ2CQuL) | 3:50 |
-| 87 | [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 |
-| 88 | [名もない花](https://open.spotify.com/track/5MJ5jKJzPNY6IGy6n3gOxn) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [名もない花](https://open.spotify.com/album/6Py3TyeCO6hmdwHMHjnCFP) | 3:02 |
+| 74 | [NEW GAME](https://open.spotify.com/track/5737EHlVX7lgite3eziaS6) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [NEW GAME](https://open.spotify.com/album/54zJD3TJzGjPVwc9B0UbbS) | 3:09 |
+| 75 | [縁のつき](https://open.spotify.com/track/4HKI2WOBDlU57LU3oJzkBl) | [KI\_EN](https://open.spotify.com/artist/61fVCsjkagnYxQi1aWxDf5) | [縁のつき](https://open.spotify.com/album/4lsW9YJ71AIEXx1FWL7nXZ) | 3:36 |
+| 76 | [貸しっぱなしデスティニー](https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [貸しっぱなしデスティニー/また帰ってきたケロッ！とマーチ](https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ) | 4:37 |
+| 77 | [All in](https://open.spotify.com/track/3B2FmUgXzhzIyTZFDtLDFy) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [All in](https://open.spotify.com/album/1miPzCysreRcRYRQzeYsrp) | 2:55 |
+| 78 | [Power of Love](https://open.spotify.com/track/2FIj9489cK9Mi3LINRHvJ9) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Power of Love](https://open.spotify.com/album/46Miq2i2gRZrOT48q9rLBQ) | 3:40 |
+| 79 | [コニファー](https://open.spotify.com/track/0xiPPtrQgUp9dB0Z3oQ3x8) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [コニファー](https://open.spotify.com/album/44W6rIo0iB8w2337QadDL6) | 3:39 |
+| 80 | [FLASHBULB](https://open.spotify.com/track/5ctRwWDnQxNtAS7wVjbuZj) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [FLASHBULB](https://open.spotify.com/album/2Ab8Cerp6XYaiKEs2K3vPZ) | 3:39 |
+| 81 | [ナンセンスナンセンス](https://open.spotify.com/track/1jGaAEq1siWBT18msX0zfJ) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ナンセンスナンセンス](https://open.spotify.com/album/6iS55LaBQjNaUmqdEZhls4) | 2:34 |
+| 82 | [ばけもん](https://open.spotify.com/track/2Og2WwWWnBUoMiRnFBKVAA) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ばけもん](https://open.spotify.com/album/29F4dvRCBdSNRIo4Ys8n4N) | 3:01 |
+| 83 | [BAD遺伝子](https://open.spotify.com/track/7w8u8jKTZXDsP6Q1t7IsuF) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [BAD遺伝子](https://open.spotify.com/album/2m5fFSp0qAEPinuAiqOOew) | 3:14 |
+| 84 | [最終回](https://open.spotify.com/track/0ATR6bl67k4HkMXLZkaYtQ) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [最終回](https://open.spotify.com/album/0T9Z353OEXq2nrxWIYzkMw) | 3:33 |
+| 85 | [Summer Challenger](https://open.spotify.com/track/6z4V5L4qXritj0Fj1vB2n4) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [Summer Challenger](https://open.spotify.com/album/14NNQ5xMlTIftrbTJ2CQuL) | 3:50 |
+| 86 | [終わらない夜の守り方](https://open.spotify.com/track/4NlW2LywhAPqGP3WE6P6VZ) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [終わらない夜の守り方](https://open.spotify.com/album/7CsjZDN9lF8qoKcALpt2xs) | 4:04 |
+| 87 | [名もない花](https://open.spotify.com/track/5MJ5jKJzPNY6IGy6n3gOxn) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [名もない花](https://open.spotify.com/album/6Py3TyeCO6hmdwHMHjnCFP) | 3:02 |
+| 88 | [ポケモンオールスターズ1025](https://open.spotify.com/track/1XU7MixZOZtHLhGovUBgU3) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ポケモンオールスターズ1025](https://open.spotify.com/album/2Gpfe1STmWqA3MAtKfwDi2) | 21:59 |
 | 89 | [NAVIGATOR:](https://open.spotify.com/track/1NlQq400xO0DiwXoxCxCqJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NAVIGATOR:](https://open.spotify.com/album/5NNMdusGS4ShaRcF7O8AAY) | 3:29 |
 | 90 | [Ritornello](https://open.spotify.com/track/6jV1evtWGv8x0GNMkdJWxb) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Ritornello](https://open.spotify.com/album/55LFMH3xZtZSrSh2psZegV) | 2:58 |
 | 91 | [Tokyo Gals](https://open.spotify.com/track/2FRf5fgRzgZ6cKBeEy9e8U) | [GROTESQQQUE](https://open.spotify.com/artist/1In8PNOPWYnzc6PCjisqCn), [野口衣織](https://open.spotify.com/artist/7aKpjS6dHog2q6gK5ICr2v), [MIRI](https://open.spotify.com/artist/1xfPSDV9Xxi4Yyuru7e6Ln) | [Tokyo Gals](https://open.spotify.com/album/2X6CWtnyUomcImTENjLC1S) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [アイコトバ](https://open.spotify.com/track/0nwoWtibzKDCyfvQODlpHk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [アイコトバ](https://open.spotify.com/album/0MC4ASdQePlwlAJHP9Bcq2) | 3:13 |
 | 100 | [magic number](https://open.spotify.com/track/1DkfVO97InBEhVKQsYXnra) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [magic number](https://open.spotify.com/album/0SyV7KC8F9qm47ETNuLyrA) | 3:21 |
 
-Snapshot ID: `AAAAAAGKMUgISt6BPRYNYQrUhk0QNOMg`
+Snapshot ID: `AAAAAMqnVaGaL02RkBnaA4RNOnM1vRCd`

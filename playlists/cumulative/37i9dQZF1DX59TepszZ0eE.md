@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-485 songs - 2 day 3 hr 44 min
+487 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Bulelani/Oh Give Thanks \(Psalm 107:1\) \- Live](https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 37th Psalm \(Live at Emperors Palace\)](https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2) | 7:50 | 2025-10-31 | 2026-02-20 |
+| [Busa](https://open.spotify.com/track/2fJuxUZaQEsJC8GEvdyQvl) | [The Pursued](https://open.spotify.com/artist/6cFKsWnFO5y7GrI8t2nV14), [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Busa](https://open.spotify.com/album/2bTz05Mz5p8sXAimH34XXu) | 9:53 | 2026-09-04 |  |
 | [Buya Jonah](https://open.spotify.com/track/1ytFtOdraWpdSCHfBoonEE) | [uShenge](https://open.spotify.com/artist/5yCiMUECKJoYQt9GPGCyQU) | [Buya Jonah](https://open.spotify.com/album/2fI00Z7sgsvnaqOjAQSznu) | 2:35 | 2026-05-01 |  |
 | [Buyelekhaya \(feat\. Thami Mthabela\)](https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [27:27](https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T) | 3:50 | 2026-08-28 |  |
 | [Certainly](https://open.spotify.com/track/4osmGMXeS9jri3GqAXACYt) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Yousef T Gurupira](https://open.spotify.com/artist/2LtnT8DI2Ct5bPnIXwl2VZ) | [Certainly](https://open.spotify.com/album/7aNaGNekx5e2Px3LwExDKE) | 4:21 | 2025-03-07 | 2025-04-25 |
@@ -233,6 +234,7 @@
 | [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 | 2025-05-23 |
 | [Mofahlolodi](https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Winnie Maluleka](https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK) | [Christ Exalted](https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa) | 7:54 | 2026-04-17 | 2026-07-10 |
 | [Mokgethwa \- Live](https://open.spotify.com/track/1qo6Q6gSoxeOj8Z1STUEl7) | [Jaymusic Sarela](https://open.spotify.com/artist/29jKLI6shY4i4TrDSQ7ZB7), [Prince Monyai](https://open.spotify.com/artist/0Nq95YhtBu2taFHm5sIwIu) | [Mokgethwa](https://open.spotify.com/album/5yf54peQO36L9Vu1V0A97i) | 5:19 | 2025-08-01 | 2025-09-19 |
+| [Motho Tshaba Modimo \- Live](https://open.spotify.com/track/19kJNYSJYOsOXc8c0BQXRf) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Motho Tshaba Modimo \(Live\)](https://open.spotify.com/album/6JcDAEnM0AWRw4eO5uJGMN) | 6:13 | 2026-09-04 |  |
 | [Moya Ka Jehovah \- Live](https://open.spotify.com/track/4Y2RXhp12YudM5bRtdw4rY) | [Jabu Hlongwane](https://open.spotify.com/artist/7DPMhjzvIdLdtZfElG1vzf) | [Crosspower Experience 3 \(Live\)](https://open.spotify.com/album/5wHtxMh4PMD0uqONkrhGfm) | 6:56 | 2018-12-18 | 2024-05-03 |
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-04-05 |  |
 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 | 2024-06-29 | 2025-10-31 |

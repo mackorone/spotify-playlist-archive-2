@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > Canciones para chillear, con esperanzah en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,074 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,079 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 | 99 | [TRANQUILO](https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [TRANQUILO](https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo) | 4:00 |
 | 100 | [La Torpeza \- Reversión](https://open.spotify.com/track/4sIakhIDONACHNWGMkTgqG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/0VnKh4aSjhxcGRjCoH538m) | 3:52 |
 
-Snapshot ID: `AAAAAEmNAPyLt9kEnImsx+ZpPHuj6B3B`
+Snapshot ID: `AAAAAJwup1iCkZjSVTipc6a1y7M7iS5G`

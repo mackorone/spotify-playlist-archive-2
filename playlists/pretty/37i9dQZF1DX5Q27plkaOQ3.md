@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring Crankdat + Wooli
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,792 likes - 200 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,793 likes - 200 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [BURN ME DOWN](https://open.spotify.com/track/2OrxKVkjOlbM19UN2dn4Iu) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [BURN ME DOWN](https://open.spotify.com/album/5a9e9AThAv54dDRZNDBTFU) | 2:53 |
 | 200 | [VOLUME](https://open.spotify.com/track/21CyvGKZbnfJGIyw3vJ9m3) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [WRON](https://open.spotify.com/artist/0zikx9TBidc9CGYE7djNlg) | [VOLUME](https://open.spotify.com/album/3YDugvi7BXheuliRvZ6gUE) | 2:24 |
 
-Snapshot ID: `AAAAAKr9aXKwUDMD8DRKGlstTIpaozHU`
+Snapshot ID: `AAAAAN/WhZR0FZZc30Tbsv3ybldoBN2F`

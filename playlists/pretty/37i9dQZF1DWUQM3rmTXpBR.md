@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Faraj Suleiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,529 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,541 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 39 | [Etganen](https://open.spotify.com/track/2vXD1wBUPRyb2NYf72vBbT) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Aida El Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt), [Zap Tharwat](https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv) | [Etganen](https://open.spotify.com/album/7BOOPQBTleS4c5dtHJ3aRN) | 3:06 |
 | 40 | [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 |
 
-Snapshot ID: `AAAAAA+vMydBYhsltfggX05NdBeP7/Om`
+Snapshot ID: `AAAAANoZkcJGEE2mcQkXHlFPyLlq38aV`

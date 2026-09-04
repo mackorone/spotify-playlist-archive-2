@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,880 songs - 4 day 3 hr 38 min
+1,882 songs - 4 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Got Me Good](https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Got Me Good](https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ) | 2:03 | 2025-08-15 |  |
 | [Gotta Be Over](https://open.spotify.com/track/6DgMcNpKVROwwBNfibG4NS) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp) | [Gotta Be Over](https://open.spotify.com/album/3s58AhtnMqt3UrUUb9uEZC) | 3:05 | 2024-01-31 | 2024-08-31 |
 | [Gotta Have It](https://open.spotify.com/track/3uRbDTbV1cux3narst5tIh) | [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ), [Mass Medium](https://open.spotify.com/artist/4XpxlgcEnxaBDaAO7V1XvH) | [Gotta Have It](https://open.spotify.com/album/5gxDE36TyHAZ0Dv8V7SAqJ) | 3:03 | 2026-08-28 |  |
+| [GOTTA MAKE IT](https://open.spotify.com/track/1RD9O5qftZXR4R1I4HV14v) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [GOTTA MAKE IT](https://open.spotify.com/album/1aFaMJS2gRUQYcTMpnTKVP) | 2:28 | 2026-09-04 |  |
 | [Granville](https://open.spotify.com/track/1BotuNtR8ihcXWhJsbvJmW) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Granville](https://open.spotify.com/album/6lYCnLP8JkGMeHAvVmKzgi) | 3:22 | 2025-05-08 | 2025-05-16 |
 | [Gravity](https://open.spotify.com/track/6vNydze5Xmuiufk6gUQ5W9) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Gravity](https://open.spotify.com/album/5dlfsksB2j0pyMFLSdpDe6) | 3:42 | 2026-05-01 |  |
 | [Gravity](https://open.spotify.com/track/2jizN8ZAjiV4IBjn6z42r7) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Gravity](https://open.spotify.com/album/0wVpaYo5BOsTdWRJMal5gR) | 3:20 | 2023-01-05 | 2023-02-24 |
@@ -1779,6 +1780,7 @@
 | [Wait No More](https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:32 | 2024-01-12 | 2024-01-19 |
 | [Waiting for a Night](https://open.spotify.com/track/3nHLqAfJ2wWaBVsd8GdiAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Waiting for a Night](https://open.spotify.com/album/4ctxW7vnWMIrRmPxLBZp5o) | 3:00 | 2023-08-10 | 2024-01-19 |
 | [Wake Me Up](https://open.spotify.com/track/6epDDkgs6Vy0O43wxSEuZ3) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Wake Me Up](https://open.spotify.com/album/0cc7QBqZfsN2H1V9BfQi4C) | 3:33 | 2022-11-03 | 2022-12-16 |
+| [Wake Me Up](https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Wake Me Up](https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5) | 3:17 | 2026-09-04 |  |
 | [Wanene](https://open.spotify.com/track/7oBrpeglkaAJty20Bmd3RQ) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Wanene](https://open.spotify.com/album/03GZrn26w0yu7IptsN4esU) | 3:33 | 2024-05-09 | 2024-10-19 |
 | [Wanna Dance All Night](https://open.spotify.com/track/1FNpRRSv5HN3T2WQnfjGJM) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Wanna Dance All Night](https://open.spotify.com/album/32T3yBtZW51VOYGKJulL8Z) | 2:16 | 2023-09-21 | 2023-12-19 |
 | [Want Me To Be](https://open.spotify.com/track/1AjvNW8RlrZlAkjTq1WCke) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Want Me To Be](https://open.spotify.com/album/6n70N5WyDAAMYXXI2Eoq4O) | 2:16 | 2024-06-20 | 2024-10-19 |

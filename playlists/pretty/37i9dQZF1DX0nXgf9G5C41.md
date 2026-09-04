@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 > A dive into the revival of hardcore punk from DIY to mainstream stages
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,067 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,185 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 25 | [Numb The Pain](https://open.spotify.com/track/0TD9zLvWImAZMbMaP132IW) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Numb The Pain](https://open.spotify.com/album/0CJSjtmDIHA8hvOiFNhvxW) | 2:57 |
 | 26 | [Titan of Hope](https://open.spotify.com/track/1CqXmDCDYoHdvIZcTSBnmb) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 3:28 |
 | 27 | [Death Knell](https://open.spotify.com/track/2q6Jydm21yyJPOKMsDkbRu) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Death Knell](https://open.spotify.com/album/36zwuiPPQPCKcZdOcHTpRe) | 3:51 |
-| 28 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 28 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 29 | [Mascot](https://open.spotify.com/track/4Yqk0n36YSgzL0c52L7O6w) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [26/9](https://open.spotify.com/album/1qMsNAXipCMaKqtFD3c3nX) | 2:42 |
 | 30 | [In Spite Of](https://open.spotify.com/track/0pPzSpjUauC0jMlGjGxTNh) | [XweaponX](https://open.spotify.com/artist/71xfe4OhZpe7tdJSAT5x4i) | [Weapon X Demo](https://open.spotify.com/album/7EN7rwKuB6YJWKXtDiiY7m) | 1:44 |
 | 31 | [Now?](https://open.spotify.com/track/37FghVgzUTDEUgPSS5ShFG) | [Big Boy](https://open.spotify.com/artist/3jOHrCdds0VE1VzdjPvvv1) | [Love Songs EP](https://open.spotify.com/album/2aGARenFpyOvB3NbTr8VIb) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 49 | [Hate Training](https://open.spotify.com/track/7nqAMTYfEp2WzchCcxXMeK) | [Punitive Damage](https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ) | [Hate Training b/w Baptism of Fire](https://open.spotify.com/album/7a1xHgtMBG7SzhrlwxUCGg) | 1:36 |
 | 50 | [Chosen](https://open.spotify.com/track/55r61EJfvwCJ33xKkm9JET) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Do It With a Smile](https://open.spotify.com/album/3jgxc23UY1lofVUFVCvUxf) | 1:03 |
 
-Snapshot ID: `AAAAACw9d2nNRxylfgg/zEIO/HgnlY1X`
+Snapshot ID: `AAAAALSWkmgwkt3kH2NPf4O2aSedYaAo`

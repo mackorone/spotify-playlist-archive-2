@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,993 likes - 133 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,000 likes - 133 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,9 +110,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 100 | [넣어둬](https://open.spotify.com/track/0woJxJNpmmQxfDSwlqH6tz) | [신장미](https://open.spotify.com/artist/57nltA13yKTbaEunhnPGiK), [EuReKa](https://open.spotify.com/artist/1xgTEq2LdIRhSXUUdEKUQm) | [넣어둬](https://open.spotify.com/album/2plrGXKgJMWFNhr6ksYl9o) | 3:12 |
 | 101 | [Blues of Tears](https://open.spotify.com/track/3YjGnJNqIvlr59rVJDKKPG) | [Gong Hoon](https://open.spotify.com/artist/0Oas17eeJX1LEvwC6B2kGm) | [Fire Trot Semi\-Finals, Three Legends Round PART 2](https://open.spotify.com/album/4fYhKUpf4TanrKk3XAQIIj) | 2:59 |
 | 102 | [Tree ring love](https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0) | [Nahee Kim](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tree ring love](https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w) | 3:04 |
-| 103 | [Beautiful day](https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R) | [기막힌 유산 \(Original Television Soundtrack\) Pt.17](https://open.spotify.com/album/7it71jDEWeK6bWYMc4jmAT) | 3:40 |
+| 103 | [Even filling my life with tears](https://open.spotify.com/track/24eWA28Uh5wHDrBdQFxEWP) | [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 4:02 |
 | 104 | [You Raise me Up](https://open.spotify.com/track/73uZS2UmS5Jt2nFqtDLcBx) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 4:03 |
-| 105 | [Even filling my life with tears](https://open.spotify.com/track/24eWA28Uh5wHDrBdQFxEWP) | [Shin Seong](https://open.spotify.com/artist/4ZrBMJ9pZMbLfqPN3nP1XU) | [Love call center PART21](https://open.spotify.com/album/5KVlaX4w5qg5rRa9zrsWxZ) | 4:02 |
+| 105 | [Beautiful day](https://open.spotify.com/track/2TR93BdahtOCytkNkl4J45) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R) | [기막힌 유산 \(Original Television Soundtrack\) Pt.17](https://open.spotify.com/album/7it71jDEWeK6bWYMc4jmAT) | 3:40 |
 | 106 | [Talks of Dream](https://open.spotify.com/track/6K8ur6OKReOlZtx4lUaQMi) | [Jung Soo ra](https://open.spotify.com/artist/0bRnVJF5HozBTl4o8etuos), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 5:14 |
 | 107 | [Boy](https://open.spotify.com/track/1Oc5OUV2gffp5XvTCqbwJm) | [Min Soo Hyun](https://open.spotify.com/artist/66Y6vpesHZsw3q8TfeoluG) | [Fire Trot Team Death Match PART 2 & 1:1 Rivals Round](https://open.spotify.com/album/68ZlJBVje3ElmKCtmE2Nhi) | 3:46 |
 | 108 | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero) | [Copychu](https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH), [JEON WON JU](https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK) | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X) | 3:46 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 132 | [In full bloom \(Prod\. Shin Ji Hoo\)](https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 |
 | 133 | [My Heart Will Go On](https://open.spotify.com/track/2KYY4jeQxWZjgXBGWDGuLw) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:04 |
 
-Snapshot ID: `AAAAAJbVxfFmNZ8P6JEO0tQzojKrlbgS`
+Snapshot ID: `AAAAABz7l0jZiWxLjGGrmlPEcRsqyRaa`

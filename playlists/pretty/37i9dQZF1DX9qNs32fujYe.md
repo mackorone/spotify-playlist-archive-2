@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. Classics to brand new tracks across heavy, power, doom, thrash, and sludge\. Cover: Mastodon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,413,717 likes - 200 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413,786 likes - 200 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [Slave Machine](https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Slave Machine](https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv) | 3:53 |
 | 200 | [Everything](https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Everything](https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7) | 4:18 |
 
-Snapshot ID: `AAAAALOdns/u4oGL7E5N/tnfYRfkGuPj`
+Snapshot ID: `AAAAAPjJDvGn3em/W/zFcnjHNnnhNnLW`

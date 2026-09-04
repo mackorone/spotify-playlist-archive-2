@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Lo que suena in the lone star state\. Texas\. Cover:  Chivo XVI, Bandi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,994 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,975 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 39 | [VOY](https://open.spotify.com/track/6h3OAsV7j5oSFevSNWflFs) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [VOY](https://open.spotify.com/album/2uUlGQNROhyc8Yu7FZ6CTi) | 3:05 |
 | 40 | [Adicción](https://open.spotify.com/track/5Lf7TpUeUoBhdTZxA5vr9j) | [Utriyaz](https://open.spotify.com/artist/0KFn3bYaecg3O9U4CcMxkx) | [Adicción](https://open.spotify.com/album/4VKk8HbT7wfuOe0NjeSRLJ) | 2:50 |
 
-Snapshot ID: `AAAAABl6CKEyUiwg8HfPQsATLBrPsah+`
+Snapshot ID: `AAAAACi7M56x8cjplPMkJaiU5ouspgcO`

@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 252544,
       "name": "Anillo Grabado",
       "url": "https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX"
@@ -2176,6 +2176,28 @@
       "duration_ms": 254850,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8"
+    },
+    {
+      "album": {
+        "name": "Mi Huasita Bonita",
+        "url": "https://open.spotify.com/album/6sn4MZ1GU2mLsaiT488nfs"
+      },
+      "artists": [
+        {
+          "name": "Alvarito y Sus Cumbieras",
+          "url": "https://open.spotify.com/artist/3L247AiscrgFIlUK4j5O16"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198775,
+      "name": "Mi Huasita Bonita",
+      "url": "https://open.spotify.com/track/1MPpjxb9CKfNNj5rF8KFp7"
     },
     {
       "album": {

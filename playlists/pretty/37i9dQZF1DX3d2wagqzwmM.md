@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,733 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,862 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 79 | [Lost In The Crowd](https://open.spotify.com/track/1lAtNae7Qg91eS3dsFE9Uz) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Lost In The Crowd](https://open.spotify.com/album/6Xv6Rr5LkEMFVc6SEqzaou) | 2:33 |
 | 80 | [Bad Behaviour](https://open.spotify.com/track/0aF53G3vRoyWnBCBKfihyX) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Bad Behaviour](https://open.spotify.com/album/4P0xcSNathFwohfVIBUTtn) | 2:46 |
 
-Snapshot ID: `AAAAAGYrc90gF3mgp6TEjk6t8XGRfhFs`
+Snapshot ID: `AAAAAM+pIm1uO+Fz2MoLEpbuvVK64hMo`

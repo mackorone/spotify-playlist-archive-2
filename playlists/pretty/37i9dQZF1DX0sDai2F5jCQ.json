@@ -1,13 +1,81 @@
 {
-  "description": "Your shortcut to the best new Hip Hop. Cover: Baakio, Eco$ystem, Utility",
-  "num_followers": 500456,
+  "description": "Your shortcut to the best new Hip Hop. Cover: Nemzzz",
+  "num_followers": 500443,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuphMxAbonp7VK3Hp4kE77q9BZA",
+  "snapshot_id": "AAAAAJPoCwYewtiSrqPS/SSoImtbXrum",
   "tracks": [
+    {
+      "added_at": "2026-09-04 00:00:23",
+      "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "GASS (feat.Travis Scott)",
+      "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
+    },
+    {
+      "added_at": "2026-08-28 04:01:12",
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 157104,
+      "name": "One Thousand Roses",
+      "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
+    },
+    {
+      "added_at": "2026-09-04 00:00:23",
+      "album": {
+        "name": "Yiccen",
+        "url": "https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Yiccen",
+      "url": "https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt"
+    },
+    {
+      "added_at": "2026-08-14 04:00:47",
+      "album": {
+        "name": "Trance (Walk It Down)",
+        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 161374,
+      "name": "Trance (Walk It Down)",
+      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
+    },
     {
       "added_at": "2026-08-28 04:01:12",
       "album": {
@@ -27,38 +95,6 @@
       "duration_ms": 203910,
       "name": "Out My Face (My Baby) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/124asPU2FC370O180KQPQi"
-    },
-    {
-      "added_at": "2026-08-28 04:01:12",
-      "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 157104,
-      "name": "One Thousand Roses",
-      "url": "https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu"
-    },
-    {
-      "added_at": "2026-08-14 04:00:47",
-      "album": {
-        "name": "Trance (Walk It Down)",
-        "url": "https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 161374,
-      "name": "Trance (Walk It Down)",
-      "url": "https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw"
     },
     {
       "added_at": "2026-08-14 04:00:47",
@@ -1363,46 +1399,6 @@
       "duration_ms": 172566,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0ttfPTxMi6s2Z4ZZnwaGhy"
-    },
-    {
-      "added_at": "2026-06-18 20:00:27",
-      "album": {
-        "name": "Merch That",
-        "url": "https://open.spotify.com/album/42A7Zq3gmxjetZxT0O5mwO"
-      },
-      "artists": [
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
-        }
-      ],
-      "duration_ms": 152866,
-      "name": "Merch That",
-      "url": "https://open.spotify.com/track/3BAtfxKnIqxEj2W5PBKOgN"
-    },
-    {
-      "added_at": "2026-06-18 20:00:27",
-      "album": {
-        "name": "HANDOUT",
-        "url": "https://open.spotify.com/album/2TBTrjzQYJGtFCH12Gc6Pe"
-      },
-      "artists": [
-        {
-          "name": "Miss Kaninna",
-          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
-        },
-        {
-          "name": "Jamahl Yami",
-          "url": "https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN"
-        }
-      ],
-      "duration_ms": 256444,
-      "name": "HANDOUT",
-      "url": "https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d"
     },
     {
       "added_at": "2026-05-29 04:00:39",

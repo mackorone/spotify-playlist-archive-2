@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NCT127\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,808 songs - 39 day 20 hr 21 min
+16,811 songs - 39 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3145,6 +3145,7 @@
 | [Deja Vu](https://open.spotify.com/track/7qHzFI83e6eVfdt78yGSam) | [Roydo](https://open.spotify.com/artist/4Tq5nMU99vtYU8YV8lHVvC) | [Deja Vu](https://open.spotify.com/album/4VP7PnQaw0mpuNE8ILTemm) | 2:39 | 2022-04-28 | 2022-05-04 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 | 2024-05-01 |
 | [Deja Vu \(feat\. OXYNOVA\)](https://open.spotify.com/track/66Smbir9N1Ly82NbLVwlNB) | [DaNTe'](https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [Deja Vu](https://open.spotify.com/album/0lECzJ67Fx67YN4Yb4Njwo) | 3:06 | 2022-11-06 | 2022-12-22 |
+| [DEJAVU](https://open.spotify.com/track/2C9LBzDg7yBm8pdHQQuYLw) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [DEJAVU](https://open.spotify.com/album/50XHxZ6jnr6kUNSX3X95Lg) | 3:02 | 2026-09-03 |  |
 | [Dejavu](https://open.spotify.com/track/619s7vEd50y1K39rRMKQpQ) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [LimJi 1st EP 'Purple'](https://open.spotify.com/album/6A9QDIHGdVqLURA9aeAoaZ) | 3:16 | 2023-11-17 | 2023-12-14 |
 | [Dejavu \(feat\. J.O.Y & Kelsey Kuan\)](https://open.spotify.com/track/6BVZYJ9cNNo4nDh1NLp2aP) | [Lilly Choi](https://open.spotify.com/artist/47XFXXnEzKNriK68idK1WS), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Dejavu](https://open.spotify.com/album/52cg0dRrDL5lEvAgrES5D1) | 2:54 | 2023-01-24 | 2023-02-01 |
 | [Delay Of Sadness](https://open.spotify.com/track/6nfFeWhDoOoL8GQqOpHgn1) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Delay Of Sadness](https://open.spotify.com/album/5KKfHBNg1y9p1SilGHLSJt) | 2:40 | 2025-04-17 | 2025-04-29 |
@@ -4748,7 +4749,7 @@
 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [Lee Chan Hyuk](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 | 2022-06-24 | 2022-07-05 |
 | [Free Talk \(feat\. Nucksal\)](https://open.spotify.com/track/3HtcGexaJfpk1iHGtNsV8N) | [onieun](https://open.spotify.com/artist/4Y0Op0XWGPmeNpcMqMiph5), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Free Talk \(feat\. Nucksal\)](https://open.spotify.com/album/0UcltwGTFoKjDYWtqttwNm) | 3:06 | 2023-05-01 | 2023-07-12 |
 | [Free With You](https://open.spotify.com/track/3GzDLSVuLnP4MSAWO0kwS8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Libere Flore](https://open.spotify.com/album/5vuCNwWXyAN5p8sEG52kkn) | 3:06 | 2023-04-23 | 2023-06-20 |
-| [FREECHILD](https://open.spotify.com/track/5i1XAqsiesihasNTE89pjQ) | [Kevin Moon](https://open.spotify.com/artist/0suFI6KTEjujgVMFsJSudj) | [FREECHILD](https://open.spotify.com/album/5lqWQvRrt5iuNWxFT5fwoJ) | 3:11 | 2026-09-02 |  |
+| [FREECHILD](https://open.spotify.com/track/5i1XAqsiesihasNTE89pjQ) | [Kevin Moon](https://open.spotify.com/artist/0suFI6KTEjujgVMFsJSudj) | [FREECHILD](https://open.spotify.com/album/5lqWQvRrt5iuNWxFT5fwoJ) | 3:11 | 2026-09-02 | 2026-09-04 |
 | [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-22 | 2023-08-10 |
 | [Freedom](https://open.spotify.com/track/0C64OAzFqP8d3s14qf1p9Q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0LJz8YtfJoqzsW2sL3CIh1) | 3:47 | 2022-06-13 | 2022-06-19 |
 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 | 2022-07-22 | 2022-08-10 |
@@ -9182,6 +9183,7 @@
 | [Mr.Miles](https://open.spotify.com/track/6Mrfd5gzmBiHTHrEl0tXgs) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [Mr.Miles](https://open.spotify.com/album/6dMTPaa7nRTwxtyFBhi6io) | 4:20 | 2024-09-25 | 2024-10-10 |
 | [MRHG](https://open.spotify.com/track/76Hz4mAuaDNSSHui96IOWC) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [MRHG](https://open.spotify.com/album/0ZqzlbFtGAfcOerjAQMRC4) | 3:30 | 2025-08-08 | 2025-08-20 |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-04-30 | 2025-05-13 |
+| [Ms\. Mental \(with TRADE L\)](https://open.spotify.com/track/4SdpQ4YCmNxbp58QnRSDYs) | [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [milli vs the world](https://open.spotify.com/album/7z7DH7dl3hM4ScsnoCkuoG) | 2:59 | 2026-09-03 |  |
 | [Ms\. Mental \(with TRADE L\)](https://open.spotify.com/track/4mOG63Y44AsxmWtqWBSU7F) | [MilliMax](https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [Ms\. Mental](https://open.spotify.com/album/3NchqF321VTIE45uDOicBn) | 2:59 | 2026-07-30 | 2026-08-25 |
 | [MU](https://open.spotify.com/track/3QhIdQkVUI0tXOnxumSGWf) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [MU](https://open.spotify.com/album/5On9NUfc4k7SxVHqxGBQkq) | 3:09 | 2024-12-16 | 2025-01-02 |
 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 | 2025-09-04 | 2025-09-18 |
@@ -14402,6 +14404,7 @@
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2023-05-04 | 2023-07-12 |
 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 | 2022-09-02 | 2022-09-09 |
 | [U](https://open.spotify.com/track/3nr28V79gGDBQQ8KJB0Z9i) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j) | [U](https://open.spotify.com/album/4905pvdApvpYlvf3QvNaJX) | 3:15 | 2022-11-20 | 2022-12-22 |
+| [U](https://open.spotify.com/track/3JpcAj2SxrmZdzjnGVkjhM) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [U](https://open.spotify.com/album/3qBHaiHyAAlfdbgM6bjasU) | 4:02 | 2026-09-03 |  |
 | [U](https://open.spotify.com/track/7isxlPUmyQB8cglL6ytEIW) | [U Sung Eun](https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI) | [U](https://open.spotify.com/album/6YKOJqe3h0ga84jepNVhcy) | 3:19 | 2025-05-12 | 2025-05-23 |
 | [u & i verse \(feat\. Jade\)](https://open.spotify.com/track/6dwIoyRFMSlnYs6NOtNmGz) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [u & i verse \(feat\. Jade\)](https://open.spotify.com/album/4QzEg7TjlH23dz5r7Psjm9) | 3:00 | 2022-04-19 | 2022-04-23 |
 | [U BACK](https://open.spotify.com/track/390sp914dEGdlwVd0PMzIJ) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju) | [U BACK](https://open.spotify.com/album/4wXaC87FsN2YPGY9toNFum) | 3:04 | 2026-06-01 | 2026-06-09 |

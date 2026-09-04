@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Eric Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,400 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,404 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
 | 100 | [Simple Man \- Live](https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [Simple Man \(Live\)](https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1) | 7:03 |
 
-Snapshot ID: `AAAAAL3Npe/NFW/Sa9EAgWjV/oBW4FYP`
+Snapshot ID: `AAAAAEMnxVX2WszcB6SLpoBo/yWV3gTf`

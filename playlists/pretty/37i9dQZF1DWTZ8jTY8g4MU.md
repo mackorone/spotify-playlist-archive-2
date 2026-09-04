@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,147 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,160 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [يالبيك](https://open.spotify.com/track/0DeJ3T7m7wykMeFtrjWd4R) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [يالبيك](https://open.spotify.com/album/1NA30ewt9mHM0O9MfM89g2) | 3:37 |
 | 2 | [متى تفهم](https://open.spotify.com/track/2ZdtL49qCwk7HBE1ZM7I57) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [متى تفهم](https://open.spotify.com/album/5cKJjtelxVdeOuRdvcs2jx) | 3:04 |
-| 3 | [فجوج الخلا](https://open.spotify.com/track/2qj7KO19OjHxUvCOyRCoqI) | [الجفراني](https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf) | [فجوج الخلا](https://open.spotify.com/album/6rTVXaUAC74WrpWmElZlSq) | 8:32 |
-| 4 | [هود الليل](https://open.spotify.com/track/1B02ykbRGaShWJmKO1O1yb) | [زايد بن سابر](https://open.spotify.com/artist/0gnjqIfsDrqIDlVx846CDt) | [هود الليل](https://open.spotify.com/album/1TAVl5RQb4ta4xQc92FXto) | 4:16 |
-| 5 | [توقعت](https://open.spotify.com/track/6zRs7YYeutK3Kxq1IphM0i) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [توقعت](https://open.spotify.com/album/7xdB7g35dxCQibyHCh0MdN) | 3:24 |
+| 3 | [Sadah Wa Qadah](https://open.spotify.com/track/1hue9RXZXGZ9CLpEA1jDvX) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Sadah Wa Qadah](https://open.spotify.com/album/0RMhGMvkTJZNWJ6eq8l6Pi) | 4:51 |
+| 4 | [فجوج الخلا](https://open.spotify.com/track/2qj7KO19OjHxUvCOyRCoqI) | [الجفراني](https://open.spotify.com/artist/19K8bnhJe9d8nW2rtdcRtf) | [فجوج الخلا](https://open.spotify.com/album/6rTVXaUAC74WrpWmElZlSq) | 8:32 |
+| 5 | [هود الليل](https://open.spotify.com/track/1B02ykbRGaShWJmKO1O1yb) | [زايد بن سابر](https://open.spotify.com/artist/0gnjqIfsDrqIDlVx846CDt) | [هود الليل](https://open.spotify.com/album/1TAVl5RQb4ta4xQc92FXto) | 4:16 |
 | 6 | [Samihini Samihini](https://open.spotify.com/track/41X6X6vPEpjRxhD5HXAcUP) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Samihini Samihini](https://open.spotify.com/album/4hXPRIQnVD3GZywC1T0gab) | 3:26 |
 | 7 | [هزتك الطواري](https://open.spotify.com/track/1J4dgHB8BPkch94uf6xdMg) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg), [فالح بن فصلا](https://open.spotify.com/artist/1DHRyIdhWKNu1nQzLP1A1T) | [هزتك الطواري](https://open.spotify.com/album/7sOTNZnBic4iN1MOp2X6WV) | 3:08 |
 | 8 | [سر اهتمامي](https://open.spotify.com/track/4LoV1IoB508ftNB35tjx8g) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سر اهتمامي](https://open.spotify.com/album/6RnLMh24W0dX6H9OLX7Xrw) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [يا مجرم يا حرامي](https://open.spotify.com/track/6i6tTxSVVyEuStYIU53KKy) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [يا مجرم يا حرامي](https://open.spotify.com/album/2xnxfz3WeV8pDuXY4DTjdA) | 3:05 |
 | 50 | [تبقى ملك](https://open.spotify.com/track/5bDJShwFM1wmzEpAcalnbC) | [أسعد البطحري](https://open.spotify.com/artist/30ExYDAwbVcSREibnsoNUf) | [تبقى ملك](https://open.spotify.com/album/4kyTKLN6GqY28NWolHAskl) | 4:08 |
 
-Snapshot ID: `AAAAAJBTqTsXa2OwsGy19BxbP6Odw5HI`
+Snapshot ID: `AAAAAFgkTV+lVKQzK5+vu9pBH3cMjUwl`

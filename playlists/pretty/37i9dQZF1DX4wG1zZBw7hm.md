@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,108 likes - 100 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,134 likes - 100 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 99 | [City Centre](https://open.spotify.com/track/1TMdcMofJBGCvP8fSLaEE0) | [Deepchord](https://open.spotify.com/artist/45g23Apmqo2x4obM7LjmpW) | [Hash\-Bar Loops](https://open.spotify.com/album/74NLq4PVXYySHginT0pcOb) | 6:27 |
 | 100 | [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 |
 
-Snapshot ID: `AAAAAN9huh2vO47x4X+/2CZBIIpEEWM2`
+Snapshot ID: `AAAAAPLxHmp+jwgcyJZluymf1GiWl2Sy`

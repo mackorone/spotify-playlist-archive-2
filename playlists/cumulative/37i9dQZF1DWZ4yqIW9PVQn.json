@@ -1563,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "in your control",
+        "url": "https://open.spotify.com/album/7nIKIh4C23jA2dAnahIRrF"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139848,
+      "name": "in your control",
+      "url": "https://open.spotify.com/track/1ub0uODuO4zmKdGUEEJW09"
+    },
+    {
+      "album": {
         "name": "In your heart",
         "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
       },

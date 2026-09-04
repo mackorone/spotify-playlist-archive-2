@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Difki Khalif",
+  "description": "Video musik lagu-lagu Indonesia hanya untuk pengguna premium. Cover: Yura Yunita",
   "name": "Video Musik Indonesia ",
   "tracks": [
     {
@@ -1227,6 +1227,32 @@
     },
     {
       "album": {
+        "name": "Museum Duka",
+        "url": "https://open.spotify.com/album/7kG7ohzrjqSzh8c5K0w6sN"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/7u6eYMzlO7UGHY4qvd8NXu"
+        },
+        {
+          "name": "Tepe",
+          "url": "https://open.spotify.com/artist/3KxeXrPqAFeuNvviB9dBGb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210734,
+      "name": "Museum Duka",
+      "url": "https://open.spotify.com/track/4x4YtCcmxghIUNwE2nVRLU"
+    },
+    {
+      "album": {
         "name": "My Hometown Is Sinking",
         "url": "https://open.spotify.com/album/3d5sL5QzwVxXL3KsbFRN2W"
       },
@@ -1296,6 +1322,24 @@
       "duration_ms": 240607,
       "name": "Penyangkalan",
       "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
+    },
+    {
+      "album": {
+        "name": "Pertiwi",
+        "url": "https://open.spotify.com/album/3qYQ3T1B1kMHWvMeRtH25S"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228680,
+      "name": "Pertiwi",
+      "url": "https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd"
     },
     {
       "album": {

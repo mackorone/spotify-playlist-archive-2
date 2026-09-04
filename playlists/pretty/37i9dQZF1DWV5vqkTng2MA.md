@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Josh Gilligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,088 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,091 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 99 | [How Do You Get By](https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [How Do You Get By](https://open.spotify.com/album/698NNT71NehpuCIDRFXWic) | 4:10 |
 | 100 | [Choose Love](https://open.spotify.com/track/1IRZD7Wz6WRy06v2BEofAr) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Choose Love / It’s Been Too Long](https://open.spotify.com/album/7rcXmePnj6U9ScOvXkaMuU) | 3:54 |
 
-Snapshot ID: `AAAAAElo9GPVYdsb4hIyMjEfcyK5RbJv`
+Snapshot ID: `AAAAAGFSOcpjR43g/c44aNqB/axaxEPW`

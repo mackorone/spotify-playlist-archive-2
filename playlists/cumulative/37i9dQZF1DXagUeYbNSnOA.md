@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
 
-> The best new music by independent artists and labels, featuring AARON 21\. Updates every Wednesday.
+> The best new music by independent artists and labels, featuring Vanita Leo\. Updates every Wednesday.
 
-2,836 songs - 6 day 6 hr 53 min
+2,838 songs - 6 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-02 | 2023-08-17 |
 | [2 Mundos](https://open.spotify.com/track/4wObbUEi2yw7f3mhPac1Ld) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [2 Mundos](https://open.spotify.com/album/1A5JnKDhCghOcEEs5ht4SC) | 3:19 | 2025-10-08 | 2025-12-04 |
 | [2 traguito, y tú?](https://open.spotify.com/track/5oRUOmMWdDMQQhmUOt3z3M) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [2 traguito, y tú?](https://open.spotify.com/album/5QqfzFfIkwkIoSmJ5r95p4) | 2:32 | 2024-06-05 | 2024-07-04 |
+| [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 | 2026-09-03 |  |
 | [2002](https://open.spotify.com/track/7bcpJ0ffUmA3zsmLT9klXf) | [Dani Barbar](https://open.spotify.com/artist/0A87wCGXAECqOeBfQONuur) | [2002](https://open.spotify.com/album/5nQCl3bzblWCRnrg4NdCS5) | 4:10 | 2023-05-10 | 2023-05-24 |
 | [2049](https://open.spotify.com/track/2EIBZFeLWN8Rda4oJ6Lxiw) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [2049](https://open.spotify.com/album/5Gki0SH1UH8UHULis3VrKa) | 4:07 | 2023-11-15 | 2024-01-18 |
 | [21 de septiembre](https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [21 de septiembre](https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko) | 2:07 | 2024-02-14 | 2025-01-30 |
@@ -651,7 +652,7 @@
 | [De Telenovela](https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP) | [Valentina Moreno](https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p) | [De Telenovela](https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW) | 2:52 | 2023-09-27 | 2024-01-11 |
 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 | 2022-09-28 | 2022-12-01 |
 | [De un Solo Aliento](https://open.spotify.com/track/5rJ4jVrC8Tp5h48UTxCQ9h) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [De un Solo Aliento](https://open.spotify.com/album/2bvzmcBIkNkurpqbRAzgTI) | 3:36 | 2023-02-15 | 2023-03-16 |
-| [De Una Vez](https://open.spotify.com/track/4gyV7NTXXFrX8hlNNasu9W) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [De Una Vez](https://open.spotify.com/album/1CVF4Aae9E5gTY3yORnVs9) | 2:32 | 2026-06-18 |  |
+| [De Una Vez](https://open.spotify.com/track/4gyV7NTXXFrX8hlNNasu9W) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [De Una Vez](https://open.spotify.com/album/1CVF4Aae9E5gTY3yORnVs9) | 2:32 | 2026-06-18 | 2026-09-04 |
 | [De Verdad](https://open.spotify.com/track/4GmWPSMwsKcUh8izKSquJ5) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [De Verdad](https://open.spotify.com/album/3Kpznn7Pu7R5Yulj7yepJx) | 2:09 | 2023-05-24 | 2023-06-15 |
 | [Dear Friend](https://open.spotify.com/track/7maxqLIEMaZb3d1gGG3zV5) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Dear Friend](https://open.spotify.com/album/4MTdj70YPLSKZuYZVKCCee) | 3:54 | 2026-01-14 | 2026-03-26 |
 | [Dear Junior](https://open.spotify.com/track/5diJovhAIQJsdwLb0iDzpy) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Fé](https://open.spotify.com/album/399aPnDg2DcA0vybDB5Fpm) | 3:09 | 2024-02-28 | 2024-03-07 |
@@ -1010,7 +1011,7 @@
 | [Fases](https://open.spotify.com/track/7Made3TTvUxPfsmhwcG9gp) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Fases](https://open.spotify.com/album/2u1y7O8juQAWqDzDM6tQ0z) | 3:13 | 2022-02-23 | 2022-03-03 |
 | [Fatal](https://open.spotify.com/track/107TV4TqYfgY8Jy4sltA0y) | [Aleex Raptor](https://open.spotify.com/artist/3v4rdMI6fDzQ3NtWp7ILXQ) | [Fatal](https://open.spotify.com/album/6mpSaVahvk7V13F6jl5JsA) | 2:51 | 2025-04-17 | 2025-07-03 |
 | [Febrero](https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L) | [Flor Torres](https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s) | [Febrero](https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM) | 2:50 | 2023-06-28 | 2023-07-20 |
-| [Feeling at Home](https://open.spotify.com/track/4z28HFdbz493UGl6vldoZR) | [The Treedome](https://open.spotify.com/artist/5gfEMpgDlkeBGgRbMCI1hC) | [Feeling at Home](https://open.spotify.com/album/2txUFG8LZ3CX1VNEsCTPEv) | 3:55 | 2026-07-08 |  |
+| [Feeling at Home](https://open.spotify.com/track/4z28HFdbz493UGl6vldoZR) | [The Treedome](https://open.spotify.com/artist/5gfEMpgDlkeBGgRbMCI1hC) | [Feeling at Home](https://open.spotify.com/album/2txUFG8LZ3CX1VNEsCTPEv) | 3:55 | 2026-07-08 | 2026-09-04 |
 | [FEID](https://open.spotify.com/track/2R6afBoXzXe9IcdVVieiOX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [FEID](https://open.spotify.com/album/3bVu4yMrkHwEFYlppVQ3DC) | 2:46 | 2025-04-02 | 2025-06-26 |
 | [Feliz](https://open.spotify.com/track/3v8D562eKmS74tiio3JLwG) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Feliz](https://open.spotify.com/album/5OryS0f5aSUvZtV5FgLt9t) | 3:18 | 2023-03-22 | 2023-04-06 |
 | [Fell in Love with a Mermaid](https://open.spotify.com/track/5f7LcNx09lzvvRYQx4Dkt3) | [Rosk](https://open.spotify.com/artist/6CQuPJVQKWgFVbp0EwjyxN) | [Fell in Love with a Mermaid](https://open.spotify.com/album/1AFRlFvmQOVgbuL9V52xat) | 3:31 | 2022-06-08 | 2022-07-07 |
@@ -2680,6 +2681,7 @@
 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 | 2023-07-12 | 2023-08-03 |
 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 | 2021-12-22 | 2022-01-20 |
 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-06-07 | 2023-06-22 |
+| [Vatos](https://open.spotify.com/track/4YOY1oa1UvoAxEaWX9fi9n) | [Vanita Leo](https://open.spotify.com/artist/1ygRaSoCU4Ph22Y4b7UfB9) | [Vatos](https://open.spotify.com/album/1fkFUzh9CvwIHntVF0YVWB) | 2:26 | 2026-09-03 |  |
 | [Vecinos](https://open.spotify.com/track/7zFT9RAdZE4ZG5EPttrm3A) | [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX), [Marcos Rigalt](https://open.spotify.com/artist/40O9UwUkJp3qnLcIsYScOl) | [Vecinos](https://open.spotify.com/album/3JouI8QedHiAixJIoJ7Ikg) | 2:32 | 2025-04-17 | 2025-06-26 |
 | [Velocidad](https://open.spotify.com/track/23jT6XOiKPzp5oonljkaOa) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Velocidad](https://open.spotify.com/album/36ptOwTp028LyQmOqfa65E) | 2:04 | 2025-10-08 | 2025-12-04 |
 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 | 2023-07-12 | 2023-08-03 |

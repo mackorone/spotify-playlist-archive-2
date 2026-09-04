@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,800 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,808 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 | 50 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
 
-Snapshot ID: `AAAAAMuqhESh4IBFYBYDYbeGjedQmOIz`
+Snapshot ID: `AAAAAEKNJA6AyvINT6NJ8wukrKD8SUzO`

@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Mehfilz with Papon - Sar-e-Shaam (From The Living Room)",
+        "url": "https://open.spotify.com/album/2dBQISaLEchit1nP8j387U"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254871,
+      "name": "Barbaad Kare Mujhko (Sar-e-Shaam - Mehfilz with Papon) - From The Living Room",
+      "url": "https://open.spotify.com/track/6qCXxRXYkeZvcRlCIPVyQA"
+    },
+    {
+      "album": {
         "name": "Barf",
         "url": "https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf"
       },
@@ -8202,7 +8220,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 228002,
       "name": "Ho Jayenge Ghum",
       "url": "https://open.spotify.com/track/0uiq5MHUD1rjpqYFsECubQ"
@@ -9298,7 +9316,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 199205,
       "name": "Iss Baarish Mein",
       "url": "https://open.spotify.com/track/45SRRK89L134g875lh5cn4"
@@ -9922,6 +9940,32 @@
       "duration_ms": 280117,
       "name": "Jalpari",
       "url": "https://open.spotify.com/track/0ZaNq3LvGZqXS34itop6xd"
+    },
+    {
+      "album": {
+        "name": "Jalwa E Jaanaan (Maati S2)",
+        "url": "https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd"
+      },
+      "artists": [
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Shakeel Azmi",
+          "url": "https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252587,
+      "name": "Jalwa E Jaanaan - Maati S2",
+      "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
     },
     {
       "album": {
@@ -10898,6 +10942,24 @@
       "duration_ms": 153914,
       "name": "Kaan Phaad - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/3lGXLUNcEV6C1AfykpRtHI"
+    },
+    {
+      "album": {
+        "name": "Kaare Bhaware",
+        "url": "https://open.spotify.com/album/70dq6xYxGmC4ueIr98EAlR"
+      },
+      "artists": [
+        {
+          "name": "ShNik",
+          "url": "https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Kaare Bhaware",
+      "url": "https://open.spotify.com/track/6uNgMz4aJ04H3ZY2kcPOra"
     },
     {
       "album": {
@@ -17935,7 +17997,7 @@
         },
         {
           "name": "Shaan",
-          "url": "https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e"
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
         },
         {
           "name": "Sukhwinder Singh",
@@ -21940,7 +22002,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290779,
-      "name": "Toh Phir Aao - New Version",
+      "name": "Toh Phir Aao - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/6LYfwNkkrplbxbheWtkBL2"
     },
     {
@@ -22998,7 +23060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229218,
-      "name": "Tumhare Liye",
+      "name": "Tumhare Liye (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
     },
     {
@@ -23454,7 +23516,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 401834,
       "name": "Ve Junoon (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/0jfPsVkuCCqz8A9vDkWkMr"

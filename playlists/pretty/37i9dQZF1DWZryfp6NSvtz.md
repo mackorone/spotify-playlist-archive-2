@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Alabama Shakes
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,808 likes - 201 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,830 likes - 201 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 117 | [EDGE OF VEGAS](https://open.spotify.com/track/0pBqWYVX7xbxIRdcI2RxW5) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [EDGE OF VEGAS](https://open.spotify.com/album/3KpH2DBCKo1lF8wNZxo4NU) | 3:40 |
 | 118 | [Don't Come Easy](https://open.spotify.com/track/1jSVZ6MAaVPvYYxwSI5qB6) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bark At The Moon](https://open.spotify.com/album/5JFB4Mf6lc18wMATG1g1oo) | 3:33 |
 | 119 | [Joyce Kilmer Service Area](https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Joyce Kilmer Service Area](https://open.spotify.com/album/4rlyJnhWxi8qxlX3OXskcM) | 3:03 |
-| 120 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 120 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 121 | [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 |
 | 122 | [do or die](https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [do or die](https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk) | 3:24 |
 | 123 | [NEVERAFTER](https://open.spotify.com/track/4zTEu7LT1HXViiIb5sE36h) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [NEVERAFTER](https://open.spotify.com/album/7o0HgSSF7OyMzwVlsOx9AQ) | 3:16 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 200 | [Crying at the Landmark Motor Inn](https://open.spotify.com/track/4fm9BbJpjtxwQuZoaNxGOj) | [Tiger Would!](https://open.spotify.com/artist/7vGrPtKTYpZpFAfnunDaTo) | [Crying at the Landmark Motor Inn](https://open.spotify.com/album/6jxBAF0taqggTuCMDjx1ky) | 2:41 |
 | 201 | [Goose Steppin'](https://open.spotify.com/track/2jbdtEo75IDw7gWkTklPAj) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Juggling Moves \(Beginner\)](https://open.spotify.com/album/57q93n2qhpiealueVmfOle) | 5:02 |
 
-Snapshot ID: `AAAAAJlYHqmED5KB5A+VHD9qU+k4qZWh`
+Snapshot ID: `AAAAAG8PO4n8e4iHNL5ClcLwjI+KXbcX`

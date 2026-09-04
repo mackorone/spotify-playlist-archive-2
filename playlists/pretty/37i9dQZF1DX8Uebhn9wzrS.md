@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,165,519 likes - 195 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,166,317 likes - 195 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 194 | [MayFlowers](https://open.spotify.com/track/13fu7JlOT1f1vvfJztISGI) | [Thélian](https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0) | [MayFlowers](https://open.spotify.com/album/3ODicA66WKnh7BKbBPXJWp) | 2:04 |
 | 195 | [Hopeless Romantic](https://open.spotify.com/track/5eXSKTmAXv8NmBXeDZV225) | [Lazy Lama](https://open.spotify.com/artist/2OIClIFaDrHXq6ilh3bICZ) | [Hopeless Romantic](https://open.spotify.com/album/0Y0UHEQiDHYkcpL5bZN3r3) | 1:29 |
 
-Snapshot ID: `AAAAAPsSlHWAAE5w+MgC3vK80izvJY79`
+Snapshot ID: `AAAAAPMvJbSV7EcJ7IHSAEQm+MslCqN3`

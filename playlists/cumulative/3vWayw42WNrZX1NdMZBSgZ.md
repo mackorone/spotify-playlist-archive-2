@@ -2,9 +2,9 @@
 
 ### [LATIN POP HITS 2026 \- Éxitos del Pop Latino](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Trueno &amp; Maria Becerra
+> The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-1,026 songs - 2 day 6 hr 35 min
+1,028 songs - 2 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [El Tiempo Dirá](https://open.spotify.com/track/5jOWMWidQD51Y4vUeVsCjZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:24 | 2025-04-25 | 2025-11-22 |
 | [El Ultimo Regreso](https://open.spotify.com/track/5RvKbwW0EtJEVDF5I0HBjN) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Ultimo Regreso](https://open.spotify.com/album/7aou4bFTilwASsH2NyX3pV) | 3:47 | 2025-11-07 | 2026-04-25 |
 | [El Viento](https://open.spotify.com/track/4VOEpc4AHpO0MO8rrb6k3b) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [El Viento](https://open.spotify.com/album/1dQTohL9LmAinIlcDZ5cPV) | 2:32 | 2023-02-03 | 2023-06-01 |
+| [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 | 2026-09-04 |  |
 | [Ella](https://open.spotify.com/track/66S2z95FN3nUAr9S1gUIsp) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:41 | 2022-02-02 | 2023-06-08 |
 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 | 2022-02-02 | 2023-05-26 |
 | [Embrujo](https://open.spotify.com/track/2xlcOuu4WegyfJChXZ52f4) | [De La Tierra](https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1) | [DE LA TIERRA III](https://open.spotify.com/album/6NJPcCMpwgpTQtY5QDbV46) | 5:18 | 2023-03-31 | 2023-06-01 |
@@ -569,6 +570,7 @@
 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 | 2023-06-07 | 2025-09-12 |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-10-07 | 2023-05-26 |
 | [Me Contradigo](https://open.spotify.com/track/0qOuSYdkpLVmn5U4PH7oLg) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Me Contradigo](https://open.spotify.com/album/7fvXnpfC3Ypq0TPNbKe0FW) | 2:19 | 2022-12-16 | 2023-06-01 |
+| [Me enamoré de ti](https://open.spotify.com/track/4hWSYcIBUuFqbxDzhFrchj) | [ELENA SOFIA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Me enamoré de ti](https://open.spotify.com/album/11wrVVW0dbPZ5cLwUNzAuo) | 2:57 | 2026-09-04 |  |
 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 | 2022-10-20 | 2023-05-26 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-04-20 | 2023-06-02 |
 | [Me Extraño](https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:11 | 2022-09-02 | 2023-05-26 |

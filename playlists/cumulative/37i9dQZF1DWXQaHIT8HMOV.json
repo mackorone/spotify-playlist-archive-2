@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Joshua Baraka",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Mudra D'Viral",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 155000,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1lK8IhLgg4IOotx0Zb6dra"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 166739,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/77V3AIxStP7UvO6n0zIdiT"
@@ -4465,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Inimanimo",
+        "url": "https://open.spotify.com/album/75GdySgCmtxzWtQc78yvbT"
+      },
+      "artists": [
+        {
+          "name": "Posha",
+          "url": "https://open.spotify.com/artist/0zkI0Y3QKSZzTIQwfQMLGP"
+        },
+        {
+          "name": "Victor Ruz",
+          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151056,
+      "name": "Inimanimo",
+      "url": "https://open.spotify.com/track/62XuY2s0RP9EIQ6gbTpV9k"
+    },
+    {
+      "album": {
         "name": "It All Depends",
         "url": "https://open.spotify.com/album/1w4U6yXrHFvY0BvkLzfc5l"
       },
@@ -5245,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Kyeejo",
+        "url": "https://open.spotify.com/album/5RwOMtYJ24D3DDqIURdYqs"
+      },
+      "artists": [
+        {
+          "name": "Mudra D'Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Kyeejo",
+      "url": "https://open.spotify.com/track/39cZMJZvpFslT73U0hf7BD"
+    },
+    {
+      "album": {
         "name": "Kyekiliwo",
         "url": "https://open.spotify.com/album/3sf7zqF8HY4XUTiAVn4RU6"
       },
@@ -5630,7 +5670,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 207912,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/3ulbAcstspFbIoqo4jIeyt"
@@ -5968,7 +6008,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194586,
       "name": "Mangadalena",
       "url": "https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs"
@@ -6396,7 +6436,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 107368,
       "name": "MOSQUITOES",
       "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
@@ -6678,7 +6718,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176901,
       "name": "Mumulekere",
       "url": "https://open.spotify.com/track/2LvHOboHeNZMUXHAU68v19"
@@ -6798,6 +6838,24 @@
       "duration_ms": 151301,
       "name": "My Crush",
       "url": "https://open.spotify.com/track/6FExeov9VrMYBirZHLlEPe"
+    },
+    {
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/4lz4irHhIrEG87IwDVaj9a"
+      },
+      "artists": [
+        {
+          "name": "Aspino Boy",
+          "url": "https://open.spotify.com/artist/2OHkBAJxR1IDT0NGPH3nyw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/2FzFOjE77TB65jLzoPSDVm"
     },
     {
       "album": {
@@ -9222,7 +9280,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 137456,
       "name": "Pretty Bad",
       "url": "https://open.spotify.com/track/5oTtGa7u9VNrTtqh9yjFgx"
@@ -10244,7 +10302,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 160434,
       "name": "Size Yange",
       "url": "https://open.spotify.com/track/0LTXFAgz9DoYeqbBBc8Jw8"
@@ -11400,7 +11458,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 192558,
       "name": "Totta",
       "url": "https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM"

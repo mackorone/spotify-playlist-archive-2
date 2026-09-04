@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 61 songs - 3 hr 31 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 63 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 59 | [Permeate](https://open.spotify.com/track/4azd1Y7g9cWYGumNTMZcFq) | [fifth forgotten](https://open.spotify.com/artist/4joGAdzSMqBIPbovcTaHUM) | [Permeate](https://open.spotify.com/album/2PrloaxRVjvxR9PoOPJtUp) | 2:19 |
 | 60 | [Stall](https://open.spotify.com/track/5L53EUM56JL5Onpyd393rM) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Stall](https://open.spotify.com/album/47Oyl3hqIWQNY0oX3dHAUG) | 4:02 |
 | 61 | [SURF GREEN](https://open.spotify.com/track/3jiaah6eN1dhcilAWfOnFu) | [Secret radio](https://open.spotify.com/artist/41HBxuuVOLeQkFNGZ3Tyer) | [SURF GREEN](https://open.spotify.com/album/2dZCmI8Sv54L4YPUK8skZu) | 2:41 |
+| 62 | [Spy Theme](https://open.spotify.com/track/7n1hddb7fPRDnbOncqkwNB) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [Spy Theme](https://open.spotify.com/album/5ozFsg4dHIhCs82ns81HL4) | 3:00 |
+| 63 | [Ghost](https://open.spotify.com/track/1X0SFZray8E9nkhka4kvAB) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ghost](https://open.spotify.com/album/3kaHd8JpRPfVAXvaIz4lyW) | 3:24 |
 
-Snapshot ID: `AAAQG84MpHwLVTCU7dzKTCAC8R8J1RIS`
+Snapshot ID: `AAAQHZI791cxLoPSuz3L5Z281KuoDmxC`

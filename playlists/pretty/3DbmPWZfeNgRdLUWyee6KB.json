@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXlJXZHH6ceK18X1OIIMf5pEVKjS1+",
+  "snapshot_id": "AAAXlaJXNXoRmety5d0jY8ZXZ7hwiNSs",
   "tracks": [
     {
       "added_at": "2026-08-21 09:03:00",
@@ -1719,6 +1719,22 @@
       "duration_ms": 104414,
       "name": "Plinthe",
       "url": "https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3"
+    },
+    {
+      "added_at": "2026-09-03 06:33:19",
+      "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1"
+      },
+      "artists": [
+        {
+          "name": "Mia Hermann",
+          "url": "https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K"
+        }
+      ],
+      "duration_ms": 202828,
+      "name": "Nicht nur heut",
+      "url": "https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8"
     }
   ],
   "unique_name": "New Indie Music",

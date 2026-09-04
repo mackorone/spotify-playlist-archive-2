@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 92 | [C'est l'hiver](https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Nostalgia Noël](https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn) | 2:32 |
 | 93 | [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 |
 | 94 | [Noël C'est L'amour](https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 6:37 |
-| 95 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
-| 96 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
+| 95 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
+| 96 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
 | 97 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 98 | [Lettre à Papa Noël](https://open.spotify.com/track/1uireIIloJlNEjY9YqMWf6) | [Damoizeaux](https://open.spotify.com/artist/06XE6owWsrgqBiLd9nGej9), [VoxA4](https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs) | [La liste de Noël](https://open.spotify.com/album/2ASFaE4IJyBMyXxd0BQ2By) | 3:59 |
 | 99 | [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 |
 | 100 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
 
-Snapshot ID: `AAAAAHk2Eu45kb9SAj0hugi0jeWJuFdi`
+Snapshot ID: `AAAAAMtYDYnCdfcpzO7cGH3Q9gABVKdo`

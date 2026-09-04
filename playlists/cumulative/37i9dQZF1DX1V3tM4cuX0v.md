@@ -2,9 +2,9 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: DOROFEEVA
+> 50 найгарячіших пісень в Україні\. Обкладинка: Нікіта Кісельов
 
-222 songs - 11 hr 14 min
+223 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2024-06-27 | 2025-08-22 |
 | [Зупини її](https://open.spotify.com/track/74B82JctlL09EYkeTEqhtG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 2:37 | 2025-12-01 | 2026-05-26 |
 | [Зцапала\-злапала](https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Family бізнес](https://open.spotify.com/album/3m2nS5L5E0DGr4yQDukEEY) | 3:23 | 2025-03-10 | 2026-08-07 |
-| [Зійшла Зоря](https://open.spotify.com/track/7nwi27ZEobkE6oDEHNaN0I) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Зійшла Зоря](https://open.spotify.com/album/7k8BEj6CbRPkHyN5BNpw6Z) | 3:27 | 2026-07-02 |  |
+| [Зійшла Зоря](https://open.spotify.com/track/7nwi27ZEobkE6oDEHNaN0I) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Зійшла Зоря](https://open.spotify.com/album/7k8BEj6CbRPkHyN5BNpw6Z) | 3:27 | 2026-07-02 | 2026-09-04 |
 | [Зірочка палай](https://open.spotify.com/track/4J7GqAqdOfYrcOKJIp4m8U) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [Зірочка палай](https://open.spotify.com/album/0Q3gO9yOWmX5yrGf1DrVHe) | 2:08 | 2025-04-14 |  |
 | [Кажи мені правду](https://open.spotify.com/track/4lsQbnwUCPXjPJZ84JFLtp) | [HUDAK](https://open.spotify.com/artist/3poPb56ojafRVuANnCTPIL), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W), [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [MOTANA](https://open.spotify.com/artist/5BP8JAe1kls7LqWojEfYmr) | [Кажи мені правду](https://open.spotify.com/album/32XYKXbYnaYxou7LRW4BOz) | 4:08 | 2026-08-20 |  |
 | [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2024-12-12 | 2026-04-28 |
@@ -153,6 +153,7 @@
 | [Миленький](https://open.spotify.com/track/0K5dkhupd2LyXehp0zbO1h) | [TAYANNA](https://open.spotify.com/artist/68MDO1qEjlimdYonMiWEZt), [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Миленький](https://open.spotify.com/album/0wUyl9j02U3IkieEErkAui) | 3:12 | 2025-10-26 | 2026-04-21 |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2024-12-12 | 2025-10-27 |
 | [Мужчина](https://open.spotify.com/track/2oMasfMjnLEF6JpRDtD1rF) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Мужчина](https://open.spotify.com/album/7foKLOtJJYeTYcO8Jrt8zF) | 2:43 | 2025-04-03 |  |
+| [Музико](https://open.spotify.com/track/0kmkuAikPYfF8WiHpSO5d9) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Музико](https://open.spotify.com/album/3Rq1eggjKkrLlMeQXFQdWb) | 2:42 | 2026-09-03 |  |
 | [Між Сірими Днями](https://open.spotify.com/track/29sPfvUPLHZsHcOnCny9ay) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Між Сірими Днями](https://open.spotify.com/album/61LWCWd6PZVQdhqIfS7uAv) | 3:25 | 2025-03-27 | 2025-05-20 |
 | [На глибині](https://open.spotify.com/track/6ocGHyVybEbqo3zeJkn1H3) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [На глибині](https://open.spotify.com/album/0QxmTGDTrhlF7CfDbiT7da) | 5:00 | 2024-12-19 | 2025-04-29 |
 | [На двох](https://open.spotify.com/track/4IXOijyod4KkXplH3ItNWC) | [OTOY](https://open.spotify.com/artist/2jA3HhqCRImTV9hQF1qz1C), [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На двох](https://open.spotify.com/album/1PjmDKQrBu5iTE2wufbrdU) | 2:30 | 2026-04-27 | 2026-06-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,431 likes - 130 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,485 likes - 130 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 129 | [Looking Up To The Sky](https://open.spotify.com/track/5AxmNIeY9dwOxmTMD9iZId) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Looking Up To The Sky](https://open.spotify.com/album/47tuRfkcxIdKb5lIfW2GoC) | 2:16 |
 | 130 | [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 |
 
-Snapshot ID: `AAAAAD4KBI2ULf7ldG5JfcO1BvmCcNBS`
+Snapshot ID: `AAAAAJUyz52JUU6j8X1sFyiSXpY8fEmI`

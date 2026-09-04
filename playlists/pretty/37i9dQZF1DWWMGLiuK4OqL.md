@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,385 likes - 200 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,467 likes - 200 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Prisoner of Love](https://open.spotify.com/track/1z0mMUQ42n0iqwhkoe1VYi) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Prisoner of Love](https://open.spotify.com/album/7zfYly2CEtkKne6EukRXjw) | 4:16 |
 | 200 | [I Get Along Without You Very Well](https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You should have told me](https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp) | 3:32 |
 
-Snapshot ID: `AAAAAOPeGADKyEosJ6Td+HNk8SHCAYuI`
+Snapshot ID: `AAAAAA9F+S/XwduaEhX3zxW9r6eKXqc+`

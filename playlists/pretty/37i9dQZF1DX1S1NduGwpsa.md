@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Bolden.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,383 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,418 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Finders](https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg) | [Richard Spaven](https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI), [Wildchild](https://open.spotify.com/artist/0tHPntFCJ48YjmDZ8utweA) | [Finders](https://open.spotify.com/album/4iVYjatLRsW8gxtlsOlAjg) | 3:49 |
 | 60 | [Dulce](https://open.spotify.com/track/7jREIuWmgV1bPOvxeRTADF) | [Chassol](https://open.spotify.com/artist/1nw8iwDkSSHqn8S343ODcp) | [Funny How?](https://open.spotify.com/album/7eGFF9yDqqXpqABRdhdtuL) | 5:01 |
 
-Snapshot ID: `AAAAAEgjfI05qZJ96A50C8O3pjWtIMEM`
+Snapshot ID: `AAAAAAOu2go407DxYq3BrmdebZKwPcqh`

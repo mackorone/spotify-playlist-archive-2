@@ -15969,6 +15969,24 @@
     },
     {
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1"
+      },
+      "artists": [
+        {
+          "name": "Mia Hermann",
+          "url": "https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202828,
+      "name": "Nicht nur heut",
+      "url": "https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8"
+    },
+    {
+      "album": {
         "name": "Night and Day",
         "url": "https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP"
       },

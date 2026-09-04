@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,893 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,898 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Voyage](https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Voyage](https://open.spotify.com/album/0aOiy82VnInnw3Av1NptrK) | 4:14 |
 | 60 | [Lunch Blake](https://open.spotify.com/track/1YH9cBtGVOUtRWK882G05l) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x) | [Lunch Blake](https://open.spotify.com/album/0Tzl7PMSqTrQKKQJxtSgFB) | 3:01 |
 
-Snapshot ID: `AAAAABGRqsFfJjpiwrB4xWsygUVa8nyd`
+Snapshot ID: `AAAAANqHFvmkDLFZ20wsmf7U8of4eyiA`

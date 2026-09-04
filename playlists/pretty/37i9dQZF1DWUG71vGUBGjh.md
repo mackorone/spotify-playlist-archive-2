@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 
 > Plug your brain into a modular synthesizer analog loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,539 likes - 144 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,569 likes - 144 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,23 +109,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 99 | [Oxygene, Pt\. 4](https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 4:06 |
 | 100 | [Magic Fly](https://open.spotify.com/track/5PklZKzuqiUrSxgQOs40t6) | [Space](https://open.spotify.com/artist/5SmwbD3wqrybVclRKTbr1M) | [Magic Fly](https://open.spotify.com/album/5aSkXF27XnK6qPVMNO0NeW) | 4:20 |
 | 101 | [Chrome Country](https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [R Plus Seven](https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR) | 5:05 |
-| 102 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
-| 103 | [Symphony for a Spider Plant](https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 2:41 |
+| 102 | [Symphony for a Spider Plant](https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 2:41 |
+| 103 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |
 | 104 | [Equinoxe, Pt\. 5](https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Equinoxe](https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY) | 3:52 |
 | 105 | [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 |
 | 106 | [Cul\-De\-Sac](https://open.spotify.com/track/1XXOdq1sBD0cSyN3DjzKlt) | [Krzysztof Komeda](https://open.spotify.com/artist/6BoLqGW2NuMvgHqiDbyfOC) | [Cul\-De\-Sac & Knife In The Water](https://open.spotify.com/album/3M6aFO2t4IVkK1gMUlOg1W) | 2:38 |
-| 107 | [Mariposas Acuáticas](https://open.spotify.com/track/5us33NoYbYZQrZ9Bi333D8) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 1:44 |
-| 108 | [Plantasia](https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 3:21 |
+| 107 | [Plantasia](https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 3:21 |
+| 108 | [Mariposas Acuáticas](https://open.spotify.com/track/5us33NoYbYZQrZ9Bi333D8) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 1:44 |
 | 109 | [Oxygene, Pt\. 2](https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:46 |
 | 110 | [Db Angels](https://open.spotify.com/track/1G85a7BogVOS1ql5iKvoBl) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 3:16 |
 | 111 | [International Colouring Contest](https://open.spotify.com/track/0R1J6J85Dn19me4bGcsJFf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/6cgYdiQvB0FTVwe3io7LWN) | 3:47 |
-| 112 | [Blow Job](https://open.spotify.com/track/3qMb2EOglQRcSBu4WERRZE) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/5z3JPsBjGXaIUzerAjQSEW) | 4:59 |
-| 113 | [Rhapsody in Green](https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 3:27 |
+| 112 | [Rhapsody in Green](https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG) | 3:27 |
+| 113 | [Blow Job](https://open.spotify.com/track/3qMb2EOglQRcSBu4WERRZE) | [Bruce Haack](https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3) | [Haackula](https://open.spotify.com/album/5z3JPsBjGXaIUzerAjQSEW) | 4:59 |
 | 114 | [Oxygene, Pt\. 1](https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 7:40 |
 | 115 | [Android City](https://open.spotify.com/track/44AbbzjNP2JOSiJXky9I4A) | [Paolo Di Cioccio](https://open.spotify.com/artist/3GNXga9dtpSX9UiPG8MTfx) | [Romantische Technologie](https://open.spotify.com/album/4vuMcGpR8AlANyU7V2VIk2) | 2:48 |
 | 116 | [Electronic Can\-Can](https://open.spotify.com/track/2qw9ni5lD02a4VulGhAXrI) | [Perrey and Kingsley](https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R) | [The In Sound From Way Out](https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK) | 2:04 |
-| 117 | [Analog Dialog](https://open.spotify.com/track/2qy7njw5MSmj4S8XWaRTFB) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [David Chazam](https://open.spotify.com/artist/49nkdr5SwbOV8xD1tp2SGH) | [Eclektronics](https://open.spotify.com/album/0MKKKbaTDi0jNo5i9hXjko) | 4:43 |
-| 118 | [This Is My Beloved](https://open.spotify.com/track/1RlbgwBa87TI4LPtXN2h2c) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [This Is My Beloved](https://open.spotify.com/album/0ZywAQAj8ODegCAZsYOVMV) | 3:04 |
+| 117 | [This Is My Beloved](https://open.spotify.com/track/1RlbgwBa87TI4LPtXN2h2c) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [This Is My Beloved](https://open.spotify.com/album/0ZywAQAj8ODegCAZsYOVMV) | 3:04 |
+| 118 | [Analog Dialog](https://open.spotify.com/track/2qy7njw5MSmj4S8XWaRTFB) | [Jean\-Jacques Perrey](https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx), [David Chazam](https://open.spotify.com/artist/49nkdr5SwbOV8xD1tp2SGH) | [Eclektronics](https://open.spotify.com/album/0MKKKbaTDi0jNo5i9hXjko) | 4:43 |
 | 119 | [In A Latin Moog](https://open.spotify.com/track/13pkVqWQvHhKs6vR0aCJPn) | [The Happy Moog](https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87) | [The Happy Moog](https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7) | 2:28 |
 | 120 | [Mushrooms \(Raag Multani\)](https://open.spotify.com/track/73fEqa2W97tsRn0FMC8KZW) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 1:52 |
 | 121 | [Bingo Shuffle](https://open.spotify.com/track/5H41pwUjCX7Ughfya6Bgi5) | [Elko B.](https://open.spotify.com/artist/1H7ANeaFPlLt6jwdq0B1mu) | [Realm of Rides & Romance](https://open.spotify.com/album/6ke6lmIsyf9AVQH2UXJXg2) | 3:23 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUG71vGUBGjh.md) - [plain]
 | 143 | [Theme from Music for Sensuous Lovers Part I \- Instrumental](https://open.spotify.com/track/5exiBWEuT9tkTUBeVv3adg) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha), [Z](https://open.spotify.com/artist/4Y7g10E15aIfaGngnQrmgh) | [Music from Patch Cord Productions](https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75) | 3:10 |
 | 144 | [Dragonfly](https://open.spotify.com/track/5txsuDBk4Eno0NUcn0sQ8u) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Dragonfly](https://open.spotify.com/album/0dKaijFd0UsW2ObxcoZL09) | 3:18 |
 
-Snapshot ID: `AAAAAPfndAt9qKoS+asY1PXzvVfgZlxo`
+Snapshot ID: `AAAAAPRnDCKwFX2AXS7fgZGnR4G70uYe`

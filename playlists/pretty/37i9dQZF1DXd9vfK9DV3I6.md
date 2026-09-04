@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,791 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,842 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Moroccan Sahara](https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho) | [Moroccan Sahara](https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD) | 3:05 |
 | 100 | [L'infini](https://open.spotify.com/track/1hdlZgHApo8LWhjN1VoaGC) | [YASMINA](https://open.spotify.com/artist/3E5tQJeTqaO7YQxS0f8E8v) | [L'infini](https://open.spotify.com/album/5cQwppAennc6vlaeqCt3Gb) | 3:06 |
 
-Snapshot ID: `AAAAAK1bQ4RRV58lPQ85Nwm5yEQPIVyq`
+Snapshot ID: `AAAAAFLNk1T2D9wJDQ1KkzT8Ern8E1yu`

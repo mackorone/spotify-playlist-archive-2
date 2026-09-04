@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 
 > Find your study focus with high pitched azure noise \- perfect for masking disruptive noises.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,619 likes - 128 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,636 likes - 128 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65QClPuOQgF.md) - [plain]
 | 127 | [Blue Noise Architecture](https://open.spotify.com/track/7u3GWc7xnXci5PV5PLyihN) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Blue Noise Architecture](https://open.spotify.com/album/2g0bySzL5EHwQwFZmyIvY4) | 3:16 |
 | 128 | [Blue Noise Dreamscape](https://open.spotify.com/track/6TaK3sJTvSIqGsEtrkcUoF) | [White Noise Doctor](https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag) | [Blue Noise EP 1](https://open.spotify.com/album/6axMvk1H3LrIFTImtBU9jn) | 2:13 |
 
-Snapshot ID: `AAAAAO0gHpzb+bhTLi8x73lTeT7iKPk4`
+Snapshot ID: `AAAAAJHFqcZGmz7PjvZ1uezhv/QujdI8`

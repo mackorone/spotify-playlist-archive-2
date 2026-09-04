@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Bolela, Bohemio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,737 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,762 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 99 | [No Pudo Funcionar](https://open.spotify.com/track/0WrgZfl7jkamgEo5mxjqKo) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [No Pudo Funcionar](https://open.spotify.com/album/62lHJTyeivT4pAvdNUOgE0) | 3:02 |
 | 100 | [Los Principios](https://open.spotify.com/track/5LgPgNARHG64IaXuwtvuNw) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Queridos Amigos](https://open.spotify.com/album/2UTqapZ5jcnjT5s2NR5UWX) | 2:53 |
 
-Snapshot ID: `AAAAAM6aOuUU9UBedXfNakgJV/SZWdQo`
+Snapshot ID: `AAAAAEADPUh9urzTLV44fZRBQZJ9qig/`

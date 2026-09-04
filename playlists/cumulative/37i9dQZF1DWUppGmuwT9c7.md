@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor jouw zomer aanbevelingen!</a>
 
-212 songs - 10 hr 4 min
+213 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-07-14 | 2026-08-13 |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-14 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2025-07-14 | 2025-10-17 |
-| [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 | 2025-09-20 |  |
+| [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 | 2025-09-20 | 2026-09-04 |
 | [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 | 2026-03-09 |  |
 | [Als De Zon Schijnt](https://open.spotify.com/track/3peTzOA4EMrQejDWL31KMr) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Als De Zon Schijnt](https://open.spotify.com/album/6ksMXdJiJxIwCKL59GCxrH) | 2:17 | 2026-06-01 |  |
 | [Als Ik 't Anders Zou Doen](https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Ik 't Anders Zou Doen](https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh) | 2:46 | 2025-07-14 |  |
@@ -81,6 +81,7 @@
 | [Geniet Zo Van Het Leven](https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Geniet Zo Van Het Leven](https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm) | 2:21 | 2025-12-04 | 2026-01-23 |
 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 | 2025-10-31 | 2026-02-13 |
 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 | 2025-07-14 |  |
+| [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 | 2026-09-03 |  |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2025-07-14 |  |
 | [Hartslag Van Je Heupen](https://open.spotify.com/track/1CPlwOTruxPNdsQrqmhCKo) | [Mike Versteeg](https://open.spotify.com/artist/1EF9A4CUgRWouYS80puSfB) | [Hartslag Van Je Heupen](https://open.spotify.com/album/4JJTmyDkynVtJcV96InaM9) | 2:59 | 2026-06-15 |  |
 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 | 2025-09-04 |  |

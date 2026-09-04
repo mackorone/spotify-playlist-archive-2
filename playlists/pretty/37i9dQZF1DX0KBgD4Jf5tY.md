@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:2Xwx1kR7nPcZlhuHCMTHQO">Joe Elle</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,926 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,931 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [ventimila passi](https://open.spotify.com/track/4GvXwrJPjPVtwPIPHNMr44) | [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [non è uno ; sono due](https://open.spotify.com/album/2NwiFGJdHL3EuLKsca9DWa) | 3:15 |
 | 50 | [Anfield](https://open.spotify.com/track/6nbHwx75LccXZUfvMsYncG) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Anfield](https://open.spotify.com/album/0rJxklj5724y48QB1DZhHF) | 2:59 |
 
-Snapshot ID: `AAAAAFWdxyoDt10QrgQXc0VkwNZXb6Kp`
+Snapshot ID: `AAAAAMc6tD9Y6Lcgo83Mx4zSSwIq1BhS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,450 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,452 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 22 | [Jatta Love You](https://open.spotify.com/track/55c85QgQGXubWcaPeJbWF8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Jatta Love You](https://open.spotify.com/album/2xCyOsRj6ZEFeKPFcAijp2) | 3:51 |
 | 23 | [Defender](https://open.spotify.com/track/695j3oqRL6a4o0oJR2rHS1) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Future Folk](https://open.spotify.com/album/6ukTEfsBa5GIp9nOJQTLkw) | 3:03 |
 | 24 | [Boozed Up](https://open.spotify.com/track/1xDf9yVUKJ9P6OeEHvqAR2) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 2:47 |
-| 25 | [Jutti Jharh](https://open.spotify.com/track/2jEf6dXLaPI8yAZg7Vbeb4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:56 |
+| 25 | [Jutti Jharh](https://open.spotify.com/track/2jEf6dXLaPI8yAZg7Vbeb4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:56 |
 | 26 | [Kali Kite Mil](https://open.spotify.com/track/6FKZaQ6GachmVQgnQDcgn1) | [Kulwinder Dhillon](https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t), [Sukhpal Sukh](https://open.spotify.com/artist/5Fw338we3ckffdJs7goXZs), [Jeet Kaddon](https://open.spotify.com/artist/1J2gSdeSaj3fNWvtrI2x3o) | [College](https://open.spotify.com/album/0sk5iJoQU4uWTqYQWXUzk8) | 3:44 |
 | 27 | [Kill Goriye](https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP) | [Gurj Sidhu](https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv) | [Kill Goriye](https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy) | 3:13 |
 | 28 | [Vail Purane](https://open.spotify.com/track/4zGZkBz95A6ati63S64Bkk) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Zinda](https://open.spotify.com/artist/42MWErlqUcwg8Nc1w27Ter) | [Timeless](https://open.spotify.com/album/5qq6snxXXNJ73QSaUF9PLC) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VNFqEPdDGw.md) - [plain]
 | 99 | [Step Bhull Gyi](https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Bhadauria](https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0) | 3:16 |
 | 100 | [Still Blessed](https://open.spotify.com/track/07HEIcwXVL3RE6fbttEeAp) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Still Blessed](https://open.spotify.com/album/1Tl4m3E5DZxWKnho6jmC2x) | 2:26 |
 
-Snapshot ID: `AAAAAEivofiFp8ffK8GOpduxB/4oA+lO`
+Snapshot ID: `AAAAAIhV8/GC5F++1bML3ii72W9ehUCM`

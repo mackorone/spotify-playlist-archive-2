@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Faria Abdullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,360 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,369 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 43 | [Singari](https://open.spotify.com/track/0hdL2onCuiBZ5xoxqLHwmD) | [C Shor](https://open.spotify.com/artist/1yUQaaxSIq7Pkms4iMvWmR) | [Singari](https://open.spotify.com/album/5VKdfFDU0Wg4wCT6WoFwBQ) | 2:19 |
 | 44 | [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 |
 | 45 | [Ye Ramasilaka](https://open.spotify.com/track/01bofO4sNrsVWuBUb3jNh9) | [Vrusha Balu](https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Arthamaina Adhyayam](https://open.spotify.com/album/4QYGexAakxHjR5RuN2Ugf1) | 4:27 |
-| 46 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
-| 47 | [Dream](https://open.spotify.com/track/7i6jmXMoOIkAMhCP7cIrGr) | [Shreedeep](https://open.spotify.com/artist/5iHRrEoxdYUpAES9n0EYzu), [Tejashwi Padma](https://open.spotify.com/artist/39Fef3uM5lFcvIoVSZFhKZ) | [Dream](https://open.spotify.com/album/3fF8cyP87lOePeOCq3UZJT) | 3:34 |
+| 46 | [Dream](https://open.spotify.com/track/7i6jmXMoOIkAMhCP7cIrGr) | [Shreedeep](https://open.spotify.com/artist/5iHRrEoxdYUpAES9n0EYzu), [Tejashwi Padma](https://open.spotify.com/artist/39Fef3uM5lFcvIoVSZFhKZ) | [Dream](https://open.spotify.com/album/3fF8cyP87lOePeOCq3UZJT) | 3:34 |
+| 47 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
 | 48 | [Kalayaa Nijamaa](https://open.spotify.com/track/1QPYbdy6Wrc9s1bOB5GGQA) | [Nazeeruddin](https://open.spotify.com/artist/0arlsUmMITgYIIfxO7raoR) | [Kalayaa Nijamaa](https://open.spotify.com/album/27cZ6A1XAvfDPeVbClpDY6) | 3:47 |
 | 49 | [Naalo Manasu](https://open.spotify.com/track/3VoZO7ceMwffilEDWQ3tIe) | [Rishit Kaniganti](https://open.spotify.com/artist/5iMObwxm7HwiDjK0dVc51d), [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Naalo Manasu](https://open.spotify.com/album/5HHafTMXy0l5zPlXosDrVW) | 4:06 |
 | 50 | [Amma](https://open.spotify.com/track/4o7tPAJ4vDbBHzM8pJZOyr) | [G.M\. Sathish](https://open.spotify.com/artist/0m9blwcUpRErTUJSNVn7Mb) | [Amma](https://open.spotify.com/album/45WmiWqunnT90rWWOwBcqB) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 99 | [Nuvvu Vuntava?](https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nuvvu Vuntava?](https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ) | 2:32 |
 | 100 | [Anaganaga Jasti](https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf) | [Anaganaga Jasti](https://open.spotify.com/album/2yTlCK9RC9SHT6f1OJ9ji5) | 2:51 |
 
-Snapshot ID: `AAAAAMLn2ML/XvioLTvcifGUAtmhsTJz`
+Snapshot ID: `AAAAABolcLdiJk8ZwNPOEgGeIez8LCzO`

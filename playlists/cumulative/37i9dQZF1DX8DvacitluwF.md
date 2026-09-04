@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Tanerélle
+> The best in South African and international R&B\. Cover: Nasty C, Tellaman
 
-691 songs - 1 day 13 hr 16 min
+692 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [4 U](https://open.spotify.com/track/7H77N9Zm77yJ7bAH4NB8cV) | [S B X](https://open.spotify.com/artist/22iRXe7Ptsc5SiKfYXuK4Q) | [These Songs Are About You](https://open.spotify.com/album/4OGnAhLAnpmpdlIVyIFCdL) | 2:18 | 2024-09-02 | 2024-09-12 |
 | [4am](https://open.spotify.com/track/0a5z5IAC1kssY9gKvBDsW9) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [4am](https://open.spotify.com/album/12Xqw4xIfcWk6ESdetl9YD) | 3:11 | 2024-01-25 | 2024-04-26 |
 | [4ME](https://open.spotify.com/track/1oWKgkHg6hpL5wa4nh69zi) | [Tyrese Brown](https://open.spotify.com/artist/21bHqdLaRqNrRTUEwElyYU) | [4ME](https://open.spotify.com/album/4Q8POfTgrfuetdANwt8CHT) | 2:30 | 2024-04-12 | 2024-08-17 |
-| [4SHO](https://open.spotify.com/track/41E9ki1EIa57anDkzfNXNV) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [4SHO](https://open.spotify.com/album/4bVk5zGDh09UldFTsstEri) | 3:18 | 2026-08-20 |  |
+| [4SHO](https://open.spotify.com/track/41E9ki1EIa57anDkzfNXNV) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [4SHO](https://open.spotify.com/album/4bVk5zGDh09UldFTsstEri) | 3:18 | 2026-08-20 | 2026-09-04 |
 | [5 to 7](https://open.spotify.com/track/5ZyQyKOLMG8ehwmMrGRKyS) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Watchlist](https://open.spotify.com/album/0e4CQsKAPU3hIPipG0h5mX) | 3:20 | 2024-11-29 | 2025-04-25 |
 | [500 Days of Summer](https://open.spotify.com/track/3fMCLPuV1KFyI7Muwn1Zj1) | [Nothando Mamba](https://open.spotify.com/artist/4DMTgsuDFjGAR0Zm4z6Ijj) | [500 Days of Summer](https://open.spotify.com/album/5J0w1dhqjgnXs8py9mktkX) | 2:46 | 2026-05-14 | 2026-06-26 |
 | [6AM](https://open.spotify.com/track/6qXfFSxK7k9OEThbTc2BVR) | [Leo Brenin](https://open.spotify.com/artist/0R9cTlSM85dXQ5PPEXMWrn), [HENNYBELIT](https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP) | [GEN Z](https://open.spotify.com/album/3n4hV3tNr2aCbqxMyIQ9qi) | 3:36 | 2026-07-16 | 2026-07-31 |
@@ -422,6 +422,7 @@
 | [Naledi](https://open.spotify.com/track/4ZYwmP4KGP5igAf3BQ2e2d) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [ThandoNje](https://open.spotify.com/artist/2fxiRVPAfRF85b0qWIHWEA) | [Naledi](https://open.spotify.com/album/0sLeEzNcheTJPAs1bSwij0) | 3:59 | 2025-06-13 | 2025-06-20 |
 | [Narratives](https://open.spotify.com/track/2jYsbeqZnbcGOPuJThK3zi) | [Thami James](https://open.spotify.com/artist/3lEIBIDyiSBWcYxmcSKWoo) | [Narratives](https://open.spotify.com/album/4mxVujJsuDM2Abrr0ywpNB) | 3:39 | 2025-06-13 | 2025-06-20 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-09-11 | 2024-11-29 |
+| [Natural](https://open.spotify.com/track/5bLOAeebzyZRqAtrQ6OEwk) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [T's & C's Apply](https://open.spotify.com/album/381comodDFpQlXwdxvAix1) | 3:18 | 2026-09-03 |  |
 | [Nazama \- A COLORS SHOW](https://open.spotify.com/track/2YX0cRQN7xSMpEhyokEUXM) | [Nyokabi Kariuki](https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2) | [Nazama \- A COLORS SHOW](https://open.spotify.com/album/6fdfkp29lb9ur7tDcVRzqA) | 2:35 | 2023-11-09 | 2024-01-26 |
 | [Ndi a Ni Funa](https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k) | [Ndi a Ni Funa](https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I) | 3:48 | 2025-06-13 | 2025-06-20 |
 | [Ndo Livhuwa](https://open.spotify.com/track/5ECBbluQXHq9cstS7dOex0) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [Ndo Livhuwa](https://open.spotify.com/album/5h3inLRt9hyAfBLGXLtosY) | 5:12 | 2024-01-04 | 2024-02-09 |

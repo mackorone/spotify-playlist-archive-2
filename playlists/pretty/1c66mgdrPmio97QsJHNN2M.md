@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,904 likes - 216 songs - 11 hr 19 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,914 likes - 221 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,5 +224,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 214 | [Tell Me Why](https://open.spotify.com/track/14xVr1mTSAwFY22RgIEzkb) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Tell Me Why](https://open.spotify.com/album/02QFtQGt2W4dzCWCaIvQJ7) | 3:21 |
 | 215 | [I wish](https://open.spotify.com/track/6ihooC7b37rZqSii4LzYes) | [Noxaerin](https://open.spotify.com/artist/5kzkJzCLHYzDnWjv2pgmKx) | [I wish](https://open.spotify.com/album/4ywzcV1B9fmjaX8DVpwtuX) | 3:29 |
 | 216 | [Chemicals](https://open.spotify.com/track/43PAtXAIIMItWW4B2kJAiQ) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Almost There](https://open.spotify.com/album/3EE1IuA4bLvWiYNL6RyeOZ) | 2:30 |
+| 217 | [BLEED OUT](https://open.spotify.com/track/3U2YXGPp3XVFh7T8DpCnwn) | [JAYCO](https://open.spotify.com/artist/5YdLGXi9DkJVEnBQr6iClY) | [BLEED OUT](https://open.spotify.com/album/0YiPhjqrZpUlmJEu5nOSI2) | 1:58 |
+| 218 | [Sugar Key](https://open.spotify.com/track/1L6ObDjFT9RKEzAY1W4e7I) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Sugar Key](https://open.spotify.com/album/6cfTu8eoidouaT6jO2Nub7) | 3:04 |
+| 219 | [Green Gemstones](https://open.spotify.com/track/7eM0HSIfDbzeeOLiJVictB) | [LIZZIE JEAN](https://open.spotify.com/artist/1b6HJ3q8AGKxk3Ujvum9JA) | [Green Gemstones](https://open.spotify.com/album/5zc7sMucDVZvOW7BOPCU2M) | 3:25 |
+| 220 | [Faithless \(Sacrifice\)](https://open.spotify.com/track/2nLkESvNMPNZQZaxZXI8qx) | [Lex Bucha](https://open.spotify.com/artist/32RrPOjvu5FsrIGnVTJdEX) | [Faithless \(Sacrifice\)](https://open.spotify.com/album/0HYfw9R6tktU8N4Q1gXWqQ) | 3:06 |
+| 221 | [Mellow](https://open.spotify.com/track/1pFcAbbMyByoi03hZlOip8) | [DECO\-LUXE](https://open.spotify.com/artist/2j3K8z15j2LdBX0pHafEwD), [Kyat Cute](https://open.spotify.com/artist/4BL32kGiMSmAs1vKPWFfL4) | [Eventide](https://open.spotify.com/album/1J8zyVJVITfNX8sxNhpA4Q) | 3:47 |
 
-Snapshot ID: `AAA78E2WVaBKAwhgaVwy0SgBcAj7Xu0B`
+Snapshot ID: `AAA79e1tP+607YKJL2ZsTk8tgvQL/eRV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,023 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,985 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [In / Out \- Baardsen Remix](https://open.spotify.com/track/2D68vwpabaYmUoyphL54ny) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21), [Andrew Baardsen](https://open.spotify.com/artist/6xwIyd7KPncA3dQcIoPFc4) | [In / Out](https://open.spotify.com/album/7sh1sVkeAsbg4LuGZkKfZZ) | 3:43 |
 | 100 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |
 
-Snapshot ID: `AAAAAKBU334hVtKGM6yZIdAfqhWx0Oe5`
+Snapshot ID: `AAAAACJfPQUckT8ut4vadAFubP8KPADM`

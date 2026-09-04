@@ -940,6 +940,28 @@
     {
       "album": {
         "name": "Mr. Lucky",
+        "url": "https://open.spotify.com/album/5jPWWb3syqkZwQYI4gCCxe"
+      },
+      "artists": [
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        },
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/1GFpwlSrLMHr4y0vL1peoT"
+    },
+    {
+      "album": {
+        "name": "Mr. Lucky",
         "url": "https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc"
       },
       "artists": [
@@ -954,7 +976,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 219053,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT"
@@ -4140,7 +4162,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"

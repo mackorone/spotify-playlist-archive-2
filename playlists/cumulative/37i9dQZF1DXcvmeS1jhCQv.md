@@ -2,9 +2,9 @@
 
 ### [Today's Ireland](https://open.spotify.com/playlist/37i9dQZF1DXcvmeS1jhCQv)
 
-> The best new Irish music in one place 📍 cover: Amble
+> The best new Irish music in one place 📍 cover: Travy
 
-550 songs - 1 day 6 hr 24 min
+552 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Daisy Chains](https://open.spotify.com/track/0pCUjjbww2787QjYwlaD7M) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Daisy Chains \(The Summer EP\)](https://open.spotify.com/album/0N9G9tvD1yueaWjpHSVvSQ) | 3:20 | 2024-07-04 | 2025-01-10 |
 | [daisy chains](https://open.spotify.com/track/5coXwSihPzuc42bOUvYRMf) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [daisy chains](https://open.spotify.com/album/1NT8wYazcYMt7ejaU3mrhh) | 2:45 | 2024-02-02 | 2024-07-05 |
 | [Dance To You All Night](https://open.spotify.com/track/2jajgDOjB79sznUfysRw77) | [Odhran Murphy](https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0) | [Dance To You All Night](https://open.spotify.com/album/5TNgKVajsmM0ft4PrnOWQW) | 2:31 | 2025-11-14 | 2026-07-23 |
+| [Dancing On My Grave](https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Dancing On My Grave](https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex) | 3:16 | 2026-09-03 |  |
 | [Darkside](https://open.spotify.com/track/15t2iqFhnbDl9zgggMlpam) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Darkside](https://open.spotify.com/album/5R317VA16WWT6pfr9Xskn4) | 1:38 | 2025-01-10 | 2025-10-03 |
 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 | 2025-03-07 | 2025-11-14 |
 | [Day By Day](https://open.spotify.com/track/7qnmJKc7wqNrKP8Rkxcdyw) | [Alex Konchar](https://open.spotify.com/artist/0j7yukxKXLsF3DZZhwpyW0) | [Day By Day](https://open.spotify.com/album/74MQXYjrUQbJ7W818qOUw7) | 2:08 | 2024-03-01 | 2024-07-19 |
@@ -162,6 +163,7 @@
 | [EURO\-COUNTRY \- Live at St Anne's](https://open.spotify.com/track/6kuYdbZydyPC70IPBzx6XJ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY \(Live at St Anne's\)](https://open.spotify.com/album/3CYWpfmNx4W5ESAWpIIJu6) | 6:18 | 2026-08-27 |  |
 | [EUROSTAR](https://open.spotify.com/track/4vsBFq7FzZszfgfUIUy7Ai) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [SPOOKY](https://open.spotify.com/album/6cIlRgrzjXGyTwSibBrvrZ) | 3:40 | 2025-01-10 | 2025-11-14 |
 | [Everyone's Here](https://open.spotify.com/track/7uv08gWiki9vJdqlPyQtTW) | [Brién](https://open.spotify.com/artist/3ih9EeN9uAqD2b323DdvMj) | [Everyone's Here](https://open.spotify.com/album/1DKIYposrZBuiAQvfFTBOz) | 2:42 | 2024-11-15 | 2025-05-31 |
+| [Everything is Moving](https://open.spotify.com/track/2UJwTdkR75ka460ZydFisw) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Everything is Moving](https://open.spotify.com/album/7pWToKTjTK42T57ZYkITDK) | 3:10 | 2026-09-03 |  |
 | [Evil](https://open.spotify.com/track/5YemRFrDzu4E7Nli1T3v3p) | [mischa and the bear](https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6) | [Evil](https://open.spotify.com/album/2aALseSQCdYDkdzYeexVu6) | 2:48 | 2026-07-23 | 2026-08-21 |
 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 | 2025-01-31 | 2025-10-11 |
 | [Fake](https://open.spotify.com/track/6Yt1eingZK9xLzoOeuWxJj) | [Sloucho](https://open.spotify.com/artist/0tra0xmq3lbJkWbXGf2da6), [Gemma Dunleavy](https://open.spotify.com/artist/4RdnMFmYii89p8VnyvPHKr) | [Fake](https://open.spotify.com/album/0pUqf3yaHSWtkcgdIJU1yf) | 3:24 | 2026-07-22 |  |
@@ -337,7 +339,7 @@
 | [Nibbler](https://open.spotify.com/track/1WBKAnaYxSEwOQTTULsQwc) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Nibbler](https://open.spotify.com/album/2ioWl1zUD1S5bJVx2RBuxR) | 2:49 | 2026-06-18 |  |
 | [Nice](https://open.spotify.com/track/2mkFwte3xd1nqFR0CScmoA) | [Katie Murray](https://open.spotify.com/artist/1fKy25yHQyHzNlLMxnfku8) | [Nice](https://open.spotify.com/album/7vQrbckCt02zK5J0onAWr2) | 3:51 | 2026-06-18 |  |
 | [Nightmares](https://open.spotify.com/track/5sj7q2esW3Ri0SZDdk9zkW) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Nightmares](https://open.spotify.com/album/0RbyXbAchLRqDOa7a4cV8N) | 3:44 | 2024-02-02 | 2024-06-01 |
-| [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 | 2026-05-21 |  |
+| [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 | 2026-05-21 | 2026-09-04 |
 | [No Right Time](https://open.spotify.com/track/02VawMWSiIOTvzxRN1xVtj) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k), [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [No Right Time](https://open.spotify.com/album/59939dOiGsLhlQR3foHWYY) | 3:59 | 2024-10-18 | 2025-05-31 |
 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-01-23 |  |
 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 | 2026-05-21 |  |
@@ -540,7 +542,7 @@
 | [why don't u like me anymore?](https://open.spotify.com/track/70VQZmJsY927oN249j8Czv) | [thanks mom](https://open.spotify.com/artist/3vcuC4PZIUr3AVzbJvvHmD) | [why don't u like me anymore?](https://open.spotify.com/album/03eD81EVF26nuHjHzC9dzI) | 3:39 | 2024-08-16 | 2025-02-01 |
 | [Wild Horses](https://open.spotify.com/track/5CWstgZrgIFR6GFJHJnQ3W) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Wild Horses](https://open.spotify.com/album/7K1AncQZSSd0wUVK3aWNjM) | 2:44 | 2026-07-30 |  |
 | [Wishes](https://open.spotify.com/track/5ehWzatobIYySYrZB0HJ5K) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Wishes](https://open.spotify.com/album/0z4M9I9uvQgCX03hlCcpdC) | 2:54 | 2024-03-22 | 2024-07-19 |
-| [Won't Be Long](https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl) | [Emily Doyle](https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6) | [Fight Or Flight](https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK) | 4:27 | 2026-05-08 |  |
+| [Won't Be Long](https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl) | [Emily Doyle](https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6) | [Fight Or Flight](https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK) | 4:27 | 2026-05-08 | 2026-09-04 |
 | [WOOWOO](https://open.spotify.com/track/0Gz8cNtbexZBFs7snkBrJT) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6) | [WOOWOO](https://open.spotify.com/album/6JcwvHkhXgdweirnmLW8dq) | 3:21 | 2024-02-02 | 2024-03-22 |
 | [Words](https://open.spotify.com/track/6t2vz11wR5Jzs1b1KHfDmn) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Words](https://open.spotify.com/album/1uRqKyjf4aSw8g68tXy754) | 2:40 | 2024-02-02 | 2024-03-22 |
 | [Wretched](https://open.spotify.com/track/0UpfYdgOKjW6ui1TNnkJUZ) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Wretched](https://open.spotify.com/album/4fYvu8Dm4AHQtHeVJOprrH) | 3:36 | 2024-02-02 | 2024-07-05 |

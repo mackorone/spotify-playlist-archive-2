@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 55014,
+  "num_followers": 55020,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAADJQAQEs3/seqyCl5P2VhmP",
+  "snapshot_id": "apdnAAAAAAB8fKB1mqAlZ3Z9hlupkznx",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 250133,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Under The Earth",
-      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Is EP",
         "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 163933,
       "name": "Kiss, Kiss",
       "url": "https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Under The Earth",
+      "url": "https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hidden in Pieces: Live at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 196733,
       "name": "Hyperballad - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/6YOgoaTuNryUPexyDH5esI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
     },
     {
       "added_at": null,

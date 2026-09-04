@@ -4,10 +4,11 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-172 songs - 11 hr 32 min
+174 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...dan berpesta](https://open.spotify.com/track/0n77r1eNDkSSpNE32xvhbJ) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [...dan berpesta](https://open.spotify.com/album/5qc8i560sWUyhRPrEX7Mo0) | 3:53 | 2026-09-03 |  |
 | [7942](https://open.spotify.com/track/0xzKYFkaAz6ghf4b5DFWNb) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/6fURT60sqPccrtfa0bhgpO) | 3:58 | 2022-05-26 | 2023-01-20 |
 | [7942](https://open.spotify.com/track/5KKExY5gsSnK8OUKMgeSOO) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [7942](https://open.spotify.com/album/0Fj7skkiFSSaRHjY50cRnK) | 3:58 | 2022-05-26 | 2022-07-29 |
 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-05-03 |  |
@@ -17,7 +18,7 @@
 | [April is a lie \(feat\. salasa\)](https://open.spotify.com/track/0jxdad1Loq437CrfU4jX59) | [sunny after rain](https://open.spotify.com/artist/0h1BKDiSM47e0dNBoExa5N), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [April is a lie](https://open.spotify.com/album/7qzfjQmPpba2duIBdYu9u0) | 3:39 | 2023-05-18 |  |
 | [Aurora](https://open.spotify.com/track/2GximZExZTIeiwKPfVD4Zb) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aurora](https://open.spotify.com/album/1T20Fp610Ugy5v2lZLVeIg) | 3:45 | 2024-01-06 |  |
 | [Baby I'm Good \(Wake\-Up Tune\)](https://open.spotify.com/track/0Dhd8t73mR5sqwDOO21ag2) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Still Good](https://open.spotify.com/album/4qBbqh8QtYLOHyRbpQ2nZx) | 4:18 | 2022-05-26 |  |
-| [C.H.R.I.S.Y.E.](https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [C.H.R.I.S.Y.E.](https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH) | 5:10 | 2022-05-26 |  |
+| [C.H.R.I.S.Y.E.](https://open.spotify.com/track/42si4ikg5dh732gPuQ0xHb) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY) | [C.H.R.I.S.Y.E.](https://open.spotify.com/album/3CVNmMgqfF8Rr3tiOqFvkH) | 5:10 | 2022-05-26 | 2026-09-04 |
 | [Cherry Blossom](https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:39 | 2024-01-06 |  |
 | [Chérie](https://open.spotify.com/track/543porKxyhy643TaLca8PQ) | [Kurosuke](https://open.spotify.com/artist/5Le7DsHESXGLb12JNKPpnR) | [Distant Memories](https://open.spotify.com/album/30ez8yRfd9IS3HfxGBABLc) | 4:05 | 2023-10-19 |  |
 | [Cinta Yang Baru](https://open.spotify.com/track/60B0QJiu537CpR271O0ael) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW) | [Cinta Yang Baru](https://open.spotify.com/album/4VY2hVNomWfL1TDgVCoVp8) | 3:37 | 2022-05-26 | 2025-09-17 |
@@ -170,13 +171,14 @@
 | [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 | 2024-01-06 | 2024-10-25 |
 | [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 | 2024-01-06 | 2024-09-28 |
 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 | 2026-07-14 |
-| [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-09-16 |  |
+| [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-09-16 | 2026-09-04 |
 | [切ない](https://open.spotify.com/track/4jLnRj5b0KGX5v6UPqO6tS) | [Skastra](https://open.spotify.com/artist/29sYgtFF2sRAVbzZ64rbkB) | [切ない \(Nelangsa\)](https://open.spotify.com/album/44VDPRIif3YJLY5tXzWLIG) | 4:48 | 2026-07-14 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 | 2024-04-19 |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 |  |
 | [容易厭倦的時刻 \- Tsudio Studio Remix](https://open.spotify.com/track/308LFXPTq5qZgqZpKzBr33) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [容易厭倦的時刻 \(Tsudio Studio Remix\)](https://open.spotify.com/album/3LxPlbXVlRges9ZoZbkwv5) | 4:04 | 2023-02-02 |  |
 | [有你萬事屋](https://open.spotify.com/track/4hX2vMHvJ9gxLoUS5W8qur) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [有你萬事屋](https://open.spotify.com/album/55ZsM5ZiUu7viOyuhhNGhh) | 3:51 | 2025-09-16 |  |
 | [真夜中のドア / STAY WITH ME](https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [真夜中のドア / STAY WITH ME](https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI) | 5:11 | 2022-05-26 |  |
+| [秘密 the hidden me](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密 the hidden me](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 | 2026-09-03 |  |
 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 | 2023-10-19 | 2024-04-19 |
 | [都市爬行](https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S) | 4:04 | 2023-07-06 | 2023-10-23 |
 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 |  |

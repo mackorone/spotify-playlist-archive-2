@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,955 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,964 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 |
 | 100 | [Same Rules](https://open.spotify.com/track/5ZzFI476Vwg5z4HlmHjI9m) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Same Rules](https://open.spotify.com/album/1GI4DEr60qxGpq2Pnx9mD0) | 3:47 |
 
-Snapshot ID: `AAAAAO3PzHe0ZGf097Z/R1kK/hgm/G9W`
+Snapshot ID: `AAAAAJCtxx69VCDpIsJ5VKrsjVI98/YK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,544 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,543 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 99 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 100 | [Seachain](https://open.spotify.com/track/5I5QQqPu7S5hFbFfhyodIg) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Seachain](https://open.spotify.com/album/5B7SlvZg8nSPmk7fcskVwl) | 3:39 |
 
-Snapshot ID: `AAAAAO13/OnstCuK+OpptJ7cIg/zyxbL`
+Snapshot ID: `AAAAAPSkqBmzWHDuduaD60XzV7XlNz7F`

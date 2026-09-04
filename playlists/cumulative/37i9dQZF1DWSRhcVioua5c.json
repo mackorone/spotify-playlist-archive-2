@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Faro",
+        "url": "https://open.spotify.com/album/5r90cXr7I4gKnP4TbZ3i7p"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173738,
+      "name": "Faro",
+      "url": "https://open.spotify.com/track/59I5OCydnVUAw7v87zJRPU"
+    },
+    {
+      "album": {
         "name": "Tierra Mia",
         "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 248653,
       "name": "Nuestro adi\u00f3s 24b",
       "url": "https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: Jack, Mula en Bokoesam. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
+  "description": "\u2757\ufe0fNieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 173513,
       "name": "100K Summer",
       "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 123870,
       "name": "BARZ",
       "url": "https://open.spotify.com/track/2aB7oEYgD3beidlijXZNzr"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177103,
       "name": "Cold Case",
       "url": "https://open.spotify.com/track/6giNqJg5xCRHcRE8Oqulb7"
@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "DOWN",
+        "url": "https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g"
+      },
+      "artists": [
+        {
+          "name": "DIM",
+          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "DOWN",
+      "url": "https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q"
+    },
+    {
+      "album": {
         "name": "Dromen Achterna",
         "url": "https://open.spotify.com/album/5xEDclHO7NfsaCW4BqpgVz"
       },
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 136882,
       "name": "Extra",
       "url": "https://open.spotify.com/track/4LTSN3uEYbjO5U0To8hBnU"
@@ -5815,6 +5833,28 @@
     },
     {
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
+    },
+    {
+      "album": {
         "name": "Laatste Adem & Getinte Ramen",
         "url": "https://open.spotify.com/album/1A3585zjtrgLWZDrm9uwG3"
       },
@@ -6082,7 +6122,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 149538,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/62aNBgDhsUJEH3bHgSOGRW"
@@ -8505,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf"
+      },
+      "artists": [
+        {
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD"
+    },
+    {
+      "album": {
         "name": "Prada Met Lak",
         "url": "https://open.spotify.com/album/2fUAbxS0t0WbUaHTOOXLXw"
       },
@@ -8604,6 +8662,24 @@
       "duration_ms": 204000,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/1OnYz9UEfqBm00YYXaczcf"
+    },
+    {
+      "album": {
+        "name": "Proces",
+        "url": "https://open.spotify.com/album/223lSi1pymb9xMgJy1AfUv"
+      },
+      "artists": [
+        {
+          "name": "Giegs",
+          "url": "https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149629,
+      "name": "Proces",
+      "url": "https://open.spotify.com/track/0M5Plpj3jEOMxBObus0OsA"
     },
     {
       "album": {
@@ -8742,7 +8818,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169591,
       "name": "R&B SH*T",
       "url": "https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q"
@@ -8768,6 +8844,24 @@
       "duration_ms": 138260,
       "name": "Range",
       "url": "https://open.spotify.com/track/2zoluwABwWrv3JCA1kzrPC"
+    },
+    {
+      "album": {
+        "name": "Rare Guy",
+        "url": "https://open.spotify.com/album/1oVBecxqzylVios2DEPRm0"
+      },
+      "artists": [
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283227,
+      "name": "Rare Guy",
+      "url": "https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5"
     },
     {
       "album": {
@@ -9608,7 +9702,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 189295,
       "name": "SLIDESHOW",
       "url": "https://open.spotify.com/track/1My084FqEAZkjIiauYeicO"
@@ -10581,6 +10675,32 @@
     },
     {
       "album": {
+        "name": "49",
+        "url": "https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "uit de bocht",
+      "url": "https://open.spotify.com/track/2F8xdub8zP74OzvI1DpzhH"
+    },
+    {
+      "album": {
         "name": "Uit De La",
         "url": "https://open.spotify.com/album/2NUGQvGSKHZzNkTfPEzFOI"
       },
@@ -10977,6 +11097,24 @@
     },
     {
       "album": {
+        "name": "Verwaarloosd",
+        "url": "https://open.spotify.com/album/5VkVnnlmKPfytBIjM3HZVh"
+      },
+      "artists": [
+        {
+          "name": "Momi",
+          "url": "https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Verwaarloosd",
+      "url": "https://open.spotify.com/track/0OCvoeavA2efFRsvy13zzr"
+    },
+    {
+      "album": {
         "name": "VIES WERK",
         "url": "https://open.spotify.com/album/7tsbtwIYLw9oiF3CeLagJw"
       },
@@ -11084,7 +11222,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 130340,
       "name": "Vliegveld",
       "url": "https://open.spotify.com/track/6T4c8NIzwTCZr0EW7vYWqx"
@@ -11798,6 +11936,32 @@
       "duration_ms": 205565,
       "name": "WTBBA?!",
       "url": "https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM"
+    },
+    {
+      "album": {
+        "name": "YOLO",
+        "url": "https://open.spotify.com/album/1hc8flRzKYOF9GGjo6Vf7f"
+      },
+      "artists": [
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Djeezie",
+          "url": "https://open.spotify.com/artist/4y2MHpVxytZQM5ubvO1kml"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126785,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/2n85FJB84RJNkiNSAFozPn"
     },
     {
       "album": {

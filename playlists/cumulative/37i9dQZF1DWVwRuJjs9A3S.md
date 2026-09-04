@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie\. Cover: garbagepink
+> Det senaste och bästa från världen av indie\. Cover: Carlina de Place
 
-1,373 songs - 3 day 7 hr 2 min
+1,379 songs - 3 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [93](https://open.spotify.com/track/7cXahVgqyaoKImQnTwBpik) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [93](https://open.spotify.com/album/6rK1HK3atMtYTH8f8xxxip) | 2:34 | 2025-03-07 | 2025-05-16 |
 | [95](https://open.spotify.com/track/6YPKnFbLT4i08pAbeCjus1) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [95](https://open.spotify.com/album/4o9f5C3BreXh63IaY0zld0) | 3:23 | 2025-12-11 | 2026-05-01 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-27 | 2024-08-16 |
+| [A Girl Who Needs A Brain](https://open.spotify.com/track/4SNeJ2ZfT0KWbwbWXK3VjT) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [A Girl Who Needs A Brain](https://open.spotify.com/album/4maZBd1IYBvfCCY1cjsqlP) | 2:02 | 2026-09-03 |  |
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 | 2025-02-28 |
 | [A Perfect Storm](https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [A Perfect Storm](https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK) | 3:04 | 2026-02-26 |  |
 | [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 | 2026-04-09 |  |
@@ -170,6 +171,7 @@
 | [Boys Don't Cry](https://open.spotify.com/track/6mAJ6zg0qt6oWu4IdYkP3d) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Boys Don't Cry](https://open.spotify.com/album/6tALCdY8BWXAYqyZ0A2UEi) | 2:50 | 2025-08-21 | 2026-01-16 |
 | [Break Me Down](https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Break Me Down](https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0) | 2:28 | 2024-10-10 | 2025-02-21 |
 | [Break the Ice](https://open.spotify.com/track/0Hd36xyIMV9dQCneVpuzU5) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Break the Ice](https://open.spotify.com/album/0XlF36YWtsTnqsBbCqNlX7) | 3:12 | 2025-02-20 | 2025-04-04 |
+| [Breaking Free](https://open.spotify.com/track/6tYHB6ZNcG5vZ71HNvBsgy) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Breaking Free](https://open.spotify.com/album/1lARSPAtWrAblqGuhof2aN) | 3:48 | 2026-09-03 |  |
 | [Breaking Point](https://open.spotify.com/track/5v7Wn3282jUbkqT8dhkCwn) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Breaking Point](https://open.spotify.com/album/12GfWaAGM3hXcWjdyuF6bK) | 2:37 | 2026-04-16 |  |
 | [Brideshead](https://open.spotify.com/track/1B5AjxO07mIGx6ujhXo6BC) | [Clutter](https://open.spotify.com/artist/5HnivENHHPzXpjX0SIRVGq) | [Brideshead](https://open.spotify.com/album/6nydNcOoj2lRxAIMaQUxQe) | 4:00 | 2025-03-07 | 2025-05-16 |
 | [bright up](https://open.spotify.com/track/41uU6bRGrSkcwjl5h5xW6a) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [bright up](https://open.spotify.com/album/5Rkj9zbI6Uz0MSagQA9QS5) | 2:28 | 2026-03-26 |  |
@@ -361,6 +363,7 @@
 | [Every Part of Me](https://open.spotify.com/track/0goH1d2JQVnLz6KweTsZzG) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Silver Bead Eyes](https://open.spotify.com/album/3QsOe6bfmogppjP21oRemA) | 3:34 | 2025-02-27 | 2025-04-25 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-21 | 2026-01-16 |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-04-03 | 2025-06-20 |
+| [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 | 2026-09-03 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-02-13 | 2025-04-11 |
 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2024-10-17 | 2025-04-18 |
 | [Everytime](https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Everytime](https://open.spotify.com/album/1kdno9FddW1Tys8AMQ17Jy) | 2:49 | 2024-06-27 | 2024-08-23 |
@@ -395,6 +398,7 @@
 | [Flink Pike](https://open.spotify.com/track/1Iil2tX28N7tAAGxRrW8PL) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Flink Pike](https://open.spotify.com/album/53BDWgZ95h3taij0mOcR26) | 2:53 | 2025-04-10 | 2025-07-04 |
 | [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 | 2026-07-23 |  |
 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 | 2026-04-16 |  |
+| [florence!](https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [florence!](https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl) | 2:45 | 2026-09-03 |  |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2024-11-22 |
 | [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 | 2024-09-27 |
 | [Follow You](https://open.spotify.com/track/59aNlb5D19i1GJarfrE68e) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Follow You](https://open.spotify.com/album/4BinvGl3N2xM2gbrKqSEpH) | 2:59 | 2024-12-05 | 2025-02-07 |
@@ -847,6 +851,7 @@
 | [Nihilist](https://open.spotify.com/track/6CmiNk8xgFGonzQYr6dPFU) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [Nihilist](https://open.spotify.com/album/3ZzdbQk3LgpxvsAQ7Fhz5c) | 2:30 | 2025-05-29 | 2025-10-10 |
 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 | 2026-05-28 |  |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-27 | 2024-08-23 |
+| [No One Calls](https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [No One Calls](https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h) | 2:35 | 2026-09-03 |  |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-08-15 | 2024-09-27 |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2024-11-01 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-10-11 |
@@ -1144,6 +1149,7 @@
 | [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 | 2026-04-23 |  |
 | [Swan](https://open.spotify.com/track/2n4hJBLbxY8rCmehI43Hzg) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [Swan](https://open.spotify.com/album/4HMdVZpaqW7aaM984jGBe2) | 2:38 | 2025-02-13 | 2025-03-28 |
 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-05-29 | 2025-10-17 |
+| [Swedish Mermaid](https://open.spotify.com/track/5rpxjL5pKS1tRSCBj35tWo) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Swedish Mermaid](https://open.spotify.com/album/1cnTmCiFlz5Vak5tQLtS4v) | 3:29 | 2026-09-03 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-30 | 2025-04-25 |
 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 | 2026-06-18 |  |
 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-30 | 2026-05-01 |

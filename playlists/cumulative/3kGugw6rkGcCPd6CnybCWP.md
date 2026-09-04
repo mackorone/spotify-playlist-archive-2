@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-503 songs - 1 day 5 hr 11 min
+505 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 | 2026-07-01 |
 | [Getting Deeper](https://open.spotify.com/track/6voBpAEU8b7ZT6Vz5K6JW9) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Getting Deeper](https://open.spotify.com/album/7euIEY0TVksPoeQxMZ9Gs3) | 3:12 | 2026-04-20 | 2026-07-01 |
+| [Ghost](https://open.spotify.com/track/1X0SFZray8E9nkhka4kvAB) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ghost](https://open.spotify.com/album/3kaHd8JpRPfVAXvaIz4lyW) | 3:24 | 2026-09-03 |  |
 | [Ghosts](https://open.spotify.com/track/4ma25GBIHco2FLwqkgd4Et) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:53 | 2026-03-04 | 2026-04-16 |
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 | 2026-03-10 |
@@ -391,6 +392,7 @@
 | [Spacecat](https://open.spotify.com/track/6J9exNHLIQCWBFt3ImK94Z) | [Jeanette Summers](https://open.spotify.com/artist/2xJV4YACXieIEFM5iH9VLi) | [Spacecat](https://open.spotify.com/album/6VKiseKucbHBXLvXLpO2w6) | 4:18 | 2026-07-25 |  |
 | [Spilt Ink](https://open.spotify.com/track/7psQCZgVrspO50AANouKzy) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Spilt Ink](https://open.spotify.com/album/2psiRsyUI5VnTWI1UR3Ccr) | 3:57 | 2026-06-30 | 2026-08-18 |
 | [Springtime](https://open.spotify.com/track/2w6Dv6rDHlQrUx6XTzznYA) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Springtime](https://open.spotify.com/album/0YxidahcHccoHCAQiUcuSJ) | 2:42 | 2026-03-31 | 2026-05-06 |
+| [Spy Theme](https://open.spotify.com/track/7n1hddb7fPRDnbOncqkwNB) | [overscored](https://open.spotify.com/artist/4Y7bte48dBbZA5ePVRcRhr) | [Spy Theme](https://open.spotify.com/album/5ozFsg4dHIhCs82ns81HL4) | 3:00 | 2026-09-03 |  |
 | [Stall](https://open.spotify.com/track/5L53EUM56JL5Onpyd393rM) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Stall](https://open.spotify.com/album/47Oyl3hqIWQNY0oX3dHAUG) | 4:02 | 2026-09-01 |  |
 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 | 2026-04-17 | 2026-07-01 |
 | [stardust](https://open.spotify.com/track/3ba4KSPhMcZHHXBYBZgvoF) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [stardust](https://open.spotify.com/album/0NkcS4jIVQg5B5h3dzGMfk) | 2:55 | 2025-11-16 | 2026-01-17 |

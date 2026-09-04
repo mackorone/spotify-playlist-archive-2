@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,644 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,697 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 99 | [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 |
 | 100 | [Promise](https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [Promise](https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e) | 4:04 |
 
-Snapshot ID: `AAAAANz4Khd4z79ByvWL0nsb0OnqdzdI`
+Snapshot ID: `AAAAAL40JSl02crDHTSX2vbDxAZCOx9n`

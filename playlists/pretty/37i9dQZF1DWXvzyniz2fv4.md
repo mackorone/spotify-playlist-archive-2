@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,160 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,162 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Pegando Carona](https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
 | 60 | [Jam \#02 \- Tudo do Melhor/Prosperidade](https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk) | [Jam \#2](https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ) | 3:34 |
 
-Snapshot ID: `AAAAAMbEiukhh147ayLjWZcCgbjZcNOe`
+Snapshot ID: `AAAAANnb8iBarbJzfG2X07LOp5skEu1m`

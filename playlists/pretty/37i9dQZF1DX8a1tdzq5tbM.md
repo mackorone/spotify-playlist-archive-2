@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808,013 likes - 120 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,808,198 likes - 120 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Another Place \- Radio Edit](https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy) | [Mischa Daniels](https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX), [Crown](https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc) | [Another Place](https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw) | 3:36 |
 | 120 | [Heartbreak \- Radio Edit](https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463) | [M'Black](https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E) | [Heartbreak](https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7) | 3:41 |
 
-Snapshot ID: `AAAAAD7qngX1FZunCZQEiTq5kScLapEA`
+Snapshot ID: `AAAAACguOUw23sWCfXXPUnb5qTEL3hsj`

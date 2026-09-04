@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,263 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,253 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 74 | [Heaven \(Butterflies\)](https://open.spotify.com/track/5JYiABJyzqRedaTMLCr0kP) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Heaven \(Butterflies\)](https://open.spotify.com/album/1DiKwaSbeG0G4FXP3GQGb4) | 4:57 |
 | 75 | [See You Soon](https://open.spotify.com/track/6wapYSSHUWcugaK7W6BLsl) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Oxygen](https://open.spotify.com/album/7eTIlScpWObigoFJXZEtpH) | 2:54 |
 | 76 | [What If](https://open.spotify.com/track/4YQU1knQzsxag5JqJyNNMb) | [Plume](https://open.spotify.com/artist/5mwcMzXAn2fReGFjXeGGsJ) | [What If](https://open.spotify.com/album/0DG6SymB8u52tW9xEUMgHB) | 2:43 |
-| 77 | [Joke's on Me](https://open.spotify.com/track/0ZdXnKEN0y9HNFTd9waatN) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Joke's on Me](https://open.spotify.com/album/7hJmL2HKwdUQk5iS3aigNq) | 3:04 |
+| 77 | [Joke's on Me \- Acoustic](https://open.spotify.com/track/0ZdXnKEN0y9HNFTd9waatN) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Joke's on Me \(Acoustic\)](https://open.spotify.com/album/7hJmL2HKwdUQk5iS3aigNq) | 3:04 |
 | 78 | [Big Thoughts \- From the Garden](https://open.spotify.com/track/7jpZjv7It45On6oUc6Fqr0) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Big Thoughts \(From the Garden\)](https://open.spotify.com/album/6uc8vNvSxAgvT6IiQ7wAZW) | 2:57 |
 | 79 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
 | 80 | [Platinum Blonde](https://open.spotify.com/track/3dMMuGZQzgXGHFGRX04MVK) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [I was a platinum blonde](https://open.spotify.com/album/2y2vnFZ7NftliJ6gLZIkRx) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 100 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
 
-Snapshot ID: `AAAAAM58ZSG56vPcr9aCPAkX90iuDeJZ`
+Snapshot ID: `AAAAAHzDw4xCn9eeX3JLO3O3ubEWSlXr`

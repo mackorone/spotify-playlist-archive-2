@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 9 hr 57 min
+191 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Para Olvidarte](https://open.spotify.com/track/0hcWdM4WIeBI7DNlTd2ssb) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 4:17 | 2022-06-04 |  |
 | [PARANORMAL](https://open.spotify.com/track/2m8V3evS07OnhatBWyh0Nt) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:17 | 2023-07-25 | 2024-01-05 |
 | [PARANORMAL](https://open.spotify.com/track/2ynaxymuvgAHsRBOqE4XEq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:17 | 2024-01-04 |  |
-| [Pinterest](https://open.spotify.com/track/58InYX4kAReWUgWJnnKnM2) | [Hiana Oliveira](https://open.spotify.com/artist/2OUpNibGCUfNgGK48YVb1i) | [Ressaca de São João](https://open.spotify.com/album/38wuE9DRLDyFsSxoVg4qc6) | 2:17 | 2026-07-27 |  |
+| [Pinterest](https://open.spotify.com/track/58InYX4kAReWUgWJnnKnM2) | [Hiana Oliveira](https://open.spotify.com/artist/2OUpNibGCUfNgGK48YVb1i) | [Ressaca de São João](https://open.spotify.com/album/38wuE9DRLDyFsSxoVg4qc6) | 2:17 | 2026-07-27 | 2026-09-04 |
+| [Pinterest](https://open.spotify.com/track/6ejjnJmKJgGsWkUXjquGGI) | [Maria Republica](https://open.spotify.com/artist/3OzkpQ0eN65yKclLHHSPKU) | [Samba de uma Nova Nota](https://open.spotify.com/album/4yuxgmdJsQ3uG3fHQLj09h) | 2:32 | 2026-09-03 |  |
 | [Por Primera Vez](https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:02 | 2022-06-04 |  |
 | [Por Pura Curiosidad](https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 3:25 | 2022-06-04 |  |
 | [Que Dios Me Perdone \(con Dalex\)](https://open.spotify.com/track/38LNZa90iY7bkM7EFoYa1L) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:51 | 2024-03-26 | 2025-06-28 |

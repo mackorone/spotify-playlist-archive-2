@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 105 songs - 6 hr 12 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 103 | [Centered](https://open.spotify.com/track/15DiUJAOfFXa4ry8TVCl4I) | [THE EM](https://open.spotify.com/artist/32O0qJQQPS5AbEtweDpE3v) | [Silent Avenue, Vol\. 2](https://open.spotify.com/album/1KCCEOYrwg6lW8jRDFtm9z) | 2:54 |
 | 104 | [Fish & Chips](https://open.spotify.com/track/3FlfuOFyNwXyjSv8udcKQA) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Fish & Chips](https://open.spotify.com/album/6sGInEiyXDwzTwz5r4lSwx) | 3:44 |
 | 105 | [Plinthe](https://open.spotify.com/track/6GMYzLHqaYsuRe4BBwtDE3) | [UDU](https://open.spotify.com/artist/55mFwxCAjmt3l6nmFtP6jp) | [Plinthe](https://open.spotify.com/album/3QG2OmpwhZ3lCKsj27Xkqm) | 1:44 |
+| 106 | [Nicht nur heut](https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 |
 
-Snapshot ID: `AAAXlJXZHH6ceK18X1OIIMf5pEVKjS1+`
+Snapshot ID: `AAAXlaJXNXoRmety5d0jY8ZXZ7hwiNSs`

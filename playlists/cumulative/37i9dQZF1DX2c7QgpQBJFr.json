@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Rare\u0219",
+  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Nuvola",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -514,7 +514,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 194124,
       "name": "2ali",
       "url": "https://open.spotify.com/track/02L8g9AVUDrGyqgBFAjTt0"
@@ -2663,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "Autogrill",
+        "url": "https://open.spotify.com/album/6pIaNuOeyOS0bhIrx7TaZB"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Spira",
+          "url": "https://open.spotify.com/artist/1VBDRtgFjrTUIdue4a9nYF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "Autogrill",
+      "url": "https://open.spotify.com/track/3k6xxzzVGVnYH92jGeabWl"
+    },
+    {
+      "album": {
         "name": "Autostima (luna gibbosa crescente)",
         "url": "https://open.spotify.com/album/4My50ffamNa84059dTiMIt"
       },
@@ -4271,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "CANTILENA",
+        "url": "https://open.spotify.com/album/3ClaRhwmXv4gUZ3TWgtXsx"
+      },
+      "artists": [
+        {
+          "name": "emilianoakario",
+          "url": "https://open.spotify.com/artist/6FAlvEp5DpXRSGN9GOe8l1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210128,
+      "name": "CANTILENA",
+      "url": "https://open.spotify.com/track/6veFfhH5WDuOwBIdG7iY0b"
+    },
+    {
+      "album": {
         "name": "CANTILENE",
         "url": "https://open.spotify.com/album/4zvIEieWH3VhSL9iNE2g22"
       },
@@ -4572,7 +4608,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152126,
       "name": "Cascasse Il Duomo",
       "url": "https://open.spotify.com/track/6AFPE4sLD8DxQktt0tPf7v"
@@ -4608,7 +4644,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 148114,
       "name": "CATALANO",
       "url": "https://open.spotify.com/track/4dB88qTUCkjYQn0ZxIZCuW"
@@ -4996,6 +5032,24 @@
       "duration_ms": 166588,
       "name": "Che ne sai?",
       "url": "https://open.spotify.com/track/1QsgxbubysBHPePv0PuBYG"
+    },
+    {
+      "album": {
+        "name": "che paura!",
+        "url": "https://open.spotify.com/album/2wonxzsDGxnZa8U6YeHgVa"
+      },
+      "artists": [
+        {
+          "name": "Nuvola",
+          "url": "https://open.spotify.com/artist/1DxW7i7SZhmYiNxXIYbV79"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "che paura!",
+      "url": "https://open.spotify.com/track/6O6eDnn6UXfpcZtqhWuFPp"
     },
     {
       "album": {
@@ -5594,6 +5648,24 @@
       "duration_ms": 172769,
       "name": "Colpo di stato",
       "url": "https://open.spotify.com/track/6HL5aWVABB5ViuM1VMvtOk"
+    },
+    {
+      "album": {
+        "name": "com'ero",
+        "url": "https://open.spotify.com/album/4bLXdeOxdqU6SK5TeSUd3j"
+      },
+      "artists": [
+        {
+          "name": "Pietro Motta",
+          "url": "https://open.spotify.com/artist/4lA1XzmKtms1zw2iSnurDR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206415,
+      "name": "com'ero",
+      "url": "https://open.spotify.com/track/6MK3pSUzj1Qd0GhlLuCGxP"
     },
     {
       "album": {
@@ -6446,7 +6518,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 198161,
       "name": "Cuore di latta",
       "url": "https://open.spotify.com/track/3L9wipeeSlOjBGHVJyykhd"
@@ -6464,7 +6536,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 108648,
       "name": "CUORE IN OFF",
       "url": "https://open.spotify.com/track/6mwHTWc7bdlBsiR6s6QFGl"
@@ -10738,7 +10810,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 156000,
       "name": "I NOSTRI ANNI BELLISSIMI",
       "url": "https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs"
@@ -11198,6 +11270,32 @@
       "duration_ms": 177493,
       "name": "IL SOLE",
       "url": "https://open.spotify.com/track/3zk5LaepUYP30KimiGFLUL"
+    },
+    {
+      "album": {
+        "name": "IL SOLE (feat. Alvaro Soler & Roy Paci)",
+        "url": "https://open.spotify.com/album/3hv1rvBltcEwa2VN0bK80U"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Roy Paci",
+          "url": "https://open.spotify.com/artist/6ZABE2V1BqiqDoTT8kgeJb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130389,
+      "name": "IL SOLE (feat. Alvaro Soler & Roy Paci)",
+      "url": "https://open.spotify.com/track/7Eg0McMVERpFrpuJ9P4e0O"
     },
     {
       "album": {
@@ -11686,7 +11784,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152380,
       "name": "Io tu lei lui",
       "url": "https://open.spotify.com/track/2Ml2ScloFiOMlK2ixg9vnU"
@@ -11828,7 +11926,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 203720,
       "name": "Istruzioni",
       "url": "https://open.spotify.com/track/0s0PMCHKuqZrnypRt2a44D"
@@ -12016,6 +12114,24 @@
       "duration_ms": 152000,
       "name": "L'amore che vuoi tu",
       "url": "https://open.spotify.com/track/6lmcQUoJ8onxTO9xntqWT3"
+    },
+    {
+      "album": {
+        "name": "L'ORIGINE DEL TUO DISORDINE",
+        "url": "https://open.spotify.com/album/7mvqQSynjiYeMf5S1Nhuam"
+      },
+      "artists": [
+        {
+          "name": "Distemah",
+          "url": "https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "L'ORIGINE DEL TUO DISORDINE",
+      "url": "https://open.spotify.com/track/6cTFtN0X6zbH9NY6GcT9IU"
     },
     {
       "album": {
@@ -13672,6 +13788,24 @@
       "duration_ms": 180679,
       "name": "loop",
       "url": "https://open.spotify.com/track/73IP6x82Ew9PRuTO9zC9iT"
+    },
+    {
+      "album": {
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/1LA6VsdQLEJ76u6V3egSmE"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166513,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/1Vc9Ku57IN5bnOk2WYeYY0"
     },
     {
       "album": {
@@ -16063,6 +16197,24 @@
     },
     {
       "album": {
+        "name": "MUAY THAI",
+        "url": "https://open.spotify.com/album/5otpzXO9Ni50A2wvdQMLKB"
+      },
+      "artists": [
+        {
+          "name": "Matsby",
+          "url": "https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194805,
+      "name": "MUAY THAI",
+      "url": "https://open.spotify.com/track/4dXEneBsekNOuWYuXhlRZ4"
+    },
+    {
+      "album": {
         "name": "Muffaillusione",
         "url": "https://open.spotify.com/album/6dhLYR2I5SQJiOwU56mDU5"
       },
@@ -17096,7 +17248,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 228800,
       "name": "non pu\u00f2 essere davvero tutto qui",
       "url": "https://open.spotify.com/track/1jZTU9k9ummOqWXm8YPdyp"
@@ -18267,6 +18419,24 @@
     },
     {
       "album": {
+        "name": "online",
+        "url": "https://open.spotify.com/album/6pTnVpG19ytPAMR3ZzdTL3"
+      },
+      "artists": [
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/1eIKZAGB8SRZCpqbBU7SBO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "online",
+      "url": "https://open.spotify.com/track/7vae0CRDS8lC1ZBPRh6U0c"
+    },
+    {
+      "album": {
         "name": "Kalimera",
         "url": "https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF"
       },
@@ -18906,7 +19076,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 154920,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4JKX37OcxWbq2qL0eyVYs2"
@@ -19906,6 +20076,24 @@
       "duration_ms": 160809,
       "name": "Pioggia Col Sole",
       "url": "https://open.spotify.com/track/6qUCgUlybSFYCH8ZrhepoL"
+    },
+    {
+      "album": {
+        "name": "pioggia di luglio",
+        "url": "https://open.spotify.com/album/4Xr6tDddRXpvdBiRxicsYa"
+      },
+      "artists": [
+        {
+          "name": "imthatboi",
+          "url": "https://open.spotify.com/artist/4hOMc8Shbw9RgGtUUd9qFo"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "pioggia di luglio",
+      "url": "https://open.spotify.com/track/5JRkbwYu7d1nVr2EBYIS3Q"
     },
     {
       "album": {
@@ -22126,7 +22314,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 183499,
       "name": "sabato sera (feat. Enrico Nigiotti)",
       "url": "https://open.spotify.com/track/4KVkqDpNaSW9av9kKPRMoe"
@@ -24907,6 +25095,24 @@
     },
     {
       "album": {
+        "name": "Statt' Accort",
+        "url": "https://open.spotify.com/album/4ckpPJ8SbbHIgbDyYFduij"
+      },
+      "artists": [
+        {
+          "name": "Imma",
+          "url": "https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166583,
+      "name": "Statt' Accort",
+      "url": "https://open.spotify.com/track/7jbwwWH7iNDDAViJMwy7H0"
+    },
+    {
+      "album": {
         "name": "STESSO RUMORE",
         "url": "https://open.spotify.com/album/5VOgvNt2tm0fsJYglya0lE"
       },
@@ -25006,6 +25212,24 @@
       "duration_ms": 153383,
       "name": "stress",
       "url": "https://open.spotify.com/track/1IPWNHN3nPWfB1ANexgMEW"
+    },
+    {
+      "album": {
+        "name": "STRIPPER",
+        "url": "https://open.spotify.com/album/4YC00XnYhLvJpj54BIyzLM"
+      },
+      "artists": [
+        {
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "STRIPPER",
+      "url": "https://open.spotify.com/track/6WwWznct55Qb36IN8gnk5y"
     },
     {
       "album": {
@@ -25700,7 +25924,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 224000,
       "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
       "url": "https://open.spotify.com/track/01zwb3TqJG9A6rZlxBsoiF"
@@ -27414,10 +27638,28 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151058,
       "name": "UNA NOTTE (feat. Voga)",
       "url": "https://open.spotify.com/track/2KYWxo2C1Hg8oE579jc2eV"
+    },
+    {
+      "album": {
+        "name": "Una regola",
+        "url": "https://open.spotify.com/album/50svtOCmQPZPFRFMNRn2ww"
+      },
+      "artists": [
+        {
+          "name": "Te quiero Euridice",
+          "url": "https://open.spotify.com/artist/6frAhvskfC3xuQignUYg06"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171581,
+      "name": "Una regola",
+      "url": "https://open.spotify.com/track/2qICSqsUbxnanYQpII4PEv"
     },
     {
       "album": {

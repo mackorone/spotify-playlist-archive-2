@@ -1901,6 +1901,28 @@
     },
     {
       "album": {
+        "name": "Freak In The Building",
+        "url": "https://open.spotify.com/album/4oaEIGZEtGlmaOrj4uFg48"
+      },
+      "artists": [
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        },
+        {
+          "name": "Joey Dale",
+          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190290,
+      "name": "Freak In The Building",
+      "url": "https://open.spotify.com/track/4PxOGOQGXhEToQpumZaDnV"
+    },
+    {
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/26epLAiWNANFcI5FBfbyTi"
       },
@@ -3352,7 +3374,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 158307,
       "name": "Never Gonna Slow Down",
       "url": "https://open.spotify.com/track/6wR88ec53TNKxJ2V42WRmu"
@@ -4222,7 +4244,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176307,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5z7lw7izvTAiQrwkbwQcXu"
@@ -4670,6 +4692,24 @@
       "duration_ms": 154269,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7isvUC2QHP3TVOg4tW1Wjm"
+    },
+    {
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/1UcyNTvztgVuL0x22Tr68R"
+      },
+      "artists": [
+        {
+          "name": "Steeper",
+          "url": "https://open.spotify.com/artist/2uTLykyg4Wk5zBw3Xttmsh"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177642,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/0F64SlTIpdt2O8Woebgzmi"
     },
     {
       "album": {

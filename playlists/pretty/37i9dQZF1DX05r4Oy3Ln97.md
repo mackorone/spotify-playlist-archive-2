@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,585,745 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585,870 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 99 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 | 100 | [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 |
 
-Snapshot ID: `AAAAAOQ9ff0FV+dU9O3heOsA7ElPqufH`
+Snapshot ID: `AAAAAGO0vumkbAflATydvWjWMpxZZ/sn`

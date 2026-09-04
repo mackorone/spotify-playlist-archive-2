@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,923 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,915 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Always You And Me](https://open.spotify.com/track/40hcepAhhkVpYRRPjhXmi9) | [Tob!as](https://open.spotify.com/artist/3jNi6egCA3DtlMBLEqqt6O), [Sula](https://open.spotify.com/artist/5eZVJzX99tmM2goIPe5rCq) | [Always You And Me](https://open.spotify.com/album/2NvOJ8MahUL3r6YzxyNAXt) | 2:09 |
 | 60 | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S) | 2:46 |
 
-Snapshot ID: `AAAAAC1By49HdnobxmyWmSWfw9HnEYGT`
+Snapshot ID: `AAAAABK016Gc60fIw4pTs7VymqmFlb81`

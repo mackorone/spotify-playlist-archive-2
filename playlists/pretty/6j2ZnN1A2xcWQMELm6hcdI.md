@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 308,313 likes - 150 songs - 7 hr 28 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 308,243 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 120 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
 | 121 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 |
 | 122 | [CANDY](https://open.spotify.com/track/61KfU2AHAjgdJOCNPkJejw) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [CANDY](https://open.spotify.com/album/0dusXsSrBWmJiT4VlzImcN) | 1:53 |
-| 123 | [VILLAIN](https://open.spotify.com/track/3ltI92dAwN1ogoZpko8FYY) | [Akini Jing](https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [VILLAIN](https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd) | 3:27 |
+| 123 | [VILLAIN](https://open.spotify.com/track/3ltI92dAwN1ogoZpko8FYY) | [朱婧汐Akini Jing](https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [VILLAIN](https://open.spotify.com/album/5qc3gDYnlSrZJv4niYR8Kd) | 3:27 |
 | 124 | [ECSTASY \(feat\. Bijan\)](https://open.spotify.com/track/01uD81ohGNu6xF4WKVz18z) | [Nnena](https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj), [Bijan](https://open.spotify.com/artist/358oq2kHf2pyRO4HSwlHYN) | [A WOMAN'S MIND](https://open.spotify.com/album/2MYD8D8JnJhahMEuJ5MnDP) | 3:47 |
 | 125 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 |
 | 126 | [RAISE THE STAKES](https://open.spotify.com/track/0fA3Ec33j9N38YKaRCl2r8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(Intl Deluxe\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:23 |

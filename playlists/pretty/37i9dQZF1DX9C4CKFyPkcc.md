@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,107 likes - 200 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,103 likes - 200 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 199 | [This Christmas](https://open.spotify.com/track/7ymACyIlTg1ZTTRoZdnPAN) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [This Christmas](https://open.spotify.com/album/4rzPckbuNLw3gVvFWX7WM7) | 3:08 |
 | 200 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 |
 
-Snapshot ID: `AAAAANtXQ7OzBBAx2bgFmRU6tIDRGqiU`
+Snapshot ID: `AAAAAGkYjK51OHL2bjsTq11B1Bvt4x+D`

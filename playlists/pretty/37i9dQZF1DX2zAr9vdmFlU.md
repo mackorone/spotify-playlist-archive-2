@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,089 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,084 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Game On](https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Game On](https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG) | 5:01 |
 | 100 | [sweet nothings](https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [sweet nothings](https://open.spotify.com/album/2g4XXX6nYFk8YASLT0ssYx) | 2:18 |
 
-Snapshot ID: `AAAAAKNLTx3Iv/MNfDrzudhWLfYzcbhP`
+Snapshot ID: `AAAAADNDYFYjunfZGJ7igsgl06sSHEGU`

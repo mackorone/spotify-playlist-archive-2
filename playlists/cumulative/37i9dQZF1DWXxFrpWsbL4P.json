@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-30",
-  "description": "Dans pisti haz\u0131r! Mix yaln\u0131zca Premium'da. Kapak: Bora Uzer",
+  "description": "Dans pisti haz\u0131r! Kapak: Amelie Lens",
   "name": "DANS 2026",
   "tracks": [
     {
@@ -101,6 +101,28 @@
     },
     {
       "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/1MQ1Kx4VDKrTJaSUQDLP6e"
+      },
+      "artists": [
+        {
+          "name": "Modelers",
+          "url": "https://open.spotify.com/artist/4VeJSLFD1451mKkA3Zg26B"
+        },
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301965,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1Z6UO6f7kfcOEXANuowoN4"
+    },
+    {
+      "album": {
         "name": "Offcuts",
         "url": "https://open.spotify.com/album/4bFMPj86EIvOKaWeL1jRjO"
       },
@@ -152,7 +174,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 202000,
       "name": "angel \u0295\u2022\u1d25\u2022 \u0294",
       "url": "https://open.spotify.com/track/6u4RIruwlM7t7cYv2rOM71"
@@ -310,7 +332,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 154285,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/52aKFNJJYq12IofpHAhWku"
@@ -529,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Colors Collide",
+        "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215170,
+      "name": "Colors Collide",
+      "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
+    },
+    {
+      "album": {
         "name": "Dance Floor DNA",
         "url": "https://open.spotify.com/album/1NB9rSzY8QhpqZuUQN1WFj"
       },
@@ -596,6 +640,42 @@
       "duration_ms": 194000,
       "name": "Doktor - Club Remix",
       "url": "https://open.spotify.com/track/5AxnZ7fXsxSQ6lhLeHVNbt"
+    },
+    {
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/6P6AwBzv5ESD3DohicXvV5"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/7nxu4fQ4ediLKWl8IdMVJ2"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "album": {
@@ -772,7 +852,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 209196,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3VHBZMtsbyx8siEUQZjCn1"
@@ -951,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+    },
+    {
+      "album": {
         "name": "Kali",
         "url": "https://open.spotify.com/album/6VrA4lB91IpmQxN6pNvXYQ"
       },
@@ -970,6 +1068,32 @@
       "duration_ms": 181714,
       "name": "Kali",
       "url": "https://open.spotify.com/track/14c1spA936Yb0dG3dJpbLg"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "album": {
@@ -1287,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230347,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
+    },
+    {
+      "album": {
         "name": "Panjab",
         "url": "https://open.spotify.com/album/1Lkq7m0PezljuJYzz7GUBI"
       },
@@ -1495,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "So Many Things To Say",
+        "url": "https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179500,
+      "name": "So Many Things To Say",
+      "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
+    },
+    {
+      "album": {
         "name": "Solar Skin (feat. jasper.wav)",
         "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
       },
@@ -1514,7 +1682,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 148571,
       "name": "Solar Skin (feat. jasper.wav)",
       "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
@@ -1558,7 +1726,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 255080,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/5rSkTcePXM5wBURKo1tj56"
@@ -1606,7 +1774,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 342295,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/7AR28GCSNaTSOeO2vTIpEx"
@@ -1832,7 +2000,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
@@ -1887,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "WTFA EP",
+        "url": "https://open.spotify.com/album/0C0YmBIeJsnwi542g8IO5k"
+      },
+      "artists": [
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        },
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "Wtfa",
+      "url": "https://open.spotify.com/track/49dsbe6B35KEXuaAGNUove"
+    },
+    {
+      "album": {
         "name": "Yalel",
         "url": "https://open.spotify.com/album/1o0rlOkYFDtva0Mi5YRzbh"
       },
@@ -1938,7 +2128,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 205862,
       "name": "YO DJ!",
       "url": "https://open.spotify.com/track/0azjekivc46pZrwn1z4vnY"
@@ -1956,7 +2146,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 218571,
       "name": "ZEN",
       "url": "https://open.spotify.com/track/2Lip43pi4yeIRm16bIzcaa"

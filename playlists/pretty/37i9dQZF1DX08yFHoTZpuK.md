@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,266 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,306 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 49 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 | 50 | [Stomping Riddim](https://open.spotify.com/track/2sVZqXvh2wHA83q7IkWCYg) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Stomping Riddim](https://open.spotify.com/album/4paQJa1Sq0JCcMnvimE9Ke) | 3:27 |
 
-Snapshot ID: `AAAAAJAk9HBXAPUhM8dFwuinKOaRaXkF`
+Snapshot ID: `AAAAAIVI7wxqrEX7T16htZfr9o2rSM7B`

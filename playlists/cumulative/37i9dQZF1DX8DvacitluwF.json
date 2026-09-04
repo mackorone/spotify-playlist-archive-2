@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Taner\u00e9lle",
+  "description": "The best in South African and international R&B. Cover: Nasty C, Tellaman",
   "name": "R&Beats",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 198709,
       "name": "4SHO",
       "url": "https://open.spotify.com/track/41E9ki1EIa57anDkzfNXNV"
@@ -8238,6 +8238,28 @@
       "duration_ms": 176027,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/381comodDFpQlXwdxvAix1"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/5bLOAeebzyZRqAtrQ6OEwk"
     },
     {
       "album": {

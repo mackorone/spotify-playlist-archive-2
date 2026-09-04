@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 조수미\(Sumi Jo\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,821 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 99 | [Camellia](https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [FLOWER](https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i) | 3:52 |
 | 100 | [Blooming](https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 3:04 |
 
-Snapshot ID: `AAAAAAYIeLmyvVb7enaF9/ikS4lOUwGF`
+Snapshot ID: `AAAAAKsFbCd7sGJA3GkCtL1NTvGCGCgm`

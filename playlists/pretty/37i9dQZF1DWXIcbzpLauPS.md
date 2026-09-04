@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,762 likes - 200 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,743 likes - 200 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 199 | [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 |
 | 200 | [Hollow Walls](https://open.spotify.com/track/0GYW7ykOnrbfWKbmAjeJkt) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Hollow Walls](https://open.spotify.com/album/6GUSCLPmHMldZbOOPSJOcb) | 3:12 |
 
-Snapshot ID: `AAAAAEPRwKSJ+/1BwrglYGQKX2a+7xg0`
+Snapshot ID: `AAAAAD7oKUifj+hzZ9kzMfOa2GncM4q2`

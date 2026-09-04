@@ -1,15 +1,15 @@
 {
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny",
-  "num_followers": 134922,
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
+  "num_followers": 134982,
   "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYq4zq8xCYTjOhJikS1gAO/pARk",
+  "snapshot_id": "AAAAAAnDoPVyImbv0zIQMpmvHnlQB7B/",
   "tracks": [
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Uhakika (Remix)",
         "url": "https://open.spotify.com/album/7I9e7Vm3KKw1Db94EqqvJG"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6Lr6yCLJz8dYhdvhvlCoDv"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Rwanda",
         "url": "https://open.spotify.com/album/0azC32XlyAOFzMXNOVYTE2"
@@ -49,47 +49,27 @@
       "url": "https://open.spotify.com/track/497KEgCt6cqKsxxrw5YeP6"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
-        "name": "MOYO",
-        "url": "https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G"
+        "name": "31",
+        "url": "https://open.spotify.com/album/3zNp3g5kEnRMrhAoxg2qhs"
       },
       "artists": [
         {
-          "name": "Stans",
-          "url": "https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         },
         {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
         }
       ],
-      "duration_ms": 212571,
-      "name": "MOYO",
-      "url": "https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB"
+      "duration_ms": 179336,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6Jwiz7dPghIJ09mx7CkBf0"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
-      "album": {
-        "name": "Mtu Fudenge",
-        "url": "https://open.spotify.com/album/5dpE1mt5cedspnSdshXll7"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "Mtu Fudenge",
-      "url": "https://open.spotify.com/track/5z2OstvhgsGL8WJrYfudEN"
-    },
-    {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Finale",
         "url": "https://open.spotify.com/album/7HByecqUGhHoQjxI8iaBIY"
@@ -109,7 +89,47 @@
       "url": "https://open.spotify.com/track/3EAeMcr78neZnJswrubqna"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
+      "album": {
+        "name": "MOYO",
+        "url": "https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G"
+      },
+      "artists": [
+        {
+          "name": "Stans",
+          "url": "https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "MOYO",
+      "url": "https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB"
+    },
+    {
+      "added_at": "2026-09-03 23:59:13",
+      "album": {
+        "name": "Mtu Fudenge",
+        "url": "https://open.spotify.com/album/5dpE1mt5cedspnSdshXll7"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "Mtu Fudenge",
+      "url": "https://open.spotify.com/track/5z2OstvhgsGL8WJrYfudEN"
+    },
+    {
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6Lbkqp4MmahYVWmBq6LUWR"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Love Design",
         "url": "https://open.spotify.com/album/4ZFec2ttYPEPubrGB2J3Sw"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/7zkZ8iKtTAt97oEosdKMpK"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/2KUWpI3euURpCMGZ4yPPUJ"
@@ -165,7 +185,23 @@
       "url": "https://open.spotify.com/track/3DiN0XrYLqzrekWseFWmm4"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/4RLgpNJBDwJKt2KlVf8EV8"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 164129,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/5GrCmxSzF7Bp9faMRDYqtu"
+    },
+    {
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "DJ",
         "url": "https://open.spotify.com/album/1zO2F0TsrEnmvVsI3VxWWi"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/0E3pEAs5dLxovmbtwykgOe"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Hate That I Love You",
         "url": "https://open.spotify.com/album/6mNgkMoCmIAuQuFDTfMu8M"
@@ -197,7 +233,23 @@
       "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/58qGtJNie1Gw5P2ZKAscgu"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7uuBVFtQZycfIRyNvRFHQK"
+    },
+    {
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "SEXY & BAD",
         "url": "https://open.spotify.com/album/14ZHGqrfL6RcPM49l7vWg3"
@@ -217,7 +269,7 @@
       "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Yoyo",
         "url": "https://open.spotify.com/album/68uiH2UHyO8clfkV4HWnzq"
@@ -233,7 +285,7 @@
       "url": "https://open.spotify.com/track/78AwXtsxAg9TErM4gwNs2k"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Wasiwasi",
         "url": "https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/0ncMgAh9d9EphTcCTSYVqK"
@@ -273,7 +325,7 @@
       "url": "https://open.spotify.com/track/4pDrRoXNJ89IcAVzYLlNkn"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Kipepeo",
         "url": "https://open.spotify.com/album/1sE6KMceLHz58hOeMvJqpJ"
@@ -293,7 +345,7 @@
       "url": "https://open.spotify.com/track/7wgDADTAOcEh6H3RRjo6PX"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Sina Hiyana",
         "url": "https://open.spotify.com/album/5DnaIj9HsHibUO6y2qKuWh"
@@ -309,7 +361,7 @@
       "url": "https://open.spotify.com/track/435UdmvgiAxwv62lIBkExw"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Mama Yangu",
         "url": "https://open.spotify.com/album/1w40QZXQPxIcNVCBzWLoXV"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/3TCC9MfUM5BbV1l1LMNrJW"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/2yBzGSKc9W0KyTb7fwowhW"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/6LhhKqI7A7Pyn6TQp0KqNq"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Sherehe",
         "url": "https://open.spotify.com/album/1PWw7r4Ymv8icT0OwivODB"
@@ -365,7 +417,7 @@
       "url": "https://open.spotify.com/track/49GP5YDvcE0nrY1tfGSAls"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Baraka Nyingi",
         "url": "https://open.spotify.com/album/4dlSafbIgyaTEIY7fOZxK3"
@@ -381,7 +433,7 @@
       "url": "https://open.spotify.com/track/4lXLnRKdciANNcHvaReiem"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Listen to Me Again",
         "url": "https://open.spotify.com/album/4xQ3Molayp9PvepgQsZqe4"
@@ -401,7 +453,7 @@
       "url": "https://open.spotify.com/track/14p6haa3m3b9WxUhDF93iy"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Maneno",
         "url": "https://open.spotify.com/album/1lqhLrO2B7p3hITFbDUihK"
@@ -417,7 +469,7 @@
       "url": "https://open.spotify.com/track/3661gqRjaSc5j9YHqQ31ln"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Buku Jero",
         "url": "https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL"
@@ -433,7 +485,7 @@
       "url": "https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Pombe Niache",
         "url": "https://open.spotify.com/album/1XYGmEyvU3XbYh0iDQ8Mde"
@@ -449,7 +501,7 @@
       "url": "https://open.spotify.com/track/38shMayCyKubmfVHnktY08"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0"
@@ -465,7 +517,7 @@
       "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Dasalama",
         "url": "https://open.spotify.com/album/3Q650ANeEJV8wkSnHNdIuv"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/19QKLeQyOEUsb7ayUqjtFv"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "MMMCXII",
         "url": "https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Hisia",
         "url": "https://open.spotify.com/album/7L3CiF06GtdiSwV5ZnLVfN"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/1IwBKm1vZOYjHR39Uc42Ee"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Kumbe",
         "url": "https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3"
@@ -537,7 +589,7 @@
       "url": "https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Nasinzia",
         "url": "https://open.spotify.com/album/0BxoKKVUyp8HCDR09F9nU7"
@@ -553,7 +605,7 @@
       "url": "https://open.spotify.com/track/5bxgdeBoXeqZ9HgWtkkMUK"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Watu Na Viatu",
         "url": "https://open.spotify.com/album/4phJts8OnRglPyn49ESNGZ"
@@ -573,7 +625,7 @@
       "url": "https://open.spotify.com/track/1Q7OdMbMm905TmBrKkcIoe"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Utanionea",
         "url": "https://open.spotify.com/album/0RmWTSKVOyKwdkTevxFFv2"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/03ew6T1bKkiC73ZpamiyI9"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "AYE",
         "url": "https://open.spotify.com/album/3opoHmLShMPs6Msbd9Hime"
@@ -609,7 +661,7 @@
       "url": "https://open.spotify.com/track/0qJRv1rTdZjncFB1U043tZ"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Presha",
         "url": "https://open.spotify.com/album/68f4KXVR9VcC8MewehJlsk"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/6Ulkn27zYB4Cub9gqKzcIR"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/7MsbcOAMK6MCqILd0ezjkt"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/7JGcBs1zowrL3rYS3qPcIX"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "kama kawa",
         "url": "https://open.spotify.com/album/6fCL3uxX3PjlxaGNyiaqfd"
@@ -673,7 +725,7 @@
       "url": "https://open.spotify.com/track/612wlLKIahLYeTq1BhGcNi"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Self Love",
         "url": "https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO"
@@ -689,7 +741,7 @@
       "url": "https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Mombasa",
         "url": "https://open.spotify.com/album/2i6qYd2aQXtLuDmcyS5lWU"
@@ -705,7 +757,7 @@
       "url": "https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Ozalima",
         "url": "https://open.spotify.com/album/46Ov84XJys5T90FSWtEW7z"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/5NezGnR5QLTum7nuHkwfNO"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Natulizana",
         "url": "https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg"
@@ -737,7 +789,7 @@
       "url": "https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Jizi",
         "url": "https://open.spotify.com/album/5Wp2hr57jrlwKBwo3Ld1N7"
@@ -753,7 +805,7 @@
       "url": "https://open.spotify.com/track/5c9Z73qVp2L4cBFMo25Mcy"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/6a8IX1RjPdBZbTUzNFHiWj"
@@ -773,7 +825,7 @@
       "url": "https://open.spotify.com/track/7btk2D9MmqVZNuyQS8ghXH"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Nitakesha (feat. Dogo Paten)",
         "url": "https://open.spotify.com/album/0qjaqLhn7nZGb1SMxmROJz"
@@ -793,7 +845,7 @@
       "url": "https://open.spotify.com/track/2C8obvSqFeBOtO9Q7OI0FG"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/3a2w2RtqfDtsZ0fAw9Q9uE"
@@ -813,7 +865,7 @@
       "url": "https://open.spotify.com/track/5rdXPdk1QvAeoopHdtPkNF"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Yazoee",
         "url": "https://open.spotify.com/album/6Lc9nilYGt0nnZKRPhXwsa"
@@ -829,7 +881,7 @@
       "url": "https://open.spotify.com/track/7go3M2likVy1B21NC0XJA1"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Iyo",
         "url": "https://open.spotify.com/album/480StamAa1AukvZln5aB7d"
@@ -849,7 +901,7 @@
       "url": "https://open.spotify.com/track/61G4tfLUvb5isV12olpU3e"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/1u4xz5MGmqYxqVMYXdvnyg"
@@ -865,7 +917,7 @@
       "url": "https://open.spotify.com/track/3XRI2PTAJ65j7uPKuvpuNS"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/3t54foBHypQsPElET1ls6c"
@@ -881,7 +933,7 @@
       "url": "https://open.spotify.com/track/46P7l0UD1ZvNj24PHMY4wB"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/5SmlZOCS526S8SRueOK38H"
@@ -897,7 +949,7 @@
       "url": "https://open.spotify.com/track/3ANHY5EdhMkLPlBuI3TH7w"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Kama Sio",
         "url": "https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ"
@@ -917,59 +969,7 @@
       "url": "https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
-      "album": {
-        "name": "Wewe",
-        "url": "https://open.spotify.com/album/6pGLKEtnPe2caApnGszFEX"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 210103,
-      "name": "Wewe",
-      "url": "https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9"
-    },
-    {
-      "added_at": "2026-08-20 23:59:08",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/4Kax3PufTjdDW1jZOfKqav"
-      },
-      "artists": [
-        {
-          "name": "Christian Bella",
-          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0fTykCO8zh7Ymjz06F2vT1"
-    },
-    {
-      "added_at": "2026-08-20 23:59:08",
-      "album": {
-        "name": "Nichum (feat. Darassa)",
-        "url": "https://open.spotify.com/album/4TheUCjOTTQgkYZSLvvA0M"
-      },
-      "artists": [
-        {
-          "name": "Yammi",
-          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
-        },
-        {
-          "name": "Darassa",
-          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Nichum (feat. Darassa)",
-      "url": "https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K"
-    },
-    {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Siku Ya Mwisho",
         "url": "https://open.spotify.com/album/4SROmqULOdq2HBTjTqxIO3"
@@ -985,7 +985,7 @@
       "url": "https://open.spotify.com/track/3nEFbbSfxFShykmjP1KlXD"
     },
     {
-      "added_at": "2026-08-20 23:59:08",
+      "added_at": "2026-09-03 23:59:13",
       "album": {
         "name": "Searching for Love",
         "url": "https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK"

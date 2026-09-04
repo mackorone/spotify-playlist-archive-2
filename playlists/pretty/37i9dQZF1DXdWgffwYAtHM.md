@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:3bNRfx7z564bSH7l8PTPrR">Sarah de Terapia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,079 likes - 9 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,081 likes - 9 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 8 | [mudar de ideia é errar?](https://open.spotify.com/episode/3TpdTGXn7mqhntv4wpUzuZ) | [obra aberta](https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM) | [obra aberta](https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM) | 38:35 |
 | 9 | [Só Pod 102 \- Meu marido convidou a mãe pra nossa viagem](https://open.spotify.com/episode/0fjzdFg5jOnHf6zIQVKlFR) | [Só Pod Ser História • Podcast](https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t) | [Só Pod Ser História • Podcast](https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t) | 41:08 |
 
-Snapshot ID: `AAAAAJBXW4DTGO21pTE2yy6KmHiZqdng`
+Snapshot ID: `AAAAAM7d58f88V60JFsscAH3lEgjcHM1`

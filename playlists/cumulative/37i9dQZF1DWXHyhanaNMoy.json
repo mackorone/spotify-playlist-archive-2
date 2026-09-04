@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes met Bokoesam! <a href=\"spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl\">Check hier meer zomer aanbevelingen!</a>",
+  "description": "Motion & good vibes met Frsh! <a href=\"spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl\">Check hier meer zomer aanbevelingen!</a>",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2366,10 +2366,36 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 124651,
       "name": "BAAGAA",
       "url": "https://open.spotify.com/track/20zYKHqQhQLVGMA5I1Zg01"
+    },
+    {
+      "album": {
+        "name": "Babacan",
+        "url": "https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193237,
+      "name": "Babacan",
+      "url": "https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA"
     },
     {
       "album": {
@@ -5973,6 +5999,28 @@
     },
     {
       "album": {
+        "name": "Bonbonaya",
+        "url": "https://open.spotify.com/album/1hDijf6NhYdqFnOcdRLImt"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132096,
+      "name": "Bonbonaya",
+      "url": "https://open.spotify.com/track/0cXozMQfEzjNdzP0gV4Rzt"
+    },
+    {
+      "album": {
         "name": "Bonken",
         "url": "https://open.spotify.com/album/47yZZtVF1hZHPAoSlr3eaT"
       },
@@ -6289,6 +6337,40 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/7tzBC7fXZKDhNyQECQVd1m"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Captain Scrappy",
+          "url": "https://open.spotify.com/artist/2jIdSiHnlOMWGnJwxTFAEO"
+        },
+        {
+          "name": "SAGE FWI",
+          "url": "https://open.spotify.com/artist/6gjMbxDHd7jY74R0T384M9"
+        },
+        {
+          "name": "DJ Addo",
+          "url": "https://open.spotify.com/artist/29Exc1nK0cLqigZFHBtdB6"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114014,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/13CiTQvNCngWGsL1SrDFjZ"
+    },
+    {
+      "album": {
         "name": "Ereronde (Deluxe)",
         "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
       },
@@ -6602,7 +6684,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179334,
       "name": "Buk",
       "url": "https://open.spotify.com/track/4FzKbi5Jy4X4xeANaBGlsm"
@@ -15034,7 +15116,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 138520,
       "name": "Gwan So",
       "url": "https://open.spotify.com/track/6usphpoSCVuYUVSMq8sHkt"
@@ -19590,6 +19672,28 @@
     {
       "album": {
         "name": "La Vida",
+        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166159,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
+    },
+    {
+      "album": {
+        "name": "La Vida",
         "url": "https://open.spotify.com/album/5Dc3GyedlXR6CcBzFXCCa3"
       },
       "artists": [
@@ -21103,6 +21207,32 @@
     },
     {
       "album": {
+        "name": "LIT",
+        "url": "https://open.spotify.com/album/4HdqHkhQ68rPrbo48qAGk1"
+      },
+      "artists": [
+        {
+          "name": "Lutsha",
+          "url": "https://open.spotify.com/artist/70k1x26JIpExM1EipE2F46"
+        },
+        {
+          "name": "Reevsenn",
+          "url": "https://open.spotify.com/artist/0FgSxHq98GpO2MqKiK2VBb"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127260,
+      "name": "LIT",
+      "url": "https://open.spotify.com/track/0nGMyl2aeLDpZsVyf9GAhC"
+    },
+    {
+      "album": {
         "name": "Lloro",
         "url": "https://open.spotify.com/album/6rsZ96yd1cysGSdpumZMt5"
       },
@@ -21664,6 +21794,24 @@
       "duration_ms": 142352,
       "name": "Lot A Lot A",
       "url": "https://open.spotify.com/track/0KLU7YiCi6aZYkYgL1ZuSf"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt.2",
+        "url": "https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145335,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/5K5nYUjeH3DUcAYTQpZT6o"
     },
     {
       "album": {
@@ -22898,7 +23046,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 167704,
       "name": "Mashakil",
       "url": "https://open.spotify.com/track/6h0dya6yxt7gPkD9uHEq4y"
@@ -23254,6 +23402,24 @@
       "duration_ms": 125094,
       "name": "Mek She",
       "url": "https://open.spotify.com/track/4z94T1JRS8ZjmmGoGNtIhv"
+    },
+    {
+      "album": {
+        "name": "49",
+        "url": "https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142717,
+      "name": "meld je bij mij",
+      "url": "https://open.spotify.com/track/7LMh3R3zrYI7Z7X73vs5iq"
     },
     {
       "album": {
@@ -24154,7 +24320,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 125723,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/0S686rD3xkRD9rNgyD4Zut"
@@ -24244,7 +24410,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 139598,
       "name": "Money & Family",
       "url": "https://open.spotify.com/track/1XUoIr4goxR4TyDFMTiz8y"
@@ -26968,6 +27134,28 @@
       "duration_ms": 134236,
       "name": "OFFICIEEL",
       "url": "https://open.spotify.com/track/5VG7VF3dbmeDBpW197jOtP"
+    },
+    {
+      "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB"
+      },
+      "artists": [
+        {
+          "name": "ENDS",
+          "url": "https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu"
+        },
+        {
+          "name": "Willybeatsz",
+          "url": "https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
     },
     {
       "album": {
@@ -30796,7 +30984,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 153600,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/30peMmhPyRsPsdisYeG0qs"
@@ -31674,7 +31862,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 159183,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
@@ -32812,7 +33000,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 157377,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1j2G3mA1IU54sGcsEON6HB"
@@ -33520,6 +33708,28 @@
       "duration_ms": 141230,
       "name": "Spanje",
       "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
+    },
+    {
+      "album": {
+        "name": "Speelt Met Vuur",
+        "url": "https://open.spotify.com/album/6GZz1lIGzEphaoSJhAMVgy"
+      },
+      "artists": [
+        {
+          "name": "JBigss",
+          "url": "https://open.spotify.com/artist/26wDc3VG393s6Ta4W88AGX"
+        },
+        {
+          "name": "JFT",
+          "url": "https://open.spotify.com/artist/0RiLlPi3La2ar2ybA3Z1po"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "Speelt Met Vuur",
+      "url": "https://open.spotify.com/track/6cXJb4qqiUKsDXnC5cEKzs"
     },
     {
       "album": {
@@ -37893,6 +38103,40 @@
     },
     {
       "album": {
+        "name": "Vinger in je mond",
+        "url": "https://open.spotify.com/album/1yvUzS8iNSbrTEqV4t9KxO"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "Makkie",
+          "url": "https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        },
+        {
+          "name": "TAVV",
+          "url": "https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172845,
+      "name": "Vinger in je mond",
+      "url": "https://open.spotify.com/track/5hwsLwG6gVJnK1BqhVIAgQ"
+    },
+    {
+      "album": {
         "name": "Vini",
         "url": "https://open.spotify.com/album/7ngGuB1j5icCCuqOzjidz3"
       },
@@ -40440,7 +40684,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151680,
       "name": "zeg het meteen",
       "url": "https://open.spotify.com/track/73375slBm9kry1CSwgfkvg"

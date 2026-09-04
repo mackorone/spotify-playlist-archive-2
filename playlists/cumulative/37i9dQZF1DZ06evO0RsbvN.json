@@ -286,7 +286,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 164440,
       "name": "Bessemer Bound Blues",
       "url": "https://open.spotify.com/track/1rfym8MIcFRGbwlPt1NLCw"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182602,
       "name": "Farewell Daddy Blues",
       "url": "https://open.spotify.com/track/4Z1u9GjegmxbnxMByl1BnC"
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 185480,
       "name": "Moonshine Blues",
       "url": "https://open.spotify.com/track/6YdceIwKxlbnZaPUJWOqsi"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 170926,
       "name": "Oh Papa",
       "url": "https://open.spotify.com/track/4T5YRXATJqSgwlJisNJyP4"
@@ -4860,6 +4860,24 @@
       "duration_ms": 185281,
       "name": "Those All Night Blues - Take 1",
       "url": "https://open.spotify.com/track/2hAvLHftNUisa2OnkGjabF"
+    },
+    {
+      "album": {
+        "name": "Ma Rainey Vol. 1 (1923-1924)",
+        "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187942,
+      "name": "Those All Night Long Blues (Take 2)",
+      "url": "https://open.spotify.com/track/3vKJrji9ZcugP3sIoUULQF"
     },
     {
       "album": {

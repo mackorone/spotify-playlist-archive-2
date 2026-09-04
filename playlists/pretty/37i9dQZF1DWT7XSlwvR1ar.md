@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116,287 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116,253 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 149 | [Photographs](https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Photographs](https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J) | 3:18 |
 | 150 | [Honey](https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB) | [Farmer](https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [The Color That Suits You](https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa) | 4:53 |
 
-Snapshot ID: `AAAAALpRrkX3D5PStsL6WB9uUSJdjv8P`
+Snapshot ID: `AAAAAJ76PSJnJcgeSqWgql4Uzgo3pdOZ`

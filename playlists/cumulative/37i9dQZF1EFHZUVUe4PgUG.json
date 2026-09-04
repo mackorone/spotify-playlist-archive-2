@@ -3000,10 +3000,28 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 137837,
       "name": "Pinterest",
       "url": "https://open.spotify.com/track/58InYX4kAReWUgWJnnKnM2"
+    },
+    {
+      "album": {
+        "name": "Samba de uma Nova Nota",
+        "url": "https://open.spotify.com/album/4yuxgmdJsQ3uG3fHQLj09h"
+      },
+      "artists": [
+        {
+          "name": "Maria Republica",
+          "url": "https://open.spotify.com/artist/3OzkpQ0eN65yKclLHHSPKU"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152052,
+      "name": "Pinterest",
+      "url": "https://open.spotify.com/track/6ejjnJmKJgGsWkUXjquGGI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,502 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,599 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 46 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
 | 47 | [Mil Ke Baithange](https://open.spotify.com/track/4JLvkVwrKyNaSprzhNmqmW) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh) | [Angrej \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qjeffUgYZEgUHEt1co56e) | 3:38 |
 | 48 | [Kassam](https://open.spotify.com/track/41KGSoQNccVN6hYNyEgnUG) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Kassam](https://open.spotify.com/album/1c3hKdgbeceARV2H0NlOK9) | 2:29 |
-| 49 | [Jutti Jharh](https://open.spotify.com/track/2jEf6dXLaPI8yAZg7Vbeb4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:56 |
+| 49 | [Jutti Jharh](https://open.spotify.com/track/2jEf6dXLaPI8yAZg7Vbeb4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:56 |
 | 50 | [Do You Know](https://open.spotify.com/track/3kKfPlamJ5CO6j9tA4RdyS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [In Love With Diljit Dosanjh](https://open.spotify.com/album/29DT4MsLF2eLJxyJwivlnD) | 3:32 |
 | 51 | [Nira Ishq](https://open.spotify.com/track/1gl8BBFdMRrgb3P7Jz5JQT) | [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Nira Ishq](https://open.spotify.com/album/5SXFSE6vR5bTsXVwhb9jcq) | 3:01 |
 | 52 | [Into You](https://open.spotify.com/track/4Ele73ctCMDU8qQDIfy9yq) | [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Into You](https://open.spotify.com/album/5sWD7v8WBjWEpck7G5pZCb) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 100 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 
-Snapshot ID: `AAAAAJFvsWavEoopQHFIQaR0K9OyWF7D`
+Snapshot ID: `AAAAAG+WZ8o4wKfSCgEqhzPvAKzpTSzL`

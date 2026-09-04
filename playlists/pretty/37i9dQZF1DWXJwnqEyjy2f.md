@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 
 > <a href="spotify:artist:7sAqpkrQBaOkddsv1Tz1XK">Mosimann</a>'s favourite tracks\. Updated regularly\. Curated by Mosimann\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,520 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,536 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJwnqEyjy2f.md) - [plain]
 | 87 | [Drifter](https://open.spotify.com/track/5NUv3cwQOS7mFDyPk2Dp13) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [EB003](https://open.spotify.com/album/4uHBaJPKzlZTlJ0GQTfXN9) | 4:50 |
 | 88 | [Drums Of The Night](https://open.spotify.com/track/7trz9ICLXgKdIJO5dh0XQ1) | [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Drums Of The Night](https://open.spotify.com/album/4Sfju5cvjewtdJ9aCjgYxE) | 3:17 |
 
-Snapshot ID: `AAAAAM+tSwCo1Um/DI8mvfucx/l0fGNq`
+Snapshot ID: `AAAAAIz7bENGVzTjyIMd9nULvaJ9ZhAy`

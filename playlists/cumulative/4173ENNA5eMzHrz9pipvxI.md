@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: unfazed
 
-2,063 songs - 4 day 3 hr 22 min
+2,065 songs - 4 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 | 2024-01-05 | 2024-01-20 |
 | [All My Life \(feat\. John Martin\)](https://open.spotify.com/track/6ad31Nv4XWsxZqNGWzOcEd) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [All My Life \(feat\. John Martin\)](https://open.spotify.com/album/47tfbM8Z9hEHC3YtMSEcrD) | 2:52 | 2026-05-07 |  |
 | [All My Tears](https://open.spotify.com/track/5tVUZvFsPHGGkQ5RF4CEC9) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Weekend Wonders](https://open.spotify.com/artist/1XTOfdcgXlcBAtbxPLUdsW) | [All My Tears](https://open.spotify.com/album/3SA1Lqhmx2z2ATtRKIkdAU) | 2:36 | 2024-07-12 | 2024-07-27 |
+| [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 | 2026-09-03 |  |
 | [All Night](https://open.spotify.com/track/0l5YR1Z95wLxI8hVMvOvQm) | [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [All Night](https://open.spotify.com/album/5B9VQnwzb1ojRjFvxpzEGB) | 2:26 | 2025-03-06 | 2025-04-19 |
 | [All Night](https://open.spotify.com/track/7LbdiDgAmMO8NskLtb43Yy) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [gritney](https://open.spotify.com/artist/4ffsVdOEMAqvXPPePkgP5d) | [All Night](https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ) | 3:15 | 2024-02-09 | 2024-02-23 |
 | [All Night](https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [All Night](https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd) | 2:22 | 2023-07-21 | 2023-08-20 |
@@ -1012,6 +1013,7 @@
 | [Let It Drop](https://open.spotify.com/track/0t9JXoDIf0sHBXNkw8Hw3o) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Let It Drop](https://open.spotify.com/album/7ioBTB82MiREoFryyTsx3V) | 3:13 | 2023-08-25 | 2023-09-26 |
 | [Let It Rain](https://open.spotify.com/track/5NMfwSnH5QarfMKiCl10GO) | [Luke Miller](https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD), [OFFDATA](https://open.spotify.com/artist/2Gy19A1Xs1NuIHND1dCh7p) | [Let It Rain](https://open.spotify.com/album/1OeAgQpEOIyuE5ghCasm9H) | 2:26 | 2024-10-17 | 2024-11-15 |
 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 | 2024-09-19 | 2024-10-04 |
+| [LET ME BE](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 | 2026-09-03 |  |
 | [LET ME BE \(Hypaton Remix\)](https://open.spotify.com/track/5Vey5CAjwhUBCnF3YUegQt) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [LET ME BE \(Hypaton Remix\)](https://open.spotify.com/album/6HcicZeeiK4bIOuWmwOCtf) | 2:36 | 2026-08-07 |  |
 | [LET ME BE \(Justė Remix\)](https://open.spotify.com/track/3N2XG1mOYr7gCCCPulkuAY) | [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key) | [LET ME BE \(Justė Remix\)](https://open.spotify.com/album/5vCcSSKmG4sPt8ZcXu0DwN) | 3:00 | 2026-08-21 |  |
 | [Let Me Go](https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Let Me Go](https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW) | 2:36 | 2024-06-07 | 2024-06-15 |

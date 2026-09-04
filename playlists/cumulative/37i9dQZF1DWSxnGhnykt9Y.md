@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Skyla Tylaa & Chloe
 
-325 songs - 15 hr 28 min
+327 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [4 by 4!](https://open.spotify.com/track/5j6r3cRdrrY4mz9yI186mf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [4 by 4!](https://open.spotify.com/album/54edT4Q4ZyiD85OnOftdTr) | 2:47 | 2026-07-24 | 2026-07-31 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-11-29 | 2026-07-24 |
 | [4am](https://open.spotify.com/track/6iyQtOBm7vk72oLleHiF2s) | [kosi.](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [UP TIL 5](https://open.spotify.com/album/1xCSwnmyoWjkDGaPhSS2Jd) | 2:09 | 2026-07-24 |  |
+| [6 o'clock](https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [6 o'clock](https://open.spotify.com/album/06kz3NAyivvlbizvcVtAxF) | 2:04 | 2026-09-04 |  |
 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 | 2025-10-10 | 2025-10-25 |
 | [ACCRA GIRLS](https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 | 2026-07-31 |  |
 | [Achalugo](https://open.spotify.com/track/0GHBAiVELnXDCDGnso3NRT) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN) | [Achalugo](https://open.spotify.com/album/6MmsSYwvywyP3PXSVkP151) | 2:09 | 2025-09-05 |  |
@@ -156,6 +157,7 @@
 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 | 2025-03-21 | 2025-10-25 |
 | [Keep on Rocking](https://open.spotify.com/track/45zEXK2pGjbpD19Gkq8lC4) | [Numie](https://open.spotify.com/artist/69PdRVeTO6z9bdr3lZKBpN), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [Keep on Rocking](https://open.spotify.com/album/1cJzV1g6TSUB55A6wpkOGT) | 3:15 | 2026-05-01 | 2026-06-12 |
 | [Knock](https://open.spotify.com/track/14k9nxK5v4bLLpqPdHQKVl) | [Efe Keyz](https://open.spotify.com/artist/6Tdbrk6PZeJ1p8Nr2NUQ5y) | [Knock](https://open.spotify.com/album/7Aq9uJUnF5cIRoJjONlEY0) | 3:38 | 2025-03-28 | 2025-05-17 |
+| [Know You](https://open.spotify.com/track/58nwReMJ5wix6IvUt78sya) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Know You](https://open.spotify.com/album/2O4HKK60xZkvArl0Il5fha) | 2:43 | 2026-09-04 |  |
 | [Kor \(Thank You\)](https://open.spotify.com/track/4Tqpu067VKD9yRDYhIZWCb) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Kor \(Thank You\)](https://open.spotify.com/album/1C5fdseqZUwdypojIoyhps) | 3:17 | 2026-03-13 | 2026-03-27 |
 | [Kwasinda Mana](https://open.spotify.com/track/5AAQl0V7jWGaVvFVmRtm1F) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [Kwasinda Mana](https://open.spotify.com/album/3nM29RGgpCUtCG2pujCsrc) | 6:08 | 2026-03-20 | 2026-06-12 |
 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 | 2025-05-30 | 2026-06-12 |
@@ -265,8 +267,8 @@
 | [Ricochet](https://open.spotify.com/track/4JCgmemmZLvpOy49jnrzdn) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Love is War](https://open.spotify.com/album/1VbgTyrFDJ2HdSL62tLMm1) | 2:58 | 2025-08-29 | 2025-10-25 |
 | [Running](https://open.spotify.com/track/2qWaoTUBcVXXA1QgM5ODLc) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [malaïka](https://open.spotify.com/artist/3gdZY0Ui68OFFeZ27EpGZo) | [Running](https://open.spotify.com/album/5pMMj9DDKEHThmhAaxaHwl) | 3:12 | 2026-06-19 |  |
 | [SAD GIRLZ LUV MONEY](https://open.spotify.com/track/2pgDBO0ZAgvye7joSmdDm8) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:16 | 2025-04-18 | 2026-03-27 |
-| [Salvation Come](https://open.spotify.com/track/1A23vBC7WAHEeZS5JFhc4X) | [Ollà](https://open.spotify.com/artist/7cifbZqhJC93p0pQC4Xmdx) | [Salvation Come](https://open.spotify.com/album/5nVykypDevpj66CX1NniXs) | 3:35 | 2026-07-24 |  |
-| [SANGO, IGI NLA](https://open.spotify.com/track/0wpqpuIgFYhd5WCZEF61RE) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [SANGO, IGI NLA](https://open.spotify.com/album/3XKvhjUxVF4swGgFiFr2zA) | 3:56 | 2026-08-28 |  |
+| [Salvation Come](https://open.spotify.com/track/1A23vBC7WAHEeZS5JFhc4X) | [Ollà](https://open.spotify.com/artist/7cifbZqhJC93p0pQC4Xmdx) | [Salvation Come](https://open.spotify.com/album/5nVykypDevpj66CX1NniXs) | 3:35 | 2026-07-24 | 2026-09-04 |
+| [SANGO, IGI NLA](https://open.spotify.com/track/0wpqpuIgFYhd5WCZEF61RE) | [Teledalase](https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe) | [SANGO, IGI NLA](https://open.spotify.com/album/3XKvhjUxVF4swGgFiFr2zA) | 3:56 | 2026-08-28 | 2026-09-04 |
 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-05-23 | 2026-06-12 |
 | [Sapiosexual](https://open.spotify.com/track/1U87fNBrQuYJgoolhh0WQt) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Sapiosexual](https://open.spotify.com/album/5SyGcOymdbcswIkKi1sQwR) | 2:23 | 2025-03-21 | 2026-02-28 |
 | [Selah](https://open.spotify.com/track/2IXD1gw5ZxwoMpqiPUyWLG) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Selah](https://open.spotify.com/album/4zpIdZ33a6PcIxUexNUZyU) | 3:16 | 2026-05-01 | 2026-05-29 |

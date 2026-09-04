@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings\. Cover: Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,364 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,361 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 99 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
 | 100 | [Sumpah Mati](https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y) | [Niki Becker](https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sumpah Mati](https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h) | 3:28 |
 
-Snapshot ID: `AAAAAEgId58XFHpAeEMvOAvNpss/biKZ`
+Snapshot ID: `AAAAAEe9vYThzycPECT2wFHWW1mUAM4M`

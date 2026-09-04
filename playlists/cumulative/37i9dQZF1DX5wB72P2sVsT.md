@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Ofenbach au top des bangers dance/electro du moment !
+> HUGEL au top des bangers dance/electro du moment !
 
 383 songs - 17 hr 40 min
 

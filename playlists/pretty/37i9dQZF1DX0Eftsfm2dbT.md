@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kaneee \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,561 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,584 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [THE GAME](https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo) | [THE GAME](https://open.spotify.com/album/4iq7ZtFodeZPDeumJADHl2) | 2:46 |
 | 100 | [Driving](https://open.spotify.com/track/5sWtchuJsOQFmX0SDn3ai1) | [16](https://open.spotify.com/artist/77IeznkiGkElBYV1hfo7k4) | [Driving](https://open.spotify.com/album/3XRT0QIm7eyjstGyaL9Zya) | 2:35 |
 
-Snapshot ID: `AAAAALru9YGl/8CS2Lau6xFatXdr77RJ`
+Snapshot ID: `AAAAAHDu9slMZWAbS33GRkuNai1RZZQ3`

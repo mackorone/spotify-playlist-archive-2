@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2zOaxQrkHE4FGO1Vs0oyjL">Morgan Morrison</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,358 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,385 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [Tak łatwo](https://open.spotify.com/track/0filkwRcm6yHpUpEcbmNX0) | [filit](https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4) | [Tak łatwo](https://open.spotify.com/album/6ieh6niewpDnmiezZ39mWb) | 2:49 |
 | 50 | [Za dużo](https://open.spotify.com/track/5xUrgu3iLsKCO4YTvQGuOc) | [Arthur Samuel](https://open.spotify.com/artist/64WaRVdoiHIvj6kZWhv1bl) | [Za dużo](https://open.spotify.com/album/5RZmUhnwuYheTEGsL2Q4vU) | 2:20 |
 
-Snapshot ID: `AAAAAKDAIjM6I+A4+kxbQ5MFH0veRZ0E`
+Snapshot ID: `AAAAAKfDelTAJR4E5ygZhiNSR5eixcrF`

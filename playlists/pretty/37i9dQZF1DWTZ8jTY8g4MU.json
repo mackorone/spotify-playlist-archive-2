@@ -1,12 +1,12 @@
 {
   "description": "\u0634\u064a\u0644\u0627\u062a \u062a\u0634\u064a\u0644 \u0627\u0644\u0644\u064a\u0644\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0646\u062f\u0631 \u0628\u0646 \u0639\u0648\u064a\u0631",
-  "num_followers": 59147,
+  "num_followers": 59160,
   "original_name": " \u0634\u064a\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBTqTsXa2OwsGy19BxbP6Odw5HI",
+  "snapshot_id": "AAAAAFgkTV+lVKQzK5+vu9pBH3cMjUwl",
   "tracks": [
     {
       "added_at": "2026-08-13 10:41:33",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/2ZdtL49qCwk7HBE1ZM7I57"
     },
     {
+      "added_at": "2026-09-03 11:35:39",
+      "album": {
+        "name": "Sadah Wa Qadah",
+        "url": "https://open.spotify.com/album/0RMhGMvkTJZNWJ6eq8l6Pi"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Bin Grman",
+          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
+        }
+      ],
+      "duration_ms": 291815,
+      "name": "Sadah Wa Qadah",
+      "url": "https://open.spotify.com/track/1hue9RXZXGZ9CLpEA1jDvX"
+    },
+    {
       "added_at": "2026-08-13 10:41:33",
       "album": {
         "name": "\u0641\u062c\u0648\u062c \u0627\u0644\u062e\u0644\u0627",
@@ -71,22 +87,6 @@
       "duration_ms": 256416,
       "name": "\u0647\u0648\u062f \u0627\u0644\u0644\u064a\u0644",
       "url": "https://open.spotify.com/track/1B02ykbRGaShWJmKO1O1yb"
-    },
-    {
-      "added_at": "2026-08-13 10:41:33",
-      "album": {
-        "name": "\u062a\u0648\u0642\u0639\u062a",
-        "url": "https://open.spotify.com/album/7xdB7g35dxCQibyHCh0MdN"
-      },
-      "artists": [
-        {
-          "name": "\u0628\u062f\u0631 \u0627\u0644\u0639\u0632\u064a",
-          "url": "https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy"
-        }
-      ],
-      "duration_ms": 204096,
-      "name": "\u062a\u0648\u0642\u0639\u062a",
-      "url": "https://open.spotify.com/track/6zRs7YYeutK3Kxq1IphM0i"
     },
     {
       "added_at": "2026-04-14 21:25:28",

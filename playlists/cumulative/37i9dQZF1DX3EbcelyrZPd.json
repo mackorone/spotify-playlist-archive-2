@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 326000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/0fTykCO8zh7Ymjz06F2vT1"
@@ -3425,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/58qGtJNie1Gw5P2ZKAscgu"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7uuBVFtQZycfIRyNvRFHQK"
+    },
+    {
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/5SmlZOCS526S8SRueOK38H"
       },
@@ -3458,6 +3476,24 @@
       "duration_ms": 157759,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4Z5WbiyKtTMFWgqK7ErFKv"
+    },
+    {
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/4RLgpNJBDwJKt2KlVf8EV8"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/5GrCmxSzF7Bp9faMRDYqtu"
     },
     {
       "album": {
@@ -3860,6 +3896,28 @@
       "duration_ms": 172035,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
+    },
+    {
+      "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/3zNp3g5kEnRMrhAoxg2qhs"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179336,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6Jwiz7dPghIJ09mx7CkBf0"
     },
     {
       "album": {
@@ -8810,7 +8868,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 195000,
       "name": "Nichum (feat. Darassa)",
       "url": "https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K"
@@ -14226,7 +14284,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 210103,
       "name": "Wewe",
       "url": "https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9"

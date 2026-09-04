@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,458 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,494 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [le premier amour de mon premier amour](https://open.spotify.com/track/0aC2QOoK7pcjyXWq76ze8T) | [Morphée](https://open.spotify.com/artist/7mx6ZASfJykUQ0AY7HCiPh) | [le premier amour de mon premier amour](https://open.spotify.com/album/0JofKYbuB3KXDwtTpRN72y) | 2:39 |
 | 40 | [like never before](https://open.spotify.com/track/3mPrY6npWtvBr5IaWCRyU9) | [Veridis Project](https://open.spotify.com/artist/1JcJ1nR9qZhx2GCX0MM8Up) | [like never before](https://open.spotify.com/album/3Sq2QOvCweTzhXp7rIy8py) | 2:11 |
 
-Snapshot ID: `AAAAAJC6dmMEwL5Dm02NWQpJBero6SfG`
+Snapshot ID: `AAAAADVGOS1uSKMGWu/v7P9BP1GQL/JT`

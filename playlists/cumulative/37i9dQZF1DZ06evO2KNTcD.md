@@ -4,7 +4,7 @@
 
 > This is Jae Stephens\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 46 min
+36 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,12 @@
 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 | 2026-06-25 |  |
 | [Gold \(feat\. Parisalexa\)](https://open.spotify.com/track/5K7UdrgyWZPjmiAXLen783) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT), [Parisalexa](https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV) | [And Friends](https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe) | 2:43 | 2026-06-25 |  |
 | [got it like that](https://open.spotify.com/track/0MZwCjdEDcBvE2kyBHvlWC) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:17 | 2026-06-25 |  |
+| [Gymnastics](https://open.spotify.com/track/0L6EbFzeKITZ82rlvavtIa) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 2:42 | 2026-09-04 |  |
 | [hate LA](https://open.spotify.com/track/68VZYVbqmDzqaBvH9Lpeq4) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [f\*\*k it i'll do it myself](https://open.spotify.com/album/0NSSR4Q7Pe1gDaP8TYOEwG) | 3:04 | 2026-06-25 |  |
 | [Headlights](https://open.spotify.com/track/7u39iiYvOnNE8jdJ59biAr) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Headlights](https://open.spotify.com/album/68745bIhoFeTtK3L6TYnzI) | 3:33 | 2026-06-25 |  |
 | [High My Name Is](https://open.spotify.com/track/7CtGIu3D2Xid9UgnHzE8pO) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:55 | 2026-06-25 |  |
 | [Him&Him&Him](https://open.spotify.com/track/3XUitxCgL4dCljBdhoDJO7) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:05 | 2026-06-25 |  |
+| [I Miss The City](https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 3:00 | 2026-09-04 |  |
 | [Investment](https://open.spotify.com/track/3yi5g2aJUuIMMFFAvelHE6) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:41 | 2026-06-25 |  |
 | [Kiss It](https://open.spotify.com/track/2naxpChNrs2xYbo3J2SnG1) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [TOTAL SELLOUT](https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl) | 3:11 | 2026-06-25 |  |
 | [Long Way to Go](https://open.spotify.com/track/5QamNCps8nwxRYVM7WMFXz) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Long Way to Go](https://open.spotify.com/album/51X4XGeOfWa4B2oC84tXxw) | 3:18 | 2026-06-25 |  |

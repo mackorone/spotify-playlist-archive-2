@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,987 likes - 80 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,016 likes - 80 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Will Be Done](https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H) | [Trendsetter Sense](https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Nathan Davis Jr](https://open.spotify.com/artist/24p0hSTqoxNsy89rKNrSDj) | [Will Be Done](https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd) | 3:41 |
 | 80 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 |
 
-Snapshot ID: `AAAAAAsT2ThlT4FZeKgdZqomQLYksJAS`
+Snapshot ID: `AAAAAMk+zF82ef3ONa3GM+Rl6rSjrOeW`

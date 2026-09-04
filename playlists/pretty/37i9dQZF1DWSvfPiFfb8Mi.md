@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,224 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,286 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 124 | [Letras](https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca](https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK) | 4:39 |
 | 125 | [Free \(Do What U Want\)](https://open.spotify.com/track/6lVdhbN1xING12E926vWwI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Free \(Do What U Want\) \(feat\. Jules Buckley\)](https://open.spotify.com/album/06ZWcaFN02Mq0IR3tjq5vt) | 3:44 |
 
-Snapshot ID: `AAAAAPz9/7fTtaemgU7c9sWeehvH3Lnl`
+Snapshot ID: `AAAAANFxdzv1P4w0a99CudalbLNp7gCt`

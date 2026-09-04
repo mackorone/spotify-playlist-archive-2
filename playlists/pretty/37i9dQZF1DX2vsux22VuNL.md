@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz, Sotam
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,407 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,404 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 62 | [Aquelas Coisas](https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT) | [Aquelas Coisas](https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm) | 3:16 |
 | 63 | [Insegurança](https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Insegurança](https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7) | 3:10 |
 | 64 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
-| 65 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
-| 66 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
+| 65 | [AINDA TÔ NO PROCESSO](https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ) | [AINDA TÔ NO PROCESSO](https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN) | 3:31 |
+| 66 | [Jeito Doce](https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Jeito Doce](https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe) | 3:02 |
 | 67 | [Risco de se Apaixonar](https://open.spotify.com/track/1M6puHONy969ZeGYemki1M) | [Marcello Melo Jr.](https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp), [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Risco de se Apaixonar](https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH) | 2:21 |
 | 68 | [garota problema](https://open.spotify.com/track/45Cnuh6Q7nErLgcuhq9XFi) | [D' Lucca](https://open.spotify.com/artist/6TB6E84NVktrWTa1JXDyz0), [KAMACHO](https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci) | [tudo que você gostaria de ser, sou eu](https://open.spotify.com/album/56l2vNLiG3dQJlxDiLnIwc) | 3:05 |
 | 69 | [Naquele Pique](https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Naquele Pique](https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn) | 3:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 84 | [Pra Viajar](https://open.spotify.com/track/390Yl190rqixethu2ekKXk) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Pra Viajar](https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9) | 4:09 |
 | 85 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 |
 
-Snapshot ID: `AAAAABX0iQj1ZHzF+NVQoQrLZcVdXl+/`
+Snapshot ID: `AAAAABSxambdeZpC8ijZytbCYvH9rbOU`

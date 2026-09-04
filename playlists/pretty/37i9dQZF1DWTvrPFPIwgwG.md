@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,214 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,305 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 79 | [O Noivo Virá](https://open.spotify.com/track/4H5tuVx6j0UqcWVAaJt9qu) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Noivo Virá](https://open.spotify.com/album/6W6VSlerbFI3dvGgiOX7pE) | 6:29 |
 | 80 | [Improvável \- Acústico](https://open.spotify.com/track/4Cl4SYJFpHYLN3pByHskVo) | [Mara Souza](https://open.spotify.com/artist/4bw52hHES9kCJ1T0ILDxPw), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Improvável](https://open.spotify.com/album/4PdlxBC3NjyjF7pCqKody9) | 4:00 |
 
-Snapshot ID: `AAAAABneYo5Lw5hNYSoJNFwTGodtvamS`
+Snapshot ID: `AAAAAIB74cZG67l5JMYcQVmrT5iI0iSG`

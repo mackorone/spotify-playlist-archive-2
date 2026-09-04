@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,342 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,415 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 149 | [Setsurei](https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG) | [Tokyo Bedroom Orchestra](https://open.spotify.com/artist/6H68wWhNdzqOsJseTU5Nxr) | [Tsuioku](https://open.spotify.com/album/6BzDJ1MYLVmBDTYZTpmOGF) | 2:26 |
 | 150 | [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 |
 
-Snapshot ID: `AAAAABTWFb+gvYrSM5b9Z472pc4vj7cr`
+Snapshot ID: `AAAAAMCiyNLDDsH8fDJpbx9uOjGY0cCn`

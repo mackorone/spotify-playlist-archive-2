@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Phoebe Hall
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,654 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,665 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Reasons](https://open.spotify.com/track/4OVEhK3OmAKyTzJBDKEgF1) | [Grace Acladna](https://open.spotify.com/artist/2AhTPaGsjBVOfF5UPWKGyd), [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Reasons](https://open.spotify.com/album/1ePAwDQiQ6XL4YCkVP8xSv) | 4:32 |
 | 50 | [The Drugs Don't Work Anymore](https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D) | [Josephine Genais](https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC) | [The Drugs Don't Work Anymore](https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch) | 3:31 |
 
-Snapshot ID: `AAAAAMCqU3+TuBVzBi6x977HLEJJrrYT`
+Snapshot ID: `AAAAAD15qp+5tfQteWRCzaK1u2QI6Q1s`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtGv6v7v6B.md) - [plain]
 
 > Your music taste decides the character on the playlist cover\. Find out if you're Miranda, Andy, Emily, or Nigel\. That's all.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,297 likes - 27 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,301 likes - 27 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtGv6v7v6B.md) - [plain]
 | 26 | [Timeless](https://open.spotify.com/track/5PmjT8x26jERLBQCosakI7) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 4:03 |
 | 27 | [Satan Meets Satin](https://open.spotify.com/track/681cdfM3pxJwRI0WYfwVS4) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Devil Wears Prada 2 \(Original Score\)](https://open.spotify.com/album/3KxLOqeODUgNqCEFlblbr8) | 0:50 |
 
-Snapshot ID: `AAAAAOWCkieZ+gjE/0EgZJtExIY8PEql`
+Snapshot ID: `AAAAAFcJesUSHtMRr6p9KSmL52j9RKos`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,687 likes - 125 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,722 likes - 125 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 |
 | 125 | [The Fool on the Hill](https://open.spotify.com/track/4lkLGFTj0b95QpKdhv9hbv) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Marius Beets](https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx), [John Ruocco](https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok) | [Lieb Plays the Beatles](https://open.spotify.com/album/7s2frTDC6eJUDZQMXeU71X) | 5:15 |
 
-Snapshot ID: `AAAAAPLeafzBJLuoDH07ZobXDYyFm+nl`
+Snapshot ID: `AAAAAAxEkqnqK82gbvKSiKkPmwhlpat3`

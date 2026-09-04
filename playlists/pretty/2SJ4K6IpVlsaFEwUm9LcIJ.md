@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,547 likes - 44 songs - 3 hr 0 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,555 likes - 45 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 42 | [四面道歌 \- 2019 Remastering](https://open.spotify.com/track/2HDGtTkECiCygeSNYIH9RQ) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [イエロー・マジック・バンド](https://open.spotify.com/artist/5jbEAtH0taE3VOckheoojM) | [Paraiso](https://open.spotify.com/album/2WehoDdFUCXFkI1GPzNXsb) | 4:46 |
 | 43 | [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 |
 | 44 | [Carry Me Ohio](https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 6:21 |
+| 45 | [Supersonic Faster](https://open.spotify.com/track/7FrolHHjlzcKBiMEVZiI1H) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Supersonic Faster](https://open.spotify.com/album/6H4XOjzMs0efuJaUoqTCnS) | 1:55 |
 
-Snapshot ID: `AAAOsJgpW48m7f44GxqRlbnS7Q19Ess9`
+Snapshot ID: `AAAOsUU3jjL5D+F/Kp9CbaCqzKzwOGtn`

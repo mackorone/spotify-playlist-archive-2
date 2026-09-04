@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 329042,
       "name": "Beautiful One",
       "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -3252,6 +3252,24 @@
       "duration_ms": 551456,
       "name": "Desire - Live",
       "url": "https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd"
+    },
+    {
+      "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/6C3XRo6uVDZ3QJxUESb8Bx"
+      },
+      "artists": [
+        {
+          "name": "Deborah-Divine",
+          "url": "https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374352,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/0aQE3ZIddVdEuwbjKc8RIw"
     },
     {
       "album": {
@@ -7613,6 +7631,24 @@
     },
     {
       "album": {
+        "name": "I Belong",
+        "url": "https://open.spotify.com/album/4aoDkktKJffjHHi3k6YsXc"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424247,
+      "name": "I Belong",
+      "url": "https://open.spotify.com/track/3EStBKZ79toJa7gj7nif5w"
+    },
+    {
+      "album": {
         "name": "I Carry Fire",
         "url": "https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc"
       },
@@ -7642,7 +7678,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 328750,
       "name": "I Choose Joy",
       "url": "https://open.spotify.com/track/45mxfVFTZFoCgKeR1LfSFi"
@@ -7682,7 +7718,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 173676,
       "name": "I Dey Grateful",
       "url": "https://open.spotify.com/track/5far3Cb0Y4LPy0AnWk7Uwh"
@@ -8849,6 +8885,32 @@
     },
     {
       "album": {
+        "name": "In Jesus Name",
+        "url": "https://open.spotify.com/album/03cgv9Da0IDejNAKiqeS6p"
+      },
+      "artists": [
+        {
+          "name": "JOHN GODFREY",
+          "url": "https://open.spotify.com/artist/5ApfHPATrv1gdJ45DaRA9X"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421333,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr"
+    },
+    {
+      "album": {
         "name": "In Jesus Name (God Of Possible)",
         "url": "https://open.spotify.com/album/7b73uskrR9eUx516A9WSim"
       },
@@ -9369,6 +9431,28 @@
     },
     {
       "album": {
+        "name": "KAVP: THE REDEEMED PROJECT (LIVE AT EKM)",
+        "url": "https://open.spotify.com/album/29nOHawy3jIAFjdBHK2XA8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        },
+        {
+          "name": "Shanice Mckoy",
+          "url": "https://open.spotify.com/artist/5e1YFWY8wipjI8SimgOkMo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259024,
+      "name": "JESUS I NEED YOU - live",
+      "url": "https://open.spotify.com/track/2VsDpA06233gE9qalSpOqr"
+    },
+    {
+      "album": {
         "name": "Jesus Iye",
         "url": "https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl"
       },
@@ -9832,7 +9916,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "Kulungile Baba",
       "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
@@ -10202,6 +10286,28 @@
       "duration_ms": 262705,
       "name": "Lord I Thirst For You",
       "url": "https://open.spotify.com/track/6UEvZwMCATRY6hw7xSCv9O"
+    },
+    {
+      "album": {
+        "name": "Soli Deo Gloria",
+        "url": "https://open.spotify.com/album/5EE2xY6Q8vDMoOUNj5bBI2"
+      },
+      "artists": [
+        {
+          "name": "Dolapo Lawal",
+          "url": "https://open.spotify.com/artist/3q4KhtQjtB8DQg0n2eGUMC"
+        },
+        {
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Lord Most High",
+      "url": "https://open.spotify.com/track/5QdSwe7gS1ORjW6CQpsgDl"
     },
     {
       "album": {
@@ -11630,7 +11736,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 442538,
       "name": "My Story",
       "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
@@ -11978,7 +12084,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 336388,
       "name": "Never Fail - Live",
       "url": "https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr"
@@ -13420,7 +13526,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 246263,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/4PmFb1SxM2HZ4zfjWwDnNw"
@@ -15630,7 +15736,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196000,
       "name": "Sweet Holy Spirit",
       "url": "https://open.spotify.com/track/3GdqNzCnedBmGDRX5IIqMz"
@@ -15802,7 +15908,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 342613,
       "name": "Taloto",
       "url": "https://open.spotify.com/track/1eUj8WKYGdsucXVRp3Zr5C"
@@ -19378,6 +19484,28 @@
       "duration_ms": 226649,
       "name": "You Do This One",
       "url": "https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD"
+    },
+    {
+      "album": {
+        "name": "You have done me well",
+        "url": "https://open.spotify.com/album/3MdUSSHMu6HFf2oYWUpLHU"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361846,
+      "name": "You have done me well",
+      "url": "https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl"
     },
     {
       "album": {

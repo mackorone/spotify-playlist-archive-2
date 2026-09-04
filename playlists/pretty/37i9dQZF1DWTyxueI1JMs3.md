@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,874 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,875 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyxueI1JMs3.md) - [plain]
 | 49 | [Don't cry…](https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz) | [Michael \[Tsukioka Tsumugi \(CV: Atsushi Tamaru\)\]](https://open.spotify.com/artist/3WyTjFvzdEmAhFUn8pU0eJ), [Raphael \[Takato Tasuku \(CV: Takuya Sato\)\]](https://open.spotify.com/artist/0dbQzMn6up4woD5xtWExoW) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 5:17 |
 | 50 | [PLASTIC POKER](https://open.spotify.com/track/6wPb1Az08RLhNKNLNXH4mf) | [リアム\[御影 密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/3IOfXlygtEhgn9nEMmcgXk), [ノーマン\[雪白 東\(CV:柿原徹也\)\]](https://open.spotify.com/artist/255ok5nCNbwtMi1NBRjLSK) | [A3! BRIGHT WINTER EP](https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN) | 4:25 |
 
-Snapshot ID: `AAAAALnjYYHhOfoOEGNX+lCjSELx3Px8`
+Snapshot ID: `AAAAAH4ySOVF09IZaQCruI46Hk3JvTmS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591,125 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,591,244 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Hundred Acres](https://open.spotify.com/track/2UDS0XpaqKrMv7wbVtWIlX) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Hundred Acres](https://open.spotify.com/album/5QRB3TqkRihMsgqVemCJwD) | 3:16 |
 | 100 | [We Do It \(Jazz Spastiks Remix\)](https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [We Do It Remixes](https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah) | 3:07 |
 
-Snapshot ID: `AAAAAD0AEvxFgmYmmwlH3qnMM1aM6oYW`
+Snapshot ID: `AAAAAL2FfxTzEAncXUqx/8ctY+CK57eS`

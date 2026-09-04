@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,165 songs - 2 day 13 hr 13 min
+1,167 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [LEAVE ME HERE](https://open.spotify.com/track/29SS2kCi2RwhIJPyf11WVt) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [LEAVE ME HERE](https://open.spotify.com/album/7H526sKelXwSHLGyBO1TkY) | 3:28 | 2025-07-11 | 2026-04-10 |
 | [Leave You](https://open.spotify.com/track/0fwGEvL7K4Y2bFPphytDmf) | [Depdramez](https://open.spotify.com/artist/7vN4ChI7eslj4xqTIozg6X) | [Leave You](https://open.spotify.com/album/2saHmr5Ft8l51swF9dR9Vg) | 2:32 | 2021-03-30 | 2021-04-10 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-08 | 2024-01-26 |
+| [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 | 2026-09-04 |  |
 | [Lemon Tree](https://open.spotify.com/track/6sGeBxS4PIEtZdWpgdnitV) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Lemon Tree](https://open.spotify.com/album/3UX80TUkWtwoXCIeiG3kI7) | 3:16 | 2021-01-15 | 2021-05-29 |
 | [Let You Go \(feat\. Kareen Lomax\)](https://open.spotify.com/track/4VEEC6sCpH1AnP1bVF1vuf) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/3TirKKE61INRzuhFF7XQn5) | 3:54 | 2022-03-06 | 2022-03-18 |
 | [Let Yourself Go \- 2XM Remix](https://open.spotify.com/track/018xjbbZeZPXrrJckKDTZB) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Flux \(Remixes\)](https://open.spotify.com/album/4fJlNtVeLbibvSM17RkYeB) | 4:13 | 2023-12-08 | 2024-01-19 |
@@ -920,6 +921,7 @@
 | [SNAP \- Luca Schreiner Remix](https://open.spotify.com/track/318aZ99vbKrMbjQwm6y2E3) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [SNAP PACK](https://open.spotify.com/album/3LJFKnACoCkpSW39bMaovD) | 2:28 | 2022-09-09 | 2022-12-10 |
 | [So Alive](https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [So Alive](https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra) | 5:22 | 2023-07-28 | 2023-12-14 |
 | [So Alive \- Donatachi Remix](https://open.spotify.com/track/4Ljq7JjMRxJjVqaxbG4o8f) | [Kult Kyss](https://open.spotify.com/artist/6UVDhXoU9ypbSPfqXMbRSO), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Ultra Sound \(Remixes\)](https://open.spotify.com/album/5TpcLSXA5KUo13tMAw7nyA) | 3:27 | 2022-04-29 | 2022-06-03 |
+| [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-04 |  |
 | [So High \(feat\. MERYLL\)](https://open.spotify.com/track/6htKnclYIvSqD5Yki5ChMJ) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [So High \(feat\. MERYLL\) \[Kyle Meehan Remix\]](https://open.spotify.com/album/6P7flWkRmZbYS1gxwJRVvE) | 2:34 | 2024-05-24 | 2024-07-19 |
 | [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-20 |  |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,570 likes - 210 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,666 likes - 210 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 209 | [Easy Going](https://open.spotify.com/track/3AE8CNW6hFe6Y2eEV8Ex3P) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [Easy Going](https://open.spotify.com/album/4q1aW94DdDQXaJ8hJuZciI) | 2:11 |
 | 210 | [New Beggings](https://open.spotify.com/track/5gKhAXhM1LiJjNku3XfGEI) | [stil de grain](https://open.spotify.com/artist/7MtqDjgMm4TTIYrsEVLeqZ) | [New Beggings](https://open.spotify.com/album/2P03ojKcfa1rBVt3UHyxYu) | 2:09 |
 
-Snapshot ID: `AAAAAF6yzOVCs8rRDcaVnHm0qFqcNZ0r`
+Snapshot ID: `AAAAAP6BRnsQIZNdVTPewKVuuzy+jxqX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Keane Cotta
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,848 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,857 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Daag.](https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [Arvasu](https://open.spotify.com/artist/3LX5BPt6NlNqtlYKtgELpm) | [Daag.](https://open.spotify.com/album/5xw4ODck9IkU2dyU61c1oh) | 3:46 |
 | 50 | [I'm In Love](https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [I'm In Love](https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i) | 3:19 |
 
-Snapshot ID: `AAAAAD94n9ln/EnU3c+7lhnffAOUXGnv`
+Snapshot ID: `AAAAAB25Afl2q0uxyiRjvVYH8V2epSiu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Fontaines D.C.",
+  "description": "A new world of alternative noise. Cover: GRUB",
   "name": "Wire",
   "tracks": [
     {
@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170726,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
+    },
+    {
+      "album": {
         "name": "Call U Back",
         "url": "https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 222596,
       "name": "Cancel Me (I\u2019m Tired)",
       "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
@@ -1287,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Foresight",
+        "url": "https://open.spotify.com/album/5ToirZ1URa5H2hbUUHGNlZ"
+      },
+      "artists": [
+        {
+          "name": "Bennetts Grove",
+          "url": "https://open.spotify.com/artist/4LLUP13hqBwDZJqDse7UbA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Foresight",
+      "url": "https://open.spotify.com/track/5sqbrBym3BeDQgO7OGU6JJ"
+    },
+    {
+      "album": {
         "name": "Forgotten Token / Un Momento",
         "url": "https://open.spotify.com/album/3Fy6a5Wj5FfY6s9JIU2JtM"
       },
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 268280,
       "name": "Glassman",
       "url": "https://open.spotify.com/track/1mogapB4xvnlFlZUB3FKII"
@@ -2829,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3jjnX7SGyab9IkMFonKuDk"
+      },
+      "artists": [
+        {
+          "name": "Mac The Knife",
+          "url": "https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/2Jlb8RDEDuObHS224aQOIo"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB"
       },
@@ -3784,7 +3838,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 159816,
       "name": "Special Unit",
       "url": "https://open.spotify.com/track/0u6gGjxVPbZmGs2ABQKrCy"
@@ -3828,6 +3882,24 @@
       "duration_ms": 183746,
       "name": "Squeeze Down",
       "url": "https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP"
+    },
+    {
+      "album": {
+        "name": "Stability Please",
+        "url": "https://open.spotify.com/album/6BwxKmB2H9neTDgdP0wKeH"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215245,
+      "name": "Stability Please",
+      "url": "https://open.spotify.com/track/75PpoIBiq0zZ8vCXmTI3MJ"
     },
     {
       "album": {
@@ -4376,7 +4448,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 167419,
       "name": "Trickle Down",
       "url": "https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4"

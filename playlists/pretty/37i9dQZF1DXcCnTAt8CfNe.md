@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,551 likes - 165 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,617 likes - 165 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 164 | [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 |
 | 165 | [Beyond Null](https://open.spotify.com/track/3bCdcWfeuVXTWjEMWOx5Vs) | [Iminum](https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX) | [Beyond Null](https://open.spotify.com/album/4D70LF3zefYSwP08zX2kyX) | 3:14 |
 
-Snapshot ID: `AAAAAHAo6QWJ+pkjAjCu2f3+D4OKc1IP`
+Snapshot ID: `AAAAAMzr85bhX5bgScgzjXPDvF8kcNQI`

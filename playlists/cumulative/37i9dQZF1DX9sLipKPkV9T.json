@@ -2319,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05dc \u05e0\u05d5\u05e8\u05d0 \u05e2\u05dc\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/10D2EaOxAYDzWQwPQkVXMx"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191225,
+      "name": "\u05d0\u05dc \u05e0\u05d5\u05e8\u05d0 \u05e2\u05dc\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/3Ho4PignftVydtiPHkfHg6"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05dc \u05ea\u05dc\u05db\u05d9",
         "url": "https://open.spotify.com/album/2KtQV0fjUDkL61f90c3Ccl"
       },
@@ -2950,6 +2968,28 @@
       "duration_ms": 252369,
       "name": "\u05d0\u05e0\u05e9\u05d9 \u05d4\u05d2\u05e9\u05dd",
       "url": "https://open.spotify.com/track/6N28NuVF5sOwqn4IRROcWq"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d9\u05dc\u05d4 \u05d0\u05d7\u05d3 \u05d1\u05d0\u05e4\u05e8\u05d9\u05dc - \u05d4\u05e4\u05e1\u05e7\u05d5\u05dc",
+        "url": "https://open.spotify.com/album/7nFNIIGy2wV2GqlKzr8ZgE"
+      },
+      "artists": [
+        {
+          "name": "Keren Peles",
+          "url": "https://open.spotify.com/artist/1T4wAIwQNLsOLQRkPVurY9"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "\u05d0\u05e1\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/5ZsU4mPG7fzQ686WH86M9Z"
     },
     {
       "album": {
@@ -6698,7 +6738,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 162840,
       "name": "\u05d8\u05e4\u05d8\u05d5\u05e4\u05d9\u05dd",
       "url": "https://open.spotify.com/track/7m5RXIoYZwbWG8MdGbZbtI"
@@ -6844,6 +6884,24 @@
       "duration_ms": 145000,
       "name": "\u05d9\u05d5\u05de\u05d4",
       "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/5ZtFKRNP2g5xnlAc2xWaJs"
+      },
+      "artists": [
+        {
+          "name": "Jane Bordeaux",
+          "url": "https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "\u05d9\u05d5\u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/0GL9PoiDvHf1GDQuTIRg2X"
     },
     {
       "album": {
@@ -7744,7 +7802,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 204843,
       "name": "\u05dc\u05d0 \u05d4\u05e6\u05dc\u05d7\u05ea\u05d9 \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/3jPqSkOWtxmRHG1nexDWBa"
@@ -8136,6 +8194,24 @@
       "duration_ms": 190808,
       "name": "\u05dc\u05d0 \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/75sXgAVQK2Vgn154YaZJdq"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d0\u05d1 \u05e1\u05d5\u05e0\u05d2",
+        "url": "https://open.spotify.com/album/0pEDx9iRcxkI8Fryu6bqvB"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178947,
+      "name": "\u05dc\u05d0\u05d1 \u05e1\u05d5\u05e0\u05d2",
+      "url": "https://open.spotify.com/track/783Gugq5q7JvaMANrNRnCA"
     },
     {
       "album": {
@@ -8880,6 +8956,24 @@
       "duration_ms": 187573,
       "name": "\u05dc\u05e2\u05e6\u05d5\u05e8 \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1ArrQVDcNOzCt255T6u1VR"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05ea\u05d2\u05e8\u05d5\u05dd \u05dc\u05d9 \u05dc\u05d1\u05db\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0GSmjg7U59I8WOnxjZ3tJC"
+      },
+      "artists": [
+        {
+          "name": "Meshi Kleinstein",
+          "url": "https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220185,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05ea\u05d2\u05e8\u05d5\u05dd \u05dc\u05d9 \u05dc\u05d1\u05db\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/1OLjhnTjelqDSHxmlI69Yy"
     },
     {
       "album": {
@@ -11800,7 +11894,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 174000,
       "name": "\u05e4\u05d1\u05dc\u05d5 \u05d0\u05e1\u05e7\u05d5\u05d1\u05e8",
       "url": "https://open.spotify.com/track/3mxV9o1J9LOnSTPEY9crnJ"
@@ -12490,7 +12584,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169218,
       "name": "\u05e7\u05d7 \u05d0\u05d5\u05ea\u05d9 \u05dc\u05ea\u05d0\u05d9\u05dc\u05e0\u05d3",
       "url": "https://open.spotify.com/track/7qzKiAkASRzrb9EXZ0HXcN"
@@ -13334,7 +13428,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 187500,
       "name": "\u05e9\u05e2\u05ea \u05e8\u05e6\u05d5\u05df",
       "url": "https://open.spotify.com/track/4MElW0pjCURiNz3QJfL52U"

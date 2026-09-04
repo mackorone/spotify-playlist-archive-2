@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "La Mano 1.9 x PLK au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -5181,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Lululemon",
+        "url": "https://open.spotify.com/album/2Apc6tczxlwREDpRKW7q1P"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171392,
+      "name": "Lululemon",
+      "url": "https://open.spotify.com/track/4NUbhcdKi2nfq6RUUgKyWV"
+    },
+    {
+      "album": {
         "name": "Ma Came",
         "url": "https://open.spotify.com/album/2R9xCcqvgr4UCFfN3JvviO"
       },
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 143750,
       "name": "Met Gala",
       "url": "https://open.spotify.com/track/0Cllzr95lUj1sh8e4XKfkt"

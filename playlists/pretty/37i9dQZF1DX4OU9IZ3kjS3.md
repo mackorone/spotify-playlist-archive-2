@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OU9IZ3kjS3.md) - [plain]
 | 23 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 |
 | 24 | [When the Sea Lets Go](https://open.spotify.com/track/47SJIHUBfKr48f8Q33xnX6) | [Vin Downes](https://open.spotify.com/artist/4hImyLoQH7OA08maVM1HAd) | [When the Sea Lets Go](https://open.spotify.com/album/5OTVYw9MtCCwBmh3FgjZRY) | 4:19 |
 | 25 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 |
-| 26 | [Lilla Mamma](https://open.spotify.com/track/0IPMQeBpj4h21NrIC4i7WR) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Lilla Mamma](https://open.spotify.com/album/4xe7IniFFTJxzJbMVv4TxI) | 2:52 |
+| 26 | [Lilla Mamma](https://open.spotify.com/track/0IPMQeBpj4h21NrIC4i7WR) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Lilla Mamma](https://open.spotify.com/album/4xe7IniFFTJxzJbMVv4TxI) | 2:52 |
 | 27 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 | 28 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 |
 | 29 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OU9IZ3kjS3.md) - [plain]
 | 109 | [A Bedtime Story](https://open.spotify.com/track/0UOpkXGucnf0EXTjdzd62M) | [Relaxing Guitar Group](https://open.spotify.com/artist/15nn82tXBkwGVFJWgmSMzi) | [Relaxing Guitar Originals](https://open.spotify.com/album/4KGo9LeLkwobSLEB4Oo0Qd) | 3:44 |
 | 110 | [Softly](https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Softly](https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin) | 2:25 |
 
-Snapshot ID: `AAAAAPHBAg/sKtynzM9bjSIKwFZ7Z/5d`
+Snapshot ID: `AAAAADLIDs2qzTpFqP6dzzT1344Mrfs6`

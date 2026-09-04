@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Gia Margaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,062 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,003 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Sleep Paralysis](https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM) | [Liam Creamer](https://open.spotify.com/artist/1OgQ0kvZcMUVtWB71o0lkY) | [Sleep Paralysis](https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ) | 3:19 |
 | 150 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 |
 
-Snapshot ID: `AAAAAHfcQk9E8zI8B4ox/rcZ0q3GV1Qp`
+Snapshot ID: `AAAAAIhaxev8waAMxpB13aN2qWDsImzJ`

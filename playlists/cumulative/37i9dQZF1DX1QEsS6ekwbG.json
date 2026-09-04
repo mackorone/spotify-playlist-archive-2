@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 184640,
       "name": "500 a\u00f1os luz - en vivo",
       "url": "https://open.spotify.com/track/2tgEgIJSMTNvsXQpRofAAv"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177222,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5Deh5Zvh6IOkIpbqgXc7fX"
@@ -2027,6 +2027,28 @@
     },
     {
       "album": {
+        "name": "ni una foto juntos",
+        "url": "https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp"
+      },
+      "artists": [
+        {
+          "name": "c n d",
+          "url": "https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F"
+        },
+        {
+          "name": "Fede Guelmos",
+          "url": "https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "ni una foto juntos",
+      "url": "https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1"
+    },
+    {
+      "album": {
         "name": "No Ha Parado De Llover",
         "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
       },
@@ -2224,7 +2246,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 178160,
       "name": "oda al canto",
       "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
@@ -2434,7 +2456,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
@@ -2728,7 +2750,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 160866,
       "name": "Seguir Viviendo Sin Tu Amor",
       "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"

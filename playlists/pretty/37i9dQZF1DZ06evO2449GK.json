@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 65037,
+  "num_followers": 65050,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAABXS109NAELlliM2yH0CJdA",
+  "snapshot_id": "apdnAAAAAACumrQhEGYhWgXVTa+tUlVb",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Funa",
+        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "La Funa",
+      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 232000,
       "name": "Medellificaci\u00f3n",
       "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Funa",
-        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "La Funa",
-      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
     },
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ba\u00f1o de Ruda",
+        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 189318,
+      "name": "Ba\u00f1o de Ruda",
+      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ba\u00f1o de Ruda",
-        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 189318,
-      "name": "Ba\u00f1o de Ruda",
-      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 234000,
       "name": "Aranjuez",
       "url": "https://open.spotify.com/track/6p7AcEaN1Dy3Pjo4SJdzMM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 227191,
+      "name": "Pambel\u00e9",
+      "url": "https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 223461,
       "name": "El Rey del Despecho",
       "url": "https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 227191,
-      "name": "Pambel\u00e9",
-      "url": "https://open.spotify.com/track/57nqMkcGByTnlBBfxCtJs9"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/0eaXWFl4NKrL14zGqOVRt8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 221590,
       "name": "La Caza de Nari\u00f1o",
       "url": "https://open.spotify.com/track/4JryerYhYVxt0KGJVHojSB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0eaXWFl4NKrL14zGqOVRt8"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Estetograma",
-      "url": "https://open.spotify.com/track/6i9kgNiuLPFKr8hepwkatB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aranjuez",
         "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 228148,
       "name": "Reflujo",
       "url": "https://open.spotify.com/track/04ri4wOci5SO0lbBTlShjp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Estetograma",
+      "url": "https://open.spotify.com/track/6i9kgNiuLPFKr8hepwkatB"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viejas Recetas Remixes y Otras Rarezas",
         "url": "https://open.spotify.com/album/3D9RotS2JIfLMEVT1lfBu8"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 183400,
       "name": "Los Genios de la Botella - Remix Gambeta",
       "url": "https://open.spotify.com/track/1vJKRRBEYz034bWewZz146"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
     },
     {
       "added_at": null,

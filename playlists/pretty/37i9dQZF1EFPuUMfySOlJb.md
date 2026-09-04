@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6muSuAUvee7pzSmVu1Wgys">uv killin em</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 41 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 34 | [Never Left](https://open.spotify.com/track/5hxEyhBnfraTdAnmPsuvlH) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Never Left](https://open.spotify.com/album/2q558Z4kL38WSl5MuuH5dx) | 2:45 |
 | 35 | [happy for me](https://open.spotify.com/track/3G8hpRJOyDeN6Wf4NlDxKm) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [DON'T MIND MY MIND](https://open.spotify.com/album/6bOxQ5E3NBP7fzpplDBEZh) | 3:35 |
 | 36 | [In My Bag](https://open.spotify.com/track/2Fzj6imQgRutEdl0ugx79L) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [In My Bag](https://open.spotify.com/album/5jZGelX9KeTm1iXQvMS7aD) | 2:25 |
-| 37 | [Survivor](https://open.spotify.com/track/6eWz9q7qJwTSpTyM0COD7p) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [NawfJaxx](https://open.spotify.com/album/2WeEohTdJFHpZeqd3ldi7O) | 2:42 |
-| 38 | [Pilots](https://open.spotify.com/track/6NkBqyuboalFLRRjAj60av) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/23LtEO3qlV6e39pmS5RYuL) | 1:39 |
-| 39 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
-| 40 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
+| 37 | [Call Me](https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Call Me](https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl) | 2:39 |
+| 38 | [Survivor](https://open.spotify.com/track/6eWz9q7qJwTSpTyM0COD7p) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx), [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [NawfJaxx](https://open.spotify.com/album/2WeEohTdJFHpZeqd3ldi7O) | 2:42 |
+| 39 | [Pilots](https://open.spotify.com/track/6NkBqyuboalFLRRjAj60av) | [DrownMili](https://open.spotify.com/artist/3iotJxO373ylhqoStDSmY6) | [THERMAL USA](https://open.spotify.com/album/23LtEO3qlV6e39pmS5RYuL) | 1:39 |
+| 40 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
+| 41 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 
-Snapshot ID: `AcbQvAAAAACB+Vt84G0ZGLht4Lq30tS4`
+Snapshot ID: `AcbWXAAAAABV2uLbgy15yulBgc0yJzxN`

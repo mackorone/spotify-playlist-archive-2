@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Son Rompe Pera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,322 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,205 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Sería Feliz](https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 3:25 |
 | 100 | [Y Te Aprovechas](https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [RENEE](https://open.spotify.com/artist/1Fo5k1osxJ1VG92yHXMkxL) | [Y Te Aprovechas](https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA) | 3:28 |
 
-Snapshot ID: `AAAAAGuuGhSlfHw6zhJYkvz3DCULvXeC`
+Snapshot ID: `AAAAAA/UwPahGhN6wi6Ey34FGDnyldiK`

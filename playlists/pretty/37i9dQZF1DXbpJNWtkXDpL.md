@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de Mi Compa El Chino y luvKMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,549 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,553 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 74 | [forgetyou:\(](https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [forgetyou:\(](https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa) | 2:26 |
 | 75 | [Se Va Se Va](https://open.spotify.com/track/7A3vj4M64VDkcxzPkziR5s) | [Dylan Coronel](https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j), [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh) | [Se Va Se Va](https://open.spotify.com/album/4ZfqMbCFTpljyPoVxDQseE) | 3:15 |
 
-Snapshot ID: `AAAAANLoLlitDIHFxgsxXl72oz8AEjc8`
+Snapshot ID: `AAAAAHXJlMk+Hpw+9t92fT7wqMF4aAUz`

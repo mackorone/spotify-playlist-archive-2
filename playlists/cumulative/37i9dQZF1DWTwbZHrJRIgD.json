@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 165826,
       "name": "Hai Jawani Toh Ishq Hona Hai (Title Track)",
       "url": "https://open.spotify.com/track/4hzZCaJh4u0r4qxdtcy0Nz"
@@ -3898,6 +3898,24 @@
       "duration_ms": 181916,
       "name": "Kaali Teri Gutt",
       "url": "https://open.spotify.com/track/2LQNu1QEkmCystO6qqnrVs"
+    },
+    {
+      "album": {
+        "name": "Kaare Bhaware",
+        "url": "https://open.spotify.com/album/70dq6xYxGmC4ueIr98EAlR"
+      },
+      "artists": [
+        {
+          "name": "ShNik",
+          "url": "https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Kaare Bhaware",
+      "url": "https://open.spotify.com/track/6uNgMz4aJ04H3ZY2kcPOra"
     },
     {
       "album": {
@@ -6467,7 +6485,7 @@
         },
         {
           "name": "Shaan",
-          "url": "https://open.spotify.com/artist/4UYxD7mip9XA727Lz9z88e"
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
         },
         {
           "name": "Sukhwinder Singh",

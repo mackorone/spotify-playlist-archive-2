@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Sammi Heaney
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,233 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,231 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 98 | [Lay It Down](https://open.spotify.com/track/7HD1eI4xMRmiVer4mnkeEk) | [Tusekah](https://open.spotify.com/artist/6w8NhdLlNYDyfFfbjJanRl) | [Lay It Down](https://open.spotify.com/album/5j7oTRAi1YltxBhoEL6n9Z) | 3:18 |
 | 99 | [bet on me](https://open.spotify.com/track/7oFsRjhIfGCRdOovTodkeZ) | [Hollie Isabella](https://open.spotify.com/artist/4GJTo92kaCL7rhFluVLGaz) | [bet on me](https://open.spotify.com/album/73zMd3PeC4UjtPNBilAs6z) | 3:59 |
 
-Snapshot ID: `AAAAAE0+r8SO/jHyUEupoU+TqOx5w/L8`
+Snapshot ID: `AAAAAD0qi+PlLtt7XKbtA5Al8807aQqB`

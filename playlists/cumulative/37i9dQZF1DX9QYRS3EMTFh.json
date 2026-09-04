@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : DJ Kawest",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Miimii KDS",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "6 o'clock",
+        "url": "https://open.spotify.com/album/06kz3NAyivvlbizvcVtAxF"
+      },
+      "artists": [
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "6 o'clock",
+      "url": "https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP"
+    },
+    {
+      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/7ufExXnZlCqVXCNXdJPHjy"
       },
@@ -328,7 +346,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 127200,
       "name": "A Blanc",
       "url": "https://open.spotify.com/track/26aYdFiR3Gy7FcepjA3nlD"
@@ -3367,6 +3385,40 @@
     },
     {
       "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/7tzBC7fXZKDhNyQECQVd1m"
+      },
+      "artists": [
+        {
+          "name": "Tera K\u00f2r\u00e1",
+          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Captain Scrappy",
+          "url": "https://open.spotify.com/artist/2jIdSiHnlOMWGnJwxTFAEO"
+        },
+        {
+          "name": "SAGE FWI",
+          "url": "https://open.spotify.com/artist/6gjMbxDHd7jY74R0T384M9"
+        },
+        {
+          "name": "DJ Addo",
+          "url": "https://open.spotify.com/artist/29Exc1nK0cLqigZFHBtdB6"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114014,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/13CiTQvNCngWGsL1SrDFjZ"
+    },
+    {
+      "album": {
         "name": "Bounce Up",
         "url": "https://open.spotify.com/album/2DMaefc4W5AgIQFr9zfYMP"
       },
@@ -4174,7 +4226,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 125825,
       "name": "Caprison",
       "url": "https://open.spotify.com/track/7ADbFtqC6vr72KpOAuUIQZ"
@@ -4218,7 +4270,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151153,
       "name": "Ce soir",
       "url": "https://open.spotify.com/track/0n38qShFY4hGxGoqHbOADr"
@@ -6196,6 +6248,24 @@
       "duration_ms": 160862,
       "name": "Doni Moun Ma",
       "url": "https://open.spotify.com/track/3UeCGsTAIf7lZQevVSJsAk"
+    },
+    {
+      "album": {
+        "name": "Dose Quotidienne",
+        "url": "https://open.spotify.com/album/0hiOW8iYXlCkH0vWPV7jSL"
+      },
+      "artists": [
+        {
+          "name": "Lybro",
+          "url": "https://open.spotify.com/artist/3uiTnIx5N6ZWAPkPb8GFC9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Dose Quotidienne",
+      "url": "https://open.spotify.com/track/1QgzbkGyB2ByMIBWQFHiFa"
     },
     {
       "album": {
@@ -11749,6 +11819,24 @@
     },
     {
       "album": {
+        "name": "LI L\u00c9 PIQU\u00c9E",
+        "url": "https://open.spotify.com/album/55sd9syeeDmop6xBHFDhda"
+      },
+      "artists": [
+        {
+          "name": "DJ Tony 438",
+          "url": "https://open.spotify.com/artist/1iq7PmFtJArFcqxJXJVeLf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128484,
+      "name": "LI L\u00c9 PIQU\u00c9E",
+      "url": "https://open.spotify.com/track/3DKjy6hAG3w1Y50881mCz7"
+    },
+    {
+      "album": {
         "name": "LIFESTYLE",
         "url": "https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4"
       },
@@ -13818,7 +13906,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 163846,
       "name": "Neg Kont Neg",
       "url": "https://open.spotify.com/track/145D388hictdjeZkBYWrdL"
@@ -14791,6 +14879,32 @@
     },
     {
       "album": {
+        "name": "Open The Door + Ca\u00efpi",
+        "url": "https://open.spotify.com/album/5Em60en5rU3JM4NTAHNNyj"
+      },
+      "artists": [
+        {
+          "name": "Keros-N",
+          "url": "https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc"
+        },
+        {
+          "name": "Magistral Beats",
+          "url": "https://open.spotify.com/artist/2x2eEYuTVLBSCf0c1pPrEf"
+        },
+        {
+          "name": "AMK",
+          "url": "https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/3aq4Gvp45wJ37fxW2F875y"
+    },
+    {
+      "album": {
         "name": "OPF",
         "url": "https://open.spotify.com/album/2G2PqCQXow3rLu4lZaMja3"
       },
@@ -15048,7 +15162,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 164475,
       "name": "Pa Bizwen Yo",
       "url": "https://open.spotify.com/track/3nRKWddamGaU3yb7IUo97m"
@@ -15702,6 +15816,28 @@
       "duration_ms": 178923,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/4nWR7LePb1UtsVqwXBJBa8"
+    },
+    {
+      "album": {
+        "name": "Peps",
+        "url": "https://open.spotify.com/album/1k6kz4FF0GIHj5iimvYY8u"
+      },
+      "artists": [
+        {
+          "name": "Cann'dy",
+          "url": "https://open.spotify.com/artist/47BsBhWkVWZccVMgHkF91q"
+        },
+        {
+          "name": "Yanishi",
+          "url": "https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Peps",
+      "url": "https://open.spotify.com/track/4EQMQbPgA3XL4QSYkCzrBL"
     },
     {
       "album": {
@@ -17462,7 +17598,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 133608,
       "name": "R\u00e9t\u00e9 Zanmi",
       "url": "https://open.spotify.com/track/6VoWEjJzhISCOEYfqC9FJL"
@@ -19231,6 +19367,28 @@
     },
     {
       "album": {
+        "name": "SWING",
+        "url": "https://open.spotify.com/album/4zFk5hLr5fDyA5zmP64Ev7"
+      },
+      "artists": [
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        },
+        {
+          "name": "9SET",
+          "url": "https://open.spotify.com/artist/2Ub9r6sNDlMi67QsC42Rwb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "SWING",
+      "url": "https://open.spotify.com/track/4INKImkaQGLnbSMcafezEQ"
+    },
+    {
+      "album": {
         "name": "Swipe",
         "url": "https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1"
       },
@@ -19650,7 +19808,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 127500,
       "name": "Tek di Miggle",
       "url": "https://open.spotify.com/track/2DBxYscCgdlywGrKrBDtil"
@@ -19972,7 +20130,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 224854,
       "name": "Thug Life",
       "url": "https://open.spotify.com/track/2ibO3gPpV0r6sxCBvCJ47V"
@@ -20060,6 +20218,28 @@
       "duration_ms": 144666,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/7gEWpJkTZq2ay1JH4uP6gv"
+    },
+    {
+      "album": {
+        "name": "Tightness",
+        "url": "https://open.spotify.com/album/5w5CGFSIKxPXhZFrQl3ygr"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "DJ Frass",
+          "url": "https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Tightness",
+      "url": "https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph"
     },
     {
       "album": {
@@ -20399,6 +20579,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1C6rQLEXxv6XIgDqNcEW1k"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6QJoUq4xXSXy7x8BPb00Vc"
+    },
+    {
+      "album": {
         "name": "Too Bad",
         "url": "https://open.spotify.com/album/7wF3SePMDOJFgq6UEbrkRk"
       },
@@ -20602,7 +20800,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 140660,
       "name": "Tousa Ou Bizwen - La pli si tol riddim",
       "url": "https://open.spotify.com/track/6werr5kjjSM9fZ75hmkgyN"
@@ -20920,7 +21118,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 122617,
       "name": "T\u00eate",
       "url": "https://open.spotify.com/track/7vykLnkTzjLDXYHLTuWd6o"
@@ -21476,6 +21674,28 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
+    },
+    {
+      "album": {
+        "name": "WAP WAP",
+        "url": "https://open.spotify.com/album/6xZNlL2Sv2fMw87lYxy2JS"
+      },
+      "artists": [
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "WAP WAP",
+      "url": "https://open.spotify.com/track/1mBZFAPrnuhYI5UqGZBFsi"
     },
     {
       "album": {

@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Sertanejinho do Tel\u00f3, Vol. 2",
+        "url": "https://open.spotify.com/album/7kxt3hDfsza2kVWUSjn13o"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298853,
+      "name": "Magia e Mist\u00e9rio / Fui Fiel",
+      "url": "https://open.spotify.com/track/2ERvdaiyTzpfiWYRzntMg1"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 196613,
       "name": "N\u00e3o Fala N\u00e3o pra Mim",
       "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"

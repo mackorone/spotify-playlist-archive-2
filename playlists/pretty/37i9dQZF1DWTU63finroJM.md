@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,277 likes - 20 songs - 59 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88,287 likes - 20 songs - 59 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 19 | [Işık](https://open.spotify.com/track/4vXcZcrmXfiqWfG7zTTUPe) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Işık](https://open.spotify.com/album/6A4Bv7ZciNE6XgXvdWYRfZ) | 2:58 |
 | 20 | [حرارة](https://open.spotify.com/track/2kc1v2sVOuxQQA12Tazou0) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [حرارة](https://open.spotify.com/album/2IOttbtMAAh0abaCKcKoWz) | 1:56 |
 
-Snapshot ID: `AAAAAPjNQNpCmxtGXi00S7iNS40hkAIj`
+Snapshot ID: `AAAAAOXbxWptCtCs+KtVCb5Ajzm+j3eP`

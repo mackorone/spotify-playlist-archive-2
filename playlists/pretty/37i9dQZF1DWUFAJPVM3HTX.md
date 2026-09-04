@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV?si=087f02470e9c40cb">Parisalexa</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,247 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,300 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
 | 150 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 
-Snapshot ID: `AAAAAN+PNTTVB8KyW++N9G2W+U1wm8f1`
+Snapshot ID: `AAAAAJu1QAmLwDEamSPNqn5qPr4STN57`

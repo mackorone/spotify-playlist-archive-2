@@ -2,9 +2,9 @@
 
 ### [Made In Kenya](https://open.spotify.com/playlist/37i9dQZF1DX7z7RLIui5KP)
 
-> Proudly Kenyan gems made for the entire family\. Cover: Mwana, Collo Blue
+> Proudly Kenyan gems made for the entire family\. Cover: Willy Paul
 
-325 songs - 18 hr 55 min
+326 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Alright](https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Alright](https://open.spotify.com/album/7G38ts49BsJ26h2pmCHR5j) | 2:25 | 2025-10-23 | 2026-03-06 |
 | [Always and Forever](https://open.spotify.com/track/0XMv0ICHDxBIgF5Kz9LyNC) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Always and Forever](https://open.spotify.com/album/4gxGNYvisC3t5DLMhMC8Oi) | 4:11 | 2026-07-23 | 2026-07-26 |
 | [Ananipenda](https://open.spotify.com/track/7DlpGg15iYFefrxW9Kd0tF) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Ananipenda](https://open.spotify.com/album/5FaG0EwHKRuPw28gL3bI20) | 3:00 | 2026-07-15 | 2026-07-26 |
-| [Angelina](https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Angelina](https://open.spotify.com/album/3h3bCGHVk3nfWmw9wRkSyw) | 3:08 | 2026-08-20 |  |
+| [Angelina](https://open.spotify.com/track/5uI9DcWHmOPifqHvprR9mC) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Angelina](https://open.spotify.com/album/3h3bCGHVk3nfWmw9wRkSyw) | 3:17 | 2026-08-20 |  |
 | [Anguka Nayo](https://open.spotify.com/track/1l8IWe4LY8SqXnKv7M9OAv) | [Jabidii](https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU), [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE), [Didi Man](https://open.spotify.com/artist/0u3gmLk5tQKe5RZ6Ace57A) | [Anguka Nayo](https://open.spotify.com/album/4ZsLMjoQDbA8Xg8UVqtqs8) | 3:23 | 2026-07-15 | 2026-07-21 |
 | [Anitah](https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Anitah](https://open.spotify.com/album/64M1BDnx2IoJyzziD0Bm6V) | 3:51 | 2026-03-19 | 2026-07-10 |
 | [Anticipate](https://open.spotify.com/track/6gv1a5OJZ46sscMzaMc8uL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:47 | 2026-07-15 | 2026-07-26 |
@@ -47,7 +47,7 @@
 | [Blew My Mind](https://open.spotify.com/track/27zsrKeakg1AxZCHYnIXzG) | [WAMUYU](https://open.spotify.com/artist/5bzxOcTF1zHbuPm0hhgq03) | [Emotional Tapestry](https://open.spotify.com/album/3iKsTKYYZgYp02maz9Uf50) | 3:22 | 2026-07-25 | 2026-07-31 |
 | [BLOW](https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm) | [Sparker Domani Mkadinali](https://open.spotify.com/artist/0GxeHzp1DVah72qyawX4GE), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [BLOW](https://open.spotify.com/album/2wr2yUfPHB6cRG5OuQiRsj) | 3:41 | 2026-08-20 |  |
 | [Bonge La Surprise](https://open.spotify.com/track/0XKmsahZbpVuVdga581tHb) | [Wapendwa Muziki](https://open.spotify.com/artist/0oQZ4CZl0ae17o8Ql7xlhK) | [Bonge La Surprise](https://open.spotify.com/album/3gRgd6fnhtenpAFiNPmWiY) | 4:09 | 2026-07-19 | 2026-07-26 |
-| [Braggadocious](https://open.spotify.com/track/0dApyDWaWsIdhqNxLsAtRn) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Braggadocious](https://open.spotify.com/album/3UxSSWDypYIdyjdujWiHWe) | 2:23 | 2026-05-28 |  |
+| [Braggadocious](https://open.spotify.com/track/0dApyDWaWsIdhqNxLsAtRn) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Braggadocious](https://open.spotify.com/album/3UxSSWDypYIdyjdujWiHWe) | 2:23 | 2026-05-28 | 2026-09-04 |
 | [Brayo](https://open.spotify.com/track/7avyAPtxZStI48t4TSArol) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Brayo](https://open.spotify.com/album/3DpVSnYGtiuJhlFBximU41) | 1:59 | 2026-02-19 | 2026-04-17 |
 | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/track/3D7E7gIcU3zRU9chTfqcWn) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y), [Aare](https://open.spotify.com/artist/5Vi294zoDQnvfoebjhfRXu) | [Buy Me Love \(Aare Remix\)](https://open.spotify.com/album/6eqar199hXi9MWBKqQGJiW) | 2:31 | 2026-07-25 | 2026-07-31 |
 | [Catchi Yoh Whine](https://open.spotify.com/track/1H8bWAkucKINTrOaovslR9) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Catchi Yoh Whine](https://open.spotify.com/album/2LzuFCeZ43aPCo37S3lYZ5) | 2:30 | 2025-10-23 | 2026-03-13 |
@@ -56,7 +56,7 @@
 | [Chanda na Pete](https://open.spotify.com/track/7vR5AgrSnrqeJoWMimmopy) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Chanda na Pete](https://open.spotify.com/album/1e4UD7BwDRSWcUeimb0Jdf) | 2:39 | 2026-05-28 | 2026-08-21 |
 | [Choosing You](https://open.spotify.com/track/387HAijpDGR7NYyFbbLuUC) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Choosing You](https://open.spotify.com/album/691tRaAFHRDgxpt9LxbRnO) | 3:02 | 2026-08-07 |  |
 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 | 2026-07-19 | 2026-07-25 |
-| [Closer](https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3) | [Miss Kamweru](https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ) | [Closer](https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR) | 2:37 | 2026-05-14 |  |
+| [Closer](https://open.spotify.com/track/2WVcEQjK8nDQq3xcGrb1I3) | [Miss Kamweru](https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ) | [Closer](https://open.spotify.com/album/0n38FRZY0LI1cgI4nAychR) | 2:37 | 2026-05-14 | 2026-09-04 |
 | [Closer](https://open.spotify.com/track/6d6icJoDLblR6mcnoYwJwK) | [SHLM](https://open.spotify.com/artist/7zG9V7FPRowfauISu9Dy2U), [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB) | [Closer](https://open.spotify.com/album/5QGRqa1TbRRboHLVr4Isiy) | 3:14 | 2026-04-02 | 2026-07-31 |
 | [Colors](https://open.spotify.com/track/0KRLUkUZLsIh6k6d7Vp8Ir) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2BQcxkODkLjlM9SbwZqQS6) | 3:21 | 2025-10-23 | 2026-04-03 |
 | [Come My Way](https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Come My Way](https://open.spotify.com/album/3YUAVNlSPHTHHYrhOYwqiH) | 2:56 | 2025-11-27 | 2026-02-20 |
@@ -189,6 +189,7 @@
 | [Muite](https://open.spotify.com/track/10sMPOHkPKyglRQCjLUJyC) | [Eve Nyasha Ngoloma](https://open.spotify.com/artist/3SQ5WVOVJxLhEWztbS3Ba5), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Muite](https://open.spotify.com/album/13Pn0xSbyT6pdR6BS9DSP7) | 19:30 | 2026-07-19 | 2026-07-26 |
 | [Mungu Alipanga Mwenyewe](https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Mungu Alipanga Mwenyewe](https://open.spotify.com/album/3RCoHHAnkwar8UA85S0Hv8) | 3:51 | 2026-04-09 | 2026-08-21 |
 | [Mwanga](https://open.spotify.com/track/4pdLvkSE1bgUWPJEEtEvQn) | [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Dusk to Dawn](https://open.spotify.com/album/0BotPpY6sS0Mi7qusHSv8A) | 3:45 | 2026-07-25 | 2026-07-31 |
+| [Mwecheche](https://open.spotify.com/track/54Xa5HImqHMUh1Bm46CkMx) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Mwecheche](https://open.spotify.com/album/1xyBwnIrSWsoXZOHYIewV9) | 2:49 | 2026-09-04 |  |
 | [MWOMBOKO](https://open.spotify.com/track/33al7Pqsv2FrvwegZ4S1ul) | [MURINGI](https://open.spotify.com/artist/7f2ru63Hc00D1hDwa4bBns), [Mwalimu Waruks](https://open.spotify.com/artist/5lQ5aW345uTBZJfEMOJI6J) | [Back to Basics](https://open.spotify.com/album/1sW9oTe3aSeWC4pOkGNBgR) | 3:12 | 2026-07-25 | 2026-07-31 |
 | [My Lady](https://open.spotify.com/track/43vAHBJD2MimEVUVhixbBp) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [My Lady](https://open.spotify.com/album/7FVOFeOpO8F36zxl62IkRF) | 3:12 | 2025-10-23 | 2025-12-12 |
 | [NaEnjoy](https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [NaEnjoy](https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt) | 3:30 | 2026-04-23 |  |
@@ -332,6 +333,6 @@
 | [WORK IT OUT](https://open.spotify.com/track/5s0bXHOz5rbMrQvmBtqh1q) | [Llumi](https://open.spotify.com/artist/2lyFzeIMo0XjLX5Av39DgJ) | [WORK IT OUT](https://open.spotify.com/album/2rle90HflR5WcfzPuevbXB) | 2:45 | 2026-08-20 |  |
 | [Yeyo](https://open.spotify.com/track/6Hzjb6KpJLJmIS86PdYDLi) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:48 | 2026-07-15 | 2026-07-21 |
 | [Za Mabuda](https://open.spotify.com/track/6OPKqbBsS6C0zyaotWUJzg) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Za Mabuda](https://open.spotify.com/album/4yEKWHb7dKVNlxsDMcEvOE) | 3:45 | 2025-12-11 | 2026-04-24 |
-| [Zuzu \(Kompa Edit\)](https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Zuzu \(Kompa Edit\)](https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC) | 4:32 | 2026-05-22 |  |
+| [Zuzu \(Kompa Edit\)](https://open.spotify.com/track/7bBozqP0QRlNyVADxLaelB) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Zuzu \(Kompa Edit\)](https://open.spotify.com/album/61Je6BNoJ8GjiRktsw1zuC) | 4:32 | 2026-05-22 | 2026-09-04 |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

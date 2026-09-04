@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Tiffany Young)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Girls' Generation-HRS)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 164000,
       "name": "Edge of Calm",
       "url": "https://open.spotify.com/track/7LxRTa2NFFO9ImeT8QfdKD"
@@ -9068,6 +9068,24 @@
       "duration_ms": 200011,
       "name": "Silent Movie",
       "url": "https://open.spotify.com/track/4uu4bnkSI1JvTwKFUqq7Gp"
+    },
+    {
+      "album": {
+        "name": "Skibidi",
+        "url": "https://open.spotify.com/album/1gOc9AX3LDW6Q84YCDO0Wq"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation-HRS",
+          "url": "https://open.spotify.com/artist/1wlgozUz29VEBQxMDqQFK1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Skibidi",
+      "url": "https://open.spotify.com/track/2L1dsjU3R3U4SX27qIiPrq"
     },
     {
       "album": {

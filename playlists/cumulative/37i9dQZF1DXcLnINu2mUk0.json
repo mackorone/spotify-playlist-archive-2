@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
@@ -6870,7 +6870,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 271500,
       "name": "Flexin On U",
       "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
@@ -11215,6 +11215,24 @@
     },
     {
       "album": {
+        "name": "ningu\u00e9m mais",
+        "url": "https://open.spotify.com/album/4ZP3WthCT420gwjTVEB89r"
+      },
+      "artists": [
+        {
+          "name": "CAIO",
+          "url": "https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "ningu\u00e9m mais",
+      "url": "https://open.spotify.com/track/7rtctz3cgct4toxF1PeNDd"
+    },
+    {
+      "album": {
         "name": "mantra",
         "url": "https://open.spotify.com/album/2uV0txNnWXmFvJJ5UNLCub"
       },
@@ -12960,6 +12978,24 @@
       "duration_ms": 268387,
       "name": "Pelo Norte #1",
       "url": "https://open.spotify.com/track/0V0CCAx9xtFo1RqI47mqql"
+    },
+    {
+      "album": {
+        "name": "Pensamentos",
+        "url": "https://open.spotify.com/album/6SIpdM64x4W8sdIjp95hoI"
+      },
+      "artists": [
+        {
+          "name": "WAY 45",
+          "url": "https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Pensamentos",
+      "url": "https://open.spotify.com/track/3GCPnJyIkr5wPs4PvdH3j1"
     },
     {
       "album": {

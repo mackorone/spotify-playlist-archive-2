@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,892,342 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,892,211 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 |
 | 100 | [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 |
 
-Snapshot ID: `AAAAAI9x0rAx25UU5BEi5oHMsgZtnu3l`
+Snapshot ID: `AAAAAHqreCwJdg3QEu84NFSyQIoCch+z`

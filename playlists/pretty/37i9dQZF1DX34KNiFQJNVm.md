@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Xamã, Pabllo Vitar, Bruno & Marrone, Carol Biazin e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,306,224 likes - 68 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,986 likes - 68 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 67 | [Pior Saudade \- Ao Vivo](https://open.spotify.com/track/3e9J1EWtARfE9TNMiUEnuf) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Du Nada \(Ao Vivo\)](https://open.spotify.com/album/3DZcguKrqF2GKsDBBfYvhi) | 3:02 |
 | 68 | [Laia \- Ao Vivo](https://open.spotify.com/track/7kaESRmp0AE9yMdKoFeFH2) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Laia \(Ao Vivo\)](https://open.spotify.com/album/3EFfsNMlj3BooJaX8MOx5X) | 2:29 |
 
-Snapshot ID: `AAAAAGZNWTTEYbP17KPsacZ4GwkJ6zHR`
+Snapshot ID: `AAAAAInNk/WovjfBSzGNacogAP9MJdga`

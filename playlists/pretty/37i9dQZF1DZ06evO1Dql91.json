@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2956,
+  "num_followers": 2961,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAAB6BFwp8i05PKpQpZp167uK",
+  "snapshot_id": "apdnAAAAAABknBjkCwb6WRKWVR8A0v/h",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Just Loving Me",
-      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
+      "duration_ms": 330533,
+      "name": "When The Rain Starts",
+      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 250509,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
+      "duration_ms": 244551,
+      "name": "Outside Myself",
+      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 330533,
-      "name": "When The Rain Starts",
-      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
+      "duration_ms": 228600,
+      "name": "Just Loving Me",
+      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 244551,
-      "name": "Outside Myself",
-      "url": "https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm"
+      "duration_ms": 250509,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
     },
     {
       "added_at": null,

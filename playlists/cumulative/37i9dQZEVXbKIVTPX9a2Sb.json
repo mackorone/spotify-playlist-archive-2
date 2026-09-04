@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 170624,
       "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
       "url": "https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -9196,7 +9196,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 203419,
       "name": "Cigan G",
       "url": "https://open.spotify.com/track/06mP3Lam9C69IC8HaHMZr7"
@@ -32886,7 +32886,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 211040,
       "name": "Nehaj tak",
       "url": "https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4"
@@ -38949,6 +38949,28 @@
     },
     {
       "album": {
+        "name": "Po\u010dkej (EUP SUMMER SEASON - PART II)",
+        "url": "https://open.spotify.com/album/7xaLic5TJyJCO2PZhKAdIl"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124569,
+      "name": "PO\u010cKEJ w8",
+      "url": "https://open.spotify.com/track/3Jn8X94JACpp9EzJGSdo8F"
+    },
+    {
+      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/6GRkEvEJhFa7pt3vNfC6cK"
       },
@@ -39148,7 +39170,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 126614,
       "name": "Pra\u017esk\u00fd holky",
       "url": "https://open.spotify.com/track/3aMAB9HR14SJ3jves85YqR"
@@ -41946,7 +41968,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 190500,
       "name": "Rockstar Lifestyle",
       "url": "https://open.spotify.com/track/1Xta6NZrYtyFz6jKMtAD85"
@@ -51132,7 +51154,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 215013,
       "name": "Tras tou",
       "url": "https://open.spotify.com/track/37bzTXxhFeNN7K3fDFeGwU"
@@ -57882,7 +57904,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 240116,
       "name": "Zub za zub",
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"

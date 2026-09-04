@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fi\-Né \(粉內\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,929 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,930 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [Dust](https://open.spotify.com/track/0podWAMgZRfNDKGVkgXOJt) | [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [Dust](https://open.spotify.com/album/6Ac4XK1F5xN2bHuFkrGKbR) | 3:16 |
 | 50 | [Kawasaki](https://open.spotify.com/track/6A6t2E97rbXOacOgjHnkcR) | [Junoflo](https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Kawasaki](https://open.spotify.com/album/1OMmzIiwjy1w2888Gaxs8l) | 3:00 |
 
-Snapshot ID: `AAAAACxxJAtg0QIvYwc9m8sYw5StzybN`
+Snapshot ID: `AAAAAIYspKII86tUb/n2QDq+wI6h5kuV`

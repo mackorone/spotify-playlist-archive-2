@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,373 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,375 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 69 | [Speak Up](https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 3:13 |
 | 70 | [Uche Jumbo](https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Uche Jumbo](https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y) | 2:28 |
 | 71 | [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 |
-| 72 | [Sunset in Paris](https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Sunset in Paris](https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3) | 2:20 |
+| 72 | [SUNSET IN PARIS](https://open.spotify.com/track/6wPXn7X3Zx2icmv6qXh8oQ) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [SUNSET IN PARIS](https://open.spotify.com/album/3DhEtDbJB5wNyOV8fkBik3) | 2:20 |
 | 73 | [Obobe](https://open.spotify.com/track/4R7ue5kkKglzqr7NMjqGB1) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [NIGHT](https://open.spotify.com/album/722VVxNwKl5ZZZ1HduMUhr) | 2:39 |
 | 74 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
 | 75 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [Darkest Secrets](https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8) | [Uncle Bubu](https://open.spotify.com/artist/4gO0Opw7pQGFwqRXlsdEnY), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH), [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ), [telz](https://open.spotify.com/artist/44HiOLrR3zuZqBdTALvQa9) | [darkest secrets / CHAKAM](https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk) | 3:21 |
 | 80 | [Bird Flu](https://open.spotify.com/track/3qzYpnWOvJKRAqN6QBZRro) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Bird Flu](https://open.spotify.com/album/145a1ojISZfWgj9NZwDpLi) | 2:58 |
 
-Snapshot ID: `AAAAAFmC/yOJttz0V4fYdMbPfiPMNKGq`
+Snapshot ID: `AAAAAEWmRClTVqXS4P60YTeRoRFKxmdI`

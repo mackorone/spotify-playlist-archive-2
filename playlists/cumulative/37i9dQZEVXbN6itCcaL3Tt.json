@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 270459,
       "name": "Bez Strachu",
       "url": "https://open.spotify.com/track/3z7q0YqcLNPFfjDP5gICfl"
@@ -16670,7 +16670,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 246646,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/4NDdPNqCzNjN9sFzk7NU6W"
@@ -20694,7 +20694,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 200000,
       "name": "GORSET",
       "url": "https://open.spotify.com/track/228k1h2pPFmcnmI8hWSpYc"
@@ -23108,7 +23108,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 226456,
       "name": "HUSTLER",
       "url": "https://open.spotify.com/track/00hqhOTwJqUDgvUua2v7Xc"
@@ -32118,7 +32118,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -32682,7 +32682,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 300017,
       "name": "mam alergi\u0119 na motyle",
       "url": "https://open.spotify.com/track/0m7pTIhF8TYu06izHKCeYq"
@@ -39486,7 +39486,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 129632,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
@@ -41112,7 +41112,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "ODDO",
       "url": "https://open.spotify.com/track/4GVRGoJZTvJ9iuavv9fwjb"
@@ -45210,7 +45210,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-30",
+      "date_removed": null,
       "duration_ms": 123809,
       "name": "Pi\u0119kny sen",
       "url": "https://open.spotify.com/track/6VykKaQAkTTuAk3i9iR7KH"
@@ -47648,7 +47648,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 203255,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/0XcA8Sa8YTCz5GacKTDy64"
@@ -48878,7 +48878,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 197938,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
@@ -55778,7 +55778,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 201829,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/6jGFzqqW8VBBf4oLhnP4A6"
@@ -64658,7 +64658,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152853,
       "name": "Zadzwo\u0144 do mnie",
       "url": "https://open.spotify.com/track/2WFSy9WBAdKH8RnwL5deH2"
@@ -64802,6 +64802,32 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc"
+    },
+    {
+      "album": {
+        "name": "Zapach",
+        "url": "https://open.spotify.com/album/7JhcP0myYthnGJdHMD96qn"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Baby Nerro",
+          "url": "https://open.spotify.com/artist/5tZMd0pUPmQ0ydcd5Vrl16"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Zapach",
+      "url": "https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4"
     },
     {
       "album": {

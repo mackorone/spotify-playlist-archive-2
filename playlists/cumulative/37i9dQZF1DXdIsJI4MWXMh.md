@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-180 songs - 11 hr 56 min
+181 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 | 2025-08-01 |  |
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
-| [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 | 2026-02-19 |  |
+| [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 | 2026-02-19 | 2026-09-04 |
 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 | 2023-03-03 | 2024-04-19 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Aquí Hay Para Llevar](https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX) | 3:10 | 2025-02-13 | 2025-07-08 |
 | [Arrogancia](https://open.spotify.com/track/0r1GMinYwx4MFqpzOSNSD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Arrogancia](https://open.spotify.com/album/7JdPbrNF0uGfRHwmygCTwT) | 4:05 | 2025-09-02 |  |
@@ -123,6 +123,7 @@
 | [Mentirosa](https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [En 3d y a Todo Color](https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80) | 3:43 | 2023-03-03 | 2026-02-15 |
 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 | 2023-03-03 |  |
 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 | 2023-05-29 |  |
+| [Mi Huasita Bonita](https://open.spotify.com/track/1MPpjxb9CKfNNj5rF8KFp7) | [Alvarito y Sus Cumbieras](https://open.spotify.com/artist/3L247AiscrgFIlUK4j5O16), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Mi Huasita Bonita](https://open.spotify.com/album/6sn4MZ1GU2mLsaiT488nfs) | 3:18 | 2026-09-03 |  |
 | [Michelada](https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Michelada](https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ) | 2:42 | 2023-03-03 | 2025-05-21 |
 | [Mil Cantinas](https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:30 | 2023-03-03 | 2026-02-06 |
 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 | 2023-03-03 | 2026-01-15 |

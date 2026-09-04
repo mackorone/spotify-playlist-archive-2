@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 151 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 152 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,18 +146,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 136 | [Dynamite](https://open.spotify.com/track/3ti9s4hvvADQs16BFw9ehv) | [INSEBTION](https://open.spotify.com/artist/6UySDz8nyq50YFgdLlQWbF) | [Dynamite](https://open.spotify.com/album/4NftqBiBHjF344NLoYa7dF) | 2:25 |
 | 137 | [Back to Loving You](https://open.spotify.com/track/79Soo1jhXGYqaFfLS68rcr) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj) | [Back to Loving You](https://open.spotify.com/album/2U2ZgBUG21VP9mG2UU3XWC) | 3:54 |
 | 138 | [Queen Of The Night \- From The Voice Of Germany](https://open.spotify.com/track/5idzZY9eDzlh4JbZqVHgei) | [Mary Summer](https://open.spotify.com/artist/5JPLyJCt5tWeHZc33Rs7OD) | [Queen Of The Night \(From The Voice Of Germany\)](https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO) | 3:53 |
-| 139 | [What I've Become](https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS) | 3:40 |
-| 140 | [God Only Knows](https://open.spotify.com/track/2OEmpMehfdWrauw0SSCinu) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 3:24 |
-| 141 | [Hiding](https://open.spotify.com/track/5D2X4IURttngKC7IjwYUgP) | [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Hiding](https://open.spotify.com/album/1Uao47Zq5D4ms570cOP3Fb) | 2:53 |
-| 142 | [Who You Travel With](https://open.spotify.com/track/5GKarKZIWcOFKKwJVcOADW) | [Blessing Annatoria](https://open.spotify.com/artist/7sOvnyvSZRdtT0hmJeR9QI) | [Count My Blessings](https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW) | 3:06 |
-| 143 | [Down with Me](https://open.spotify.com/track/16PYbLlyjjgGgnFbnr5yaT) | [NYAKI](https://open.spotify.com/artist/1hElvFQvJ9TtVzwyX50XWP) | [Down with Me](https://open.spotify.com/album/7izGbJdcUqe3h0CoqJ9UPj) | 3:25 |
-| 144 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
-| 145 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
-| 146 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
-| 147 | [Boys Do Cry](https://open.spotify.com/track/6J7XDtuyQeqcZ6uQxdSpe6) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/2SZcLSepwoJC1ypxMSMtAi) | 2:46 |
-| 148 | [Parachute](https://open.spotify.com/track/6AwQty7WBfPFqGxsmYlMbb) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/670go6oDg9LHGQzgA39DyK) | 3:21 |
-| 149 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
-| 150 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
-| 151 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
+| 139 | [Ceremony \(Feat\. Tailor\) \(SCRIPT Remix\)](https://open.spotify.com/track/0pSgxeEumEX4BGjuoTV42q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [Ceremony \(Feat\. Tailor\) \(SCRIPT Remix\)](https://open.spotify.com/album/7JdhU8zwwiBi5qr2hl46mS) | 3:05 |
+| 140 | [What I've Become](https://open.spotify.com/track/5rWoMBT1apWvmR9oB7rDps) | [Anna Pancaldi](https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI) | [What I've Become](https://open.spotify.com/album/0QyjzJf0UMjXFuk9tnq2TS) | 3:40 |
+| 141 | [God Only Knows](https://open.spotify.com/track/2OEmpMehfdWrauw0SSCinu) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 3:24 |
+| 142 | [Hiding](https://open.spotify.com/track/5D2X4IURttngKC7IjwYUgP) | [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Hiding](https://open.spotify.com/album/1Uao47Zq5D4ms570cOP3Fb) | 2:53 |
+| 143 | [Who You Travel With](https://open.spotify.com/track/5GKarKZIWcOFKKwJVcOADW) | [Blessing Annatoria](https://open.spotify.com/artist/7sOvnyvSZRdtT0hmJeR9QI) | [Count My Blessings](https://open.spotify.com/album/1ihGORcoWn4WCKYeWO8FHW) | 3:06 |
+| 144 | [Down with Me](https://open.spotify.com/track/16PYbLlyjjgGgnFbnr5yaT) | [NYAKI](https://open.spotify.com/artist/1hElvFQvJ9TtVzwyX50XWP) | [Down with Me](https://open.spotify.com/album/7izGbJdcUqe3h0CoqJ9UPj) | 3:25 |
+| 145 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
+| 146 | [Need Your Heart](https://open.spotify.com/track/703LdqMMYYrp3hIvyJAzBQ) | [Latchmere](https://open.spotify.com/artist/7hH4Q8dq2p4oy5dhvPDKc5) | [Lovedrunk](https://open.spotify.com/album/0Ixpgs0TTTgLDlRqGDoU54) | 3:34 |
+| 147 | [Touching Air](https://open.spotify.com/track/0x7G7lYj8CVe0pSJ8JsxCO) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 3:33 |
+| 148 | [Boys Do Cry](https://open.spotify.com/track/6J7XDtuyQeqcZ6uQxdSpe6) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/2SZcLSepwoJC1ypxMSMtAi) | 2:46 |
+| 149 | [Parachute](https://open.spotify.com/track/6AwQty7WBfPFqGxsmYlMbb) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Parachute](https://open.spotify.com/album/670go6oDg9LHGQzgA39DyK) | 3:21 |
+| 150 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
+| 151 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 152 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcbQvAAAAAApWc9RUnERyycAGlYm4jSR`
+Snapshot ID: `AcbWUgAAAAD/wpnrYA4aPycD76aF31sy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,298 likes - 91 songs - 3 hr 59 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,289 likes - 91 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 90 | [Underwater](https://open.spotify.com/track/1XUUcQn4Z2R80t4gbGSrvn) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4), [firstcoast.](https://open.spotify.com/artist/4bCEgfAIF3dQPrwCkAP0v7) | [Underwater](https://open.spotify.com/album/7AfOXfQ78uumr5J200LqWU) | 2:49 |
 | 91 | [Forever](https://open.spotify.com/track/1wjlK6XQV0ne8ZEE2aFJ7C) | [Sönnefelt](https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo) | [Forever](https://open.spotify.com/album/0RR2at9TMafMOgDBfUIjH8) | 2:18 |
 
-Snapshot ID: `AAAmYJzPKvM2lXBCmrzvsjEbpHCF/BnY`
+Snapshot ID: `AAAmY2ynN5U4OJ3sATk8/aKhgStuPo25`

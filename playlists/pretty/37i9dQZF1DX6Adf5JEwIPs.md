@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jorge Morales El Jilguero 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,439 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,407 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Debimos](https://open.spotify.com/track/47QCNDlREwtpRRSmqg9oQ4) | [Grupo La Etiqueta](https://open.spotify.com/artist/1PKrDFePfBYTEh8cDHqiAp) | [Debimos](https://open.spotify.com/album/3CpL8V9ci9B6rOqK8Hibxr) | 3:19 |
 | 50 | [INRI](https://open.spotify.com/track/1sGQI2J2jElouXORCvm5wH) | [Benji V](https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA) | [INRI](https://open.spotify.com/album/10p4zZtZT9f5ncE7WJbh4b) | 3:10 |
 
-Snapshot ID: `AAAAAAc1VOIguAn+Ezxxa/A+socLwfc9`
+Snapshot ID: `AAAAACimCb9gTXBfbTrrEMbPJmcd849b`

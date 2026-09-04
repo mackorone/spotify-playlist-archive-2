@@ -404,7 +404,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 180017,
       "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 177000,
       "name": "No Tanto",
       "url": "https://open.spotify.com/track/6jMdWOB6UAk16hzN5Fmq43"
@@ -4281,6 +4281,28 @@
     },
     {
       "album": {
+        "name": "Principio Del Final",
+        "url": "https://open.spotify.com/album/37s8sOYvlureLxczOCwxHq"
+      },
+      "artists": [
+        {
+          "name": "GERO",
+          "url": "https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl"
+        },
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186647,
+      "name": "Principio Del Final",
+      "url": "https://open.spotify.com/track/5Qe7892qFGZZ1pbFJeFihT"
+    },
+    {
+      "album": {
         "name": "Prisionero",
         "url": "https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq"
       },
@@ -4470,6 +4492,24 @@
       "duration_ms": 175957,
       "name": "Quieta",
       "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+    },
+    {
+      "album": {
+        "name": "Ara\u00f1a Mayor",
+        "url": "https://open.spotify.com/album/3ySH2FEDTrY8o74Mf9gE3P"
+      },
+      "artists": [
+        {
+          "name": "Ara\u00f1a Mayor y la Drum Machine",
+          "url": "https://open.spotify.com/artist/2imo7lDOZxQtHUSnxKgvPG"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Ramonas",
+      "url": "https://open.spotify.com/track/5C0VBusCpksyZr6byc78oP"
     },
     {
       "album": {

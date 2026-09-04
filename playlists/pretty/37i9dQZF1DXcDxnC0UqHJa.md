@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,090 likes - 115 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,053 likes - 115 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Both Sides Now \(feat\. Natalie Prass\)](https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak) | [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [In Nashville](https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r) | 4:42 |
 | 115 | [How I Long for Peace](https://open.spotify.com/track/1c1GPJWgvwyrBk7sT7vio9) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1), [Crys Matthews](https://open.spotify.com/artist/4amdI0ryPLlEzWrxW7B2RC) | [How I Long for Peace](https://open.spotify.com/album/5Fc5PKHmDK4OMxjgHFvToG) | 4:30 |
 
-Snapshot ID: `AAAAAB8hLrAofq6xixhuj8KBBGLarBfo`
+Snapshot ID: `AAAAAIZXuWSfWzPwj3/oFuQrP7ARAuW5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,380 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,557 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
 | 150 | [SHACKLEROT](https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK) | [SCALP](https://open.spotify.com/artist/5CszF8X0mZXt8Tck93HJuv) | [NOT WORTHY OF HUMAN COMPASSION](https://open.spotify.com/album/16C9JhrUDB19XJVVcyj2dy) | 2:05 |
 
-Snapshot ID: `AAAAAK7rebHKXuWywMIhNibtLtDs/uHD`
+Snapshot ID: `AAAAAPKRP2sStRoyvR0XJs9tO4bIrMiW`

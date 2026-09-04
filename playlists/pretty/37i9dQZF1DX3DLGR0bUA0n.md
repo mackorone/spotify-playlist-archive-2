@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,852 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,878 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 124 | [Canción a mi Papá](https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R), [Los Numero 1](https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW) | [Canción a mi Papá](https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls) | 2:50 |
 | 125 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 
-Snapshot ID: `AAAAAKLdJHKaoKsQ39DDqkn2GCnn1pEn`
+Snapshot ID: `AAAAAJvOfnvJAxcL2muVXa/qHnxuabgM`

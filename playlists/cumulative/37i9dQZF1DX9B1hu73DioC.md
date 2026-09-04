@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-1,025 songs - 2 day 12 hr 53 min
+1,027 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alex](https://open.spotify.com/track/18JRw9sZI9GiMDiDh9BOGS) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Alex/Break You Down](https://open.spotify.com/album/3WKc3SqmFVVemcsBhkBzlx) | 2:56 | 2020-10-05\* | 2021-03-16 |
 | [Algorithmblues](https://open.spotify.com/track/0Mgo4AJxSoW6JMT8y2zrQM) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Algorithmblues](https://open.spotify.com/album/015JELAWqRE9TS7IYHkFVr) | 5:12 | 2021-06-04 | 2022-07-25 |
 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 | 2023-09-15 | 2024-11-16 |
+| [All Day, All Night \(feat\. Lydia Kitto\)](https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 4:02 | 2026-09-04 |  |
 | [All I Want](https://open.spotify.com/track/7GuAxz9Q60xdLS8RtdRCrh) | [Dawn Golden](https://open.spotify.com/artist/6MzxeKydmXufvX7HYPknFW) | [All I Want](https://open.spotify.com/album/5C1RTvOMh2TBKeH3Im4BYx) | 3:34 | 2020-10-16 | 2022-04-17 |
 | [All I've Got](https://open.spotify.com/track/4rQQWZIMGLNa1SUXWKfJZc) | [Modern Nomad](https://open.spotify.com/artist/7E6IRcJWeVNtfMGV3hAqAG) | [All I've Got](https://open.spotify.com/album/3HpG7gCkYGKyxUoLI9Ocav) | 2:54 | 2020-10-05\* | 2020-10-16 |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2021-03-31 | 2022-04-18 |
@@ -205,7 +206,7 @@
 | [Collarbones](https://open.spotify.com/track/4FykZvoH6CPfO9PT4S6qc9) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [Topograph](https://open.spotify.com/album/4p4wYF1OGj7Mm5qPcKIXkT) | 2:53 | 2021-03-14 | 2022-04-05 |
 | [Come Back Down](https://open.spotify.com/track/04H7h3KJAQp9JHCSPGlp9A) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:15 | 2025-08-29 |  |
 | [Come Meh Way](https://open.spotify.com/track/62wAc90VNxtcNJQJrPaeJQ) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Sudan Archives](https://open.spotify.com/album/14te3urxuBTRzhJciMLK0V) | 2:26 | 2023-04-26 | 2023-09-16 |
-| [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2024-08-16 |  |
+| [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 | 2024-08-16 | 2026-09-04 |
 | [come ovr](https://open.spotify.com/track/01PN1v5FRjaIZsjzK0c6DV) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 2:35 | 2020-10-05\* | 2022-04-05 |
 | [Come to Pass](https://open.spotify.com/track/1wOp8sjR26NOSmc64JUMBE) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Come to Pass / Shedding Skin](https://open.spotify.com/album/3bezORIHdVNiS5p0vihTPH) | 2:42 | 2020-10-05\* | 2020-10-06 |
 | [Common Blue](https://open.spotify.com/track/4ywML3rFjamKeKg1GE689X) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Common Blue](https://open.spotify.com/album/2eA9i4PruYA1J16gpAFgra) | 3:51 | 2024-03-05 | 2024-11-16 |
@@ -410,6 +411,7 @@
 | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/track/4AeR8QPRYY15NDvSGJLUZi) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Gumshoe \(Dracula From Arkansas\)](https://open.spotify.com/album/1khJIMCfPXkYqb3yUmtg4s) | 4:06 | 2025-02-21 | 2025-02-26 |
 | [Half Life](https://open.spotify.com/track/3Rmld8jmFs7VbpeeGrNrDt) | [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Half Life](https://open.spotify.com/album/0hN61WMhZ4dPKR6ReAj0UO) | 3:07 | 2021-06-04 | 2022-07-29 |
 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 | 2023-02-10 | 2023-03-07 |
+| [Happiness Anytime](https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 2](https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9) | 2:38 | 2026-09-04 |  |
 | [Hard MF 2 Luv](https://open.spotify.com/track/14t04I7NGyc8tDIc0lY2Aj) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [Hard MF 2 Luv](https://open.spotify.com/album/27hOWOKZ0pBhvUcySOj36d) | 3:23 | 2023-09-15 | 2023-12-13 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-08-29 | 2025-11-04 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/5PryNzGIN1LO6dBD9I0dkH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ) | 3:45 | 2025-11-03 | 2026-01-15 |
@@ -632,7 +634,7 @@
 | [My Girl](https://open.spotify.com/track/5aMYIxnTTVIGxdey7ULrRL) | [Oshi](https://open.spotify.com/artist/4mAhA39Nr2uEIbQoC3yxOs) | [My Girl](https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC) | 3:35 | 2021-09-10 | 2022-04-20 |
 | [My Kind Of Woman](https://open.spotify.com/track/4tXzPOr4UaBoA7k7pnpJI1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/0Skv3s5A99n7dstiJOs0aA) | 3:10 | 2020-11-17 | 2022-04-21 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-03-20 | 2026-04-23 |
-| [MY NAME IS NIGHT](https://open.spotify.com/track/3hFEK5zfSSezpZcP2pBYAL) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 4:11 | 2026-07-21 |  |
+| [MY NAME IS NIGHT](https://open.spotify.com/track/3hFEK5zfSSezpZcP2pBYAL) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 4:11 | 2026-07-21 | 2026-09-04 |
 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 | 2023-09-15 | 2024-02-27 |
 | [Mykonos](https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 4:35 | 2022-07-25 | 2022-11-12 |
 | [Mykonos](https://open.spotify.com/track/4iaGeV4WFvP2ynbqCIyTpS) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/62miIQWlOO88YmupzmUNGJ) | 4:35 | 2020-10-16 | 2022-04-17 |

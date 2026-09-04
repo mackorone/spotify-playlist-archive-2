@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 224571,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/4iGdvqNQ3MgC1zcLMnBogj"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 202179,
       "name": "Bassline Ritual",
       "url": "https://open.spotify.com/track/45u7i6Au2xt3igjcAFgVlT"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 289000,
       "name": "BR3ATH3",
       "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
@@ -4355,6 +4355,28 @@
     },
     {
       "album": {
+        "name": "Curation Five: Alarico",
+        "url": "https://open.spotify.com/album/61HAa7QNepeheaMfFAuL67"
+      },
+      "artists": [
+        {
+          "name": "Yanamaste",
+          "url": "https://open.spotify.com/artist/6zRdaJArenH7DjolPTm6hY"
+        },
+        {
+          "name": "Alarico",
+          "url": "https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352853,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/0SINg47CtOhohCsVcGXFc4"
+    },
+    {
+      "album": {
         "name": "Connector",
         "url": "https://open.spotify.com/album/0JhaUaG3iNOPY83UvP4hAz"
       },
@@ -4908,6 +4930,24 @@
       "duration_ms": 278602,
       "name": "Dance All Night",
       "url": "https://open.spotify.com/track/1WQRZOXfnHiqwJk6DTrKLj"
+    },
+    {
+      "album": {
+        "name": "Dance4Life",
+        "url": "https://open.spotify.com/album/034oshFuquvFweOKlRCQIx"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251519,
+      "name": "Dance4Life",
+      "url": "https://open.spotify.com/track/63funfqspAgEvYvOv63BdS"
     },
     {
       "album": {
@@ -6144,6 +6184,24 @@
       "duration_ms": 343111,
       "name": "Dreams Machine",
       "url": "https://open.spotify.com/track/5OhyqOcmZIZ9krDUJB3vNd"
+    },
+    {
+      "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "album": {
@@ -13046,7 +13104,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 219649,
       "name": "Magic In You - Edit",
       "url": "https://open.spotify.com/track/3nrT6SiujRG4Hhyskgx5hq"
@@ -14212,6 +14270,28 @@
       "duration_ms": 222599,
       "name": "Music Is The Answer - Short Version",
       "url": "https://open.spotify.com/track/704Rw7OlcdzuvSd2nk1cNB"
+    },
+    {
+      "album": {
+        "name": "Must Go On",
+        "url": "https://open.spotify.com/album/2OOLdyzedzxvYZ7KCXkKRK"
+      },
+      "artists": [
+        {
+          "name": "Jason Orfan",
+          "url": "https://open.spotify.com/artist/0iW9KJiRCQmIelsK8NmU06"
+        },
+        {
+          "name": "Fonsekas",
+          "url": "https://open.spotify.com/artist/6fRkDEaiuSveyzAT6DbCUN"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404776,
+      "name": "Must Go On",
+      "url": "https://open.spotify.com/track/6M9FVKJjV7AIgunkNBTh4c"
     },
     {
       "album": {
@@ -17289,6 +17369,24 @@
     },
     {
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/1gOT7jyrd5FabUdWno57wg"
+      },
+      "artists": [
+        {
+          "name": "Mattia Saviolo",
+          "url": "https://open.spotify.com/artist/0CHQALTC4ovqi6EU4xvUeq"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/7BnZO7HxjFL5DRgysSoHaz"
+    },
+    {
+      "album": {
         "name": "TUNEL",
         "url": "https://open.spotify.com/album/7FqFlY4CCS1JerWsYxQIug"
       },
@@ -17490,6 +17588,28 @@
       "duration_ms": 407819,
       "name": "Rave The Planet",
       "url": "https://open.spotify.com/track/3w5ugWaYMy17jjyUXNA7yq"
+    },
+    {
+      "album": {
+        "name": "Rave Therapy",
+        "url": "https://open.spotify.com/album/0uEiSJnCg3JGlacWk6Slgp"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "Rave Therapy",
+      "url": "https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU"
     },
     {
       "album": {
@@ -19082,7 +19202,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 292448,
       "name": "Scanline",
       "url": "https://open.spotify.com/track/02EbDzufBOHaP26WFfx8B4"
@@ -21332,7 +21452,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 145600,
       "name": "That Acid",
       "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
@@ -22260,6 +22380,24 @@
       "duration_ms": 358099,
       "name": "The Realm",
       "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/4tKTfwaZy5h6lw5odYhIpb"
+      },
+      "artists": [
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241791,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5z8KbHgzWHRCzumsRVkRYk"
     },
     {
       "album": {
@@ -23400,7 +23538,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 163200,
       "name": "Underground Queen - Edit",
       "url": "https://open.spotify.com/track/1ujEuv016SPzgCZ1RZR1H8"

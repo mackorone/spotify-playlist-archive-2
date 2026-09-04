@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 49 | [Mi Promesa](https://open.spotify.com/track/6dizq6CRclu77G76jzLcyL) | [Peralex](https://open.spotify.com/artist/7dWqbtfaF1hXP6cJwhylsc) | [Mi Promesa](https://open.spotify.com/album/6kkH9w4IpBXGuq07gwouOx) | 3:07 |
 | 50 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
 | 51 | [LUNA](https://open.spotify.com/track/3JGKL44EP4Smap7bpVZMWC) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [LUNA](https://open.spotify.com/album/3xDRbXSLfuUg6Z7uU47XHH) | 3:06 |
-| 52 | [Pra Ele](https://open.spotify.com/track/2WBP59ANz1cYycyMX2Tgid) | [Mariana Zwarg](https://open.spotify.com/artist/57ioZ03zw30cvBET7gtJUZ), [Sexteto Universal](https://open.spotify.com/artist/1HTTtqCoxavEJiTAKWQSlL), [Sá Reston](https://open.spotify.com/artist/1E7k2rit5De9syERMkmf20) | [Nascentes](https://open.spotify.com/album/0iaY8KI1991oqrOA6Ddn9I) | 3:16 |
+| 52 | [Pra Ele](https://open.spotify.com/track/2WBP59ANz1cYycyMX2Tgid) | [Mariana Zwarg](https://open.spotify.com/artist/57ioZ03zw30cvBET7gtJUZ), [Sexteto Universal](https://open.spotify.com/artist/1HTTtqCoxavEJiTAKWQSlL) | [Nascentes](https://open.spotify.com/album/0iaY8KI1991oqrOA6Ddn9I) | 3:16 |
 | 53 | [Mañanita Caraqueña](https://open.spotify.com/track/2bd2w3S9FsKZ2zogHBbUdX) | [Olga López](https://open.spotify.com/artist/6CFAJyc75VUQJfvDrfmrjG) | [Latinoamérica en el Piano](https://open.spotify.com/album/46CDA3ijRnaGB4F9xFJbaP) | 1:15 |
 | 54 | [Desde Mi Techo \- Interludio](https://open.spotify.com/track/7kRg9U2OnwXTYMa6ff7nAD) | [Manolo Ramos](https://open.spotify.com/artist/2Y4HyZqAPMu0R6nvl5rWgW), [José Eduardo Santana](https://open.spotify.com/artist/4WtMdh2ZXbE8ePG7vG3mGL) | [Avioneta](https://open.spotify.com/album/4F4hkxelXjHLTshWwDbkQq) | 2:07 |
 | 55 | [Pura Vida](https://open.spotify.com/track/1VqYHNZIMIPzdkAYOOZ2Rn) | [Hanna](https://open.spotify.com/artist/4ncBazoW8at3m5jhnHZxwb) | [Pura Vida](https://open.spotify.com/album/61r8W4RLOGuQJxrdMMSr26) | 2:46 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 71 | [Samba Errado](https://open.spotify.com/track/36LTx0WTw6z7ySF27cSimH) | [Caxtrinho](https://open.spotify.com/artist/5urBZ4BQg3Ohpkf3xZjMKI) | [Queda Livre](https://open.spotify.com/album/5P0mCSJLuXhGKnLzfvLIAn) | 1:56 |
 | 72 | [No Rush](https://open.spotify.com/track/1gYZFTiH6N7kKlZK5jUFEa) | [Elia Esparza](https://open.spotify.com/artist/7wAzGQDLEsCvXoj8oVcJJG) | [Not To Be Dramatic](https://open.spotify.com/album/403WvXBzfBRuAVhEETUhba) | 2:51 |
 
-Snapshot ID: `AAAAAOW6KkyPHRoG9e0imfrnC0/KhwOo`
+Snapshot ID: `AAAAAJ5TEuomVjs5V1QxIAtf9jSUsqFl`

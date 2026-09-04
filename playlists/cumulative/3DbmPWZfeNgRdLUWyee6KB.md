@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,455 songs - 3 day 12 hr 41 min
+1,456 songs - 3 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 | 2026-03-12 | 2026-04-12 |
 | [Next to Where You Are](https://open.spotify.com/track/6QNExFOxoIw3QvqHD74Gtt) | [Chris Carbon](https://open.spotify.com/artist/6JxWjdVW8CVnrdgj1ZMjfT) | [Next to Where You Are](https://open.spotify.com/album/2EQmEvcmOOo08UY6z8hSFu) | 4:16 | 2026-04-21 | 2026-06-05 |
 | [Nfs](https://open.spotify.com/track/5AWeIqorfxJeSe5VOJhWx1) | [Kenniigram](https://open.spotify.com/artist/21ZA59JOT9aofUdUj2daa5) | [Swaggernista](https://open.spotify.com/album/4ZSEQM1mr5MRg52c7ay9ID) | 2:40 | 2026-01-14 | 2026-02-20 |
+| [Nicht nur heut](https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 | 2026-09-03 |  |
 | [Night and Day](https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Night and Day](https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP) | 2:43 | 2026-02-03 | 2026-03-07 |
 | [Night Caravan](https://open.spotify.com/track/3R3Yetm1JsNIDvylBdsy4E) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Ruben Van Rompaey](https://open.spotify.com/artist/2cNjCwdbpnREFPJvVmIdol) | [Night Caravan](https://open.spotify.com/album/0gm71xzHNzhzrPxHO5WewX) | 2:41 | 2023-11-02 | 2025-11-29 |
 | [Nikà](https://open.spotify.com/track/21IwyotvKTpn9LBOphRQNx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:40 | 2023-04-20 | 2025-11-29 |

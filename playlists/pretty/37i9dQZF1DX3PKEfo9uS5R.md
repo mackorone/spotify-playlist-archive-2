@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,614 likes - 110 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,662 likes - 110 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 109 | [Snorkel](https://open.spotify.com/track/0RUfC1ZRnqiL3EvpD1Ky34) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Snorkel](https://open.spotify.com/album/3PeIr8f62Cb5CuDfo15u8g) | 2:27 |
 | 110 | [Velour Water](https://open.spotify.com/track/1yTQyIXK0Ne1CqszSfVYLh) | [Mare](https://open.spotify.com/artist/37VYyGD4iL6inSd3jluhV8) | [Velour Water](https://open.spotify.com/album/4YtICvyFA5Q8SpR4OTXKKH) | 2:03 |
 
-Snapshot ID: `AAAAAG22l5PzGOaPXcUY6o34QiWu5rBq`
+Snapshot ID: `AAAAAAH+klVfaXkZca/7Se9wD72oBYpG`

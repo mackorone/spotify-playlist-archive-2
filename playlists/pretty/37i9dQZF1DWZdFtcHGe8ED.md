@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,787 likes - 200 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,800 likes - 200 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,8 +199,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 189 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
 | 190 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 191 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
-| 192 | [Reap What You Sow](https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Reap What You Sow](https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e) | 3:58 |
-| 193 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
+| 192 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
+| 193 | [Reap What You Sow](https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Reap What You Sow](https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e) | 3:58 |
 | 194 | [Fuel the Fire](https://open.spotify.com/track/0buwvmO1V7DoStjJF9KJbI) | [Tonic Breed](https://open.spotify.com/artist/77xERzMN8ghZCov8PRbCVR), [Bernt Jansen](https://open.spotify.com/artist/2mxHsWZS5kzzF5KjFfmpUb), [Dirk Verbeuren](https://open.spotify.com/artist/4zG9AWbdwEqp2pjrjDnYNV) | [Fuel the Fire](https://open.spotify.com/album/2S93hqoq2uVn0yfihm5NIi) | 4:56 |
 | 195 | [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 |
 | 196 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 199 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 |
 | 200 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 
-Snapshot ID: `AAAAACUkveuF02VvnUBBfyL81OPGxpVb`
+Snapshot ID: `AAAAAAbv6+Gnlg53dSit0/bWPorez3W1`

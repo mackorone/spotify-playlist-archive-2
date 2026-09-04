@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,445 likes - 61 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,456 likes - 61 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Keyboard Suite No\. 2 \(Set I\) in F Major, HWV 427: I\. Adagio](https://open.spotify.com/track/1BtdzzDdHDLoCuMlzO6KNO) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Philip Edward Fisher](https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7) | [Handel: Keyboard Suites, Vol\. 1](https://open.spotify.com/album/7KWXZfDQtpcDqOQdv96fzJ) | 3:01 |
 | 61 | [Ode for St\. Cecilia's Day, HWV 76: Overture](https://open.spotify.com/track/0mloLmeqwsy2l54NuGVOks) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Dorothee Mields](https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW), [Mark Wilde](https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg), [Alsfelder Vocal Ensemble](https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU), [Concerto Polacco](https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS), [Wolfgang Helbich](https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61) | [Handel: Ode for St\. Cecilia's Day](https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8) | 3:33 |
 
-Snapshot ID: `AAAAAJ3UTd9tq1fhMPa4I/EUNJsoFga0`
+Snapshot ID: `AAAAAHvdesQhbZ6xSlxOXI1vJNLeg/cK`

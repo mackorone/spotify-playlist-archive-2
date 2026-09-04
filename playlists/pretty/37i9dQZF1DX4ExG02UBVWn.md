@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,923 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,922 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 99 | [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 |
 | 100 | [LONG TERM PARKING](https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e) | [Luke RV](https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd) | [LONG TERM PARKING](https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu) | 2:42 |
 
-Snapshot ID: `AAAAAK8y9Gr3Sa0PMA9t1pmoI0DXvua6`
+Snapshot ID: `AAAAALkeWa6ijG9JrZcuNrMSEX+uII/G`

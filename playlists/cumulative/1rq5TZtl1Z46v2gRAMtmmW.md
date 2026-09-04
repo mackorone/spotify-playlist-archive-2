@@ -4,7 +4,7 @@
 
 > 
 
-575 songs - 1 day 12 hr 58 min
+577 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 | 2025-10-21 |  |
 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 | 2026-04-01 |  |
 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 | 2026-05-29 |  |
+| [Ascension](https://open.spotify.com/track/3Sz8u6tlAiSXBsDbWfKVKt) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Ascension](https://open.spotify.com/album/3AYSirSqqcHL8cSeFKr6dY) | 3:49 | 2026-09-03 |  |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-06 | 2023-06-08 |
 | [Atlantis \- Model Man Remix](https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [The Learning of Urgency Remixes](https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO) | 4:31 | 2024-08-30 | 2024-11-30 |
 | [Ayewah!](https://open.spotify.com/track/699jhhlEw8rI4t35r7kTTt) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9), [Tony Quattro](https://open.spotify.com/artist/2UsUlCr8yNT7vpjw076zyt) | [Ayewah!](https://open.spotify.com/album/7sWITAYpmzV4zQntcDAwnG) | 5:04 | 2026-06-05 |  |
@@ -390,6 +391,7 @@
 | [Oizys \- Nailah Hunter Rework](https://open.spotify.com/track/5DcscpafyYnOPyOZFzH55k) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Reworks: Vol2](https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3) | 3:50 | 2023-11-24 | 2024-05-01 |
 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-09 | 2023-03-25 |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2024-03-01 | 2024-04-09 |
+| [One More Dance](https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [One More Dance](https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz) | 3:50 | 2026-09-03 |  |
 | [Open At Noon](https://open.spotify.com/track/3xhfFEHJOnXfsMGKKrUsz9) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Alma’s Cove](https://open.spotify.com/album/4YMU4V3o2VqhlI5TEu1d8i) | 3:56 | 2025-06-20 | 2025-11-07 |
 | [OPEN UP THAT DOOR](https://open.spotify.com/track/1CoS445LRHPTqQS7yOJwJA) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [OPEN UP THAT DOOR](https://open.spotify.com/album/0tkEwTYP4NM6Xiv2VOoOj2) | 3:56 | 2025-09-08 | 2026-02-18 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-30 | 2023-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: 派偉俊 Patrick Brasca
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,605 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,594 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 39 | [女兒殿下](https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:44 |
 | 40 | [100 Degrees](https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [100 Degrees](https://open.spotify.com/album/5gOtkYrLpwEvTRGDi0gcct) | 2:32 |
 
-Snapshot ID: `AAAAAGZVrq5ZIm4Hs1RO/PeJVa98gYg1`
+Snapshot ID: `AAAAAKuFjjrfEjWXd3MsD2Sv7h6bdWJ0`

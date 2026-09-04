@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Os Azeitonas",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Mike El Nite",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 142939,
       "name": "Aproveitar (feat Manuela)",
       "url": "https://open.spotify.com/track/5s0GHAAaLOeWvIvat1PXFI"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 176402,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/2TOLW6pFjPtBkzLPWJCkgd"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 187431,
       "name": "Chamadas Que Ignoras",
       "url": "https://open.spotify.com/track/4GKcqRGGwQpLMBISTMFSXK"
@@ -1884,6 +1884,32 @@
       "duration_ms": 365426,
       "name": "Circle of Trust",
       "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
+    },
+    {
+      "album": {
+        "name": "PIPA$TAR",
+        "url": "https://open.spotify.com/album/6a6IzPxS9uRa93KT0sEUbx"
+      },
+      "artists": [
+        {
+          "name": "PIPA DE MA$$A",
+          "url": "https://open.spotify.com/artist/5sCKZggbMGwCxzQoc6juPf"
+        },
+        {
+          "name": "Batatinha",
+          "url": "https://open.spotify.com/artist/1ekyhB868BbhhYUW9Ksvay"
+        },
+        {
+          "name": "Jo\u00e3o Borsch",
+          "url": "https://open.spotify.com/artist/309UNwMQKPwivPNoghGL9S"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "circo da vida",
+      "url": "https://open.spotify.com/track/4B8GZCmX3XF9Y9VAMo5qFc"
     },
     {
       "album": {
@@ -2986,6 +3012,24 @@
       "duration_ms": 168000,
       "name": "Escurid\u00e3o",
       "url": "https://open.spotify.com/track/4LP5zRFwqoE8qLtOOgk06e"
+    },
+    {
+      "album": {
+        "name": "Esplanada",
+        "url": "https://open.spotify.com/album/0t6ayKaRYeUmf5LrLYVIzm"
+      },
+      "artists": [
+        {
+          "name": "Mike El Nite",
+          "url": "https://open.spotify.com/artist/2MPXfFQ72KWgQGUDXrnCwO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259058,
+      "name": "Esplanada",
+      "url": "https://open.spotify.com/track/7kiCwOBplA7PTPVXSNJ4lT"
     },
     {
       "album": {
@@ -8258,7 +8302,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -8720,7 +8764,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"

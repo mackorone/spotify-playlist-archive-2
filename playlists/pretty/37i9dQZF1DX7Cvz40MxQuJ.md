@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,600 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,683 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 17 | [Passymeasure Galliard](https://open.spotify.com/track/3V6Wud4SwiYyVKyD2ewTWS) | [John Danyel](https://open.spotify.com/artist/5DurtR3OW7vzPxgwZUVTar), [Evangelina Mascardi](https://open.spotify.com/artist/25xXI19ZzvenYn1EafS3Az), [Angélique Mauillon](https://open.spotify.com/artist/3yFhWmqwZXPNREuatEQfDb) | [Dreames & Imaginations \- Poeticall Musicke to be sung to the Lyra viol \(Music from around 1600\)](https://open.spotify.com/album/5oxSEkeEbkD6vNocnPD9gD) | 4:13 |
 | 18 | [Adagio in F Major, Hob\. XVII:9](https://open.spotify.com/track/3iWpcIZVDJeRdz0PdSuudC) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp) | [Hommage à Haydn](https://open.spotify.com/album/5QnCIqKvRc5D9lYET04LPU) | 4:47 |
 | 19 | [A Fancy](https://open.spotify.com/track/6BZcnZSvZ5ePsfhIlLeWUR) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Guillem Perez\-Quer](https://open.spotify.com/artist/4sRCDH67fBNODQkgGc7AW3) | [A Fancy](https://open.spotify.com/album/3vHWakAwThPdUV0dtKMWFq) | 3:41 |
-| 20 | [Primavera \(Arr\. for Harp by Danielle Riegel\)](https://open.spotify.com/track/6f0xhMM3pteGeBz6VfM7lr) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Danielle Riegel](https://open.spotify.com/artist/6YwazYlAPBhs23Upn0AqhE) | [Einaudi: Primavera \(Arr\. for Harp by Danielle Riegel\)](https://open.spotify.com/album/1jqPIuZbWVjg3CmOKaLQk2) | 6:53 |
+| 20 | [Primavera \(Arr\. for Harp by Danielle Riegel\)](https://open.spotify.com/track/6f0xhMM3pteGeBz6VfM7lr) | [Ludovico Einaudi](https://open.spotify.com/artist/6HUrIIa0bHFKMc4F55JT0x), [Danielle Riegel](https://open.spotify.com/artist/6YwazYlAPBhs23Upn0AqhE) | [Einaudi: Primavera \(Arr\. for Harp by Danielle Riegel\)](https://open.spotify.com/album/1jqPIuZbWVjg3CmOKaLQk2) | 6:53 |
 | 21 | [Adagio in G Minor \(Arr\. for Harp and Orchestra\)](https://open.spotify.com/track/47xdo9qYjAbOIVVBAqom1b) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Stefan Klieme](https://open.spotify.com/artist/6Auw3YbOpUE3iS9rmE8Dte), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [L'Arte del mondo](https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY), [Werner Ehrhardt](https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz) | [Notte Veneziana](https://open.spotify.com/album/2mSfedm9hdRIMZEekfMRRO) | 5:00 |
 | 22 | [Waltz of the Flowers \(From "The Nutcracker", Op\. 71\)](https://open.spotify.com/track/5Kxzg9iFSKRNy5FOV5Xzz2) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [Waltz of the Flowers \(From "The Nutcracker", Op\. 71\)](https://open.spotify.com/album/0qyrCLqRuSqbgn9oo5PLpy) | 2:19 |
 | 23 | [3 Songs, Op\. 7: 1\. Après un rêve \(Transcr\. Y\. Kondonassis\)](https://open.spotify.com/track/7zK9IV7QVaLaefZsypMkR3) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Yolanda Kondonassis](https://open.spotify.com/artist/6cDaoaokVtlxKqG1Gi7lYz) | [The Romantic Harp](https://open.spotify.com/album/44XxtMmSBK9e78j9bSfgKk) | 3:10 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 73 | [Quan je voy le duç](https://open.spotify.com/track/3wRVUvHXCeZoZ7XAtId665) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Ecco la Primavera \- Florentine Music of the 14th Century](https://open.spotify.com/album/1ZvEo8SLwqyeVVzfxzm42r) | 2:22 |
 | 74 | [Tavern of Heroes](https://open.spotify.com/track/0KIcB3cswZWWStWOW4IVez) | [Valkyrion](https://open.spotify.com/artist/1xkBfXFYaz0S8m15508YIn) | [Medieval Tavern](https://open.spotify.com/album/7kDxfTsQqPPaRXlWOgXjk5) | 1:28 |
 
-Snapshot ID: `AAAAAOY4BZ9GalSde5ylJc2BQ6sO2UE/`
+Snapshot ID: `AAAAABsMM9A3YwqP/TRhOmnpLnKUbj/8`

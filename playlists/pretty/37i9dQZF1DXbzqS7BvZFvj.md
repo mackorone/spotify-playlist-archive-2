@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,688 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,693 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 99 | [Thick One \(with Skilla Baby & Kash Doll\) \- Remix](https://open.spotify.com/track/5KBmIlmWz3qU5JnICetxcq) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Thick One \(with Skilla Baby & Kash Doll\) \[Remix\]](https://open.spotify.com/album/300TtHqLZ25gqKHvg0KPIE) | 2:39 |
 | 100 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 
-Snapshot ID: `AAAAAHwsOZzLfX/0ALT4I4G0jl4+JnbH`
+Snapshot ID: `AAAAAM42WGEGXKchmcI3Bx2JuSLul0Sj`

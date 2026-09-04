@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-710 songs - 1 day 20 hr 14 min
+711 songs - 1 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-16 | 2026-04-21 |
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-05-08 | 2026-05-26 |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
+| [Fria Pero Quema](https://open.spotify.com/track/3QlVCOzSv1eMq99lhTxFP0) | [Mr Brey](https://open.spotify.com/artist/6oOAP9o5Hqmtzffr6OyQ9y) | [Fria Pero Quema](https://open.spotify.com/album/4NuiGgK6hMFLDeF6AraUM3) | 2:56 | 2026-09-03 |  |
 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 | 2026-04-21 |
 | [Funkin Blues](https://open.spotify.com/track/6wqlg869am54Wqbct45PYF) | [The Cadillac Cats](https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi) | [Funkin Blues](https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh) | 3:23 | 2026-07-27 | 2026-08-15 |
 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/2koZXrV4sFHisAwTR36H6s) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Future \#1 \(2026 Remix\)](https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa) | 3:21 | 2026-06-15 | 2026-06-25 |

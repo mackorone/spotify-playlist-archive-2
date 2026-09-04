@@ -2,9 +2,9 @@
 
 ### [Video Musik Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DX7GFJ6vkCaiW)
 
-> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Difki Khalif
+> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Yura Yunita
 
-121 songs - 7 hr 42 min
+123 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,12 @@
 | [Moonlight](https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Moonlight](https://open.spotify.com/album/3phWkXWHf65cK8vFh3jqMe) | 5:10 | 2026-08-22 |  |
 | [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2026-04-24 | 2026-08-22 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2026-04-24 |  |
+| [Museum Duka](https://open.spotify.com/track/4x4YtCcmxghIUNwE2nVRLU) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [YB](https://open.spotify.com/artist/7u6eYMzlO7UGHY4qvd8NXu), [Tepe](https://open.spotify.com/artist/3KxeXrPqAFeuNvviB9dBGb) | [Museum Duka](https://open.spotify.com/album/7kG7ohzrjqSzh8c5K0w6sN) | 3:30 | 2026-09-04 |  |
 | [My Hometown Is Sinking](https://open.spotify.com/track/6gNJ4x41nHgnvfe8baw75g) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [My Hometown Is Sinking](https://open.spotify.com/album/3d5sL5QzwVxXL3KsbFRN2W) | 3:11 | 2026-04-24 |  |
 | [Nyala](https://open.spotify.com/track/7COyf11vklAubv8HBNw3EO) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Berhati](https://open.spotify.com/album/4gwRdhyoIngNRgbeP0C7Id) | 5:27 | 2026-04-24 |  |
 | [Pelindungmu \- Ayah, Aku Mau Cerita Original Soundtrack](https://open.spotify.com/track/5KzSxY3ZSFtC6C0rVIs6jq) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Pelindungmu \(Ayah, Aku Mau Cerita Original Soundtrack\)](https://open.spotify.com/album/49pRoCB07gZ1NxuiCM9p3q) | 4:47 | 2026-08-14 |  |
 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2026-04-24 | 2026-08-22 |
+| [Pertiwi](https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Pertiwi](https://open.spotify.com/album/3qYQ3T1B1kMHWvMeRtH25S) | 3:48 | 2026-09-04 |  |
 | [Pesan Terakhir](https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Lyodra](https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG) | 4:21 | 2026-04-24 | 2026-08-22 |
 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 | 2026-04-24 |  |
 | [Pilihan Yang Terbaik](https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:54 | 2026-04-24 | 2026-08-15 |

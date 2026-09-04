@@ -4,7 +4,7 @@
 
 > as gigas da net
 
-619 songs - 1 day 5 hr 3 min
+620 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [Vou Morar no Cabaré](https://open.spotify.com/track/4ewVY1OIA2ud9D58zjD7Ll) | [GORDÃO DO PC](https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS), [Dj Wesley Gonzaga](https://open.spotify.com/artist/4mRdkoKoBtNFo5sDAgQlgi) | [Vou Morar no Cabaré](https://open.spotify.com/album/7Hyki9fAsyJ04V1lkMMGH6) | 1:45 | 2022-12-08 | 2023-05-03 |
 | [Vou Passar Gelinho](https://open.spotify.com/track/2BfDOZLtOL79e6L6QphWlS) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Vou Passar Gelinho](https://open.spotify.com/album/1oSR4ze0V0iwLUCit4oGfY) | 2:22 | 2024-06-17 | 2025-12-03 |
 | [Vou Raspar Seu Bigodin](https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin](https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW) | 1:44 | 2025-02-03 | 2025-11-13 |
+| [Vou Tacar na Peka](https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx) | [Coral das Quebradas](https://open.spotify.com/artist/13W2ppQdsYiWw9zynrNzjZ), [MC Kauan PV](https://open.spotify.com/artist/71wi4mvYLNprbPHLb8qgyQ), [MC Zignani](https://open.spotify.com/artist/3XGGA9Vjm3cNvl73jvZloq), [Oracioh MC](https://open.spotify.com/artist/1OqNsqv0gLsTj3lxHGuPM3), [Mc DR](https://open.spotify.com/artist/02RhvXTIhg46MyWF8yN6GG) | [Vou Tacar na Peka](https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh) | 1:06 | 2026-09-03 |  |
 | [Vulgo Mc Paiva](https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Dj LK da Escócia](https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50) | [Vulgo Mc Paiva](https://open.spotify.com/album/7nAqWtxAmYqQuSMGSahW9X) | 2:00 | 2023-08-22 | 2024-02-20 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-11-21 | 2024-02-08 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-26 | 2024-05-28 |

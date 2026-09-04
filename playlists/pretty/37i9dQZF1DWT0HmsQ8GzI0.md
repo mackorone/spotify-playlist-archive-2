@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Jazzbois
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,882 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,883 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 79 | [Bokáig](https://open.spotify.com/track/5NiWmrfffV9kj0KqsPFMas) | [Artūr Rambo](https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe) | [Bokáig](https://open.spotify.com/album/6FIb3r1bHYnFB08zwP6rZF) | 3:48 |
 | 80 | [Télbe át](https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Télbe át](https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ) | 2:41 |
 
-Snapshot ID: `AAAAALhjZ+/e01S08jN0KSQlDkjQ10a7`
+Snapshot ID: `AAAAAD9/6lKWlu6DztPBys9Y7OA15b9K`

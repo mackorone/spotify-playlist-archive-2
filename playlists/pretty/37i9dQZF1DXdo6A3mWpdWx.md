@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 
 > The biggest party hits of the 1990s\. Cover: Aqua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470,747 likes - 150 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471,217 likes - 150 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdo6A3mWpdWx.md) - [plain]
 | 149 | [Shut Up \(And Sleep With Me\) \[Original Airplay Mix\]](https://open.spotify.com/track/0fXy5mDtuSBtBMkNtAUhG6) | [Sin With Sebastian](https://open.spotify.com/artist/0M898uhr3b4OPIUC4pse47) | [Shut Up \(And Sleep With Me\)](https://open.spotify.com/album/2Pxy2nryVd8wa5sujx9w1N) | 3:46 |
 | 150 | [Infinity](https://open.spotify.com/track/78fTO9KOXmWLkm1r6Ko2Uq) | [Guru Josh](https://open.spotify.com/artist/0GWezHEUuBQvQM31OaWlS7) | [Infinity](https://open.spotify.com/album/0PuT9tt0GtnAYA8CaZ5RMW) | 4:01 |
 
-Snapshot ID: `AAAAAF22HGF6o+6fufSf4thjKkTPW7XR`
+Snapshot ID: `AAAAADRc+6mso5I5NT6+w+2aFTA3QRTB`

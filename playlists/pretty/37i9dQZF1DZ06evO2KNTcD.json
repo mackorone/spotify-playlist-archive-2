@@ -1,13 +1,29 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 672,
+  "num_followers": 675,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apYVgAAAAAAB7g070hL2IPqyzRugIiuj",
+  "snapshot_id": "apdnAAAAAADOc0FGItRfKc4K550l+lbY",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Miss The City / Gymnastics",
+        "url": "https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "I Miss The City",
+      "url": "https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc"
+    },
     {
       "added_at": null,
       "album": {
@@ -115,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Miss The City / Gymnastics",
+        "url": "https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 162880,
+      "name": "Gymnastics",
+      "url": "https://open.spotify.com/track/0L6EbFzeKITZ82rlvavtIa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And Friends",
         "url": "https://open.spotify.com/album/7FArNYvyeMXYTECCmHoqUe"
       },
@@ -151,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TOTAL SELLOUT",
+        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 176300,
+      "name": "Body Favors",
+      "url": "https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "if You Feel",
         "url": "https://open.spotify.com/album/3MbutmdmYVZkJet5KXtALG"
       },
@@ -167,22 +215,6 @@
       "duration_ms": 166266,
       "name": "All Our Time (feat. Jae Stephens)",
       "url": "https://open.spotify.com/track/1cYVwtYE0OD7gn8GnD4H6X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 176300,
-      "name": "Body Favors",
-      "url": "https://open.spotify.com/track/2obj6HfJslPQdfTUpM8ywG"
     },
     {
       "added_at": null,
@@ -219,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TOTAL SELLOUT",
+        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Him&Him&Him",
+      "url": "https://open.spotify.com/track/3XUitxCgL4dCljBdhoDJO7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What You Need (feat THEY.)",
         "url": "https://open.spotify.com/album/6PNzYWPwECYWRzxCQb5snv"
       },
@@ -235,22 +283,6 @@
       "duration_ms": 194607,
       "name": "What You Need (feat THEY.)",
       "url": "https://open.spotify.com/track/0fHbxdDnol6ZeRtKrGCBrU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Him&Him&Him",
-      "url": "https://open.spotify.com/track/3XUitxCgL4dCljBdhoDJO7"
     },
     {
       "added_at": null,
@@ -287,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24K",
-        "url": "https://open.spotify.com/album/0cEVabnk0wQt29o2Rgfxvd"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 245806,
-      "name": "24K",
-      "url": "https://open.spotify.com/track/2MT7TZ16O6d4lR3VsUpOBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOTAL SELLOUT",
         "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 178573,
       "name": "Boyfriend Forever",
       "url": "https://open.spotify.com/track/6o4tdluxrx4gDOyuweL866"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24K",
+        "url": "https://open.spotify.com/album/0cEVabnk0wQt29o2Rgfxvd"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 245806,
+      "name": "24K",
+      "url": "https://open.spotify.com/track/2MT7TZ16O6d4lR3VsUpOBB"
     },
     {
       "added_at": null,
@@ -355,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High My Name Is",
-        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 170001,
-      "name": "Give It To",
-      "url": "https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOTAL SELLOUT",
         "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
       },
@@ -383,6 +399,22 @@
       "duration_ms": 189395,
       "name": "WET",
       "url": "https://open.spotify.com/track/1Wb8kMQTcZmoMo9faO7oyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High My Name Is",
+        "url": "https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 170001,
+      "name": "Give It To",
+      "url": "https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s"
     },
     {
       "added_at": null,

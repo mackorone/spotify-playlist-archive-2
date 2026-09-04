@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,489 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,479 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [No Other \- Loukeman Mix](https://open.spotify.com/track/1aS3nGcaWxUfQHVm0vZ2QO) | [LST](https://open.spotify.com/artist/0fJQPtKVRWFR4JBEoRPpgU) | [No Other \(Loukeman Mix\)](https://open.spotify.com/album/1avNa5wmoCHPrE5FGCrTwE) | 3:45 |
 | 100 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
 
-Snapshot ID: `AAAAAAsZ/iQW18/oUH+TomCOPENrAldC`
+Snapshot ID: `AAAAACQ0HNoVeudVA/iKqLws94gNUtx4`

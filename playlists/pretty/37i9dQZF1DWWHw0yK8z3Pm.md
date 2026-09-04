@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Braden Lam
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,390 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,399 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 |
 | 100 | [Should’ve Known Better](https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Should've Known Better](https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE) | 2:54 |
 
-Snapshot ID: `AAAAAKJeRorYnFGyOIlbfN1CqSHGKFw0`
+Snapshot ID: `AAAAAPuOArSt8Z/wPu0ViGYvP+l2q9jp`

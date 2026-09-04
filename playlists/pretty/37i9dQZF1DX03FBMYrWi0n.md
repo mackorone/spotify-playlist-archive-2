@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Félix Collin
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,900 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,904 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 59 | [Domino](https://open.spotify.com/track/5qtFKisp6GhBvSoHMH630f) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/5kedqTpxG8Dd9FwFqZyuZr) | 4:37 |
 | 60 | [Seul](https://open.spotify.com/track/5E68WhqLfnLPXEHJe9JH1I) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Seul](https://open.spotify.com/album/3veZxdSOEopgxyOxouEvXj) | 3:34 |
 | 61 | [Surf Jesus Surf](https://open.spotify.com/track/3cpBoQaaw3TBoVwesCtfgg) | [Les Fleurs du Tapis](https://open.spotify.com/artist/1VfCqO58maY8khcq1Ul404) | [Surf Jesus Surf](https://open.spotify.com/album/6zZDvqLw0pKBpHxoBCJwgl) | 3:25 |
-| 62 | [DEAD INSIDE](https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [DEAD INSIDE](https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw) | 2:15 |
-| 63 | [Le vice et le culte](https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Le vice et le culte](https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm) | 2:57 |
+| 62 | [Le vice et le culte](https://open.spotify.com/track/3BM2r7uipntVCC8kLw6ghc) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Le vice et le culte](https://open.spotify.com/album/4xh2GifjucHWM2RKWbQbQm) | 2:57 |
+| 63 | [DEAD INSIDE](https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [DEAD INSIDE](https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw) | 2:15 |
 | 64 | [JENNY](https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc) | [Fyore](https://open.spotify.com/artist/1ujcXZpfDvq6knAHC6ouDk) | [JENNY](https://open.spotify.com/album/71qhtQUw016WStKYYHgmaf) | 3:05 |
 | 65 | [Saint Loreto](https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI) | [Christian Sean](https://open.spotify.com/artist/7LSwuqoG4CYPARULTLNEXt) | [Saint Loreto](https://open.spotify.com/album/5hXcv9dclv6JAUmTmcha0W) | 3:03 |
 | 66 | [Washing Machine](https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Neon Love](https://open.spotify.com/track/1GQsaeaG3UvSvHdP4LHt9p) | [Belgrave](https://open.spotify.com/artist/6n2l0Y44SoAw3wU8wQlhVz), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Neon Love](https://open.spotify.com/album/0k5L5Me4LeMQbTJqJ97W2w) | 3:04 |
 | 75 | [Demain minuit](https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Demain minuit](https://open.spotify.com/album/3CPxTfaD77jkBWtXHKaldt) | 3:09 |
 
-Snapshot ID: `AAAAANzYEzkutsFir8AHMizaVWvzyJ4F`
+Snapshot ID: `AAAAAAJkhsmvqBQttI2JAWwkDjlnb5uk`

@@ -1,13 +1,29 @@
 {
   "description": "Serene, lowkey indie for hanging out and relaxing. ",
-  "num_followers": 2387439,
+  "num_followers": 2387305,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgKDagWda3RHYCFbH2N+GFi7gdL",
+  "snapshot_id": "AAAAABLRQV3aelKpkyRjcm/AUTNYR3lF",
   "tracks": [
+    {
+      "added_at": "2026-09-04 02:58:49",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 158331,
+      "name": "Happiness Anytime",
+      "url": "https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q"
+    },
     {
       "added_at": "2026-01-19 19:51:38",
       "album": {

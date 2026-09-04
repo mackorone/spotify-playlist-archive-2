@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "copos pro alto, cada um com o seu. Foto: Yuri Redicopa\n",
+  "description": "copos pro alto, cada um com o seu. Foto: IKNOWFELIPE, LAI$ROSA, Barona, Nanda Tsunami\n",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
     {
@@ -1004,6 +1004,28 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "album": {
+        "name": "AMO FLOR",
+        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "AMO FLOR",
+      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
     },
     {
       "album": {
@@ -4677,6 +4699,36 @@
     },
     {
       "album": {
+        "name": "Donas do Plaqu\u00ea",
+        "url": "https://open.spotify.com/album/42Ni9CX6XB5OuteqOIjG6L"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242352,
+      "name": "Donas do Plaqu\u00ea",
+      "url": "https://open.spotify.com/track/0mdytA1LWltYL5LPzE3ltU"
+    },
+    {
+      "album": {
         "name": "Nova Wave, Pt. 3",
         "url": "https://open.spotify.com/album/2b2WeLktAC6n3jLlq1pLqo"
       },
@@ -5948,7 +6000,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 151384,
       "name": "From Rio",
       "url": "https://open.spotify.com/track/3vYBQiqPu82oD7X0wZjYQV"
@@ -15358,7 +15410,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"

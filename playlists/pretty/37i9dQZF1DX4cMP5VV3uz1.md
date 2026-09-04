@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,983 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,976 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 99 | [Disrupt The Dancefloor](https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [Disrupt The Dancefloor](https://open.spotify.com/album/7plZh3gSjoyuIDpkRMKw6g) | 3:11 |
 | 100 | [Do This](https://open.spotify.com/track/7HOtv9PWamIhbGgp4uU54s) | [Majistrate](https://open.spotify.com/artist/7Kmqpu1E2yI5ijuB1dcNTg), [Weejii](https://open.spotify.com/artist/3r7dVbYdh4DmFosGapMZaw) | [Do This](https://open.spotify.com/album/3JxzLywrw84nF4jqBqktf8) | 2:13 |
 
-Snapshot ID: `AAAAAAcXpoDyEvlZeGrMb2uMY5Ctyz5q`
+Snapshot ID: `AAAAAOJUC21/2suL+ImODgNDXH/PMIq1`

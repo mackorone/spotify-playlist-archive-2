@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Aretuza Lovi, Linn da Quebrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,893 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,896 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 79 | [deu pra sentir? \(Kaya Conky & DJ Ramemes RMX\)](https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [SOBRECARGA \(ALTA TENSÃO DELUXE\)](https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC) | 2:37 |
 | 80 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 
-Snapshot ID: `AAAAAAbtoZ7JfsOsIc/DA+PwU/lYqNlY`
+Snapshot ID: `AAAAAOnQzX1BZSbd0i/Ezlq4tpWwoav4`

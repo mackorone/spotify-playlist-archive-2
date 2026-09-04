@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Romanchakam",
+        "url": "https://open.spotify.com/album/3PS4RiHLAFaT7r0MCZPP9o"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Chalo Chalo",
+      "url": "https://open.spotify.com/track/5ytViR76Kwz9TDwcFmrT7O"
+    },
+    {
+      "album": {
         "name": "Dasara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/05CNNKerwG83acgQaXmzH3"
       },
@@ -1770,8 +1792,8 @@
           "url": "https://open.spotify.com/artist/5uVjOnDw844rJpw1DyL986"
         },
         {
-          "name": "Hemanth",
-          "url": "https://open.spotify.com/artist/0qAzLiq8xpR9JbRRehpbja"
+          "name": "Hemanth Sai Basuru",
+          "url": "https://open.spotify.com/artist/5DDBxPNaQZHhgqcX2dqyGk"
         },
         {
           "name": "Tumbali Sivaji",

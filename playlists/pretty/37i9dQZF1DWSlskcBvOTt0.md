@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,449 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,487 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Casablanca](https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Casablanca](https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA) | 4:45 |
 | 125 | [Sunrise \(Adam Ten Remix\)](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Sunrise \(Remixes\)](https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1) | 3:48 |
 
-Snapshot ID: `AAAAAPse+CP9WNmlFCYoowAwaKs8giYi`
+Snapshot ID: `AAAAAF/GDf8beouGWCG2EYmdNUf64uot`

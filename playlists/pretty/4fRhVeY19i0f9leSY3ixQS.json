@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1822,
+  "num_followers": 1824,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAATwMNFzUV5ryXi+STeBAVMegALUDYu",
+  "snapshot_id": "AAATxvLUX9PrYTtT67qlXp6H12DE1uhI",
   "tracks": [
     {
       "added_at": "2026-08-27 00:33:05",
@@ -175,6 +175,74 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-09-03 11:51:59",
+      "album": {
+        "name": "Worst Case",
+        "url": "https://open.spotify.com/album/7544hbgFHTtoFnRtlHSNzN"
+      },
+      "artists": [
+        {
+          "name": "Worst Case",
+          "url": "https://open.spotify.com/artist/2dvBtUQeRQcxkQbI3Os6az"
+        }
+      ],
+      "duration_ms": 234878,
+      "name": "Nirvana 2",
+      "url": "https://open.spotify.com/track/1ag5xhtxqT3Rkcjg4llYhH"
+    },
+    {
+      "added_at": "2026-09-03 11:49:23",
+      "album": {
+        "name": "Simulacra Remixed",
+        "url": "https://open.spotify.com/album/3yMUHX5BsdsHhd321R7VkI"
+      },
+      "artists": [
+        {
+          "name": "Charm School",
+          "url": "https://open.spotify.com/artist/0dw0yoBLUACycC9fNcNnFl"
+        },
+        {
+          "name": "Andrew Charm",
+          "url": "https://open.spotify.com/artist/5yZ9AvSPEOIozDwIzTz3UD"
+        }
+      ],
+      "duration_ms": 231200,
+      "name": "Simulacra (Steve Albini Mix)",
+      "url": "https://open.spotify.com/track/6Trgr5fXIomDm4iNwuUMfd"
+    },
+    {
+      "added_at": "2026-09-03 11:48:57",
+      "album": {
+        "name": "Spoiled Rotten",
+        "url": "https://open.spotify.com/album/7gLEggBS4NiuaSO0DZlOLM"
+      },
+      "artists": [
+        {
+          "name": "Brendan Miller",
+          "url": "https://open.spotify.com/artist/5w3l4qzoBGRzgo7Q9KPV2v"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Spoiled Rotten",
+      "url": "https://open.spotify.com/track/7fljNC1eGjzhbrnhFBfP7v"
+    },
+    {
+      "added_at": "2026-09-03 11:48:42",
+      "album": {
+        "name": "Paracetamol",
+        "url": "https://open.spotify.com/album/6Sc3HRkHaktWhLjfUeA7UC"
+      },
+      "artists": [
+        {
+          "name": "Vitamin Dead",
+          "url": "https://open.spotify.com/artist/0HYZ4yzHvtXD5dgts4G4n3"
+        }
+      ],
+      "duration_ms": 142456,
+      "name": "Paracetamol",
+      "url": "https://open.spotify.com/track/3PgbBtLJi2MQ3MeWOy3u8C"
     },
     {
       "added_at": "2026-09-02 14:11:40",
@@ -1415,38 +1483,6 @@
       "duration_ms": 188423,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6g9bLKT1QoeGwPmjYQ5cdN"
-    },
-    {
-      "added_at": "2026-08-03 05:33:54",
-      "album": {
-        "name": "Lobsteria",
-        "url": "https://open.spotify.com/album/6uQJjggp9JBejmVwEQGa9Q"
-      },
-      "artists": [
-        {
-          "name": "TORNADO LOBSTER KILLER",
-          "url": "https://open.spotify.com/artist/0ez4BRHXwetKDIMwIeRGzl"
-        }
-      ],
-      "duration_ms": 124664,
-      "name": "Obey",
-      "url": "https://open.spotify.com/track/59DmyKALtFVsIBnUbsHv1h"
-    },
-    {
-      "added_at": "2026-08-03 05:29:02",
-      "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/5ew0ZLrYs8FV8RxdXO1ubq"
-      },
-      "artists": [
-        {
-          "name": "The Absent",
-          "url": "https://open.spotify.com/artist/4ARdlYS2SJ02nwnjzrtWHu"
-        }
-      ],
-      "duration_ms": 218430,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2ZiOisOpJhtjPPaqe1E3jh"
     },
     {
       "added_at": "2026-06-18 11:56:24",

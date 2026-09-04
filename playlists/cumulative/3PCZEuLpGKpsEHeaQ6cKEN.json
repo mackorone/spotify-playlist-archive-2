@@ -13959,6 +13959,28 @@
     },
     {
       "album": {
+        "name": "GOTTA MAKE IT",
+        "url": "https://open.spotify.com/album/1aFaMJS2gRUQYcTMpnTKVP"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148714,
+      "name": "GOTTA MAKE IT",
+      "url": "https://open.spotify.com/track/1RD9O5qftZXR4R1I4HV14v"
+    },
+    {
+      "album": {
         "name": "Granville",
         "url": "https://open.spotify.com/album/6lYCnLP8JkGMeHAvVmKzgi"
       },
@@ -39284,6 +39306,24 @@
       "duration_ms": 213032,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/6epDDkgs6Vy0O43wxSEuZ3"
+    },
+    {
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj"
     },
     {
       "album": {

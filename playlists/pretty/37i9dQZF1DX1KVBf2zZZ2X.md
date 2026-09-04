@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,487 likes - 125 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,970 likes - 125 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KVBf2zZZ2X.md) - [plain]
 | 124 | [Glistening](https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Glistening](https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y) | 2:49 |
 | 125 | [Soulful Gem](https://open.spotify.com/track/0VY33SprrlAzEkAOtxtI98) | [Increased Wither](https://open.spotify.com/artist/5kYX5ISMm4MkbVhNEL99DH) | [Soulful Gem](https://open.spotify.com/album/4vbjkgwzMkHSpQBvFOKoFk) | 2:58 |
 
-Snapshot ID: `AAAAAPV2lCu6B+1AIFvtzNpNM0lglxwl`
+Snapshot ID: `AAAAAJSyOTCPGyV8//7W7Grpm/pjF/hs`

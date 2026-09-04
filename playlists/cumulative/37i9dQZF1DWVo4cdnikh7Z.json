@@ -1531,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "Aasai Varame (Reprise) [From \"Anbil Avan\"]",
+        "url": "https://open.spotify.com/album/099YLVJ3ntHcrWGCqVWnwP"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Madrashe",
+          "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99833,
+      "name": "Aasai Varame (Reprise) - From \"Anbil Avan\"",
+      "url": "https://open.spotify.com/track/2JFovTJG4CNSqehMLdAh3k"
+    },
+    {
+      "album": {
         "name": "Aasai Varame (From \"Anbil Avan\")",
         "url": "https://open.spotify.com/album/6BS5SUmKQpkOzGgW3chxxx"
       },
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 286200,
       "name": "Aasai Varame - From \"Anbil Avan\"",
       "url": "https://open.spotify.com/track/7LjXOglx1K698kPUfQfgrQ"

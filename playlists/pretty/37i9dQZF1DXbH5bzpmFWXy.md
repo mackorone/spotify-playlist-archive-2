@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Tú eliges que canta el Bogueto\. <br/>\#BoguetoChakal
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,435 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,957 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 34 | [Rolex](https://open.spotify.com/track/6HvXKqyUycghBZjaTtytdt) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5uw3PPupWJqBKMyJUDIZbg) | 2:27 |
 | 35 | [Te Rezo](https://open.spotify.com/track/1nAy9vRqzangodrDsvy9kv) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Te Rezo](https://open.spotify.com/album/2OK8xHmJ2wLyRxrotUAV2o) | 3:43 |
 
-Snapshot ID: `AAAAAPCC9Fj78ZK/j9Ivotybiy6BzUvV`
+Snapshot ID: `AAAAAFfdIzCtkQhVI0cPsy01mT2T+ral`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Tempalay
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,296 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,311 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [TELL ME WHY \- 2026 Re\-recording](https://open.spotify.com/track/4avpYRzpFagivsZCvNrglb) | [PENPALS](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [NEVERMIND](https://open.spotify.com/album/5f3f5SJ2kMn4dduUoNduRl) | 3:21 |
 | 100 | [counterfeit \- REIMEI SESSION](https://open.spotify.com/track/3rNsTY4Yq1QAC7PryH9hwg) | [sans visage](https://open.spotify.com/artist/7juLoQg5c4UmndnZctyvpl), [REIMEI SESSION](https://open.spotify.com/artist/2usevk5JBrqiWa7vcdvcLm) | [sans visage / REIMEI SESSION](https://open.spotify.com/album/3Nj07QJcbkDbQgIEi8lCmI) | 1:57 |
 
-Snapshot ID: `AAAAAA42pDtpOxB84K4t2BJazPQiT7TM`
+Snapshot ID: `AAAAAKBWMEWBk8Wwp2Zg2hA/7TvPSRV3`

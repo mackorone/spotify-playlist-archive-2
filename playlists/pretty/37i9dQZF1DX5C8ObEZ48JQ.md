@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt?si=9176f0232659484c">ru.</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,971 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,139 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Mabulala Amakhosi](https://open.spotify.com/track/2701MbRD0Qmto5ZVY08Df8) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [NOSANGE](https://open.spotify.com/album/4VCDfRRf7SUvFx396U3cn9) | 2:48 |
 | 50 | [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 |
 
-Snapshot ID: `AAAAANhTpS2qmd1go2464RE4/hpZqciQ`
+Snapshot ID: `AAAAAI4wLwGtClKOpGYZ01Pg0uv/t6Aj`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Awarapan 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,231,568 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,232,086 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tera Mera Rishta \- New Version](https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Subodhh Sharma](https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx) | [Awarapan 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL) | 6:05 |
+| 1 | [Tera Mera Rishta \- New Version \(From "Awarapan 2"\)](https://open.spotify.com/track/5uvG5xETXhVkBSr09RBjyC) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Subodhh Sharma](https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx) | [Awarapan 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL) | 6:05 |
 | 2 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 |
 | 3 | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/album/0np0jHF7hJJmvAwMF6YSIK) | 6:02 |
 | 4 | [Khat](https://open.spotify.com/track/3gixnmepHSsyAuho34rprN) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Khat](https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Ae Ajnabee \| Coke Studio Bharat](https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE) | [Ae Ajnabee \| Coke Studio Bharat](https://open.spotify.com/album/7idAWWOCszU8zkCAffYZx8) | 4:19 |
 | 50 | [Tabaahi \- From "Toxic"](https://open.spotify.com/track/0bRRLtD0Tmfg8ZaP9Qf1Sq) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Tabaahi \(From "Toxic"\)](https://open.spotify.com/album/3DP9Ds4OfCIkacLBsmJYOg) | 4:17 |
 
-Snapshot ID: `AAAAAPtgdqzRlFdxB5Cagj+bif171Sba`
+Snapshot ID: `AAAAAGHcFd3Li1j5oGSUqpe6oBolpQNT`

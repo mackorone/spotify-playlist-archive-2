@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,239,628 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,239,544 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 149 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 150 | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Parris Mitchell](https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p), [Waxmaster](https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7) | [Hell Yeah \(Feat\. Waxmaster\)](https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR) | 3:32 |
 
-Snapshot ID: `AAAAAANajxOqOGT6FqO4pZoKc1UY0Ms2`
+Snapshot ID: `AAAAAOPf9MeovzWHj/uib62+0oj+vONH`

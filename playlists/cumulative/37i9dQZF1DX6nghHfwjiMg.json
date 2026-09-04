@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "El d\u00eda que te conoc\u00ed",
+        "url": "https://open.spotify.com/album/1TMQ4g8eP71pWzBS45vnrC"
+      },
+      "artists": [
+        {
+          "name": "Martu Brito",
+          "url": "https://open.spotify.com/artist/1g9OkXK7eB3DnWuVnUXpNJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155235,
+      "name": "El d\u00eda que te conoc\u00ed",
+      "url": "https://open.spotify.com/track/73DPGKg8oeB4KaMZysTn7J"
+    },
+    {
+      "album": {
         "name": "El Farsante",
         "url": "https://open.spotify.com/album/6EzQJiZWUNBuP9eO1jhnmv"
       },
@@ -1900,6 +1918,24 @@
       "duration_ms": 194823,
       "name": "ENCANTO",
       "url": "https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz"
+    },
+    {
+      "album": {
+        "name": "Encuentro",
+        "url": "https://open.spotify.com/album/11qtzZlNp000UEV7nzN4lI"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177121,
+      "name": "Encuentro",
+      "url": "https://open.spotify.com/track/5z3PIZ6AK1CT8md0luxRaB"
     },
     {
       "album": {
@@ -4118,7 +4154,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 175500,
       "name": "NEGRAZO",
       "url": "https://open.spotify.com/track/4Ur6nJfWrcpK4nejuuK2Mn"
@@ -4348,7 +4384,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 234812,
       "name": "no esperes nada",
       "url": "https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt"
@@ -5610,7 +5646,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 174073,
       "name": "SANTO",
       "url": "https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL"
@@ -5882,6 +5918,24 @@
       "duration_ms": 121756,
       "name": "SUPEROFERTAS",
       "url": "https://open.spotify.com/track/6anZ372zVQrtqrUEPYzCy4"
+    },
+    {
+      "album": {
+        "name": "de visita",
+        "url": "https://open.spotify.com/album/3jbDVu4ZdnA9j40ADDBWDx"
+      },
+      "artists": [
+        {
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193405,
+      "name": "sur",
+      "url": "https://open.spotify.com/track/0IAYKP2nXhO5ozI79bscGj"
     },
     {
       "album": {

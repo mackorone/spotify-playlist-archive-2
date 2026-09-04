@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,006 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,238 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Endlessly \(feat\. BEA1991\)](https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Fold](https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1) | 5:57 |
 | 100 | [Close 2 U](https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [Close 2 U](https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s) | 2:09 |
 
-Snapshot ID: `AAAAAAR+jAk9LBvkObuncvxBQpdWb3rI`
+Snapshot ID: `AAAAAHcDg2IJNoxaA0J5BP6C0qcCnXMU`

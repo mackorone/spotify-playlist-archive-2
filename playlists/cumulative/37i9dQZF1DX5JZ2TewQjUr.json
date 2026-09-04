@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: cehryl ",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Deb Fan ",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1022,6 +1022,24 @@
       "duration_ms": 259319,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/72EhouMPHQDFLogEyocYjO"
+    },
+    {
+      "album": {
+        "name": "all for nothing",
+        "url": "https://open.spotify.com/album/2nHUMomtx2GftLO8tKhC5Y"
+      },
+      "artists": [
+        {
+          "name": "sanjay.",
+          "url": "https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165529,
+      "name": "all for nothing",
+      "url": "https://open.spotify.com/track/10z7XJUIXQfKDuiJfZhjfO"
     },
     {
       "album": {
@@ -5993,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/3WYdgmIcmmZtywqrAOgTby"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147968,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/6AheLWSsTfi9VAQMBJajyI"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/4gO6AilDh14wlHvxkL1ljL"
       },
@@ -6608,7 +6644,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 229090,
       "name": "Gin & T",
       "url": "https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo"
@@ -9211,6 +9247,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/2oE3c7ogPTHhuasxi2PrAy"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u795e\u7d93 Little Nerve",
+          "url": "https://open.spotify.com/artist/0WBwu4DyuR6rxK5ACbkyk1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/60kigCoJpqgfbW0N2TiU67"
+    },
+    {
+      "album": {
         "name": "Independent Artist",
         "url": "https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC"
       },
@@ -9464,6 +9518,24 @@
       "duration_ms": 253000,
       "name": "Jaja",
       "url": "https://open.spotify.com/track/6HNkF6IVPPJXWmABsJxFyN"
+    },
+    {
+      "album": {
+        "name": "JAWS",
+        "url": "https://open.spotify.com/album/7lsWRDBWXP2F2N2sDL0r0h"
+      },
+      "artists": [
+        {
+          "name": "TELLER",
+          "url": "https://open.spotify.com/artist/23mpKE76RtF9bmcz18m88D"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178512,
+      "name": "JAWS",
+      "url": "https://open.spotify.com/track/7BJcoHVqVfW10hwjnAgvhE"
     },
     {
       "album": {
@@ -14166,7 +14238,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 274960,
       "name": "Pandora's Box",
       "url": "https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N"
@@ -17725,6 +17797,24 @@
     },
     {
       "album": {
+        "name": "Summer Banger",
+        "url": "https://open.spotify.com/album/3cye0MmdInI8BCS550scBG"
+      },
+      "artists": [
+        {
+          "name": "Chefwest",
+          "url": "https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Summer Banger",
+      "url": "https://open.spotify.com/track/5lpnlk1L3ERo530HuS2r26"
+    },
+    {
+      "album": {
         "name": "Summer Blues (feat. Sinnie Ng @ Lolly Talk)",
         "url": "https://open.spotify.com/album/5l2SNexaDAJZm6eZV3NLEi"
       },
@@ -20989,6 +21079,24 @@
     },
     {
       "album": {
+        "name": "wish",
+        "url": "https://open.spotify.com/album/0IZRj22DCzILClBhfcIlJz"
+      },
+      "artists": [
+        {
+          "name": "rosemances",
+          "url": "https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/0SMbJUyQNqIJu71XmpQnJ0"
+    },
+    {
+      "album": {
         "name": "wish u could",
         "url": "https://open.spotify.com/album/6MJIAUGXCVBUrCXjYVu6Hz"
       },
@@ -21112,6 +21220,24 @@
       "duration_ms": 249818,
       "name": "Wondering",
       "url": "https://open.spotify.com/track/7uL1EQOXRHV36aPxCcrltC"
+    },
+    {
+      "album": {
+        "name": "ACT II: Silkworm",
+        "url": "https://open.spotify.com/album/42v7lt7rHS8PatbcLTvnXV"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136173,
+      "name": "Woohoo",
+      "url": "https://open.spotify.com/track/4um1LI7lfwbCXDGfPmnXyC"
     },
     {
       "album": {
@@ -29633,6 +29759,24 @@
     },
     {
       "album": {
+        "name": "SAD ME 3",
+        "url": "https://open.spotify.com/album/75aHhz8RHGKN1EZOhPD91T"
+      },
+      "artists": [
+        {
+          "name": "ProdiG",
+          "url": "https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107412,
+      "name": "\u7121\u76e1\u7684\u611b 2026 (Endless Love 2026)",
+      "url": "https://open.spotify.com/track/1TW5bcz127eIphSS1O9fe1"
+    },
+    {
+      "album": {
         "name": "\u7121\u8ca8",
         "url": "https://open.spotify.com/album/0qeGxttcYJuph4fwqmPaLG"
       },
@@ -30945,6 +31089,24 @@
     },
     {
       "album": {
+        "name": "\u819d\u84cb\u600e\u6703\u6cbe\u8fa3\u6912\u91ac",
+        "url": "https://open.spotify.com/album/7zpcMS4OXc5tSnzPvFv1pG"
+      },
+      "artists": [
+        {
+          "name": "Ho Chi Ho",
+          "url": "https://open.spotify.com/artist/06dMk4sLnhCRzlNSnuwDYm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112624,
+      "name": "\u819d\u84cb\u600e\u6703\u6cbe\u8fa3\u6912\u91ac",
+      "url": "https://open.spotify.com/track/3PnVNEZu2TRkUlz0zTJjn1"
+    },
+    {
+      "album": {
         "name": "\u81c9\u7d05\u6642\u6211\u60f3\u770b\u7a7f\u4f60\u7684\u5fc3\u81df",
         "url": "https://open.spotify.com/album/0XoBprUMG2iCYBwcN05J82"
       },
@@ -31394,6 +31556,28 @@
       "duration_ms": 114366,
       "name": "\u8718\u86db",
       "url": "https://open.spotify.com/track/3KdThk86RRZoVCVwidyS3A"
+    },
+    {
+      "album": {
+        "name": "\u884c\u4e8b\u4f4e\u8abf LowKey",
+        "url": "https://open.spotify.com/album/0CV3gnu2O1tsgmzFLP18BZ"
+      },
+      "artists": [
+        {
+          "name": "Novel Friday",
+          "url": "https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68"
+        },
+        {
+          "name": "Wolfe",
+          "url": "https://open.spotify.com/artist/5BS8OU8Qoy4brGmgm6X2pA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "\u884c\u4e8b\u4f4e\u8abf LowKey",
+      "url": "https://open.spotify.com/track/7i6vI2fHFkf5BJEJriwcIq"
     },
     {
       "album": {
@@ -32455,6 +32639,24 @@
     },
     {
       "album": {
+        "name": "\u96e8\u6563",
+        "url": "https://open.spotify.com/album/5ecPzWFwacWhgXkKu3Wf4w"
+      },
+      "artists": [
+        {
+          "name": "iao",
+          "url": "https://open.spotify.com/artist/01bPVcHqeIIRbO24DaywYR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "\u96e8\u6563",
+      "url": "https://open.spotify.com/track/5qByfyMcNKMwOCpA3WAYcU"
+    },
+    {
+      "album": {
         "name": "\u96ea\u570b",
         "url": "https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY"
       },
@@ -32930,6 +33132,24 @@
       "duration_ms": 248894,
       "name": "\u9ce5\u7684\u665a\u5b89\u6b4c",
       "url": "https://open.spotify.com/track/48tC6flUTFJEPCwbOnaQuw"
+    },
+    {
+      "album": {
+        "name": "he1g0r Rap Vol.1: Little Hei's Toy Box\uff08\u65b0\u6b4c\uff0b\u7cbe\u9078\uff09",
+        "url": "https://open.spotify.com/album/0wMErIcjcOalC6SWsXBRWh"
+      },
+      "artists": [
+        {
+          "name": "he1g0r",
+          "url": "https://open.spotify.com/artist/4lXZdQUNu2VjdkPIg8S4Yf"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u9e79\u6fd5\u4f2f\u7236\uff08Redux\uff09",
+      "url": "https://open.spotify.com/track/5v45GW8etJkuEXDLyMNlQX"
     },
     {
       "album": {

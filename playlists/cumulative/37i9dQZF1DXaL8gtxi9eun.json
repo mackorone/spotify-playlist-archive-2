@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0647\u064a\u0641\u0627\u0621 \u0648\u0647\u0628\u064a",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0632\u064a\u0627\u062f \u0638\u0627\u0638\u0627",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1543,6 +1543,24 @@
     },
     {
       "album": {
+        "name": "BOSA",
+        "url": "https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "BOSA",
+      "url": "https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs"
+    },
+    {
+      "album": {
         "name": "Btmanna Ansak",
         "url": "https://open.spotify.com/album/5VSaFCbLM1mxocW2NADEiy"
       },
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 210720,
       "name": "El Ayah",
       "url": "https://open.spotify.com/track/2dG8oLvpO61OsmDo2U1Oy8"
@@ -2535,6 +2553,24 @@
     },
     {
       "album": {
+        "name": "Gaet Fe Waqtak",
+        "url": "https://open.spotify.com/album/4SLQpBjpt5fxBiUn3lxsTZ"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206664,
+      "name": "Gaet Fe Waqtak",
+      "url": "https://open.spotify.com/track/3FE4YHuK9GNmCLQoV9skLW"
+    },
+    {
+      "album": {
         "name": "Galbi Sadek",
         "url": "https://open.spotify.com/album/00visEiJ6ZATan5BMWy9VK"
       },
@@ -3056,6 +3092,28 @@
       "duration_ms": 169800,
       "name": "Hayatak Fi Sora",
       "url": "https://open.spotify.com/track/5v5DvfdykdjmzgA3t9pnGg"
+    },
+    {
+      "album": {
+        "name": "HAYATY HAYATY",
+        "url": "https://open.spotify.com/album/4aSJQLBN4GKyT3tobpY0yW"
+      },
+      "artists": [
+        {
+          "name": "ZIAD ZAZA",
+          "url": "https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM"
+        },
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195398,
+      "name": "HAYATY HAYATY",
+      "url": "https://open.spotify.com/track/59P9rZ2xC6peXdKKJ4lS4b"
     },
     {
       "album": {
@@ -5349,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Shta\u2019Tellak",
+        "url": "https://open.spotify.com/album/3jif2dNlnjkoH3wdFaTr5i"
+      },
+      "artists": [
+        {
+          "name": "Najwa Karam",
+          "url": "https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Shta\u2019Tellak",
+      "url": "https://open.spotify.com/track/28kL0bJHgjz1c8yxjt4tDZ"
+    },
+    {
+      "album": {
         "name": "NANCY 11",
         "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
       },
@@ -5663,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "Tigi",
+        "url": "https://open.spotify.com/album/7CGaCqzV7UyLCF62ihArUf"
+      },
+      "artists": [
+        {
+          "name": "Seif Magdy",
+          "url": "https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151636,
+      "name": "Tigi",
+      "url": "https://open.spotify.com/track/6CCNjuE4nQ0hMGZtCePl8s"
+    },
+    {
+      "album": {
         "name": "Habebna",
         "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
       },
@@ -5714,6 +5808,24 @@
       "duration_ms": 244571,
       "name": "Tole' El Nahar",
       "url": "https://open.spotify.com/track/2EstObS1EdvkKEF6Z9O1He"
+    },
+    {
+      "album": {
+        "name": "Kalemny",
+        "url": "https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF"
+      },
+      "artists": [
+        {
+          "name": "Yonyo",
+          "url": "https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR"
     },
     {
       "album": {
@@ -7606,7 +7718,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 185142,
       "name": "\u062d\u0637\u064a\u0646\u064a \u0641 \u0633\u062a\u0648\u0631\u064a",
       "url": "https://open.spotify.com/track/0hG9KsyYwd8yNLNPQyPbna"
@@ -7804,7 +7916,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 241823,
       "name": "\u062f\u064a \u0639\u0644\u0627\u0645\u0647",
       "url": "https://open.spotify.com/track/2LLJLDbjO97VZm01wPylYT"
@@ -8288,7 +8400,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 189285,
       "name": "\u0641\u062f\u0627\u0643 \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/4kN86TEMDlCeqJs2mnY6NY"
@@ -9158,6 +9270,28 @@
       "duration_ms": 212045,
       "name": "\u0645\u0639\u0631\u0641\u0634 \u064a\u0646\u0633\u0627\u0646\u064a Ma3refsh yensany",
       "url": "https://open.spotify.com/track/0rLWtukItSaXp0MuGh8aIL"
+    },
+    {
+      "album": {
+        "name": "\u0645\u063a\u0631\u0645",
+        "url": "https://open.spotify.com/album/1LCWgLc2Gl6WezP38PjZOA"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Zaeem",
+          "url": "https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T"
+        },
+        {
+          "name": "Haidy Moussa",
+          "url": "https://open.spotify.com/artist/6ZXFOb1VHMTICAYM1LUfFW"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113777,
+      "name": "\u0645\u063a\u0631\u0645",
+      "url": "https://open.spotify.com/track/0IfhHUUJt8ai4nZDpA0moL"
     },
     {
       "album": {

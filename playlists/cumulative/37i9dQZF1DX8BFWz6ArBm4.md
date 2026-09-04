@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giannis Ploutarhos
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Katerina Lioliou
 
-311 songs - 17 hr 26 min
+312 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Ola Pigenoun Kalytera](https://open.spotify.com/track/4E14OOlsmU5hTnPfYyEJGB) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Ola Pigenoun Kalytera](https://open.spotify.com/album/64YVzpW0XHKa9WuCPu2C9H) | 2:49 | 2025-05-08 | 2025-06-06 |
 | [Olethria Sxesi](https://open.spotify.com/track/2AH486DE2L37HT7kU4VGbe) | [Giannis Ploutarhos](https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD) | [Olethria Sxesi](https://open.spotify.com/album/3KzhjjBhH4XL5KYUrbuUDI) | 3:31 | 2025-06-26 | 2025-08-01 |
 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 | 2024-06-27 | 2024-12-30 |
+| [Pagkosmia Mera Tou Psefti](https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pagkosmia Mera Tou Psefti](https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT) | 2:45 | 2026-09-03 |  |
 | [Pagkosmio Fainomeno](https://open.spotify.com/track/6D4HZbIu78JR8Dh9Owi7OO) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Pagkosmio Fainomeno](https://open.spotify.com/album/0OdoqXPaomx7ylY27x7i6l) | 3:09 | 2026-08-27 |  |
 | [Paidi Tis Nihtas](https://open.spotify.com/track/4rRYZpFSnqsQ2fCctTOj3K) | [Xryspa](https://open.spotify.com/artist/6lJ3pYm8pC3rC7tfKE5PNU) | [Paidi Tis Nihtas](https://open.spotify.com/album/3RdXZDeJ8ZuLIdJboEXg38) | 2:58 | 2025-01-10 | 2025-01-17 |
 | [Palies Fotografies](https://open.spotify.com/track/4tBZzrNnxSgdjniMCzBqLD) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Palies Fotografies](https://open.spotify.com/album/7dacWPJOwAKtfPPg4mhAuM) | 4:00 | 2024-11-07 | 2024-11-15 |

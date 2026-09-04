@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,221 likes - 144 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,235 likes - 144 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 77 | [Choke](https://open.spotify.com/track/66Y93qAv4PUv2DkE7ICP7x) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Fugaz](https://open.spotify.com/album/1tTkxbxuXD1Xfd6ueugrLR) | 2:14 |
 | 78 | [Sensational](https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Sensational](https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq) | 3:36 |
 | 79 | [Necessary](https://open.spotify.com/track/5Y4xHIbDrD9tIY4N0N5BZS) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Necessary](https://open.spotify.com/album/3qznG6GOgizdrbGWDg1GJb) | 3:22 |
-| 80 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 80 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 81 | [Figure 8](https://open.spotify.com/track/2AbiWiDcpNcKkHeJqxWx1Z) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Figure 8](https://open.spotify.com/album/7b0yiSwEMuHFDcTqdh8Lte) | 3:05 |
 | 82 | [Mechanical Bull](https://open.spotify.com/track/62udLvzbLPs0raNGXXwK9u) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Mechanical Bull](https://open.spotify.com/album/0oM2eEH6PosGXHtnFmFLOD) | 3:34 |
 | 83 | [Joyce Kilmer Service Area](https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Joyce Kilmer Service Area](https://open.spotify.com/album/4rlyJnhWxi8qxlX3OXskcM) | 3:03 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 143 | [Billboard Style](https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN) | [Billboard Style](https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ) | [Billboard Style](https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL) | 2:50 |
 | 144 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 
-Snapshot ID: `AAAAAPbJiOTbG2RXy3Dbttm6ufrkm88o`
+Snapshot ID: `AAAAAFj2WXax9FU90OC+QOEUtMXAZb8B`

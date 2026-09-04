@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,295 songs - 2 day 23 hr 48 min
+1,296 songs - 2 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-05-29 | 2023-08-28 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [MEANT 2 BE](https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija) | [MEANT 2 BE](https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE) | 2:44 | 2024-05-27 | 2024-08-17 |
+| [Meant To Be](https://open.spotify.com/track/0YrjHqOcTwiTKMnFYYWGMz) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Meant To Be](https://open.spotify.com/album/69Fpau0bfPCxI7A7ri8l6N) | 2:59 | 2026-09-03 |  |
 | [MEGALOVANIA \- Pegboard Nerds Remix](https://open.spotify.com/track/5DuvEUkgu16gnEC08xfKSW) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [UNDERTALE \(10\-Year Anniversary Remixes\)](https://open.spotify.com/album/6wfuhGODjpM5ru47Z7ks60) | 2:50 | 2025-10-06 | 2026-01-15 |
 | [Midnight](https://open.spotify.com/track/4ZClsW1pvRVsFtzikoBnGy) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Midnight](https://open.spotify.com/album/1OuKovdj28l4GMHf7cM0qX) | 2:56 | 2026-01-09 | 2026-05-13 |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |

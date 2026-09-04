@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,842 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,817 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [BABY](https://open.spotify.com/track/7Km7TIZ6qBca2XmJGrSlOA) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [BABY](https://open.spotify.com/album/15eHzDtC7EYh999qGern40) | 2:46 |
 | 50 | [GREEK LOVE](https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Athena Manoukian](https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0) | [Cruel Summer 3](https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15) | 2:24 |
 
-Snapshot ID: `AAAAADZHx/Kf2ZAbLsHQFI/omy3oowJn`
+Snapshot ID: `AAAAAPTxc6iTv/5yFYAU6UhprZCJUKf1`

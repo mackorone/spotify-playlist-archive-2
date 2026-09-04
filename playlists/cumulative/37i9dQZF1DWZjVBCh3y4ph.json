@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : SenSey'",
+  "description": "Les hits zouk & kompa du moment. Photo : Maurane Voyer",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 141600,
       "name": "ILLIMIT\u00c9",
       "url": "https://open.spotify.com/track/4b9Z3twr11YoLsK2iEgztD"
@@ -6395,6 +6395,28 @@
     },
     {
       "album": {
+        "name": "Pense \u00e0 moi",
+        "url": "https://open.spotify.com/album/1tUN9e09B5Lb35mRRnkBBe"
+      },
+      "artists": [
+        {
+          "name": "Vj Lou",
+          "url": "https://open.spotify.com/artist/4UVzZ2QgBMOIRqygmERMzL"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219791,
+      "name": "Pense \u00e0 moi",
+      "url": "https://open.spotify.com/track/0bMQO4FSJeIWQlFUjB1N0H"
+    },
+    {
+      "album": {
         "name": "Perdu dans tes jeux",
         "url": "https://open.spotify.com/album/7G6465SbMJGkaKe7xYDT3I"
       },
@@ -7745,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/7bB82tGLIU2KC60tf7Ze9B"
+      },
+      "artists": [
+        {
+          "name": "Barth",
+          "url": "https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1QOmuXk7CmwLMH48pPh8Lm"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/4kzvsd7djGQxiyqv8uK3MG"
       },
@@ -8128,7 +8168,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 212500,
       "name": "Tankou Mwen",
       "url": "https://open.spotify.com/track/6l6RR3r2eJvzbeB0bRcF69"
@@ -8342,6 +8382,24 @@
       "duration_ms": 174767,
       "name": "To f\u00e8 mo mal",
       "url": "https://open.spotify.com/track/2HmsV1hijQLIqdasSbNdQC"
+    },
+    {
+      "album": {
+        "name": "Toi",
+        "url": "https://open.spotify.com/album/0hAAmnQn4ZeBEfaBbLPZGK"
+      },
+      "artists": [
+        {
+          "name": "Klowdy",
+          "url": "https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Toi",
+      "url": "https://open.spotify.com/track/55EYonQmO7u8bKVwkx8dc7"
     },
     {
       "album": {
@@ -8600,7 +8658,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 150000,
       "name": "Tout Donner",
       "url": "https://open.spotify.com/track/71VataW4xIxBbczy7ptp7q"

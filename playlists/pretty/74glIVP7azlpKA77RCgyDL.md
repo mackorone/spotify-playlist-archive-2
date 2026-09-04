@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,172 likes - 290 songs - 18 hr 11 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,173 likes - 290 songs - 18 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 5 | [Watching Us Kiss](https://open.spotify.com/track/0kVZWOUCsONWxVBRw6eszc) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Watching Us Kiss](https://open.spotify.com/album/2z2qrsFz5MNpTmfi6sD59z) | 3:47 |
 | 6 | [POWER IN THE BLOOD](https://open.spotify.com/track/6uWinP52YaOvMa2hUMf8wz) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [POWER IN THE BLOOD](https://open.spotify.com/album/4qwNMYMgcbmXFXr86TzCdi) | 3:39 |
 | 7 | [Blood Oath](https://open.spotify.com/track/1JzHKYco0BQr9shJDGIRGa) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Blood Oath](https://open.spotify.com/album/7rJ0TEl4npNhzTC8GHaZBV) | 5:23 |
-| 8 | [Interstate Love Affair](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
+| 8 | [INTERSTATE LOVE AFFAIR](https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Interstate Love Affair](https://open.spotify.com/album/6q6r9GmuAl2xV3pScFhBiP) | 2:02 |
 | 9 | [Swallowed By The World](https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Swallowed By The World](https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U) | 6:15 |
 | 10 | [Won't Be Disgraced](https://open.spotify.com/track/6uJ9pGm5d9ES3LBPylMTNb) | [God's Hate](https://open.spotify.com/artist/5vrN9cJHOufg1grCNms9WU) | [Won't Be Disgraced](https://open.spotify.com/album/5NGr1BDnmHkx8lsStTBQxd) | 4:19 |
 | 11 | [Static Planet](https://open.spotify.com/track/0RIrELMjRe3HZVz0mhWME6) | [Doom Mutual](https://open.spotify.com/artist/0H4CAIX0p57Mmu3UyvcNe3) | [Static Planet / Crowbar](https://open.spotify.com/album/4UCWXLmShXyFTa9ZMyyzi5) | 4:13 |

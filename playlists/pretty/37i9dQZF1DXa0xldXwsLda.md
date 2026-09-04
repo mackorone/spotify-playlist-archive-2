@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > Música vibrante para encender tu verano 🍹 Santos Bravos 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,309 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,289 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 34 | [Baila Esta Cumbia](https://open.spotify.com/track/0ErfnegLWcgfEu4TOmfql5) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Baila Esta Cumbia](https://open.spotify.com/album/0eiePNpGjmjHtzofaiOzqp) | 3:32 |
 | 35 | [Es El Amor](https://open.spotify.com/track/49UCQPAjFpG7s2GHnWWZNb) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Es El Amor](https://open.spotify.com/album/5x14ULmFIBElxtPFeij4GP) | 4:50 |
 
-Snapshot ID: `AAAAAI6nLcZ7p5gSECq+D2SCfhGx1ZO8`
+Snapshot ID: `AAAAALWJGsqFvUi1hyifnd11dGyiIsrr`

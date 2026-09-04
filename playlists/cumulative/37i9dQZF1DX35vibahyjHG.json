@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African women at full volume \nCover: <a href=\"https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA?si=fEvOcYs0QCWksz_4n_cyVQ\">Somi</a>",
+  "description": "African women at full volume \nCover: <a href=\"https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz?si=9fdd1ea95ec84167\">Lusanda</a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -600,6 +600,28 @@
       "duration_ms": 376242,
       "name": "Amaphutha (feat. Murumba Pitch)",
       "url": "https://open.spotify.com/track/54ZvphQmgJpEKSy5EuUK1Z"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "album": {
@@ -1226,7 +1248,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 133346,
       "name": "BELLE",
       "url": "https://open.spotify.com/track/6Do9CaVtyfw9NsgeSKw2rW"
@@ -1332,7 +1354,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 182255,
       "name": "Big Girls",
       "url": "https://open.spotify.com/track/6DyGTYJUQXoXzmyj5fzm1l"
@@ -1689,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Break Me Down",
+        "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/2vuKxwd9eHXmNP2AolZYp2"
       },
@@ -1974,7 +2014,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 157922,
       "name": "Chippie",
       "url": "https://open.spotify.com/track/6b1Ub3FXQ0uN4khZKrKCDu"
@@ -2457,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/7M7enK2gI4bqBRQUIa8AgR"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126338,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/08Bu0BYPYMgbuIOHnO8bs4"
+    },
+    {
+      "album": {
         "name": "Dark Skin",
         "url": "https://open.spotify.com/album/08kjRiczlt4ykqCXPBoASh"
       },
@@ -2893,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "D\u00e1j\u00fa",
+        "url": "https://open.spotify.com/album/7rLwYzAo6VFOcIMAjzC7rW"
+      },
+      "artists": [
+        {
+          "name": "Faith Martins",
+          "url": "https://open.spotify.com/artist/3zr0bLaSs6iMp2MXaKRlKc"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "D\u00e1j\u00fa",
+      "url": "https://open.spotify.com/track/0kAoP1m3SIdFSl4inkqkB0"
+    },
+    {
+      "album": {
         "name": "E Choke",
         "url": "https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b"
       },
@@ -3036,7 +3112,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 142000,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/5fW4iJMqmtsKtLn8YIlGEt"
@@ -3344,7 +3420,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 233990,
       "name": "FFG",
       "url": "https://open.spotify.com/track/3LiMM8tFNp81ZCmQvxjQbf"
@@ -4190,7 +4266,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 154001,
       "name": "Green Light (feat. Brazy & Maleigh Zan)",
       "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
@@ -4226,7 +4302,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 192000,
       "name": "growing up",
       "url": "https://open.spotify.com/track/5UOAfVQgz65gboUYoebRXp"
@@ -5031,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "Ibadi",
+        "url": "https://open.spotify.com/album/0W0sj2804Ktk3tSkZriX2G"
+      },
+      "artists": [
+        {
+          "name": "Yimeeka",
+          "url": "https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181016,
+      "name": "Ibadi",
+      "url": "https://open.spotify.com/track/5gW4aRg8397RTmSzK7K4gl"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
       },
@@ -5358,7 +5452,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 170915,
       "name": "JETSKI (FRIKI)",
       "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
@@ -5904,7 +5998,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 131307,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
@@ -6889,6 +6983,32 @@
     },
     {
       "album": {
+        "name": "Makuhia",
+        "url": "https://open.spotify.com/album/2sr4rRlKlSxFTHGF44gKRB"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Makuhia",
+      "url": "https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw"
+    },
+    {
+      "album": {
         "name": "Malaika",
         "url": "https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV"
       },
@@ -7178,6 +7298,24 @@
       "duration_ms": 146395,
       "name": "Memories",
       "url": "https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E"
+    },
+    {
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/1wj0dzwFBzX3QTQ4h3RDsM"
+      },
+      "artists": [
+        {
+          "name": "Yinka Oshodi",
+          "url": "https://open.spotify.com/artist/5kzLPfzl9GdRdhhS6xfRcb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/6Qi1Y3qgg3lqrViyXIDPNv"
     },
     {
       "album": {
@@ -7556,6 +7694,28 @@
       "duration_ms": 181693,
       "name": "MR. MEDIA",
       "url": "https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH"
+    },
+    {
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168331,
+      "name": "Ms. Paper (feat. Theodora)",
+      "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
     },
     {
       "album": {
@@ -8662,7 +8822,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 167447,
       "name": "Omo To Sexy",
       "url": "https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ"
@@ -8972,7 +9132,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
@@ -9470,7 +9630,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 170997,
       "name": "Progress",
       "url": "https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P"
@@ -9542,7 +9702,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 157643,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/6uZhBQRPCVOvMs9g58EEm1"
@@ -9564,6 +9724,24 @@
       "duration_ms": 172770,
       "name": "RADAR",
       "url": "https://open.spotify.com/track/3SfQLCyyinfDtOWuHPdkQF"
+    },
+    {
+      "album": {
+        "name": "Raining (O Dun Mi)",
+        "url": "https://open.spotify.com/album/795j20zTKent2xN94khVa9"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192203,
+      "name": "Raining (O Dun Mi)",
+      "url": "https://open.spotify.com/track/0lLaSWk2SKEbtpXcND9gGT"
     },
     {
       "album": {
@@ -9680,7 +9858,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 200275,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
@@ -10086,13 +10264,13 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Moliy",
+          "name": "MOLIY",
           "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
@@ -10176,6 +10354,24 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
+    },
+    {
+      "album": {
+        "name": "SANGO, IGI NLA",
+        "url": "https://open.spotify.com/album/3XKvhjUxVF4swGgFiFr2zA"
+      },
+      "artists": [
+        {
+          "name": "Teledalase",
+          "url": "https://open.spotify.com/artist/3Wxvmox8BfrWr7vJDKezHe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "SANGO, IGI NLA",
+      "url": "https://open.spotify.com/track/0wpqpuIgFYhd5WCZEF61RE"
     },
     {
       "album": {
@@ -10523,6 +10719,36 @@
     },
     {
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "SHAKE IT TO THE MAX (FLY) [REMIX]",
+      "url": "https://open.spotify.com/track/2vBiHkb2RxtFzkmOzYJgBs"
+    },
+    {
+      "album": {
         "name": "Shawa Shawa (Ashawo)",
         "url": "https://open.spotify.com/album/02YMGf7oSXURkxXAblr1sw"
       },
@@ -10578,6 +10804,24 @@
       "duration_ms": 182710,
       "name": "Shine",
       "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/6CSM4zYzNRH0wnKllulaiy"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142283,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/7gElndkAY6bs2plxDzi6Cj"
     },
     {
       "album": {
@@ -11178,7 +11422,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 169500,
       "name": "STEREO FRIEND",
       "url": "https://open.spotify.com/track/45qBHGpzalUsrj4dShPFbx"
@@ -11252,7 +11496,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 239993,
       "name": "Stories Untold",
       "url": "https://open.spotify.com/track/3aoDp1jGeLHZTsb5kGH4jg"
@@ -11837,6 +12081,28 @@
     },
     {
       "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "album": {
         "name": "Themba Lami (feat. Ami Faku)",
         "url": "https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt"
       },
@@ -12230,7 +12496,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 146823,
       "name": "Tribal Love",
       "url": "https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE"
@@ -13486,6 +13752,24 @@
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/27R1A3WZ5Zv0ywNe0Zunfr"
+    },
+    {
+      "album": {
+        "name": "Here's Where We Once Were",
+        "url": "https://open.spotify.com/album/6LB53Bq9oKwQcPehJgevNe"
+      },
+      "artists": [
+        {
+          "name": "ginius",
+          "url": "https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5oJbBeEZEBmltcKPkLW8Ok"
     },
     {
       "album": {

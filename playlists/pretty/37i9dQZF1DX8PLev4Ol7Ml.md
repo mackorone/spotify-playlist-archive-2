@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: iLiFE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,834 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,845 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [斑](https://open.spotify.com/track/5t1eLo1khzQdiGlUDFOLo7) | [REIRIE](https://open.spotify.com/artist/20StpY1Vxpsdi7BApvOFVR) | [ひなたぼっこ / 斑](https://open.spotify.com/album/0Xn5qqBliQ7asbTgt4FHgN) | 3:17 |
 | 50 | [シアワセパシャリ](https://open.spotify.com/track/58tqgVXCIx7L9qbRAN982l) | [Blueberry Girls](https://open.spotify.com/artist/19gOOBOvCVmh8p9CqlHeVM) | [シアワセパシャリ](https://open.spotify.com/album/4TbRTm5dhUs7xWAqXrvzKt) | 3:37 |
 
-Snapshot ID: `AAAAAL/UmpsVJvzSSN5SqrNVgaxFUx7l`
+Snapshot ID: `AAAAAIQnj9qiZ3OlGwYBBgpJp7OFq/cS`

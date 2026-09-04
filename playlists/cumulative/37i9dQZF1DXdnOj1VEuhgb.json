@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Allame, Sagopa Kajmer",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Murda, Motive",
   "name": "NKVT",
   "tracks": [
     {
@@ -2547,6 +2547,32 @@
     },
     {
       "album": {
+        "name": "Babacan",
+        "url": "https://open.spotify.com/album/7djwdUEwFmuQMhDHjUnndN"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193237,
+      "name": "Babacan",
+      "url": "https://open.spotify.com/track/1Rivqj8NT6A37CMGSZywXA"
+    },
+    {
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/2zQ5mMcOLadl6ugw0c3YvG"
       },
@@ -3232,6 +3258,24 @@
       "duration_ms": 140986,
       "name": "BEN BEN\u0130",
       "url": "https://open.spotify.com/track/319j1tobYOtrISSZVihH1i"
+    },
+    {
+      "album": {
+        "name": "BEN DE SEN\u0130",
+        "url": "https://open.spotify.com/album/0lgODNvmE1Bw0M96yggcdF"
+      },
+      "artists": [
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "BEN DE SEN\u0130",
+      "url": "https://open.spotify.com/track/3itcO0GryjLTsyo9YddzZt"
     },
     {
       "album": {
@@ -7850,7 +7894,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 138519,
       "name": "gez bloklarda",
       "url": "https://open.spotify.com/track/53up6mr9jfFyrVfTJxwJXC"
@@ -11446,6 +11490,28 @@
       "duration_ms": 151624,
       "name": "Kara \u00dcz\u00fcm Habbesi",
       "url": "https://open.spotify.com/track/0ZJQK22q4A3Q1YkpvenzfR"
+    },
+    {
+      "album": {
+        "name": "karambol",
+        "url": "https://open.spotify.com/album/2ZBjdhZrB9zpD5c9eABnQp"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207214,
+      "name": "karambol",
+      "url": "https://open.spotify.com/track/3pPPDBOwb5F9drPF09wthF"
     },
     {
       "album": {
@@ -15848,7 +15914,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 188479,
       "name": "Olsun",
       "url": "https://open.spotify.com/track/6fsXUwx1fFULeH4nmR3AaJ"
@@ -18456,7 +18522,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 152638,
       "name": "Senin Olmama Ra\u011fmen",
       "url": "https://open.spotify.com/track/3qumCYCiB3Rpuqnw6AdHBl"
@@ -18744,7 +18810,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 145812,
       "name": "SEYMENMOMENT",
       "url": "https://open.spotify.com/track/310Ma3rk2aolXmCt1nwCeY"
@@ -19286,7 +19352,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-04",
       "duration_ms": 215241,
       "name": "Son Mum",
       "url": "https://open.spotify.com/track/11Cz8crr2qwLEHwv1HFhMD"
@@ -21295,6 +21361,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/4QpvV129ezjfaLZREM7rX2"
+      },
+      "artists": [
+        {
+          "name": "JEFF",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132203,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6STjxGrdAGBFuEemDBlpiD"
+    },
+    {
+      "album": {
         "name": "Vi\u015fne",
         "url": "https://open.spotify.com/album/2VvsfX3eFVzjWE55WzFaGn"
       },
@@ -22866,6 +22950,32 @@
       "duration_ms": 160000,
       "name": "ZEMINLER",
       "url": "https://open.spotify.com/track/5rh8bbSIAEuVbzIF7Ws6FM"
+    },
+    {
+      "album": {
+        "name": "ZIG ZAG",
+        "url": "https://open.spotify.com/album/1TAP7GuVgD9MaJ1a7lJEyL"
+      },
+      "artists": [
+        {
+          "name": "Khontkar",
+          "url": "https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "Sim\u00fclasyon",
+          "url": "https://open.spotify.com/artist/0JToOVQGiyLAtyUOUvgKhH"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "ZIG ZAG",
+      "url": "https://open.spotify.com/track/4OMTqFdVmGXGnV54WfWqbr"
     },
     {
       "album": {

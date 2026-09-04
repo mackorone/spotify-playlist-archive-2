@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,873 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,872 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 99 | [The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [The Bad Touch 2k20](https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat) | 2:40 |
 | 100 | [Adrenalin \- Remix](https://open.spotify.com/track/3Do6PF80TUBeTJVGyuaiUQ) | [The Boy The G](https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO), [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Adrenalin \(Remix\)](https://open.spotify.com/album/6tG3ONEybJZq1oosRdHmcm) | 2:36 |
 
-Snapshot ID: `AAAAAI/iaX/JGxDfsyToqW91yOA0mK49`
+Snapshot ID: `AAAAAJJgNwKa5S1AQir4zwVGYk5ta8sj`
