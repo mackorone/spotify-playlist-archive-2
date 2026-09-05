@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-277 songs - 17 hr 43 min
+279 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Akal Ki](https://open.spotify.com/track/39HTTUiwJujcNPMHpgBgcR) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Game Trails](https://open.spotify.com/album/798KRYmtl0LzkgKidRwPhA) | 4:04 | 2022-01-05 | 2026-06-20 |
 | [All the Little Lights](https://open.spotify.com/track/43soXsubkqmvkhj5GCv57M) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 2:46 | 2022-01-05 | 2022-12-07 |
 | [Allure](https://open.spotify.com/track/42lE1A6zbOMyIRC01bPW4H) | [VILLEMIN](https://open.spotify.com/artist/0mlZluWx9Rt1gnxXNTx4C1) | [Allure](https://open.spotify.com/album/2fb9XPk0G8LzwtUMS0T9Ia) | 2:52 | 2022-12-06 |  |
+| [Alone Under the Northern Sky](https://open.spotify.com/track/2pB0Yr4t1DoezJQ4PpOD1G) | [Birgir Hilmarsson](https://open.spotify.com/artist/4RM0WqCh73jRZH3AhHsSC1), [Arngerður María Árnadóttir](https://open.spotify.com/artist/3YLZ2x3zepW2rbRK8LoMi3), [Biggi Hilmars](https://open.spotify.com/artist/55RUzsCv2DA6ilOoYYzpbz) | [Between Breaths \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0XlegLORnvTRgFwPEfUrKs) | 2:03 | 2026-09-04 |  |
 | [An Incoherent Meditation On A Fucked Up Year](https://open.spotify.com/track/0M1VZ7yHjwg4SGn7SvVOHG) | [What After This?](https://open.spotify.com/artist/2EOmCCwdMcNXiYOzQ4GtmM) | [An Incoherent Meditation On A Fucked Up Year](https://open.spotify.com/album/6at6VquluJUiU6jti8aJTE) | 3:13 | 2023-04-27 | 2024-04-19 |
 | [An Incoherent Meditation On A Fucked Up Year](https://open.spotify.com/track/364cCr4sxAmNHTLp31Pnfn) | [What After This?](https://open.spotify.com/artist/2EOmCCwdMcNXiYOzQ4GtmM) | [An Incoherent Meditation On A Fucked Up Year](https://open.spotify.com/album/2tuwvX2N0wkBI41wx1BYHB) | 3:13 | 2022-01-05 | 2026-06-20 |
 | [Ancient](https://open.spotify.com/track/3NFv1prjm0a6kFJ1IuLZsk) | [GreatAudioRecorded](https://open.spotify.com/artist/6KjtrCRLDKihttXM81OndD) | [Ancient](https://open.spotify.com/album/1SXjj0y3TXewSv87tl2jdi) | 3:23 | 2022-04-26 |  |
@@ -82,6 +83,7 @@
 | [Dark Beyond the Blue \- 2020](https://open.spotify.com/track/79hqdNpnWPVVxmZiDfKaIL) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/502gFUuFXipGm1INetZNR5) | 5:25 | 2022-01-05 | 2026-06-20 |
 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 | 2022-01-05 | 2026-06-20 |
 | [daydreaming](https://open.spotify.com/track/1vanuicvdPJJFjJ2OYdLGI) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [daydreaming](https://open.spotify.com/album/7AKUxroCnX0EgGKKJ5moXU) | 5:13 | 2023-04-27 |  |
+| [Dazed and Reflective Glory Pt\. 1](https://open.spotify.com/track/4kT4u2NX4jg4gj3ozwwCbS) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Budapest Art Orchestra](https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N), [Peter Pejtsik](https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO) | [Dazed and Reflective Glory Pt\. 1](https://open.spotify.com/album/0XkMLaPhQKqy5Uy9K9cBSk) | 2:17 | 2026-09-04 |  |
 | [Delevan](https://open.spotify.com/track/5BLybnjUyBrTDCbgSRQJs0) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Delevan](https://open.spotify.com/album/0YZnYLT02sLrrwozl26P1d) | 2:54 | 2022-07-27 |  |
 | [Deliverance](https://open.spotify.com/track/37sx79W0cDhplMOyYJHwdX) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [Deliverance](https://open.spotify.com/album/4bxMMgnSfE4mH6OCziRBZI) | 4:32 | 2022-12-06 |  |
 | [Dependent](https://open.spotify.com/track/6Rps2y2XjwvC2SVlpxvMna) | [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Dependent](https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny) | 3:12 | 2022-12-06 |  |

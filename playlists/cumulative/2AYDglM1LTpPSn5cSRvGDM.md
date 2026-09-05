@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-279 songs - 15 hr 57 min
+281 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Airwaves \- Orjan Nilsen Remix](https://open.spotify.com/track/28ekyceDcZeYpCAV3SljIB) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4), [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Airwaves \(Orjan Nilsen Remix\)](https://open.spotify.com/album/2ZD84BLme9kZmfsuzTadvO) | 3:16 | 2025-08-08 | 2025-10-11 |
 | [ANACONDA](https://open.spotify.com/track/0MjKtQwSbs7Wc5oUJl91Bx) | [Bender](https://open.spotify.com/artist/7fxWKpzyr4ZXEoNLtuxmrd) | [ANACONDA](https://open.spotify.com/album/5LLQRaMhNSRZJcxrmo26Cf) | 2:23 | 2025-09-26 | 2026-01-31 |
 | [And If You Go \- BLR Podium Mix](https://open.spotify.com/track/6XQnbqth5hchQel16A60ok) | [West of the Sun](https://open.spotify.com/artist/06mJk7DutiauNxY6n6U9sx), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [And If You Go \(BLR Podium Mix\)](https://open.spotify.com/album/5dTHBqhoe9DEVj7MPO7rqf) | 3:36 | 2025-09-12 |  |
+| [Anything for You](https://open.spotify.com/track/2PdTUEQhweLj7EmkkYrGG0) | [ZERO](https://open.spotify.com/artist/4LcOAsBPG3dHsTzLc4W52z) | [Anything for You](https://open.spotify.com/album/1jpLrKMhGSr40XpH7PDCja) | 3:20 | 2026-09-04 |  |
 | [Are You With Me](https://open.spotify.com/track/1aofSC2EOtU8I3DcxccJBR) | [Ryan Lucian](https://open.spotify.com/artist/3G0LbPtRVV7lsCEJ4RDChX) | [Memory](https://open.spotify.com/album/237JwE1vurV2zm9dzp32Dy) | 3:08 | 2025-07-11 |  |
 | [Arrow](https://open.spotify.com/track/3TUZGSbOgrB68DZDlaBoiS) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [Arrow](https://open.spotify.com/album/4G5oRZRiMpi3imTNZU8QYD) | 3:24 | 2025-07-11 |  |
 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 | 2026-04-10 |  |
@@ -32,6 +33,7 @@
 | [BOOMERANG](https://open.spotify.com/track/3RhQqg1JHpbg8Eg2obW0Cm) | [pspsps](https://open.spotify.com/artist/3kH3yAdiybOBjA6uaw8VVF) | [BOOMERANG](https://open.spotify.com/album/7FOLL9DzaYld2KP2QdbbGB) | 3:02 | 2025-09-26 | 2025-11-01 |
 | [Breaka Breaka](https://open.spotify.com/track/3q2bl0SmrWfeQVr8a0ngzg) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Breaka Breaka](https://open.spotify.com/album/09OOjJikUHGZZ0nULvH3Vp) | 3:38 | 2025-07-11 | 2026-08-01 |
 | [Breathe Again](https://open.spotify.com/track/3WXJt72bic6WpUb1SBqw1Y) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 3:28 | 2025-07-11 |  |
+| [Bright Things](https://open.spotify.com/track/0aW7yesIZJws3PxZyfjGIo) | [Seycel](https://open.spotify.com/artist/1jcavQnWypwguRm9JW365l) | [Bright Things / Dust & Distance](https://open.spotify.com/album/4PexW2m0XeLE8HnfcvYKJS) | 3:58 | 2026-09-04 |  |
 | [By My Side](https://open.spotify.com/track/73ZlqUrSKdOJBQ9UJJGZ8s) | [Flare \(BR\)](https://open.spotify.com/artist/3ZagYhEUo6OuRWMcBuxMhM) | [By My Side](https://open.spotify.com/album/2Oi5yQxzlTx144MjZgvNkS) | 3:30 | 2025-07-11 | 2025-08-09 |
 | [Can't Sleep](https://open.spotify.com/track/3qPfzaAnQWUP9W7JlIGB6I) | [Marsias](https://open.spotify.com/artist/2b7PWasPxNRzwyUkXVIZ3a), [Berkael](https://open.spotify.com/artist/1nKRMPT4vVYiFLHoB9483s), [WOOSA](https://open.spotify.com/artist/0XSZLx3Ij1EgBQCIv91V98) | [Can't Sleep](https://open.spotify.com/album/4Xto4tBhiGTvItGDLACk39) | 2:26 | 2025-12-12 | 2026-02-28 |
 | [Caramelle](https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Caramelle](https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC) | 2:00 | 2025-11-28 |  |

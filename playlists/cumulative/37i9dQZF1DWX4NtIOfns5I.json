@@ -13044,7 +13044,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 133333,
       "name": "Stranger In You",
       "url": "https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y"
@@ -14151,6 +14151,28 @@
     },
     {
       "album": {
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
+    },
+    {
+      "album": {
         "name": "there they go",
         "url": "https://open.spotify.com/album/6MzGpvC1fI4kZ56DjcmadF"
       },
@@ -14618,6 +14640,24 @@
       "duration_ms": 296333,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX"
+    },
+    {
+      "album": {
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
     },
     {
       "album": {
@@ -15552,7 +15592,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 321140,
       "name": "Where\u2019s Your Love Now - Waxahatchee Version",
       "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"

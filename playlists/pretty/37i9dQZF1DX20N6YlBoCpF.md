@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Ryno Velvet, Byron Minnie, Snotkop, Ricus Nel, Dirk Van Der Westhuizen en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,325 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,359 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

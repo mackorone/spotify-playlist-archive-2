@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-642 songs - 1 day 14 hr 9 min
+644 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ariane](https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:13 | 2025-01-31 |  |
 | [As My Old Man Always Said](https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:23 | 2022-02-04 | 2026-03-03 |
 | [Asthmatique](https://open.spotify.com/track/2DU6yZypEq53onPfGcEGRu) | [Momo](https://open.spotify.com/artist/20svWRM5QSvvXMOWkyaHPN) | [Asthmatique](https://open.spotify.com/album/6cn7KRTqHatOtns7JlYIPY) | 2:14 | 2021-06-14 | 2021-10-23 |
+| [Astronaute \- Deluxe](https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim), [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [Cycle délicat \(Deluxe\)](https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy) | 2:50 | 2026-09-04 |  |
 | [Au bout du monde](https://open.spotify.com/track/6hcoT48e93uJSiqES3eKMy) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [Au bout du monde](https://open.spotify.com/album/3GglngNuy4H740Q3cfTv31) | 2:53 | 2022-02-25 | 2022-06-24 |
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
@@ -159,7 +160,7 @@
 | [Famli](https://open.spotify.com/track/6Y1NRc6kTcFEQgBrEFuI0p) | [Rémi Cormier](https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst) | [Rich State of Mind](https://open.spotify.com/album/43LSMTpns1t568D80YOTFQ) | 2:58 | 2026-03-13 | 2026-03-19 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 | 2022-04-16 |
 | [Father Time](https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Father Time](https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D) | 3:03 | 2025-08-21 | 2025-10-26 |
-| [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 | 2026-06-26 |  |
+| [Feel '26](https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [Feel '26](https://open.spotify.com/album/6qixCjKO41JgVM6NJ5RVrw) | 5:43 | 2026-06-26 | 2026-09-05 |
 | [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 | 2024-07-06 |
 | [Feu de forêt](https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:40 | 2021-01-03\* | 2022-07-29 |
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-06-08 |
@@ -373,7 +374,7 @@
 | [Martine](https://open.spotify.com/track/0K4u23NQWXl8MWFzkal13R) | [Camaromance](https://open.spotify.com/artist/6MiaQkFU6CoconRyRYko7X) | [Martine](https://open.spotify.com/album/0SgdKJsbN49Uxxptds7axE) | 4:03 | 2021-01-03\* | 2022-07-14 |
 | [Mathieu et Gloria](https://open.spotify.com/track/6PxHMyDTD2ugw6kSxNjtq6) | [Ombre!](https://open.spotify.com/artist/4RvNQrx95ubI5E1woJER6o) | [Les grands vents](https://open.spotify.com/album/2UWAAvO2RTCYRmegk0cYUp) | 4:14 | 2021-01-03\* | 2022-07-12 |
 | [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 | 2025-12-19 | 2026-03-22 |
-| [maybe i think](https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux) | [Nick Bellerose](https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt) | [maybe i think](https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0) | 2:06 | 2026-07-31 |  |
+| [maybe i think](https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux) | [Nick Bellerose](https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt) | [maybe i think](https://open.spotify.com/album/4OYELnP5UQBBelvamEjIz0) | 2:06 | 2026-07-31 | 2026-09-05 |
 | [Me semble que c'est facile](https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Me semble que c'est facile](https://open.spotify.com/album/79oVShReMrIa4ACzMTX990) | 3:23 | 2022-02-11 | 2025-02-14 |
 | [Menteuse](https://open.spotify.com/track/5c48Kqk8la8I8EjugIDdrF) | [Andromède](https://open.spotify.com/artist/5h1tsxylgwuGvYdyPOEHQy) | [Andromède](https://open.spotify.com/album/26P6KIVuLYtFNyQGiMnXZx) | 4:01 | 2021-09-13 | 2021-09-24 |
 | [Merci de rien](https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Merci de rien](https://open.spotify.com/album/0DP8QzBD2f8oQESLiukLVE) | 3:11 | 2021-08-14 | 2022-07-25 |
@@ -438,6 +439,7 @@
 | [Park tes pantoufles](https://open.spotify.com/track/3plFk3lTETFC9XcmlK5tTK) | [William Deslauriers](https://open.spotify.com/artist/6tjGagAXnkSlY7Z6UBv0RF) | [Park tes pantoufles](https://open.spotify.com/album/3VU4uzhswToFNCXpnECrOW) | 3:06 | 2021-01-03\* | 2021-09-29 |
 | [Parmi les autres](https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Parmi les autres](https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw) | 3:39 | 2023-03-03 |  |
 | [Partir en mer](https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0) | [Roy Davis](https://open.spotify.com/artist/2hY7DEOREACP4sNFGFpTWm) | [Partir en mer](https://open.spotify.com/album/2Tqhja095stUqvs3bgQ0DE) | 3:44 | 2021-05-16 | 2022-07-28 |
+| [pas de vagues](https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n) | 3:04 | 2026-09-04 |  |
 | [Passagers](https://open.spotify.com/track/0Rli17YJQI1D7qraciHcKA) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- EP](https://open.spotify.com/album/2R4siDISDRZfVRCoOTWzDG) | 3:51 | 2021-01-15 | 2022-07-29 |
 | [Passagers](https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J) | [Pilou](https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c) | [La vraie nature \- Chansons par Pilou](https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD) | 3:51 | 2022-07-08 | 2024-04-19 |
 | [Passe ton chemin](https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 3:20 | 2021-01-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8N7D35YSFq.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Claressa Shields
 
-[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 55 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 489 likes - 55 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

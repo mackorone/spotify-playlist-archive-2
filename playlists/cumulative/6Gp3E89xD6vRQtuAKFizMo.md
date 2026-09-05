@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-579 songs - 1 day 3 hr 39 min
+580 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 | 2025-04-27 |
 | [I’m Not Going Anywhere](https://open.spotify.com/track/5NOV69OCTCG2lxAp9dFTLR) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [I’m Not Going Anywhere](https://open.spotify.com/album/1gM5TAOTjG6N7kDsbsgBZr) | 2:22 | 2026-06-19 |  |
 | [Jaded](https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Jaded](https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9) | 3:15 | 2025-03-21 |  |
+| [Just Can't Get Enough](https://open.spotify.com/track/4UbuvZsGzFcLhhoyNI5ajw) | [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [JD Davis](https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj) | [Just Can't Get Enough](https://open.spotify.com/album/6F8QTNHF6y3ASeVu8cdidT) | 2:37 | 2026-09-04 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 | 2023-04-09 |
 | [Kick Drum](https://open.spotify.com/track/5oo2RBuuxhL3qzL5gnhlkW) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Kick Drum](https://open.spotify.com/album/1CoFKBsX0lsFyKZfHjmsvP) | 3:03 | 2024-08-16 | 2025-04-27 |
 | [King Kong](https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [King Kong](https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB) | 2:08 | 2023-01-13 | 2023-03-25 |

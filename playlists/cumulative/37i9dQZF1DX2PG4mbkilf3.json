@@ -6293,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Cry When I'm Alone",
+        "url": "https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Cry When I'm Alone",
+      "url": "https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59"
+    },
+    {
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/5kLXDsZRTG2vDhEcQ0uHWu"
       },
@@ -10167,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "Forever and a Day",
+        "url": "https://open.spotify.com/album/3N5IlFhcihN9ea6JnFO4nY"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245979,
+      "name": "Forever and a Day",
+      "url": "https://open.spotify.com/track/5kDug34aip4weKBO1xjMSJ"
+    },
+    {
+      "album": {
         "name": "Final Bo$$",
         "url": "https://open.spotify.com/album/2ThN4SQsDDccLMLRyHES5u"
       },
@@ -11416,7 +11452,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180000,
       "name": "H.I.M",
       "url": "https://open.spotify.com/track/0jjrLN2I5nmy9owwliEfoD"
@@ -15204,6 +15240,28 @@
       "duration_ms": 151401,
       "name": "King of the Crop",
       "url": "https://open.spotify.com/track/62eCdSoP9bVA1kknmUfnLr"
+    },
+    {
+      "album": {
+        "name": "Kiss Me When I",
+        "url": "https://open.spotify.com/album/4XHdkmdLdgRCsW2IUXQd5c"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "Kiss Me When I",
+      "url": "https://open.spotify.com/track/2gNtJs3FFGS8Bq67wQpYjq"
     },
     {
       "album": {
@@ -26503,6 +26561,28 @@
     },
     {
       "album": {
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+    },
+    {
+      "album": {
         "name": "SO NICE",
         "url": "https://open.spotify.com/album/1PnvmMkZvd4dqidHYM2xEu"
       },
@@ -29034,7 +29114,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 173243,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6Fm1lwgjl0WFp42FQ1xIgQ"
@@ -30890,7 +30970,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 124800,
       "name": "Turn You Up",
       "url": "https://open.spotify.com/track/1v2NgfMNk09EJgvACPDYFO"
@@ -32570,7 +32650,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 185412,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/3r6laoyBkrjGR4p5E1HXaW"

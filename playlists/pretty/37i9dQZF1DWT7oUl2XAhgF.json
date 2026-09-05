@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: The Womack Sisters",
-  "num_followers": 404642,
+  "num_followers": 404698,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVihjANKiWgwiIMMQw4TjbEPBmY",
+  "snapshot_id": "AAAAAO6Kyn0yhi/CuDBake+ubaJhvI81",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:05",
@@ -23,6 +23,54 @@
       "duration_ms": 219653,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v"
+    },
+    {
+      "added_at": "2026-09-04 04:00:33",
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/2Us044j2qG1iqbjnBNH6eR"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/4aJxB28TaJFnGQTQ76kbJo"
+    },
+    {
+      "added_at": "2026-09-04 04:00:33",
+      "album": {
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
+    },
+    {
+      "added_at": "2026-09-04 04:00:33",
+      "album": {
+        "name": "258366",
+        "url": "https://open.spotify.com/album/5So0wjjztZHOeV0nKnpcDA"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "258366",
+      "url": "https://open.spotify.com/track/3JAE90gTtwRbM1jFNdGayh"
     },
     {
       "added_at": "2026-08-14 04:01:05",
@@ -111,22 +159,6 @@
       "duration_ms": 211053,
       "name": "Burning Temptation",
       "url": "https://open.spotify.com/track/35VN6nIXJaJzOIeRzjOMkT"
-    },
-    {
-      "added_at": "2026-07-31 04:00:34",
-      "album": {
-        "name": "Paying It Forward",
-        "url": "https://open.spotify.com/album/142wQ3h6ZHW9OpXmkUrqQT"
-      },
-      "artists": [
-        {
-          "name": "Honeybear, the Band",
-          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
-        }
-      ],
-      "duration_ms": 180286,
-      "name": "Paying It Forward",
-      "url": "https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS"
     },
     {
       "added_at": "2026-07-17 04:00:03",
@@ -247,22 +279,6 @@
       "duration_ms": 169439,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA"
-    },
-    {
-      "added_at": "2026-05-08 04:01:02",
-      "album": {
-        "name": "It\u2019s A Shame",
-        "url": "https://open.spotify.com/album/4vUMNe853V9rjsCjVUZWSZ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "It\u2019s A Shame",
-      "url": "https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB"
     },
     {
       "added_at": "2026-05-01 04:00:17",
@@ -1407,22 +1423,6 @@
       "duration_ms": 186840,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7maKDsx5c9pGH82gqTwiOf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:22",
-      "album": {
-        "name": "Fool For You",
-        "url": "https://open.spotify.com/album/6xo8NaZwvWDEpV7jaaykGd"
-      },
-      "artists": [
-        {
-          "name": "James Tutson",
-          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
-        }
-      ],
-      "duration_ms": 257539,
-      "name": "Somnolent Love",
-      "url": "https://open.spotify.com/track/7o5bO798ISksP3UGx7y9Y2"
     },
     {
       "added_at": "2025-01-17 05:00:26",

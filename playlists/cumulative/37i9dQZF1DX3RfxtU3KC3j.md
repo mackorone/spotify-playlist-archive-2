@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Göksel İpekçi
 
-901 songs - 2 day 4 hr 9 min
+901 songs - 2 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Dön İstersen](https://open.spotify.com/track/669zHNo3HkeSiXSpLgdXKg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Dön İstersen](https://open.spotify.com/album/4nfjFstbsnQk8XgBM9cMnN) | 3:27 | 2025-11-06 | 2025-11-21 |
 | [Dön Yüzünü Evine](https://open.spotify.com/track/6OKhF7ynSLI8WYvarljRER) | [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Dön Yüzünü Evine](https://open.spotify.com/album/3hwRU5a2W5dM1pNJI4LKw6) | 4:11 | 2024-11-14 | 2025-06-20 |
 | [Döndü Dünya](https://open.spotify.com/track/1Ac9AuVbftsZgExkVRI1R8) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Döndü Dünya](https://open.spotify.com/album/6QNplXSP6UPnPoXWJAN7fC) | 3:14 | 2025-10-02 | 2025-10-17 |
+| [Dönme Dolaplar](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 3:07 | 2026-09-03 |  |
 | [dönmem geri](https://open.spotify.com/track/2wov6g0Vmy5c1n5JcdU8Lm) | [Deniz Mert](https://open.spotify.com/artist/5QVlUHz4xnayUocGAYCTLm), [Umut Er](https://open.spotify.com/artist/2dIg9NWnGgv2XFcXcdEMDp) | [dönmem geri](https://open.spotify.com/album/5uiG23QEEy6e6ZhKzMFlOx) | 3:20 | 2026-03-05 | 2026-03-28 |
 | [Dönmem Ona](https://open.spotify.com/track/0qDqMCfmlenp7J5rqxSe7a) | [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Dönmem Ona](https://open.spotify.com/album/3UlkVH4hLgdU7woLcs4VBf) | 2:42 | 2024-06-28 | 2024-07-19 |
 | [Dönüyor Dünya](https://open.spotify.com/track/7pu096e06CJlqTA3sbCdWg) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Dönüyor Dünya](https://open.spotify.com/album/6B6B7k6bdALVbHOXMMBtWZ) | 3:31 | 2024-06-28 | 2024-07-12 |
@@ -730,8 +731,6 @@
 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 | 2024-08-15 | 2024-09-06 |
 | [Ters Çingene](https://open.spotify.com/track/3YWnLnHWY3ZJQXC2URCuix) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX), [Simge Pınar](https://open.spotify.com/artist/3LaMLuHw30v7Smtt3mcrjE) | [Ters Çingene](https://open.spotify.com/album/06MY2lC2YmcTGWGIs4FvOf) | 4:04 | 2025-11-13 | 2025-12-05 |
 | [Toz Duman \- Rock Version](https://open.spotify.com/track/3ci6hJvT0VlcKDvqgnvEqr) | [Anıl Bektaş](https://open.spotify.com/artist/1MhbXjORYpq5VYTmPRLKMs) | [Toz Duman \(Rock Version\)](https://open.spotify.com/album/28EfENFMKlh1DmKQ1JkyqR) | 4:22 | 2025-12-04 | 2026-03-06 |
-| [Track 1](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 0:00 | 2026-09-03 |  |
-| [Track 9](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 0:00 | 2026-09-03 |  |
 | [Travmalar ve Palavralar](https://open.spotify.com/track/1dWNn3QvzV3qtyRez5oZ3R) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Travmalar ve Palavralar](https://open.spotify.com/album/6nO7PnasRGDCz6JRzET7Fq) | 3:38 | 2025-10-16 | 2025-11-15 |
 | [Tutamadın Şu Ellerimi](https://open.spotify.com/track/1NatPewJhv2E4igTGvkon1) | [Ozan Çekemci](https://open.spotify.com/artist/3QeQkkFYjm5levcc6JyoNw) | [Tutamadın Şu Ellerimi](https://open.spotify.com/album/0Siuvv8UKLfAMu4JucdDlH) | 3:42 | 2026-08-20 | 2026-09-04 |
 | [Tutuşursa](https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Tutuşursa](https://open.spotify.com/album/3GTFAY5xwqOjgSR8Oov4GT) | 2:41 | 2025-11-13 | 2026-02-06 |
@@ -802,6 +801,7 @@
 | [Yaratık \- Akustik](https://open.spotify.com/track/1xQ4XtIBuCbOoHrcG8r8eB) | [Direc\-t](https://open.spotify.com/artist/0ubHokjZTIMHUJWPML8N0x) | [Yaratık \- Akustik](https://open.spotify.com/album/3X7B7DeXth0X9wtO2zWkaX) | 2:30 | 2026-02-12 | 2026-02-27 |
 | [Yari Görünce](https://open.spotify.com/track/0dkbRblHOj4mBUuLF4P5mL) | [Emre Nalbantoğlu](https://open.spotify.com/artist/14TogIxl5TVMe7aa7IaLv1) | [Yari Görünce](https://open.spotify.com/album/1ZyPJmpTq9Mlo4Sn7Fb4Tp) | 2:47 | 2025-08-07 | 2025-09-05 |
 | [Yarim Benden Gidiyordu](https://open.spotify.com/track/5iI8vDuLoSWtRFlPuymfAG) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Yarim Benden Gidiyordu](https://open.spotify.com/album/5m5MUACw91Gu258a2gwYjW) | 4:19 | 2026-01-29 | 2026-02-20 |
+| [Yarım Ağız](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 4:28 | 2026-09-03 |  |
 | [Yarım Kalan](https://open.spotify.com/track/7hsf8ALH2wyFTQ15K88wRv) | [Batuhan Kordel](https://open.spotify.com/artist/53GzfAvawfKb966INeFp18), [Ömer Öz](https://open.spotify.com/artist/3bw3IL3B9fbUsMezrk7tOO) | [Yarım Kalan](https://open.spotify.com/album/6DfrdnkEJ3EaFcZHIooJXl) | 2:58 | 2024-06-28 | 2024-12-20 |
 | [Yarım Kalan Aşk](https://open.spotify.com/track/60V162wDhRbh4ltg76c3dm) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Yarım Kalan Aşk](https://open.spotify.com/album/2iqmVpaSWaRfnVxDwrZcdD) | 3:21 | 2026-03-12 | 2026-04-11 |
 | [Yarım Saat Sonra](https://open.spotify.com/track/4moyOqNwcJhSqTSSilwf4H) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Yarım Saat Sonra](https://open.spotify.com/album/6Pz3xh0PotNaXdIIiHk2dm) | 3:45 | 2025-06-26 | 2025-09-05 |

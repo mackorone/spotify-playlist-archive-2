@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-271 songs - 14 hr 10 min
+272 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Meg's Garden](https://open.spotify.com/track/1xzhwKbHLhOLwCzIyZnJyW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 1:12 | 2022-08-16 | 2022-11-13 |
 | [Meg's Garden](https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 1:14 | 2022-06-28 |  |
 | [Mickey Mouse Clubhouse Theme](https://open.spotify.com/track/6PsshaEg0aa2OgB4xiD01b) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:25 | 2022-04-15 |  |
+| [Mother & Son Reunited](https://open.spotify.com/track/7w9moCWKJG1DRBxkultOzk) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Niccolo Pacella](https://open.spotify.com/artist/3hqBV626iVrywoEFjGBvNi), [George Hutson Warren](https://open.spotify.com/artist/781vtha4o97zLtSjkuX3mB), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [LION \(Original Series Soundtrack\)](https://open.spotify.com/album/63pZdHeciIMzFxFCtYMQ2o) | 2:07 | 2026-09-04 |  |
 | [Movin' Right Along](https://open.spotify.com/track/3B9y94mviI5jHtjiSv6UyP) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN) | [Disney Peaceful Piano: Focus](https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9) | 3:06 | 2023-08-11 |  |
 | [Muppet Babies Theme 2018](https://open.spotify.com/track/2nvNhtBQmzW1SfclVIsvqG) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 | 2022-04-15 |  |
 | [My Precious](https://open.spotify.com/track/4JAJ77rtgu11SLh62tuSHL) | [Takumi Ozawa](https://open.spotify.com/artist/1NQkgqMxvToZfnBnZw745K) | [Disney Twisted\-Wonderland: The Animation \- Episode of Heartslabyul \(Original Soundtrack/Vol\. 1\)](https://open.spotify.com/album/7xmuKA1ep4B4MQTnhDkWor) | 1:58 | 2025-11-22 |  |

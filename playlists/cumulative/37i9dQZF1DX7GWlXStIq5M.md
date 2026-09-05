@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Glória Groove
 
-1,206 songs - 2 day 11 hr 47 min
+1,207 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Assault \(Crime Perfeito\)](https://open.spotify.com/track/7b8kjWj4TKWmWo2LX9Lkiz) | [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [Assault \(Crime Perfeito\)](https://open.spotify.com/album/3tnFroQ43SHOKeCxMLAAxY) | 3:44 | 2020-10-20 | 2022-07-27 |
 | [Assome](https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [SALVE\-SE!](https://open.spotify.com/album/78EDQWddL1J80CnDO9w5T3) | 3:00 | 2024-11-28 | 2025-12-05 |
 | [Atenção](https://open.spotify.com/track/2V6GQIS5s2HsMoIpR9wi77) | [Letícia Hally](https://open.spotify.com/artist/47q3Hm8x4YEh0ZNocF323p) | [Atenção](https://open.spotify.com/album/5rbPngm7aHcm5QJLNwSdke) | 2:36 | 2023-09-15 | 2023-10-14 |
-| [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 | 2026-03-27 |  |
+| [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 | 2026-03-27 | 2026-09-05 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 | 2024-03-23 |
 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 | 2023-02-14 | 2023-07-15 |
 | [Atrás do Que Eu Sonhava \- Ao Vivo](https://open.spotify.com/track/3Q37BzBnACG1Lmih1CFMoY) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Nina in Rio \(Ao Vivo\)](https://open.spotify.com/album/6oOhIZGdoRtmnS6kQIskfH) | 4:28 | 2025-07-04 | 2025-12-12 |
@@ -882,6 +882,7 @@
 | [Prova Final \- Lance de Escola 4: Corações em Jogo](https://open.spotify.com/track/4xu0GjtwzvqdxZWPCXRCmB) | [Kysha e Mine](https://open.spotify.com/artist/7rYnbZAF39lmH90aJV3bXw) | [Prova Final \(Lance de Escola 4: Corações em Jogo\)](https://open.spotify.com/album/2gl3mYQfhDU5on8Pr1pB3F) | 3:10 | 2026-06-26 | 2026-07-03 |
 | [Príncipe Negro \(Pegada do Preto\)](https://open.spotify.com/track/5DExTwj5Nc7bpVD1EkVStI) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [PiraruCool](https://open.spotify.com/album/7yo6XUy0JbHVLL8p5kYTZV) | 2:52 | 2023-10-20 | 2023-11-11 |
 | [Psicose](https://open.spotify.com/track/3Hi829to1jWWtcUxMdbJng) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Psicose](https://open.spotify.com/album/5ysz79tt0Kj5DZFfv1dJiC) | 2:58 | 2020-10-20 | 2022-07-29 |
+| [Pura Magia](https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pura Magia](https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X) | 3:40 | 2026-09-04 |  |
 | [Pura Poesia](https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi) | [Bia Trindade](https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Pura Poesia](https://open.spotify.com/album/6FuUAYQPklC2nDknB1JPXN) | 3:00 | 2025-10-31 | 2026-08-11 |
 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 | 2023-10-13 | 2023-11-11 |
 | [puro osso \- acústico](https://open.spotify.com/track/57vtkUpGz1m9OOhT56hRkl) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso \- acústico](https://open.spotify.com/album/7AqrBWUwuO3sZife9VTFkI) | 2:42 | 2023-09-22 | 2023-10-14 |

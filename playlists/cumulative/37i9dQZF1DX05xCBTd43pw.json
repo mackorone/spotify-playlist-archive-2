@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Dreaming & Drowning",
+        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
+      },
+      "artists": [
+        {
+          "name": "Linda Wolf",
+          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207479,
+      "name": "Dreaming & Drowning",
+      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
+    },
+    {
+      "album": {
         "name": "Drei Stunden",
         "url": "https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON"
       },
@@ -3594,6 +3612,24 @@
       "duration_ms": 186920,
       "name": "goodbye i still love you",
       "url": "https://open.spotify.com/track/0sanfabbL9bYB0H9XI9jBf"
+    },
+    {
+      "album": {
+        "name": "Throw The Dice",
+        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206890,
+      "name": "Gravity's Pull",
+      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
     },
     {
       "album": {
@@ -9532,42 +9568,6 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "album": {
-        "name": "Dreaming & Drowning",
-        "url": "https://open.spotify.com/album/17ybKwJ5HYnFFMcYssJgYX"
-      },
-      "artists": [
-        {
-          "name": "Linda Wolf",
-          "url": "https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7iP9aEysn6pKKsJbUksjIz"
-    },
-    {
-      "album": {
-        "name": "Throw The Dice",
-        "url": "https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw"
     },
     {
       "album": {

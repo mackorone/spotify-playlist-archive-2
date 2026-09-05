@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Jonah Kagen\n",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Phillip Phillips\n",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 190630,
       "name": "Either",
       "url": "https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 218226,
       "name": "Fair To You",
       "url": "https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 194997,
       "name": "Giving Up (with JOSEPH)",
       "url": "https://open.spotify.com/track/5VEoJBwpMt3cvEa5ptpsET"
@@ -4773,6 +4773,24 @@
     },
     {
       "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+    },
+    {
+      "album": {
         "name": "How Do We Stay In Love?",
         "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
       },
@@ -5281,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "I Won\u2019t Be There Waiting For You",
+        "url": "https://open.spotify.com/album/7giFDQWTJPCEVshvReKhvX"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253271,
+      "name": "I Won\u2019t Be There Waiting For You",
+      "url": "https://open.spotify.com/track/0c8XsPbm9w5fCsMXxTJEu8"
+    },
+    {
+      "album": {
         "name": "I'm The Sinner",
         "url": "https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr"
       },
@@ -5498,6 +5534,24 @@
       "duration_ms": 236524,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/5E2lXhEAe1dsQlvAFzykx2"
+    },
+    {
+      "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "It's Not Easy (Falling In Love)",
+      "url": "https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX"
     },
     {
       "album": {
@@ -6725,6 +6779,24 @@
     },
     {
       "album": {
+        "name": "Let's Go Far: Vol. 1",
+        "url": "https://open.spotify.com/album/4FZrEZF2B4zaiC0icWNITX"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245440,
+      "name": "My Dark Places",
+      "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
+    },
+    {
+      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -7068,7 +7140,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 205484,
       "name": "Nostalgic for Nothing",
       "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"

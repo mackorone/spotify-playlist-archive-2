@@ -1,13 +1,33 @@
 {
-  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium.",
-  "num_followers": 3654,
+  "description": "Your favorite kids songs and nursery rhymes, now with videos. Music videos available only on Premium. Cover: Ms. Rachel & Mr. Aron",
+  "num_followers": 3709,
   "original_name": "Kids Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADR3TPzlGroMkP6P31ZhDjFJqQN",
+  "snapshot_id": "AAAAAIk+QG5Odg7JPA0HgQIBZZ9XTA2L",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:01:06",
+      "album": {
+        "name": "I Love a Rainbow",
+        "url": "https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Rachel",
+          "url": "https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep"
+        },
+        {
+          "name": "Mr. Aron",
+          "url": "https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z"
+        }
+      ],
+      "duration_ms": 129045,
+      "name": "I Love a Rainbow",
+      "url": "https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y"
+    },
     {
       "added_at": "2026-08-28 04:00:58",
       "album": {

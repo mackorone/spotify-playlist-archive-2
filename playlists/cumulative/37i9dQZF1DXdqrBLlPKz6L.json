@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: Pirlo",
+  "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: GeezyDee y Kris R.",
   "name": "Trapperz Andinos",
   "tracks": [
     {
@@ -526,7 +526,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 207455,
       "name": "Celebrando",
       "url": "https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4"
@@ -1333,6 +1333,32 @@
     },
     {
       "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        },
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
+    },
+    {
+      "album": {
         "name": "GANAS REMIX",
         "url": "https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH"
       },
@@ -1936,7 +1962,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 176842,
       "name": "Livianito",
       "url": "https://open.spotify.com/track/4DANLftoIh2G6U2O3N3LFo"
@@ -2389,6 +2415,32 @@
     },
     {
       "album": {
+        "name": "Nigga Colombiano (REMIX)",
+        "url": "https://open.spotify.com/album/74m2A8vc9eyh9Y8yvOAffA"
+      },
+      "artists": [
+        {
+          "name": "Jaime El King",
+          "url": "https://open.spotify.com/artist/7xiOYD4GFS278j40P4ZB8K"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224854,
+      "name": "Nigga Colombiano (REMIX)",
+      "url": "https://open.spotify.com/track/3rPB09tYWvhBMAjhihKDq9"
+    },
+    {
+      "album": {
         "name": "Nitiwey",
         "url": "https://open.spotify.com/album/7IrMfVF2uh7Uesibaa52kl"
       },
@@ -2602,7 +2654,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 211555,
       "name": "Pa La Calle",
       "url": "https://open.spotify.com/track/1jGpSC7P0UiV4TOZ5aI6hZ"
@@ -2658,6 +2710,28 @@
       "duration_ms": 221090,
       "name": "Parche Tranqui",
       "url": "https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm"
+    },
+    {
+      "album": {
+        "name": "Paroliguelido",
+        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Paroliguelido",
+      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
     },
     {
       "album": {
@@ -3010,7 +3084,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 106012,
       "name": "Si La Pego Me Asusto",
       "url": "https://open.spotify.com/track/5sUdEdiRmkgQQ71ZzPcRMZ"

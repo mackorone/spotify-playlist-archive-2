@@ -5711,6 +5711,28 @@
     },
     {
       "album": {
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/6F8QTNHF6y3ASeVu8cdidT"
+      },
+      "artists": [
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "JD Davis",
+          "url": "https://open.spotify.com/artist/4S1P19bTfbDVjEA8Hxs4Cj"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157581,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/4UbuvZsGzFcLhhoyNI5ajw"
+    },
+    {
+      "album": {
         "name": "Kanos",
         "url": "https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf"
       },

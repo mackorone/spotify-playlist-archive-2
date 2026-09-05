@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/1kIiJ1Rq9btRIOZFZpVmce"
+      },
+      "artists": [
+        {
+          "name": "Tweellve",
+          "url": "https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF"
+        },
+        {
+          "name": "Artef",
+          "url": "https://open.spotify.com/artist/6qCmY7e64KCkoxnfIcdi9B"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141337,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/1CtzJVpJ3qRymiiR9YqKK5"
+    },
+    {
+      "album": {
         "name": "A Few Good Reasons",
         "url": "https://open.spotify.com/album/2BKJWFJU0VgmXrGDLwHyGG"
       },
@@ -930,6 +952,36 @@
       "duration_ms": 160645,
       "name": "All With You",
       "url": "https://open.spotify.com/track/4OGvzHjQfR4WLwUzplLPJR"
+    },
+    {
+      "album": {
+        "name": "Alleine (feat. JILIAAN)",
+        "url": "https://open.spotify.com/album/4vI4SAAl2tjQy4U1SWbF33"
+      },
+      "artists": [
+        {
+          "name": "23 Years Later",
+          "url": "https://open.spotify.com/artist/5l2UTvjYVO34KGQqb59Ft8"
+        },
+        {
+          "name": "Neascape",
+          "url": "https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT"
+        },
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        },
+        {
+          "name": "JILIAAN",
+          "url": "https://open.spotify.com/artist/17yyfQ7wzJe81fBROPmErz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Alleine (feat. JILIAAN)",
+      "url": "https://open.spotify.com/track/2mAoh6XKCwClftvhlWr4s7"
     },
     {
       "album": {
@@ -2779,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/31A9eSx0z5heH22xh1cQhq"
+      },
+      "artists": [
+        {
+          "name": "attic pulse",
+          "url": "https://open.spotify.com/artist/6zjF5NnzTTXu8r4PLKkmnz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128727,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/2z06fNBgyzRTCGq4ptcCeM"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4YmQNw5AdwoDNPclsH46cZ"
       },
@@ -3320,7 +3390,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171206,
       "name": "Blue Ocean",
       "url": "https://open.spotify.com/track/2X9xINdIG1nmxDrzJ508qU"
@@ -5931,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "could you live without me?",
+        "url": "https://open.spotify.com/album/4a5vIpjYUkx13c0aw47G6x"
+      },
+      "artists": [
+        {
+          "name": "Altero",
+          "url": "https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "could you live without me?",
+      "url": "https://open.spotify.com/track/6oKkCja08ntvpxY7IIETQY"
+    },
+    {
+      "album": {
         "name": "Couldn't Live",
         "url": "https://open.spotify.com/album/1uk2drGpdLgw7b6we7lNkD"
       },
@@ -7396,6 +7484,24 @@
       "duration_ms": 173333,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/55c4qnp1Ygg8SdLAiRlizw"
+    },
+    {
+      "album": {
+        "name": "Don't give up on us",
+        "url": "https://open.spotify.com/album/24bupj5eCYVfbWGYoQ2i8d"
+      },
+      "artists": [
+        {
+          "name": "Does it matter",
+          "url": "https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154761,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/7H0E4bh49bD4Clkv2tCD6c"
     },
     {
       "album": {
@@ -9151,6 +9257,28 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0oTsMKAQtd12GMfknp2SAZ"
+      },
+      "artists": [
+        {
+          "name": "Willow",
+          "url": "https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb"
+        },
+        {
+          "name": "just here.",
+          "url": "https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168017,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/08b5umefQHt5BReANUqkna"
+    },
+    {
+      "album": {
         "name": "Everything I Had",
         "url": "https://open.spotify.com/album/22RhOa0N1dV1bcUMEJ06Jo"
       },
@@ -9980,6 +10108,24 @@
       "duration_ms": 130562,
       "name": "Feel",
       "url": "https://open.spotify.com/track/0KzV1h6dL5lh11tfEztbxV"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/7MxxtC4OplTezT471iTlET"
+      },
+      "artists": [
+        {
+          "name": "Lust.",
+          "url": "https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/43BvA7QGieU6yQGWkZK4xw"
     },
     {
       "album": {
@@ -11432,6 +11578,28 @@
       "duration_ms": 154576,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/0NzD4IedhikYVitftPgutV"
+    },
+    {
+      "album": {
+        "name": "Games",
+        "url": "https://open.spotify.com/album/2giHsJOrs54PLUzkClUMim"
+      },
+      "artists": [
+        {
+          "name": "I VM",
+          "url": "https://open.spotify.com/artist/0NT8FVTBh4LC7l05Ynl8Hp"
+        },
+        {
+          "name": "Ash Blu",
+          "url": "https://open.spotify.com/artist/1cnh3Eair4ofgYfFDhwiw0"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/1wpZucDXKAv2M2lf27SBe0"
     },
     {
       "album": {
@@ -13536,7 +13704,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159310,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1JthwKBWWfJvPlqW2tsMqX"
@@ -20279,6 +20447,24 @@
     },
     {
       "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/7IlgAijBpXnGQ00hQGZct5"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155098,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/4Elv1QEupG92azr63ruTvJ"
+    },
+    {
+      "album": {
         "name": "Mind's Eye",
         "url": "https://open.spotify.com/album/4fmiBmsury5Xf82ys55BxE"
       },
@@ -20732,7 +20918,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 174947,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1YxY4X3rwswqYRp5XYha6g"
@@ -22424,6 +22610,24 @@
       "duration_ms": 119483,
       "name": "Nothing Compares",
       "url": "https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Compares",
+        "url": "https://open.spotify.com/album/0Lm6QN0OLtLkPjcKe4rA1h"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159399,
+      "name": "Nothing Else Compares",
+      "url": "https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS"
     },
     {
       "album": {
@@ -28637,6 +28841,24 @@
     },
     {
       "album": {
+        "name": "Still, Somehow...",
+        "url": "https://open.spotify.com/album/2o2U9p0ynJk4ElE90TFqcE"
+      },
+      "artists": [
+        {
+          "name": "Keymos",
+          "url": "https://open.spotify.com/artist/3jYmochIImw0vubNZp6aBA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Still, Somehow...",
+      "url": "https://open.spotify.com/track/6FQ5DjQcO4CzEHvulw0wxK"
+    },
+    {
+      "album": {
         "name": "Stole The Show",
         "url": "https://open.spotify.com/album/3JhPrgL6Pq0xNBfw6CqK6u"
       },
@@ -30078,6 +30300,28 @@
       "duration_ms": 175826,
       "name": "Taking My Time",
       "url": "https://open.spotify.com/track/56m2BJy4AD0KFUeZiLWe1m"
+    },
+    {
+      "album": {
+        "name": "Taking Wing",
+        "url": "https://open.spotify.com/album/2XsjobWXIqE1d6nd2URlVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        },
+        {
+          "name": "k\u00f8hvt",
+          "url": "https://open.spotify.com/artist/7HHOIV7VtXL6hgacfGdOxc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172870,
+      "name": "Taking Wing",
+      "url": "https://open.spotify.com/track/23JjdVaDt9QERDaBwk9TSV"
     },
     {
       "album": {
@@ -32499,6 +32743,28 @@
     },
     {
       "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Dti3KeZz50wu9IDDsF6cu"
+      },
+      "artists": [
+        {
+          "name": "Dalvay",
+          "url": "https://open.spotify.com/artist/5Gf6NzwAaQZ9iaQHqheOct"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/2Ybg5AUKWzruBO6OYLpsfV"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/4BfTUgsqBxb3uB3qnXuvZj"
       },
@@ -32982,6 +33248,28 @@
       "duration_ms": 162162,
       "name": "Was It All A Dream",
       "url": "https://open.spotify.com/track/3htgrtRzHsysWYFI3GcA3G"
+    },
+    {
+      "album": {
+        "name": "Wash Over Me",
+        "url": "https://open.spotify.com/album/6odYrnz0GtbrFPtrbbaEH1"
+      },
+      "artists": [
+        {
+          "name": "Tw\u00f8Frame",
+          "url": "https://open.spotify.com/artist/1r38U36ewtShFcE5LTpXsw"
+        },
+        {
+          "name": "Kaphy",
+          "url": "https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138459,
+      "name": "Wash Over Me",
+      "url": "https://open.spotify.com/track/0mMTs6arzqz1p7IB82y17Z"
     },
     {
       "album": {

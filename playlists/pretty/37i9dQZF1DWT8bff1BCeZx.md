@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,583 likes - 108 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,591 likes - 108 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 6 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 7 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 8 | [I Pray You Know The Love Of Jesus](https://open.spotify.com/track/6CugPKmjJNGAw18CJnvoRK) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [I Pray You Know The Love Of Jesus](https://open.spotify.com/album/5Vbxsn75W3LYBTTyooUjeu) | 2:11 |
-| 9 | [Track 8](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 0:00 |
+| 9 | [Promises](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 3:10 |
 | 10 | [Rubicon](https://open.spotify.com/track/2duDFhDtjWH6m5KBpSHAa7) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Rubicon](https://open.spotify.com/album/6HCANn0QUmNGYlTJ5x2DCW) | 2:34 |
 | 11 | [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 |
 | 12 | [Jehovah Move](https://open.spotify.com/track/6qW4DOv4LVcjIuP96YTMX3) | [Sikaflames](https://open.spotify.com/artist/1g45lpGTrdvpcNlQ3ZQnRg) | [Jehovah Move](https://open.spotify.com/album/6BZRvHDc4aHW40nIjr5mBm) | 3:41 |

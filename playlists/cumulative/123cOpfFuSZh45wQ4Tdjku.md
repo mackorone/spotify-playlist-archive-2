@@ -4,7 +4,7 @@
 
 > mostly furry
 
-529 songs - 1 day 1 hr 34 min
+531 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,8 @@
 | [TEETH!](https://open.spotify.com/track/66toz99GOBp6vjwFtgxwUe) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [TEETH!](https://open.spotify.com/album/2cEZvphw7p46uJlGZ5ODuo) | 1:20 | 2026-07-17 |  |
 | [Telephone](https://open.spotify.com/track/5TVzH4g2XBSMP6Ys9vrTt4) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:25 | 2024-05-15 |  |
 | [Terminal 18](https://open.spotify.com/track/2YU6SokpvO9InO0Krx4EHt) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:49 | 2024-12-07 |  |
+| [THE ANTIHUMAN](https://open.spotify.com/track/2PLUQi0nRbx5lT2ncSJYYG) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [THE ANTIHUMAN](https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq) | 3:50 | 2026-09-05 |  |
+| [THE ANTIHUMAN \- Instrumental](https://open.spotify.com/track/2RYTnXmYAtGCKOCqUdtJul) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [THE ANTIHUMAN](https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq) | 3:50 | 2026-09-05 |  |
 | [The Bad End](https://open.spotify.com/track/2t9WfgABrzFz8mf1mneGaq) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:11 | 2024-12-24 |  |
 | [The Bass Drop](https://open.spotify.com/track/7Ch2IYLjfPPwz9x3eyhUAa) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 3:52 | 2023-11-20 |  |
 | [The Best Thing That Happened](https://open.spotify.com/track/4sCvVH0FU9lbudn3pOgexV) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:04 | 2024-07-19 |  |

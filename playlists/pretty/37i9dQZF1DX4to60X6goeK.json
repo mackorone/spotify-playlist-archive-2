@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76538,
+  "num_followers": 76550,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 202971,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Onslaught / Shufflin\u2019",
-        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "BODY DROP (Won't Stop)",
         "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 224914,
       "name": "BODY DROP (Won't Stop)",
       "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "Onslaught / Shufflin\u2019",
+        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
-      },
-      "artists": [
-        {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Sientelo (Sota & Circadian Remix)",
         "url": "https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 237257,
       "name": "Sientelo - Sota & Circadian Remix",
       "url": "https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+      },
+      "artists": [
+        {
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -523,6 +523,22 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -587,22 +603,6 @@
       "duration_ms": 222171,
       "name": "Do You",
       "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Feel My Love",
         "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 202971,
       "name": "Left 2 Right",
       "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
-        }
-      ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "added_at": "2026-08-20 13:38:48",

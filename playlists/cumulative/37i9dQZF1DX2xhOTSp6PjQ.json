@@ -847,6 +847,36 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/2Ivj87ZpYPeIt57s4kgrsZ"
+      },
+      "artists": [
+        {
+          "name": "Zulu Queens",
+          "url": "https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Feza",
+          "url": "https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261076,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv"
+    },
+    {
+      "album": {
         "name": "Ziwangale",
         "url": "https://open.spotify.com/album/4EYQ2Ip3Ki1fXE8llzqlJt"
       },
@@ -2532,7 +2562,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 206715,
       "name": "Iso Ngeso",
       "url": "https://open.spotify.com/track/5cbFUY0lSPDaGxuDbEUEBa"
@@ -3437,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "Kuthathe Konke",
+        "url": "https://open.spotify.com/album/6fO3fkdNELRirJzXjsaOle"
+      },
+      "artists": [
+        {
+          "name": "Shwi No Mtekhala",
+          "url": "https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq"
+        },
+        {
+          "name": "Maphungula IzinganeZoma",
+          "url": "https://open.spotify.com/artist/3wKS23XCfo0yYvTy4DVlcu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296001,
+      "name": "Ngabona Amathanga Amhlophe (feat. Maphungula IzinganeZoma)",
+      "url": "https://open.spotify.com/track/2HtiCtSUZKbmWV9kwQilhj"
+    },
+    {
+      "album": {
         "name": "Greatest Moments Of",
         "url": "https://open.spotify.com/album/7j6pm8LrgP1BUfkc1UEu6H"
       },
@@ -3488,7 +3540,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 339498,
       "name": "NGAGIYA NGAGIYA",
       "url": "https://open.spotify.com/track/5l7buObzkuqmfXzPovpRXF"
@@ -4808,7 +4860,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 264724,
       "name": "SONGENA NGODLAME",
       "url": "https://open.spotify.com/track/15Bz72dEexfEuWTF5sZJjv"
@@ -5260,6 +5312,32 @@
       "duration_ms": 294706,
       "name": "Ukuganwa",
       "url": "https://open.spotify.com/track/65tm6Jze8PbRRIwUgJt5HF"
+    },
+    {
+      "album": {
+        "name": "NGIYABABA",
+        "url": "https://open.spotify.com/album/2xgOJRD7jYdTIuOA067oKB"
+      },
+      "artists": [
+        {
+          "name": "MALIBONGWE",
+          "url": "https://open.spotify.com/artist/17YfaoJ6a8qfUcYPvNg9jD"
+        },
+        {
+          "name": "UMnotho",
+          "url": "https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd"
+        },
+        {
+          "name": "USduh Dladla",
+          "url": "https://open.spotify.com/artist/4ByrLNabomBA9SoJKeA3Pr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196132,
+      "name": "UKUK'THANDA YEBO (feat. UMNOTHO & USDUH DLADLA)",
+      "url": "https://open.spotify.com/track/3uSZxqnUC2jcvdAgnZtiMu"
     },
     {
       "album": {

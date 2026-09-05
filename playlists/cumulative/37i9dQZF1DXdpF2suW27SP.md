@@ -2,7 +2,7 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Phoenix Rdc entram na zona.
+> Phoenix Rdc entra na zona.
 
 1,070 songs - 2 day 8 hr 19 min
 

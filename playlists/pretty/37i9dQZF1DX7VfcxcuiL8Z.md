@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Queens of the Stone Age
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,374 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,374 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 7 | [NOTHING BETTER THAN THIS](https://open.spotify.com/track/2TjPB2mMfxORhUkJYJ9rj8) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [NOTHING BETTER THAN THIS](https://open.spotify.com/album/78D6ZKU4ejLoZF7ghxaqTP) | 2:38 |
 | 8 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 9 | [Welcome to My Brain](https://open.spotify.com/track/3ED4oFhoGJunbyTkUaFQhc) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Welcome to My Brain](https://open.spotify.com/album/3qCVhnaFmVkuHr7Wrcdo6S) | 4:18 |
-| 10 | [Track 11](https://open.spotify.com/track/13sY6bCLjSyGvpEBTbrNpM) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Truth or Consequence \(Live from El Coyote\)](https://open.spotify.com/album/5kSISO8iA676CFlKo2fU0R) | 0:00 |
+| 10 | [Little Bit Punk, Little Bit Country \- Live from El Coyote](https://open.spotify.com/track/13sY6bCLjSyGvpEBTbrNpM) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Truth or Consequence \(Live from El Coyote\)](https://open.spotify.com/album/5kSISO8iA676CFlKo2fU0R) | 2:41 |
 | 11 | [Old Friend](https://open.spotify.com/track/4ww9k36wWGrnkt0W5Y8Ra4) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Old Friend](https://open.spotify.com/album/7Mjt7OtR5rXu9lQ5I46m0z) | 3:45 |
 | 12 | [Promise](https://open.spotify.com/track/2YQx9jZoT0nXoT3w3msqPZ) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Peace When I'm Dead](https://open.spotify.com/album/35En7DlVdpWb1hQPe7Hcpt) | 3:42 |
 | 13 | [Baby Kool \(Evelyn\)](https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Baby Kool \(Evelyn\)](https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ) | 3:44 |

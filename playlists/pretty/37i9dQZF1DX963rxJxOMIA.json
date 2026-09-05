@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante como Ryan Castro y Feid. ",
-  "num_followers": 222820,
+  "num_followers": 222838,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbyYj6ZsFNa6md1A9TAOCmReVPX",
+  "snapshot_id": "AAAAAHnl2ujp3EZ86JaZeVXQlJlPYmwO",
   "tracks": [
     {
       "added_at": "2026-08-07 04:59:13",
@@ -27,26 +27,6 @@
       "duration_ms": 156631,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
-    },
-    {
-      "added_at": "2026-08-04 22:54:02",
-      "album": {
-        "name": "La Mam\u00e1 de Dora",
-        "url": "https://open.spotify.com/album/4KXwIGjfaImTnLAQMn5jAS"
-      },
-      "artists": [
-        {
-          "name": "GeezyDee",
-          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
-        },
-        {
-          "name": "Bravvs",
-          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "La Mam\u00e1 de Dora",
-      "url": "https://open.spotify.com/track/33TYe1fkcybaqnIV0fKlPh"
     },
     {
       "added_at": "2026-08-21 04:59:11",
@@ -89,6 +69,42 @@
       "url": "https://open.spotify.com/track/6XbvK6wsNMblG8wYlFMSxZ"
     },
     {
+      "added_at": "2026-09-04 04:59:32",
+      "album": {
+        "name": "A Xon De Que",
+        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
+    },
+    {
+      "added_at": "2026-09-04 04:59:32",
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 212857,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
+    },
+    {
       "added_at": "2026-08-07 04:59:13",
       "album": {
         "name": "Mano al piso remix",
@@ -111,6 +127,26 @@
       "duration_ms": 184106,
       "name": "Mano al piso remix",
       "url": "https://open.spotify.com/track/4CibTBydFDLzQKyg6Vtr23"
+    },
+    {
+      "added_at": "2026-09-04 04:59:32",
+      "album": {
+        "name": "Paroliguelido",
+        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Paroliguelido",
+      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
     },
     {
       "added_at": "2026-08-21 04:59:11",
@@ -153,26 +189,6 @@
       "url": "https://open.spotify.com/track/2FNmcj4i3DHZLWB1Idx1H3"
     },
     {
-      "added_at": "2026-07-10 04:59:17",
-      "album": {
-        "name": "OMERTA",
-        "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Dalmation",
-      "url": "https://open.spotify.com/track/0vKudmr3zHkdAsBMoKXa3L"
-    },
-    {
       "added_at": "2026-07-17 04:59:09",
       "album": {
         "name": "Isla Bonita",
@@ -187,26 +203,6 @@
       "duration_ms": 164705,
       "name": "Isla Bonita",
       "url": "https://open.spotify.com/track/52I53kGSl3G6uoR1Xk6HzX"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Dongo",
-          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
-        }
-      ],
-      "duration_ms": 155265,
-      "name": "SANKA",
-      "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
     },
     {
       "added_at": "2026-06-18 18:58:57",
@@ -563,26 +559,6 @@
       "duration_ms": 213919,
       "name": "PASI\u00d3N Y SEXO",
       "url": "https://open.spotify.com/track/4pjkZyNZnOJEPpBmzOqTC2"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "TRINIDAD BENDITA",
-        "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "AMISTA",
-      "url": "https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo"
     },
     {
       "added_at": "2026-06-18 18:58:57",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: 6LACK",
+  "description": "Chillout hip-hop vibes. Cover: Wale",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 213812,
       "name": "1 Chance",
       "url": "https://open.spotify.com/track/7xO17adfb1WLRTD626Qdyh"
@@ -4115,7 +4115,7 @@
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 185809,
+      "duration_ms": 167741,
       "name": "Blame On Me",
       "url": "https://open.spotify.com/track/0xVjpLglIt7Q5JnASjGJYQ"
     },
@@ -5522,7 +5522,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 174000,
       "name": "Can We Just",
       "url": "https://open.spotify.com/track/5AIGohUSnJO7Eoj1OuB8I8"
@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 173856,
       "name": "DARK AURA",
       "url": "https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs"
@@ -9548,6 +9548,24 @@
       "duration_ms": 154288,
       "name": "empty without you",
       "url": "https://open.spotify.com/track/5NlsX6KtB2gVn7UDiv2tx6"
+    },
+    {
+      "album": {
+        "name": "Enjoy The Ride",
+        "url": "https://open.spotify.com/album/25QqqAhztJenmHAsWZKN0w"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "Enjoy The Ride",
+      "url": "https://open.spotify.com/track/5GYnn0spLjc3fKkKC4nnIb"
     },
     {
       "album": {
@@ -19631,6 +19649,28 @@
     },
     {
       "album": {
+        "name": "MONDAY TO SUNDAY",
+        "url": "https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187614,
+      "name": "MONDAY TO SUNDAY",
+      "url": "https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D"
+    },
+    {
+      "album": {
         "name": "Money For Dummies",
         "url": "https://open.spotify.com/album/6hzpnXuANSTGRpIztwRjFa"
       },
@@ -20308,6 +20348,40 @@
       "duration_ms": 264048,
       "name": "Need It (feat. Paul Wall, Devin the Dude & DRODi)",
       "url": "https://open.spotify.com/track/111vFXHqMq5WMA2aB5Ep1E"
+    },
+    {
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3pGQTcMqZ0ZTHNLr0knMpL"
+      },
+      "artists": [
+        {
+          "name": "Nyla Symone",
+          "url": "https://open.spotify.com/artist/6xDY1JCEFAt0CaMjuOjooi"
+        },
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "Honor Roll",
+          "url": "https://open.spotify.com/artist/1ZDgFAx9zmilOjVf9LpBcZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197527,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/70r2s5E9B3ZNH6d6enXGLY"
     },
     {
       "album": {
@@ -23264,6 +23338,24 @@
       "duration_ms": 109638,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey"
+    },
+    {
+      "album": {
+        "name": "POMONA",
+        "url": "https://open.spotify.com/album/3My1oZHOzp0PjzxAZaY7Gs"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "POMONA",
+      "url": "https://open.spotify.com/track/31UvH8fWPyScyUYqNWZevL"
     },
     {
       "album": {
@@ -30902,7 +30994,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 146373,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/6AsmybAFQlHLaweN82xKFU"

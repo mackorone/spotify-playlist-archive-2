@@ -1,12 +1,12 @@
 {
-  "description": "New music from LISA, Ellie Goulding, Miley Cyrus,  AD\u00c9LA, Zaki Yamani, and many more!",
-  "num_followers": 75469,
+  "description": "New music from LISA, Ellie Goulding, Miley, JISOO,  AD\u00c9LA, Zaki Yamani, and many more!",
+  "num_followers": 75615,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPOukr7o/uzLVGiX2rJm0lrIH2+",
+  "snapshot_id": "AAAAAGqnFmNGPoBsUJqUPM0+akB01AoR",
   "tracks": [
     {
       "added_at": "2026-09-04 00:03:44",
@@ -73,8 +73,24 @@
         }
       ],
       "duration_ms": 216247,
-      "name": "CAN I WATCH YOU (feat. Pharrell)",
+      "name": "CAN I WATCH YOU (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1"
+    },
+    {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "added_at": "2026-09-03 16:00:31",
@@ -120,8 +136,8 @@
           "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 223000,
+      "name": "Racing To You",
       "url": "https://open.spotify.com/track/2oAsHYm8x4oEaqeC8vRIx6"
     },
     {
@@ -139,6 +155,22 @@
       "duration_ms": 175000,
       "name": "FLOAT",
       "url": "https://open.spotify.com/track/6VohXisU3ybT3INqyKCJXD"
+    },
+    {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "OUTWEST",
+        "url": "https://open.spotify.com/album/2zVQGjF89IWIFQQVNT3SPG"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 198845,
+      "name": "OUTWEST",
+      "url": "https://open.spotify.com/track/4Bn4b4N7rWCqPlKfEZi6PB"
     },
     {
       "added_at": "2026-09-03 16:00:31",
@@ -334,10 +366,14 @@
         {
           "name": "Ivoris",
           "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 168277,
+      "name": "Lipgloss",
       "url": "https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI"
     },
     {
@@ -527,6 +563,22 @@
     {
       "added_at": "2026-09-03 16:00:31",
       "album": {
+        "name": "\u829d\u9ebb\u5c0f\u4e8b (\u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2)",
+        "url": "https://open.spotify.com/album/5BXdzBqfhKDk3qYeaRxk0l"
+      },
+      "artists": [
+        {
+          "name": "\u9cf3\u5c0f\u5cb3",
+          "url": "https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh"
+        }
+      ],
+      "duration_ms": 277159,
+      "name": "\u829d\u9ebb\u5c0f\u4e8b - \u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2",
+      "url": "https://open.spotify.com/track/0bhJSlbRLCo8sOeCIMy83v"
+    },
+    {
+      "added_at": "2026-09-03 16:00:31",
+      "album": {
         "name": "\u966a\u6211\u8aaa\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/03ayQq35nkTPfAMgpw4AQc"
       },
@@ -568,8 +620,8 @@
           "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 177474,
+      "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/03HDgf6dcLdjVwJqouJHWq"
     },
     {
@@ -700,8 +752,8 @@
           "url": "https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 164250,
+      "name": "Aku Merindu",
       "url": "https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU"
     },
     {
@@ -993,6 +1045,22 @@
       "url": "https://open.spotify.com/track/4oFbsbhbgltKXO205qcoj3"
     },
     {
+      "added_at": "2026-09-04 04:22:13",
+      "album": {
+        "name": "Pria Manis Kalimantan",
+        "url": "https://open.spotify.com/album/3Q62t3fbu1ljKQJesX75d7"
+      },
+      "artists": [
+        {
+          "name": "Putri Jasmin",
+          "url": "https://open.spotify.com/artist/6Pl3FO3ZfzNMhQtHWnXe1O"
+        }
+      ],
+      "duration_ms": 204469,
+      "name": "Pria Manis Kalimantan",
+      "url": "https://open.spotify.com/track/3UtAvOfY6LfYTyT0hVKUQb"
+    },
+    {
       "added_at": "2026-09-03 16:00:31",
       "album": {
         "name": "Aku Tak Bersalah",
@@ -1161,6 +1229,22 @@
       "url": "https://open.spotify.com/track/0u60HtheyIq6KdN2xcrj3p"
     },
     {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "WAITING ON YOU",
+        "url": "https://open.spotify.com/album/42ybhST6hSl201euMwRTSt"
+      },
+      "artists": [
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "duration_ms": 199436,
+      "name": "WAITING ON YOU",
+      "url": "https://open.spotify.com/track/703NtBYu8Yr6WIpVMXumQ2"
+    },
+    {
       "added_at": "2026-09-03 16:00:31",
       "album": {
         "name": "Home [The Seasons : Sung Si-kyung's Ear Candy]",
@@ -1191,6 +1275,22 @@
       "duration_ms": 165000,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/381koCmG9eapKdQcRnlRJO"
+    },
+    {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "The Phase",
+        "url": "https://open.spotify.com/album/1ylTJqv2qOK1RjNHNRLkcO"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6o6wFh2PTFJbcM8mxTa30C"
     },
     {
       "added_at": "2026-09-03 16:00:31",
@@ -1469,6 +1569,30 @@
       "url": "https://open.spotify.com/track/3SieIeUVVcNouzPcsj31QJ"
     },
     {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "Reign",
+        "url": "https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm"
+    },
+    {
       "added_at": "2026-09-03 16:00:31",
       "album": {
         "name": "LOCKED IN",
@@ -1485,7 +1609,7 @@
         }
       ],
       "duration_ms": 116571,
-      "name": "GASS (feat.Travis Scott)",
+      "name": "GASS (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y"
     },
     {
@@ -1635,6 +1759,22 @@
       "duration_ms": 166797,
       "name": "Anaheim Star",
       "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
+    },
+    {
+      "added_at": "2026-09-04 04:03:14",
+      "album": {
+        "name": "Fxxkin' Rockstar",
+        "url": "https://open.spotify.com/album/4adIoclLgRdXPrxpZWUlgD"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Fxxkin' Rockstar",
+      "url": "https://open.spotify.com/track/41BlAVvKJFXFOVOcSiVFdF"
     },
     {
       "added_at": "2026-09-03 16:00:31",

@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184933,
       "name": "Day-O (The Banana Boat Song)",
       "url": "https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 201110,
       "name": "Ghost in My House",
       "url": "https://open.spotify.com/track/0RKlpEAPELRwO3LbCX6Sgh"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 125884,
       "name": "Halloween Boogie Dance",
       "url": "https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY"
@@ -2792,6 +2792,28 @@
       "duration_ms": 116005,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1"
+    },
+    {
+      "album": {
+        "name": "I Spy",
+        "url": "https://open.spotify.com/album/0IeJleeqyBwJM4gO3okax2"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192740,
+      "name": "I Spy",
+      "url": "https://open.spotify.com/track/4Hk8jvzR6qSoNXkGHbliM2"
     },
     {
       "album": {
@@ -3740,7 +3762,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193373,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/5VnJN193do97HJy4aSY92j"
@@ -5480,6 +5502,24 @@
       "duration_ms": 166322,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/5891WpczuJHCubTj1uMFnI"
+    },
+    {
+      "album": {
+        "name": "The Ghosts Go Haunting",
+        "url": "https://open.spotify.com/album/0QW285KnkcTloVxTEtU0m8"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129999,
+      "name": "The Ghosts Go Haunting",
+      "url": "https://open.spotify.com/track/1iejTO4ruJJltPMtlrTdUj"
     },
     {
       "album": {

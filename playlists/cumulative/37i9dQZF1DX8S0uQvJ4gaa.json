@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Carly Pearce",
+  "description": "Break them in, wear them out. Cover: Kassi Ashton",
   "name": "New Boots",
   "tracks": [
     {
@@ -5639,6 +5639,28 @@
     },
     {
       "album": {
+        "name": "Boots (feat. Shania Twain)",
+        "url": "https://open.spotify.com/album/4uwwxmoZWDLb5lbM8aDnGf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Boots (feat. Shania Twain)",
+      "url": "https://open.spotify.com/track/01250QTCDYXoXq6ikHoc4R"
+    },
+    {
+      "album": {
         "name": "Something To Say",
         "url": "https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ"
       },
@@ -6282,7 +6304,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202196,
       "name": "Bratmobile",
       "url": "https://open.spotify.com/track/1rgDhCTBNIyuxA9K4vFBKA"
@@ -8451,6 +8473,24 @@
     },
     {
       "album": {
+        "name": "Chrome Pony",
+        "url": "https://open.spotify.com/album/0NhxATfJ9luYFiQ8xzy0S4"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Chrome Pony",
+      "url": "https://open.spotify.com/track/3W4TmuyzcMWz3iyVhCMmm2"
+    },
+    {
+      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },
@@ -8830,7 +8870,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 207778,
       "name": "Clothesline",
       "url": "https://open.spotify.com/track/1fj3OcoKr7IVemETrPCFdO"
@@ -9624,7 +9664,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 177236,
       "name": "Country Friday Nights",
       "url": "https://open.spotify.com/track/4y8LCLrnSSb1pjRZunIIke"
@@ -11206,7 +11246,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 216613,
       "name": "Dear Big City",
       "url": "https://open.spotify.com/track/2Lez1JTnx08etnKVFz0zQU"
@@ -13425,6 +13465,24 @@
     },
     {
       "album": {
+        "name": "Drive Me Around",
+        "url": "https://open.spotify.com/album/0wDCB90xsRsDwHZ7juKDVu"
+      },
+      "artists": [
+        {
+          "name": "Maddie Font",
+          "url": "https://open.spotify.com/artist/15ZhybxXDhvrIFloE2oFLx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Drive Me Around",
+      "url": "https://open.spotify.com/track/0t6JMQfTLRWsXBntk62zDd"
+    },
+    {
+      "album": {
         "name": "Drive You Out Of My Mind",
         "url": "https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv"
       },
@@ -14222,6 +14280,24 @@
       "duration_ms": 178323,
       "name": "Every Girl in This Town",
       "url": "https://open.spotify.com/track/1TU7prccGLiAY0y59oa1at"
+    },
+    {
+      "album": {
+        "name": "Every Minute Of It",
+        "url": "https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208286,
+      "name": "Every Minute Of It",
+      "url": "https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V"
     },
     {
       "album": {
@@ -17353,6 +17429,24 @@
     },
     {
       "album": {
+        "name": "Girl From Louisiana",
+        "url": "https://open.spotify.com/album/7lItcVz3HyWaqculveT7So"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Girl From Louisiana",
+      "url": "https://open.spotify.com/track/7en28TQnEezIO4i2AvMPfD"
+    },
+    {
+      "album": {
         "name": "Girl I Never Met",
         "url": "https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu"
       },
@@ -18594,7 +18688,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 183600,
       "name": "GOOD DAMN",
       "url": "https://open.spotify.com/track/2V9EhQkeYq5roocczdtTCO"
@@ -23124,7 +23218,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 222710,
       "name": "Home In Your Broken Heart",
       "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
@@ -24396,7 +24490,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193029,
       "name": "I Ain't No Cowboy",
       "url": "https://open.spotify.com/track/5OcF4vawklKyNnFs4eWX0o"
@@ -25957,6 +26051,24 @@
     },
     {
       "album": {
+        "name": "I Won't",
+        "url": "https://open.spotify.com/album/6IvxNs36zhE5UFSNC1Sxl5"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "I Won't",
+      "url": "https://open.spotify.com/track/3fovAdkpa74BGQCHBRse0u"
+    },
+    {
+      "album": {
         "name": "I Wonder",
         "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
       },
@@ -26358,6 +26470,28 @@
       "duration_ms": 187680,
       "name": "I'm On It",
       "url": "https://open.spotify.com/track/3HjtXqCMdMpmrUYoHIZU87"
+    },
+    {
+      "album": {
+        "name": "I'm Sorry But I Love You",
+        "url": "https://open.spotify.com/album/70ZSfvPwbX3ThC2nxopjdm"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242014,
+      "name": "I'm Sorry But I Love You",
+      "url": "https://open.spotify.com/track/7AkoEenAhW8P6ucYlQSE7E"
     },
     {
       "album": {
@@ -26766,7 +26900,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 204622,
       "name": "If It Ain't Ours",
       "url": "https://open.spotify.com/track/2SpzGCL80I7QjfG2biFU6T"
@@ -27008,7 +27142,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 156390,
       "name": "If You're Lucky",
       "url": "https://open.spotify.com/track/6Qy5z9NA0XMTR8Yuur1MjD"
@@ -27170,7 +27304,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 225698,
       "name": "In On It",
       "url": "https://open.spotify.com/track/3vpoghBdsykC0mK8yKizZj"
@@ -31825,6 +31959,24 @@
     },
     {
       "album": {
+        "name": "Made In A Bottle",
+        "url": "https://open.spotify.com/album/5UITiarbJBEceyWdo4gaR2"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171306,
+      "name": "Made In A Bottle",
+      "url": "https://open.spotify.com/track/3XxVB46IAWBOq4d4mjKFOQ"
+    },
+    {
+      "album": {
         "name": "Made It A Memory",
         "url": "https://open.spotify.com/album/5ZojbJskxTCjqKjzvrdxXK"
       },
@@ -32845,6 +32997,24 @@
     },
     {
       "album": {
+        "name": "Me Without My Hometown",
+        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Me Without My Hometown",
+      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
+    },
+    {
+      "album": {
         "name": "shot in the dark - Extended Sampler",
         "url": "https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ"
       },
@@ -33140,6 +33310,24 @@
       "duration_ms": 176461,
       "name": "Meet Me in the City",
       "url": "https://open.spotify.com/track/0swbLEe8Z5CKqvglG9zzmZ"
+    },
+    {
+      "album": {
+        "name": "Meet My Maker",
+        "url": "https://open.spotify.com/album/0A0DIC3tyM774NfCAqZajR"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152746,
+      "name": "Meet My Maker",
+      "url": "https://open.spotify.com/track/23syUsDtYthWfhb10Z3ZPb"
     },
     {
       "album": {
@@ -33974,6 +34162,24 @@
       "duration_ms": 183296,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW"
+    },
+    {
+      "album": {
+        "name": "Missing You Night",
+        "url": "https://open.spotify.com/album/0kHgfNK8pDrPW82hL8sthw"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Missing You Night",
+      "url": "https://open.spotify.com/track/7nhQoVf2U7e1b8nf4G8Evv"
     },
     {
       "album": {
@@ -39545,6 +39751,24 @@
     },
     {
       "album": {
+        "name": "Pistol",
+        "url": "https://open.spotify.com/album/2UTBaDpwFM1dvoWAqKsKzH"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Pistol",
+      "url": "https://open.spotify.com/track/1Vr3PUQcF2A7YrTWQiCtCr"
+    },
+    {
+      "album": {
         "name": "Platonic - EP",
         "url": "https://open.spotify.com/album/5PTYUWCgYe6GlmctKST07R"
       },
@@ -42609,6 +42833,24 @@
     },
     {
       "album": {
+        "name": "Faded Polaroids (Deluxe)",
+        "url": "https://open.spotify.com/album/0oVz0ktCGg3Kx6gOApDNsa"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217608,
+      "name": "Say It Sober",
+      "url": "https://open.spotify.com/track/0q2V3cpOd1nLTTZHz8nAPc"
+    },
+    {
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/0MS2yJBndggAEHUtlz83MS"
       },
@@ -43286,7 +43528,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 172066,
       "name": "She Hit The Road Jack",
       "url": "https://open.spotify.com/track/6O0lsGXOyCDOSzQrB6Sa2x"
@@ -44604,7 +44846,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 188146,
       "name": "SMOKE I'VE KNOWN",
       "url": "https://open.spotify.com/track/7vymnCXzsnDeQysDha7OHI"
@@ -47409,6 +47651,24 @@
     },
     {
       "album": {
+        "name": "Strangers & Angels",
+        "url": "https://open.spotify.com/album/00glDVK12kgbARdnygXttm"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200847,
+      "name": "Strangers & Angels",
+      "url": "https://open.spotify.com/track/3ywxWr4VRS6UQtmXp1gqaU"
+    },
+    {
+      "album": {
         "name": "Strawberry Wine And A Cheap Six Pack",
         "url": "https://open.spotify.com/album/5yvBAGPbj3Hu0vxLu8jDoR"
       },
@@ -49252,7 +49512,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 243960,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW"
@@ -49689,6 +49949,28 @@
     },
     {
       "album": {
+        "name": "The Moon And The Wolf",
+        "url": "https://open.spotify.com/album/2VJ3IpuupWWqGodIXzzXhJ"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        },
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188303,
+      "name": "The Moon And The Wolf",
+      "url": "https://open.spotify.com/track/3qJZpn2x6LjUoxZaqlObuI"
+    },
+    {
+      "album": {
         "name": "Broken View",
         "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
       },
@@ -49968,6 +50250,24 @@
       "duration_ms": 167884,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/1CswVu0zSqxDcwfXmegmeK"
+    },
+    {
+      "album": {
+        "name": "The Way That It Wasn\u2019t",
+        "url": "https://open.spotify.com/album/7iaQaNp61VXLEhPdoIvvAO"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249215,
+      "name": "The Way That It Wasn\u2019t",
+      "url": "https://open.spotify.com/track/4c5l3LR7lWFtvwKVhJD46P"
     },
     {
       "album": {
@@ -53916,7 +54216,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 182866,
       "name": "We Can't Be Friends",
       "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
@@ -56696,7 +56996,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 201973,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6rdVVTP8Fs5AmMYanwCrCc"
@@ -57894,7 +58194,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171377,
       "name": "Wreck My Night",
       "url": "https://open.spotify.com/track/3SwXtyBs8JS4h03oBgCUVx"

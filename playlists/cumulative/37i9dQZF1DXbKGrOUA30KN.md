@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: JAS
 
-725 songs - 1 day 8 hr 33 min
+726 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [es ist ok </3](https://open.spotify.com/track/0hXG2Pq1fserRdxvLw3LvQ) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [es ist ok </3](https://open.spotify.com/album/1ECKaVy2brYoXKHgc9ZjVB) | 2:37 | 2026-02-26 | 2026-04-17 |
 | [Es tut mir so weh](https://open.spotify.com/track/4INGbWpmGG6CL6qwF2P6tI) | [Adrian Aslani](https://open.spotify.com/artist/2bFfSoUJZ0oACwo0FFM7ll) | [Es tut mir so weh](https://open.spotify.com/album/1Bj490275ZJHtwt4AdddB8) | 2:15 | 2026-02-05 | 2026-02-27 |
 | [es tut mir sooo leid](https://open.spotify.com/track/1eE5yIZfsT6gpSDURe4WEC) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [es tut mir sooo leid](https://open.spotify.com/album/2ZjHpvsOjDUtapQI9Wgzxq) | 2:33 | 2026-06-18 | 2026-07-10 |
+| [es wird alles gut](https://open.spotify.com/track/7nrj5WCNiTjzf0ppQX22qL) | [LEVKA](https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88) | [es wird alles gut](https://open.spotify.com/album/4GdnYEQ7jAJ9YElnKWJUpM) | 2:43 | 2026-09-04 |  |
 | [Evergreen](https://open.spotify.com/track/15IyELrdg32cT3N1NQksUV) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Evergreen](https://open.spotify.com/album/10P9sY4n3L1duh6qWByMN5) | 2:29 | 2025-11-06 | 2026-01-15 |
 | [Explaining Men](https://open.spotify.com/track/5umPRKheAMtcTjdrYRHBd7) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Explaining Men](https://open.spotify.com/album/1X8ehV7zFRKkN46jp4ZYdo) | 2:27 | 2026-06-18 | 2026-08-14 |
 | [f u 4ever](https://open.spotify.com/track/0SMBlIwsSoMEAjOjRXcJbV) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [f u 4ever](https://open.spotify.com/album/4YEZmC5rMKbKcUsTathsbu) | 2:35 | 2026-04-16 | 2026-06-12 |

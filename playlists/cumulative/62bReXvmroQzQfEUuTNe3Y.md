@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-596 songs - 1 day 8 hr 33 min
+597 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Heal My Love](https://open.spotify.com/track/5E0gUkTKnFgJ7KmMMFEQrB) | [Matvey Emerson](https://open.spotify.com/artist/4n7LqAJhu3k6rrKMu3VfDa), [Dante](https://open.spotify.com/artist/1C7uc1Nw5y6ZHNhnuMpK5u) | [Heal My Love](https://open.spotify.com/album/3uR3QpSQvpwPqfm74gsigh) | 2:21 | 2021-07-02 | 2026-01-06 |
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/3xrSAFB6cXBHwLylbCP4sr) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/0SrZP210qeRNZd2G3ciNVt) | 3:29 | 2020-09-13\* | 2022-06-25 |
 | [Heart Back](https://open.spotify.com/track/0OSgkdebxTRNXLwwzD2b8s) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Heart Back](https://open.spotify.com/album/1hPoZ0YpV7J1w1jmvF5vxg) | 2:44 | 2023-02-24 | 2026-01-06 |
+| [Heart Beats Faster](https://open.spotify.com/track/3ZJPi8oSzVE9Mf21C1Gxqw) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Heart Beats Faster](https://open.spotify.com/album/22VBoxHXCjfATdDK6md4nK) | 2:28 | 2026-09-04 |  |
 | [Heartbeat](https://open.spotify.com/track/6RLBwMcxEX9QS2XYO7Xc52) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Are You Real?](https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4) | 2:28 | 2026-02-06 |  |
 | [Heartbeat \- Radio Edit](https://open.spotify.com/track/3OopyAH3nk4VTFmnwSfjDu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2) | [Heartbeat](https://open.spotify.com/album/13jdZ2XoM5twyRGqmN0h16) | 2:52 | 2021-12-11 | 2021-12-18 |
 | [Heartbeat Slow](https://open.spotify.com/track/4AEoF6pEqe4YTu2qMUERaT) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Heartbeat Slow](https://open.spotify.com/album/32Kyro8F4r6rCcVrVOwq0O) | 3:49 | 2024-04-26 | 2024-12-07 |
@@ -301,7 +302,7 @@
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-09 |  |
 | [Lost Time](https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Lost Time EP](https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX) | 3:40 | 2021-06-12 | 2021-07-17 |
 | [Love Is Just a Game](https://open.spotify.com/track/718NV3Ob8ZQNOytQfwYKSc) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Love Is Just a Game](https://open.spotify.com/album/3NSOZLHgbSkld6vtbDRxSE) | 2:30 | 2022-11-11 | 2025-01-04 |
-| [Love Language](https://open.spotify.com/track/2kII74W6BvQZSOwXBotukX) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/1zDkevWz3xdsqVAYbdANiN) | 3:18 | 2021-07-17 |  |
+| [Love Language](https://open.spotify.com/track/2kII74W6BvQZSOwXBotukX) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Love Language](https://open.spotify.com/album/1zDkevWz3xdsqVAYbdANiN) | 3:18 | 2021-07-17 | 2026-09-05 |
 | [Love Like That](https://open.spotify.com/track/5WliYG94HXFCo7RmYZ7bLE) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dani Poppitt](https://open.spotify.com/artist/2fSGqh4BJpl0T1LHtd9TQ8) | [Love Like That](https://open.spotify.com/album/5nu0DOF0xqGEuXEiYeHhHi) | 3:36 | 2020-09-13\* | 2021-03-06 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2021-03-06 | 2021-11-11 |
 | [Love Me The Same](https://open.spotify.com/track/4RDgkhNm5TJKW2Qe24OOYW) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Love Me The Same](https://open.spotify.com/album/0cvgtqHxieeN6OgxVvGAOo) | 3:44 | 2024-08-02 |  |

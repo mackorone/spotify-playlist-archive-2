@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127760,
+  "num_followers": 127755,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "El Rey del Norte",
-        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura",
-          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 279614,
       "name": "Vallenatos para el Cora: Obsesion Mi Estrella Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "El Rey del Norte",
+        "url": "https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ternura",
+          "url": "https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -827,22 +827,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Viernes De Pe\u00f1a",
-        "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
       },
       "artists": [
         {
-          "name": "Marcelo Gabriel",
-          "url": "https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf"
-        },
-        {
-          "name": "Sol Codas",
-          "url": "https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt"
+          "name": "Flou",
+          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
         }
       ],
-      "duration_ms": 203911,
-      "name": "Viernes De Pe\u00f1a",
-      "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
+      "duration_ms": 198840,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -867,18 +863,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
+        "name": "Viernes De Pe\u00f1a",
+        "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
       },
       "artists": [
         {
-          "name": "Flou",
-          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
+          "name": "Marcelo Gabriel",
+          "url": "https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf"
+        },
+        {
+          "name": "Sol Codas",
+          "url": "https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
+      "duration_ms": 203911,
+      "name": "Viernes De Pe\u00f1a",
+      "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

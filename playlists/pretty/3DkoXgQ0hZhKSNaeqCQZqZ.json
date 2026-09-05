@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1212,
+  "num_followers": 1215,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFwnTgNZyo9SSt59qkITNcQg986gyw",
+  "snapshot_id": "AAAFw0GMAMN77uTp552fBnnyc5D1dwSp",
   "tracks": [
+    {
+      "added_at": "2026-09-04 05:17:47",
+      "album": {
+        "name": "DRUG",
+        "url": "https://open.spotify.com/album/5wtETLQm5TUNJwhl8fnEll"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "DRUG",
+      "url": "https://open.spotify.com/track/2Q7pPuFjPq1ox862ry93nQ"
+    },
     {
       "added_at": "2026-08-27 04:23:02",
       "album": {

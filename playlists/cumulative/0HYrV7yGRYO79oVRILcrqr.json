@@ -3779,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "Fastlane",
+        "url": "https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Fastlane",
+      "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
+    },
+    {
+      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
       },
@@ -12526,6 +12544,24 @@
       "duration_ms": 231223,
       "name": "Where Is She Now?",
       "url": "https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq"
+    },
+    {
+      "album": {
+        "name": "Whipping Post",
+        "url": "https://open.spotify.com/album/4n5knYjuLjNul6QGGs90oi"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260603,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5gdEUCXrVE2CSTFArhHTPk"
     },
     {
       "album": {

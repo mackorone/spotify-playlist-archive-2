@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,586 likes - 103 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,581 likes - 103 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 102 | [When I think about you](https://open.spotify.com/track/09jyHsIH2M6rt3OFyM3hW5) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [OFF THE MAP](https://open.spotify.com/album/5UddYZEfHNUCra18jeZtUU) | 4:34 |
 | 103 | [Sunflower \(2026\)](https://open.spotify.com/track/7z9HeM2WZ2gzuvrKI2Wegu) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [The Gavy NJ : II](https://open.spotify.com/album/40dqb8JfQuNOOBEY6S3zoV) | 4:01 |
 
-Snapshot ID: `AAAAANdH2agXg2KEc0NLXHSCAdliHcPE`
+Snapshot ID: `AAAAAK2d7DGKUyqtofpWxcEgZTpTiGjy`

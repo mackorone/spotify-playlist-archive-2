@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 16695,
+  "num_followers": 16706,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "ETERNALT",
-        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
-      },
-      "artists": [
-        {
-          "name": "CLOSE YOUR EYES",
-          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "All My Poetry",
-      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "Rhapsody of Sadness",
         "url": "https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 235120,
       "name": "Rhapsody of Sadness",
       "url": "https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "ETERNALT",
+        "url": "https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "All My Poetry",
+      "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -679,38 +679,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Layback",
-      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
-        "name": "Day dream",
-        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Day dream",
-      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -731,18 +699,34 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Spring Breeze, Again (Original Soundtrack from WANNA ONE GO : Back to Base)",
-        "url": "https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg"
+        "name": "Day dream",
+        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Spring Breeze, Again",
-      "url": "https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco"
+      "duration_ms": 238000,
+      "name": "Day dream",
+      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -763,18 +747,18 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+        "name": "Spring Breeze, Again (Original Soundtrack from WANNA ONE GO : Back to Base)",
+        "url": "https://open.spotify.com/album/0K5oVVrkQKMOm5NhM8fwNg"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+      "duration_ms": 218000,
+      "name": "Spring Breeze, Again",
+      "url": "https://open.spotify.com/track/5Kbuqu5de3JY22BLNJBLco"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
       "artists": [
         {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5"
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -839,6 +823,22 @@
       "duration_ms": 238400,
       "name": "When Spring Comes",
       "url": "https://open.spotify.com/track/6vt4R4q5YL4M2cxl7o6pTe"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Because I Don't Love You",
-        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
-      },
-      "artists": [
-        {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Because I Don't Love You",
-      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "Let's Stay Well (My love X Roy Kim)",
         "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 258146,
       "name": "Let's Stay Well (My love X Roy Kim)",
       "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Love..What is it",
-        "url": "https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
       },
       "artists": [
         {
-          "name": "Zia",
-          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Love..What is it",
-      "url": "https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c"
+      "duration_ms": 243853,
+      "name": "Let's Say Goodbye",
+      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+        "name": "Love..What is it",
+        "url": "https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4"
       },
       "artists": [
         {
-          "name": "Parc Jae Jung",
-          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
         }
       ],
-      "duration_ms": 243853,
-      "name": "Let's Say Goodbye",
-      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+      "duration_ms": 225826,
+      "name": "Love..What is it",
+      "url": "https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -1231,6 +1231,26 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "LEE MU JIN",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Bye Bye (Feat. LEE MU JIN)",
+      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
         "name": "WSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 247386,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "LEE MU JIN",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Bye Bye (Feat. LEE MU JIN)",
-      "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
     },
     {
       "added_at": "2026-07-29 04:31:51",

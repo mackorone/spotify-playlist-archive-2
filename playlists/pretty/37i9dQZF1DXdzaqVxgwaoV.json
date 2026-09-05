@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 144204,
+  "num_followers": 144199,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Unica",
-        "url": "https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD"
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
       "artists": [
         {
-          "name": "Arelys Henao",
-          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 207124,
-      "name": "Se\u00f1or Prohibido",
-      "url": "https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9"
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Arelys Henao",
+          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
         }
       ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+      "duration_ms": 207124,
+      "name": "Se\u00f1or Prohibido",
+      "url": "https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
-      },
-      "artists": [
-        {
-          "name": "Romulo Caicedo",
-          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL"
+      },
+      "artists": [
+        {
+          "name": "Romulo Caicedo",
+          "url": "https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Macondo",
+        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 237369,
+      "name": "Macondo",
+      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Por Siempre, Vol. 5",
         "url": "https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 170566,
       "name": "Tumba Sin Doliente",
       "url": "https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Macondo",
-        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 237369,
-      "name": "Macondo",
-      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Mano a Mano",
-        "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
-      },
-      "artists": [
-        {
-          "name": "Los Relicarios",
-          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
-        }
-      ],
-      "duration_ms": 165640,
-      "name": "Mujer Traidora",
-      "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Relajos del Arriero",
         "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 143520,
       "name": "El Zapatero",
       "url": "https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Mano a Mano",
+        "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
+      },
+      "artists": [
+        {
+          "name": "Los Relicarios",
+          "url": "https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Mujer Traidora",
+      "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Amandonos",
-        "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
-      },
-      "artists": [
-        {
-          "name": "Los Coyotes",
-          "url": "https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "El Jinete Perdido",
-      "url": "https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los M\u00e1s Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 172240,
       "name": "Lejos del Tambo",
       "url": "https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Amandonos",
+        "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
+      },
+      "artists": [
+        {
+          "name": "Los Coyotes",
+          "url": "https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "El Jinete Perdido",
+      "url": "https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Maldita Traicion",
+      "url": "https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Otro Dia Sin Ti",
         "url": "https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "corridos prohibidos",
-        "url": "https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl"
-      },
-      "artists": [
-        {
-          "name": "Johan Mircelo",
-          "url": "https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "el principe",
-      "url": "https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Rep\u00edtela",
         "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Grandes Hits: Rodolfo Aicardi",
-        "url": "https://open.spotify.com/album/71j4EEfYaoeR1gACT0QCvd"
+        "name": "corridos prohibidos",
+        "url": "https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi Con Los Hispanos",
-          "url": "https://open.spotify.com/artist/1Gtxrj70lCbBUqzW01Ohtv"
+          "name": "Johan Mircelo",
+          "url": "https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr"
         }
       ],
-      "duration_ms": 226730,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/36Hsi77ifXxU6nxmgnzjWx"
+      "duration_ms": 216973,
+      "name": "el principe",
+      "url": "https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb"
     }
   ],
   "unique_name": "Viejoteca",

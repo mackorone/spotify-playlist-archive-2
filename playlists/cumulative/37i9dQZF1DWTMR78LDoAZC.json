@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/44ZyfDoNUrfoPvt69S4nTH"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "Beautiful Again",
+      "url": "https://open.spotify.com/track/7MdErJQx8vaWAm3icl7Gu6"
+    },
+    {
+      "album": {
         "name": "Before The World Was Big",
         "url": "https://open.spotify.com/album/0VGncmMQs6Cy7MOus51q3P"
       },
@@ -1438,6 +1456,24 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "album": {
+        "name": "Fanboy",
+        "url": "https://open.spotify.com/album/5ZmVX9sOQ5mKmkAVxAIFBv"
+      },
+      "artists": [
+        {
+          "name": "Dawson Fuss",
+          "url": "https://open.spotify.com/artist/4HmXxGWmonNjO3VfrgBRVQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Fanboy",
+      "url": "https://open.spotify.com/track/6Mr3mQH2lHUztIKPU2rPjc"
     },
     {
       "album": {
@@ -2845,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Miss Misunderstood",
+      "url": "https://open.spotify.com/track/2tzCRiOiHRhp6q5LwfVHDI"
+    },
+    {
+      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4"
       },
@@ -3806,7 +3860,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 133493,
       "name": "Races",
       "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
@@ -4344,7 +4398,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 212064,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
@@ -4416,7 +4470,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
@@ -4755,6 +4809,28 @@
     },
     {
       "album": {
+        "name": "Aqueous",
+        "url": "https://open.spotify.com/album/1TN9YukmFCMaVoGnr1VrMl"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        },
+        {
+          "name": "Forever",
+          "url": "https://open.spotify.com/artist/2cCnDdduruVMNVV5ic7mBp"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337371,
+      "name": "The Idea Of A Wave",
+      "url": "https://open.spotify.com/track/3x9T42czDlcWpVAYv3MjGM"
+    },
+    {
+      "album": {
         "name": "Daddy's Home",
         "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
       },
@@ -4921,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/6j8oQrOeXEyrkaJ7SNXrjq"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/5KoJig6d5aMMIYt858WcUO"
+    },
+    {
+      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -4968,7 +5062,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 240277,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5Ad3sKScpftuea1ulQYEgR"
@@ -5188,7 +5282,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"

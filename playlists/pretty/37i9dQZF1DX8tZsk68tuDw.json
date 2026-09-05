@@ -1,12 +1,12 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with BAMBII",
-  "num_followers": 1816378,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Azzecca",
+  "num_followers": 1816298,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANxzKeguZcDKUqnDXz4/GRZeq/c3",
+  "snapshot_id": "AAAAABrzLETADV5J6n7EU+lGhw9w922l",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:30",
@@ -23,6 +23,82 @@
       "duration_ms": 156015,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "One More Dance",
+        "url": "https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 230347,
+      "name": "One More Dance",
+      "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "So Many Things To Say",
+        "url": "https://open.spotify.com/album/23S1agUOLX1Hq6kyWJkgLn"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "So Many Things To Say",
+      "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "dissolve",
+        "url": "https://open.spotify.com/album/2HchFhNfHtVMXBKAd6n2bV"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "dissolve",
+      "url": "https://open.spotify.com/track/3aKeZ75NMlUdk75F3N8mix"
     },
     {
       "added_at": "2026-08-21 04:02:40",
@@ -65,24 +141,24 @@
       "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
     },
     {
-      "added_at": "2026-08-28 04:01:30",
+      "added_at": "2026-09-04 04:00:58",
       "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
+        "name": "Pressure (feat. Tommy Genesis)",
+        "url": "https://open.spotify.com/album/0gCNi212CVtO6Wjv54g5Vm"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
         },
         {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
         }
       ],
-      "duration_ms": 193749,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
+      "duration_ms": 168000,
+      "name": "Pressure (feat. Tommy Genesis)",
+      "url": "https://open.spotify.com/track/3qilJf4x402WUjcBJA060n"
     },
     {
       "added_at": "2026-08-21 04:02:40",
@@ -133,24 +209,20 @@
       "url": "https://open.spotify.com/track/4Ei2huAv185ZuCuhWcfyE9"
     },
     {
-      "added_at": "2026-08-28 04:01:30",
+      "added_at": "2026-09-04 04:00:58",
       "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/6P6AwBzv5ESD3DohicXvV5"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "LEILAH",
-          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 185423,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
+      "duration_ms": 206769,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/7nxu4fQ4ediLKWl8IdMVJ2"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -171,6 +243,26 @@
       "duration_ms": 203222,
       "name": "HOLD DA PHONE",
       "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
+        }
+      ],
+      "duration_ms": 185423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6"
     },
     {
       "added_at": "2026-08-14 04:00:44",
@@ -203,6 +295,22 @@
       "duration_ms": 149516,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/4XU6CXzUW673zn5ncvBcAM"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 210660,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7rTDt4MbccGE53h72e5zbW"
     },
     {
       "added_at": "2026-08-14 04:00:44",
@@ -239,6 +347,22 @@
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6XfrEfP3pfH0jkagZAFQ3K"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/3W2x9gCt7SbycNDCdP3IyB"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -321,6 +445,22 @@
       "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "Interesting",
+        "url": "https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 243023,
+      "name": "Interesting",
+      "url": "https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f"
+    },
+    {
       "added_at": "2026-08-21 04:02:40",
       "album": {
         "name": "Ghost Town",
@@ -377,6 +517,22 @@
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "Energy Crew",
+        "url": "https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Sheetz",
+      "url": "https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8"
+    },
+    {
       "added_at": "2026-08-28 04:01:30",
       "album": {
         "name": "Odyssey",
@@ -407,26 +563,6 @@
       "duration_ms": 177240,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
-    },
-    {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "Tell Me (feat. Pollena)",
-        "url": "https://open.spotify.com/album/4rCZGeJjFeAo3iKRHZVA3Y"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Pollena",
-          "url": "https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF"
-        }
-      ],
-      "duration_ms": 212417,
-      "name": "Tell Me (feat. Pollena)",
-      "url": "https://open.spotify.com/track/1EtcVqPyMdcT9EhSeXxaqJ"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -521,26 +657,6 @@
       "url": "https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM"
     },
     {
-      "added_at": "2026-08-14 04:00:44",
-      "album": {
-        "name": "Other Dimension",
-        "url": "https://open.spotify.com/album/3jLVDlQGAhXz7OZSyS8C1W"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Volkoder",
-          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
-        }
-      ],
-      "duration_ms": 204462,
-      "name": "Other Dimension",
-      "url": "https://open.spotify.com/track/5IQCfDD1PwrArvdEFDLUZ2"
-    },
-    {
       "added_at": "2026-07-31 04:01:37",
       "album": {
         "name": "Careful",
@@ -599,22 +715,6 @@
     {
       "added_at": "2026-08-14 04:00:44",
       "album": {
-        "name": "Enigma POV",
-        "url": "https://open.spotify.com/album/6XWlhXnqaiuAq8eFQx0Ocg"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 172070,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/74xu2XF8jnZRiwF4S0Gce1"
-    },
-    {
-      "added_at": "2026-08-14 04:00:44",
-      "album": {
         "name": "OG009",
         "url": "https://open.spotify.com/album/7rSB4RbLgqR6pnkEUCcxfJ"
       },
@@ -627,22 +727,6 @@
       "duration_ms": 193489,
       "name": "Picante",
       "url": "https://open.spotify.com/track/2GlkQgQwmB8ViK8UhEtfME"
-    },
-    {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "It's Like That",
-        "url": "https://open.spotify.com/album/1u4BoTCoy8Fjbv1RCAQelV"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 196630,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/4NxJwtZ01ndD6SVY9QKxt3"
     },
     {
       "added_at": "2026-08-21 04:02:40",
@@ -743,22 +827,6 @@
     {
       "added_at": "2026-07-24 04:01:29",
       "album": {
-        "name": "back 2 u",
-        "url": "https://open.spotify.com/album/60WUf9hGNkNUJfFCjp33zX"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "oh my yuma!",
-      "url": "https://open.spotify.com/track/0gCVfzNzYGBk95GBLQ6US4"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
         "name": "Impressions",
         "url": "https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw"
       },
@@ -811,6 +879,26 @@
       "duration_ms": 288466,
       "name": "back2back",
       "url": "https://open.spotify.com/track/0fFvQKbm1IFgJ4x5J5CKmV"
+    },
+    {
+      "added_at": "2026-09-04 04:00:58",
+      "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
       "added_at": "2026-07-31 04:01:37",
@@ -925,48 +1013,20 @@
       "url": "https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
+      "added_at": "2026-09-04 04:00:58",
       "album": {
-        "name": "Solar Skin (feat. jasper.wav)",
-        "url": "https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7"
+        "name": "Drop Your Spirit",
+        "url": "https://open.spotify.com/album/1qAZ2tljtGpX1OoXPWkwbI"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "jasper.wav",
-          "url": "https://open.spotify.com/artist/69H3w1KragVQijsuYudCor"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Solar Skin (feat. jasper.wav)",
-      "url": "https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1"
-    },
-    {
-      "added_at": "2026-07-17 04:00:45",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk"
+      "duration_ms": 198959,
+      "name": "Drop Your Spirit",
+      "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -1003,22 +1063,6 @@
       "duration_ms": 175424,
       "name": "Italian Job",
       "url": "https://open.spotify.com/track/2AYebbKenqjmq5pOsn7L2o"
-    },
-    {
-      "added_at": "2026-07-17 04:00:45",
-      "album": {
-        "name": "Soul Makossa",
-        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        }
-      ],
-      "duration_ms": 237084,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
     },
     {
       "added_at": "2026-07-24 04:01:29",
@@ -1097,24 +1141,28 @@
       "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
-      "added_at": "2026-08-07 04:01:05",
+      "added_at": "2026-09-04 04:00:58",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/0ePKlamVthL7qhAoE4Z3zU"
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/5526vWhIpphfZZA7IetApb"
       },
       "artists": [
         {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         },
         {
-          "name": "Alex Farell",
-          "url": "https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I"
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
         }
       ],
-      "duration_ms": 266151,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/0PSrRU6sH2eDW4b0feGhT5"
+      "duration_ms": 248612,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/0qQAMChkXSUQXikhhkbuDV"
     },
     {
       "added_at": "2026-08-14 04:00:44",
@@ -1167,22 +1215,6 @@
       "duration_ms": 171428,
       "name": "Bird Phone",
       "url": "https://open.spotify.com/track/7DxoMYqZk3vWFJZ5rX3H4k"
-    },
-    {
-      "added_at": "2026-07-17 04:00:45",
-      "album": {
-        "name": "Barthelona",
-        "url": "https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 160949,
-      "name": "Barthelona",
-      "url": "https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh"
     },
     {
       "added_at": "2026-08-07 04:01:05",
@@ -1263,26 +1295,6 @@
       "duration_ms": 199626,
       "name": "Little More (Body Action)",
       "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        },
-        {
-          "name": "Ellia Jaya",
-          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Dream or Fantasy",
-      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -1395,22 +1407,6 @@
       "duration_ms": 183809,
       "name": "So Good (feat. Kuuda)",
       "url": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY"
-    },
-    {
-      "added_at": "2026-03-13 04:00:32",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     }
   ],
   "unique_name": "Dance Rising",

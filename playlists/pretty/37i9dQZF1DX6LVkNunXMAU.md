@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: Pilar Gough
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,355 likes - 107 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,358 likes - 107 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cuando no tenga tiempo](https://open.spotify.com/track/5n3u3o67B4BFsPeXa76Ujv) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr), [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Lo que no logré en la ciudad](https://open.spotify.com/album/3hCo833asRW1t5CrgojkDj) | 3:50 |
 | 2 | [Pajaro Azul](https://open.spotify.com/track/1FhrYN4eKtfXUhS1bMnknI) | [Ivan de la Rioja](https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Pajaro Azul](https://open.spotify.com/album/7qbKlMLwSZUMR4tgOaOlKG) | 2:28 |
-| 3 | [Después del Después](https://open.spotify.com/track/4kMoYhgumElFZVCkgYaa99) | [Joaquin Martinez](https://open.spotify.com/artist/66nw77rm5t0Hz6KYcGHix2), [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8) | [Después del Después](https://open.spotify.com/album/7aGGHJSvoKHWncxaEdgzsK) | 2:53 |
+| 3 | [Después del Después](https://open.spotify.com/track/4kMoYhgumElFZVCkgYaa99) | [Joaquin Martinez](https://open.spotify.com/artist/66nw77rm5t0Hz6KYcGHix2), [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8) | [Después del Después](https://open.spotify.com/album/7aGGHJSvoKHWncxaEdgzsK) | 2:47 |
 | 4 | [Ojos Viejos](https://open.spotify.com/track/331jpq4eMaLd5bw7oM2ZIm) | [Clara Ballestero](https://open.spotify.com/artist/3BpPBrcj89LCkZJykqXrRL), [David Bensimon](https://open.spotify.com/artist/618xJLHv3QguoWJighQJJH) | [Ojos Viejos](https://open.spotify.com/album/6m1fsCTrBhLDPCsWce3jCZ) | 4:57 |
 | 5 | [Cuerda](https://open.spotify.com/track/4e5javqb2KvBS2RtbTZXxW) | [Camilo Eque](https://open.spotify.com/artist/1NBoDdFZArcr9I68YHFA5T), [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Cuerda](https://open.spotify.com/album/5aON7e8VGRkP5Rq28M6grC) | 3:00 |
 | 6 | [Sentimientos](https://open.spotify.com/track/7CaDm6qJKC4f3PuUiUsc2T) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Sentimientos](https://open.spotify.com/album/3SyvjffyNzzp6GjLBvmZ3P) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Fred De Palma in cover + le migliori nuove uscite \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e!\n",
-  "num_followers": 65302,
+  "num_followers": 65311,
   "original_name": "Novit\u00e0 Pop",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-09-03 22:02:51",
       "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "added_at": "2026-09-03 22:02:51",
+      "album": {
         "name": "Dye My Hair",
         "url": "https://open.spotify.com/album/2e17yDVpBl5Buq9GJ7LJzz"
       },
@@ -475,6 +491,22 @@
       "duration_ms": 207900,
       "name": "Dye My Hair",
       "url": "https://open.spotify.com/track/62YLxkkdwBWRI0TKeSRcjt"
+    },
+    {
+      "added_at": "2026-09-03 22:02:51",
+      "album": {
+        "name": "OUTWEST",
+        "url": "https://open.spotify.com/album/2zVQGjF89IWIFQQVNT3SPG"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 198845,
+      "name": "OUTWEST",
+      "url": "https://open.spotify.com/track/4Bn4b4N7rWCqPlKfEZi6PB"
     },
     {
       "added_at": "2026-09-03 22:02:51",

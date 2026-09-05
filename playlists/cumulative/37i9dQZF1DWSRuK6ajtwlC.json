@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Fiera de Ojinaga en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Maquinaria Norte\u00f1a, Keith Nieto en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -374,6 +374,24 @@
       "duration_ms": 148024,
       "name": "Al\u00e9jate",
       "url": "https://open.spotify.com/track/7rq4ykJJFmEudBTdwzTudF"
+    },
+    {
+      "album": {
+        "name": "Amanec\u00ed en Tus Brazos",
+        "url": "https://open.spotify.com/album/1adSgw4blNsGIz9V25udM8"
+      },
+      "artists": [
+        {
+          "name": "El Primo Manolo Y Sus Rieleros",
+          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147048,
+      "name": "Amanec\u00ed en Tus Brazos",
+      "url": "https://open.spotify.com/track/6j9Ce8968hfVPLxhdC72IR"
     },
     {
       "album": {
@@ -1835,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Desleal",
+        "url": "https://open.spotify.com/album/7uvm9jAxiCBbI38VZJQH9D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Inercia de R\u00edo Grande Zacatecas",
+          "url": "https://open.spotify.com/artist/6kp4mfSfXha3KTlQ8XDmkd"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179353,
+      "name": "Desleal",
+      "url": "https://open.spotify.com/track/3TeKPgz2FObind24OTZsdM"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3vjhuYyGTIM49F3Y32BmaB"
       },
@@ -2150,6 +2186,28 @@
       "duration_ms": 162718,
       "name": "El Amor De Mis D\u00edas",
       "url": "https://open.spotify.com/track/1llIfS2tjg70ndfKmRE78b"
+    },
+    {
+      "album": {
+        "name": "FACKIT",
+        "url": "https://open.spotify.com/album/6V2T2UcQfFL2LgPImXIqXL"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162922,
+      "name": "El Amor Nos Gana",
+      "url": "https://open.spotify.com/track/2usub9ZYULGp9flVwiV9rx"
     },
     {
       "album": {
@@ -3270,7 +3328,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 276724,
       "name": "Juan Colorado - En Vivo",
       "url": "https://open.spotify.com/track/4KXigk1fRbCe1tO8PcHRXm"
@@ -4120,7 +4178,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 150422,
       "name": "LOKO LOKITO",
       "url": "https://open.spotify.com/track/4GAV8YBI7F2bOTfIBAVfik"
@@ -6211,6 +6269,24 @@
     },
     {
       "album": {
+        "name": "Live Sessions, Vol.2",
+        "url": "https://open.spotify.com/album/7zwjFzv96jJIwW5tO96z3M"
+      },
+      "artists": [
+        {
+          "name": "La Cultura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223034,
+      "name": "Seremos - Live",
+      "url": "https://open.spotify.com/track/5jB3zsNW3hiEDFT4fovdCl"
+    },
+    {
+      "album": {
         "name": "Sexy Love",
         "url": "https://open.spotify.com/album/0JebluuUDScPxmDraTqJuC"
       },
@@ -6636,7 +6712,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 201926,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs"
@@ -6998,7 +7074,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171373,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/64GZDnrcHHW3lAnx05g7pI"
@@ -7516,7 +7592,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 187624,
       "name": "V\u00e9ngase Pa' Ac\u00e1",
       "url": "https://open.spotify.com/track/3BOJz5GYkSCj1wsqnBptAq"
@@ -7614,6 +7690,24 @@
       "duration_ms": 169041,
       "name": "Y Me Da Verg\u00fcenza",
       "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+    },
+    {
+      "album": {
+        "name": "Y M\u00e1s Te Estoy Queriendo (Live Session)",
+        "url": "https://open.spotify.com/album/2y6IPxD4wdMwJYYJusrY1N"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Chairez",
+          "url": "https://open.spotify.com/artist/2FKz4R9R1rislfgOah34kv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184665,
+      "name": "Y M\u00e1s Te Estoy Queriendo - Live Session",
+      "url": "https://open.spotify.com/track/5rpskcVJBiWZiXaCxQpFRt"
     },
     {
       "album": {

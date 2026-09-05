@@ -4,7 +4,7 @@
 
 > شجّع المنتَج المحلي\. الغلاف: مازن
 
-1,803 songs - 4 day 3 hr 55 min
+1,804 songs - 4 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 | 2023-05-06 |
 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 | 2024-12-06 | 2025-01-14 |
 | [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 | 2024-04-10 | 2024-05-23 |
+| [Ayam Zaman](https://open.spotify.com/track/3h4kxt6ykWSDbLJ0HyxFWr) | [Fathalla](https://open.spotify.com/artist/5abznwXJVbDNuEUsvcHJp9) | [Gheir Elhob](https://open.spotify.com/album/6gAaB2PFlIPewC0YFpTYUx) | 2:37 | 2026-09-03 |  |
 | [Ayez Adfa El Egar](https://open.spotify.com/track/2JqtVEf2aCQPrydpNpLPrC) | [Shobra El General](https://open.spotify.com/artist/3Ed6A8OJkO5nQqFJfhDHRN) | [Ayez Adfa El Egar](https://open.spotify.com/album/7LVoXvhgLOW6dTaxjRezhA) | 2:06 | 2026-05-13 | 2026-07-10 |
 | [Aysha w Mabsouta](https://open.spotify.com/track/07VbeX7HRoHVSTHI6ZS1TP) | [Mirna nasser](https://open.spotify.com/artist/6V50iHFrnnkOzahS4QbvbR) | [Aysha w Mabsouta](https://open.spotify.com/album/4RcJd2zIAn78Bqqj7wVoHZ) | 3:45 | 2024-02-16 | 2024-05-03 |
 | [Aywa](https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya I](https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe) | 3:20 | 2023-05-02 | 2023-06-02 |

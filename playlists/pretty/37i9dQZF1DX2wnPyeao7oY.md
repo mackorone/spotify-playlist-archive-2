@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: The Callous Daoboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,669 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,708 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Watching Us Kiss](https://open.spotify.com/track/0kVZWOUCsONWxVBRw6eszc) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Watching Us Kiss](https://open.spotify.com/album/2z2qrsFz5MNpTmfi6sD59z) | 3:47 |
+| 1 | [Watching Us Kiss](https://open.spotify.com/track/0kVZWOUCsONWxVBRw6eszc) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [2026 Singles](https://open.spotify.com/album/2z2qrsFz5MNpTmfi6sD59z) | 3:47 |
 | 2 | [ROTTEN](https://open.spotify.com/track/5tODiMGWKft6sCamNwEQdj) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [ROTTEN](https://open.spotify.com/album/6hfiDnWdXiPUQ3sytwfduf) | 1:43 |
 | 3 | [Why?](https://open.spotify.com/track/6ssX5woHXkbyasb5AmNCkb) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Why?](https://open.spotify.com/album/40OyCDpyDIZJ5EPUE3pA3U) | 2:56 |
 | 4 | [Get Down](https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Get Down](https://open.spotify.com/album/7Jjy5cMMezoI3o6vEKzrTe) | 3:27 |

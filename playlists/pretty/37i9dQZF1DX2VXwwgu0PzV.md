@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,408 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,490 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 11 | [Oruko](https://open.spotify.com/track/3pKSt41GhJwhCn5JFIeEcf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [God Is Cooking](https://open.spotify.com/album/21HHlmaDOJOMSpAU4kxwZL) | 3:47 |
 | 12 | [YAHWEH](https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [YAHWEH](https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP) | 2:36 |
 | 13 | [Your Fada](https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Your Fada](https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx) | 2:32 |
-| 14 | [Track 8](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 0:00 |
+| 14 | [Promises](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 3:10 |
 | 15 | [Unchangeable God](https://open.spotify.com/track/1KqWFk0UUMQjp7CAPjLZ1g) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace) | [Unchangeable God](https://open.spotify.com/album/2mmidaFmGORPdq38xbdtNx) | 3:24 |
 | 16 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 17 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 |

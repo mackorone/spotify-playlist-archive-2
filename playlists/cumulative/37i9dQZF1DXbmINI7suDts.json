@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Get your spirits up and manage your mood any time of the day. Cover: Vyroota",
+  "description": "Get your spirits up and manage your mood any time of the day. Cover: Taner\u00e9lle & MAUIM\u00d8ON",
   "name": "Mutima ",
   "tracks": [
     {
@@ -1040,6 +1040,28 @@
       "duration_ms": 139750,
       "name": "HERE THEY COME",
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
+    },
+    {
+      "album": {
+        "name": "Here They Come II",
+        "url": "https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Here They Come II",
+      "url": "https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT"
     },
     {
       "album": {
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 241502,
       "name": "Wampisa",
       "url": "https://open.spotify.com/track/6q5lNkKJfxpzLrsv0QlyMR"

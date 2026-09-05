@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,693 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,702 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 34 | [Konnichiwa](https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:33 |
 | 35 | [Too Bo$$y](https://open.spotify.com/track/1IFK4fgCXVzl2WmrcXO7J5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Too Bo$$y](https://open.spotify.com/album/1qcQBEA1u6UOMjbpNp99So) | 2:33 |
 | 36 | [Mad Technology](https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [Frankie Pulitzer](https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Czarface Meets Frankie Pulitzer](https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6) | 3:43 |
-| 37 | [IN THE CLUB \(with Sexyy Red\)](https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [IN THE CLUB \(with Sexyy Red\)](https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV) | 2:24 |
+| 37 | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [IN THE CLUB \(feat\. Sexyy Red\)](https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV) | 2:24 |
 | 38 | [Kachi Is A Must](https://open.spotify.com/track/5ou5mOvX5odbhXa97pHlmM) | [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Kachi Is A Must](https://open.spotify.com/album/2MDEoiIUgUvk4cPlfEEGYW) | 2:55 |
 | 39 | [Live Your Life](https://open.spotify.com/track/3x9NMi02uf1xxmczl0Grxx) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Live Your Life](https://open.spotify.com/album/19Ul2SFUdm30hRpT2X6tin) | 2:03 |
 | 40 | [IDFWY](https://open.spotify.com/track/34sFh8ZCEnNQI1N5F7LTgz) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [Poster Child](https://open.spotify.com/album/7D2O6tC8E3CPY4qpQGhXus) | 4:12 |

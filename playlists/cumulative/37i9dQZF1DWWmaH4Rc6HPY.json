@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Cherry Chola en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Pepe Madero en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Amo Que Te Odio (Odio Que Te Amo)",
+        "url": "https://open.spotify.com/album/49kX3ebLciMGNCmrVsMt63"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172660,
+      "name": "Amo Que Te Odio (Odio Que Te Amo)",
+      "url": "https://open.spotify.com/track/5unQQTNmDVa7Scr3FMl3Bf"
+    },
+    {
+      "album": {
         "name": "Manifiesto de un Tremendo Delirio",
         "url": "https://open.spotify.com/album/0ZjtAHZlANyVRoU00hF9QD"
       },
@@ -566,6 +588,24 @@
       "duration_ms": 248195,
       "name": "antonio banderas",
       "url": "https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5"
+    },
+    {
+      "album": {
+        "name": "Querido\u2026",
+        "url": "https://open.spotify.com/album/4oxdXhWjJxcHitqQoCvE4d"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Arr\u00f3pame",
+      "url": "https://open.spotify.com/track/2tw0PxSHWMSI5Syb5AnIPW"
     },
     {
       "album": {
@@ -3098,7 +3138,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
@@ -3362,7 +3402,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180960,
       "name": "MARIPOSA TECKNICOLOR",
       "url": "https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA"
@@ -3672,6 +3712,24 @@
       "duration_ms": 134014,
       "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
+    },
+    {
+      "album": {
+        "name": "Mismo Equipo",
+        "url": "https://open.spotify.com/album/3DRj60LZXcFq8xhIuDI05O"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280733,
+      "name": "Mismo Equipo",
+      "url": "https://open.spotify.com/track/6mhPIHBGJC5Np4iVpN4qfD"
     },
     {
       "album": {
@@ -4477,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "perd\u00f3n",
+        "url": "https://open.spotify.com/album/0sVrUlANtwp9aPhOKgDNly"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "perd\u00f3n",
+      "url": "https://open.spotify.com/track/4mXWvB4yFB9K0nwITqiwjw"
+    },
+    {
+      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/0cBmNrY7sXXQRE1REBcJvF"
       },
@@ -4532,7 +4608,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184918,
       "name": "Perla",
       "url": "https://open.spotify.com/track/3AS7Y4Oh1tgy8x7w3C35Dm"
@@ -5714,7 +5790,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 212314,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/3QfP9r0ackN283bGeA2z9A"
@@ -5936,6 +6012,28 @@
       "duration_ms": 196365,
       "name": "Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
+    },
+    {
+      "album": {
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "album": {
@@ -6182,7 +6280,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 276438,
       "name": "Trapecistas",
       "url": "https://open.spotify.com/track/4mMjydyhotP1oaSXPPGsBb"

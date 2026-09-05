@@ -2,9 +2,9 @@
 
 ### [Kids Music Videos](https://open.spotify.com/playlist/37i9dQZF1DXaxoSJWuftUi)
 
-> Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium.
+> Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Ms\. Rachel & Mr\. Aron
 
-39 songs - 1 hr 45 min
+40 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/track/5nYqe53a9DEkr2vrkTLPq2) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/album/45IKvh11lgznevrIUftT6H) | 2:48 | 2026-05-22 |  |
 | [Hey\-O We Want to Play\-O](https://open.spotify.com/track/67pLLZLC17d8xo9RsFSXVM) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Hey\-O We Want to Play\-O](https://open.spotify.com/album/0qpMLbnB8NNiIiadzzGoho) | 2:13 | 2026-08-07 |  |
 | [Hop Little Bunnies](https://open.spotify.com/track/4Bxxo0D2H1gBlcWzXdg1kx) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [Animals On The Farm And More Lah\-Lah Sing And Dance Songs](https://open.spotify.com/album/4D4jgeLd74Zrec9MJPRWVI) | 2:09 | 2026-05-22 |  |
+| [I Love a Rainbow](https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep), [Mr\. Aron](https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z) | [I Love a Rainbow](https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ) | 2:09 | 2026-09-04 |  |
 | [I Love Eating Vegetables](https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love Eating Vegetables](https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd) | 2:02 | 2026-05-22 |  |
 | [I'm Going On a Trip](https://open.spotify.com/track/7EioBHFV3JEgZ1Q6GPqLFf) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I'm Going On a Trip](https://open.spotify.com/album/6fM8LoKbojj1EQjAcMgn7P) | 3:10 | 2026-07-17 |  |
 | [If You Love to Dance & Move](https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [If You Love to Dance & Move](https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq) | 3:29 | 2026-05-22 |  |

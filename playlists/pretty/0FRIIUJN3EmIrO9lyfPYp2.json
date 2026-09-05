@@ -6,8 +6,124 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACpkyOSi9cpp5fg/2nzTu3D4P3axeM",
+  "snapshot_id": "AAACp2IDEvqaRGK7PZFwJbjgHfgfJpIZ",
   "tracks": [
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "archangel",
+        "url": "https://open.spotify.com/album/5zo7aXZsw6WgquOTCikvT6"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "archangel",
+      "url": "https://open.spotify.com/track/5w4TRfe4disruHAv0U44Xo"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "Society",
+        "url": "https://open.spotify.com/album/3Eue7SylBdUmE48LfM9pTd"
+      },
+      "artists": [
+        {
+          "name": "Hamper",
+          "url": "https://open.spotify.com/artist/0u2z7PZ5x0w8NmAMvfaYtY"
+        }
+      ],
+      "duration_ms": 112759,
+      "name": "1984",
+      "url": "https://open.spotify.com/track/3gQqm4ABUhB5Qb8LomkLsH"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "levitate",
+        "url": "https://open.spotify.com/album/6LqDwdvMGia2bExNCmCKEM"
+      },
+      "artists": [
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 67359,
+      "name": "levitate",
+      "url": "https://open.spotify.com/track/63kQqJE3VH1yw7WZNKWxEf"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "Society",
+        "url": "https://open.spotify.com/album/3Eue7SylBdUmE48LfM9pTd"
+      },
+      "artists": [
+        {
+          "name": "Hamper",
+          "url": "https://open.spotify.com/artist/0u2z7PZ5x0w8NmAMvfaYtY"
+        }
+      ],
+      "duration_ms": 134151,
+      "name": "What We Became",
+      "url": "https://open.spotify.com/track/5TlBGQvXUUmglEoLJWb8Mj"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "fallen down (Ambient Rework)",
+        "url": "https://open.spotify.com/album/5N47t1WOTXGyazRcFu19pR"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 99272,
+      "name": "fallen down (Ambient Rework)",
+      "url": "https://open.spotify.com/track/1Mmvbe9LhaCp22cUrtSoTq"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "Society",
+        "url": "https://open.spotify.com/album/3Eue7SylBdUmE48LfM9pTd"
+      },
+      "artists": [
+        {
+          "name": "Hamper",
+          "url": "https://open.spotify.com/artist/0u2z7PZ5x0w8NmAMvfaYtY"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Alone at The End",
+      "url": "https://open.spotify.com/track/7uXQwxOHTfh9GIDhjtVYkQ"
+    },
+    {
+      "added_at": "2026-09-04 21:00:31",
+      "album": {
+        "name": "Society",
+        "url": "https://open.spotify.com/album/3Eue7SylBdUmE48LfM9pTd"
+      },
+      "artists": [
+        {
+          "name": "Hamper",
+          "url": "https://open.spotify.com/artist/0u2z7PZ5x0w8NmAMvfaYtY"
+        }
+      ],
+      "duration_ms": 147385,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/3Ty3r8mEWkT8zx01SnAUbt"
+    },
     {
       "added_at": "2026-08-28 22:14:24",
       "album": {

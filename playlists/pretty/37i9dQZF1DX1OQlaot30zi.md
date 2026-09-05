@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di DrefGold, Rasty Kilo, Quest, Disme e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,107 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,113 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 14 | [SANTA MARIA](https://open.spotify.com/track/2wIsDpneFSPdpOouVVcIA7) | [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr) | [SANTA MARIA](https://open.spotify.com/album/1q7vU8v26panFjOvLhs4kE) | 2:47 |
 | 15 | [Strip For Me](https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Strip For Me](https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq) | 3:30 |
 | 16 | [fuori c'è il sole \(feat\. Waze RRX\)](https://open.spotify.com/track/5Vc3rZBnO6vsfHR9TIQzed) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [The Summer SmAsher](https://open.spotify.com/album/1SYsUa3aZT3JFkc1Z0CVwK) | 3:12 |
-| 17 | [in relax](https://open.spotify.com/track/6NlLEoumhT5850hsoffI9r) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C), [MiQu](https://open.spotify.com/artist/5LzpKZgYlDLjl50MbctpDp), [Mack Walker](https://open.spotify.com/artist/6aKtR3QpJ6HixaFv8jLc8Q) | [in relax](https://open.spotify.com/album/0NHGXvBheCwLRhFXfrH5gg) | 2:10 |
+| 17 | [in relax](https://open.spotify.com/track/6NlLEoumhT5850hsoffI9r) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C), [MiQu](https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE), [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [in relax](https://open.spotify.com/album/0NHGXvBheCwLRhFXfrH5gg) | 2:10 |
 | 18 | [BALENCIAGA](https://open.spotify.com/track/2iDu16AN5W9AKa4QXrgtKH) | [EYKEY](https://open.spotify.com/artist/3aOWq3jfuEv9aBQXqW8iTe) | [BALENCIAGA](https://open.spotify.com/album/0Pk4Y0o08YeLQ8bslWqDtN) | 2:37 |
 | 19 | [L'ULTIMA](https://open.spotify.com/track/582ywLXLXepM8BXErgXpm1) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [L'ULTIMA](https://open.spotify.com/album/5EoM2VMHssTRUZq4AOWykI) | 2:21 |
 | 20 | [REVUELTO](https://open.spotify.com/track/6JvA19uuSFDMZaKqymvFOA) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk) | [REVUELTO](https://open.spotify.com/album/3iCOw6o1ZEUS2U1fO31vtA) | 2:25 |

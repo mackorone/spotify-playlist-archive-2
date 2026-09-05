@@ -684,6 +684,24 @@
     {
       "album": {
         "name": "All Night",
+        "url": "https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142166,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3Ul23eh918yziF22bJkswP"
+    },
+    {
+      "album": {
+        "name": "All Night",
         "url": "https://open.spotify.com/album/7mlbnclHjUsHGkk0Ga8jIZ"
       },
       "artists": [
@@ -2744,6 +2762,36 @@
       "duration_ms": 163571,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/2hIcjgejOVZK0CnkL7Hht1"
+    },
+    {
+      "album": {
+        "name": "Bounce Generation (NOBILEE X TBR 2026 Remix)",
+        "url": "https://open.spotify.com/album/43kTVe9TJIgmOQqpM4JHBF"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "NOBILEE",
+          "url": "https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5"
+        },
+        {
+          "name": "TBR",
+          "url": "https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Bounce Generation (NOBILEE X TBR 2026 Remix)",
+      "url": "https://open.spotify.com/track/5RL0Hh4GAaTa9K4rwwFG7A"
     },
     {
       "album": {
@@ -10896,6 +10944,32 @@
       "duration_ms": 183145,
       "name": "Keep On Rising (feat. Michelle Shellers) [Fancy Inc and Bruno Be Remix]",
       "url": "https://open.spotify.com/track/6L7N045eN7RyCMPsxmBcLH"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "album": {
@@ -22577,6 +22651,24 @@
     },
     {
       "album": {
+        "name": "Vaelor",
+        "url": "https://open.spotify.com/album/4EPeL1sEMkznkXQu0zRbIx"
+      },
+      "artists": [
+        {
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108283,
+      "name": "Vaelor",
+      "url": "https://open.spotify.com/track/474v81fZYLnYuTnaTosfsY"
+    },
+    {
+      "album": {
         "name": "Vaki",
         "url": "https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B"
       },
@@ -23812,6 +23904,24 @@
       "duration_ms": 207459,
       "name": "Whisky (feat. Reja Jay)",
       "url": "https://open.spotify.com/track/1YBlV7Vr6SwAzDyyGbEdtt"
+    },
+    {
+      "album": {
+        "name": "who tell em",
+        "url": "https://open.spotify.com/album/6wo8igXRgVVHs63G1x672b"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "who tell em",
+      "url": "https://open.spotify.com/track/3IRIQWObw5XSGfXwgJzlm0"
     },
     {
       "album": {

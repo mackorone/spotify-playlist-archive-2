@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Aretuza Lovi, Linn da Quebrada",
+  "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
   "name": "GLOW Brasil",
   "tracks": [
     {
@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "FRANKFURT",
+        "url": "https://open.spotify.com/album/71U9A62SXVGcvbCqrKGJbx"
+      },
+      "artists": [
+        {
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192307,
+      "name": "FRANKFURT",
+      "url": "https://open.spotify.com/track/2L5HhsbheVrLUsPRFMzfXn"
+    },
+    {
+      "album": {
         "name": "FUDER CHAPADA RMX",
         "url": "https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 149100,
       "name": "Homem de BCT",
       "url": "https://open.spotify.com/track/1CzvjFmy2zZE7bRnv0krGD"

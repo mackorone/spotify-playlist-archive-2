@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Pedro e Benício
+> O melhor do sertanejo em uma só playlist! Foto: Countrybeat, Mari Fernandez
 
-421 songs - 19 hr 44 min
+422 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 | 2025-06-06 |  |
 | [Retrovisor](https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão Vol\. 01](https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc) | 3:05 | 2025-08-23 | 2025-11-28 |
 | [Rodeio no Texas 🐂](https://open.spotify.com/track/5ZgXkKLoO5WIiyzaGsrQQ2) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 2:31 | 2025-06-20 | 2025-08-04 |
+| [Role Perfeito \- Ao Vivo](https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Role Perfeito \(Ao Vivo\)](https://open.spotify.com/album/5dRfhwO5qRFMld99PBrOvb) | 2:46 | 2026-09-04 |  |
 | [Romântico \- Ao Vivo](https://open.spotify.com/track/7FdGeazienHpcYz9KYAuWW) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP2\)](https://open.spotify.com/album/4ZJMaV7KtU2I5hvZhdaMGg) | 3:03 | 2024-11-29 | 2025-10-25 |
 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/4xyIg09M1MhiohypbUdeYt) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Burra \(Ao Vivo\)](https://open.spotify.com/album/2d4qNcAXn99Jhnup9I7vLM) | 2:37 | 2025-01-17 | 2026-01-24 |
 | [Saudade Butequeira \- Ao Vivo](https://open.spotify.com/track/1VbunACv3Z4cGfBenC7oTx) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/31FOkXSjgGWQN0AABNxtbA) | 2:29 | 2024-05-17 | 2025-01-18 |

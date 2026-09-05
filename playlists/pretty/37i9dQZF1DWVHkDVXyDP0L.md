@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Ra Ra Viper
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,085 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,083 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 9 | [Juice A Jumbo Jet](https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Juice A Jumbo Jet](https://open.spotify.com/album/3MDvb0nm9ZuSTvNnFVmbnK) | 4:51 |
 | 10 | [Holding Cell](https://open.spotify.com/track/3Eqllh5NI6t00WAlfgSrAo) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Holding Cell](https://open.spotify.com/album/55fuxVQfDxNfZSt22xoUwN) | 2:59 |
 | 11 | [shg](https://open.spotify.com/track/3joFQakfyBFzhZqLc7gqxb) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [shg](https://open.spotify.com/album/3THuvZ1ikdxlU8O36Rfhu4) | 2:30 |
-| 12 | [Track 2](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 0:00 |
+| 12 | [Frida](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 3:39 |
 | 13 | [What I Need](https://open.spotify.com/track/7KhRUljgpU7zKMWSCiqCHT) | [lahgo](https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB) | [What I Need](https://open.spotify.com/album/3Ze7N7q2EaXdHT49plOMkU) | 3:01 |
 | 14 | [Old Friend](https://open.spotify.com/track/4ww9k36wWGrnkt0W5Y8Ra4) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Old Friend](https://open.spotify.com/album/7Mjt7OtR5rXu9lQ5I46m0z) | 3:45 |
 | 15 | [Alone In Vegas](https://open.spotify.com/track/7h7glDHcITiyke7vkyn7wb) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Alone In Vegas](https://open.spotify.com/album/2YO8rEJifi0EZfDhwTp9aF) | 3:29 |

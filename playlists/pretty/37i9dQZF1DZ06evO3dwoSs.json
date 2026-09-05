@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 573211,
+  "num_followers": 573229,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAB9BYIIShYPy50aWH5UMr5q",
+  "snapshot_id": "api4gAAAAAAlqNQwVGzYxTp2pFpG/p2F",
   "tracks": [
     {
       "added_at": null,
@@ -727,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X"
+        "name": "Greetings From Suffocate City (From Beyond The Abyss: Deluxe Edition)",
+        "url": "https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2"
       },
       "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
         {
           "name": "Five Finger Death Punch",
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 227309,
-      "name": "When the Seasons Change",
-      "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
+      "duration_ms": 181714,
+      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
+      "url": "https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl"
     },
     {
       "added_at": null,
@@ -759,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greetings From Suffocate City (From Beyond The Abyss: Deluxe Edition)",
-        "url": "https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2"
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X"
       },
       "artists": [
-        {
-          "name": "The Funeral Portrait",
-          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
-        },
         {
           "name": "Five Finger Death Punch",
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
-      "url": "https://open.spotify.com/track/0cFJWQ1cFH1e6BdtBHiHPl"
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
     },
     {
       "added_at": null,

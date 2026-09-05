@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-590 songs - 1 day 7 hr 25 min
+591 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Dream Well](https://open.spotify.com/track/2matn9WPqhSjpWN1VsZDay) | [HIYU](https://open.spotify.com/artist/61FnFYz1oDlDss8t3j7vO1), [Ashtalon](https://open.spotify.com/artist/6iavgDwB3ZnFmALNatdhgg) | [Furality Somna \(Original Soundtrack\)](https://open.spotify.com/album/7ilCmxVwT6CxEdWAdIMO0R) | 20:00 | 2025-07-17 | 2025-07-22 |
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-04-08 | 2026-03-01 |
 | [Driving Into Starlight](https://open.spotify.com/track/5W1xVhAoPe4M4fDhkVMGvz) | [YamikaDesu](https://open.spotify.com/artist/0MNjBbWyyQQtJtDIRn2930) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 3:51 | 2026-07-17 |  |
+| [DRUG](https://open.spotify.com/track/2Q7pPuFjPq1ox862ry93nQ) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [DRUG](https://open.spotify.com/album/5wtETLQm5TUNJwhl8fnEll) | 2:02 | 2026-09-04 |  |
 | [drunk](https://open.spotify.com/track/6eV31VaY2FYeCwU0w4eAfu) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [drunk](https://open.spotify.com/album/05F3IttDmLYr93iaz5ihqI) | 2:23 | 2024-02-09 | 2026-03-01 |
 | [Dystopia](https://open.spotify.com/track/1CVk5ezWggeE24hJMIBcZF) | [Pony Boy](https://open.spotify.com/artist/6RFWaB4szIPFWnJKchk8tX), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Age of Discovery](https://open.spotify.com/album/10s4l3Jffskegx8mmqeXYJ) | 6:37 | 2024-05-20 | 2026-03-01 |
 | [Eat Me Alive](https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Eat Me Alive](https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA) | 3:57 | 2026-05-30 | 2026-07-04 |

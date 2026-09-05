@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICERED",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LEON BROCCO from GELBOYS 2",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3347,6 +3347,24 @@
     },
     {
       "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "album": {
         "name": "Click Clack Symphony. (feat. Hans Zimmer)",
         "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
       },
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
@@ -5845,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "Flowers for u",
+        "url": "https://open.spotify.com/album/53IXLOkgwhrzwXMM0JoMdD"
+      },
+      "artists": [
+        {
+          "name": "Pondering",
+          "url": "https://open.spotify.com/artist/5vzCTzMec4uL6JCNkOFcZ2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "Flowers for u",
+      "url": "https://open.spotify.com/track/3317ol0zcjngV5nlhewYxk"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/1cylGxuou6hNdKdgbmovCQ"
       },
@@ -6098,6 +6134,28 @@
       "duration_ms": 216153,
       "name": "Four Leaf Clover",
       "url": "https://open.spotify.com/track/4abVgxtPYubeRK5p9naUwF"
+    },
+    {
+      "album": {
+        "name": "Free WiFi (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+        "url": "https://open.spotify.com/album/5wjmnS071ILpI5vf1zXyEp"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        },
+        {
+          "name": "\u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/2gFoJCiiRRFm81zelPZR8d"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221517,
+      "name": "Free WiFi (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+      "url": "https://open.spotify.com/track/5CA8IKh7jZPb1nOyM6NBEW"
     },
     {
       "album": {
@@ -9596,7 +9654,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184800,
       "name": "KISS, COME KISS",
       "url": "https://open.spotify.com/track/0Y1zdj4gSsotiA8ZwzqCBo"
@@ -10602,7 +10660,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 236133,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
@@ -10638,7 +10696,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -13169,6 +13227,24 @@
     },
     {
       "album": {
+        "name": "ONE PIECE",
+        "url": "https://open.spotify.com/album/31dHclou4ALbyLGnZx3jps"
+      },
+      "artists": [
+        {
+          "name": "SVRN",
+          "url": "https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237952,
+      "name": "ONE PIECE",
+      "url": "https://open.spotify.com/track/5UEV17A5Ym0CrJBTjYjFv8"
+    },
+    {
+      "album": {
         "name": "ONE PUNCH",
         "url": "https://open.spotify.com/album/1P4oYvbx2Km6bg5iHUvCgX"
       },
@@ -15349,6 +15425,24 @@
     },
     {
       "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "album": {
         "name": "Say",
         "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
@@ -16006,6 +16100,28 @@
       "duration_ms": 235560,
       "name": "Sideways (feat. Coco Jones)",
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
+    },
+    {
+      "album": {
+        "name": "Sigmas don't cry (2020)",
+        "url": "https://open.spotify.com/album/39nwdI3Tx6itLLfQ9UQ67h"
+      },
+      "artists": [
+        {
+          "name": "Television off",
+          "url": "https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA"
+        },
+        {
+          "name": "\u0e40\u0e15\u0e4b\u0e32 Sweet Mullet",
+          "url": "https://open.spotify.com/artist/0sDh3Y6XddnjnFfOHle3DC"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Sigmas don't cry (2020)",
+      "url": "https://open.spotify.com/track/5jNcFMiXFVKwGqKNBvtiEx"
     },
     {
       "album": {
@@ -17556,7 +17672,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
@@ -22291,6 +22407,24 @@
     },
     {
       "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (\u0e41\u0e15\u0e48\u0e08\u0e30\u0e2b\u0e32\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+        "url": "https://open.spotify.com/album/02PaLNfai1kDhF24PCKr1v"
+      },
+      "artists": [
+        {
+          "name": "Offroad Kantapon",
+          "url": "https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e0a\u0e37\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (\u0e41\u0e15\u0e48\u0e08\u0e30\u0e2b\u0e32\u0e21\u0e32\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d)",
+      "url": "https://open.spotify.com/track/0S4UcVTTWezM0AX6xS4lUo"
+    },
+    {
+      "album": {
         "name": "\u0e0a\u0e49\u0e32\u0e0a\u0e49\u0e32 (CHA CHA)",
         "url": "https://open.spotify.com/album/28bkK3t9m7NKLWsi6ymYE8"
       },
@@ -22374,7 +22508,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 224666,
       "name": "\u0e0b\u0e39\u0e40\u0e2b\u0e25\u0e47\u0e07\u0e40\u0e15\u0e49\u0e07",
       "url": "https://open.spotify.com/track/1M3bd0uGr81CpJxv1eNnDb"
@@ -22599,6 +22733,32 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e15\u0e1a\u0e15\u0e32 (Remix)",
+        "url": "https://open.spotify.com/album/1cxLMLQnKXC4hwBQP4idmD"
+      },
+      "artists": [
+        {
+          "name": "MaxMillor",
+          "url": "https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63"
+        },
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        },
+        {
+          "name": "ize so cold.",
+          "url": "https://open.spotify.com/artist/2ghXX54wgKqlv2UQZv0N4a"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e15\u0e1a\u0e15\u0e32 - Remix",
+      "url": "https://open.spotify.com/track/5fajhzcr4puTHlkzI8KQwm"
+    },
+    {
+      "album": {
         "name": "save my life",
         "url": "https://open.spotify.com/album/4BYtIwZWdE5lQ8MGgzLS0T"
       },
@@ -22792,7 +22952,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 215714,
       "name": "\u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64"
@@ -22850,7 +23010,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 196000,
       "name": "\u0e23\u0e31\u0e01\u0e0a\u0e31\u0e01\u0e01\u0e23\u0e30\u0e15\u0e38\u0e01",
       "url": "https://open.spotify.com/track/4ZioDDU5VqlzlMEKXEHFVZ"
@@ -22976,7 +23136,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180000,
       "name": "\u0e23\u0e32\u0e07\u0e27\u0e31\u0e25\u0e1c\u0e39\u0e49\u0e08\u0e33\u0e17\u0e35\u0e48\u0e14\u0e35 (Memory)",
       "url": "https://open.spotify.com/track/1PFVwV88MIfPeNOrTQ9gnN"
@@ -23064,7 +23224,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 295476,
       "name": "\u0e27\u0e31\u0e0f\u0e2a\u0e07\u0e2a\u0e32\u0e23",
       "url": "https://open.spotify.com/track/1A70GCKNmhJnWRXMwGS7As"
@@ -23419,6 +23579,24 @@
     },
     {
       "album": {
+        "name": "\u0e2e\u0e35\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e07\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e2b\u0e49\u0e32\u0e21 (His Angel) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/2fEN2VOTA3ut1gN506pzIN"
+      },
+      "artists": [
+        {
+          "name": "LEON BROCCO",
+          "url": "https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u0e2e\u0e35\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e27\u0e07\u0e41\u0e15\u0e48\u0e44\u0e21\u0e48\u0e2b\u0e49\u0e32\u0e21 (His Angel) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/73uCzdWUHRVsoFvX3hdZoZ"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e01\u0e47\u0e1a\u0e21\u0e31\u0e19\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49 (Hold Your Tears)",
         "url": "https://open.spotify.com/album/1b7dY1DWVid6ALdFNH8sXW"
       },
@@ -23527,6 +23705,24 @@
     },
     {
       "album": {
+        "name": "Zax or Die",
+        "url": "https://open.spotify.com/album/2k5BF1JguN0uDurX32WEV4"
+      },
+      "artists": [
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245519,
+      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e25\u0e30\u0e2a\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e17\u0e35\u0e25\u0e30\u0e04\u0e19",
+      "url": "https://open.spotify.com/track/38r4bUf6Yo38weYngITM6y"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2a\u0e21\u0e2d\u0e21\u0e32 (precious)",
         "url": "https://open.spotify.com/album/655SjOoBJ6RaSciWVEJlTX"
       },
@@ -23625,6 +23821,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e07\u0e32...\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/3PTXvqPCV5ijlUgGt1tufp"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207580,
+      "name": "\u0e40\u0e2b\u0e07\u0e32...\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1HDARi635fpU4mHpzKtFYs"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/5GV7Z9IvIaP0iBO7aCDQbU"
       },
@@ -23676,7 +23890,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184166,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e19\u0e04\u0e38\u0e22 (Just Friends)",
       "url": "https://open.spotify.com/track/3fBaEUP9EZ4IvIeq4zA313"
@@ -23836,6 +24050,24 @@
       "duration_ms": 164005,
       "name": "\u0e44\u0e21\u0e48\u0e0a\u0e31\u0e27\u0e23\u0e4c (Not Sure)",
       "url": "https://open.spotify.com/track/1H99TrJbwr4790x1MxwTe9"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+        "url": "https://open.spotify.com/album/37j3Ofcn7pBtbUe4pxOIPx"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202900,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+      "url": "https://open.spotify.com/track/0NV22uXDU0K7EIjKuhzoBy"
     },
     {
       "album": {

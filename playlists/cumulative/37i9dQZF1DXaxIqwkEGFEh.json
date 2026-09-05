@@ -2379,6 +2379,28 @@
     },
     {
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/1eOdhxggRGldk8S3nhyJVl"
+      },
+      "artists": [
+        {
+          "name": "Fetty P Franklin",
+          "url": "https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq"
+        },
+        {
+          "name": "Bandplay",
+          "url": "https://open.spotify.com/artist/001JSS0JKLX5cXFKrAElzy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/0EvmmYeXF0ZDdWpD9IsRL3"
+    },
+    {
+      "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/5ridWYM8bnEFaZ9dQkLxid"
       },
@@ -22578,7 +22600,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151782,
       "name": "LaCosa Nostra",
       "url": "https://open.spotify.com/track/0DreY8KX91mYLY6vN6mYqD"
@@ -23995,6 +24017,28 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/3OuVlBo94dtOAFRRBGla3g"
+      },
+      "artists": [
+        {
+          "name": "Prince Dre",
+          "url": "https://open.spotify.com/artist/01Zk9dhjhxQNqje6GrKJ3d"
+        },
+        {
+          "name": "Pistol Po",
+          "url": "https://open.spotify.com/artist/0d3xQLthO9FgMX9MBKXfQ5"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/1gDjkQzHEJDVL0dLPBGGba"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/2MrAeXVF8AF8jb3LSK4TIM"
       },
@@ -24192,7 +24236,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 87336,
       "name": "Lost It All",
       "url": "https://open.spotify.com/track/5lxJQfIXZpwtgWxFjeCGWy"
@@ -26768,7 +26812,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 130351,
       "name": "Movin Out",
       "url": "https://open.spotify.com/track/4Is0VhkqFaxtj3Ho8p0oxD"
@@ -27208,7 +27252,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 128372,
       "name": "Murdagang Shit",
       "url": "https://open.spotify.com/track/6TVldnYbwHcVEiLgu0lsFr"
@@ -45156,6 +45200,24 @@
       "duration_ms": 121285,
       "name": "Walk Em",
       "url": "https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io"
+    },
+    {
+      "album": {
+        "name": "The Mad Vamp",
+        "url": "https://open.spotify.com/album/3PJuBz1EOiXcGEWQDlrkxU"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Walking",
+      "url": "https://open.spotify.com/track/0TWSQ46ueFejcvpYXXAvbl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: HALCALI \*👉 <a href="https://spice.eplus.jp/articles/348671">連動記事</a>をSPICEでチェック!
 
-16,073 songs - 42 day 16 hr 1 min
+16,074 songs - 42 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6920,6 +6920,7 @@
 | [Outside \(Soto\)](https://open.spotify.com/track/3qFGKudbda5dTtblhOvlXh) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 3:26 | 2024-07-23 | 2024-07-31 |
 | [Outsider](https://open.spotify.com/track/6qRBi6m2Lf5tHP4jPdcVYa) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Outsider](https://open.spotify.com/album/2vBi0eZcGLOBdxB74ye1ce) | 2:44 | 2025-05-07 | 2025-05-14 |
 | [Outta My Way](https://open.spotify.com/track/2Rle8nZeL1JWheyeTCBkA3) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp), [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [Outta My Way](https://open.spotify.com/album/4RE5Q8YYPCVACMJh68Go6N) | 4:07 | 2026-03-17 | 2026-03-25 |
+| [OUTWEST](https://open.spotify.com/track/4Bn4b4N7rWCqPlKfEZi6PB) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [OUTWEST](https://open.spotify.com/album/2zVQGjF89IWIFQQVNT3SPG) | 3:18 | 2026-09-01 |  |
 | [OUT老GUYS](https://open.spotify.com/track/2M12fEB3BcDnA72QoJFshM) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [more\-AA\-janaica](https://open.spotify.com/album/6MWiOU2RpUxxfcijwqkST5) | 5:27 | 2023-03-21 | 2023-03-29 |
 | [over](https://open.spotify.com/track/0sRn0jlhMjuUVarwx6plEH) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [overturn](https://open.spotify.com/album/60USi3blMEiaExFVOPYOjS) | 3:50 | 2025-09-23 | 2025-10-01 |
 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 | 2025-11-25 | 2025-12-03 |

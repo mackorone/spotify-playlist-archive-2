@@ -4391,6 +4391,24 @@
     },
     {
       "album": {
+        "name": "Circular Bloom",
+        "url": "https://open.spotify.com/album/60CL93wvcFojUuVIuIECP1"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Circular Bloom",
+      "url": "https://open.spotify.com/track/020knxKD6Mue4bKqmM8tal"
+    },
+    {
+      "album": {
         "name": "Circular Moments",
         "url": "https://open.spotify.com/album/4EuFhjUgYAPxkOdDun3Wf3"
       },
@@ -8218,7 +8236,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169180,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/4mNZCdOkAZA9nIZDzIqCb5"
@@ -10403,6 +10421,24 @@
     },
     {
       "album": {
+        "name": "Hidden Path",
+        "url": "https://open.spotify.com/album/6JFAXMMF0r8QdxdD8zsA6w"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Hidden Path",
+      "url": "https://open.spotify.com/track/3gswA5as1PTHPTstdDW9yA"
+    },
+    {
+      "album": {
         "name": "Hidden Valley",
         "url": "https://open.spotify.com/album/1xMahjlI61f6O6DBDFPfP3"
       },
@@ -11696,6 +11732,24 @@
       "duration_ms": 175015,
       "name": "Internal",
       "url": "https://open.spotify.com/track/66HD8LXFJtUr5CLFih29qc"
+    },
+    {
+      "album": {
+        "name": "Interplanetary Medium",
+        "url": "https://open.spotify.com/album/7rMJS4vNv3MNVk13YoPLbr"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173739,
+      "name": "Interplanetary Medium",
+      "url": "https://open.spotify.com/track/3eHTAleBa1eA7DlDf6G9a6"
     },
     {
       "album": {
@@ -13716,6 +13770,24 @@
       "duration_ms": 141000,
       "name": "Midnight Eclipse",
       "url": "https://open.spotify.com/track/1oHyMOqu7Sr9tKmND8Hdrk"
+    },
+    {
+      "album": {
+        "name": "Midnight Frequency",
+        "url": "https://open.spotify.com/album/1zwff5ZvtXlVdqe0ojQLvs"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Midnight Frequency",
+      "url": "https://open.spotify.com/track/0iqOVs7m1rQS1EoUfbNaQr"
     },
     {
       "album": {

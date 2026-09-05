@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 65211,
+  "num_followers": 65225,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAADr8WszqK3c9dLw37jN4H1o",
+  "snapshot_id": "api4gAAAAADd/rkBU4ngfbIesXgyVk9M",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
+        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
+        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
+      "duration_ms": 132133,
+      "name": "Killer Diller Blues - Music from The American Epic Sessions",
+      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killer Diller Blues (Music from The American Epic Sessions)",
-        "url": "https://open.spotify.com/album/3fTgCsGWNSoJ9uJG191vHN"
+        "name": "Joe (Live From Austin City Limits)",
+        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 132133,
-      "name": "Killer Diller Blues - Music from The American Epic Sessions",
-      "url": "https://open.spotify.com/track/3dVQcur9BPd2yrDEx6wMRH"
+      "duration_ms": 211374,
+      "name": "Joe - Live From Austin City Limits",
+      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe (Live From Austin City Limits)",
-        "url": "https://open.spotify.com/album/3l4cgsdtm5xgwF5siDaavQ"
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/66R8LOliRn161vDiINJo9z"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 211374,
-      "name": "Joe - Live From Austin City Limits",
-      "url": "https://open.spotify.com/track/01zPVwitbE70nDuvEKFtGD"
+      "duration_ms": 92320,
+      "name": "Mama - Live At KCRW",
+      "url": "https://open.spotify.com/track/4QoURqcKCV0HAoXPZELe1e"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/66R8LOliRn161vDiINJo9z"
+        "name": "Heavy Chevy",
+        "url": "https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 92320,
-      "name": "Mama - Live At KCRW",
-      "url": "https://open.spotify.com/track/4QoURqcKCV0HAoXPZELe1e"
+      "duration_ms": 146120,
+      "name": "Heavy Chevy",
+      "url": "https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 195706,
       "name": "Guess Who",
       "url": "https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Chevy",
-        "url": "https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 146120,
-      "name": "Heavy Chevy",
-      "url": "https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9"
     },
     {
       "added_at": null,

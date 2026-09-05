@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo mejor del Trap, Rap, R&B, Afrobeat y Reggaeton Cristiano\. Foto: Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,456 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,507 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 68 | [Máscara](https://open.spotify.com/track/6k9GJ0gm4nsuAVmLdNzCaf) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij) | [Máscara](https://open.spotify.com/album/26eDfi3zSXwubdtw76sRa0) | 3:10 |
 | 69 | [Sigo Firme](https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH) | [Marky O](https://open.spotify.com/artist/2imiGAOjvr74j2uW3drLCi), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Sigo Firme](https://open.spotify.com/album/3NGFEU6jnnJOqS90KdvfGW) | 3:18 |
 
-Snapshot ID: `AAAAAKmckwrr7g+E3QAeIHawW3tRoNEx`
+Snapshot ID: `AAAAACUSi7LLfFYzRrjU4g5JI7S+/VYM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: jolle
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,956 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,064 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 7 | [Andere Liga](https://open.spotify.com/track/1iBVYIiJezY9pZAxkCs1eB) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Andere Liga](https://open.spotify.com/album/1ItmPp47g6AcjrEtQOGVVb) | 2:29 |
 | 8 | [heimweg](https://open.spotify.com/track/74GZ5iyuUX1GQMBTiy0KnW) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sommerwind ep](https://open.spotify.com/album/6oUfyBG4f7euQM1adDfELn) | 3:04 |
 | 9 | [Freunde bleiben?](https://open.spotify.com/track/1FSLIvBRk3h3MbRhPGjDwu) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Freunde bleiben?](https://open.spotify.com/album/74daJ3neTDpZsPFHe9ctkx) | 2:57 |
-| 10 | [Track 8](https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41) | [Farin Urlaub](https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy) | [Ein Lächeln im Gesicht](https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m) | 0:00 |
+| 10 | [Irgendwas von Bach](https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41) | [Farin Urlaub](https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy) | [Ein Lächeln im Gesicht](https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m) | 2:20 |
 | 11 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 12 | [CHERRY COLA](https://open.spotify.com/track/7st0iRApFZ90shWUamOjWt) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [CHERRY COLA](https://open.spotify.com/album/5TwWNrNhXdTE8EcJqgqYJK) | 2:15 |
 | 13 | [Ich schmeiß mein Leben weg und lach dabei](https://open.spotify.com/track/0QHFBXYVvweUURp26S4F1f) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Ich schmeiß mein Leben weg und lach dabei](https://open.spotify.com/album/2tgzT0dcWu3w26hZx1YJHB) | 2:39 |

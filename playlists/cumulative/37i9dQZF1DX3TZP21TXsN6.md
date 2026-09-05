@@ -4,7 +4,7 @@
 
 > Adfbigga, Yenko Forever, Sinco en meer…
 
-729 songs - 1 day 7 hr 21 min
+730 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [PTSS](https://open.spotify.com/track/3b99ZoNjPcuPYkzbvUiveQ) | [Chrisjeboy](https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk) | [PTSS](https://open.spotify.com/album/6Zu28xcy85qba4KxvxKyoz) | 2:09 | 2026-06-18 | 2026-08-21 |
 | [PTSS](https://open.spotify.com/track/5x1u6tT7kZ06SVjeiOfNbo) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [PTSS](https://open.spotify.com/album/6jNLjUuXrS5RN3tyvVFDlQ) | 3:33 | 2026-03-12 | 2026-04-17 |
 | [PUSH WEIGHT](https://open.spotify.com/track/6RlK37GUpLaVBqI5dybRJF) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Soulcatcher](https://open.spotify.com/artist/0nI9Zjt8TBULp0VE6TrdRJ) | [PUSH WEIGHT](https://open.spotify.com/album/6ywOsw5VTmbgIrasETLDOT) | 3:00 | 2026-06-18 | 2026-07-17 |
+| [Quarterback](https://open.spotify.com/track/2CyPi3EwtTSq3QUMBGyjW5) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Quarterback](https://open.spotify.com/album/3ggEhQJO82iJk2FHK7DMGd) | 2:11 | 2026-09-04 |  |
 | [Quatre Mains](https://open.spotify.com/track/0Ei1lF6f3W9CGrMf69d93D) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [SAN ANDREAS](https://open.spotify.com/artist/4DkAejYwYl6ApOckPPlo1y) | [Quatre Mains](https://open.spotify.com/album/7DAHUsY5UAEM0bI3lN7K52) | 2:32 | 2026-04-23 | 2026-05-29 |
 | [Range](https://open.spotify.com/track/2zoluwABwWrv3JCA1kzrPC) | [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [Range](https://open.spotify.com/album/5GNZHAPHmD2YkN9CV7DrNi) | 2:18 | 2026-07-09 | 2026-07-17 |
 | [Rappen Trappen Ballie](https://open.spotify.com/track/5gE3j4UuecqDG6N8dHxH6F) | [Noah Ysp](https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u) | [Make Agga Great Again](https://open.spotify.com/album/5DmSdGpWlqRUE638dK1jar) | 2:03 | 2026-02-02 | 2026-03-13 |

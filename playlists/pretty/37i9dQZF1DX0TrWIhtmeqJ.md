@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: TR Gobrazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,700 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,710 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 5 | [Rust Bucket](https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Rust Bucket](https://open.spotify.com/album/3t36VFJZEVIaViy3c5i53x) | 2:53 |
 | 6 | [Dare You/N2S](https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn) | [Javán](https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE) | [Dare You/N2S](https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6) | 2:29 |
 | 7 | [Fake Friends](https://open.spotify.com/track/413pM0wBJH35B542tx3Q8l) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Fake Friends](https://open.spotify.com/album/2eZbf51oMa3TKOcx2n3bMu) | 1:43 |
-| 8 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
+| 8 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len Lucci](https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
 | 9 | [Random Yutes](https://open.spotify.com/track/372zFtfJxHdZgYxHuxtGK0) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Random Yutes](https://open.spotify.com/album/1ZblTU3ZEZ0FoBovc8omNx) | 2:38 |
 | 10 | [Chérie](https://open.spotify.com/track/38eDj6t09QQLWfyPWyNK2x) | [Nosa](https://open.spotify.com/artist/1kzEYCZOAVa2h07NEcCezO) | [Chérie](https://open.spotify.com/album/4nstEL30geoz128jRW5OxL) | 2:24 |
 | 11 | [Hot Stunna](https://open.spotify.com/track/2w5bjA39r61Zytbm2DNM6X) | [Che Mario](https://open.spotify.com/artist/1ivNd0gXUD4YnY1HLm6akh) | [Hot Stunna](https://open.spotify.com/album/7DyV42H8KMaBlNHJlsdcCC) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [WAY U MOVE](https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [WAY U MOVE](https://open.spotify.com/album/53j5zsXCSgA1ufUYC05uQx) | 2:08 |
 | 70 | [caught up](https://open.spotify.com/track/3ItBDVIrb7rwSy1v4aLuQD) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [caught up](https://open.spotify.com/album/37CZe90UUBmPPedcTo6cc6) | 2:40 |
 
-Snapshot ID: `AAAAAF3f5lkW5SibWBXZ94VWtTG4NCc9`
+Snapshot ID: `AAAAAFF4A+LJJeYb3BzKsXlkFcZC5It6`

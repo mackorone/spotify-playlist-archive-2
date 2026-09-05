@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 55020,
+  "num_followers": 55032,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAB8fKB1mqAlZ3Z9hlupkznx",
+  "snapshot_id": "api4gAAAAABH0AZM0Ed9j+h7gayPPNNu",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Gold Lion",
-      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 233106,
       "name": "Soft Shock",
       "url": "https://open.spotify.com/track/3fXx53m03IKoS5bRq3Xfq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 230346,
       "name": "Hysteric",
       "url": "https://open.spotify.com/track/3zH9RnVnw2v4TemWU5j6Qz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/4IzJ8gIh9paZfeoN4D0Ah4"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 238040,
-      "name": "Cheated Hearts",
-      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5mfA2CBzQeGiTk9wFItCsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Is EP",
-        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Down Boy",
-      "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Blitz! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 302160,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Is EP",
+        "url": "https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Down Boy",
+      "url": "https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 248386,
-      "name": "Dull Life",
-      "url": "https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mosquito (Deluxe)",
         "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 246146,
       "name": "Slave",
       "url": "https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 248386,
+      "name": "Dull Life",
+      "url": "https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
-        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
       },
       "artists": [
         {
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Honeybear",
-      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
+      "duration_ms": 124466,
+      "name": "Isis - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2f97EMDsF42qDVDuAyGDHX"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Know + Gold Lion (Diplo Remix) + Gold Lion (Nick Remix)",
+        "url": "https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fever To Tell",
         "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
@@ -607,6 +607,38 @@
       "duration_ms": 135906,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Hyperballad - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/6YOgoaTuNryUPexyDH5esI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "Honeybear",
+      "url": "https://open.spotify.com/track/4UZtZ5EV1f1GbvWgee28J7"
     },
     {
       "added_at": null,
@@ -627,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
+        "name": "Fever To Tell",
+        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
       },
       "artists": [
         {
@@ -636,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 242080,
-      "name": "Dragon Queen",
-      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
+      "duration_ms": 184126,
+      "name": "Poor Song",
+      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
     },
     {
       "added_at": null,
@@ -659,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever To Tell",
-        "url": "https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI"
+        "name": "It's Blitz! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG"
       },
       "artists": [
         {
@@ -668,15 +700,15 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 184126,
-      "name": "Poor Song",
-      "url": "https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ"
+      "duration_ms": 242080,
+      "name": "Dragon Queen",
+      "url": "https://open.spotify.com/track/1ek6eqeBi1u72pUpDi37oF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "IS IS",
-        "url": "https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi"
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
       },
       "artists": [
         {
@@ -684,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Isis",
-      "url": "https://open.spotify.com/track/2NYq8NiOFp4k1b4UKgW2n1"
+      "duration_ms": 87080,
+      "name": "In Heaven - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/0hHhSZVbkKEsfVcweDIDl3"
     },
     {
       "added_at": null,
@@ -719,22 +751,6 @@
       "duration_ms": 140800,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Hyperballad - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/6YOgoaTuNryUPexyDH5esI"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
       "duration_ms": 120773,
       "name": "Art Star",
       "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 87080,
-      "name": "In Heaven - Live at the Royal Albert Hall",
-      "url": "https://open.spotify.com/track/0hHhSZVbkKEsfVcweDIDl3"
     },
     {
       "added_at": null,

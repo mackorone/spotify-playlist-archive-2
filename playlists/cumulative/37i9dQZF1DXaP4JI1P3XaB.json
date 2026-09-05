@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 214573,
       "name": "#96 Monday, June 22, 2020 in B (feat. Adam Schatz)",
       "url": "https://open.spotify.com/track/6uJhTbHVijWuirNiUxUCQQ"
@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Falling and Fragmentation",
+        "url": "https://open.spotify.com/album/0bMntYjNzLPXKocSysXInh"
+      },
+      "artists": [
+        {
+          "name": "Midori Takada",
+          "url": "https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n"
+        },
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501573,
+      "name": "Falling and Fragmentation",
+      "url": "https://open.spotify.com/track/5uE7CpImPBnxvseuMcFEHh"
+    },
+    {
+      "album": {
         "name": "Uhlmann Johnson Wilkes",
         "url": "https://open.spotify.com/album/5BoARvlCqrzxSk3pURO57c"
       },
@@ -580,6 +602,28 @@
       "duration_ms": 125586,
       "name": "Fields",
       "url": "https://open.spotify.com/track/73jD86vayrwEMbbnO029U8"
+    },
+    {
+      "album": {
+        "name": "A Few We Remember",
+        "url": "https://open.spotify.com/album/5ErnMxu3YtR3U3MoLaAQV7"
+      },
+      "artists": [
+        {
+          "name": "Jonah Parzen-Johnson",
+          "url": "https://open.spotify.com/artist/70bLp8NTo9k8cyGtyR8t4V"
+        },
+        {
+          "name": "Lau Nau",
+          "url": "https://open.spotify.com/artist/2oXfE2cVZxbX7OGVldazev"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265062,
+      "name": "First Time Viewer",
+      "url": "https://open.spotify.com/track/6yWJBILcgv1RMME8K7C3iW"
     },
     {
       "album": {
@@ -1012,7 +1056,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 216186,
       "name": "Obelisco Elysium",
       "url": "https://open.spotify.com/track/3JH7UO0zvFdPB8Uv1zINM3"
@@ -1158,7 +1202,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 261277,
       "name": "Portals",
       "url": "https://open.spotify.com/track/2dynOCU9R0Qbl9moIr85FX"
@@ -1552,6 +1596,36 @@
       "duration_ms": 97876,
       "name": "Untitled 7",
       "url": "https://open.spotify.com/track/4oAMTQjWK3APisU7CBAeYR"
+    },
+    {
+      "album": {
+        "name": "I Pianeti",
+        "url": "https://open.spotify.com/album/6cQumlwVZZixNxJ0zAhwj1"
+      },
+      "artists": [
+        {
+          "name": "Sassofono Notturno",
+          "url": "https://open.spotify.com/artist/4xMgiEVoX9qsYQb4OuKr7R"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        },
+        {
+          "name": "Dave Harrington",
+          "url": "https://open.spotify.com/artist/2ZEtnLILrDPXloC9ujwaJS"
+        },
+        {
+          "name": "Philip Weinrobe",
+          "url": "https://open.spotify.com/artist/13ZvNYwphjUEGViDNMTW8O"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283990,
+      "name": "Venere",
+      "url": "https://open.spotify.com/track/49AavYj2lqPuYDE3HQ0uS6"
     },
     {
       "album": {

@@ -1,13 +1,33 @@
 {
   "description": "now all I know is the ending",
-  "num_followers": 148927,
+  "num_followers": 148952,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFUU5WTVaKbg7HcLjAIl9L0TKX21",
+  "snapshot_id": "AAAAANjsCRWmgb0inJByB5y1TlS2EXsl",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:01:35",
+      "album": {
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
+        }
+      ],
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
+    },
     {
       "added_at": "2026-08-28 04:01:49",
       "album": {
@@ -25,20 +45,20 @@
       "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
     },
     {
-      "added_at": "2026-08-28 04:01:49",
+      "added_at": "2026-09-04 04:01:35",
       "album": {
-        "name": "Leaving The Zoo",
-        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
       },
       "artists": [
         {
-          "name": "Renny Conti",
-          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
         }
       ],
-      "duration_ms": 323341,
-      "name": "Leaving The Zoo",
-      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
     },
     {
       "added_at": "2026-08-28 04:01:49",
@@ -57,20 +77,52 @@
       "url": "https://open.spotify.com/track/0HS4WzoaC3k2Ets6rjjA0n"
     },
     {
-      "added_at": "2026-08-14 04:01:50",
+      "added_at": "2026-08-28 04:01:49",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
         }
       ],
-      "duration_ms": 281544,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
+      "duration_ms": 323341,
+      "name": "Leaving The Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-02 17:36:50",
@@ -127,38 +179,6 @@
     {
       "added_at": "2026-08-28 04:01:49",
       "album": {
-        "name": "I Bought You A Star",
-        "url": "https://open.spotify.com/album/13vkqYXmrCevp8aHh505ZF"
-      },
-      "artists": [
-        {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "I Bought You A Star",
-      "url": "https://open.spotify.com/track/71qJx5tf3MlEIdzWPKigur"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "Hey Big Dipper",
-        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 186806,
-      "name": "Hey Big Dipper",
-      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:49",
-      "album": {
         "name": "I Don\u2019t Think About You At All",
         "url": "https://open.spotify.com/album/2PyzkdpQyjz7JKSuhxzuhP"
       },
@@ -171,6 +191,22 @@
       "duration_ms": 185186,
       "name": "I Don't Think About You At All",
       "url": "https://open.spotify.com/track/3OVHIXxMgDnWO3mimKikH7"
+    },
+    {
+      "added_at": "2026-08-28 04:01:49",
+      "album": {
+        "name": "I Bought You A Star",
+        "url": "https://open.spotify.com/album/13vkqYXmrCevp8aHh505ZF"
+      },
+      "artists": [
+        {
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "I Bought You A Star",
+      "url": "https://open.spotify.com/track/71qJx5tf3MlEIdzWPKigur"
     },
     {
       "added_at": "2026-08-14 04:01:50",
@@ -187,6 +223,22 @@
       "duration_ms": 234194,
       "name": "I-40",
       "url": "https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:50",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 281544,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/2EPxhPbZczxce6wHbuOlQ6"
     },
     {
       "added_at": "2026-08-07 04:00:10",
@@ -235,22 +287,6 @@
       "duration_ms": 168146,
       "name": "It Just So Happens",
       "url": "https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j"
-    },
-    {
-      "added_at": "2026-08-14 04:01:50",
-      "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 236205,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "added_at": "2026-07-24 04:01:51",
@@ -319,18 +355,18 @@
     {
       "added_at": "2026-08-14 04:01:50",
       "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
+      "duration_ms": 236205,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "added_at": "2026-08-12 13:17:51",
@@ -789,6 +825,22 @@
       "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
+      "added_at": "2026-06-30 16:42:39",
+      "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O"
+    },
+    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Sweet Thief",
@@ -857,22 +909,6 @@
       "url": "https://open.spotify.com/track/2LEP2d1w4405whwBUjuVzE"
     },
     {
-      "added_at": "2026-07-03 04:01:45",
-      "album": {
-        "name": "4th of july",
-        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
-      },
-      "artists": [
-        {
-          "name": "Truman Sinclair",
-          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
-    },
-    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Do It Again",
@@ -889,6 +925,22 @@
       "url": "https://open.spotify.com/track/1VXjOPfK7ZbpEwhYRlSfw6"
     },
     {
+      "added_at": "2026-06-26 04:01:51",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Bug Party",
@@ -903,22 +955,6 @@
       "duration_ms": 170666,
       "name": "Bug Party",
       "url": "https://open.spotify.com/track/01yinCYq4mBmzWVhnKUohd"
-    },
-    {
-      "added_at": "2026-06-30 16:42:39",
-      "album": {
-        "name": "whole thing",
-        "url": "https://open.spotify.com/album/1WydiChL7ocrGkvYJlBdXD"
-      },
-      "artists": [
-        {
-          "name": "Sadurn",
-          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "whole thing",
-      "url": "https://open.spotify.com/track/66DFFKTwEtueKedCE5qt1O"
     },
     {
       "added_at": "2026-07-03 04:01:45",
@@ -951,22 +987,6 @@
       "duration_ms": 165782,
       "name": "Never in Love",
       "url": "https://open.spotify.com/track/12zMISWKPX9HqBx871hlOL"
-    },
-    {
-      "added_at": "2026-06-26 04:01:51",
-      "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "added_at": "2026-06-26 04:01:51",
@@ -1015,6 +1035,22 @@
       "duration_ms": 169121,
       "name": "Good At Leaving",
       "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-07-03 04:01:45",
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -1719,26 +1755,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
-        "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 321140,
-      "name": "Where\u2019s Your Love Now - Waxahatchee Version",
-      "url": "https://open.spotify.com/track/5hLbAu2TGDhiwhvebzY5cv"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
       },
@@ -1823,6 +1839,26 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
+        "name": "Nested in Tangles (Deluxe)",
+        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        },
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Beholden to the Birds Murmuring Above",
+      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
         "name": "Siri, Cancel My Plans",
         "url": "https://open.spotify.com/album/4rSCTsEKef4LHsPP7UE9UT"
       },
@@ -1835,6 +1871,22 @@
       "duration_ms": 183813,
       "name": "Siri, Cancel My Plans",
       "url": "https://open.spotify.com/track/3nHAw1ypqCG5wS51ipil5i"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 248148,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -1867,26 +1919,6 @@
       "duration_ms": 195200,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Nested in Tangles (Deluxe)",
-        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        },
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Beholden to the Birds Murmuring Above",
-      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -1927,22 +1959,6 @@
       "duration_ms": 223155,
       "name": "Will You Dare",
       "url": "https://open.spotify.com/track/0qI9b53TUwd5tnT0eoIeqm"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 248148,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -2027,22 +2043,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
-      },
-      "artists": [
-        {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "S'mores",
         "url": "https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n"
       },
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
         "name": "Shine On Me",
         "url": "https://open.spotify.com/album/1ztMEOs9UAIsrb6Dv9h8Tw"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 296926,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "In Copula",
-        "url": "https://open.spotify.com/album/546vXsHq8uwb1lkrjg3IPR"
-      },
-      "artists": [
-        {
-          "name": "Ebril",
-          "url": "https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Stranger In You",
-      "url": "https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y"
     }
   ],
   "unique_name": "juniper",

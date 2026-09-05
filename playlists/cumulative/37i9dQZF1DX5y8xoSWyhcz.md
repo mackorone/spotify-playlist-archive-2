@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,737 songs - 3 day 18 hr 23 min
+1,739 songs - 3 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 | 2026-08-28 |  |
 | [follow the sun](https://open.spotify.com/track/1K54QSGXlDIQsMVCBTgiO2) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [everyone, outside \(deluxe\)](https://open.spotify.com/album/7yLzVmA46Pq0yluVHBrPgc) | 3:36 | 2025-11-07 | 2026-03-28 |
 | [Food for Thought!](https://open.spotify.com/track/7kqND83w6pGMFLJk9FGEKG) | [Graham Maude](https://open.spotify.com/artist/6FVfuomyRl6eTey7gmnWbb) | [Food for Thought!](https://open.spotify.com/album/2I6eaGVOnYptpQYhrtAAoH) | 4:06 | 2021-07-04 | 2021-08-21 |
+| [Fool](https://open.spotify.com/track/4Hv6YUxq4IsUiJhZPpNdNl) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [Fool](https://open.spotify.com/album/3hlnMTkZmTemLSKPkUFb1V) | 2:28 | 2026-09-04 |  |
 | [Fool](https://open.spotify.com/track/1QfM6VflLcrdCrUesQNRaY) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Fool](https://open.spotify.com/album/7w4tCZWvp0OAjIL10rZBpA) | 4:03 | 2025-08-08 | 2025-11-15 |
 | [For Me](https://open.spotify.com/track/5p7CXqeafsP4Q83zyWo2Fc) | [Yung Trip](https://open.spotify.com/artist/3juBA3263XAXLwN9ZisLll) | [For Me](https://open.spotify.com/album/51bfRLjJwKpcREYP0nWdDD) | 3:30 | 2024-03-01 | 2025-04-26 |
 | [for sale 2 own](https://open.spotify.com/track/2OgwHWIvzwoMANPqIrvYSS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [for sale 2 own](https://open.spotify.com/album/4bQY42D7Egu7z85iNg2pz3) | 2:39 | 2025-07-25 | 2025-11-22 |
@@ -701,6 +702,7 @@
 | [HOUSEPARTY](https://open.spotify.com/track/1kbb1Lcg5ASJvvsWqNTOao) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/1ByroWcsJkB2R4PpzouniL) | 2:27 | 2022-09-23 | 2022-10-13 |
 | [HOUSEPARTY](https://open.spotify.com/track/30m81sZ92Ux0Negw2m3W8d) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [HOUSEPARTY](https://open.spotify.com/album/6wtBot0kdVYtezrca2upV8) | 2:27 | 2022-10-07 | 2023-02-06 |
 | [HOUSEPARTY](https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br) | [mekel](https://open.spotify.com/artist/7hKsP5ebkNfMNIomoQra4B) | [How to Forgive \(and Let Go\)](https://open.spotify.com/album/39oky69khpuWAuadskGlKI) | 2:27 | 2023-03-03 | 2024-03-02 |
+| [how about you](https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [how about you](https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl) | 2:48 | 2026-09-04 |  |
 | [How Are You](https://open.spotify.com/track/0qEHThgZt3tBipnvHL5PYt) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [How Are You](https://open.spotify.com/album/3Pm1iQG3ktEPMacNr1Qqu1) | 4:33 | 2021-03-27 | 2021-06-12 |
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
 | [HOW WAS YOUR DAY?](https://open.spotify.com/track/7uUB3Ypgg4XRD1TIhGqsUE) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [HOW WAS YOUR DAY?](https://open.spotify.com/album/56EwjhypyDbNqQWWPn4nfF) | 3:52 | 2025-10-31 | 2026-01-31 |

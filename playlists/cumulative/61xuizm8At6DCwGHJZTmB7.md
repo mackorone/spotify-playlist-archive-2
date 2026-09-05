@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-802 songs - 3 day 5 hr 1 min
+803 songs - 3 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [So Will I \(100 Billion X\) \- Live](https://open.spotify.com/track/1dnNDM04yKaJl0tQ34TUXd) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 7:04 | 2023-12-01 | 2024-09-10 |
 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 | 2025-03-20 |  |
 | [Something About That Name](https://open.spotify.com/track/68qm1xj2QTa1aRO0qqN8Vx) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:32 | 2022-02-17 | 2022-03-16 |
-| [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 | 2026-06-26 |  |
+| [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 | 2026-06-26 | 2026-09-05 |
 | [Son Of God](https://open.spotify.com/track/1ZurhYwxZ3BfUT0dgBVDIm) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Dylan Hibbert](https://open.spotify.com/artist/5no1FTSk0MBXEWW5gsv7lV) | [Son Of God](https://open.spotify.com/album/4LaV3O6xIOnrvcoL5RqpXj) | 4:40 | 2026-03-27 | 2026-08-20 |
 | [Son of Man \- Live](https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Son of Man \(Live\)](https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ) | 9:05 | 2024-10-11 | 2025-03-21 |
 | [Song Of My Salvation \- Live](https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf) | 4:19 | 2023-04-14 | 2023-12-14 |
@@ -658,6 +658,7 @@
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-04-29 | 2024-09-10 |
 | [Take You At Your Word \(with Benjamin William Hastings\) \- Live](https://open.spotify.com/track/7k6FvX8WhPoYDHMl4QCavz) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [God Is Good! \(Live\)](https://open.spotify.com/album/4qZwzswmv5lNwLftPcVNBH) | 5:16 | 2022-09-30 | 2024-04-19 |
 | [Take You At Your Word \- Live](https://open.spotify.com/track/72RlJgcgpJtCsKQaqkOkvy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 5:16 | 2024-05-10 |  |
+| [Talk About A Resurrection](https://open.spotify.com/track/5YVqnrnFXUNOtK7APCKw9p) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Living Proof](https://open.spotify.com/album/2NHM9B26cjeEBoBqKk6yoT) | 4:14 | 2026-09-04 |  |
 | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Taste And See \(The Love Of Christ\)](https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH) | 4:32 | 2026-01-30 | 2026-08-20 |
 | [Thank You For The Cross](https://open.spotify.com/track/3rIXSYO1kDQNABqKPMx1Mf) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Thank You For The Cross](https://open.spotify.com/album/4Shebl4exeuH6RqnAefgA4) | 4:30 | 2025-01-31 |  |
 | [Thank You Jesus \- Live](https://open.spotify.com/track/7K5nNObVmbPms4QbZqBiIL) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Andy Soemo](https://open.spotify.com/artist/2aG47VxruShzjK6JzKZ0zh) | [Thank You Jesus](https://open.spotify.com/album/1w8Gbu0ZFgDiGQkrfTp5xp) | 3:42 | 2024-05-24 | 2025-03-21 |

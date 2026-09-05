@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbxOq5bgm2a.md) - [plain]
 
 > The official Supergirl soundtrack — plus songs handpicked by the cast and crew that define Supergirl, Ruthye, and Lobo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,300 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,321 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

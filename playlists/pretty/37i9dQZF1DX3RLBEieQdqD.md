@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,031 likes - 87 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,068 likes - 87 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 28 | [GPS \#6 \- Solito](https://open.spotify.com/track/1fKPrxO4NGBaDUll4McQ7q) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [GPS \#6 \- Solito](https://open.spotify.com/album/5hFxLJNZ5flQkHXy0FOGHN) | 3:02 |
 | 29 | [Cosas Sencillas](https://open.spotify.com/track/4ikMJDrE2nIttXU6d8EbfE) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cosas Sencillas](https://open.spotify.com/album/7unbBGse88W3EmNqFwuD0j) | 3:12 |
 | 30 | [No Me Resignare](https://open.spotify.com/track/0bmLUt1Gt466W82eREpJsH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:56 |
-| 31 | [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 |
+| 31 | [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Dany on the beat](https://open.spotify.com/artist/3AkmmnCGbG2cs6TArn118s), [Felipe Valencia](https://open.spotify.com/artist/1vhQdjZ8LkPdwPPcw6sXH4), [Camilo Montoya](https://open.spotify.com/artist/7vOGREEXHg2Kncd63eGy3Q) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 |
 | 32 | [Cierra los Ojos](https://open.spotify.com/track/3bCiiP29KywpG5ZiOIepLs) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Cariño Malo](https://open.spotify.com/album/6GxAiqQlYPgrUEkxZKyrPU) | 4:12 |
 | 33 | [Entre Tres](https://open.spotify.com/track/30Hg8iU4qa3jF4bHWFuntU) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Entre Tres](https://open.spotify.com/album/4wGZbVvcruRcSUkz7sO4Ys) | 3:05 |
 | 34 | [Marlboro Rojo](https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:04 |

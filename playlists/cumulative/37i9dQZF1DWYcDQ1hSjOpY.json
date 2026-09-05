@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Circular Bloom",
+        "url": "https://open.spotify.com/album/60CL93wvcFojUuVIuIECP1"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Circular Bloom",
+      "url": "https://open.spotify.com/track/020knxKD6Mue4bKqmM8tal"
+    },
+    {
+      "album": {
         "name": "Circular Moments",
         "url": "https://open.spotify.com/album/4EuFhjUgYAPxkOdDun3Wf3"
       },
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169180,
       "name": "Expansions",
       "url": "https://open.spotify.com/track/4mNZCdOkAZA9nIZDzIqCb5"
@@ -10515,6 +10533,24 @@
     },
     {
       "album": {
+        "name": "Hidden Path",
+        "url": "https://open.spotify.com/album/6JFAXMMF0r8QdxdD8zsA6w"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Hidden Path",
+      "url": "https://open.spotify.com/track/3gswA5as1PTHPTstdDW9yA"
+    },
+    {
+      "album": {
         "name": "Hidden Surfaces",
         "url": "https://open.spotify.com/album/3gI7th38cfdMF9Olco2BhS"
       },
@@ -11739,6 +11775,24 @@
     },
     {
       "album": {
+        "name": "Interplanetary Medium",
+        "url": "https://open.spotify.com/album/7rMJS4vNv3MNVk13YoPLbr"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173739,
+      "name": "Interplanetary Medium",
+      "url": "https://open.spotify.com/track/3eHTAleBa1eA7DlDf6G9a6"
+    },
+    {
+      "album": {
         "name": "Intertwined",
         "url": "https://open.spotify.com/album/0FmQsAPHVxjqYRLkEXEYM5"
       },
@@ -12956,7 +13010,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 175384,
       "name": "Lonely Dreams",
       "url": "https://open.spotify.com/track/06VmiS8QWcGnvI2zxbGiku"
@@ -13885,6 +13939,24 @@
     },
     {
       "album": {
+        "name": "Midnight Frequency",
+        "url": "https://open.spotify.com/album/1zwff5ZvtXlVdqe0ojQLvs"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Midnight Frequency",
+      "url": "https://open.spotify.com/track/0iqOVs7m1rQS1EoUfbNaQr"
+    },
+    {
+      "album": {
         "name": "Midnight Magination",
         "url": "https://open.spotify.com/album/6wrWHxnkGSxQ9DZB46aDGZ"
       },
@@ -14364,7 +14436,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 162500,
       "name": "Moonlit Grove",
       "url": "https://open.spotify.com/track/1V2nyIMyLZdSSS2YVz6SKn"
@@ -16722,7 +16794,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 129230,
       "name": "Pink Dreams",
       "url": "https://open.spotify.com/track/0Pu6BZFYEFV7wxVXmnmSAe"

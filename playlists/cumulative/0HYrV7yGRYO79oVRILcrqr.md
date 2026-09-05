@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-711 songs - 1 day 20 hr 17 min
+713 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-09 | 2026-06-25 |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [Far away in another time](https://open.spotify.com/track/7eUZTaIlGgBYQhpdPiiggy) | [the unknown artist](https://open.spotify.com/artist/3vmtXEWcazX7rZ6pj84lNs) | [Far away in another time](https://open.spotify.com/album/7dPYSzzRbIAwTuQNZRZZbk) | 2:54 | 2026-03-14 | 2026-07-12 |
+| [Fastlane](https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Fastlane](https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH) | 3:18 | 2026-09-04 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-07-12 |
 | [Final Descent](https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI) | [KuF](https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj) | [Chapter 1](https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj) | 5:16 | 2026-05-28 | 2026-06-18 |
 | [Find My Way](https://open.spotify.com/track/7bBnQzXdNjsxqgf7FxP7bn) | [Tebtu](https://open.spotify.com/artist/4VVetWxuWhE6moggaKzJwB), [Tenet](https://open.spotify.com/artist/42zJQmRYrhAZQrpQL9ZVBn) | [Teb](https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC) | 3:13 | 2026-05-09 | 2026-05-26 |
@@ -686,6 +687,7 @@
 | [When I Try](https://open.spotify.com/track/5dLLViRjSxKkkjJsfRBJ3i) | [Phil Headway](https://open.spotify.com/artist/6tpCZkSzWlh8GvohFl8zhe) | [The Answers](https://open.spotify.com/album/4mWlq6c2crzdg8Il3iV570) | 2:59 | 2026-05-21 | 2026-06-18 |
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 | 2026-03-18 |
 | [Where Is She Now?](https://open.spotify.com/track/6jBBodGWMRO6tVI5I9obrq) | [Jaded Memory](https://open.spotify.com/artist/0alnEO2EJlIGozaDXc2VxQ) | [Where Is She Now?](https://open.spotify.com/album/5UJjRl7i07a3XG1sAgcy72) | 3:51 | 2026-08-27 |  |
+| [Whipping Post](https://open.spotify.com/track/5gdEUCXrVE2CSTFArhHTPk) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Whipping Post](https://open.spotify.com/album/4n5knYjuLjNul6QGGs90oi) | 4:20 | 2026-09-04 |  |
 | [Whiskey Remedy](https://open.spotify.com/track/3BMOQfSYaoW1kgIMBFsUCF) | [Rough Gentlemen](https://open.spotify.com/artist/331U9UePKu1XpfKgNBkIa1) | [Whiskey Remedy](https://open.spotify.com/album/5ShE4NiWzqc5ss7NpT8xMe) | 4:31 | 2026-03-25 | 2026-04-21 |
 | [Whisky na Mesa](https://open.spotify.com/track/4OTt9dzu7ZoXA0dQdE62CM) | [Nathan Duarte](https://open.spotify.com/artist/7F0B4cSHBlNqwdmxGDKHim) | [Whisky na Mesa](https://open.spotify.com/album/5xBXS5LXB0k0bD8lgy064b) | 2:12 | 2026-04-18 | 2026-06-25 |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 | 2026-04-21 |

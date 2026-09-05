@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
+  "description": "The best new dance tracks from independent artists & labels. Featuring SLAMM. Curated with love by human Spotify editors. \n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -10180,7 +10180,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 175970,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7"
@@ -15622,7 +15622,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 183206,
       "name": "Disco Whoops",
       "url": "https://open.spotify.com/track/53CEQFNvQMt1sZBpERLmB1"
@@ -21839,6 +21839,24 @@
     },
     {
       "album": {
+        "name": "Flickering Dawn",
+        "url": "https://open.spotify.com/album/3UwjWUFVAOmviDhLArxvDH"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138544,
+      "name": "Flickering Dawn",
+      "url": "https://open.spotify.com/track/0KmKxHrCsLK5yJtNWBxSX7"
+    },
+    {
+      "album": {
         "name": "MHVA3",
         "url": "https://open.spotify.com/album/2Qs6lsFqH2J7LeQOxbXUie"
       },
@@ -23784,6 +23802,24 @@
       "duration_ms": 210909,
       "name": "Funk U Want",
       "url": "https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN"
+    },
+    {
+      "album": {
+        "name": "Funky Feeling EP",
+        "url": "https://open.spotify.com/album/5bxrsuaubI2NEjdSaPXDJA"
+      },
+      "artists": [
+        {
+          "name": "Simes",
+          "url": "https://open.spotify.com/artist/3pMMCzXHPz987fkVhWQ5dw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197219,
+      "name": "Funky Feeling",
+      "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
     },
     {
       "album": {
@@ -31732,7 +31768,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 192153,
       "name": "in ya mind",
       "url": "https://open.spotify.com/track/1rkJzNdMyI2n9C0Y0FQDu2"
@@ -42803,6 +42839,24 @@
     },
     {
       "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
+      },
+      "artists": [
+        {
+          "name": "Ben Griff",
+          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
+    },
+    {
+      "album": {
         "name": "No Lie",
         "url": "https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W"
       },
@@ -47860,6 +47914,24 @@
     {
       "album": {
         "name": "Power",
+        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
+    },
+    {
+      "album": {
+        "name": "Power",
         "url": "https://open.spotify.com/album/64qokhJ8Z6uE2UwlBWnzHv"
       },
       "artists": [
@@ -52552,7 +52624,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 181875,
       "name": "Shaking That Ass",
       "url": "https://open.spotify.com/track/3C4ybKAZlkciqP9vc6Yt6h"
@@ -53972,7 +54044,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202109,
       "name": "Smack it",
       "url": "https://open.spotify.com/track/1bZFJD3jJDFny94LxEVY2z"
@@ -59522,6 +59594,24 @@
       "duration_ms": 155917,
       "name": "The Booth",
       "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
+    },
+    {
+      "album": {
+        "name": "LR002",
+        "url": "https://open.spotify.com/album/5cSCgi8BzuZlCKbX7ubQhj"
+      },
+      "artists": [
+        {
+          "name": "Larry Latenight",
+          "url": "https://open.spotify.com/artist/23wFOj7b7mywwkpPOAUjZf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288033,
+      "name": "The Bug",
+      "url": "https://open.spotify.com/track/0KDMGlT9H2q0CAkCURtR33"
     },
     {
       "album": {

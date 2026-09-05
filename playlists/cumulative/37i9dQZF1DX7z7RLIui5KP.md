@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Willy Paul
 
-326 songs - 18 hr 58 min
+327 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Add Up](https://open.spotify.com/track/2H4jI5BBzEaG2IpGbYJDxS) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q), [NDONJI](https://open.spotify.com/artist/0Mnf0yIUOk4X7bqM3TWPxJ) | [Add Up](https://open.spotify.com/album/4FIBRx24fT3D25f4tq9lQA) | 3:14 | 2025-10-23 | 2025-12-19 |
 | [Adhiambo](https://open.spotify.com/track/4lMfY0no8ykCKsGIxftcFK) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j) | [Adhiambo](https://open.spotify.com/album/4Rn88nXBQUUbLwJ3dlb2t5) | 3:21 | 2026-04-02 | 2026-05-29 |
 | [Ahere](https://open.spotify.com/track/0Ffyk7vaTAxKIgLMmwRcMq) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Ahere](https://open.spotify.com/album/3wxq5CEOXzzFMYMGJe2NpW) | 3:43 | 2025-10-23 | 2026-02-06 |
+| [AJE?](https://open.spotify.com/track/6vbQnK2bnqmCJi2PyFS8zG) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ) | [AJE?](https://open.spotify.com/album/5tsvzkPMrbUYKea06DwmLH) | 2:54 | 2026-09-04 |  |
 | [Aki Sioni](https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb) | 3:03 | 2026-07-15 | 2026-07-26 |
 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 | 2025-10-23 |  |
 | [All Over](https://open.spotify.com/track/3rByEZzH7lk609vg6pAn3m) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [All Over](https://open.spotify.com/album/19i8esoItUheg9XSpqjf78) | 3:22 | 2026-02-05 | 2026-08-14 |

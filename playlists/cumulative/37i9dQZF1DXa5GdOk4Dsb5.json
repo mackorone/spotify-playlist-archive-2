@@ -5390,7 +5390,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 225146,
       "name": "Nueva York",
       "url": "https://open.spotify.com/track/64VrTx8VITD7fLDWZp4vTn"
@@ -7150,7 +7150,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170733,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6ocILC6CtzRafliMZyPIcm"
@@ -7866,6 +7866,24 @@
       "duration_ms": 157103,
       "name": "Vive Tu Vida",
       "url": "https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ"
+    },
+    {
+      "album": {
+        "name": "Volver, Volver",
+        "url": "https://open.spotify.com/album/6ojcdccmCGh3ncp9jvWWn6"
+      },
+      "artists": [
+        {
+          "name": "Johan Sanabria",
+          "url": "https://open.spotify.com/artist/1K3jKSzJRcwgOMJBgMxqdn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/5OaEtJsd7WtbdboLWZkrGz"
     },
     {
       "album": {

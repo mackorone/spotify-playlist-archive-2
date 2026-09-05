@@ -1,13 +1,197 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: Louis du Sauzay",
-  "num_followers": 5989,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:7uMh23xWiuR7zsNkuNcm2G\">MNEK</a>",
+  "num_followers": 5991,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKs0DfYI8OKv9X+rOSi/RkE11MI",
+  "snapshot_id": "AAAAAKk6WZDNm/DAuKpUlIW79uET1tZW",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "MUSCLE MARYS..",
+        "url": "https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 203984,
+      "name": "MUSCLE MARYS..",
+      "url": "https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "OH NO!! ALL THE BOYS!!",
+        "url": "https://open.spotify.com/album/1CcvgioY3omIjudg8ggWvF"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 190235,
+      "name": "OH NO!! ALL THE BOYS!!",
+      "url": "https://open.spotify.com/track/1t11AUjoBZNOALrDXCpvJa"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "REVERSE!!",
+        "url": "https://open.spotify.com/album/7v3ARwfY24B1mt5dbsirZp"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 195730,
+      "name": "REVERSE!!",
+      "url": "https://open.spotify.com/track/78R0oW0s6mkJJ9wJyCFZIw"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Wild (feat. Louis du Sauzay)",
+        "url": "https://open.spotify.com/album/5ZXPBKeTuO2XwCIf9SqNJm"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Louis du Sauzay",
+          "url": "https://open.spotify.com/artist/06cHR0P90tGCKqQByCtiLJ"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "Wild (feat. Louis du Sauzay)",
+      "url": "https://open.spotify.com/track/2zLCWBGX1cXMU8X4HXqtS8"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Shivers (feat. Coco Nancy)",
+        "url": "https://open.spotify.com/album/5UNCKKmrFhunNqn8GJo0Yj"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        },
+        {
+          "name": "Coco Nancy",
+          "url": "https://open.spotify.com/artist/6UdrfJ5hsqDUsANqLtQ42b"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Shivers (feat. Coco Nancy)",
+      "url": "https://open.spotify.com/track/2Aaq0FavPjpJHA17Ux488k"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Something Like Magic",
+        "url": "https://open.spotify.com/album/3gKlBSjuaGHkzYhZC5iPj2"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "Something Like Magic",
+      "url": "https://open.spotify.com/track/0O5dq70LiQB66YxkAfUA2H"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "High Frequency",
+        "url": "https://open.spotify.com/album/0oS0c32A89u22BIuAfbdMQ"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "High Frequency",
+      "url": "https://open.spotify.com/track/7jN3Es9lQNwu2q1ELxNzBq"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6qBbFUeYmv0OhO8uZsCBgV"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
+    },
+    {
+      "added_at": "2026-09-04 04:01:12",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/4ZRf9czIO2joiMoDBWbzul"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "duration_ms": 155748,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/1uv6iYfmG2vBotgFMR2NXY"
+    },
     {
       "added_at": "2026-07-03 04:26:40",
       "album": {
@@ -41,10 +225,10 @@
       "url": "https://open.spotify.com/track/1XgTPwIdU5LawlT6IQOLsa"
     },
     {
-      "added_at": "2026-07-03 04:26:40",
+      "added_at": "2026-09-04 04:01:12",
       "album": {
-        "name": "The Original High",
-        "url": "https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ"
+        "name": "The Original High (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3kaQUt8Mp906u1fI0LDqO6"
       },
       "artists": [
         {
@@ -54,7 +238,7 @@
       ],
       "duration_ms": 208330,
       "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/0ALTA9qTr8AQ8BmGifY2O8"
+      "url": "https://open.spotify.com/track/44aN5xKL3kGHvQ5bXVk6B8"
     },
     {
       "added_at": "2026-07-03 04:26:40",
@@ -747,174 +931,6 @@
       "duration_ms": 173783,
       "name": "GRITS",
       "url": "https://open.spotify.com/track/0Ymuz773KydzWsrvYCjXcX"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "HEY Y'ALL",
-        "url": "https://open.spotify.com/album/6PWVIpjk55Wd9gbFtjYDxc"
-      },
-      "artists": [
-        {
-          "name": "Shane Stevens",
-          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
-        }
-      ],
-      "duration_ms": 198654,
-      "name": "HEY Y'ALL",
-      "url": "https://open.spotify.com/track/0QckYRwzXSRpPDJiY8WPL6"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0Cu9LCJ8nhpNEtWsKrbhnQ"
-      },
-      "artists": [
-        {
-          "name": "Shane Stevens",
-          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
-        }
-      ],
-      "duration_ms": 258954,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6Uf3uDJDLTbXP6uQhwNdvl"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "I Can't Quit",
-        "url": "https://open.spotify.com/album/0DMQksGuw5L1U6ooMqKnV4"
-      },
-      "artists": [
-        {
-          "name": "Shane Stevens",
-          "url": "https://open.spotify.com/artist/6SbUN1f7mRXR4T2UH0uBKr"
-        },
-        {
-          "name": "Sara Evans",
-          "url": "https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG"
-        }
-      ],
-      "duration_ms": 191901,
-      "name": "I Can't Quit",
-      "url": "https://open.spotify.com/track/2jyXQJjv0x0aFGl3vwx6hy"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/2TaGJWosHw4FfLOV560vuK"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "band practice",
-      "url": "https://open.spotify.com/track/5oGw5Q8f87PPAo4bNYJvly"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "3000\u00b0",
-        "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 137841,
-      "name": "Drake and Drive",
-      "url": "https://open.spotify.com/track/7eh6esjOCkDkcYU31h6few"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "who's loving you?",
-        "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        },
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "ELEVATE (ft. Mack Keane)",
-      "url": "https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Take Your Mama",
-      "url": "https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Ta-Dah",
-        "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "I Can't Decide",
-      "url": "https://open.spotify.com/track/7f6RiVFXqUT3dWi35OznLI"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Let's Have A Kiki",
-      "url": "https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Scissor Sisters",
-        "url": "https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Filthy / Gorgeous",
-      "url": "https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA"
     }
   ],
   "unique_name": "GLOW Songwriters",

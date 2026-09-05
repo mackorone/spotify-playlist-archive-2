@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 910238,
+  "num_followers": 910480,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "Want To Know",
+        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
+      },
+      "artists": [
+        {
+          "name": "Rool\u00e9h",
+          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Want To Know",
+      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Want To Know",
-        "url": "https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK"
-      },
-      "artists": [
-        {
-          "name": "Rool\u00e9h",
-          "url": "https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Want To Know",
-      "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        },
-        {
-          "name": "Ellia Jaya",
-          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Dream or Fantasy",
-      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Gets Like That (Jamie Jones Remix)",
         "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 223384,
       "name": "Gets Like That - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Dream or Fantasy",
+      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1271,42 +1271,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Wow - Edit",
-      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Even Angels Ghost",
-        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        },
-        {
-          "name": "Kindora",
-          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Even Angels Ghost",
-      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2mJ08Ks0w1VpU5g5LjgM6W"
       },
@@ -1327,6 +1291,22 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Wow - Edit",
+      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Lets Get High",
         "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
       },
@@ -1339,42 +1319,6 @@
       "duration_ms": 203114,
       "name": "Lets Get High",
       "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 207764,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1407,6 +1351,42 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Even Angels Ghost",
+        "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        },
+        {
+          "name": "Kindora",
+          "url": "https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Even Angels Ghost",
+      "url": "https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
@@ -1427,6 +1407,46 @@
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Amarha",
+          "url": "https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "Make You Sweat (feat. Amarha)",
+      "url": "https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1483,26 +1503,6 @@
       "duration_ms": 213809,
       "name": "We Are",
       "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        },
-        {
-          "name": "Amarha",
-          "url": "https://open.spotify.com/artist/5mCw0MYwknWl0KPTSwX0hh"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "Make You Sweat (feat. Amarha)",
-      "url": "https://open.spotify.com/track/75BiU2s9nLodxFGiDoxWYc"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1603,42 +1603,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Bubbling",
-        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Patrick Luna",
-          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
-        }
-      ],
-      "duration_ms": 209092,
-      "name": "Bubbling",
-      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Girl On The Beat",
-        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "Girl On The Beat",
-      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "Activated (I Just Wanna)",
         "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
       },
@@ -1663,6 +1627,42 @@
       "duration_ms": 155096,
       "name": "Activated (I Just Wanna)",
       "url": "https://open.spotify.com/track/26mV6U2utvBqmqQizY4w5T"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Girl On The Beat",
+        "url": "https://open.spotify.com/album/2uH2qaSwEoUH57uGYIh4DK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "Girl On The Beat",
+      "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Bubbling",
+        "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+        }
+      ],
+      "duration_ms": 209092,
+      "name": "Bubbling",
+      "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
         "name": "make your move",
         "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
       },
@@ -1755,34 +1739,18 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Steppin' In EP",
-        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 165382,
-      "name": "Steppin' In",
-      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 120241,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV"
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1803,42 +1771,34 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Body Action",
-        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/7i6Wz3tvYG2coehpE97RgC"
       },
       "artists": [
         {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 331508,
-      "name": "Body Action",
-      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
+      "duration_ms": 120241,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/6orYXU56P1zLY9YUFX5zJV"
     },
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
-        "name": "Cash On Cash",
-        "url": "https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW"
+        "name": "Steppin' In EP",
+        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
       },
       "artists": [
         {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        },
-        {
-          "name": "No One Knows",
-          "url": "https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4"
-        },
-        {
-          "name": "SARRIA",
-          "url": "https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY"
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
         }
       ],
-      "duration_ms": 223125,
-      "name": "Cash On Cash",
-      "url": "https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9"
+      "duration_ms": 165382,
+      "name": "Steppin' In",
+      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1859,6 +1819,38 @@
     {
       "added_at": "2026-08-20 23:00:38",
       "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Body Action",
+        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 331508,
+      "name": "Body Action",
+      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
         "name": "Just Like That EP",
         "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
       },
@@ -1871,42 +1863,6 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Blowin' Up The Spot",
-        "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
-      },
-      "artists": [
-        {
-          "name": "Bontan",
-          "url": "https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Blowin' Up The Spot",
-      "url": "https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz"
-    },
-    {
-      "added_at": "2026-08-20 23:00:38",
-      "album": {
-        "name": "Next Life",
-        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        }
-      ],
-      "duration_ms": 236481,
-      "name": "Next Life",
-      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
     },
     {
       "added_at": "2026-08-20 23:00:38",
@@ -1935,6 +1891,50 @@
       "duration_ms": 357466,
       "name": "Endlessly (feat. BEA1991)",
       "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Cash On Cash",
+        "url": "https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "No One Knows",
+          "url": "https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4"
+        },
+        {
+          "name": "SARRIA",
+          "url": "https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "Cash On Cash",
+      "url": "https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9"
+    },
+    {
+      "added_at": "2026-08-20 23:00:38",
+      "album": {
+        "name": "Next Life",
+        "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "duration_ms": 236481,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/2eAJUXdGiX11TGuuXdYKgO"
     },
     {
       "added_at": "2026-08-20 23:00:38",

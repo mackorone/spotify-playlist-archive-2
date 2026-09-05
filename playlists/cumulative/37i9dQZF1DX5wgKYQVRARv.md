@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-869 songs - 3 day 2 hr 33 min
+870 songs - 3 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [minus](https://open.spotify.com/track/3nU14zTNOhVTFZizseBNEz) | [Krakow](https://open.spotify.com/artist/7Ar0qgvUv9jpn9yKqIkoJY) | [minus](https://open.spotify.com/album/5znv04gH2ZYDu6ba5BvuC9) | 9:44 | 2021-12-17 | 2022-01-29 |
 | [Mirrorman](https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Mirrorman](https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH) | 5:05 | 2025-08-29 | 2026-06-29 |
 | [Misguided](https://open.spotify.com/track/7a0lsYzYQVJFrYXyJwEugp) | [Distorted Harmony](https://open.spotify.com/artist/014v7wyYEzOsxoWbiqXFOA) | [Chain Reaction](https://open.spotify.com/album/5uYS1yyyEAnzovt5yOLcvs) | 8:33 | 2021-12-17 | 2022-01-29 |
-| [mnemonic](https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [mnemonic](https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG) | 4:49 | 2023-12-06 |  |
+| [mnemonic](https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [mnemonic](https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG) | 4:49 | 2023-12-06 | 2026-09-05 |
 | [Moment](https://open.spotify.com/track/64qXgECEcs6Xf6IJVwZ3lx) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Moment](https://open.spotify.com/album/0kXlAypsbp03KdKbhC0VcZ) | 6:31 | 2025-11-28 |  |
 | [Monarch](https://open.spotify.com/track/3qNhMJ4T70gVZPDaj3dCi8) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Monarch](https://open.spotify.com/album/5wd6XULvXyHvuxFq2wO3vY) | 4:52 | 2021-12-17 | 2022-09-03 |
 | [Mono No Aware](https://open.spotify.com/track/59fmZqAYhaGc7rPzumREFC) | [The Odious](https://open.spotify.com/artist/1Vloojr1lQdt2vl3XQ6HtE) | [Mono No Aware](https://open.spotify.com/album/6rWgutCaW1084UIJ3znx6G) | 6:49 | 2021-12-17 | 2022-07-29 |
@@ -743,6 +743,7 @@
 | [The Persistence](https://open.spotify.com/track/7w5b2cV7DdVko8qzbpD3LV) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [The Persistence](https://open.spotify.com/album/3v3MDjebMDevyDsv7JohTx) | 7:09 | 2021-12-17 | 2022-01-25 |
 | [The Problem of Other Minds](https://open.spotify.com/track/2r7FNt9OKoMxqHvMakXWOj) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Problem of Other Minds](https://open.spotify.com/album/6eORPuiaqSBDXcFGW626kj) | 2:32 | 2022-07-13 | 2022-11-05 |
 | [The Problem of Other Minds](https://open.spotify.com/track/6NUQhf20QwI2h66k1PTH7t) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Parrhesia](https://open.spotify.com/album/1mIiGxlTjTnNMTS9HYwsuB) | 2:32 | 2022-10-28 | 2023-08-19 |
+| [The Pyre](https://open.spotify.com/track/1QPzDg5WQN90mpE32nIyr5) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Pyre](https://open.spotify.com/album/5sGI2AS7F4DH5N24RiYr5q) | 18:16 | 2026-05-15 |  |
 | [The Quartz Grave](https://open.spotify.com/track/6XHpv3Ll4amR9EwrMeYm50) | [V3ctors](https://open.spotify.com/artist/6cRxCrWwfxBaBKBJW1WOI8) | [Amarna, Pt\. 1](https://open.spotify.com/album/1LPdLI78lK9xttgvopL1P5) | 4:19 | 2022-07-13 | 2025-02-08 |
 | [The Rat & The Snake](https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq) | [Ghost Iris](https://open.spotify.com/artist/0OG1DoaGFeeXGYBGbbCjka), [Tyler Shelton](https://open.spotify.com/artist/05te9cG7cEF5EuxU9JqnCk) | [Apple of Discord](https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX) | 4:06 | 2022-07-13 | 2026-05-16 |
 | [The Regress](https://open.spotify.com/track/0MA6RvZ7cIJLVkREkEJmvX) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/5FEXEjkn7RZM0XycCEkSvP) | [The Regress](https://open.spotify.com/album/5Yxr8ohf1xJPXlIAwbkODu) | 4:52 | 2021-12-17 | 2023-01-21 |

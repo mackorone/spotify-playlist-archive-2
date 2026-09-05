@@ -1405,6 +1405,36 @@
     },
     {
       "album": {
+        "name": "Carwithen: Concerto for Piano and Strings: Allegro assai",
+        "url": "https://open.spotify.com/album/4HWeXGeNfu6C7QyqIj4DsP"
+      },
+      "artists": [
+        {
+          "name": "Doreen Carwithen",
+          "url": "https://open.spotify.com/artist/4YJ3wb7fU6Xsg7jNDvQcd5"
+        },
+        {
+          "name": "Alexandra Dariescu",
+          "url": "https://open.spotify.com/artist/1KJQ9mUdpAJtljNQWH5Rvq"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        },
+        {
+          "name": "John Andrews",
+          "url": "https://open.spotify.com/artist/0f5UbEeb7kpkmGMEYNSEzJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 772000,
+      "name": "Concerto for Piano and Strings: I. Allegro assai",
+      "url": "https://open.spotify.com/track/11IeFl7sBNAEtsTKDYRcz5"
+    },
+    {
+      "album": {
         "name": "Mozart: Violin Concertos",
         "url": "https://open.spotify.com/album/3vVFdUuGFGJ5aCMDBFOWnY"
       },
@@ -3388,6 +3418,36 @@
       "duration_ms": 660640,
       "name": "Piano Concerto in A Minor, Op. 7: III. Allegro non troppo",
       "url": "https://open.spotify.com/track/7o0NCSbWrCKrZc5xzl4B04"
+    },
+    {
+      "album": {
+        "name": "Emilie Mayer: Piano Concerto in B-Flat Major: II. Un poco adagio",
+        "url": "https://open.spotify.com/album/1HGJHH8XmLZavBjNzOHwv0"
+      },
+      "artists": [
+        {
+          "name": "Emilie Mayer",
+          "url": "https://open.spotify.com/artist/4zkusum5eZdIObW4RHOkIh"
+        },
+        {
+          "name": "Alexander Melnikov",
+          "url": "https://open.spotify.com/artist/7vk7vgVoYDiZ4Kngc3Jgta"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        },
+        {
+          "name": "Bernhard Forck",
+          "url": "https://open.spotify.com/artist/2lKbDcQJawiFHTOIiIimDB"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365093,
+      "name": "Piano Concerto in B-Flat Major: II. Un poco adagio",
+      "url": "https://open.spotify.com/track/2gsOkjLAf0M8brqPj6N6T1"
     },
     {
       "album": {

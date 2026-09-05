@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "OUR LADY OF THE DEEP (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2OILVa7dVV9vTi6FsaSPGO"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142660,
+      "name": "Doctor Who - Opening Theme - Stereo Mix 2026",
+      "url": "https://open.spotify.com/track/4D0GZiE1CWLPjnRpu30FYH"
+    },
+    {
+      "album": {
         "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
         "url": "https://open.spotify.com/album/4zDoqENuvo3c3VWG9juVYt"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142660,
       "name": "Doctor Who - Opening Theme - Stereo Mix 2026",
       "url": "https://open.spotify.com/track/3tyufqoxq6haSf0fapEJOx"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 99600,
       "name": "Freeze Frame",
       "url": "https://open.spotify.com/track/6qf2XVvOJWF8wEHQzVj6oo"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 37186,
       "name": "Great Zoos of the World",
       "url": "https://open.spotify.com/track/1018Sk9nhJHMYJHAkLokpf"
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 66080,
       "name": "Hannett and Delia synth exchanges track 20",
       "url": "https://open.spotify.com/track/0i3XL2FH9bPvjK08BCMP7W"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 105506,
       "name": "Hannett and Delia synth exchanges track 9",
       "url": "https://open.spotify.com/track/3uOALqZ3kWKXWLdk8rcgHg"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 119640,
       "name": "Nightwalker",
       "url": "https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F"
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"

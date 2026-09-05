@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Pepe Aguilar",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: \u00c1ngela Aguilar",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 201094,
       "name": "10 Lagrimas - En Vivo",
       "url": "https://open.spotify.com/track/3eB400kLr2GqJtTWL1vuyi"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 128638,
       "name": "Aqu\u00ed en Mi Coraz\u00f3n T\u00fa Mandas",
       "url": "https://open.spotify.com/track/7nViwkptvpQTzpGN5DEAiU"
@@ -1094,6 +1094,24 @@
       "duration_ms": 187061,
       "name": "Besos Y Copas (En Vivo)",
       "url": "https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf"
+    },
+    {
+      "album": {
+        "name": "Besos y Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/1Sc3shKERVLmKS1eU4ImMG"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Reales",
+          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4133rBXOv4L0RJfzzpNJSc"
     },
     {
       "album": {
@@ -1598,6 +1616,24 @@
       "duration_ms": 171776,
       "name": "Chiquitita - En Vivo",
       "url": "https://open.spotify.com/track/4P8Fx9raH2AOmNk3SmVkSc"
+    },
+    {
+      "album": {
+        "name": "Cielito Lindo (Live)",
+        "url": "https://open.spotify.com/album/1rxc2o8hqZEomeDpS7yD9B"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206043,
+      "name": "Cielito Lindo - Live",
+      "url": "https://open.spotify.com/track/10pbth84T3pKmAwb6Pn9kU"
     },
     {
       "album": {
@@ -2495,6 +2531,28 @@
     },
     {
       "album": {
+        "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
+        "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207140,
+      "name": "De Peri\u00f3dico Un Gallito - En Vivo",
+      "url": "https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ"
+    },
+    {
+      "album": {
         "name": "De Puro Gusto (En Vivo)",
         "url": "https://open.spotify.com/album/1NS2pCVAohnBnXbq3YkoTl"
       },
@@ -2546,6 +2604,24 @@
       "duration_ms": 218634,
       "name": "DE SOBREMANERA - EN VIVO",
       "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
+    },
+    {
+      "album": {
+        "name": "Puras De Mi Gusto (En Vivo)",
+        "url": "https://open.spotify.com/album/78aVeCjwjG22lHSPPI1Hhc"
+      },
+      "artists": [
+        {
+          "name": "Dani Tapia",
+          "url": "https://open.spotify.com/artist/0ODccomcktwx3B6hJVAF1C"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174032,
+      "name": "Delante De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/0VuDKIjFFzHxT4Xa7Yaq0Q"
     },
     {
       "album": {
@@ -2662,7 +2738,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202452,
       "name": "Disfruto Lo Malo - En Vivo",
       "url": "https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv"
@@ -3484,6 +3560,24 @@
       "duration_ms": 167439,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
+    },
+    {
+      "album": {
+        "name": "Puras Pa Pistear Con La Clave De Oro",
+        "url": "https://open.spotify.com/album/59kZC16MCEVPCmF4SGBcgi"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/4htxL7Hm8JhzHf2ZFXijRR"
     },
     {
       "album": {
@@ -5807,6 +5901,28 @@
     },
     {
       "album": {
+        "name": "Gano Holanda Perdio China En Vivo",
+        "url": "https://open.spotify.com/album/4QhD0fIZIYo63Q08NcWWKV"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "Jorge Santacruz",
+          "url": "https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172160,
+      "name": "Gano Holanda Perdio China En Vivo",
+      "url": "https://open.spotify.com/track/1x2FztnRnTV5I2MRMNT3Fo"
+    },
+    {
+      "album": {
         "name": "Gente Del Flaco (En Vivo)",
         "url": "https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg"
       },
@@ -7623,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "Le\u00f3n Ruso (En Vivo)",
+        "url": "https://open.spotify.com/album/2VqRDKR5uWMC5xKOPHwVgv"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Le\u00f3n Ruso - En Vivo",
+      "url": "https://open.spotify.com/track/3p6znSCBo1B36ipWIpvY0K"
+    },
+    {
+      "album": {
         "name": "Entre Canciones Y Borracheras, Vol. 2 (En Vivo Desde Culiacan)",
         "url": "https://open.spotify.com/album/3qwSAxcMXPLIoajYYcVmmN"
       },
@@ -7812,7 +7946,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202199,
       "name": "Los Amores De Julia - En Vivo",
       "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
@@ -7976,7 +8110,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
@@ -8304,7 +8438,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217482,
       "name": "Me Estoy Enamorando - En Vivo Desde la Arena Jalisco",
       "url": "https://open.spotify.com/track/3pqmhilpYlMzXINg1IjM83"
@@ -8830,7 +8964,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 154695,
       "name": "Mujer Honrada - En vivo",
       "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
@@ -9746,7 +9880,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 214450,
       "name": "Por Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/4GRv5hfZL6FqDSKNCugqzI"
@@ -9895,6 +10029,24 @@
     },
     {
       "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Rancho 2",
         "url": "https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35"
       },
@@ -9950,6 +10102,24 @@
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
+    },
+    {
+      "album": {
+        "name": "Cantina Ambulante (En Vivo)",
+        "url": "https://open.spotify.com/album/7awJyiX8sxV6fkdk9ItJJM"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "Que No Se D\u00e9 Cuenta - En Vivo",
+      "url": "https://open.spotify.com/track/63BqSJThnN0iYkFsW9vCgC"
     },
     {
       "album": {
@@ -10310,7 +10480,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 165886,
       "name": "Se les pelo Baltazar - Live",
       "url": "https://open.spotify.com/track/4qGjhjmQD6ZnK6JAo3zVxG"
@@ -10630,7 +10800,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 228997,
       "name": "Sigo Siendo El M Grande (En Vivo)",
       "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
@@ -11710,6 +11880,24 @@
       "duration_ms": 156591,
       "name": "Vengo a Aclarar - En Vivo",
       "url": "https://open.spotify.com/track/3APlmd8L4fTpLioW9i8WhZ"
+    },
+    {
+      "album": {
+        "name": "30 Aniversario (En Vivo Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4OfUlDpmWNLOhLPFx9n2cE"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231965,
+      "name": "Vienes y Te Vas - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1ww12XnHtof48oHp9ZjdaM"
     },
     {
       "album": {

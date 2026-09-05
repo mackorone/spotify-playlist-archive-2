@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 104 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 104 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 71 | [Stick Shift \- Radio Edit](https://open.spotify.com/track/7tUNmJGpLbAlH3Mm6jtgp8) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [Soraya](https://open.spotify.com/artist/28dUwtiFMRTAVNym83n1rU) | [Stick Shift](https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4) | 3:34 |
 | 72 | [Disrespect](https://open.spotify.com/track/3o4F3z6qFvfhCt3TmOkNF0) | [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [From The Roots Up \(Deluxe Edition\)](https://open.spotify.com/album/0uvCiMlB7yjUiSQknJwtuh) | 3:38 |
 | 73 | [Copy Cat](https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm \(Vol\. 7\)](https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS) | 3:50 |
-| 74 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 |
-| 75 | [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 |
+| 74 | [Gentleman](https://open.spotify.com/track/5kVe3Rs768OQcOU0z11wyc) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Gentleman](https://open.spotify.com/album/49ztAo70OidQnboagHWUWl) | 3:35 |
+| 75 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 |
 | 76 | [Oh Lord \- Dance Mix](https://open.spotify.com/track/3KvW2saxwzrwSawCq10HWr) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Oh Lord \(feat\. Pixie Lott\)](https://open.spotify.com/album/0jiK8Z621aREseX3nQaBjM) | 2:29 |
 | 77 | [Faller](https://open.spotify.com/track/4r8rbfAPNPgruiLZ5gIHqQ) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Toni Braxton](https://open.spotify.com/album/2BcHVk4npO1TxL74JEd9Gj) | 3:36 |
 | 78 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 103 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 104 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcbWZgAAAAASLtwpU1Jq3qUA5s0vHyEl`
+Snapshot ID: `Acbb/AAAAACUeRyHXG0UqRxdNN9exCn5`

@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/6hAgD6SHjRaHHQWmv1W2xt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342711,
+      "name": "mirador",
+      "url": "https://open.spotify.com/track/1DhxylpIpYYzibZLf1np93"
+    },
+    {
+      "album": {
         "name": "A Hundred Years of British Piano Miniatures",
         "url": "https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy"
       },

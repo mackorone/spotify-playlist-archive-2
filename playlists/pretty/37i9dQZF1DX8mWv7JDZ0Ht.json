@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Ana Laura Lopes",
-  "num_followers": 433543,
+  "num_followers": 433535,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "J\u00e1 Vi Fogo",
         "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
       },
@@ -419,18 +435,18 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
       },
       "artists": [
         {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         }
       ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -447,22 +463,6 @@
       "duration_ms": 143810,
       "name": "Concreto, ferro e saudade",
       "url": "https://open.spotify.com/track/5F93PvARHaMpnkzCdK7rkQ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -547,6 +531,38 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Um Doce, Uma Flor",
         "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 145602,
       "name": "Um Doce, Uma Flor",
       "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -643,6 +627,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "Depois do Fim",
         "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 124666,
       "name": "Depois do Fim",
       "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "NOVA: Surpresa",
-        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "NOVA: Surpresa",
-      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -703,18 +683,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
+        "name": "NOVA: Surpresa",
+        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
+      "duration_ms": 255333,
+      "name": "NOVA: Surpresa",
+      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -731,6 +715,22 @@
       "duration_ms": 153714,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Muita Sede",
-        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Outro \u00c1udio Meu",
-      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "Muita Sede",
+        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Outro \u00c1udio Meu",
+      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
-        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 211295,
-      "name": "Doente",
-      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "coisas triviais",
         "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 190320,
       "name": "coisas triviais",
       "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "Ressaca de saudade",
+        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "Ressaca de saudade",
+      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Ressaca de saudade",
-        "url": "https://open.spotify.com/album/5vZFGhNC15YJ7yow6y2MM9"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "Ressaca de saudade",
-      "url": "https://open.spotify.com/track/4vjqJmw3IKxmTt9Z2pY2mT"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -947,6 +947,26 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "MARIA, MEDUSA",
+        "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 161386,
+      "name": "MARIA, MEDUSA",
+      "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -987,26 +1007,6 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "MARIA, MEDUSA",
-        "url": "https://open.spotify.com/album/5IPInMeJ1FgVaNDQmIzuHf"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 161386,
-      "name": "MARIA, MEDUSA",
-      "url": "https://open.spotify.com/track/4xDbnfmae1qivhMtVrZAjt"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 227410,
       "name": "L\u00e1grimas e Chuva",
       "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
     }
   ],
   "unique_name": "Pop Leve",

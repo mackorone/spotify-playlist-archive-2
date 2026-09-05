@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 90992,
+  "num_followers": 91034,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHaZOgfQVph2gj7fv2OqoIi7tk+U",
+  "snapshot_id": "AAAAANJkrJFQMqmZ+7tWT0FGayLnm0/8",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:00:32",
+      "album": {
+        "name": "Power Of Love",
+        "url": "https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        }
+      ],
+      "duration_ms": 264261,
+      "name": "Power Of Love",
+      "url": "https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN"
+    },
+    {
+      "added_at": "2026-09-04 04:00:32",
+      "album": {
+        "name": "Apparently Not!",
+        "url": "https://open.spotify.com/album/6ldLFMy4iCgxZMZHnKiCsU"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        },
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "Apparently Not!",
+      "url": "https://open.spotify.com/track/0w4A0ufbo7ZEvZ0ELrwtp1"
+    },
     {
       "added_at": "2026-08-28 04:00:54",
       "album": {
@@ -599,26 +635,6 @@
       "duration_ms": 288473,
       "name": "On The Road",
       "url": "https://open.spotify.com/track/0tHHb1W4dSzslg92YkCMsm"
-    },
-    {
-      "added_at": "2025-09-19 04:00:09",
-      "album": {
-        "name": "The Legacy Project",
-        "url": "https://open.spotify.com/album/03GUcklCeLVe3Us2QIyGQ5"
-      },
-      "artists": [
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/6LnftpH4LWfg6QChPT8ekH"
-        }
-      ],
-      "duration_ms": 253103,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/7hrP8okdHRFBn5WaHnIRKr"
     },
     {
       "added_at": "2025-08-15 04:00:04",
@@ -1795,22 +1811,6 @@
       "duration_ms": 229136,
       "name": "Love Crash",
       "url": "https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O"
-    },
-    {
-      "added_at": "2023-08-11 04:01:00",
-      "album": {
-        "name": "U Groove",
-        "url": "https://open.spotify.com/album/4pWAAnjOEONxjQ3yo6OuM5"
-      },
-      "artists": [
-        {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "U Groove",
-      "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
     }
   ],
   "unique_name": "New Smooth Jazz",

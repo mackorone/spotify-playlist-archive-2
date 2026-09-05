@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193846,
       "name": "Ancara Messi",
       "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142153,
       "name": "DIME",
       "url": "https://open.spotify.com/track/76tAhDTUBolHxn2wOtxBlP"
@@ -2648,10 +2648,36 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 204945,
       "name": "D\u00f3nde Andar\u00e1s - USB GAD Remix",
       "url": "https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny"
+    },
+    {
+      "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/4MWkaNUBfGp6LO8dQWbJqy"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Barbie Williams",
+          "url": "https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259660,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/6yQXgEmhBS5fc7OkPyCXSi"
     },
     {
       "album": {
@@ -5371,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "Luces Rojas",
+        "url": "https://open.spotify.com/album/4ktkRNsI0e0hJAUYsct4df"
+      },
+      "artists": [
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170314,
+      "name": "Luces Rojas",
+      "url": "https://open.spotify.com/track/560CojbXKvoTbT3rgdkzeH"
+    },
+    {
+      "album": {
         "name": "LUEGO LUEGO",
         "url": "https://open.spotify.com/album/3HpVPfhkpmlG8Q4xCcwzKk"
       },
@@ -7481,6 +7525,28 @@
     },
     {
       "album": {
+        "name": "Que Calor",
+        "url": "https://open.spotify.com/album/2UJWW33OOSam8AmzDN2akA"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130399,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/3UgW9zdwst5BrEMK3uecgg"
+    },
+    {
+      "album": {
         "name": "Que se Joda",
         "url": "https://open.spotify.com/album/7num6L1ZNnss90SnUbDZaz"
       },
@@ -9410,7 +9476,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 147541,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/0CTaBZCRrQVsxdEFTYUByb"

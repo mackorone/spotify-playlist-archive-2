@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1217084,
+  "num_followers": 1217189,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "IMPERFEITO",
         "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Eu Te Entrego o Meu Dia",
-        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "Eu Te Entrego o Meu Dia",
-      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Palavra Liberada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
-      },
-      "artists": [
-        {
-          "name": "Abra\u00e3o Alencar",
-          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 425033,
-      "name": "Palavra Liberada - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
         "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 531193,
       "name": "Cristo + Tudo \u00c9 Teu - Ao Vivo no Jesus Vida Ver\u00e3o",
       "url": "https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Palavra Liberada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
+      },
+      "artists": [
+        {
+          "name": "Abra\u00e3o Alencar",
+          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 425033,
+      "name": "Palavra Liberada - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 392184,
       "name": "Nada Mais/Uma Vez",
       "url": "https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "Eu Vou Abrir O Mar (Ao Vivo)",
         "url": "https://open.spotify.com/album/58AGyBJwB5sXJogXBgWwFi"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 285578,
       "name": "Eu Vou Abrir O Mar - Ao Vivo",
       "url": "https://open.spotify.com/track/2Nr4wtTQgOUDPvuObu2PCe"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1243,6 +1227,22 @@
       "duration_ms": 252479,
       "name": "MEU UNIVERSO",
       "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 519000,
-      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "Betel (Ao Vivo)",
         "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 303309,
       "name": "Betel - Ao Vivo",
       "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 519000,
+      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1847,8 +1847,8 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
       "artists": [
         {
@@ -1856,13 +1856,13 @@
           "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
         },
         {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+      "duration_ms": 350274,
+      "name": "A Boa Parte - Ao Vivo",
+      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1883,8 +1883,8 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
       },
       "artists": [
         {
@@ -1892,13 +1892,13 @@
           "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
         },
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
         }
       ],
-      "duration_ms": 350274,
-      "name": "A Boa Parte - Ao Vivo",
-      "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     }
   ],
   "unique_name": "Louvor & Adora\u00e7\u00e3o",

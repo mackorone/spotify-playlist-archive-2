@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMXU3pal4cRQ+AE0jjSH5ENmma+Und",
+  "snapshot_id": "AAAMX2rljMagvYOe5ZippaYMOK3rs97R",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/3UqHMMTSHWpK6iU5mg8Fcw"
     },
     {
+      "added_at": "2026-09-04 21:52:57",
+      "album": {
+        "name": "Whipping Post",
+        "url": "https://open.spotify.com/album/4n5knYjuLjNul6QGGs90oi"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 260603,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5gdEUCXrVE2CSTFArhHTPk"
+    },
+    {
       "added_at": "2026-02-22 16:33:04",
       "album": {
         "name": "Halfway Down The Road",
@@ -347,6 +363,22 @@
       "duration_ms": 321703,
       "name": "Red Sea",
       "url": "https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB"
+    },
+    {
+      "added_at": "2026-09-04 21:36:56",
+      "album": {
+        "name": "Fastlane",
+        "url": "https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Fastlane",
+      "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
     },
     {
       "added_at": "2026-08-27 14:27:26",

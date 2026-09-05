@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aruma
 
-1,113 songs - 3 day 0 hr 8 min
+1,114 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2025-01-16 | 2025-09-26 |
 | [Aku Cemburu](https://open.spotify.com/track/4IxVG36SSCtoviEM4f4QCC) | [Kakung Triadmojo](https://open.spotify.com/artist/38bVEhkw2SXkG11dsCPW9w) | [Aku Cemburu](https://open.spotify.com/album/6TWbApD0Cfn4mIO0Chme0n) | 3:54 | 2026-05-29 | 2026-06-26 |
 | [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 | 2026-06-04 |  |
+| [Aku Merindu](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 2:44 | 2026-09-04 |  |
 | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/track/3pyzX8lLQvN2iJSlAaIvlz) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko) | 3:45 | 2025-03-13 | 2025-04-25 |
 | [Aku Minta Maaf](https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Aku Minta Maaf](https://open.spotify.com/album/4QI39QpWAnJsGvSngT53J3) | 4:19 | 2026-04-23 |  |
 | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/track/5PtqAzYdYvaLhPz8ytODnH) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU), [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/album/2PhzFP5vLutV5gUkaHjAol) | 4:34 | 2026-03-05 | 2026-05-09 |
@@ -367,6 +368,7 @@
 | [Hijrah Tanpa Nanti](https://open.spotify.com/track/0xtihSz16pXH02uIqod6iA) | [Reynold](https://open.spotify.com/artist/3KCk1ZZN3Q0mU6IvddxhVQ), [Derry Sulaiman](https://open.spotify.com/artist/4akf8s5w49AUedoj8bqFXH) | [Hijrah Tanpa Nanti](https://open.spotify.com/album/43oTJdibdbmEFluM49bGku) | 3:40 | 2026-04-10 | 2026-05-09 |
 | [Hilang](https://open.spotify.com/track/0VQKMj1drkoqRnwQ2DFl1g) | [Egha De Latoya](https://open.spotify.com/artist/4ty4E2G4r2XErvJfvwK4zO) | [Hilang](https://open.spotify.com/album/7h6NFmmHQCeVSs5bz4OtIy) | 3:55 | 2024-06-27 | 2024-07-27 |
 | [Hilang](https://open.spotify.com/track/1DWOLBHEMAFweYninH7oxv) | [Sara Wijayanto](https://open.spotify.com/artist/3vA1ACXdnBzxCYAKH5RL9D) | [Hilang](https://open.spotify.com/album/3RH2LOhupGZpAdBdSzVA7O) | 4:20 | 2024-06-27 | 2024-07-05 |
+| [Hilang Tanpa Bayang](https://open.spotify.com/track/1gs1Liji6gPbfHdypf728F) | [Pelipur](https://open.spotify.com/artist/3iAcNyICqpO7dz3tDf2Tpn) | [Hilang Tanpa Bayang](https://open.spotify.com/album/2r2s8HLQyHMmoSIoL9v0YU) | 5:26 | 2026-09-03 |  |
 | [Hilang Tapi Ada \- From Viu Original “Saudade“](https://open.spotify.com/track/3XBUL8wK1wkPFRq2hIEhYj) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8) | [Hilang Tapi Ada \(From Viu Original “Saudade”\)](https://open.spotify.com/album/5itwIPFYQSTMyGiKfCKKqY) | 3:32 | 2025-03-06 | 2025-07-11 |
 | [Hilang Waras](https://open.spotify.com/track/15s6PE8DqGFWLc2FLipP7l) | [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo), [Aidaaihsan](https://open.spotify.com/artist/1Ov3Q82wv1h4GAnNMbH0qo) | [Hilang Waras](https://open.spotify.com/album/7anXRgMv1d3CY01YtoW5l9) | 3:38 | 2025-10-02 | 2025-11-07 |
 | [hingga waktu lelah menghitung](https://open.spotify.com/track/1hzeJMYkrfhNjnFiPIUpkv) | [Luthfi Aulia](https://open.spotify.com/artist/1LUNypbU0AXcWNgrcyHzVN) | [hingga waktu lelah menghitung](https://open.spotify.com/album/3kCVNEOtpwP8uz9ulkbkMt) | 3:26 | 2026-06-05 | 2026-07-17 |
@@ -1076,7 +1078,6 @@
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 | 2025-11-28 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Toxic](https://open.spotify.com/track/43snIl2IVhuGGiGFBMAr99) | [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Toxic](https://open.spotify.com/album/0RqZMGUEDXfRxrKCOsDF43) | 3:24 | 2026-08-07 |  |
-| [Track 1](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 0:00 | 2026-09-04 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |

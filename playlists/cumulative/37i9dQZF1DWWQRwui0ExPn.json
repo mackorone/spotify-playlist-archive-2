@@ -4237,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Airen",
+        "url": "https://open.spotify.com/album/5sA9x2IuM64PuRUEFnHmyc"
+      },
+      "artists": [
+        {
+          "name": "Yasumi",
+          "url": "https://open.spotify.com/artist/34l34Oez7Yh2TuELTDmNKZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123378,
+      "name": "Airen",
+      "url": "https://open.spotify.com/track/4Ekma2XsSu0szIvicDUtTw"
+    },
+    {
+      "album": {
         "name": "Airmode",
         "url": "https://open.spotify.com/album/4uCZClT1s76MUKHgC3ipMz"
       },
@@ -16385,6 +16403,24 @@
     },
     {
       "album": {
+        "name": "bolmen",
+        "url": "https://open.spotify.com/album/6IXJxaKSPyL2WNWWa6tjkN"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135821,
+      "name": "bolmen",
+      "url": "https://open.spotify.com/track/7hqX6zd1aPRtCUcPYd0HfZ"
+    },
+    {
+      "album": {
         "name": "Bon Clay",
         "url": "https://open.spotify.com/album/27SBMSOeq0Yc7pIqMRDjUx"
       },
@@ -17230,6 +17266,24 @@
       "duration_ms": 141978,
       "name": "Break Time",
       "url": "https://open.spotify.com/track/0lK9lKffDjU72qoTbk2KqO"
+    },
+    {
+      "album": {
+        "name": "breakaway",
+        "url": "https://open.spotify.com/album/1VnRRHgtBPBHvGoxIRIHdZ"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "breakaway",
+      "url": "https://open.spotify.com/track/1LuidkdHUwTLPW7tyuc8QS"
     },
     {
       "album": {
@@ -24762,6 +24816,24 @@
       "duration_ms": 141176,
       "name": "Clocks Forward",
       "url": "https://open.spotify.com/track/3DXOgShDK2FK1nUM6NeGnL"
+    },
+    {
+      "album": {
+        "name": "Close Up",
+        "url": "https://open.spotify.com/album/5h6dVhTEYpkJAxpOJXFuHH"
+      },
+      "artists": [
+        {
+          "name": "Audio Sculptor",
+          "url": "https://open.spotify.com/artist/1BDPkykZVsiQP2OLhJvAr9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133278,
+      "name": "Close Up",
+      "url": "https://open.spotify.com/track/3nLvd6qsfFRcMTVyZbb6vd"
     },
     {
       "album": {
@@ -44906,7 +44978,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 155769,
       "name": "Five",
       "url": "https://open.spotify.com/track/512iuZfygeaybuoakIeXiN"
@@ -46246,7 +46318,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142222,
       "name": "florale",
       "url": "https://open.spotify.com/track/2CZf8wYy8bkDYDnEyBiA2J"
@@ -47660,6 +47732,28 @@
       "duration_ms": 179277,
       "name": "For You",
       "url": "https://open.spotify.com/track/48MDPe5ZgiPBKVEYF8nqzi"
+    },
+    {
+      "album": {
+        "name": "Forage",
+        "url": "https://open.spotify.com/album/1jiuC2a5RdKrYCUVKMgBXF"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Forage",
+      "url": "https://open.spotify.com/track/1CWefHKcQFzEIehpvCkU3Q"
     },
     {
       "album": {
@@ -69164,7 +69258,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 160600,
       "name": "Kyla",
       "url": "https://open.spotify.com/track/1VFcm6dHaWzvBo69EyjCnK"
@@ -73886,6 +73980,24 @@
       "duration_ms": 131200,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/7LaS9QWfFdYjdOQ7tlZPR8"
+    },
+    {
+      "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/0RyQQ9ylhJ8fsgYNNEcwrU"
+      },
+      "artists": [
+        {
+          "name": "tatsuo",
+          "url": "https://open.spotify.com/artist/0yW4uPjl7S5Rk0sjOzVRTb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137410,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/5wZ9NWrX5w8nHTso9C5Sor"
     },
     {
       "album": {
@@ -91690,7 +91802,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 139487,
       "name": "no jacket",
       "url": "https://open.spotify.com/track/68dTTGp5eMBKPlnxsRkXoC"
@@ -92672,6 +92784,24 @@
       "duration_ms": 147000,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/2atAn7Uwkmcow4quIeNY8P"
+    },
+    {
+      "album": {
+        "name": "nostalgic nights",
+        "url": "https://open.spotify.com/album/3wpcwkQkNqLRgaI3YqpMmp"
+      },
+      "artists": [
+        {
+          "name": "blissi bo",
+          "url": "https://open.spotify.com/artist/5RLpAP5J88b3dnPxu79hrg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107826,
+      "name": "nostalgic nights",
+      "url": "https://open.spotify.com/track/0CgyaWJe6NgqkiLX8y7WMr"
     },
     {
       "album": {
@@ -96698,7 +96828,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 135724,
       "name": "open meadows",
       "url": "https://open.spotify.com/track/79mkm7eUjB3qzOHaLVixB9"
@@ -101336,7 +101466,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 114227,
       "name": "pillowloop",
       "url": "https://open.spotify.com/track/55mSGigZFY4BETnc0pJoKM"
@@ -106240,7 +106370,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 123076,
       "name": "Rainy Nights In Golden Gai",
       "url": "https://open.spotify.com/track/6jnxK1nRLRt2QtoneMjd3E"
@@ -106742,7 +106872,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 147551,
       "name": "receipt",
       "url": "https://open.spotify.com/track/5jYJwPVQox7NsF1Mis5T2c"
@@ -107844,7 +107974,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 137142,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/6fH8tGWOJjNA4Wb1JufHWZ"
@@ -116626,7 +116756,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 125600,
       "name": "Sky Wires",
       "url": "https://open.spotify.com/track/3BzLYlKEQDJjstOYUS45nj"
@@ -124151,6 +124281,24 @@
     },
     {
       "album": {
+        "name": "still becoming",
+        "url": "https://open.spotify.com/album/3xsmqgrRuz5yEzJTcUADFp"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "still becoming",
+      "url": "https://open.spotify.com/track/2rIurEgEKSoG6asnpUf1s3"
+    },
+    {
+      "album": {
         "name": "Still Care for Me",
         "url": "https://open.spotify.com/album/0H7nP8rBlgouWhumQ0I620"
       },
@@ -124564,7 +124712,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 138461,
       "name": "Strange Ways",
       "url": "https://open.spotify.com/track/5SdMHS5zIcego2WOaSNAqL"
@@ -126176,6 +126324,24 @@
       "duration_ms": 134400,
       "name": "Summer Terrace",
       "url": "https://open.spotify.com/track/6DGkaLOpNEnpyFIPeGk6m3"
+    },
+    {
+      "album": {
+        "name": "Summerbreak",
+        "url": "https://open.spotify.com/album/1O8HeSaZ46um1b8JnHTCjj"
+      },
+      "artists": [
+        {
+          "name": "Spring Bingo",
+          "url": "https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "Summerbreak",
+      "url": "https://open.spotify.com/track/61BZYQebepBYfcVBuHgsV2"
     },
     {
       "album": {
@@ -137274,7 +137440,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 124628,
       "name": "Transient",
       "url": "https://open.spotify.com/track/20Y3tPUnJ5Pmkilgt0nXDb"
@@ -140529,6 +140695,24 @@
     },
     {
       "album": {
+        "name": "Until the Sky Turns Blue",
+        "url": "https://open.spotify.com/album/5vFacaIkFMyTATNbnQ8anO"
+      },
+      "artists": [
+        {
+          "name": "Slow Koi",
+          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131919,
+      "name": "Until the Sky Turns Blue",
+      "url": "https://open.spotify.com/track/2lW1VdIBkSCRppgESsfInm"
+    },
+    {
+      "album": {
         "name": "Until The Very End",
         "url": "https://open.spotify.com/album/46pF5Idzyrm3ElpsNFzsv5"
       },
@@ -143032,7 +143216,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 183272,
       "name": "Void",
       "url": "https://open.spotify.com/track/2UdBrtmAdAKu7bfC3WUgcv"
@@ -144814,7 +144998,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 128000,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/0zmgqoq5xsNkrYIgBCGR6F"

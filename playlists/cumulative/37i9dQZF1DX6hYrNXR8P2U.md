@@ -4,7 +4,7 @@
 
 > Broke Carrey en portada.
 
-734 songs - 1 day 14 hr 11 min
+734 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [La Ciudad del Reggaetón](https://open.spotify.com/track/4zsPrWiOmEOEEXoq4167FX) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [SuperSerius](https://open.spotify.com/artist/03vwdd6SOkWASQinkYmxkE) | [La Ciudad del Regggaetón](https://open.spotify.com/album/6wnDAivOroB30WQIH890al) | 3:53 | 2025-07-25 | 2026-02-05 |
 | [LA COCHERÍA](https://open.spotify.com/track/6BqAyOg9mraM91wByUaWp9) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:13 | 2024-03-22 | 2024-09-28 |
 | [La Distancia](https://open.spotify.com/track/1nHCMJOVAfsUrQa6qXoeod) | [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [La Distancia](https://open.spotify.com/album/0SbRvCOTrZ7zOFH8hCBcIh) | 3:52 | 2025-04-11 | 2025-05-20 |
+| [La Finitud de las Cosas](https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 2:49 | 2026-09-04 |  |
 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 | 2024-03-29 | 2024-09-17 |
 | [LA GUARDIA](https://open.spotify.com/track/0m1GcvmuavUSXIHqRsXTjV) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Bbynito](https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba), [Tío La Bomba](https://open.spotify.com/artist/6mqOIFx2hMXvTMrpHZ6yk0), [DELLA](https://open.spotify.com/artist/3l4T2ZeGVyaMfW9rekYjDC) | [VITTAMINA](https://open.spotify.com/album/5PbBvA02Zss9ppLX1MLlkR) | 2:05 | 2025-07-05 | 2026-04-04 |
 | [La Herencia](https://open.spotify.com/track/6mS0cjqTQwo6Uc4SysXY7E) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [La Herencia](https://open.spotify.com/album/59G7P0Q82nplbSoazFBZG8) | 3:04 | 2024-05-03 | 2024-05-25 |
@@ -652,7 +653,6 @@
 | [Todos Bailando](https://open.spotify.com/track/6tDPkNfdck1Dolwb3u1sij) | [Es infinito](https://open.spotify.com/artist/6mjMtFxKociqdKI14Ug3ec), [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Todos Bailando](https://open.spotify.com/album/0tYSFXftsCmFAtLm6fkV61) | 3:14 | 2025-12-05 | 2026-05-29 |
 | [Todos Nacen Gritando](https://open.spotify.com/track/4RPygvfMexXPgUMN6T9KDq) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6), [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Todos Nacen Gritando](https://open.spotify.com/album/1RXC4kHEPA006xjHMtlI7O) | 6:55 | 2024-11-15 | 2024-11-23 |
 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 | 2023-10-13 | 2025-04-04 |
-| [Track 3](https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 0:00 | 2026-09-04 |  |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-05-20 |
 | [Trakatá](https://open.spotify.com/track/5fghgRsc8a3pSDXtjQ238F) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Trakatá](https://open.spotify.com/album/4v2y8esBwi06vh3jydfUA4) | 2:58 | 2023-10-13 | 2024-08-24 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-10-13 | 2024-03-23 |

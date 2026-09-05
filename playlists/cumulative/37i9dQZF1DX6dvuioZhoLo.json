@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New makes old. Cover:  Kaitlin Butts",
+  "description": "New makes old. Cover: Paige Plaisance",
   "name": "Vintage Vibes",
   "tracks": [
     {
@@ -926,6 +926,24 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "album": {
+        "name": "Fairweather Friend",
+        "url": "https://open.spotify.com/album/3ID3R1RFScml64bRtXxBNz"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299686,
+      "name": "Fairweather Friend",
+      "url": "https://open.spotify.com/track/7M6EoleJd4kGMLgmhQSz0K"
     },
     {
       "album": {
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 191768,
       "name": "Homemade Margaritas",
       "url": "https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2"
@@ -2613,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Less Fear, More Soul",
+        "url": "https://open.spotify.com/album/544s6GJ0gjHySuMSAaM7tP"
+      },
+      "artists": [
+        {
+          "name": "Johnny Delaware",
+          "url": "https://open.spotify.com/artist/2oLEomSWOUxlSiYXoQQlJW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Less Fear, More Soul",
+      "url": "https://open.spotify.com/track/5AXeHerfTojOy3EuCFphhA"
+    },
+    {
+      "album": {
         "name": "Let It Pass",
         "url": "https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa"
       },
@@ -3323,6 +3359,24 @@
     },
     {
       "album": {
+        "name": "Swampwater",
+        "url": "https://open.spotify.com/album/5jV4TWYNqv2sHPi6w63Hhm"
+      },
+      "artists": [
+        {
+          "name": "Paige Plaisance",
+          "url": "https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183231,
+      "name": "Movin' Out",
+      "url": "https://open.spotify.com/track/3XcH2mc0TVjGW7PeD56f6B"
+    },
+    {
+      "album": {
         "name": "Mr. Jukebox",
         "url": "https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs"
       },
@@ -3568,7 +3622,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 209198,
       "name": "Oporto-Madrid Blvd",
       "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
@@ -5000,7 +5054,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 199339,
       "name": "Yellow Room",
       "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"

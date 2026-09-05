@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "conditions for observing light",
+        "url": "https://open.spotify.com/album/5suKg9PcWI0YLPLkHft1rC"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161147,
+      "name": "dreamstate pt ii",
+      "url": "https://open.spotify.com/track/73r9Tsst31bkdaJXYYIRdc"
+    },
+    {
+      "album": {
         "name": "Anjunadeep pres. Reflections Vol. 3",
         "url": "https://open.spotify.com/album/4fzBUyic1xApan1JdHkqro"
       },
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 197983,
       "name": "Eyes Awake",
       "url": "https://open.spotify.com/track/3kBrbSrj7r9HCoK9Oj8lXg"
@@ -3418,6 +3436,28 @@
       "duration_ms": 203318,
       "name": "if I can be honest",
       "url": "https://open.spotify.com/track/67jECssRLcbLlrtlCAaKGY"
+    },
+    {
+      "album": {
+        "name": "conditions for observing light",
+        "url": "https://open.spotify.com/album/5suKg9PcWI0YLPLkHft1rC"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Yujin Baek",
+          "url": "https://open.spotify.com/artist/0dc3lGmgwftyEAUJYBco8C"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216989,
+      "name": "if time could rewind us",
+      "url": "https://open.spotify.com/track/6K3Lb3D1uJCjv5ydqCL4jv"
     },
     {
       "album": {
@@ -5448,7 +5488,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 241785,
       "name": "Never Saw You Coming",
       "url": "https://open.spotify.com/track/78Ny8ikOVclm5WWeqtR0XC"
@@ -5638,6 +5678,28 @@
       "duration_ms": 219924,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/7EsGZ6VujrpTScGwMfiNKP"
+    },
+    {
+      "album": {
+        "name": "conditions for observing light",
+        "url": "https://open.spotify.com/album/5suKg9PcWI0YLPLkHft1rC"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272812,
+      "name": "nova",
+      "url": "https://open.spotify.com/track/4eeNjPPcsk96fgecTDs1Gm"
     },
     {
       "album": {
@@ -5926,7 +5988,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 139834,
       "name": "Orb - Electronic",
       "url": "https://open.spotify.com/track/2aP46sLmqlnBP0DoUcnROH"

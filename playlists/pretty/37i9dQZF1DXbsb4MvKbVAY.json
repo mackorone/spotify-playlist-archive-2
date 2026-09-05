@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26687,
+  "num_followers": 26688,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Syd\u00e4n on rikki",
-        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Syd\u00e4n on rikki",
-      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Syd\u00e4n on rikki",
+        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "Syd\u00e4n on rikki",
+      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "More than enough...",
-        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "More than enough...",
-      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "KATULAPSI",
         "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159300,
       "name": "Naamat",
       "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "More than enough...",
+        "url": "https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "More than enough...",
+      "url": "https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "El\u00e4m\u00e4 jatkuu",
+        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "El\u00e4m\u00e4 jatkuu",
+      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Sunder",
         "url": "https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908"
       },
@@ -1323,18 +1339,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "El\u00e4m\u00e4 jatkuu",
-        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+        "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
+        "url": "https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT"
       },
       "artists": [
         {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
         }
       ],
-      "duration_ms": 180000,
-      "name": "El\u00e4m\u00e4 jatkuu",
-      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
+      "duration_ms": 207244,
+      "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
+      "url": "https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1359,22 +1375,6 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
-        "url": "https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT"
-      },
-      "artists": [
-        {
-          "name": "Edicti",
-          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
-        }
-      ],
-      "duration_ms": 207244,
-      "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
-      "url": "https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Tuolta se nyt k\u00e4velee",
-        "url": "https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu"
-      },
-      "artists": [
-        {
-          "name": "Pekka Nisu",
-          "url": "https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS"
-        }
-      ],
-      "duration_ms": 203602,
-      "name": "Tuolta se nyt k\u00e4velee",
-      "url": "https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Eskapismii",
         "url": "https://open.spotify.com/album/5pbVEvuMBZUrioCByMoaBb"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 186549,
       "name": "Eskapismii",
       "url": "https://open.spotify.com/track/0JfINUS8lIoGPSR6qFPcyP"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Tuolta se nyt k\u00e4velee",
+        "url": "https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu"
+      },
+      "artists": [
+        {
+          "name": "Pekka Nisu",
+          "url": "https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS"
+        }
+      ],
+      "duration_ms": 203602,
+      "name": "Tuolta se nyt k\u00e4velee",
+      "url": "https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx"
     },
     {
       "added_at": "2026-05-08 04:10:15",

@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 268178,
       "name": "Anh \u0110\u00e3 Quen V\u1edbi C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/39KWnPNEvbXt423CzjvBfA"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 315311,
       "name": "B\u00f4ng Hoa \u0110\u1eb9p Nh\u1ea5t",
       "url": "https://open.spotify.com/track/4TyQKEifYDWTfTSRwpxlYI"
@@ -8296,7 +8296,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -10757,6 +10757,28 @@
     },
     {
       "album": {
+        "name": "G\u00f3i Con Tim L\u00e0m Qu\u00e0 (B\u00f2 S\u1eefa Bay Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tjht45doTKlnDQKKtpTHH"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n H\u00f9ng",
+          "url": "https://open.spotify.com/artist/7oxw8G3qB7DwjCs18JWJt5"
+        },
+        {
+          "name": "Mounter",
+          "url": "https://open.spotify.com/artist/1Lrp0KS97OAy2QUgJiDaik"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243473,
+      "name": "G\u00f3i Con Tim L\u00e0m Qu\u00e0 - B\u00f2 S\u1eefa Bay Original Soundtrack",
+      "url": "https://open.spotify.com/track/48SDjh34zzai5fZMbvoqUb"
+    },
+    {
+      "album": {
         "name": "G\u1eb7p G\u1ee1, Y\u00eau \u0110\u01b0\u01a1ng V\u00e0 \u0110\u01b0\u1ee3c B\u00ean Em",
         "url": "https://open.spotify.com/album/1J4bW6pgXcXoCAHSHUqoi2"
       },
@@ -11438,6 +11460,32 @@
       "duration_ms": 193322,
       "name": "Honest (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
+    },
+    {
+      "album": {
+        "name": "HONGKONG1",
+        "url": "https://open.spotify.com/album/06mgi2VtIL3hxvl58cqXau"
+      },
+      "artists": [
+        {
+          "name": "Nguy\u1ec5n Tr\u1ecdng T\u00e0i",
+          "url": "https://open.spotify.com/artist/2UCPMrvFm42t3w5duYfQHl"
+        },
+        {
+          "name": "Don Raemo",
+          "url": "https://open.spotify.com/artist/4M86uhyARnHypunU4dhRqG"
+        },
+        {
+          "name": "Double X",
+          "url": "https://open.spotify.com/artist/1mOcX2DsOhhWYDIgeRXkmm"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273939,
+      "name": "HONGKONG1",
+      "url": "https://open.spotify.com/track/6UFvSmKzCZ16fxsybf4PhE"
     },
     {
       "album": {
@@ -14865,6 +14913,28 @@
     },
     {
       "album": {
+        "name": "Li\u1ec7u Gi\u1edd (feat. V\u0103n)",
+        "url": "https://open.spotify.com/album/0sdkeITxlcpNPHD7LgsOHW"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
+        },
+        {
+          "name": "V\u0103n",
+          "url": "https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258668,
+      "name": "Li\u1ec7u Gi\u1edd (feat. V\u0103n)",
+      "url": "https://open.spotify.com/track/2sSsy51uNPKas6x0JWr0TN"
+    },
+    {
+      "album": {
         "name": "CRAZY IN LOVE",
         "url": "https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh"
       },
@@ -17648,7 +17718,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -18398,6 +18468,24 @@
       "duration_ms": 284600,
       "name": "Ng\u01b0\u1eddi B\u00ecnh Th\u01b0\u1eddng",
       "url": "https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi D\u01b0ng",
+        "url": "https://open.spotify.com/album/1zOB5trKVrGfWvyfmJot6d"
+      },
+      "artists": [
+        {
+          "name": "Jack - J97",
+          "url": "https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Ng\u01b0\u1eddi D\u01b0ng",
+      "url": "https://open.spotify.com/track/4pAEbNADEktv96fGIKAull"
     },
     {
       "album": {
@@ -27366,7 +27454,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"

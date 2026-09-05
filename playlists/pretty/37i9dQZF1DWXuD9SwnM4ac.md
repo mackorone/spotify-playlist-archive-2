@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Sycco
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,243 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,248 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 14 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
 | 15 | [Kind of Fantasy](https://open.spotify.com/track/0ZYfDHrKS3Rnh1LbvOUlxp) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Kind of Fantasy](https://open.spotify.com/album/4kDvsNQQjUwqvLQ2p0AVfw) | 4:06 |
 | 16 | [shg](https://open.spotify.com/track/3joFQakfyBFzhZqLc7gqxb) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [shg](https://open.spotify.com/album/3THuvZ1ikdxlU8O36Rfhu4) | 2:30 |
-| 17 | [Track 2](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 0:00 |
+| 17 | [Frida](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 3:39 |
 | 18 | [Sensational](https://open.spotify.com/track/0aU5XPireiOWn6or4RPSVS) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Sensational](https://open.spotify.com/album/14Raz7hdVfOisYs3nrg3Qq) | 3:36 |
 | 19 | [Sunshine](https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Sunshine](https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do) | 3:11 |
 | 20 | [I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [I Used to Kill](https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ) | 3:34 |

@@ -2907,6 +2907,36 @@
     },
     {
       "album": {
+        "name": "LION (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/63pZdHeciIMzFxFCtYMQ2o"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Niccolo Pacella",
+          "url": "https://open.spotify.com/artist/3hqBV626iVrywoEFjGBvNi"
+        },
+        {
+          "name": "George Hutson Warren",
+          "url": "https://open.spotify.com/artist/781vtha4o97zLtSjkuX3mB"
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127028,
+      "name": "Mother & Son Reunited",
+      "url": "https://open.spotify.com/track/7w9moCWKJG1DRBxkultOzk"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful Piano: Focus",
         "url": "https://open.spotify.com/album/2M12PscQNEqhVaKd2wu1d9"
       },

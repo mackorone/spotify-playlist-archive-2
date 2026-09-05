@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-428 songs - 1 day 3 hr 29 min
+429 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 | 2023-09-22 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 | 2023-07-01 |
+| [Mercy](https://open.spotify.com/track/1httKI7AShBFrUfR3jjKmh) | [Tora Trio](https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm), [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Mercy](https://open.spotify.com/album/5uc5pTzmP5z9xkcCwOPGsu) | 3:06 | 2026-09-04 |  |
 | [Mockingbird](https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS) | 4:06 | 2024-10-25 | 2026-04-18 |
 | [Mojo Hand](https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mojo Hand](https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g) | 3:04 | 2022-04-29 | 2023-07-08 |
 | [Money & Power](https://open.spotify.com/track/342MY1NGS4rEYyXidPkzMN) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Money & Power](https://open.spotify.com/album/6HhtRhsp1XMCRLC47Apt3g) | 3:25 | 2025-03-14 | 2025-04-19 |
@@ -284,7 +285,7 @@
 | [One Way Out](https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1jR11CwDOnsQi1z56zcIDe) | 4:03 | 2021-05-28 | 2026-06-27 |
 | [One Way Out](https://open.spotify.com/track/2r350C33U7HK2gpj0nSP1E) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/1F5cc76pR3u3CtQlVOF2Zq) | 4:03 | 2021-06-11 | 2024-04-19 |
 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 | 2022-08-12 |  |
-| [Operator](https://open.spotify.com/track/2dfcd7W3wOh7lCXTLYwF1C) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Operator](https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU) | 4:18 | 2021-09-10 |  |
+| [Operator](https://open.spotify.com/track/2dfcd7W3wOh7lCXTLYwF1C) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Operator](https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU) | 4:18 | 2021-09-10 | 2026-09-05 |
 | [Orbit](https://open.spotify.com/track/3AEsGn4OEy8LrP5SA8lOCe) | [Gooseberry](https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV) | [Orbit](https://open.spotify.com/album/3A6rUe8ZaYgxd8p7MjH5Qt) | 4:13 | 2023-05-26 |  |
 | [Out Of My Head](https://open.spotify.com/track/7KzCDlgiVOY8sQOKlbUy1m) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Out Of My Head](https://open.spotify.com/album/3hK0Qi59tuXjInHFnEIC0r) | 3:58 | 2021-08-20 | 2022-07-29 |
 | [Painted Horse](https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [Painted Horse](https://open.spotify.com/album/0KFGI2lrMjXjq1w74dfDkz) | 3:45 | 2022-08-26 | 2025-03-15 |

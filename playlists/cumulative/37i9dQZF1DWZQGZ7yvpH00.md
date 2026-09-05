@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Angel Galvan en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 RIA & Jasiel Nuñez en portada.
 
-658 songs - 1 day 12 hr 11 min
+659 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [PELICULONA](https://open.spotify.com/track/76c822VuTx07ZmUfkRRc3E) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [PELICULONA](https://open.spotify.com/album/6NaYjy7H9RRoMbYk8kvWio) | 2:41 | 2026-03-20 | 2026-04-11 |
 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 | 2025-05-30 | 2025-09-06 |
 | [Peonia](https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Peonia](https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5) | 2:25 | 2024-01-26 | 2024-05-04 |
+| [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 | 2026-09-04 |  |
 | [PERDIDO](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PERDIDO](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 | 2025-03-10 | 2025-05-24 |
 | [PERDIENDO](https://open.spotify.com/track/2UTPVm0XHPCmTpWB6AZwes) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [PERDIENDO](https://open.spotify.com/album/7ybMPhkwxR50sRMBw0dSrc) | 3:38 | 2025-01-31 | 2025-03-22 |
 | [Perdimos la Tradición](https://open.spotify.com/track/4ZLW9sdglQ9CrUQByHAoTN) | [Picassoo](https://open.spotify.com/artist/09d1lCanP0TEHpTMpApqja) | [Perdimos la Tradición](https://open.spotify.com/album/1OwsqgC7GtPJKLu0Dhy9MN) | 3:12 | 2026-07-24 |  |

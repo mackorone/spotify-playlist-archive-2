@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Natalia Grosiak
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,032 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,044 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 28 | [Wesoło jest bezsilnym być](https://open.spotify.com/track/5g1CE1dovnsW6vfh9I8dtl) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Wesoło jest bezsilnym być](https://open.spotify.com/album/55X5GYwb0mJ8iYD493K73A) | 1:55 |
 | 29 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 30 | [Słońca](https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Słońca](https://open.spotify.com/album/3s8WqPOFJ7RVFH0apHDV35) | 2:25 |
-| 31 | [Track 5](https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS) | [cafetrauma](https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2) | [JAKA PIĘKNA KATASTROFA](https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6) | 0:00 |
+| 31 | [BOJĘ SIĘ, ŻE NIE MA NIEBA](https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS) | [cafetrauma](https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2) | [JAKA PIĘKNA KATASTROFA](https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6) | 3:53 |
 | 32 | [80 dni](https://open.spotify.com/track/13ediCZswN4H9nEDe6fyCV) | [Twój, Dawid](https://open.spotify.com/artist/0t94HGOfXAG5BnHlRWlIqk), [Serca Bitche](https://open.spotify.com/artist/4fBucOTw11pNBCEFKskYOG) | [80 dni](https://open.spotify.com/album/26W6cWaSKX2zIqoZ3VpvcF) | 3:06 |
 | 33 | [List w butelce](https://open.spotify.com/track/5LpoYcqlHNbNJWAf53Pdwt) | [kilka czułości](https://open.spotify.com/artist/5ePKwdz8bcYGy0m2W3Dibo), [Dominik Gawroński](https://open.spotify.com/artist/2Dg2vFRuDCnytsRUXTr3Bx) | [List w butelce](https://open.spotify.com/album/4parO3sPyW9tANE8ddN8Kc) | 3:33 |
 | 34 | [Feniks](https://open.spotify.com/track/6nyJjB1y1804MmqMsXhVVq) | [Suwal](https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY) | [Feniks](https://open.spotify.com/album/2tyFOzMieS0q1WIBgJrn9I) | 2:50 |

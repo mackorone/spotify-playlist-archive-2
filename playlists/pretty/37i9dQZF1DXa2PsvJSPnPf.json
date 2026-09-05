@@ -1,12 +1,12 @@
 {
   "description": "Sweet sounds and welcoming vibes\u2014come on in and stay for a while",
-  "num_followers": 240509,
+  "num_followers": 240506,
   "original_name": "Front Porch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOa7a8GFjvm2rpWI4Km7d2t4RjQh",
+  "snapshot_id": "AAAAAKSvA7cvKpgtpAXw+T/9e2aUjzPM",
   "tracks": [
     {
       "added_at": "2026-07-10 04:01:48",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 243709,
-      "name": "November Air",
-      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 235226,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 184228,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 256664,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 184228,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 369346,
+      "name": "Hands of Time",
+      "url": "https://open.spotify.com/track/46kDii7UJSHtXvEXjexFq1"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL"
+        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
+        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Waylon Payne",
+          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
         }
       ],
-      "duration_ms": 369346,
-      "name": "Hands of Time",
-      "url": "https://open.spotify.com/track/46kDii7UJSHtXvEXjexFq1"
+      "duration_ms": 256352,
+      "name": "Santa Ana Winds",
+      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -819,18 +835,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Blue Eyes, The Harlot, The Queer, The Pusher & Me",
-        "url": "https://open.spotify.com/album/3dhsordyEnHpn6TWNSx4Co"
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
       "artists": [
         {
-          "name": "Waylon Payne",
-          "url": "https://open.spotify.com/artist/0G3qRFPXLTrujOBCEqSPXE"
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
         }
       ],
-      "duration_ms": 256352,
-      "name": "Santa Ana Winds",
-      "url": "https://open.spotify.com/track/4gOfeoHv1858gkHlITsr3Q"
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -883,22 +899,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Rhododendron (Alt Version)",
         "url": "https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 322754,
       "name": "Rhododendron - Alt Version",
       "url": "https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Where is the Heart of My Country",
+        "url": "https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 313615,
+      "name": "Where is the Heart of My Country",
+      "url": "https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -947,18 +963,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Where is the Heart of My Country",
-        "url": "https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5"
+        "name": "Thomas Csorba",
+        "url": "https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4"
       },
       "artists": [
         {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+          "name": "Thomas Csorba",
+          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
         }
       ],
-      "duration_ms": 313615,
-      "name": "Where is the Heart of My Country",
-      "url": "https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS"
+      "duration_ms": 255467,
+      "name": "Heartache After Heartache",
+      "url": "https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -979,34 +995,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
+        "name": "Lean On Me EP",
+        "url": "https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
         }
       ],
-      "duration_ms": 270666,
-      "name": "Free (Not Afraid to Die)",
-      "url": "https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
-        "name": "Thomas Csorba",
-        "url": "https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4"
-      },
-      "artists": [
-        {
-          "name": "Thomas Csorba",
-          "url": "https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH"
-        }
-      ],
-      "duration_ms": 255467,
-      "name": "Heartache After Heartache",
-      "url": "https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3"
+      "duration_ms": 242885,
+      "name": "It Knows Me - Alt Version",
+      "url": "https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Lean On Me EP",
-        "url": "https://open.spotify.com/album/6NIVIrZyIiaZiC8zkZ4tDe"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Avi Kaplan",
-          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 242885,
-      "name": "It Knows Me - Alt Version",
-      "url": "https://open.spotify.com/track/3nXQmF3Dzmi9W1UWDigZtu"
+      "duration_ms": 270666,
+      "name": "Free (Not Afraid to Die)",
+      "url": "https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Surprise, Surprise",
-        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 236276,
-      "name": "Surprise, Surprise",
-      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 229480,
       "name": "Lay Me Down Easy",
       "url": "https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 236276,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "I'll Go Home From Here",
-        "url": "https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "I'll Go Home From Here",
-      "url": "https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "May Your Kindness Remain",
         "url": "https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 234306,
       "name": "May Your Kindness Remain",
       "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "I'll Go Home From Here",
+        "url": "https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "I'll Go Home From Here",
+      "url": "https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Depreciated",
-        "url": "https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx"
-      },
-      "artists": [
-        {
-          "name": "John R. Miller",
-          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "What\u2019s Left Of The Valley",
-      "url": "https://open.spotify.com/track/3DNS0SkJf0BgEcbcJp4emw"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "July Jackson (Billy Horton Sessions)",
         "url": "https://open.spotify.com/album/39gJS5syykqaNY6U4DHwvW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 163760,
       "name": "July Jackson - Billy Horton Sessions",
       "url": "https://open.spotify.com/track/0mgeY4RQLtvDtmqp8A5m9n"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Depreciated",
+        "url": "https://open.spotify.com/album/1YfYKrsK953RSyGiMUBixx"
+      },
+      "artists": [
+        {
+          "name": "John R. Miller",
+          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "What\u2019s Left Of The Valley",
+      "url": "https://open.spotify.com/track/3DNS0SkJf0BgEcbcJp4emw"
     },
     {
       "added_at": "2026-07-10 04:01:48",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-07-10 04:01:48",
       "album": {
-        "name": "Olive",
-        "url": "https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9"
-      },
-      "artists": [
-        {
-          "name": "Sara Marie Rorie",
-          "url": "https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Olive",
-      "url": "https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L"
-    },
-    {
-      "added_at": "2026-07-10 04:01:48",
-      "album": {
         "name": "Heart Swell",
         "url": "https://open.spotify.com/album/1MxHShulhqcUsMq6Iddlk7"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 249548,
       "name": "Heart Swell",
       "url": "https://open.spotify.com/track/2mML5QnqL781rheJbrmJuW"
+    },
+    {
+      "added_at": "2026-07-10 04:01:48",
+      "album": {
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9"
+      },
+      "artists": [
+        {
+          "name": "Sara Marie Rorie",
+          "url": "https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L"
     },
     {
       "added_at": "2026-07-10 04:01:48",

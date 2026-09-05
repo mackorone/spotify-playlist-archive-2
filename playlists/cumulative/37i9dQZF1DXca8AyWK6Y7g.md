@@ -4,7 +4,7 @@
 
 > just trying our best 📸 beabadoobee
 
-2,881 songs - 6 day 1 hr 8 min
+2,883 songs - 6 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [Misunderstood](https://open.spotify.com/track/3WCazNGYD5CuKY4a3iE5Y0) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [Misunderstood](https://open.spotify.com/album/64zLsMCveMzRStFqhg4rkH) | 2:57 | 2021-05-08 | 2021-11-20 |
 | [Model Student](https://open.spotify.com/track/0io3G1JEQNfmjZnsu6h3nw) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Model Student](https://open.spotify.com/album/3A6RPevX8tKIQKjT53vQiL) | 2:44 | 2019-05-26\* | 2019-09-14 |
 | [Modern Animal](https://open.spotify.com/track/5CHJ1Rnx7hAjabV9VEngVs) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Modern Animal](https://open.spotify.com/album/19YTne3weLY8M3oUmi2YCr) | 4:20 | 2019-06-27 | 2020-02-19 |
+| [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 | 2026-09-04 |  |
 | [Modern Romance](https://open.spotify.com/track/3XvpJRDF9ZPkoEWIkTDVoy) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/4DWCqsBcxkgusUELGVytAT) | 3:34 | 2025-04-18 | 2025-05-24 |
 | [Mom Jeans](https://open.spotify.com/track/4Q2ccX0e7grpqZal3OuTuX) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Mom Jeans](https://open.spotify.com/album/6a2gZjOyZD9Qg8SaLKLbtt) | 1:59 | 2022-07-19 | 2022-09-03 |
 | [Mommy Issues](https://open.spotify.com/track/1Wijb40j4KaoASJ3S5peRl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Mommy Issues](https://open.spotify.com/album/1bH2Fwvfe1b6qC11rt2Ihd) | 2:49 | 2022-03-18 | 2022-04-21 |
@@ -1837,7 +1838,7 @@
 | [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 | 2023-04-05 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-04-21 | 2021-11-20 |
 | [OBVIOUS](https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [OBVIOUS](https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W) | 3:10 | 2024-08-16 | 2025-05-03 |
-| [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 | 2026-07-05 |  |
+| [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 | 2026-07-05 | 2026-09-05 |
 | [October](https://open.spotify.com/track/4RBvdFV0tqaL7xlXk5R7hT) | [birthday](https://open.spotify.com/artist/75jBfFr6bLpV9TdIfg5BZq) | [October](https://open.spotify.com/album/0oZhv4BV0DkLcSh2G5FAbc) | 3:31 | 2019-05-26\* | 2021-02-13 |
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2022-11-04 | 2022-12-03 |
 | [Off The Rails](https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Off The Rails](https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw) | 1:47 | 2025-06-20 | 2025-08-30 |
@@ -2146,6 +2147,7 @@
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-09 | 2025-06-14 |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-14 | 2026-02-21 |
+| [Salt in the Wound](https://open.spotify.com/track/560tRW3wZpx4YpcfVHnAd0) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Salt in the Wound](https://open.spotify.com/album/7lrbggTxemaEW27GnMwcwx) | 3:45 | 2026-09-04 |  |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |
 | [Same Friends \(with Lil Tjay\)](https://open.spotify.com/track/3fO79znP8PGK3E9lxv2rlo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Same Friends \(with Lil Tjay\)](https://open.spotify.com/album/1NEFmcySKqVun0sMj1EOZg) | 2:44 | 2023-03-31 | 2023-04-23 |
@@ -2869,7 +2871,7 @@
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-03-22 | 2024-10-19 |
 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 | 2023-02-17 | 2023-07-01 |
 | [You Suck](https://open.spotify.com/track/1WtpaFt6EQ35ojei9qVv3m) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [You Suck](https://open.spotify.com/album/1QkTbqolFWqAtaOWJmyR0v) | 3:01 | 2023-06-23 | 2023-09-16 |
-| [You Won't!](https://open.spotify.com/track/27dAxsvvosLG4Vw1cchdda) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Can't Split a Worm](https://open.spotify.com/album/6NsZthuHuOdxYf4Pwbswfw) | 2:44 | 2026-07-24 |  |
+| [You Won't!](https://open.spotify.com/track/27dAxsvvosLG4Vw1cchdda) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Can't Split a Worm](https://open.spotify.com/album/6NsZthuHuOdxYf4Pwbswfw) | 2:44 | 2026-07-24 | 2026-09-05 |
 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 | 2025-06-06 |
 | [Young And On Fire](https://open.spotify.com/track/09WWY8SJbQ2Sc6vqkRwNZ7) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Night Panda](https://open.spotify.com/artist/4pmV88dqzWGC82M7yFVx5z) | [Young And On Fire](https://open.spotify.com/album/7s7PkNqB2vgIGrjEBecLo6) | 3:49 | 2019-05-26\* | 2020-02-19 |
 | [Young, Drunk & In Love](https://open.spotify.com/track/1Fd5LiCVx2ZeUXgvJGWwSg) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Young, Drunk & In Love](https://open.spotify.com/album/4QTU94Qq5Gu0HQWYTAskcy) | 2:08 | 2024-08-30 | 2024-09-14 |

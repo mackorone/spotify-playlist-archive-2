@@ -1,13 +1,29 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 56258,
+  "num_followers": 56289,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADfF5O/YywMJpNYYTC5LJVWTxRQG",
+  "snapshot_id": "AAAAAEmKFsiN788xFygg19Il//TgNVHe",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:00:56",
+      "album": {
+        "name": "Old MacDonald Had a Farm & More Kids Songs",
+        "url": "https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "Old MacDonald Had a Farm",
+      "url": "https://open.spotify.com/track/7Aq3YV6jwjUfqbg56h1MCW"
+    },
     {
       "added_at": "2026-07-31 05:00:34",
       "album": {
@@ -175,26 +191,6 @@
       "duration_ms": 173933,
       "name": "If You're Happy And You Know It Clap Your Hands",
       "url": "https://open.spotify.com/track/1RZmi7MaS1rR9gMtg6UpFj"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Old MacDonald",
-        "url": "https://open.spotify.com/album/7p2vDbyCJbRaD7dKIUNMiI"
-      },
-      "artists": [
-        {
-          "name": "Super Simple Songs",
-          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
-        },
-        {
-          "name": "Noodle & Pals",
-          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
-        }
-      ],
-      "duration_ms": 214588,
-      "name": "Old MacDonald",
-      "url": "https://open.spotify.com/track/5HDHI7vniziKvFwEZJxIbr"
     },
     {
       "added_at": "2024-02-16 05:01:00",

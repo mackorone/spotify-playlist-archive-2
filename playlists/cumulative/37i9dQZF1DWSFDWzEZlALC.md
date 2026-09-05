@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: jolle
 
-1,942 songs - 3 day 19 hr 24 min
+1,942 songs - 3 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,6 +869,7 @@
 | [Ipanema](https://open.spotify.com/track/1JCQBstFdEqihwKhh8QVUV) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Ipanema](https://open.spotify.com/album/7CFLwNNtjoMqGoig3DYiRF) | 1:50 | 2023-05-11 | 2023-06-16 |
 | [iPhone X](https://open.spotify.com/track/6xqiepkcqK9Imi4GP1lFyS) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [iPhone X](https://open.spotify.com/album/5PtQ0IazDwgpZ3u642RuHQ) | 2:09 | 2023-02-02 | 2023-03-03 |
 | [Irgendwann](https://open.spotify.com/track/4VOYuJLHh1ud6EgePcymWx) | [Kosta](https://open.spotify.com/artist/1xuEncO5GPghuggYpT74pC), [K.F.D](https://open.spotify.com/artist/1mGyuGt7k8pKCOCaKPhJHA) | [Irgendwann](https://open.spotify.com/album/6wbGiiRT2TnNcl1WJAujoe) | 2:38 | 2025-08-29 | 2025-11-28 |
+| [Irgendwas von Bach](https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41) | [Farin Urlaub](https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy) | [Ein Lächeln im Gesicht](https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m) | 2:20 | 2026-09-03 |  |
 | [Irgendwie, irgendwo, irgendwann](https://open.spotify.com/track/2KTxKoM4iUYCtuUGGIh9Qu) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Einmal ist keinmal](https://open.spotify.com/album/79L6eUMYi5FRixMuPsLq8V) | 4:09 | 2026-02-12 | 2026-02-15 |
 | [Irgendwo](https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt), [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [Die Pointe](https://open.spotify.com/album/37bJUCwPLErO9HkGNJTJFs) | 2:57 | 2023-09-14 | 2023-10-06 |
 | [Irgendwo](https://open.spotify.com/track/5iVKvSK9mcvPvIcFNn2aib) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [KITSCHKRIEG](https://open.spotify.com/album/0HGEwZXbJuwOyPml1zlts0) | 3:41 | 2026-02-12 | 2026-02-15 |
@@ -1646,7 +1647,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 8](https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41) | [Farin Urlaub](https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy) | [Ein Lächeln im Gesicht](https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m) | 0:00 | 2026-09-03 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

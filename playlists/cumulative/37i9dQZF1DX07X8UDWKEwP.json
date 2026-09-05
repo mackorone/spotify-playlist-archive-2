@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Lauta",
+  "description": "Lo nuevo del mundo tropical. Cover: Kenia Os, Xavi",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Besitos de man\u00ed",
+        "url": "https://open.spotify.com/album/4InOhA1sJdKuXIvLoSahSL"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207241,
+      "name": "Besitos de man\u00ed",
+      "url": "https://open.spotify.com/track/3SjM9g3p8UaAwvzprBLdeF"
+    },
+    {
+      "album": {
         "name": "Beso Traicionero",
         "url": "https://open.spotify.com/album/3P83dhzzYQc5k4DsJ9mK56"
       },
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 257898,
       "name": "Cari\u00f1o Gitano",
       "url": "https://open.spotify.com/track/5KqQ354Q8AeRsJOKglBv4l"
@@ -5709,6 +5727,28 @@
     },
     {
       "album": {
+        "name": "El Terremoto",
+        "url": "https://open.spotify.com/album/75OB71lKerS5Truadn3gvt"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "NEETRAM",
+          "url": "https://open.spotify.com/artist/6lcIRYh3d5bJR02L3DFSgE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "El Terremoto",
+      "url": "https://open.spotify.com/track/2Vi9ISfnzgnuONeZzWFGaF"
+    },
+    {
+      "album": {
         "name": "EL YATE (feat. Sergio George) [Versi\u00f3n Salsa]",
         "url": "https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1"
       },
@@ -8296,7 +8336,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171947,
       "name": "La Discoteca",
       "url": "https://open.spotify.com/track/5iZsbkwnVAC6HrCafCez6F"
@@ -9235,6 +9275,32 @@
     },
     {
       "album": {
+        "name": "After The Noise (Lado A)",
+        "url": "https://open.spotify.com/album/5d82h1YS8TJSJfqyq3YTMa"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        },
+        {
+          "name": "Max Santos The Thunder",
+          "url": "https://open.spotify.com/artist/1MzZGAOtnxrMTIGpGBSPAr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Leyendas",
+      "url": "https://open.spotify.com/track/2nvkpeQCScIPlntqF6f2U5"
+    },
+    {
+      "album": {
         "name": "Llamadas Perdidas",
         "url": "https://open.spotify.com/album/7ypgWk9aVVzZ8sCKEWn46a"
       },
@@ -9442,7 +9508,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 155520,
       "name": "Lo que no sabes tu",
       "url": "https://open.spotify.com/track/0vuFk5CjCau6dpjUGDoSwZ"
@@ -10029,6 +10095,28 @@
     },
     {
       "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
+    },
+    {
+      "album": {
         "name": "MALPORTADA",
         "url": "https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0"
       },
@@ -10379,6 +10467,24 @@
     },
     {
       "album": {
+        "name": "Me Enamore de un Imposible",
+        "url": "https://open.spotify.com/album/7kEVqctUt0W1B83N4UeomH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Me Enamore de un Imposible",
+      "url": "https://open.spotify.com/track/7FvQmquIiwn6ObedgphKsi"
+    },
+    {
+      "album": {
         "name": "Me EnRD",
         "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
       },
@@ -10554,7 +10660,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 167555,
       "name": "Me Quiere A M\u00ed",
       "url": "https://open.spotify.com/track/0bUgZF9KH9QE3YvR0wOXCP"
@@ -11697,6 +11803,28 @@
     },
     {
       "album": {
+        "name": "NO ME DEJES SIN TU AMOR",
+        "url": "https://open.spotify.com/album/0TfW07lvHp8hE8KJOEaqit"
+      },
+      "artists": [
+        {
+          "name": "Baketha",
+          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
+        },
+        {
+          "name": "AnaKingZ",
+          "url": "https://open.spotify.com/artist/0sZhD1co7vMzjD55ps1cpD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132347,
+      "name": "NO ME DEJES SIN TU AMOR",
+      "url": "https://open.spotify.com/track/1xcbvqlHeTeccX6pvmS8Nu"
+    },
+    {
+      "album": {
         "name": "No Me Importa Nada",
         "url": "https://open.spotify.com/album/27cMu2MFwQy7T9qrr6dvLT"
       },
@@ -12289,6 +12417,24 @@
     },
     {
       "album": {
+        "name": "Ojitos Hechiceros",
+        "url": "https://open.spotify.com/album/4AwPF1P3Wps8SGTziSzy8C"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228266,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/0fwdc72bpBkqAqBBhZcbu9"
+    },
+    {
+      "album": {
         "name": "OJITOS ROJOS",
         "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
@@ -12801,6 +12947,24 @@
     },
     {
       "album": {
+        "name": "Para Que Hables de M\u00ed",
+        "url": "https://open.spotify.com/album/4HTjB8DLvLl1KLcFbaHBC8"
+      },
+      "artists": [
+        {
+          "name": "Los S\u00faper Caracoles",
+          "url": "https://open.spotify.com/artist/34yN3W6hGSIpvWEJLKHsX7"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163573,
+      "name": "Para Que Hables de M\u00ed",
+      "url": "https://open.spotify.com/track/5cXiE2Kvsr8knlS6gEJ65o"
+    },
+    {
+      "album": {
         "name": "Para Toda la Vida",
         "url": "https://open.spotify.com/album/7aHDbYPKWVuWjiOB4rKybA"
       },
@@ -13278,7 +13442,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 292629,
       "name": "POBRE DIABLO",
       "url": "https://open.spotify.com/track/37lSdhzxIe6DLpunPPoT9P"
@@ -13406,7 +13570,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169342,
       "name": "Por No Perderte Te Perdi",
       "url": "https://open.spotify.com/track/57RM67Rt2vO9Dgjqc1eC5a"
@@ -14656,7 +14820,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 282216,
       "name": "Rubio",
       "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
@@ -16675,6 +16839,28 @@
     },
     {
       "album": {
+        "name": "Todas (En Vivo)",
+        "url": "https://open.spotify.com/album/41EmZx3XosBduSdJnJLIXl"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155690,
+      "name": "Todas - En Vivo",
+      "url": "https://open.spotify.com/track/7Lz7yfo6OePiYfJ4CokhgM"
+    },
+    {
+      "album": {
         "name": "Todo El Mundo Bailando",
         "url": "https://open.spotify.com/album/0rWNfhw9YTLF4SF38sS9si"
       },
@@ -17831,6 +18017,24 @@
     },
     {
       "album": {
+        "name": "30 Aniversario (En Vivo Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4OfUlDpmWNLOhLPFx9n2cE"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231965,
+      "name": "Vienes y Te Vas - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1ww12XnHtof48oHp9ZjdaM"
+    },
+    {
+      "album": {
         "name": "Viral en Mi Mente",
         "url": "https://open.spotify.com/album/0whdKc95C3ctNXh0gWOd6s"
       },
@@ -17900,7 +18104,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202409,
       "name": "Vi\u00e9ndote de Lejos",
       "url": "https://open.spotify.com/track/7152ddHmoKsHJKc3eMglLS"
@@ -18108,7 +18312,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 257114,
       "name": "Vuelvo a Ser Yo",
       "url": "https://open.spotify.com/track/4YkOLuXVmAtcJWBAm5Zog0"
@@ -18126,7 +18330,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159178,
       "name": "WhyWhyWhy",
       "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"

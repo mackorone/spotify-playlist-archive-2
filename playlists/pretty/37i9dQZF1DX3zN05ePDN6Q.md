@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Makalister, Luiz Barata, Montosz, Nitcho
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,159 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,168 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 6 | [OURO, MIRRA E INCENSO](https://open.spotify.com/track/70DQxZJurPoqijwaRxqGaE) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [CUMULONIMBUS](https://open.spotify.com/album/2oM08HKSXGEuxgtlJ5HwNy) | 5:58 |
 | 7 | [QUE QUE FOI, QUE QUE HÁ?](https://open.spotify.com/track/7yjdHapa5SmcTQTpF3ny7V) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM) | [QUE QUE FOI, QUE QUE HÁ?](https://open.spotify.com/album/2TRc6uRNsKjQArpxDUiCoE) | 3:29 |
 | 8 | [Tributo Dina Di](https://open.spotify.com/track/4U45oz2R3FHsyGRLHyq3On) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I), [Lauren Priscila](https://open.spotify.com/artist/7gfw6ABgDYKL83hMxsLBqG), [Odisseia das Flores](https://open.spotify.com/artist/4p8kU7hQYH9Aw1Emp1nWvW), [Rubia RPW](https://open.spotify.com/artist/4sGtABuNaGLKPq0OsNdqAA), [Mulheriu Clã](https://open.spotify.com/artist/2sLSrtFF7tkuHJZsRwyBQO) | [Tributo Dina Di](https://open.spotify.com/album/3AZ5OkYBjbbxnLOHWZmGxF) | 6:20 |
-| 9 | [Neutro](https://open.spotify.com/track/4BpuG2qO3Aj0IL61WzmNlC) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Quando os Caminhos Se Confundem](https://open.spotify.com/album/5kH90GZcz7pzyxpolJj0Us) | 2:38 |
+| 9 | [Neutro](https://open.spotify.com/track/4BpuG2qO3Aj0IL61WzmNlC) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Quando os Caminhos Se Confundem](https://open.spotify.com/album/5kH90GZcz7pzyxpolJj0Us) | 2:38 |
 | 10 | [um sol lindo brilha](https://open.spotify.com/track/4qPIXMLDdrLFUxv1irUB1x) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm) | [o lado bom das coisas irreversíveis](https://open.spotify.com/album/2ua1n3o7GbzUyoKBCYjrIE) | 2:49 |
 | 11 | [Rosa Mais Linda](https://open.spotify.com/track/7bnsfstppIw4jy3LIfZiE2) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Noshugah](https://open.spotify.com/artist/39y7fxAAQUe9SJotuSRsCs) | [Rosa Mais Linda](https://open.spotify.com/album/4rulHAvHiWDvYyqDvvquJm) | 4:28 |
 | 12 | [Pessoas de Plástico](https://open.spotify.com/track/3jusdd9Yz6m0ouIA1101jj) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB) | [Pessoas de Plástico](https://open.spotify.com/album/3hJ7hK1QfR7CDE6KaWY49q) | 2:55 |

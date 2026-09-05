@@ -2,9 +2,9 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Shawty lo que necesitas es darle flow\.  Ozuna y Omar Courtz en portada
+> Shawty lo que necesitas es darle flow\.  Maizak y Jay Wheeler en portada
 
-1,023 songs - 2 day 6 hr 29 min
+1,025 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,10 +146,11 @@
 | [Carita De Bebé](https://open.spotify.com/track/5cqFqVsaVdMhLQUb66UQe4) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Carita De Bebé](https://open.spotify.com/album/6H5JdYEfSTttjxxHUUqyGZ) | 3:22 | 2023-03-10 | 2023-03-25 |
 | [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 | 2026-08-21 |  |
 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 | 2023-09-08 | 2024-01-06 |
-| [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 | 2026-08-07 |  |
+| [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 | 2026-08-07 | 2026-09-05 |
 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 | 2022-08-19 | 2023-02-25 |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-08 | 2024-05-11 |
 | [CASI ALGO](https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CASI ALGO](https://open.spotify.com/album/11lPiY2966BfVys4X6MHP9) | 2:43 | 2024-09-06 | 2024-11-16 |
+| [Casi Algo](https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Casi Algo](https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb) | 3:32 | 2026-09-04 |  |
 | [Casi Casi](https://open.spotify.com/track/0i4VWoP41exMlqhsOY1nWS) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Gabriel Ssoe](https://open.spotify.com/artist/6jj51ACAVuQf2879t7p7O8) | [Casi Casi](https://open.spotify.com/album/4J1LbJUmq8cqXsWrwnFx3B) | 2:35 | 2026-04-17 | 2026-05-29 |
 | [Castigo](https://open.spotify.com/track/7INDea2qgB7TlUgpux3hsg) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Castigo](https://open.spotify.com/album/1yUx6Fn9wMxJX7pCvy1CCQ) | 2:58 | 2022-05-13 | 2022-08-19 |
 | [Cazador](https://open.spotify.com/track/1PIlgaskMhJAPo28IAhxAH) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Cazador](https://open.spotify.com/album/2uDrFOrk7hGNqchqNSWVP8) | 3:38 | 2024-11-08 | 2025-01-18 |
@@ -202,6 +203,7 @@
 | [Cuica](https://open.spotify.com/track/0azybKTeKVV2UNeof409O8) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Cuica](https://open.spotify.com/album/5tNbZe4vmxZDD2n3lvS9uz) | 3:19 | 2026-06-26 |  |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-02-17 | 2023-06-17 |
 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 | 2024-03-08 | 2024-05-18 |
+| [Cuál Es La Necesidad](https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuál Es La Necesidad](https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On) | 2:24 | 2026-09-04 |  |
 | [CUÉNTAME](https://open.spotify.com/track/0nGutb7xfndF7iSGmk6tBP) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Reelian](https://open.spotify.com/artist/66wHtvzEVcFJhCsy31SXMw) | [CUÉNTAME](https://open.spotify.com/album/32rgjVV7GGC4ixa0ZDSqPh) | 2:42 | 2026-01-16 | 2026-02-28 |
 | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu) | 3:56 | 2022-09-08 | 2022-11-16 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-05 | 2024-03-09 |
@@ -856,7 +858,7 @@
 | [SIGO AL PENDIENTE](https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SIGO AL PENDIENTE](https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc) | 3:15 | 2024-02-23 | 2024-04-13 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-25 | 2022-10-15 |
 | [SIGUE ROMPIENDO](https://open.spotify.com/track/4ooUVU8ZrGyY0dBwyOZhUl) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [SIGUE ROMPIENDO](https://open.spotify.com/album/568DuSYRbAO53b0PYiynGg) | 3:03 | 2023-10-06 | 2024-02-03 |
-| [sin 1 ok](https://open.spotify.com/track/4QHQ1Wzx9RcU6TfGayFHEf) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [sin 1 ok](https://open.spotify.com/album/5dHc7SRmXSeAuQN3mW4bEc) | 3:14 | 2026-08-07 |  |
+| [sin 1 ok](https://open.spotify.com/track/4QHQ1Wzx9RcU6TfGayFHEf) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [sin 1 ok](https://open.spotify.com/album/5dHc7SRmXSeAuQN3mW4bEc) | 3:14 | 2026-08-07 | 2026-09-05 |
 | [Sin Gps](https://open.spotify.com/track/3pIPpQpw4ytCo8LOy4pozN) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW) | [Sin Gps](https://open.spotify.com/album/3TYIfFHZY1VobGddvBbebD) | 2:52 | 2025-01-31 | 2025-04-12 |
 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 | 2022-08-05 | 2022-09-09 |
 | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/track/1p39fLrejm3vWAnGFGIYvC) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/album/5mQ6bzqHYKHofu8Dj5Ftw7) | 2:48 | 2022-03-18 | 2022-09-10 |

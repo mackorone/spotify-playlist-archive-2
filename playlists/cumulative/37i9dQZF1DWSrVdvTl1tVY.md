@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Josh Baker
 
-1,542 songs - 3 day 14 hr 53 min
+1,542 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,6 +1192,7 @@
 | [She Can Love U](https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6), [Toni B](https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt) | [She Can Love U](https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2) | 3:41 | 2026-08-27 |  |
 | [She's A Bad Mama Jama](https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P) | [Siân Owen](https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1) | [She's A Bad Mama Jama](https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t) | 2:24 | 2025-05-01 | 2025-08-22 |
 | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [She's In The Club \(feat\. Asal\)](https://open.spotify.com/album/7wJPiNFf6AThWb0Sh0ar2C) | 3:08 | 2024-05-31 | 2025-01-24 |
+| [Sheetz](https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Energy Crew](https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT) | 3:21 | 2026-09-03 |  |
 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 | 2026-03-20 | 2026-06-12 |
 | [Shout \- Arielle Free Remix / Radio Edit](https://open.spotify.com/track/4xHP0k7RvIAkVHYyeh583z) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ), [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Shout \(Arielle Free Remix\)](https://open.spotify.com/album/7LQ1D7hsss0TMOPAeboQ5P) | 3:05 | 2024-06-21 | 2025-02-07 |
 | [Sick n’ Tired](https://open.spotify.com/track/0eSkCKFQsRZaut6LxJUKp1) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Sick n' Tired](https://open.spotify.com/album/3eaXEIANS0rJ10fAw2m2r6) | 5:59 | 2023-03-10 | 2023-05-19 |
@@ -1404,7 +1405,6 @@
 | [Touch Down \(Feel The Rush\)](https://open.spotify.com/track/7KH2YG1vKtZurTuRg3n19l) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Touch Down \(Feel The Rush\)](https://open.spotify.com/album/6NbkKbATuGjI6E5vKtYCHI) | 3:16 | 2024-06-14 | 2025-01-31 |
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-11-10 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-28 | 2025-07-25 |
-| [Track 9](https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Energy Crew](https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT) | 0:00 | 2026-09-03 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-09 |  |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-06-27 |
 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 | 2024-07-25 | 2025-03-07 |

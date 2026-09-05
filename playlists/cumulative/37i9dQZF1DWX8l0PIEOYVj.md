@@ -2,9 +2,9 @@
 
 ### [Bass Lounge](https://open.spotify.com/playlist/37i9dQZF1DWX8l0PIEOYVj)
 
-> Future & melodic bass 🛸 featuring HALIENE
+> Future & melodic bass  🛸  featuring Andrew Bayer
 
-911 songs - 2 day 6 hr 21 min
+912 songs - 2 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Holoban](https://open.spotify.com/track/0hjJoQN4xIsUQr5tJU6mTM) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Holoban](https://open.spotify.com/album/3ePY1PKYkLYZqTZ6mwXRU4) | 2:33 | 2024-04-05 | 2024-08-13 |
 | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/track/7gfSFkrGjKZL2XbSggjyxz) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Hologram Tears \(feat\. Monika Santucci\)](https://open.spotify.com/album/2K0oDcNSg9KnyZL5jWrzr2) | 3:36 | 2022-07-08 | 2022-10-09 |
 | [HOLY](https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [HOLY](https://open.spotify.com/album/19aBg1eqG7DxEitPxpFmpw) | 3:24 | 2024-11-15 | 2025-10-04 |
+| [Home](https://open.spotify.com/track/1qOGoXdkbAwTcy5G9GDLl0) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [A Light That Guides Weary Travelers Home](https://open.spotify.com/album/1CQdK1Uirt3M4YrwHlo0FI) | 3:39 | 2026-09-04 |  |
 | [How It Feels](https://open.spotify.com/track/6wrfjapgdCBiKvLDuqJKTW) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [How It Feels](https://open.spotify.com/album/1lFkp4cM4tWA7s66CbCyua) | 3:26 | 2025-07-18 | 2026-08-22 |
 | [How To Say Goodbye](https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [How To Say Goodbye](https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB) | 3:39 | 2025-05-16 | 2026-08-29 |
 | [How You Love Me \(Anniversary\)](https://open.spotify.com/track/5BPLdDCkqFyDsyPDaNlTus) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me \(Anniversary\)](https://open.spotify.com/album/1Vy6CMBaX13CdQgOLklz0L) | 3:45 | 2024-09-06 |  |
@@ -849,7 +850,7 @@
 | [Waiting On This Day Forever](https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Siberia](https://open.spotify.com/artist/5AezLZZAw28r0FhLbbL1b2), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Waiting On This Day Forever](https://open.spotify.com/album/0prOosQFge1HKryicdbaZ1) | 3:32 | 2025-05-09 |  |
 | [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-16 | 2025-08-10 |
 | [Wake Up](https://open.spotify.com/track/2oy8hKVHivBk8CxGWcmSqK) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Wake Up](https://open.spotify.com/album/3QfoOlXqCd0fKvdgoIvi7o) | 3:39 | 2026-02-27 | 2026-03-14 |
-| [Waking up in a Dream](https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [9 Worlds](https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Waking up in a Dream](https://open.spotify.com/album/5E6R0f8jsjOd1oj6bAdjtj) | 4:50 | 2024-04-05 |  |
+| [Waking up in a Dream](https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [9 Worlds](https://open.spotify.com/artist/0IJ1W6ttg75kPsNGeVgkaV), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Waking up in a Dream](https://open.spotify.com/album/5E6R0f8jsjOd1oj6bAdjtj) | 4:50 | 2024-04-05 | 2026-09-05 |
 | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/track/0ow0OPJOJKhvFvWyLqcHFJ) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Walk On Water \- Love Is Gone pt\. 2](https://open.spotify.com/album/2vY3bVfVilUcZ9CfsAtb1e) | 6:23 | 2022-07-08 | 2023-03-04 |
 | [Walk to the Sun](https://open.spotify.com/track/6km8dVIGHsi9tUpZKLTRZl) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Walk to the Sun](https://open.spotify.com/album/1Zym2qfQtJb2Ega5D2JS1h) | 3:44 | 2024-08-30 |  |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2023-04-09 |

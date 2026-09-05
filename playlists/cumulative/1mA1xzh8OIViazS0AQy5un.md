@@ -700,8 +700,8 @@
 | [נומי נומי](https://open.spotify.com/track/1KJcD6oLkq3UawsJtHs1Qr) | [Ofra Haza](https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae) | [עפרה חזה לילדים](https://open.spotify.com/album/0v6jZ2n6Bzy2cfOjM7x2Y4) | 2:01 | 2023-04-19 |  |
 | [שירי לי שיר ערש](https://open.spotify.com/track/1Ih6AqYzQ1BbS7lU0kjurm) | [Ofra Haza](https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae) | [עפרה חזה לילדים](https://open.spotify.com/album/0v6jZ2n6Bzy2cfOjM7x2Y4) | 1:52 | 2023-04-19 |  |
 | [イイコと妖狐](https://open.spotify.com/track/3EiychdUj5FlpS0GBoaEaj) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [イイコと妖狐](https://open.spotify.com/album/1icS9NTSjyQyqM7fYHtZzg) | 3:53 | 2023-04-27 |  |
-| [カラカラカラのカラ](https://open.spotify.com/track/2LEe6g4jPbwHNDM3dJCyCF) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク5](https://open.spotify.com/album/3WNehG6cwmM6dy37lXn70Z) | 8:01 | 2023-04-19 |  |
+| [カラカラカラのカラ \(feat\. 初音ミク\)](https://open.spotify.com/track/2LEe6g4jPbwHNDM3dJCyCF) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [きくおミク5](https://open.spotify.com/album/3WNehG6cwmM6dy37lXn70Z) | 8:01 | 2023-04-19 |  |
 | [夜のうた](https://open.spotify.com/track/3e5f1puCapONJMNqK0wYO1) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:17 | 2023-04-27 |  |
-| [猫の食卓](https://open.spotify.com/track/3PJnHjXFubx4RGLGhxiAo5) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク６](https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE) | 4:31 | 2023-04-27 |  |
+| [猫の食卓](https://open.spotify.com/track/3PJnHjXFubx4RGLGhxiAo5) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [きくおミク６](https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE) | 4:31 | 2023-04-27 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

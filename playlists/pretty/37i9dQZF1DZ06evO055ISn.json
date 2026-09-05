@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Warren. The essential tracks, all in one playlist.",
-  "num_followers": 179089,
+  "num_followers": 179269,
   "original_name": "This Is Alex Warren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAABgSH3yu+bJNy9+grNftOK8",
+  "snapshot_id": "api4gAAAAAAITIuhctT2q7WwSE17KcuC",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PASSENGER",
-        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
+        "name": "Ordinary (Wedding Version)",
+        "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 159771,
-      "name": "PASSENGER",
-      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
+      "duration_ms": 186964,
+      "name": "Ordinary - Wedding Version",
+      "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordinary (Wedding Version)",
-        "url": "https://open.spotify.com/album/0GuyyL06PKQo3Yz43Nxdct"
+        "name": "PASSENGER",
+        "url": "https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary - Wedding Version",
-      "url": "https://open.spotify.com/track/4t6qMeHgbxWod2SLokiSQp"
+      "duration_ms": 159771,
+      "name": "PASSENGER",
+      "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINE PLACE TO DIE",
-        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 187423,
-      "name": "FINE PLACE TO DIE",
-      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
+      "duration_ms": 161698,
+      "name": "CRY WOLF",
+      "url": "https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+        "name": "FINE PLACE TO DIE",
+        "url": "https://open.spotify.com/album/5BE6sXUzT8u1Dm02n1pN5r"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 161698,
-      "name": "CRY WOLF",
-      "url": "https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9"
+      "duration_ms": 187423,
+      "name": "FINE PLACE TO DIE",
+      "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
     },
     {
       "added_at": null,
@@ -219,6 +219,38 @@
       "duration_ms": 161105,
       "name": "You Can't Stop This",
       "url": "https://open.spotify.com/track/15ugBBMTmevxMc2WSbRULC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 168343,
+      "name": "WON'T GO BACK AGAIN",
+      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus"
     },
     {
       "added_at": null,
@@ -243,38 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 168343,
-      "name": "WON'T GO BACK AGAIN",
-      "url": "https://open.spotify.com/track/7HX5CyrZ0SX9HBqg4uPR50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You'll Be Alright, Kid",
         "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give You Love",
-        "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 183399,
-      "name": "Give You Love",
-      "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
+      "duration_ms": 199858,
+      "name": "SAME STARS",
+      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 199858,
-      "name": "SAME STARS",
-      "url": "https://open.spotify.com/track/06sZjwAy4DTJfpOuel7nv4"
+      "duration_ms": 183399,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez"
     },
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 173213,
-      "name": "Headlights",
-      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
+      "duration_ms": 184251,
+      "name": "I MISS YOU MORE",
+      "url": "https://open.spotify.com/track/40bEIQPOf8bKNvmVnJxJhf"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 184251,
-      "name": "I MISS YOU MORE",
-      "url": "https://open.spotify.com/track/40bEIQPOf8bKNvmVnJxJhf"
+      "duration_ms": 173213,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
       "duration_ms": 168056,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 214887,
+      "name": "ONLY THING LEFT",
+      "url": "https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 214887,
-      "name": "ONLY THING LEFT",
-      "url": "https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Could You (Be OK)",
         "url": "https://open.spotify.com/album/4yW78CyYC4GNX5Wued5E3W"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 197594,
       "name": "How Could You (Be OK)",
       "url": "https://open.spotify.com/track/6Q7Bn9gAtcKDeZ0EYsHsCs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 196854,
+      "name": "LAST TIME",
+      "url": "https://open.spotify.com/track/3sOa0MNB49lZnqRVgv6XJF"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 141096,
       "name": "Remember Me Happy",
       "url": "https://open.spotify.com/track/3zHk9FKy1OZpdEWS5RCGrO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WILDCHILD",
-        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 196854,
-      "name": "LAST TIME",
-      "url": "https://open.spotify.com/track/3sOa0MNB49lZnqRVgv6XJF"
     }
   ],
   "unique_name": "This Is Alex Warren",

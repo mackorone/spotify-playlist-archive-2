@@ -3107,6 +3107,28 @@
     },
     {
       "album": {
+        "name": "FKNN Corazon",
+        "url": "https://open.spotify.com/album/0WgWcRS2HKVgUGQaW3AKWT"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195257,
+      "name": "Velas y Champagne",
+      "url": "https://open.spotify.com/track/5tAO8A2erZ9CoSF4fCOCZL"
+    },
+    {
+      "album": {
         "name": "El \u00c1guila Real",
         "url": "https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx"
       },

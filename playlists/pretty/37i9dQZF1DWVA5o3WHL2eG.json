@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: badm\u00f3mzjay",
-  "num_followers": 51016,
+  "num_followers": 51068,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/0jsohMrFJ01nWD7OVRMLYc"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 152953,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/3rfagkJSrSs4BSV1q8suQt"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "CHAYAS LIEBEN TRAP",
         "url": "https://open.spotify.com/album/4B7xRCqzgI325YCOZ4DBC2"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 145414,
       "name": "CHAYAS LIEBEN TRAP",
       "url": "https://open.spotify.com/track/6v5giipQNFNfgpoevePRyH"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/0jsohMrFJ01nWD7OVRMLYc"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 152953,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/3rfagkJSrSs4BSV1q8suQt"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -239,38 +239,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "OAKBERRY",
-        "url": "https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7"
-      },
-      "artists": [
-        {
-          "name": "AYCA",
-          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
-        }
-      ],
-      "duration_ms": 111600,
-      "name": "OAKBERRY",
-      "url": "https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "Ich hoffe du hast Angst",
-        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 150822,
-      "name": "Ich hoffe du hast Angst",
-      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "tussis > macker",
         "url": "https://open.spotify.com/album/5l86jPGB4QmojWidLpzAeH"
       },
@@ -295,6 +263,22 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "Ich hoffe du hast Angst",
+        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 150822,
+      "name": "Ich hoffe du hast Angst",
+      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "2MG",
         "url": "https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0"
       },
@@ -307,6 +291,38 @@
       "duration_ms": 127071,
       "name": "2MG",
       "url": "https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "OAKBERRY",
+        "url": "https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7"
+      },
+      "artists": [
+        {
+          "name": "AYCA",
+          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
+        }
+      ],
+      "duration_ms": 111600,
+      "name": "OAKBERRY",
+      "url": "https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "mr. rush",
+        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "duration_ms": 144827,
+      "name": "mr. rush",
+      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -331,38 +347,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "mr. rush",
-        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
-      },
-      "artists": [
-        {
-          "name": "lovehead",
-          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "mr. rush",
-      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "dummes klavier",
-        "url": "https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4"
-      },
-      "artists": [
-        {
-          "name": "Ella Stern",
-          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
-        }
-      ],
-      "duration_ms": 199917,
-      "name": "dummes klavier",
-      "url": "https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "kahs l\u00e0 bas",
         "url": "https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 130331,
       "name": "kahs l\u00e0 bas",
       "url": "https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "dummes klavier",
+        "url": "https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4"
+      },
+      "artists": [
+        {
+          "name": "Ella Stern",
+          "url": "https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd"
+        }
+      ],
+      "duration_ms": 199917,
+      "name": "dummes klavier",
+      "url": "https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Kiba Korn",
-        "url": "https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9lia",
-          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Kiba Korn",
-      "url": "https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Blow Sum More",
         "url": "https://open.spotify.com/album/1R0KCsLVFFmork5VL9bpq2"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "love of my life",
-        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
+        "name": "Kiba Korn",
+        "url": "https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I"
       },
       "artists": [
         {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+          "name": "Am\u00e9lia",
+          "url": "https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa"
         }
       ],
-      "duration_ms": 159773,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
+      "duration_ms": 128000,
+      "name": "Kiba Korn",
+      "url": "https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -595,18 +579,34 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD"
+        "name": "Little Silver",
+        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
       },
       "artists": [
         {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj"
+      "duration_ms": 206315,
+      "name": "Little Silver",
+      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "love of my life",
+        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Little Silver",
-        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD"
       },
       "artists": [
         {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
         }
       ],
-      "duration_ms": 206315,
-      "name": "Little Silver",
-      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
+      "duration_ms": 140733,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Too Tired",
-        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "TEST",
         "url": "https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 161250,
       "name": "TEST",
       "url": "https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Too Tired",
+        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "M42",
-        "url": "https://open.spotify.com/album/4vJUOkS14MfUax09dIybt6"
-      },
-      "artists": [
-        {
-          "name": "CAVA",
-          "url": "https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6"
-        }
-      ],
-      "duration_ms": 176108,
-      "name": "M42",
-      "url": "https://open.spotify.com/track/5TCGivZkMvwCTqgEo6fSWL"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Tunnelblick",
         "url": "https://open.spotify.com/album/48SFAfajk2gzwRzrKCpKst"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214826,
       "name": "Tunnelblick",
       "url": "https://open.spotify.com/track/7uO6VqHLUflWaKe2hJrr7J"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "M42",
+        "url": "https://open.spotify.com/album/4vJUOkS14MfUax09dIybt6"
+      },
+      "artists": [
+        {
+          "name": "CAVA",
+          "url": "https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6"
+        }
+      ],
+      "duration_ms": 176108,
+      "name": "M42",
+      "url": "https://open.spotify.com/track/5TCGivZkMvwCTqgEo6fSWL"
     }
   ],
   "unique_name": "EQUAL GSA",

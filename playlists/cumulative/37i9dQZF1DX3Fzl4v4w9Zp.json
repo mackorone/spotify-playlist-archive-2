@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Jim James",
+  "description": "Where roots meet what\u2019s next. Cover: Futurebirds",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 154174,
       "name": "BIG MONEY",
       "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 259551,
       "name": "Debris",
       "url": "https://open.spotify.com/track/6fGHAP3BoOYRCqZVrRqqCl"
@@ -8545,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Far Out Country II",
+        "url": "https://open.spotify.com/album/07e18bhZe44A4MykJh8YnI"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Im Yr Mane",
+      "url": "https://open.spotify.com/track/0V3tCYPh0cjbSHGFsUG0zQ"
+    },
+    {
+      "album": {
         "name": "Long Time Coming",
         "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
       },
@@ -11254,6 +11272,24 @@
       "duration_ms": 190641,
       "name": "Native Son",
       "url": "https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG"
+    },
+    {
+      "album": {
+        "name": "Never Can Tell",
+        "url": "https://open.spotify.com/album/74l7A7EKYkogXrohXHN3Cw"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177746,
+      "name": "Never Can Tell",
+      "url": "https://open.spotify.com/track/6LE0zFXclaKKFooqm4delR"
     },
     {
       "album": {
@@ -14126,7 +14162,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 212120,
       "name": "Save Your Soul",
       "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
@@ -15668,6 +15704,28 @@
       "duration_ms": 190759,
       "name": "Take Me As I Come",
       "url": "https://open.spotify.com/track/23J38YFp8WIuUFAigUAxuV"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5PBGuq1PNWlWcYnRdf26uP"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6Zbl8ILPEkNr4WqyXaq0c4"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [GLOW Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZylNQMXNhNe)
 
-> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Aretuza Lovi, Linn da Quebrada
+> Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-278 songs - 14 hr 14 min
+279 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 | 2022-07-22 | 2023-09-02 |
 | [Follow Me](https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V) | 2:57 | 2022-04-29 | 2022-07-29 |
 | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO) | 3:03 | 2024-01-15 | 2024-06-27 |
+| [FRANKFURT](https://open.spotify.com/track/2L5HhsbheVrLUsPRFMzfXn) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb) | [FRANKFURT](https://open.spotify.com/album/71U9A62SXVGcvbCqrKGJbx) | 3:12 | 2026-09-04 |  |
 | [FUDER CHAPADA RMX](https://open.spotify.com/track/1dd5D9BYGZK9dcyIkNneAH) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [FUDER CHAPADA RMX](https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV) | 2:54 | 2024-06-26 | 2025-10-04 |
 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 | 2025-07-04 | 2026-08-11 |
 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 | 2025-07-04 | 2026-08-11 |
@@ -131,7 +132,7 @@
 | [GORDINHA MAS TA BOM](https://open.spotify.com/track/2PsKJZZWbVjb7gkLNkBfzO) | [Katy da Voz e as abusadas](https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [A VISITA \- SANDRA ELETRÔNICA](https://open.spotify.com/album/6q2wn24CJil53D8yGl7Cvz) | 2:51 | 2026-05-22 |  |
 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 | 2025-08-15 | 2026-05-23 |
 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 | 2022-04-29 | 2024-06-27 |
-| [Homem de BCT](https://open.spotify.com/track/1CzvjFmy2zZE7bRnv0krGD) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [IKU THE KID](https://open.spotify.com/artist/27rSFoEywL1cIeKc7hAswn), [Mi Trenda](https://open.spotify.com/artist/4447S2EcIpAJIGcr9vmwgH) | [Homem de BCT](https://open.spotify.com/album/7IHTe4wzo9hdW2x9isO2N6) | 2:29 | 2026-06-12 |  |
+| [Homem de BCT](https://open.spotify.com/track/1CzvjFmy2zZE7bRnv0krGD) | [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV), [IKU THE KID](https://open.spotify.com/artist/27rSFoEywL1cIeKc7hAswn), [Mi Trenda](https://open.spotify.com/artist/4447S2EcIpAJIGcr9vmwgH) | [Homem de BCT](https://open.spotify.com/album/7IHTe4wzo9hdW2x9isO2N6) | 2:29 | 2026-06-12 | 2026-09-05 |
 | [Humano](https://open.spotify.com/track/6kDgIYROzAqo3x43vbfvTy) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Humano](https://open.spotify.com/album/4GFDkRCCTP9IrjKNMJXhc9) | 3:56 | 2022-10-07 | 2023-01-21 |
 | [inpacto](https://open.spotify.com/track/6zMFk4zkV2cFfbZcwwI89l) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Gabrelú](https://open.spotify.com/artist/2iQjYFLNpukoPYt0a7NJsL), [Zaila](https://open.spotify.com/artist/2wX1wQaQ6KLfz0endkQtLj) | [inpacto](https://open.spotify.com/album/3Z7A4LMoJuWmP3qbn0aycR) | 4:02 | 2026-06-26 |  |
 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 | 2022-05-27 | 2023-07-15 |

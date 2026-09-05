@@ -4,7 +4,7 @@
 
 > solo le tracce con l'aura migliore 👾 ARIETE e Angelina Mango in cover
 
-1,231 songs - 2 day 9 hr 24 min
+1,232 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Cercapersone](https://open.spotify.com/track/2SywfrWnlBy49pkHkLC26J) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cercapersone](https://open.spotify.com/album/1SYhkoiZ4UDCeoAGWAJEMc) | 3:19 | 2025-06-12 | 2025-07-25 |
 | [Cerotti 2](https://open.spotify.com/track/1lk4rkef1mig1wzy6Xtu1r) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Cerotti 2](https://open.spotify.com/album/6CBzd8AYYDb0EmeoJEZQxZ) | 2:49 | 2026-06-25 | 2026-08-07 |
 | [Che bella che sei](https://open.spotify.com/track/5hKnSsWTspcGHY7iciiVwT) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [CRICCA](https://open.spotify.com/album/3GUQc2bZUzFlK9MwnrFfWI) | 2:43 | 2023-06-22 | 2023-07-07 |
+| [Che Bella Vita \(con Angelina Mango\)](https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che Bella Vita \(con Angelina Mango\)](https://open.spotify.com/album/1Y3WHJSYWtpVFUNqQ0zo4b) | 2:47 | 2026-09-04 |  |
 | [Che cos'è l'amore ? \- from Billboard Italia "Women in Music"](https://open.spotify.com/track/4Oe6STEZRIeprSX8lhHCeH) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [Che cos'è l'amore ? \(from Billboard Italia "Women in Music"\)](https://open.spotify.com/album/3wyE4cwkTAKOzYCIB0WG24) | 2:32 | 2025-11-27 | 2026-01-30 |
 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 | 2023-11-07 | 2024-05-17 |
 | [Che Farei](https://open.spotify.com/track/7qX0NzqCT0BO44bcvfwaj9) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Che Farei](https://open.spotify.com/album/72BnmrTrnUcWA4s4IeJHyM) | 2:45 | 2025-09-04 | 2025-10-17 |

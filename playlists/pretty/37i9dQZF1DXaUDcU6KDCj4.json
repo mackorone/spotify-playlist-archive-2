@@ -1,13 +1,205 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Le Ren\n",
-  "num_followers": 880937,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Hans Williams",
+  "num_followers": 881225,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMsrjU8NL8DAjU+YK4uFcfs0iw5f",
+  "snapshot_id": "AAAAAKml/jKggk2xsTXCPjEMPT2unRAP",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Pacific City",
+        "url": "https://open.spotify.com/album/51JuXDweyCOiIsaQRMk2xa"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 176939,
+      "name": "Pacific City",
+      "url": "https://open.spotify.com/track/66sekW2BmMwSzBiwMij2iG"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "The Way That It Wasn\u2019t",
+        "url": "https://open.spotify.com/album/7iaQaNp61VXLEhPdoIvvAO"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 249215,
+      "name": "The Way That It Wasn\u2019t",
+      "url": "https://open.spotify.com/track/4c5l3LR7lWFtvwKVhJD46P"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Painting The Walls",
+        "url": "https://open.spotify.com/album/55daGLH0FR6BB9NJBu5W8n"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Painting The Walls",
+      "url": "https://open.spotify.com/track/0iMZzz7aMj1XAyQIevdzzF"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Let's Go Far: Vol. 1",
+        "url": "https://open.spotify.com/album/4FZrEZF2B4zaiC0icWNITX"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "My Dark Places",
+      "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Blue Sky, Don't Cry",
+        "url": "https://open.spotify.com/album/2EVl4soWPj1NSVlAFRUJKs"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "Blue Sky, Don't Cry",
+      "url": "https://open.spotify.com/track/3tW7WprsVhHCAZHk9UGDHF"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "No One Calls",
+        "url": "https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "No One Calls",
+      "url": "https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/1EQwC6i8K53FKbCvW7E3Qw"
+      },
+      "artists": [
+        {
+          "name": "Lennon VanderDoes",
+          "url": "https://open.spotify.com/artist/4n97yyY2gs2aCYoU5KQA30"
+        }
+      ],
+      "duration_ms": 176583,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/63jYfbQ86eDT0Z0Rsyuv0m"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "I Won\u2019t Be There Waiting For You",
+        "url": "https://open.spotify.com/album/7giFDQWTJPCEVshvReKhvX"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 253271,
+      "name": "I Won\u2019t Be There Waiting For You",
+      "url": "https://open.spotify.com/track/0c8XsPbm9w5fCsMXxTJEu8"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/31VrYEC62Apx439TwuGfVt"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 143823,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3VneXYcEtw6ZsVgGSOi1Op"
+    },
+    {
+      "added_at": "2026-09-04 04:01:41",
+      "album": {
+        "name": "Anything Anything",
+        "url": "https://open.spotify.com/album/5K4hP3VRzjea4wXYoeYWi9"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Anything Anything",
+      "url": "https://open.spotify.com/track/5z0cWacpqhkgR0FfBEPqP9"
+    },
     {
       "added_at": "2026-08-28 04:02:05",
       "album": {
@@ -2559,386 +2751,6 @@
       "duration_ms": 168500,
       "name": "winner",
       "url": "https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Virtuoso",
-      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "YOUNG REGAN",
-        "url": "https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9"
-      },
-      "artists": [
-        {
-          "name": "Ethan Regan",
-          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "each man has got a bullet",
-      "url": "https://open.spotify.com/track/7AKQaChEENrHqW2Fo1v9Bz"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Ride Lonesome (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 264256,
-      "name": "Ride Lonesome (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Billy Came Back",
-        "url": "https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 189148,
-      "name": "Billy Came Back",
-      "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Baby Steps",
-        "url": "https://open.spotify.com/album/172FBTtpqNv9blWGkjgmvP"
-      },
-      "artists": [
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 238658,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/40eANvl45mhgwEHL5pHHSn"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "The Swell",
-        "url": "https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 207959,
-      "name": "The Swell",
-      "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "High and Sad (Franklin Jonas & The Byzantines and Noah Cyrus)",
-        "url": "https://open.spotify.com/album/3V8p1AudNH1yX4w85oAP61"
-      },
-      "artists": [
-        {
-          "name": "Franklin Jonas",
-          "url": "https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "High and Sad (Franklin Jonas & The Byzantines and Noah Cyrus)",
-      "url": "https://open.spotify.com/track/31Ftr30QFl7erwqvegVSlU"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Gravedigger",
-        "url": "https://open.spotify.com/album/3ljvoeP8qxZvC5Q5b85STU"
-      },
-      "artists": [
-        {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
-        }
-      ],
-      "duration_ms": 166301,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/4cpwbQ87rrbKM9d7acnPmr"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Let's Go Far",
-        "url": "https://open.spotify.com/album/5jsjBaaoJSikABi2MU2KiC"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 250251,
-      "name": "Let's Go Far",
-      "url": "https://open.spotify.com/track/1fZk46A71ZcfVtFJXYfJ6F"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Pott County Call Return",
-        "url": "https://open.spotify.com/album/7GAv2cFaZtrsA3Y0n4vc7R"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        },
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Pott County Call Return",
-      "url": "https://open.spotify.com/track/6zMCkV4gYuZghI8nztjUMe"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Carolina Rain",
-        "url": "https://open.spotify.com/album/0wCYTR5q0kBkdXc8ROcXix"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Carolina Rain",
-      "url": "https://open.spotify.com/track/7DLuMk0PrnTQt8BE3GK3WY"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Late for the Sky",
-        "url": "https://open.spotify.com/album/7LbUbKYjuR35KgrKWgc2hI"
-      },
-      "artists": [
-        {
-          "name": "Ken Pomeroy",
-          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Late for the Sky",
-      "url": "https://open.spotify.com/track/5WXTlVB2sQdBQtcYaQ1AsQ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/4OmNQi3AudOnWKdhTQpkD7"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 212861,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Heavy Meadow",
-        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Lean Into The Hill",
-      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Counting",
-        "url": "https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC"
-      },
-      "artists": [
-        {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        }
-      ],
-      "duration_ms": 218366,
-      "name": "Counting",
-      "url": "https://open.spotify.com/track/3NWOWcypy2u5Vc23hFi9FM"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Cozy & Twisted, Vol. 1 \"Grandma's Favorites\"",
-        "url": "https://open.spotify.com/album/7kbJrZxnpBhq8br9Lxsr3g"
-      },
-      "artists": [
-        {
-          "name": "King Tuff",
-          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
-        }
-      ],
-      "duration_ms": 175163,
-      "name": "Turtles World",
-      "url": "https://open.spotify.com/track/5uXsVdfwHsLmVsYNsCNU4J"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Landfill Poetry",
-        "url": "https://open.spotify.com/album/4LezWbrFvunM8kh3TAaHTb"
-      },
-      "artists": [
-        {
-          "name": "Riley Downing",
-          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
-        }
-      ],
-      "duration_ms": 222367,
-      "name": "Landfill Poetry",
-      "url": "https://open.spotify.com/track/4nbqsmjQn0SkCRFSsBbmxu"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Seaside",
-        "url": "https://open.spotify.com/album/0dtPMEhlRYUYWJaAniHw3U"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 241418,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/79jGCYxBWFM6vAJSlpHCHB"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Autosmile",
-        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Autosmile",
-      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "Box Store",
-        "url": "https://open.spotify.com/album/6XncKjOsZLWWAd7x4bZoW2"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Box Store",
-      "url": "https://open.spotify.com/track/2Gz6xg1P7AxKfPgML46aUa"
-    },
-    {
-      "added_at": "2026-06-26 04:01:52",
-      "album": {
-        "name": "You Are Spring!",
-        "url": "https://open.spotify.com/album/10FoDGoTLJ1fmOwpLbJRjT"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 276546,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6XMIGkfs34gxTn0lBRBKQT"
     }
   ],
   "unique_name": "Fresh Folk",

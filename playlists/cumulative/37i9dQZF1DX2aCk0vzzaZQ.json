@@ -205,6 +205,36 @@
     },
     {
       "album": {
+        "name": "Cello Concerto in D Minor: II. Intermezzo. Andantino con moto - Allegro presto (Short Edit)",
+        "url": "https://open.spotify.com/album/3MpEhknbePlygFipzQ0TXd"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272927,
+      "name": "Cello Concerto in D Minor: II. Intermezzo. Andantino con moto - Allegro presto - Short Edit",
+      "url": "https://open.spotify.com/track/79UqiIvNTE2tEpqzf9Z7z3"
+    },
+    {
+      "album": {
         "name": "Cello Concerto No. 2 in D Minor, Op. 119/II. Allegro non troppo - Cadenza - Molto allegro",
         "url": "https://open.spotify.com/album/5Fs4HW2xG8CeEXNa85Ju71"
       },

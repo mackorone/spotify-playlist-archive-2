@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Logos Timis
 
-832 songs - 1 day 14 hr 28 min
+833 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2018 \(Kano Oti Thelo\)](https://open.spotify.com/track/6GXIa26dQgBpyxHxJixPgL) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj) | [2018 \(Kano Oti Thelo\)](https://open.spotify.com/album/0mFGwEihqdOSlInoJpNFTU) | 2:24 | 2025-05-08 | 2025-05-30 |
 | [24\-7](https://open.spotify.com/track/27FfPE8IojdC9M7fBIb3jT) | [Mario Kush](https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq), [Beef](https://open.spotify.com/artist/2VNT6clZeYqMfOs75oGxiE), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [24\-7](https://open.spotify.com/album/62ZalWfts0xJDxVNqjCL8s) | 3:14 | 2025-07-24 | 2025-08-01 |
 | [24ora](https://open.spotify.com/track/3zZDBxEvVTFbkyLgBzpYSv) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [G.T.K.](https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la) | 2:57 | 2024-11-21 | 2024-12-20 |
+| [3 FORES](https://open.spotify.com/track/07BGGf3ZRVI7deiQMv3kW2) | [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [LEVEL I](https://open.spotify.com/album/4jQSuLcUZeJO6EDrl6ILHV) | 2:24 | 2026-09-04 |  |
 | [3 KILO](https://open.spotify.com/track/5hJgfWCMOSwJifVlynBQQQ) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB), [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [LAZOS](https://open.spotify.com/artist/54hs0RzBuT3IKOhM4QmIpo) | [3 KILO](https://open.spotify.com/album/266CEwGpfyn1dE1z5znADa) | 3:41 | 2026-08-20 |  |
 | [30](https://open.spotify.com/track/50hYmMmVmVBwgRhjT5nh3c) | [epimtx](https://open.spotify.com/artist/1ZPhnqvMdnyj44yhtLMXzR) | [30](https://open.spotify.com/album/2CAgmzbtvSYrx1wSGwW3O7) | 2:33 | 2024-11-21 | 2024-12-06 |
 | [3:33](https://open.spotify.com/track/6ZogZyvoQJDfrIa6Hzojyq) | [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [3:33](https://open.spotify.com/album/2OMJUNHAbqGUGIC4GO6zxC) | 3:00 | 2024-06-27 | 2024-07-19 |
@@ -682,7 +683,7 @@
 | [SEIRA](https://open.spotify.com/track/1zT7YyT8AUaYIriXCN7nWY) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [SEIRA](https://open.spotify.com/album/45FUklLice74eFv7rpNnAM) | 2:24 | 2025-12-04 | 2026-04-24 |
 | [Sekiro.](https://open.spotify.com/track/7D6lH9Q6ALQbYaeMQ1GZi8) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Mani](https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS), [NtaFos](https://open.spotify.com/artist/6WKKllRMYXldkKQ5f0gjRf) | [Scripta Manent](https://open.spotify.com/album/6nzg0S8AJ4c0C7lZLlGKMA) | 2:24 | 2025-03-20 | 2025-04-18 |
 | [SEKUSHI](https://open.spotify.com/track/0GYX0KUkK846w6tWYiFJMV) | [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SEKUSHI](https://open.spotify.com/album/1hJQ1UH3y1ZGHsRZHH8G1J) | 2:16 | 2024-09-19 | 2024-10-04 |
-| [Septemvris](https://open.spotify.com/track/3Y0YYhDOFz5QfPB5EhTPLc) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV) | [Septemvris](https://open.spotify.com/album/0Q2NqyFl31uiuYDRXJ4fo2) | 2:50 | 2026-09-03 |  |
+| [Septemvris](https://open.spotify.com/track/3Y0YYhDOFz5QfPB5EhTPLc) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Sativa](https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w) | [Septemvris](https://open.spotify.com/album/0Q2NqyFl31uiuYDRXJ4fo2) | 2:50 | 2026-09-03 |  |
 | [SERBIAN FREESTYLE](https://open.spotify.com/track/1MMpsfptbwzmzAcxZxRG1x) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Jessy Blue](https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG) | [SERBIAN FREESTYLE](https://open.spotify.com/album/3olkfjArml6atN7UtnoyCj) | 3:34 | 2026-03-26 | 2026-05-22 |
 | [Serial Skillers.](https://open.spotify.com/track/0Yf9iboLbRggE5US6tBvLA) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ATH VISION](https://open.spotify.com/album/4arnueWFG9OSoHgs2Rkh31) | 2:48 | 2025-06-26 | 2025-10-10 |
 | [SERVICE](https://open.spotify.com/track/5WCUggpYwkiTOAqu4b92FJ) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH), [Xjay](https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN) | [SERVICE](https://open.spotify.com/album/6AU2SibYsJhVU5FWPG0dhj) | 3:09 | 2024-06-27 | 2024-07-12 |

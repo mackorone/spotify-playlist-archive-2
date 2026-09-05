@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Josie Edwards",
+  "description": "Dramatic, theatrical pop: this is basically a Mollie Elizabeth stan playlist.",
   "name": "Limelight",
   "tracks": [
     {
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210048,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
@@ -7591,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Petty Crimes",
+        "url": "https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192458,
+      "name": "Petty Crimes",
+      "url": "https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ"
+    },
+    {
+      "album": {
         "name": "Phone Sick",
         "url": "https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv"
       },
@@ -8548,10 +8566,28 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 197176,
       "name": "Sidekick",
       "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
+    },
+    {
+      "album": {
+        "name": "The Fatal Flaw",
+        "url": "https://open.spotify.com/album/4e7FifiO1GkpqGefuXS2JD"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260709,
+      "name": "Silhouette on the Hill",
+      "url": "https://open.spotify.com/track/7buthCT0ygAmfSN8iAjmMU"
     },
     {
       "album": {
@@ -9942,7 +9978,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 226336,
       "name": "The Veil Has Spoken",
       "url": "https://open.spotify.com/track/1eFqwDpU50nWuctwSdv4XU"
@@ -10004,6 +10040,24 @@
       "duration_ms": 240134,
       "name": "The Water Is Fine",
       "url": "https://open.spotify.com/track/3gS0VrWH2NyPGXYiFmcagd"
+    },
+    {
+      "album": {
+        "name": "A COURTSHIP HORROR",
+        "url": "https://open.spotify.com/album/2vpyZ3ONLIzhpYwzA8AC99"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/4mvpfgrd45hK0k4VcIIx7F"
     },
     {
       "album": {

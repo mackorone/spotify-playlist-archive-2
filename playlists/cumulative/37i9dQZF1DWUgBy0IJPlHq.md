@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Billy Strings
+> A new shade of Country\. Cover: Leon Majcen
 
-875 songs - 2 day 4 hr 58 min
+878 songs - 2 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Come Home](https://open.spotify.com/track/07ApfQM9tJoExh7XnLyphK) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Red Bird](https://open.spotify.com/album/2wQbpcBJHMYXqCBr99trxC) | 4:19 | 2026-04-03 | 2026-05-30 |
 | [Comeback Kid](https://open.spotify.com/track/1ViNv171bw5aC5rcD9MC4M) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Comeback Kid](https://open.spotify.com/album/7vs8zVEytvdxIhIsgVYWgl) | 4:16 | 2022-09-16 | 2023-08-05 |
 | [Common Law](https://open.spotify.com/track/5aImc0JnM01Y2LYNbdAx5T) | [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh), [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Common Law](https://open.spotify.com/album/2l8tS2MaLm9XUkmmWhmPZi) | 3:03 | 2022-07-08 | 2023-03-04 |
+| [Cone Off](https://open.spotify.com/track/1zjTmD96KKxnolQ0tp0Y80) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [King of Having Fun](https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3) | 3:43 | 2026-09-04 |  |
 | [conversations with the moon](https://open.spotify.com/track/5slNp3QyBb4SbSxEEGoByw) | [Kitty Coen](https://open.spotify.com/artist/7MY6uLRlctB9wtKoE6DLef) | [Conversations with the Moon](https://open.spotify.com/album/4FAchfVVjOygjZHw9WiIzW) | 3:27 | 2025-10-10 | 2026-03-14 |
 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-06-02 | 2025-10-11 |
 | [Couch at My Parents House](https://open.spotify.com/track/2MvpD6nQKbaPY6FIizjsoM) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [Couch at My Parents House](https://open.spotify.com/album/2dkyv11e9RKRgFc3zxaNhm) | 3:01 | 2026-03-13 | 2026-05-30 |
@@ -235,7 +236,7 @@
 | [Don't Let Go](https://open.spotify.com/track/5Bb3bQz7BCG01HiTzx5mU5) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Mutiny After Midnight \(Extended Edition\)](https://open.spotify.com/album/3YdXVCzqT98v7pMbxVvOL0) | 4:43 | 2026-06-12 |  |
 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 | 2022-08-26 | 2023-07-29 |
 | [Don't Wanna Say Goodnight](https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Don’t Wanna Say Goodnight](https://open.spotify.com/album/3C2YvDauBHcw2Tv0Tdlfjp) | 3:24 | 2024-08-30 | 2025-12-05 |
-| [Don't You Cry](https://open.spotify.com/track/5GqiEDFRVtZGAa90H10Cfl) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Don't You Cry](https://open.spotify.com/album/6Vb8x9LjQKtMVXmAsVdchL) | 4:07 | 2026-07-31 |  |
+| [Don't You Cry](https://open.spotify.com/track/5GqiEDFRVtZGAa90H10Cfl) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Don't You Cry](https://open.spotify.com/album/6Vb8x9LjQKtMVXmAsVdchL) | 4:07 | 2026-07-31 | 2026-09-05 |
 | [Don’t Let The Bastards Get You Down](https://open.spotify.com/track/31MhQCQBolGgBL02vqUsrW) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Don't Let The Bastards Get You Down](https://open.spotify.com/album/6iB4qTI8KjcY7xgofIfTgp) | 2:51 | 2025-06-20 | 2025-10-11 |
 | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/track/5Ji2fMtataaupfgg3SlLdS) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Don’t Let ‘Em \(Get Inside of Your Head\)](https://open.spotify.com/album/6t5AGNTVsSIsAGWhichoba) | 3:23 | 2025-10-24 | 2025-12-05 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-04-01 | 2023-05-27 |
@@ -721,6 +722,7 @@
 | [Sweet Misery](https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [You, Yeah, You](https://open.spotify.com/album/2iAobQN7dau5q1S83OXrvY) | 3:09 | 2021-12-17 | 2022-09-03 |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2022-09-23 | 2025-10-11 |
 | [Take Me As I Come](https://open.spotify.com/track/23J38YFp8WIuUFAigUAxuV) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Take Me As I Come](https://open.spotify.com/album/1cdI1EZiR8TwBad3k1JWYd) | 3:10 | 2024-04-05 | 2026-04-18 |
+| [Take Me Home](https://open.spotify.com/track/6Zbl8ILPEkNr4WqyXaq0c4) | [C\. James](https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD), [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Take Me Home](https://open.spotify.com/album/5PBGuq1PNWlWcYnRdf26uP) | 3:05 | 2026-09-04 |  |
 | [Take Me Home](https://open.spotify.com/track/1MLcWGkyKGra0HnG0i25Ao) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/5ybUt3YH4ZbN8fEetQvqQg) | 3:29 | 2023-01-13 | 2023-08-19 |
 | [Take Me Home](https://open.spotify.com/track/5Sd8elg0RhT0r33Ol456Zu) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Take Me Home](https://open.spotify.com/album/6owWwHeRI2yThMhTuB7eCB) | 3:29 | 2022-11-25 | 2023-01-19 |
 | [Tear Drop](https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Life & Love](https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO) | 4:12 | 2023-11-17 | 2024-02-03 |
@@ -755,6 +757,7 @@
 | [The Illusion Of Love \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3wbTGRx1ggj8QKIdJXcgpl) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [The Illusion Of Love \(feat\. Lukas Nelson\)](https://open.spotify.com/album/2ORyv79ovybfjEdkR4OM9A) | 4:43 | 2026-08-28 |  |
 | [The Last Resort](https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew) | 3:56 | 2022-03-04 | 2022-04-29 |
 | [The Last Tear](https://open.spotify.com/track/1dUQUX4jRmE8PROZ4Xw49C) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Lately](https://open.spotify.com/album/1azugHkoKRDBfIsCac10z9) | 3:31 | 2021-12-17 | 2022-02-19 |
+| [The Leaving Kind](https://open.spotify.com/track/6IRzHSf6UBVFfXC4Lqh2JF) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [The Leaving Kind](https://open.spotify.com/album/2icvLcu0xWjqlrvuAvu2YC) | 3:23 | 2026-09-04 |  |
 | [The Light Saw Me](https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [The Light Saw Me](https://open.spotify.com/album/2i4mGpyGWt8NGwxwgbn6XK) | 3:12 | 2021-12-17 | 2022-03-26 |
 | [The Luckier Ones](https://open.spotify.com/track/6XrZvjJLyv3frS0lNU9GXF) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Heavy Duty Heart](https://open.spotify.com/album/3jEb6lCEoLcTpYbdplupEi) | 3:51 | 2026-03-27 | 2026-06-06 |
 | [The Man from Waco](https://open.spotify.com/track/2rI67pLdZ8mt5tbJeJ06S7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/04BNAzlQVg15tcK7jieje6) | 3:45 | 2022-08-19 | 2024-04-06 |

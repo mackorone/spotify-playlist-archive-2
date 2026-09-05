@@ -2,9 +2,9 @@
 
 ### [Vintage Vibes](https://open.spotify.com/playlist/37i9dQZF1DX6dvuioZhoLo)
 
-> New makes old\. Cover:  Kaitlin Butts
+> New makes old\. Cover: Paige Plaisance
 
-279 songs - 16 hr 21 min
+282 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 | 2021-11-12 | 2026-03-07 |
 | [Easy On The Eyes](https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Easy On The Eyes](https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G) | 3:44 | 2026-03-06 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-07-14 |  |
+| [Fairweather Friend](https://open.spotify.com/track/7M6EoleJd4kGMLgmhQSz0K) | [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Fairweather Friend](https://open.spotify.com/album/3ID3R1RFScml64bRtXxBNz) | 4:59 | 2026-09-04 |  |
 | [Fast As I Can Crawl](https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [Fast As I Can Crawl](https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4) | 3:21 | 2026-08-07 |  |
 | [Fastest Gun Alive](https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Fastest Gun Alive](https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1) | 3:07 | 2026-03-27 |  |
 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 | 2021-11-12 |  |
@@ -108,7 +109,7 @@
 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 | 2021-11-12 | 2026-03-21 |
 | [Holy Ghost Fire](https://open.spotify.com/track/6IYqvk4buGbKUpnfFdhQy9) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/2Ejg7xwAIxfRcFm6iEdzz2) | 3:59 | 2023-10-06 | 2024-04-19 |
 | [Home With My Dog](https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 4:09 | 2026-05-15 |  |
-| [Homemade Margaritas](https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Homemade Margaritas](https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY) | 3:11 | 2026-04-17 |  |
+| [Homemade Margaritas](https://open.spotify.com/track/0p0z1o9ZZbzF99EdAhvXQ2) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Homemade Margaritas](https://open.spotify.com/album/2PHPUs6EfIEsC5p3p23mPY) | 3:11 | 2026-04-17 | 2026-09-05 |
 | [Honky Tonks and Taverns](https://open.spotify.com/track/3IYEFU6TaJl5LmyJnkodBm) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0) | 2:19 | 2022-04-01 | 2024-01-28 |
 | [Honky Tonks and Taverns](https://open.spotify.com/track/7A57mX7GPbD0uycT0gl1W2) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Honky Tonks and Taverns](https://open.spotify.com/album/7jHhUfLqcnVkyGmjldatPX) | 2:19 | 2021-11-12 | 2022-07-28 |
 | [Hotel Amarillo](https://open.spotify.com/track/5SDvZaLLRx5vw22lur128q) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Spades and Roses](https://open.spotify.com/album/17G3ABTFVs6dpdmk2gPPxC) | 4:00 | 2021-11-12 | 2022-07-29 |
@@ -148,6 +149,7 @@
 | [Leap of Faith](https://open.spotify.com/track/6WaVOSups4AIb72awqLxZC) | [Omar Velasco](https://open.spotify.com/artist/7hyKm6cdFkaqtPCN3afkTJ) | [Over the Hill](https://open.spotify.com/album/0qiMZ5JP7cPermGzvLNL5V) | 4:46 | 2026-04-17 | 2026-07-23 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 6:19 | 2021-11-12 | 2022-07-29 |
 | [Learning to Lose \(feat\. Willie Nelson\)](https://open.spotify.com/track/7AA9ZppMBiNOGSW0nR6hxc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [All American Made](https://open.spotify.com/album/5XbPhu08VoGqOT06oLpHhN) | 6:19 | 2022-04-01 | 2024-04-19 |
+| [Less Fear, More Soul](https://open.spotify.com/track/5AXeHerfTojOy3EuCFphhA) | [Johnny Delaware](https://open.spotify.com/artist/2oLEomSWOUxlSiYXoQQlJW) | [Less Fear, More Soul](https://open.spotify.com/album/544s6GJ0gjHySuMSAaM7tP) | 3:35 | 2026-09-04 |  |
 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 | 2023-05-19 | 2024-04-17 |
 | [Light as a Fire](https://open.spotify.com/track/2bzhRzz08dcRH7rV1oMd78) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/4UBlELh2vo67oF7USApnMY) | 3:26 | 2021-11-12 | 2022-07-29 |
 | [Light As a Fire](https://open.spotify.com/track/5pbu10jgX1LlVbJJ5iiFsY) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2tWv4fEUE5nkK39FiDmwCE) | 3:26 | 2022-04-01 | 2023-04-30 |
@@ -187,6 +189,7 @@
 | [Motorcycle](https://open.spotify.com/track/1z2UyZvguJYmNd47EZP7Qp) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Colter Wall](https://open.spotify.com/album/0R8H8XYAiHsh2dwzb4RHsI) | 2:17 | 2023-08-11 | 2024-04-19 |
 | [Motorcycle](https://open.spotify.com/track/0mSZBCx1e6hfk4AxsiCT9T) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Gilded](https://open.spotify.com/album/4OIwzZLC5NvLeP81v53jmP) | 3:06 | 2022-04-01 | 2023-10-26 |
 | [Motorcycle](https://open.spotify.com/track/4qd7c6XSzByd6Dz1QdLAnV) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Motorcycle](https://open.spotify.com/album/1jQcb2lUXTMt27UH9XjquE) | 3:06 | 2021-11-12 | 2022-07-25 |
+| [Movin' Out](https://open.spotify.com/track/3XcH2mc0TVjGW7PeD56f6B) | [Paige Plaisance](https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9) | [Swampwater](https://open.spotify.com/album/5jV4TWYNqv2sHPi6w63Hhm) | 3:03 | 2026-09-04 |  |
 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 | 2026-02-06 |  |
 | [My Boots](https://open.spotify.com/track/3WFkgqIclweIZ9kNQXbhe9) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 4:47 | 2021-11-12 | 2022-05-26 |
 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 | 2021-11-12 |  |
@@ -200,7 +203,7 @@
 | [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 | 2022-04-01 | 2024-07-03 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 | 2023-04-21 | 2024-04-19 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-04-25 |
-| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 |  |
+| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 | 2026-09-05 |
 | [Out To Sea](https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/5qet4b9g14WGegggOOxz6s) | 5:51 | 2021-11-12 | 2022-07-24 |
 | [Out to Sea](https://open.spotify.com/track/37B5EOUbYGfLjayLDQblv2) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/3zZGcZMTRjI6nVk361JwSE) | 5:51 | 2023-10-06 | 2024-04-19 |
 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 | 2021-11-12 | 2024-07-06 |
@@ -278,7 +281,7 @@
 | [When You're Gone](https://open.spotify.com/track/7F5xXhW0lwu3sl95M5dh03) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [My Piece of Land](https://open.spotify.com/album/0L29DnqfhGMnX6UptHQZRz) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Where Ya Been?](https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV) | [Luke Bell](https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ) | [Luke Bell](https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj) | 3:29 | 2021-11-12 |  |
 | [Wild At Heart](https://open.spotify.com/track/7EVeo9YXY0UlctpcrrCxfp) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Wild At Heart](https://open.spotify.com/album/6KVSZpBdO0ZiUzIRabBS3d) | 2:55 | 2026-03-27 |  |
-| [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 | 2022-04-01 |  |
+| [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 | 2022-04-01 | 2026-09-05 |
 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 | 2026-04-10 |  |
 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 | 2022-04-01 |  |
 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 | 2021-11-12 |  |

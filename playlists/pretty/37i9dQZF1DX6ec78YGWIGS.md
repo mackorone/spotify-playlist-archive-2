@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Angela Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,890 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,903 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 20 | [RAMEN PARA DOS](https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [RAMEN PARA DOS](https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF) | 3:51 |
 | 21 | [pa ke te enamores](https://open.spotify.com/track/0qsse49O6abs5bVAUC3pu8) | [Turde](https://open.spotify.com/artist/4QvojSqsHuURFc49UBjugU), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [pa ke te enamores](https://open.spotify.com/album/47QS3PmUvE2uaaqlHAGEZP) | 1:57 |
 | 22 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 |
-| 23 | [Un Minuto](https://open.spotify.com/track/4LCLxc1ySgm5qNqkSmmtlT) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Underaiki](https://open.spotify.com/artist/0PVXQpnvEogkTBCnMJiliA) | [Un Minuto](https://open.spotify.com/album/4ZoWpVXLtBtvJdOadV4mXu) | 2:18 |
+| 23 | [Un Minuto](https://open.spotify.com/track/4LCLxc1ySgm5qNqkSmmtlT) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [Un Minuto](https://open.spotify.com/album/4ZoWpVXLtBtvJdOadV4mXu) | 2:18 |
 | 24 | [MASNA REMIX](https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [MASNA REMIX](https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS) | 4:08 |
 | 25 | [SI](https://open.spotify.com/track/1kajKVz3BYMagD14DOMu95) | [Daiko 02](https://open.spotify.com/artist/7HyrZUMEfu8eTF2iN5iP7T), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [SI](https://open.spotify.com/album/7yVxADtOry81h8YmKNb6d0) | 3:22 |
 | 26 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |

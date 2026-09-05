@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Muyeez
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,579 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,695 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 19 | [PASSIMA](https://open.spotify.com/track/0QfkZhG4YHkAh2uZD9wpMM) | [Neeza](https://open.spotify.com/artist/7afjvXGwEtEwhIHIjdQymg), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2), [Veron Drums](https://open.spotify.com/artist/5eL3k8chjx46PTigY7kuHJ) | [PASSIMA](https://open.spotify.com/album/4peJV0ivnq2yViaT7ktWAS) | 2:58 |
 | 20 | [Guide](https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Guide](https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q) | 2:07 |
 | 21 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 |
-| 22 | [Track 7](https://open.spotify.com/track/0SodZrpNCV81H9aFMa4YgQ) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Full Moon](https://open.spotify.com/album/6XXZ8PrtBAYhX8G9UsU0MH) | 0:00 |
+| 22 | [Pronto](https://open.spotify.com/track/0SodZrpNCV81H9aFMa4YgQ) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Full Moon](https://open.spotify.com/album/6XXZ8PrtBAYhX8G9UsU0MH) | 2:47 |
 | 23 | [Jungle](https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF) | [Delamore](https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Jungle](https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg) | 2:49 |
 | 24 | [Chaser](https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Chaser](https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx) | 2:28 |
 | 25 | [MAMACITA](https://open.spotify.com/track/5H2emdTxGl0iBPPwY78XSm) | [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [MAMACITA](https://open.spotify.com/album/0LV2GpXvsqTmyCPP0jm2wR) | 2:57 |

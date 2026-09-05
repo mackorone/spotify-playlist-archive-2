@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-443 songs - 1 day 1 hr 58 min
+444 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Maktub](https://open.spotify.com/track/0jaGaoWFKkXgKMPBpvSTSQ) | [Tair Haim](https://open.spotify.com/artist/00njTfiekrdi9mfQySPFDN) | [Maktub](https://open.spotify.com/album/6zap49PIkOqDHtjnNGWkw5) | 3:08 | 2025-12-04 | 2026-01-30 |
 | [Match](https://open.spotify.com/track/20eHfZYjCdmDG3MgGTRB0u) | [Yael S\. Copeland](https://open.spotify.com/artist/29dECJ6stIo8IpuSnIVISv) | [Match](https://open.spotify.com/album/5tm2DzrFSTO4VyvUB9XPZK) | 3:11 | 2025-03-13 | 2025-03-28 |
 | [Met\_A\_Girl](https://open.spotify.com/track/2VaxzejJWeSMRn1HL3lMmd) | [Allan Tune](https://open.spotify.com/artist/0XCcXANyEqw44WsvKKuqQc) | [GOING INTO THE HOUSE](https://open.spotify.com/album/4UJ6QZimZToaBVwcuU4RBF) | 2:52 | 2026-04-30 | 2026-05-15 |
-| [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 | 2025-06-05 |  |
+| [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 | 2025-06-05 | 2026-09-05 |
 | [Mon Amour Fou](https://open.spotify.com/track/3UBtgU4NVwM9eShMqiOzJC) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49), [Shir Frum](https://open.spotify.com/artist/31Cz2bC0pRyLQ7Xpsu16L9) | [Mon Amour Fou](https://open.spotify.com/album/54dZ9gGpwdgeqGKmD3IGA0) | 2:37 | 2024-09-12 | 2024-09-27 |
 | [My Baby Won't Laugh \- From "Butterfly Kiss" Soundtrack](https://open.spotify.com/track/6c0KDQ3bUfuPrA6reRbPGk) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [My Baby Won't Laugh \(From "Butterfly Kiss" Soundtrack\)](https://open.spotify.com/album/7KgGi8iL8Asy3Q18ycG93Q) | 4:04 | 2024-11-28 | 2025-01-30 |
 | [My Favorite](https://open.spotify.com/track/2qZe91uEYF5ALh5M7Nm7XX) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Work In Progress](https://open.spotify.com/artist/7pHBxGkkgqsCGVALLT6EMp) | [Work in Progress](https://open.spotify.com/album/2vN8V0sPEQZNd3ylKuxmTH) | 3:34 | 2024-12-05 | 2025-04-06 |
@@ -386,6 +386,7 @@
 | [נשמה יקרה](https://open.spotify.com/track/70eZ76ooEjzPe7wzkKjxES) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [נשמה יקרה](https://open.spotify.com/album/7sAM2w4rfxqovH8Ypudtdk) | 3:26 | 2024-09-12 | 2025-05-09 |
 | [נשמות](https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2) | [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [העולם זה לא מספיק](https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X) | 3:24 | 2026-01-15 |  |
 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 | 2024-06-27 | 2025-03-21 |
+| [סולם האהבה](https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [סולם האהבה](https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0) | 4:16 | 2026-09-03 |  |
 | [סוף משחק](https://open.spotify.com/track/7EuIv6aW0ZEBo3HzUADXyt) | [Yali Sobol](https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa) | [מים על הסלע](https://open.spotify.com/album/3jLR8IBnfPjfkZTyYY0TB2) | 3:56 | 2025-01-16 | 2025-03-21 |
 | [סופ"ש](https://open.spotify.com/track/2xicUqJoTD70ZdNUpY3oKe) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [גיאגיא](https://open.spotify.com/artist/4xWv94BdANzJMSiZekJ5hJ) | [סופ"ש](https://open.spotify.com/album/1vDmY4BJy5McC4ciODWEok) | 3:19 | 2025-08-21 | 2025-09-05 |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-23 | 2025-05-16 |

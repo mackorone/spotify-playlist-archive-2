@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "One Beat Away (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/6fAkVdmBqkHFiZ9OYSJ7wC"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229477,
+      "name": "One Beat Away (Guitar Version)",
+      "url": "https://open.spotify.com/track/0F2pr1I37fMzyqEwoHapDo"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Love",
         "url": "https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug"
       },
@@ -1724,6 +1742,24 @@
       "duration_ms": 184450,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/2SvuVrSQb1AAhxPtgzb65p"
+    },
+    {
+      "album": {
+        "name": "Play It My Way (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/4cCL4cjPg1D26Q9XM9xRGk"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244936,
+      "name": "Play It My Way (Guitar Version)",
+      "url": "https://open.spotify.com/track/2FqsCqtnDJZxot0PpUcOtD"
     },
     {
       "album": {
@@ -2349,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/7I0ouWxoluzFFvPDbR3456"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224050,
+      "name": "Tomorrow (Guitar Version)",
+      "url": "https://open.spotify.com/track/6VDvxhFdI2GuCNKzVykN8m"
+    },
+    {
+      "album": {
         "name": "Disney Guitar: Love",
         "url": "https://open.spotify.com/album/0cDO2axPuP9qdavq42rMug"
       },
@@ -2682,7 +2736,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 146705,
       "name": "When Will My Life Begin?",
       "url": "https://open.spotify.com/track/0iH7gzZzfhKOOFJYRN4oAB"

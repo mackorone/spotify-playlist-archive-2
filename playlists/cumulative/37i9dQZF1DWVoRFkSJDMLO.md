@@ -2,9 +2,9 @@
 
 ### [Crxss Current](https://open.spotify.com/playlist/37i9dQZF1DWVoRFkSJDMLO)
 
-> The latest in world music\. From the continent, to the islands with Kofi.
+> The latest in world music\. From the continent, to the islands with Darkoo & Asake.
 
-1,724 songs - 3 day 13 hr 15 min
+1,725 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Green Light](https://open.spotify.com/track/6siekaIb5RdU8xQXjagBMF) | [DJ Kaywise](https://open.spotify.com/artist/74feid8HSOjUPnhiV3BNBG), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Green Light](https://open.spotify.com/album/3lBsMyI5SKXtvE2aB8mj9j) | 2:25 | 2025-01-10 | 2025-06-14 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-16 | 2024-05-25 |
 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/1SWsz44lQtfvwh6ghGRpxa) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/2wLbDWGgkwRjOdYsHVAibb) | 2:46 | 2025-10-10 | 2026-02-21 |
+| [Group Chat](https://open.spotify.com/track/15CKJqDiWNvHFCCDgXsr8V) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Group Chat](https://open.spotify.com/album/6xQsBVsKPcaypcPd4Wabrd) | 2:45 | 2026-09-04 |  |
 | [Growing Pains](https://open.spotify.com/track/2USR8QrLvXIiasDuPZSzFd) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Growing Pains](https://open.spotify.com/album/3luKh35khSbsTaudhU1r8S) | 1:56 | 2025-09-05 | 2025-09-27 |
 | [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 | 2025-03-28 | 2025-06-14 |
 | [Guapi](https://open.spotify.com/track/3yNI1o1FqHkiIU62tS31qj) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Guapi](https://open.spotify.com/album/2vEIpqj9zZiX9HNqUQLuv8) | 2:39 | 2025-11-21 | 2026-02-07 |

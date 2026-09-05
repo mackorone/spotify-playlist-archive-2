@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Zolita
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Trixie Mattel
 
-635 songs - 1 day 9 hr 56 min
+637 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 | 2026-04-17 |  |
 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 | 2026-06-02 | 2026-07-25 |
 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 | 2023-12-15 | 2024-06-01 |
+| [Call Me Babe](https://open.spotify.com/track/2st8BBJ0YcYi6eA5xOBv5U) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO), [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Call Me Babe](https://open.spotify.com/album/5UXzmRcanpxe6r8mVEcokz) | 2:41 | 2026-09-04 |  |
 | [CAN YOU FEEL IT](https://open.spotify.com/track/3y2ht6JLHXuEwud8EJiDBN) | [ALÖW](https://open.spotify.com/artist/0pbSMcnKWHnNgCxbJOnx1z), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [CAN YOU FEEL IT](https://open.spotify.com/album/0eLD645bJw8ze1A7JR8CCY) | 2:54 | 2026-05-15 | 2026-06-17 |
 | [Can't Wait](https://open.spotify.com/track/4aFsz8k1nk9uqHJnq0ff9A) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby: After Hours](https://open.spotify.com/album/08a8HQzyrjbt7qiWWV43iT) | 2:19 | 2026-03-20 | 2026-05-23 |
 | [Canopy](https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/6a8gfcfPLFQJ87ZMM1FPPB) | 2:31 | 2024-04-05 | 2024-04-19 |
@@ -288,6 +289,7 @@
 | [I wanna see my friends dicks](https://open.spotify.com/track/0P1wKIjXnS8tSIawGJxv4t) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [I wanna see my friends dicks](https://open.spotify.com/album/4oJ6eDAZwR8Be2rW881AHR) | 2:30 | 2025-04-04 | 2025-11-01 |
 | [I Want It All](https://open.spotify.com/track/5Gfnj8IW7A0YmmPyUzFoQp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Jonny](https://open.spotify.com/album/2yyDNz8lkP0igqZfZzEgv0) | 4:55 | 2023-12-15 | 2025-02-08 |
 | [I'd Show Up](https://open.spotify.com/track/6exbNft2zWimyQCrEuBep0) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [I'd Show Up](https://open.spotify.com/album/1fJIrvIfYN100zAmfYUt9n) | 3:53 | 2023-12-15 | 2024-04-06 |
+| [I'll Believe in Anything \- Trixie Mattel Remix](https://open.spotify.com/track/1ICEINq3RphlzosXrPYY6c) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm), [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [I'll Believe in Anything \(Trixie Mattel Remix\)](https://open.spotify.com/album/5fGn54KBzvZYF0IMbQUHJH) | 2:39 | 2026-09-04 |  |
 | [I'll Take It](https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 3:23 | 2025-05-30 | 2025-11-29 |
 | [I'm Crying, Are You?](https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I'm Crying, Are You?](https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY) | 3:00 | 2026-01-13 | 2026-04-18 |
 | [i'm just a grrrl](https://open.spotify.com/track/0vbeGbXrJC4zFAbRr3eOhc) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [i'm just a grrrl](https://open.spotify.com/album/1TO4DJZhsMRThCE5o3XA7F) | 3:04 | 2024-05-31 | 2025-08-02 |
@@ -367,7 +369,7 @@
 | [MAGNETIC](https://open.spotify.com/track/69d48Kbu4YBG3B1Erg4iNg) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [MAGNETIC](https://open.spotify.com/album/5vme92kLr1E7DEd9OjSsEv) | 3:32 | 2026-01-13 | 2026-04-04 |
 | [MAKE IT OUT ALIVE \- Choral Version](https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Nashville In Harmony](https://open.spotify.com/artist/3VCAaHo80nO3Uadwjdppfn) | [MAKE IT OUT ALIVE \(Versions\)](https://open.spotify.com/album/0Uw3H8ri1HNrAopsui8EoY) | 3:33 | 2026-06-02 | 2026-07-04 |
 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 | 2026-05-15 |  |
-| [Make It Rain](https://open.spotify.com/track/5ta5ePNdJgwIANO9Dwuau3) | [katie MAC](https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5) | [Make It Rain](https://open.spotify.com/album/16ff3pBtVlIQixTs71nP6Q) | 3:23 | 2026-08-28 |  |
+| [Make It Rain](https://open.spotify.com/track/5ta5ePNdJgwIANO9Dwuau3) | [katie MAC](https://open.spotify.com/artist/3I45RGfCr3OBo6zMFhU7y5) | [Make It Rain](https://open.spotify.com/album/16ff3pBtVlIQixTs71nP6Q) | 3:23 | 2026-08-28 | 2026-09-05 |
 | [Make Me Cry](https://open.spotify.com/track/305s8gfZak0wZgzf0RWwm4) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Make Me Cry](https://open.spotify.com/album/2IUQaiz4lIh3g3J57hQ4xh) | 4:07 | 2023-12-15 | 2024-04-06 |
 | [Makeover](https://open.spotify.com/track/5jnYMwh1KAQrCyc6woj861) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Hold Onto Me Infinity](https://open.spotify.com/album/0rqMll4qDYKLlnYvqLPi4e) | 4:24 | 2026-05-22 | 2026-06-17 |
 | [MAMMA MIA!](https://open.spotify.com/track/2ypbjGPW86Ee6KTYkbM7fM) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT), [Lagoona Bloo](https://open.spotify.com/artist/3XoIXXjhnjGVs1SqBsMrjp) | [MAMMA MIA!](https://open.spotify.com/album/5PhphZfF1VJpMc3riwJDMb) | 3:26 | 2024-05-31 | 2025-08-09 |
@@ -451,7 +453,7 @@
 | [Polo](https://open.spotify.com/track/1kIaWGC4L8NhLYGh0rZg6z) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Polo](https://open.spotify.com/album/2ffckMinRVzIozuYrMWLjM) | 2:31 | 2025-06-27 | 2025-08-02 |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m) | 3:42 | 2023-12-15 | 2024-05-14 |
 | [Popstar](https://open.spotify.com/track/2BEvkn9PNRctuqnQ0cLUUn) | [J4DE](https://open.spotify.com/artist/65ybHpIX6Enoe6RRrpgyqX) | [Popstar](https://open.spotify.com/album/7CKJ3GNivZjYoowzeHhcUt) | 2:49 | 2026-06-26 | 2026-08-08 |
-| [POSSESSIVE](https://open.spotify.com/track/5R7PNT2scRyhURIT5R7Uiz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [LAUREN](https://open.spotify.com/album/1Ufqi9RHnUhjVSzD39DUex) | 2:31 | 2026-06-02 |  |
+| [POSSESSIVE](https://open.spotify.com/track/5R7PNT2scRyhURIT5R7Uiz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [LAUREN](https://open.spotify.com/album/1Ufqi9RHnUhjVSzD39DUex) | 2:31 | 2026-06-02 | 2026-09-05 |
 | [Potential](https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Potential](https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O) | 2:57 | 2024-06-09 | 2025-09-06 |
 | [Pretty](https://open.spotify.com/track/4HQjjJIZnysvN2lxSj1oOt) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pretty](https://open.spotify.com/album/0p0uvSSSnejW1Dpv94bE1c) | 3:26 | 2024-06-17 | 2025-08-09 |
 | [Pretty Colours \(feat\. Huck Hastings\)](https://open.spotify.com/track/5PHeXnVGAs6yQkxfFDT22v) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Huck Hastings](https://open.spotify.com/artist/3jn7GGpScmJrhkKZd9gzsn) | [Pretty Colours \(feat\. Huck Hastings\)](https://open.spotify.com/album/2dz0sizKrZDKf1zvaSEPNk) | 3:30 | 2025-09-05 | 2025-11-15 |

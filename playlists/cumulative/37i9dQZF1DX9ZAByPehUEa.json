@@ -1251,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Someone's House EP",
+        "url": "https://open.spotify.com/album/2SJ9MRZdTxg73S1VM0zEcd"
+      },
+      "artists": [
+        {
+          "name": "Davide Dev",
+          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
+        },
+        {
+          "name": "Refo",
+          "url": "https://open.spotify.com/artist/03mwxB2gQpaYZNRm5nNjIU"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126165,
+      "name": "Bang The Box",
+      "url": "https://open.spotify.com/track/7iWorh3WouCbQxR33q83bv"
+    },
+    {
+      "album": {
         "name": "Be The Light",
         "url": "https://open.spotify.com/album/6WfpsahGTSohTK1Av9PloP"
       },
@@ -6168,7 +6190,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 232547,
       "name": "Haunted Nights",
       "url": "https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT"
@@ -7941,6 +7963,28 @@
     },
     {
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "album": {
         "name": "ITALODISCO (English Version)",
         "url": "https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu"
       },
@@ -8438,7 +8482,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217142,
       "name": "Kung Fu",
       "url": "https://open.spotify.com/track/0rbnHRprVnhdSJGQJ2jpZB"

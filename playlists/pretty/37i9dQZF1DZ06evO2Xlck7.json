@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3678,
+  "num_followers": 3679,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAAipxynpX1Wtfja85/NRGmT",
+  "snapshot_id": "api4gAAAAADuaIQog2yTKzCQny8b+JYp",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 279133,
-      "name": "Bitemarks And Bloodstains",
-      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
+      "duration_ms": 215320,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 215320,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
+      "duration_ms": 279133,
+      "name": "Bitemarks And Bloodstains",
+      "url": "https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Murder Me",
-      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
     }
   ],
   "unique_name": "This Is Finch",

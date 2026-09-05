@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Updated monthly\. Cover: Wolves in the Throne Room
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,028 likes - 119 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,020 likes - 119 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 12 | [1375, La Lega Maledetta: I Signori Da Varano Si Ribellano Alla Chiesa](https://open.spotify.com/track/5XQuEoYdsSsOzCAAGr0cdP) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [Picenum \(True Marchigian Black Metal Renaissance\)](https://open.spotify.com/album/3owgr5d3Q87FoEHCutRqMF) | 6:11 |
 | 13 | [Paradis](https://open.spotify.com/track/5YoAbDVV6Pu0O8frjP4VB4) | [Blodtår](https://open.spotify.com/artist/1psvBtKZUjE3dGBDwn54w2) | [Paradis](https://open.spotify.com/album/7xqMbsscVjPJ3v5fVDQFxb) | 3:52 |
 | 14 | [NORTH](https://open.spotify.com/track/1iiAh4ENP5ZLf8c13i48WK) | [Shining](https://open.spotify.com/artist/370lLcSfFuzXFatC0DFLel) | [NORTH](https://open.spotify.com/album/7tF6Ih2wrdT34FZ32m2ONY) | 3:58 |
-| 15 | [Track 1](https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW) | [Sigh](https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr) | [Goh\-Ka](https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q) | 0:00 |
+| 15 | [Kuso\-shi 1, 2, and 3](https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW) | [Sigh](https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr) | [Goh\-Ka](https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q) | 9:12 |
 | 16 | [The Starless Origin](https://open.spotify.com/track/5ify8zZE8CFPl2QURJvpr4) | [Sworn](https://open.spotify.com/artist/08gKW64lS9Yfg79BZIc4PS) | [Null Crowned the Infinite](https://open.spotify.com/album/4Hne209suZ0achn2bdndyW) | 12:16 |
 | 17 | [Dogma](https://open.spotify.com/track/1RS82E0s7NlYwHsdLkcjtQ) | [Hatesphere](https://open.spotify.com/artist/5WQuRVeLXX0qH2lVFZYhl5) | [Dogma](https://open.spotify.com/album/3nGvnBsLM50IODhbWNDiHV) | 4:05 |
 | 18 | [Vredehammer](https://open.spotify.com/track/6exfUEv5ZYhIedAeLLvfGi) | [Vredehammer](https://open.spotify.com/artist/5ket6f4XIg8c3nT5gjQ6Io) | [Vredehammer](https://open.spotify.com/album/2c7iru3lcaJ07VlvlbrVxG) | 4:54 |

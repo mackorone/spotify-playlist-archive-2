@@ -6655,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "Topaz Nature",
+        "url": "https://open.spotify.com/album/31H1DkftGEZnFBCvA5Y1Be"
+      },
+      "artists": [
+        {
+          "name": "Sheila Dawn",
+          "url": "https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Topaz Nature",
+      "url": "https://open.spotify.com/track/05h7FOTb8HurNqjVY0pkJK"
+    },
+    {
+      "album": {
         "name": "Tower Overgrown",
         "url": "https://open.spotify.com/album/5HnIxMwgY9esvqNCQbEuIQ"
       },

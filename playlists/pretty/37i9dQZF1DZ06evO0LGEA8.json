@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 327338,
+  "num_followers": 327465,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAACTsC9eQtFealr2cqf8jHzg",
+  "snapshot_id": "api4gAAAAADUMW9/PtkFD5ZBKkkmv8hH",
   "tracks": [
     {
       "added_at": null,
@@ -143,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Voy a Morir",
-        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
-      },
-      "artists": [
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Poncho LKD",
-          "url": "https://open.spotify.com/artist/24tQAc1EtBcQGZn9lADF6R"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "F\u00famale",
-      "url": "https://open.spotify.com/track/3hGLX73IKzLla1OMNgh95F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 247078,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Poncho LKD",
+          "url": "https://open.spotify.com/artist/24tQAc1EtBcQGZn9lADF6R"
+        }
+      ],
+      "duration_ms": 215593,
+      "name": "F\u00famale",
+      "url": "https://open.spotify.com/track/3hGLX73IKzLla1OMNgh95F"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
+      "duration_ms": 307009,
+      "name": "N\u00famero Desconocido",
+      "url": "https://open.spotify.com/track/0RAPHfUPsA9JCiBob9v47S"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 307009,
-      "name": "N\u00famero Desconocido",
-      "url": "https://open.spotify.com/track/0RAPHfUPsA9JCiBob9v47S"
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,

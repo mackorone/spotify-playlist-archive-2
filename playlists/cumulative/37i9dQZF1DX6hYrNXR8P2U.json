@@ -5851,6 +5851,24 @@
     },
     {
       "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169488,
+      "name": "La Finitud de las Cosas",
+      "url": "https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY"
+    },
+    {
+      "album": {
         "name": "LA FORMA DE TUS HUESOS",
         "url": "https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3"
       },
@@ -12826,24 +12844,6 @@
       "duration_ms": 137053,
       "name": "Toy en el Mic",
       "url": "https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv"
-    },
-    {
-      "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "date_added": "2026-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY"
     },
     {
       "album": {

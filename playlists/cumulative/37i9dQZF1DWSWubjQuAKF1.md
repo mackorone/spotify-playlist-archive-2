@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: nat cichocka
 
-965 songs - 1 day 23 hr 5 min
+966 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,11 +933,12 @@
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |
 | [Zabij](https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Zabij](https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx) | 3:46 | 2025-09-30 | 2025-11-29 |
 | [ZABIJE JĄ](https://open.spotify.com/track/2o49vdLmbUvqWtGGsjRa8o) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl), [Barto Katt](https://open.spotify.com/artist/6KIclEOBHyv3VbKqZ0P76W) | [ZABIJE JĄ](https://open.spotify.com/album/1bGyot2UMe8tGfRZdwlXNO) | 2:03 | 2025-12-05 | 2025-12-12 |
-| [ZACHODY](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 | 2026-07-16 |  |
+| [ZACHODY](https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [ZACHODY](https://open.spotify.com/album/0M1USMtW623pgbrZ0iLHPi) | 2:39 | 2026-07-16 | 2026-09-05 |
 | [zachody i wschody](https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [zachody i wschody](https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB) | 2:08 | 2025-06-05 | 2025-07-11 |
 | [Zachód Słońca](https://open.spotify.com/track/2D7qsWBWiOED4L5xeyhXZB) | [Tatiana Kopala](https://open.spotify.com/artist/6vCgCKcijaRVMDq5HfkkPn) | [Zachód Słońca](https://open.spotify.com/album/6DZC4yhbLTDu5xyDfH6FWe) | 2:28 | 2024-06-28 | 2024-09-14 |
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 | 2024-11-08 |
 | [Zakręty](https://open.spotify.com/track/0nQmwxn6lcTxehbPJELmHT) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Zakręty](https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9) | 3:26 | 2026-02-27 | 2026-05-08 |
+| [Zaloty](https://open.spotify.com/track/7e07gvdtoAR9f1SD5Tzgsq) | [Andy Birds](https://open.spotify.com/artist/7iWZRPwpiKyAL5PLXEhAeg), [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zaloty](https://open.spotify.com/album/1HnyUP9B5d0vo2hlbmimj0) | 3:11 | 2026-09-03 |  |
 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 | 2025-07-10 | 2026-01-23 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-10-12 |
 | [zapomniałem wydać w lipcu](https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [zapomniałem wydać w lipcu](https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64) | 2:53 | 2024-11-28 | 2025-01-24 |

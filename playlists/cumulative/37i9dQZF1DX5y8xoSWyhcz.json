@@ -9634,6 +9634,24 @@
     {
       "album": {
         "name": "Fool",
+        "url": "https://open.spotify.com/album/3hlnMTkZmTemLSKPkUFb1V"
+      },
+      "artists": [
+        {
+          "name": "mokina",
+          "url": "https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4Hv6YUxq4IsUiJhZPpNdNl"
+    },
+    {
+      "album": {
+        "name": "Fool",
         "url": "https://open.spotify.com/album/7w4tCZWvp0OAjIL10rZBpA"
       },
       "artists": [
@@ -12880,6 +12898,24 @@
       "duration_ms": 147045,
       "name": "HOUSEPARTY",
       "url": "https://open.spotify.com/track/6hRU08A4e8iUUJlcVJ24br"
+    },
+    {
+      "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
     },
     {
       "album": {

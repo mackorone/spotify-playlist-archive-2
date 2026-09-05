@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: Gable Price without Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,495 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,515 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [i love You](https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec), [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu) | [i love You](https://open.spotify.com/album/67GpvgOPbnO9MA0emsa4RI) | 3:08 |
 | 2 | [Talking Like Friends](https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Talking Like Friends](https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91) | 4:52 |
 | 3 | [WILDFIRE](https://open.spotify.com/track/0zliH5oEnyOmDGvyP2noYv) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [WILDFIRE](https://open.spotify.com/album/6PkIVciK4OWxATvIQ0LOVU) | 3:28 |
-| 4 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
+| 4 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes Posala](https://open.spotify.com/artist/5j8JK65dtuXV60GdunuSXg) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 | 5 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 6 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 7 | [i can see ur progress from here](https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Briana Bene](https://open.spotify.com/artist/2BYw0kqiNbjtp1clFthnGe) | [i can see ur progress from here](https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn) | 4:00 |

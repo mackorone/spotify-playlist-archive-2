@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-580 songs - 2 day 3 hr 32 min
+581 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Sketches of Blue](https://open.spotify.com/track/55NMOgcRh8EvS91cIhmqk9) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Sketches of Blue](https://open.spotify.com/album/5CI83SxHMTMlFfKFSxB0XF) | 6:29 | 2022-03-10 | 2024-01-31 |
 | [Slow Down Look Around](https://open.spotify.com/track/68zqnkWb08lWCBBqs8o24X) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Love & Life](https://open.spotify.com/album/7nP1xklE0UrB0wqDp6C2gl) | 6:59 | 2023-08-31 |  |
 | [Slow Hot Wind](https://open.spotify.com/track/5KLuxrGo0LBcyGvGj3NKai) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Slow Hot Wind](https://open.spotify.com/album/31CBhKMtQuIiols58fRWlR) | 5:19 | 2023-06-20 | 2025-10-04 |
+| [Slowly](https://open.spotify.com/track/5ZTNlVn4KXDdO9PPgYDvqL) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Slowly](https://open.spotify.com/album/1nYIPgv2msxabdgHygNxSk) | 5:35 | 2026-09-04 |  |
 | [So Tender](https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:15 | 2020-05-02\* | 2025-11-15 |
 | [Soft Pedal Blues \- Remastered](https://open.spotify.com/track/7rx7TWrRy5cYyKrM9ty8r9) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 7:26 | 2021-09-10 | 2022-02-11 |
 | [Solitude](https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8) | [Ari Bragi Kárason](https://open.spotify.com/artist/14dnPD91TVkTNQ09DDXkDW), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Solitude](https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3) | 3:18 | 2024-07-19 |  |

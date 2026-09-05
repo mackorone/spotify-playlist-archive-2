@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 178823,
       "name": "Dima",
       "url": "https://open.spotify.com/track/01Axq8dfsX11LFWK3RJT67"
@@ -3292,6 +3292,32 @@
       "duration_ms": 179555,
       "name": "how do i find you",
       "url": "https://open.spotify.com/track/1ipTK7lCKdr2I9ugA60HRd"
+    },
+    {
+      "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/5CfL4Wt0Ej5Pm4b9jtZGAT"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Lighthouse",
+          "url": "https://open.spotify.com/artist/6Q28LLNTnOdjlYJy6gfEHS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/7gUIbLDsuL11u8UV7OkuO5"
     },
     {
       "album": {
@@ -7230,7 +7256,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 166666,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
@@ -9404,6 +9430,28 @@
       "duration_ms": 178419,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0WBooGsMy4knzz3BXDhhUU"
+    },
+    {
+      "album": {
+        "name": "\u00c9t\u00e9 avec toi - Trinix Remix",
+        "url": "https://open.spotify.com/album/75RScIREp7Zw64LiyN1P1U"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175080,
+      "name": "\u00c9t\u00e9 avec toi - Trinix Remix",
+      "url": "https://open.spotify.com/track/4oYgXTypAJyfaI3QkYnqD7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ND1QF5hZNF"

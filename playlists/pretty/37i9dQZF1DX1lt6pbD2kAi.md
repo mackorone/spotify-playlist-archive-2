@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,048 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,075 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 30 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Eu Te Seguro \(Ao Vivo\)](https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg) | 2:28 |
 | 31 | [Voltável \- Ao Vivo](https://open.spotify.com/track/2SIwiF7GORUriJKY9pG26a) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Calopsia \(Ao Vivo\)](https://open.spotify.com/album/55fTXDuYLyZlLyH5egTvJ5) | 2:47 |
 | 32 | [Quando é Amor / Dói Demais / Depois do Prazer \- Ao Vivo](https://open.spotify.com/track/6jkgY6ajkm4vTUHaCMGT0y) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Alexandre Pires](https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N) | [Quando é Amor / Dói Demais / Depois do Prazer \(Ao Vivo\)](https://open.spotify.com/album/1kym6l5gGXvUdUzCVNCi6B) | 4:24 |
-| 33 | [Beijo Beija\-Flor](https://open.spotify.com/track/7obLUtc7Q3mXPt1LvHyE86) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Mais de Mim](https://open.spotify.com/album/70DhR2x81VSMyyNg91gUB4) | 2:22 |
+| 33 | [Beijo Beija\-Flor](https://open.spotify.com/track/7obLUtc7Q3mXPt1LvHyE86) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08), [Acertei](https://open.spotify.com/artist/1zzQeAzbxN9ctihMrpTo3H) | [Mais de Mim](https://open.spotify.com/album/70DhR2x81VSMyyNg91gUB4) | 2:22 |
 | 34 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 35 | [Automotivo Fenomenal](https://open.spotify.com/track/6xCFDuTRxGdpNtZ2K14ig3) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Vuk Vuk](https://open.spotify.com/artist/2ZPJuxIhvGU9rduWAeNdRx), [DJ NOVATO](https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43) | [Automotivo Fenomenal](https://open.spotify.com/album/6H2j54GRSpLKhyRnnfHila) | 2:12 |
 | 36 | [NÃO ERA LOVE](https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [NÃO ERA LOVE](https://open.spotify.com/album/0OLFw0H2DJQcEap0j54ie0) | 2:24 |

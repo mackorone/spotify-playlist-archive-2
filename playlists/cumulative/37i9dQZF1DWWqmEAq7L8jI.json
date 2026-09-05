@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Aterrizar",
+        "url": "https://open.spotify.com/album/0vwN0H8bvQ5VeAgNin8F9G"
+      },
+      "artists": [
+        {
+          "name": "Uma German",
+          "url": "https://open.spotify.com/artist/3Rj6B86iG3fWRROLge1OnY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "Aterrizar",
+      "url": "https://open.spotify.com/track/7sInJZYy4GyPYQyv2ZMYwF"
+    },
+    {
+      "album": {
         "name": "Aunque Sea Por Hoy",
         "url": "https://open.spotify.com/album/3mZ02nlwTq7nCOLCkHpOCG"
       },
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 195133,
       "name": "Corriendo Con Tijeras",
       "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
@@ -2360,6 +2378,24 @@
       "duration_ms": 215506,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/4onpq1vDfF5aNZWnA9a3yl"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218997,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/7MlrT5m35Q9sAGJc7rFcLi"
     },
     {
       "album": {
@@ -5524,7 +5560,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 211231,
       "name": "Mil disparos",
       "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
@@ -5546,6 +5582,28 @@
       "duration_ms": 184294,
       "name": "Million Dollar Baby",
       "url": "https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI"
+    },
+    {
+      "album": {
+        "name": "Miranda mi amor",
+        "url": "https://open.spotify.com/album/7dKi6WPaTk9xy5s9a7L2de"
+      },
+      "artists": [
+        {
+          "name": "Lula Rosenthal",
+          "url": "https://open.spotify.com/artist/5e92e4z9l11CiG9Hs94gGc"
+        },
+        {
+          "name": "Benito Cerati",
+          "url": "https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275686,
+      "name": "Miranda mi amor",
+      "url": "https://open.spotify.com/track/1wn31URbyhG7kSMN1d8DRp"
     },
     {
       "album": {
@@ -6268,7 +6326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 186045,
       "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
@@ -7186,7 +7244,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
@@ -7414,6 +7472,24 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "album": {
+        "name": "Regalo",
+        "url": "https://open.spotify.com/album/0CzcdpiJKpViz34CDmnBzw"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208086,
+      "name": "Regalo",
+      "url": "https://open.spotify.com/track/0yYg7rbw7h9II0tIUP1yEK"
     },
     {
       "album": {
@@ -8378,7 +8454,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 183000,
       "name": "Tan f\u00e1cil",
       "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
@@ -8484,6 +8560,28 @@
       "duration_ms": 213956,
       "name": "Te odio",
       "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
+    },
+    {
+      "album": {
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "album": {

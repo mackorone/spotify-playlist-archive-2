@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 289308,
       "name": "mnemonic",
       "url": "https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig"
@@ -13592,6 +13592,24 @@
       "duration_ms": 152840,
       "name": "The Problem of Other Minds",
       "url": "https://open.spotify.com/track/6NUQhf20QwI2h66k1PTH7t"
+    },
+    {
+      "album": {
+        "name": "The Pyre",
+        "url": "https://open.spotify.com/album/5sGI2AS7F4DH5N24RiYr5q"
+      },
+      "artists": [
+        {
+          "name": "A Swarm Of The Sun",
+          "url": "https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1096346,
+      "name": "The Pyre",
+      "url": "https://open.spotify.com/track/1QPzDg5WQN90mpE32nIyr5"
     },
     {
       "album": {

@@ -1,28 +1,76 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Featuring moonvine. Curated with love by human Spotify editors. \n",
-  "num_followers": 215926,
+  "description": "The best new dance tracks from independent artists & labels. Featuring SLAMM. Curated with love by human Spotify editors. \n",
+  "num_followers": 215965,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIPm8YAUvP7VTCzJgE98yxo9cDKV",
+  "snapshot_id": "AAAAAPJqUShlg1KVrJxXSGfP1rG4eeWI",
   "tracks": [
     {
-      "added_at": "2026-08-19 21:18:18",
+      "added_at": "2026-09-04 04:01:34",
       "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
       },
       "artists": [
         {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
         }
       ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+      "duration_ms": 216000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
+    },
+    {
+      "added_at": "2026-09-04 14:32:20",
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
+      },
+      "artists": [
+        {
+          "name": "Ben Griff",
+          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
+    },
+    {
+      "added_at": "2026-07-17 17:46:34",
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+      },
+      "artists": [
+        {
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-07-31 04:02:23",
+      "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
     },
     {
       "added_at": "2026-09-02 04:00:31",
@@ -61,22 +109,6 @@
       "url": "https://open.spotify.com/track/2a28OspY80WeudpFUro4wq"
     },
     {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
-      },
-      "artists": [
-        {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
-    },
-    {
       "added_at": "2026-08-28 04:02:08",
       "album": {
         "name": "Everybody",
@@ -111,6 +143,38 @@
       "duration_ms": 218500,
       "name": "Luire",
       "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "LR002",
+        "url": "https://open.spotify.com/album/5cSCgi8BzuZlCKbX7ubQhj"
+      },
+      "artists": [
+        {
+          "name": "Larry Latenight",
+          "url": "https://open.spotify.com/artist/23wFOj7b7mywwkpPOAUjZf"
+        }
+      ],
+      "duration_ms": 288033,
+      "name": "The Bug",
+      "url": "https://open.spotify.com/track/0KDMGlT9H2q0CAkCURtR33"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -149,6 +213,22 @@
       "url": "https://open.spotify.com/track/7j3WWRSg6FJDUpVGjOWVOR"
     },
     {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "Funky Feeling EP",
+        "url": "https://open.spotify.com/album/5bxrsuaubI2NEjdSaPXDJA"
+      },
+      "artists": [
+        {
+          "name": "Simes",
+          "url": "https://open.spotify.com/artist/3pMMCzXHPz987fkVhWQ5dw"
+        }
+      ],
+      "duration_ms": 197219,
+      "name": "Funky Feeling",
+      "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
+    },
+    {
       "added_at": "2026-09-02 04:00:31",
       "album": {
         "name": "Am I Dreaming",
@@ -167,6 +247,22 @@
       "duration_ms": 211120,
       "name": "Am I Dreaming",
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
+    },
+    {
+      "added_at": "2026-09-04 04:01:34",
+      "album": {
+        "name": "Flickering Dawn",
+        "url": "https://open.spotify.com/album/3UwjWUFVAOmviDhLArxvDH"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        }
+      ],
+      "duration_ms": 138544,
+      "name": "Flickering Dawn",
+      "url": "https://open.spotify.com/track/0KmKxHrCsLK5yJtNWBxSX7"
     },
     {
       "added_at": "2026-08-14 04:02:31",
@@ -215,22 +311,6 @@
       "duration_ms": 210000,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/7jyKDOidlRsR09obtU05ty"
-    },
-    {
-      "added_at": "2026-07-31 04:02:23",
-      "album": {
-        "name": "MEDIA DOME",
-        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6NTELLA",
-          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
-        }
-      ],
-      "duration_ms": 218436,
-      "name": "MEDIA DOME",
-      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -411,22 +491,6 @@
       "duration_ms": 213781,
       "name": "Let It Go (Breathe)",
       "url": "https://open.spotify.com/track/4Wm8OqvY5K5LebhcFtWr7G"
-    },
-    {
-      "added_at": "2026-08-14 04:02:31",
-      "album": {
-        "name": "Disco Whoops",
-        "url": "https://open.spotify.com/album/13Zqzq56ZHnhQyOT0beqa8"
-      },
-      "artists": [
-        {
-          "name": "FIRZA",
-          "url": "https://open.spotify.com/artist/2DqvLV42W3Tq4ObYoAxz4B"
-        }
-      ],
-      "duration_ms": 183206,
-      "name": "Disco Whoops",
-      "url": "https://open.spotify.com/track/53CEQFNvQMt1sZBpERLmB1"
     },
     {
       "added_at": "2026-07-30 05:08:29",
@@ -921,38 +985,6 @@
       "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
     },
     {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/6V5wSIEySaH5UpXnNC95oL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Witt",
-          "url": "https://open.spotify.com/artist/6zKpnWR7vklJup3WpbqqJT"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7"
-    },
-    {
-      "added_at": "2026-07-23 04:00:10",
-      "album": {
-        "name": "Smack it",
-        "url": "https://open.spotify.com/album/2fSoGXD2e0EOBUcg6etmfy"
-      },
-      "artists": [
-        {
-          "name": "Loucas Groove",
-          "url": "https://open.spotify.com/artist/6XO9Ndx1gWM75nTMiU4LZU"
-        }
-      ],
-      "duration_ms": 202109,
-      "name": "Smack it",
-      "url": "https://open.spotify.com/track/1bZFJD3jJDFny94LxEVY2z"
-    },
-    {
       "added_at": "2026-07-31 04:02:23",
       "album": {
         "name": "GET MONEY",
@@ -989,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4mDySZQYofX5dZSPpQNxi7"
     },
     {
-      "added_at": "2026-07-17 17:46:34",
-      "album": {
-        "name": "Shaking That Ass",
-        "url": "https://open.spotify.com/album/5NvKTmZjQ7AKjAIMSPQiOY"
-      },
-      "artists": [
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Shaking That Ass",
-      "url": "https://open.spotify.com/track/3C4ybKAZlkciqP9vc6Yt6h"
-    },
-    {
       "added_at": "2026-06-18 00:12:59",
       "album": {
         "name": "Disco Baile (Radio Edit)",
@@ -1023,22 +1039,6 @@
       "duration_ms": 198750,
       "name": "Disco Baile - Radio Edit",
       "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
-    },
-    {
-      "added_at": "2026-07-02 15:36:57",
-      "album": {
-        "name": "in ya mind",
-        "url": "https://open.spotify.com/album/3IA89nBSaPsGzCOss1NDSm"
-      },
-      "artists": [
-        {
-          "name": "sim0ne",
-          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
-        }
-      ],
-      "duration_ms": 192153,
-      "name": "in ya mind",
-      "url": "https://open.spotify.com/track/1rkJzNdMyI2n9C0Y0FQDu2"
     },
     {
       "added_at": "2026-07-10 04:02:07",

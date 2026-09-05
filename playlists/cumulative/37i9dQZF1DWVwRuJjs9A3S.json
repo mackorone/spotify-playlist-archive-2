@@ -6309,6 +6309,24 @@
     },
     {
       "album": {
+        "name": "En Chans Till",
+        "url": "https://open.spotify.com/album/13CdzEm38jsL7u5j1MsKSK"
+      },
+      "artists": [
+        {
+          "name": "Dungen",
+          "url": "https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "En Chans Till",
+      "url": "https://open.spotify.com/track/1sm05ldJsHtFcOiYn2fADr"
+    },
+    {
+      "album": {
         "name": "EN D\u00d6ENDE PLANET",
         "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
@@ -9378,6 +9396,24 @@
       "duration_ms": 243493,
       "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
       "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
+    },
+    {
+      "album": {
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 348962,
+  "num_followers": 348998,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAACO4PWh7GaCeX4f2Jx8TKnA",
+  "snapshot_id": "api4gAAAAAC82ZS1Nme69WIfjWFF/fA7",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 156120,
-      "name": "La Ametralladora",
-      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
+      "duration_ms": 149546,
+      "name": "Pilares de Cristal",
+      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Pilares de Cristal",
-      "url": "https://open.spotify.com/track/5m2MnopFzUS2J9LPtePQuA"
+      "duration_ms": 156120,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/2xTyJxQf3jS7jSWndCt2Zx"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Rigo Campos",
+      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 219997,
       "name": "Coquio Castro",
       "url": "https://open.spotify.com/track/58kdEzKW2J51TzU1CGUIUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Rigo Campos",
-      "url": "https://open.spotify.com/track/4ZHSKkW8RYp9UzVziPTMsg"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
+        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 191541,
-      "name": "La Muerte Del Pela Vacas",
-      "url": "https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6"
+      "duration_ms": 226603,
+      "name": "Tino Quintero",
+      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Los F\u00e9lix Y Los Quintero",
-        "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 226603,
-      "name": "Tino Quintero",
-      "url": "https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chalino S\u00e1nchez Con Mariachi",
         "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242195,
       "name": "Mar\u00eda De La Luz",
       "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191541,
+      "name": "La Muerte Del Pela Vacas",
+      "url": "https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6"
     },
     {
       "added_at": null,

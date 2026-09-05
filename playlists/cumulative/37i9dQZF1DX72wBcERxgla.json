@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/7DxqfkwxXEjoLlpPHUMYj4"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142409,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/6COcpDgEyqoUpklNBi5Bau"
+    },
+    {
+      "album": {
         "name": "After midnight fades",
         "url": "https://open.spotify.com/album/4s3fvVkSRdJy9qLgNNarAh"
       },
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142566,
       "name": "Before the rain returns",
       "url": "https://open.spotify.com/track/13hjlecTEmJ8EYMkHOd0ie"
@@ -7907,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/2Ma3MBuDmYoOG47PbKSRcH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Pichon",
+          "url": "https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130057,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/69iPWotY4ywwSZKjrRHvaM"
+    },
+    {
+      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U"
       },
@@ -8030,6 +8066,24 @@
       "duration_ms": 130330,
       "name": "Not the Same",
       "url": "https://open.spotify.com/track/7AGtPqaOJWHNN3VKEJGyO7"
+    },
+    {
+      "album": {
+        "name": "Not The Same Without You",
+        "url": "https://open.spotify.com/album/7r6LWkK3Y9JvxGK8l42NXw"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174874,
+      "name": "Not The Same Without You",
+      "url": "https://open.spotify.com/track/3T7tkbsa8cl6ZjaOV5AiUp"
     },
     {
       "album": {
@@ -12256,7 +12310,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 208266,
       "name": "Unmarked Paths",
       "url": "https://open.spotify.com/track/4lY3iJHGwqtYDqH11uePd3"
@@ -12678,6 +12732,24 @@
     {
       "album": {
         "name": "When I Fall In Love",
+        "url": "https://open.spotify.com/album/3ZUNMf1unFEH6h0V9hicxX"
+      },
+      "artists": [
+        {
+          "name": "Chris Beard",
+          "url": "https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171124,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/1uOnBFZa56ccfi0gMb5Wuo"
+    },
+    {
+      "album": {
+        "name": "When I Fall In Love",
         "url": "https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom"
       },
       "artists": [
@@ -12818,6 +12890,24 @@
       "duration_ms": 180124,
       "name": "When You Come Over",
       "url": "https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR"
+    },
+    {
+      "album": {
+        "name": "Where did U go?",
+        "url": "https://open.spotify.com/album/5hr9Bb5xdNDri4bnf4ZZOh"
+      },
+      "artists": [
+        {
+          "name": "Raven St John",
+          "url": "https://open.spotify.com/artist/2UFwqcUNMHLDh1Bf0oQDqu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143736,
+      "name": "Where did U go?",
+      "url": "https://open.spotify.com/track/1xH0TTvm3ELeUAFnRcCqCw"
     },
     {
       "album": {

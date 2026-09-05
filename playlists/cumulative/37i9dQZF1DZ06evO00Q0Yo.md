@@ -4,7 +4,7 @@
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 12 min
+113 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Maneuver \(feat\. Flo Milli\)](https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 3:21 | 2022-10-28 | 2024-07-19 |
 | [May I](https://open.spotify.com/track/1GcXzijYzyfMq6wryZjYW5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:43 | 2022-10-28 |  |
 | [Mean](https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Beautiful Havoc](https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x) | 2:05 | 2022-10-28 |  |
-| [Mink Mink Mink](https://open.spotify.com/track/2kJilDliZeKAoCdaiISVZH) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Mink Mink Mink](https://open.spotify.com/album/0WxJcdS1Ai4pP7dOIkKQu4) | 2:56 | 2026-08-09 |  |
+| [Mink Mink Mink](https://open.spotify.com/track/6Enh4GmcMsDMulUgWrgso9) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Mink City](https://open.spotify.com/album/059VethsDSK1Gj3zWFGCH9) | 2:55 | 2026-09-05 |  |
+| [Mink Mink Mink](https://open.spotify.com/track/2kJilDliZeKAoCdaiISVZH) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Mink Mink Mink](https://open.spotify.com/album/0WxJcdS1Ai4pP7dOIkKQu4) | 2:56 | 2026-08-09 | 2026-09-05 |
 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2022-10-28 |  |
 | [My Attitude](https://open.spotify.com/track/75nCGDsQW8BQsCXQrhFmoK) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [My Attitude](https://open.spotify.com/album/7Gmi73lktv864xchbOA5PZ) | 2:27 | 2022-10-28 | 2024-08-11 |
 | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/track/7JJ6QHjNgmFOAYaEv36IXE) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Nasty \(feat\. Rubi Rose\)](https://open.spotify.com/album/5OxBZ1tt0FpQZU7VdfBbVy) | 3:05 | 2022-10-28 | 2024-04-14 |

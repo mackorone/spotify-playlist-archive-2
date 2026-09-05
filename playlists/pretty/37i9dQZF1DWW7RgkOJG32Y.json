@@ -1,51 +1,31 @@
 {
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Lauren Alaina",
-  "num_followers": 673934,
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Riley Green",
+  "num_followers": 674107,
   "original_name": "Breakout Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0voY7LREqfn1GD4OCqN9pXE3z1",
+  "snapshot_id": "AAAAAGfqkJK/kSojKdn9SQcd0S069X9/",
   "tracks": [
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
-        "name": "Never Been In Love",
-        "url": "https://open.spotify.com/album/2InZ67EN10T7DEZIIkiV3I"
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc"
       },
       "artists": [
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 171883,
-      "name": "Never Been In Love (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/6z7rUFycJ1zwnaJ5h1idmV"
+      "duration_ms": 230400,
+      "name": "That's Just Me",
+      "url": "https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "No Need For Leavin'",
-        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "No Need For Leavin'",
-      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "I Can't Love You Anymore",
         "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
@@ -65,23 +45,7 @@
       "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Bet On That",
-        "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
-      },
-      "artists": [
-        {
-          "name": "Blake Whiten",
-          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
-        }
-      ],
-      "duration_ms": 190282,
-      "name": "Bet On That",
-      "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Been By Now",
         "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
@@ -97,7 +61,23 @@
       "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
@@ -113,7 +93,39 @@
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "Bet On That",
+        "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 190282,
+      "name": "Bet On That",
+      "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "I'm What You Get",
+        "url": "https://open.spotify.com/album/7FwqgiTS3tXBQg573FBOeX"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "duration_ms": 162026,
+      "name": "I'm What You Get",
+      "url": "https://open.spotify.com/track/4qM74q1U8CbFzogg7b14X1"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
@@ -129,7 +141,7 @@
       "url": "https://open.spotify.com/track/3DDuRF9KnNbLOVB2l5WgIb"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "The Hard Way (Complete Edition)",
         "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
@@ -145,27 +157,7 @@
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Way To Go (feat. Brooks & Dunn)",
-        "url": "https://open.spotify.com/album/2EQVkWT5hD5K26KAxM94lX"
-      },
-      "artists": [
-        {
-          "name": "Zach John King",
-          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 171053,
-      "name": "Way To Go (feat. Brooks & Dunn)",
-      "url": "https://open.spotify.com/track/3PB9kzyXlw9lvdsJsx0y25"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Sunburn Mixtape",
         "url": "https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw"
@@ -181,7 +173,7 @@
       "url": "https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Dustpiles",
         "url": "https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo"
@@ -197,7 +189,7 @@
       "url": "https://open.spotify.com/track/6cxaI4HZgh9JpDKnzX8qQd"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Pouring",
         "url": "https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5"
@@ -213,23 +205,7 @@
       "url": "https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Imagine That",
-        "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 219673,
-      "name": "Imagine That",
-      "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Take Me Back (Leave Me There)",
         "url": "https://open.spotify.com/album/0RpCm1c0cVxRZ8C6wrKho3"
@@ -245,7 +221,7 @@
       "url": "https://open.spotify.com/track/5hb2X5SnGfVnNQyqAWJCch"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/4M14ePO4UooHzwWZNh2XPl"
@@ -265,23 +241,7 @@
       "url": "https://open.spotify.com/track/2ROIH7TfO1dpBX6O3PPjBw"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Lean In, Kiss Me",
-        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Lean In, Kiss Me",
-      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Loving You Like That",
         "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
@@ -297,27 +257,7 @@
       "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
-        }
-      ],
-      "duration_ms": 240166,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Memo",
         "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
@@ -333,7 +273,7 @@
       "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Burn It Down (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
@@ -353,7 +293,23 @@
       "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "Imagine That",
+        "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 219673,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "First Born Daughter",
         "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
@@ -369,7 +325,23 @@
       "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "Lean In, Kiss Me",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Lean In, Kiss Me",
+      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Makin' Me A Liar",
         "url": "https://open.spotify.com/album/23nqHGJf5bjTUDkVyCTSlW"
@@ -385,7 +357,7 @@
       "url": "https://open.spotify.com/track/29NuRoVMbhYhUBht1mXINb"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "ashley cooke",
         "url": "https://open.spotify.com/album/5vNtvppAHCSsUdI9dBvqEy"
@@ -401,7 +373,7 @@
       "url": "https://open.spotify.com/track/29BOij3pNtniyS00CiQeq3"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "The Day I Hang It Up",
         "url": "https://open.spotify.com/album/5yWMqaHPPBwpS5sOhGU9u5"
@@ -417,7 +389,7 @@
       "url": "https://open.spotify.com/track/05LCkBsBCDEcQv9nqZab41"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
@@ -433,7 +405,27 @@
       "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "Never Been In Love",
+        "url": "https://open.spotify.com/album/2InZ67EN10T7DEZIIkiV3I"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 171883,
+      "name": "Never Been In Love (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/6z7rUFycJ1zwnaJ5h1idmV"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
@@ -449,7 +441,7 @@
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Who Told You That",
         "url": "https://open.spotify.com/album/7MHzrc64ZU0SvegIKDSFzQ"
@@ -465,7 +457,7 @@
       "url": "https://open.spotify.com/track/2DZKhX2k3XZqQ5h5jwJyGh"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Loving Life Again",
         "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
@@ -481,7 +473,7 @@
       "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
@@ -501,7 +493,27 @@
       "url": "https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
+      "album": {
+        "name": "Way To Go (feat. Brooks & Dunn)",
+        "url": "https://open.spotify.com/album/2EQVkWT5hD5K26KAxM94lX"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 171053,
+      "name": "Way To Go (feat. Brooks & Dunn)",
+      "url": "https://open.spotify.com/track/3PB9kzyXlw9lvdsJsx0y25"
+    },
+    {
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Cherry Valley Forever",
         "url": "https://open.spotify.com/album/3CSN4KvS0G5KmDXLK8swXU"
@@ -525,7 +537,7 @@
       "url": "https://open.spotify.com/track/41GhpkO9gNs5qtNahVhmhk"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Something To Say",
         "url": "https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ"
@@ -541,7 +553,7 @@
       "url": "https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Anytime, Anywhere, Antoinette",
         "url": "https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r"
@@ -557,7 +569,7 @@
       "url": "https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Hits Me",
         "url": "https://open.spotify.com/album/53KBpFueG6qOFrR9RqEemi"
@@ -573,7 +585,7 @@
       "url": "https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Better That Way",
         "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
@@ -593,7 +605,7 @@
       "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Think About Me",
         "url": "https://open.spotify.com/album/2nQaXdzjSp7ZkNapPxIZiA"
@@ -613,7 +625,7 @@
       "url": "https://open.spotify.com/track/4rGkUNqOZ6Yf7VXAc1xHor"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "The Night Champion",
         "url": "https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Horseshoes & Hand Grenades",
         "url": "https://open.spotify.com/album/2M1HiPa2U58hAL7ExrxPmR"
@@ -645,7 +657,7 @@
       "url": "https://open.spotify.com/track/650qT68rpwWkYNRz9I8KaM"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Another Drink",
         "url": "https://open.spotify.com/album/7nkQzEUbEhiLWXdXBjtqt2"
@@ -665,7 +677,7 @@
       "url": "https://open.spotify.com/track/3OeZBIb1CsV2rrNNVeiglf"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
@@ -681,7 +693,7 @@
       "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Half The Man",
         "url": "https://open.spotify.com/album/67x0OJEVWnsNZc7vtEGDoB"
@@ -697,7 +709,7 @@
       "url": "https://open.spotify.com/track/0vvYTzRfvQJO5BGt7Em0yy"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "forgive, forget.",
         "url": "https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp"
@@ -713,7 +725,7 @@
       "url": "https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
@@ -729,7 +741,7 @@
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Land",
         "url": "https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr"
@@ -745,7 +757,7 @@
       "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Bratmobile",
         "url": "https://open.spotify.com/album/0rjps0HmR2qrFeMooAgggI"
@@ -761,27 +773,7 @@
       "url": "https://open.spotify.com/track/1rgDhCTBNIyuxA9K4vFBKA"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
-      "album": {
-        "name": "Boots (feat. Fetty Wap)",
-        "url": "https://open.spotify.com/album/7pOYuMCG2jxOQ9nmLkODNV"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 159071,
-      "name": "Boots (feat. Fetty Wap)",
-      "url": "https://open.spotify.com/track/6lD7t1tSSCcI1DqNCn2yAW"
-    },
-    {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Broken View",
         "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
@@ -797,7 +789,7 @@
       "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Rather Be Here (feat. Jason Aldean)",
         "url": "https://open.spotify.com/album/05ZehfKPl9DM7r29HDn3ra"
@@ -817,7 +809,7 @@
       "url": "https://open.spotify.com/track/5A1Ksw7PzA6NhIYrebOFjo"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
@@ -833,7 +825,7 @@
       "url": "https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
@@ -849,7 +841,7 @@
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
-      "added_at": "2026-08-28 04:02:09",
+      "added_at": "2026-09-04 04:01:58",
       "album": {
         "name": "Songs About Us",
         "url": "https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE"

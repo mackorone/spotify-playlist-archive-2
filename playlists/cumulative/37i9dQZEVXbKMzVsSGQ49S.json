@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
@@ -6492,6 +6492,24 @@
     {
       "album": {
         "name": "S\u00e1tt",
+        "url": "https://open.spotify.com/album/5MKoXI1asA8qMwmnPB4QHF"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Bernskan",
+      "url": "https://open.spotify.com/track/42l2RMDpR6dKE8SSUzxdiG"
+    },
+    {
+      "album": {
+        "name": "S\u00e1tt",
         "url": "https://open.spotify.com/album/5n3qjtvI1N1CwHrXZAcnIq"
       },
       "artists": [
@@ -6502,7 +6520,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210453,
       "name": "Bernskan",
       "url": "https://open.spotify.com/track/6OeDa0vbrWUL72xfPkzMy7"
@@ -14769,6 +14787,24 @@
     },
     {
       "album": {
+        "name": "STRUMPASTU\u00d0 (1996)",
+        "url": "https://open.spotify.com/album/6GCHRUi9XQQIJ3VbHXnJ59"
+      },
+      "artists": [
+        {
+          "name": "Strumparnir",
+          "url": "https://open.spotify.com/artist/0daxv8NPFznWu1bDWnnEiW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213577,
+      "name": "Draumastrumpur",
+      "url": "https://open.spotify.com/track/2GhGlSA7eS2J5ELfkgKPjw"
+    },
+    {
+      "album": {
         "name": "1000 or\u00f0",
         "url": "https://open.spotify.com/album/0naypfhjddMzm7uB6XuiVT"
       },
@@ -15532,7 +15568,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -49146,7 +49182,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -55582,7 +55618,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -63187,6 +63223,28 @@
     },
     {
       "album": {
+        "name": "Vi\u00f0 og vi\u00f0",
+        "url": "https://open.spotify.com/album/10eO8QW6UzoIQYV9zRssT1"
+      },
+      "artists": [
+        {
+          "name": "Dilj\u00e1",
+          "url": "https://open.spotify.com/artist/2Zy3uwssLs81VYxqIj1Hcv"
+        },
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193838,
+      "name": "Vi\u00f0 og vi\u00f0",
+      "url": "https://open.spotify.com/track/5IL2vJIb0bZPrUEDyRruRU"
+    },
+    {
+      "album": {
         "name": "Vi\u00f0 tv\u00f6",
         "url": "https://open.spotify.com/album/3hXicPvZXwlqCQz75cBk3X"
       },
@@ -68460,7 +68518,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 279171,
       "name": "\u00d3sagt \u00f3satt",
       "url": "https://open.spotify.com/track/43m2BKHbKCSoxReVdlbGrG"

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-506 songs - 1 day 7 hr 40 min
+507 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dark Roses \(Live From Sunset Sound\)](https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Wreckage, Vol\. 2 \(Live\)](https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6) | 3:30 | 2022-09-30 | 2023-03-11 |
 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 | 2024-02-16 | 2026-03-05 |
 | [Days of Mellow](https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Days of Mellow](https://open.spotify.com/album/60IzFmXwMFetX2JaC9xbeu) | 2:34 | 2024-07-19 |  |
+| [Death Rolls Like Thunder](https://open.spotify.com/track/6ZyHxMxi6qNZMUYwVZqyLF) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Death Rolls Like Thunder](https://open.spotify.com/album/27DdUVPjWQ8AqbeXeWcAAU) | 3:43 | 2026-08-28 |  |
 | [Deathwish](https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Deathwish](https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL) | 2:39 | 2026-02-13 |  |
 | [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2026-02-13 | 2026-07-18 |
 | [Demons In Your Choir](https://open.spotify.com/track/39Ra5S4b4srNRbPScFDKo7) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Demons In Your Choir](https://open.spotify.com/album/1dAKuCI09fY46OiAzjTlHz) | 4:16 | 2026-05-01 |  |
@@ -347,7 +348,7 @@
 | [Rebels In The Street](https://open.spotify.com/track/5kGFXbSqDNadDBSsdyO94y) | [The Red Goes Black](https://open.spotify.com/artist/12BYA91BSCxjbk1b638nlR) | [Rebels In The Street](https://open.spotify.com/album/4SPtUiUfHxlWbfLSGIwWmA) | 3:49 | 2023-03-31 | 2023-08-26 |
 | [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2026-02-13 |  |
 | [Remember Me](https://open.spotify.com/track/2KioWFaFI2I2seZe7CJNII) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [Remember Me](https://open.spotify.com/album/6BIJ51eimU9fVigSw41HXy) | 2:19 | 2022-04-29 | 2024-02-24 |
-| [Revelations](https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F) | [Chris Tapp](https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN), [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Revelations](https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9) | 3:41 | 2026-03-04 |  |
+| [Revelations](https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F) | [Chris Tapp](https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN), [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Revelations](https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9) | 3:41 | 2026-03-04 | 2026-09-05 |
 | [River](https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:58 | 2021-12-17 | 2022-07-29 |
 | [River](https://open.spotify.com/track/4B7iMBGmm5woNqs6Oj3GpT) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Mellow Summer](https://open.spotify.com/album/7rdNrR0gVmevOWDO0CO6Xl) | 3:58 | 2022-05-27 | 2022-11-14 |
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2022-05-27 | 2023-02-25 |

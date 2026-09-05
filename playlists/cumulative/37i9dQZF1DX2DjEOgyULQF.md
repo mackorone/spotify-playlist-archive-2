@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-507 songs - 23 hr 56 min
+510 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 | 2026-07-11 |
 | [Bowl of Life](https://open.spotify.com/track/25GHFh0uRdeTXeb0k9V8qO) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Bowl of Life](https://open.spotify.com/album/0KQT1FnAZSbWHYkWdLWixI) | 2:54 | 2026-08-19 |  |
+| [Bowls of Sand](https://open.spotify.com/track/0f7kzbUVU0E6JYGbTFBkrK) | [Munnafurl](https://open.spotify.com/artist/0Sm6aVKkEf6RBbTJVnUc2M) | [Bowls of Sand](https://open.spotify.com/album/56qX5yDy5yZ8NEinLJVbOF) | 2:31 | 2026-08-19 |  |
 | [Breath Of The Mountain \- Birdsong Mix](https://open.spotify.com/track/5MIHW6CVUX6Tk0fKV7Fz3I) | [Yakushima Dove](https://open.spotify.com/artist/5pOo0TJogDJFi9af6Takg5) | [Breath Of The Mountain \(Birdsong Mix\)](https://open.spotify.com/album/1nQVOIrtSwvlN2ncpY5VFX) | 2:50 | 2026-05-27 | 2026-06-27 |
 | [Breath of the Starlit Earth](https://open.spotify.com/track/17kmLfGd09fhG7oyGV5mqN) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Breath of the Starlit Earth](https://open.spotify.com/album/7k5GUo489LXhNLz3YQ5Iuv) | 2:39 | 2026-07-03 |  |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 | 2025-05-22 |
@@ -132,6 +133,7 @@
 | [Eiren Vale](https://open.spotify.com/track/4A2frSnLQt5qQXsuVoeN3z) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Eiren Vale](https://open.spotify.com/album/6RyKg6vRmfvtXmJ3AxcNjf) | 3:10 | 2026-02-23 | 2026-04-04 |
 | [Elsewhere](https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Elsewhere](https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb) | 3:06 | 2024-10-01 | 2026-04-04 |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 | 2025-05-22 |
+| [Embrace \(Meditation\)](https://open.spotify.com/track/3gDPLvYEi8QZjqa6HNhvuC) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Embrace \(Meditation\)](https://open.spotify.com/album/6fN3OMXZR4lrccamcDWc0D) | 2:59 | 2026-08-19 |  |
 | [Endless](https://open.spotify.com/track/5nlH08eWMJlaBhBOXbQ1N2) | [Tranquil Oasis](https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448) | [Endless](https://open.spotify.com/album/4TEricrJS8TPbcQPiVdWHg) | 2:42 | 2026-08-19 |  |
 | [Endless Clouds](https://open.spotify.com/track/2GTfmAPDOT2JpcExWit355) | [Shanglari](https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL) | [Endless Clouds](https://open.spotify.com/album/0Ql7z2eNgrPJMKOKPW3P9d) | 2:41 | 2026-07-03 |  |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 | 2025-05-22 |
@@ -172,6 +174,7 @@
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 | 2025-10-16 |
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 | 2024-10-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 |  |
+| [Forest Breath](https://open.spotify.com/track/72AWR4rSo3Rs9PsTV85t9f) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Breath](https://open.spotify.com/album/4y12ZOAShExtJ6x49TtkX3) | 3:41 | 2026-08-19 |  |
 | [Forest Embrace](https://open.spotify.com/track/5vgeEKVZgiAKYJNxrv83yX) | [Mossfrid](https://open.spotify.com/artist/1ywhJuvZqhHnIMwcXPnnoy) | [Forest Embrace](https://open.spotify.com/album/37BwObBKhkgzkPWze8Gcr3) | 2:32 | 2026-04-03 |  |
 | [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 |  |
 | [Forest Harmonies](https://open.spotify.com/track/5EGbkycj0Lblt69clO8vTM) | [Reitius Rex](https://open.spotify.com/artist/4dNsq3pEddyli2GElCpGdd) | [Forest Harmonies](https://open.spotify.com/album/6obYCVTwZFsqvyxtNUqSy0) | 3:10 | 2026-04-03 |  |
@@ -207,9 +210,9 @@
 | [Golden Hour](https://open.spotify.com/track/5uOL8rOH6IS4L0NFbwpKei) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Golden Hour](https://open.spotify.com/album/6SHkCrdO9en2tc0QDex3pB) | 3:33 | 2025-12-17 | 2026-04-04 |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 | 2026-04-04 |
 | [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 | 2026-08-20 |
-| [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2026-04-03 |  |
+| [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2026-04-03 | 2026-09-05 |
 | [Greenwood](https://open.spotify.com/track/6SoXx6sA7BKjprwVHKfIzY) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Greenwood](https://open.spotify.com/album/4of8zBFKxdP02r7ZG6tiYW) | 2:44 | 2026-02-23 | 2026-04-04 |
-| [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
+| [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 | 2026-09-05 |
 | [Groundedness](https://open.spotify.com/track/5bgc9zFfs6s83HiPxgNWGe) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Groundedness](https://open.spotify.com/album/6ceHarmzmqekuosF433eCu) | 3:14 | 2026-04-03 | 2026-08-20 |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-03-19 |  |
 | [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-04-03 |  |
@@ -343,7 +346,7 @@
 | [Philosophy of Mind](https://open.spotify.com/track/7i0bw8dAa72b1fOe3mo070) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Philosophy of Mind](https://open.spotify.com/album/1JSa4EWk3EaFNyJMpc8wnG) | 3:17 | 2026-04-03 |  |
 | [Photosynthesis](https://open.spotify.com/track/33K1CabCTz04Ht8G67PTPD) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Photosynthesis](https://open.spotify.com/album/2n2FsaAK3UHnPdgYNbcGhx) | 2:42 | 2025-05-21 | 2026-04-04 |
 | [Pines in the Morning Haze](https://open.spotify.com/track/1DyC1vurKh8kk0TatwwWI7) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [Pines in the Morning Haze](https://open.spotify.com/album/6LyH5nHcrzjZsnTIuaii6F) | 2:51 | 2026-04-03 |  |
-| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-12 |  |
+| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-12 | 2026-09-05 |
 | [Plantae](https://open.spotify.com/track/77shZB4gVpO99vZyIbbu9B) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Plantae](https://open.spotify.com/album/6eHLct0TKeqb43uzPeFuVL) | 2:37 | 2026-04-03 |  |
 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 | 2023-04-28 | 2025-01-01 |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 | 2025-05-22 |

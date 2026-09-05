@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Alabang",
+        "url": "https://open.spotify.com/album/5vpv5UyG63jmMWoxOUZ5KH"
+      },
+      "artists": [
+        {
+          "name": "RAPROJECT SIX",
+          "url": "https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275980,
+      "name": "Alabang",
+      "url": "https://open.spotify.com/track/3TCKsNjab1MhAJvCAmNEEd"
+    },
+    {
+      "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 284212,
       "name": "Basta't Kasama Ka",
       "url": "https://open.spotify.com/track/3IHFveMyXASMzZeyyfcM9U"
@@ -5593,6 +5611,24 @@
     },
     {
       "album": {
+        "name": "Mahal Magmahal",
+        "url": "https://open.spotify.com/album/7FMzUetRt2XYjFEq1T5R0r"
+      },
+      "artists": [
+        {
+          "name": "Esremborak",
+          "url": "https://open.spotify.com/artist/3LiUry0ss8UpPzbBmM9bDP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294816,
+      "name": "Mahal Magmahal",
+      "url": "https://open.spotify.com/track/0D5huw4lFGtUfCkf91rGvQ"
+    },
+    {
+      "album": {
         "name": "Mahanap Ka",
         "url": "https://open.spotify.com/album/5dKlCylJ7kFh4AkD85VDPG"
       },
@@ -8956,7 +8992,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 304375,
       "name": "SA GABE",
       "url": "https://open.spotify.com/track/3XyIsxrNNGzVUHmbQkANBt"
@@ -8978,7 +9014,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 282428,
       "name": "Sa Isip Na Lang",
       "url": "https://open.spotify.com/track/6mVStviIlLI5EtnLXv8BOw"
@@ -9624,6 +9660,24 @@
       "duration_ms": 193000,
       "name": "Silent Cries",
       "url": "https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg"
+    },
+    {
+      "album": {
+        "name": "Silip",
+        "url": "https://open.spotify.com/album/2IZRTt70Ri8I5G9clDfJEO"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181927,
+      "name": "Silip",
+      "url": "https://open.spotify.com/track/3nHfwCmcwmt1eJX3rqn8xC"
     },
     {
       "album": {

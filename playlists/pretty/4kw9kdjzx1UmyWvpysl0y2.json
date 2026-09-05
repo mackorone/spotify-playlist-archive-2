@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122830,
+  "num_followers": 122825,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVue+MJowXPD6e4SE4/qkkd5faZE+Z",
+  "snapshot_id": "AAAVukeal2thdjplQYr8vLO0hMlXjTvA",
   "tracks": [
+    {
+      "added_at": "2026-09-04 19:59:43",
+      "album": {
+        "name": "1-2 Finish",
+        "url": "https://open.spotify.com/album/3kxI6AqWqUhqUmLvOChzso"
+      },
+      "artists": [
+        {
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
+        },
+        {
+          "name": "Nokae",
+          "url": "https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "duration_ms": 145664,
+      "name": "1-2 Finish",
+      "url": "https://open.spotify.com/track/7ci5ePDDmbon5Yw1lICNKh"
+    },
     {
       "added_at": "2026-09-03 17:52:19",
       "album": {

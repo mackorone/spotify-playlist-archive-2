@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAAM781hB4DlWLgTuNN9pS+D",
+  "snapshot_id": "api4gAAAAABu/hl2hXCzmeU6dZD8YM8A",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 113973,
-      "name": "Injustice System!",
-      "url": "https://open.spotify.com/track/5AUlwP1gZFUcfMfkyVDKPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Act of Defiance",
         "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 113360,
       "name": "Good Lookin' Out",
       "url": "https://open.spotify.com/track/00IV3r2AVGAjHEsTw79nTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 113973,
+      "name": "Injustice System!",
+      "url": "https://open.spotify.com/track/5AUlwP1gZFUcfMfkyVDKPW"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 146693,
-      "name": "Just Look Around",
-      "url": "https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 184640,
       "name": "Us vs. Them",
       "url": "https://open.spotify.com/track/12fvraVs9OX2w9pRboYLYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 146693,
+      "name": "Just Look Around",
+      "url": "https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 153720,
-      "name": "Die Alone",
-      "url": "https://open.spotify.com/track/4aEnzfYLyYXNPCYnhGRiW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 97413,
       "name": "Busted",
       "url": "https://open.spotify.com/track/2eqBvPN3stocNp4IPcKOMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/4aEnzfYLyYXNPCYnhGRiW4"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 111826,
-      "name": "Desperate Fool",
-      "url": "https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 175413,
       "name": "Burn 'Em Down",
       "url": "https://open.spotify.com/track/5rxvKN55LZEH44wrLOICSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 111826,
+      "name": "Desperate Fool",
+      "url": "https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/31k142dr62jiftXxOnjmfF"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 134906,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6ObOBjkmMjYUa9SybDUVMD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 127573,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/2Lzi8DXYLHSN2vYPV2zrK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/31k142dr62jiftXxOnjmfF"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6ObOBjkmMjYUa9SybDUVMD"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Machete",
-      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call to Arms",
         "url": "https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 148800,
       "name": "Potential for a Fall",
       "url": "https://open.spotify.com/track/5g6A50hVooexlUrhanaLWY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Death Or Jail",
+      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Based On A True Story",
-        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Death Or Jail",
-      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
+      "duration_ms": 123906,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 110800,
-      "name": "The Blood & the Sweat",
-      "url": "https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM"
+      "duration_ms": 108266,
+      "name": "Clobberin' Time / Pay the Price",
+      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Clobberin' Time / Pay the Price",
-      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
+      "duration_ms": 110800,
+      "name": "The Blood & the Sweat",
+      "url": "https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM"
     },
     {
       "added_at": null,

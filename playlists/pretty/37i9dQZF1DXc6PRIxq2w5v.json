@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 193018,
+  "num_followers": 193029,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 198267,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Vista do Alto",
         "url": "https://open.spotify.com/album/71DLrdhbqoQA3xPN9pYwlY"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 207804,
       "name": "Vista do Alto",
       "url": "https://open.spotify.com/track/5hQA0TDIdHYJgveIxJammF"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 198267,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Folha em Branco",
         "url": "https://open.spotify.com/album/7yXAdF64otcKyWcVTDMFBh"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 259672,
       "name": "Folha em Branco",
       "url": "https://open.spotify.com/track/3CkZRDRAZN8QvHZrwfxf9c"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "O Plano",
-        "url": "https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 231490,
-      "name": "Coroa Da Vida",
-      "url": "https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/4kQFY6U8Z976Zh8rS7toHV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 173281,
       "name": "Toque",
       "url": "https://open.spotify.com/track/1afnYuwXwdmO4akkdvPdFq"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "O Plano",
+        "url": "https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Coroa Da Vida",
+      "url": "https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -423,6 +423,38 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 162991,
+      "name": "Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "PRA N\u00c3O TE PERDER (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7eM6SkCF5Aqu26T8uUs5b9"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "PRA N\u00c3O TE PERDER - Ao Vivo",
+      "url": "https://open.spotify.com/track/6qp8kfSwKFgHtilt1lRidQ"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -447,22 +479,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 162991,
-      "name": "Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "1 Jo\u00e3o 4:18",
         "url": "https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 166833,
       "name": "1 Jo\u00e3o 4:18",
       "url": "https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "PRA N\u00c3O TE PERDER (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7eM6SkCF5Aqu26T8uUs5b9"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "PRA N\u00c3O TE PERDER - Ao Vivo",
-      "url": "https://open.spotify.com/track/6qp8kfSwKFgHtilt1lRidQ"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 125805,
       "name": "Fardo Leve",
       "url": "https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Imperativo Categ\u00f3rico",
+        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
+      },
+      "artists": [
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        }
+      ],
+      "duration_ms": 154593,
+      "name": "Imperativo Categ\u00f3rico",
+      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Renuncio o Meu Eu",
         "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 199115,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Imperativo Categ\u00f3rico",
-        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        }
-      ],
-      "duration_ms": 154593,
-      "name": "Imperativo Categ\u00f3rico",
-      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Deus Me Estendeu Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 167947,
-      "name": "Deus Me Estendeu Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "Rio De \u00c1guas Vivas",
         "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 183321,
       "name": "Rio De \u00c1guas Vivas",
       "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Deus Me Estendeu Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 167947,
+      "name": "Deus Me Estendeu Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1231,42 +1231,6 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
@@ -1287,6 +1251,42 @@
       "duration_ms": 138475,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1323,30 +1323,6 @@
       "duration_ms": 146000,
       "name": "Tua Face",
       "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1395,6 +1371,30 @@
       "duration_ms": 179196,
       "name": "Vejo Tudo",
       "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "777 na Mente",
+        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "777 na Mente",
+      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "eu vi",
         "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 132047,
       "name": "Louis V",
       "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "777 na Mente",
-        "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "777 na Mente",
-      "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
     },
     {
       "added_at": "2026-08-15 03:01:19",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-08-15 03:01:19",
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 187950,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
+    },
+    {
+      "added_at": "2026-08-15 03:01:19",
+      "album": {
         "name": "Boas Novas",
         "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 196967,
       "name": "Drama",
       "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
-    },
-    {
-      "added_at": "2026-08-15 03:01:19",
-      "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
-        }
-      ],
-      "duration_ms": 187950,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
     },
     {
       "added_at": "2026-08-15 03:01:19",

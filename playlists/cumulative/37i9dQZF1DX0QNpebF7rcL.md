@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-590 songs - 1 day 15 hr 37 min
+591 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Masterpiece](https://open.spotify.com/track/3tZZqzhYNqBl39I5owZsKU) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Back For Me](https://open.spotify.com/album/41bSZmBET2F5LT8Powqgur) | 3:36 | 2025-03-28 |  |
 | [Me And My Guitar](https://open.spotify.com/track/22Qh6AHPrwzgSzKFnaZZTr) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:23 | 2020-12-14 | 2022-02-26 |
 | [Mean Ole Man Of Mine](https://open.spotify.com/track/6JWZuNFOSLRwcGAW82GQEp) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me \(Deluxe\)](https://open.spotify.com/album/17m8T1FS59klYDuvN737hT) | 7:00 | 2026-04-24 | 2026-06-20 |
+| [Mercy](https://open.spotify.com/track/1httKI7AShBFrUfR3jjKmh) | [Tora Trio](https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm), [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Mercy](https://open.spotify.com/album/5uc5pTzmP5z9xkcCwOPGsu) | 3:06 | 2026-09-04 |  |
 | [Mind’s Eye](https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 6:17 | 2021-10-29 | 2023-05-20 |
 | [Mine Someday](https://open.spotify.com/track/3cJVBaoZlV26GQDMxNcD9B) | [Jovin Webb](https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k) | [Mine Someday](https://open.spotify.com/album/4eUzeKYFG75GYymqpkwqBS) | 4:47 | 2024-10-04 | 2024-10-19 |
 | [Mirror Blues](https://open.spotify.com/track/2YrssxTCneR1rjBTzoaaKS) | [Diesel](https://open.spotify.com/artist/4rCLXPaqaUjGa1aHDwkviR) | [Alone With Blues](https://open.spotify.com/album/0BHOezr2qvAzYEt0TVEoRJ) | 3:39 | 2021-07-16 | 2022-11-24 |
@@ -578,7 +579,7 @@
 | [Wolf Blues \- Single Version](https://open.spotify.com/track/2rEj96qkmn8a4foUERYUpb) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Wolf Blues](https://open.spotify.com/album/4ryAF6ruhzLlLaqUirm24o) | 2:57 | 2026-05-01 |  |
 | [Woman Like You](https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 4:19 | 2020-12-14 | 2022-02-26 |
 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 | 2023-07-21 | 2025-06-21 |
-| [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 | 2024-08-09 |  |
+| [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 | 2024-08-09 | 2026-09-05 |
 | [Yes](https://open.spotify.com/track/7gcP4n7Rqy4n2qFKpWu2bc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Just Say Yes](https://open.spotify.com/album/4llPdQko8nRGK12QcHWs3N) | 4:07 | 2026-08-28 |  |
 | [You Can't Heal What You Hide](https://open.spotify.com/track/4Utooqc94lpk1RfWT2jSJu) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Roots & Wings](https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0) | 3:55 | 2026-05-29 |  |
 | [You Can't Judge A Book By The Cover](https://open.spotify.com/track/1xhhf7JXO9lq5FBdXfu2GR) | [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Rayne Castiglia](https://open.spotify.com/artist/1QPQ9prc4vsQsLI6xlqBwt), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [You Can’t Judge a Book By the Cover](https://open.spotify.com/album/5EanQoKPT2EZ2HBIM5tDig) | 4:34 | 2024-07-12 | 2026-05-16 |

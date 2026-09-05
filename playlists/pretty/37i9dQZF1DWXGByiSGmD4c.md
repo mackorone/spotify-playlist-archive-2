@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGByiSGmD4c.md) - [plain]
 
 > Enjoy the LE SSERAFIM WORLD TOUR \[PUREFLOW\] LIVE set including the voices from stage! ! \(르세라핌 맴버들의 무대 멘트가 포함된 \[PUREFLOW\] 투어  LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,754 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,815 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

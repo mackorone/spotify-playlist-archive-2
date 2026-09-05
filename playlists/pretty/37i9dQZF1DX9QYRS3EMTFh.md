@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Miimii KDS
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,500 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,516 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 2 | [NO EX NO STRESS \(feat\. Tiitof\)](https://open.spotify.com/track/5ang7xKx9vHiPlByHGuyR1) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS) | [NO EX NO STRESS \(feat\. Tiitof\)](https://open.spotify.com/album/7f7XKdVoTuxT8od0CDVSs4) | 2:09 |
 | 3 | [Tonight](https://open.spotify.com/track/6QJoUq4xXSXy7x8BPb00Vc) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Tonight](https://open.spotify.com/album/1C6rQLEXxv6XIgDqNcEW1k) | 3:06 |
 | 4 | [Pow Pow / Allo Doudou](https://open.spotify.com/track/4hTc2VnvYoOJwS8QXXhT0p) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Pow Pow / Allo Doudou](https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB) | 3:39 |
-| 5 | [Tightness](https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Tightness](https://open.spotify.com/album/5w5CGFSIKxPXhZFrQl3ygr) | 2:32 |
+| 5 | [TIGHTNESS](https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [TIGHTNESS](https://open.spotify.com/album/5w5CGFSIKxPXhZFrQl3ygr) | 2:32 |
 | 6 | [Nous on a vraiment bossé beaucoup](https://open.spotify.com/track/6vxx7W2zwPCqW1OyROxev5) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Nous on a vraiment bossé beaucoup](https://open.spotify.com/album/0NIwMQ0x4AawbwMhba3DLZ) | 2:33 |
 | 7 | [Bounce](https://open.spotify.com/track/13CiTQvNCngWGsL1SrDFjZ) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Captain Scrappy](https://open.spotify.com/artist/2jIdSiHnlOMWGnJwxTFAEO), [SAGE FWI](https://open.spotify.com/artist/6gjMbxDHd7jY74R0T384M9), [DJ Addo](https://open.spotify.com/artist/29Exc1nK0cLqigZFHBtdB6) | [Bounce](https://open.spotify.com/album/7tzBC7fXZKDhNyQECQVd1m) | 1:54 |
 | 8 | [One More Cup](https://open.spotify.com/track/3bWwvbFr42gRLsYvam2LRB) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [One More Cup](https://open.spotify.com/album/5fSCPUfbsqiBBk4lEZYqgR) | 2:02 |

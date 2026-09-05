@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,702 likes - 150 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,714 likes - 150 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iLHyU2xMyJ.md) - [plain]
 | 18 | [Azhagaana Manjappura](https://open.spotify.com/track/5pcdZmguBhFc74y7K69ED9) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:58 |
 | 19 | [Arumbaagi Mottaagi](https://open.spotify.com/track/16cBmtm2ho7ZwLbP1XasxH) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Deepan Chakravarthy](https://open.spotify.com/artist/6r7P5L1lGFToFz6vwDcGdT), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Enga Ooru Kaavalkaaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SixQAH0l6wuZiY22qa7k0) | 4:30 |
 | 20 | [Kathal Oviyam](https://open.spotify.com/track/7hlCWblWSr3JTBCICTSG2s) | [Jensy](https://open.spotify.com/artist/2vry92stbS09o8JZguESox), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Alaigal Oyvatillai](https://open.spotify.com/album/2cpLv2lXTNVrJBJDvQKNn8) | 4:37 |
-| 21 | [Bhoopalam Isaikkum](https://open.spotify.com/track/1qRFJmFuHxmUfJQjRUQ0uu) | [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Thooral Ninnu Pochu](https://open.spotify.com/album/2ECc6XQUKbPwdT0jJDqJNG) | 4:24 |
-| 22 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 |
+| 21 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 |
+| 22 | [Bhoopalam Isaikkum](https://open.spotify.com/track/1qRFJmFuHxmUfJQjRUQ0uu) | [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Thooral Ninnu Pochu](https://open.spotify.com/album/2ECc6XQUKbPwdT0jJDqJNG) | 4:24 |
 | 23 | [Ilamai Ennum Poonkaatru](https://open.spotify.com/track/0AF6iFHTyT9JsV0cemNuVJ) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Pagalil Oru Iravu](https://open.spotify.com/album/5GJw46vm7YsADwqFrK8at8) | 4:07 |
 | 24 | [Paattu Solli](https://open.spotify.com/track/1HgXDQ3RXQ6Jv9MiejswlS) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Azhagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fiXnpFs8FYfgK7Ke5XzZE) | 5:01 |
 | 25 | [Nirpathuve Nadapadhu](https://open.spotify.com/track/5sLpVfFw2eUSbfC5D8iLVa) | [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg) | [Bharathi](https://open.spotify.com/album/2BEmX7YJnmjvBafJBBEopa) | 4:38 |

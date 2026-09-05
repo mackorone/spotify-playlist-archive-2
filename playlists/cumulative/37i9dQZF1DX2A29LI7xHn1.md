@@ -4,7 +4,7 @@
 
 > from your FYP and beyond\. Cover: Drake
 
-1,697 songs - 3 day 9 hr 37 min
+1,698 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-27 | 2023-04-23 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:40 | 2023-07-21 | 2024-01-11 |
 | [Gas You Up](https://open.spotify.com/track/2gX4yskSvJ8cjb5AolS0gT) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Gas You Up](https://open.spotify.com/album/5f8xhT86BR8tW1Fmaqey6A) | 2:37 | 2022-05-13 | 2022-07-02 |
+| [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 | 2026-09-04 |  |
 | [Gates Flow 2 \(She Don't Wanna\)](https://open.spotify.com/track/7DxOo87U0J785h5cWEEZ5z) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:53 | 2026-04-24 |  |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 | 2025-04-26 |
 | [GEEKED UP \(FEAT\. YEAT\)](https://open.spotify.com/track/16vvJmnrondzmZjEBThA0T) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:37 | 2024-06-28 | 2024-07-13 |
@@ -895,7 +896,7 @@
 | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [MAGIC \(feat\. Mustard\)](https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u) | 3:46 | 2022-02-18 | 2022-04-09 |
 | [Magic City Money](https://open.spotify.com/track/6pNHT0NO8Vb5qbqLvE4sjW) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [J Money](https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Magic City Money](https://open.spotify.com/album/7jkbAgt7VNWct1Umu7H4RW) | 4:22 | 2025-07-18 | 2025-07-26 |
 | [Magic Johnson](https://open.spotify.com/track/2qttu4WQD8xQZ9DBXdp4L5) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0HklW0u2UIH4rurxX6ML8q) | 2:17 | 2024-05-31 | 2024-06-15 |
-| [Magic Johnson](https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0lmXfHj3QJAZBpoY9jdEbV) | 2:17 | 2024-07-12 |  |
+| [Magic Johnson](https://open.spotify.com/track/4oPLjuY1WgGTL0Ja1doDOn) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian \[Deluxe\]](https://open.spotify.com/album/0lmXfHj3QJAZBpoY9jdEbV) | 2:17 | 2024-07-12 | 2026-09-05 |
 | [Magic Potion](https://open.spotify.com/track/1Zj9B6OHMCXs9ub0NL2ycj) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Magic Potion](https://open.spotify.com/album/0SerwPNkQt2DaMs5BOqzn5) | 2:01 | 2023-01-27 | 2023-04-09 |
 | [Make a Mall](https://open.spotify.com/track/3IXAiQPAN5FXsETn9Gk3PR) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Make a Mall](https://open.spotify.com/album/4oCeqTNixwJLgsPjJmW5z2) | 3:02 | 2021-12-17 | 2022-05-07 |
 | [Make It Move!](https://open.spotify.com/track/6bsPBaCbRnz7djvIss1ZsQ) | [Spiffy The Goat](https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32) | [Make It Move!](https://open.spotify.com/album/5CSnTCOTxGp2oXxdOymOMM) | 2:03 | 2025-08-15 | 2025-12-13 |

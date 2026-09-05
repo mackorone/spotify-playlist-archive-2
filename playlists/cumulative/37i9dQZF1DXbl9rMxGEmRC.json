@@ -7919,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Goh-Ka",
+        "url": "https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q"
+      },
+      "artists": [
+        {
+          "name": "Sigh",
+          "url": "https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552900,
+      "name": "Kuso-shi 1, 2, and 3",
+      "url": "https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW"
+    },
+    {
+      "album": {
         "name": "Les Chants de l'Aurore",
         "url": "https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy"
       },
@@ -14288,24 +14306,6 @@
       "duration_ms": 220666,
       "name": "Totentanz - Dance Macabre",
       "url": "https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG"
-    },
-    {
-      "album": {
-        "name": "Goh-Ka",
-        "url": "https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q"
-      },
-      "artists": [
-        {
-          "name": "Sigh",
-          "url": "https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW"
     },
     {
       "album": {

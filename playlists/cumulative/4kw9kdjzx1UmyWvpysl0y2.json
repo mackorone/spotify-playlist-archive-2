@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "1-2 Finish",
+        "url": "https://open.spotify.com/album/3kxI6AqWqUhqUmLvOChzso"
+      },
+      "artists": [
+        {
+          "name": "Hyper Potions",
+          "url": "https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV"
+        },
+        {
+          "name": "Nokae",
+          "url": "https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145664,
+      "name": "1-2 Finish",
+      "url": "https://open.spotify.com/track/7ci5ePDDmbon5Yw1lICNKh"
+    },
+    {
+      "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
       },

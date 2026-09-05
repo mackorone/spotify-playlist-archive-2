@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Maia Reficco en portada\. 🌊✨
+> la nueva ola de artistas con Bad Milk en portada\. 🌊✨
 
-913 songs - 1 day 22 hr 36 min
+916 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [A TI](https://open.spotify.com/track/7BvX8hQxTizTNxsZhx9VIs) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [A TI](https://open.spotify.com/album/36InzgYAARL1G0fiqy0Uza) | 2:18 | 2023-10-21 | 2024-07-06 |
 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 | 2022-01-28 | 2022-06-25 |
 | [A Tu Lado](https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [A Tu Lado](https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J) | 3:05 | 2023-01-27 | 2023-06-10 |
+| [abrázame](https://open.spotify.com/track/6U85Zxlq5KwuW2yYKlLnIx) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [lucy miró al mundo y notó que está girando](https://open.spotify.com/album/3VcleF9EbQ0tBFsVCWeB6Y) | 2:46 | 2026-09-04 |  |
 | [Acapulco](https://open.spotify.com/track/6Fs98ySM5epAAUtD69jC1o) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Música Para Adultos](https://open.spotify.com/album/00ccg0F2r512qr09ahK46C) | 2:46 | 2023-05-05 | 2024-01-13 |
 | [ACELERA2!](https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA](https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE) | 2:39 | 2024-09-13 | 2025-02-08 |
 | [ACELERADAS!](https://open.spotify.com/track/5GeQcFxgQuv05a2Oe0suhD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [ACELERADAS!](https://open.spotify.com/album/4FT3RwJZJoP7ON8Hueg3QO) | 3:30 | 2025-11-07 | 2026-06-13 |
@@ -275,6 +276,7 @@
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-12-04 | 2025-02-01 |
 | [ella es](https://open.spotify.com/track/4Z6qlqb112fVPqCAtZ8j2Z) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma), [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [ella es](https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH) | 2:47 | 2025-06-20 | 2025-08-16 |
 | [EME](https://open.spotify.com/track/4Zsk8bKl9FIvaDPBO464BI) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EME](https://open.spotify.com/album/7LNPWPlfY52Lfip0mubSNx) | 2:27 | 2023-05-26 | 2024-04-27 |
+| [EMOcional </3](https://open.spotify.com/track/62s4iszBpTBmeBwjzM0zun) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EMOcional </3](https://open.spotify.com/album/7x0P9tSUzBrFnckamE2gof) | 2:16 | 2026-09-04 |  |
 | [empleado del mes](https://open.spotify.com/track/1p4PINMyO9rjyt4AN0DWxo) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [empleado del mes](https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI) | 2:58 | 2022-03-25 | 2022-09-03 |
 | [En Otro Jardín X\(](https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [En Otro Jardín X\(](https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao) | 2:17 | 2025-04-25 | 2025-05-31 |
 | [en todos los finales](https://open.spotify.com/track/6RPi2kuSTAT4ARGROPeEE2) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [en todos los finales](https://open.spotify.com/album/1fnLqKw9w1jsNTKdGqWvJ3) | 2:57 | 2025-08-15 | 2025-11-22 |
@@ -340,6 +342,7 @@
 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 | 2024-08-16 | 2025-03-22 |
 | [Hell0 K1tty](https://open.spotify.com/track/1olrrUdvcKPvBYB4RsitSM) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Hell0 K1tty](https://open.spotify.com/album/6JrvLHmvC7cQ2WBbcs7b4T) | 2:53 | 2023-06-16 | 2023-07-22 |
 | [her \(feat\. Leon Leiden & Macario Martínez\)](https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [her \(feat\. Leon Leiden & Macario Martínez\)](https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9) | 3:06 | 2026-05-22 |  |
+| [herida](https://open.spotify.com/track/4ciDfbeWFzTWysIMj406Lc) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [herida](https://open.spotify.com/album/1KGxflnzWJqRuXLMgOPqzo) | 2:31 | 2026-09-04 |  |
 | [HEY SHORTY](https://open.spotify.com/track/4ak2hzD5LPgt18mm1wnWoh) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [HEY SHORTY](https://open.spotify.com/album/5uZ8MdZ6jcbqNBkJ9ycoZg) | 2:20 | 2026-06-26 |  |
 | [hits!](https://open.spotify.com/track/606EEZmvEaPcSl9wPq1wWb) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [hits!](https://open.spotify.com/album/02BsHFBqyCGfpsNo2vrh61) | 2:54 | 2025-02-07 | 2025-06-28 |
 | [hits!](https://open.spotify.com/track/7xVFMrKbLhX9nQZdaqkQq1) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Ya no quiero quererte](https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa) | 2:54 | 2025-08-01 | 2025-11-15 |

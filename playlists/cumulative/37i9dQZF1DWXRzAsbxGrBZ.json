@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Judith Sephuma, C-Blak",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Dwson",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 361659,
       "name": "Chelete",
       "url": "https://open.spotify.com/track/4dh3JGb7alSIwoCsgwuLIz"
@@ -4342,7 +4342,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 428042,
       "name": "Mfanaka - Mfana Noxman",
       "url": "https://open.spotify.com/track/24wJMihL08N5HMAxgNEGQK"
@@ -4672,6 +4672,32 @@
       "duration_ms": 402051,
       "name": "Nades",
       "url": "https://open.spotify.com/track/1vprwSxdNiClJ0a8Vj5WpF"
+    },
+    {
+      "album": {
+        "name": "Nothing To Lose (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3kYFy7Ng3Ng6wa3pb7D8W4"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Unwnd",
+          "url": "https://open.spotify.com/artist/7CZtZueTYIQSbFf6uq5Epx"
+        },
+        {
+          "name": "Salvador",
+          "url": "https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417931,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/2Zf5Tel7LDpaOdi1A68TLI"
     },
     {
       "album": {
@@ -6338,6 +6364,28 @@
       "duration_ms": 359232,
       "name": "Silent Tears",
       "url": "https://open.spotify.com/track/0Pz5v9wO6Dk1eWmM2s5dS0"
+    },
+    {
+      "album": {
+        "name": "Simunye (We Are One)",
+        "url": "https://open.spotify.com/album/34ZConDAzxAUtByfMYgtkF"
+      },
+      "artists": [
+        {
+          "name": "Aquatone",
+          "url": "https://open.spotify.com/artist/5pAKxvQYvJlmEoiBKNxl3W"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Simunye (We Are One) - Main Mix",
+      "url": "https://open.spotify.com/track/3aOyhzJ3O3QkFz8OvcnMC5"
     },
     {
       "album": {

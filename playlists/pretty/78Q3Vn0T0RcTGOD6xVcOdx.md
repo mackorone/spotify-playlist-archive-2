@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 509 likes - 64 songs - 4 hr 6 min
+[UP Music ProMotion](https://open.spotify.com/user/11141650175) - 511 likes - 67 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 62 | [COMO EN EL CINE](https://open.spotify.com/track/5rvtVVtB7JdXs3wLFDF9I4) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [COMO EN EL CINE](https://open.spotify.com/album/1YTRoUjbJOIGaQnLj9UdMM) | 3:20 |
 | 63 | [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/track/2fnnt3wu6sYUPtneWpac3q) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [Cuando Entro Yo \(2026 Version\)](https://open.spotify.com/album/5OuC0Vg6uUeytyRXjpnLUH) | 3:24 |
 | 64 | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 |
+| 65 | [One of a Kind](https://open.spotify.com/track/2Loj4wKwkthHdA4akfT9Vq) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [One of a Kind](https://open.spotify.com/album/1DC0CoPSsxs3zCXefhIrYa) | 3:05 |
+| 66 | [Dreaming of Better Days](https://open.spotify.com/track/5xakJCIWkJMDDJL4kQgtBC) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Dreaming of Better Days](https://open.spotify.com/album/2NLhQ3pPgmNBzi44IrYkuI) | 2:42 |
+| 67 | [Torn Between Head and Heart](https://open.spotify.com/track/1Z3uDLN5F4y44nZtRhjj7v) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Torn Between Head and Heart](https://open.spotify.com/album/6L5yQsi7FTytXQmwd2TMPe) | 4:12 |
 
-Snapshot ID: `AAACUbNpOo2Euj5wmv3QR2pvjvtMGbgc`
+Snapshot ID: `AAACVNbkcaZlP1/26VTyjLZU0m8WZKGZ`

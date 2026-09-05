@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,717 songs - 10 day 14 hr 28 min
+4,719 songs - 10 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2543,6 +2543,7 @@
 | [Megaloner](https://open.spotify.com/track/09tK0uxKhPE7HWNz27bYNY) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Halo On The Inside](https://open.spotify.com/album/1a5FMhDC5UFBhkirhJD72b) | 4:14 | 2025-12-04 |  |
 | [Mellow](https://open.spotify.com/track/38PURHwBu5hplpUSmPK0SF) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [DC3 Productions LLC](https://open.spotify.com/artist/5zMVLDcXT4tQFk7SqJbxfo) | [Hello Wrld](https://open.spotify.com/album/4LiEOE7k1OIBTv0q8XrHRC) | 2:58 | 2026-05-19 |  |
 | [Memento](https://open.spotify.com/track/1TB66UcMEeZgO6ll0CCkno) | [Zeronne](https://open.spotify.com/artist/2PZeD3cV1t2nYO80gl6pqw) | [Memento](https://open.spotify.com/album/7lWFp6qoGIQ89fRAW3UrX6) | 2:26 | 2026-08-05 |  |
+| [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 | 2026-09-04 |  |
 | [Memory Card Moments \- Radio Edit](https://open.spotify.com/track/0wCMvP6jojZx738ZOWIEJ6) | [NVRLØST](https://open.spotify.com/artist/5jdHtc5hxhdY9dG2rTS2VE) | [„UNLOCKED:// FILES FROM THE VOID“](https://open.spotify.com/album/6uJTVbOSGms0QLadVQE8Db) | 2:36 | 2025-06-11 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
 | [Mennem Kell Bébi](https://open.spotify.com/track/1KQbyZBSdVgSesQ173OcHj) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Mennem Kell Bébi](https://open.spotify.com/album/5ne2yEwe11OSOohOPTxCII) | 2:29 | 2025-06-04 |  |
@@ -3325,6 +3326,7 @@
 | [Retales](https://open.spotify.com/track/01oNKX6bloOAbGONEqsoZd) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:45 | 2026-03-15 |  |
 | [Retro Future Noise](https://open.spotify.com/track/3QfhEDqDLYA7xGLfdNCmyl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 3:55 | 2025-09-19 |  |
 | [Retrowave](https://open.spotify.com/track/0heXwk8cres9G4U6zjp1yB) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Retrowave](https://open.spotify.com/album/639QhegiNC31nsAmAvnZZk) | 3:11 | 2025-08-27 |  |
+| [Return Of My Heart](https://open.spotify.com/track/4AguWjDrUwF7g5ADBIwTni) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Return Of My Heart](https://open.spotify.com/album/0MIP1A1PL4lDRCjagEwy1q) | 4:59 | 2026-09-04 |  |
 | [Return to Yogi](https://open.spotify.com/track/28oTOe1doPv1CHsTrsHK5e) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE \(Deleted\)](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 | 2026-02-01 |  |
 | [Revenge of Mother\-in\-law](https://open.spotify.com/track/6gPC4IjxizhyUveuWnDHSb) | [Max Jerath](https://open.spotify.com/artist/3gCh1V6MNT4QUAHBxb4PWy) | [Revenge of Mother\-in\-law](https://open.spotify.com/album/1ga3uMyJV8pPtVVkjE1L7r) | 2:40 | 2025-06-03 |  |
 | [Reverie](https://open.spotify.com/track/7GGAqreWh5DDATYwgGQjvM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Jazz ambient](https://open.spotify.com/album/0uzygXe2RNOCvNNRvpjETp) | 4:07 | 2025-08-20 |  |

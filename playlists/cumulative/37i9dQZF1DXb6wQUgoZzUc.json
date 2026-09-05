@@ -1341,6 +1341,36 @@
     },
     {
       "album": {
+        "name": "bbylover",
+        "url": "https://open.spotify.com/album/3zyXb9htHDcUp7MOzhYgYB"
+      },
+      "artists": [
+        {
+          "name": "Jose Alatorre",
+          "url": "https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy"
+        },
+        {
+          "name": "Josa El Menor",
+          "url": "https://open.spotify.com/artist/2G2JiOdyGfRsEWqFs4hKUo"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166281,
+      "name": "bbylover",
+      "url": "https://open.spotify.com/track/0JEjHYelV9RtP1TjDvkU4m"
+    },
+    {
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT"
       },
@@ -3410,7 +3440,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 220189,
       "name": "Dile A \u00c9L - Remix",
       "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
@@ -4232,7 +4262,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 130046,
       "name": "Fantasmita",
       "url": "https://open.spotify.com/track/1my8PFCBBKVKMwKmS6SfgR"
@@ -4346,7 +4376,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 227234,
       "name": "Follow",
       "url": "https://open.spotify.com/track/3SEJMObMTMRUcBttyoL0yU"
@@ -5405,6 +5435,32 @@
     },
     {
       "album": {
+        "name": "JAKETONA",
+        "url": "https://open.spotify.com/album/2OWPNmGBxqbAUoFWl3QzrS"
+      },
+      "artists": [
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "Kristina",
+          "url": "https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154848,
+      "name": "JAKETONA",
+      "url": "https://open.spotify.com/track/0jBxDU6frszi1hN8RdwYV3"
+    },
+    {
+      "album": {
         "name": "LOST",
         "url": "https://open.spotify.com/album/0owN7Uk2MRirowjo9PQv14"
       },
@@ -6384,7 +6440,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180520,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
@@ -7625,6 +7681,28 @@
     },
     {
       "album": {
+        "name": "La Universidad del Perreo",
+        "url": "https://open.spotify.com/album/4Fa8dk5lKFUVqLIrRwYPl8"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198525,
+      "name": "Mi Baby",
+      "url": "https://open.spotify.com/track/6eIA8nPX6kSBYX9b20TnC0"
+    },
+    {
+      "album": {
         "name": "Mi Cuete",
         "url": "https://open.spotify.com/album/033WUM6TeQIcORBwLncJh6"
       },
@@ -8680,6 +8758,36 @@
       "duration_ms": 209989,
       "name": "Nutela",
       "url": "https://open.spotify.com/track/26O1NVPNk922Ihf5K49M7f"
+    },
+    {
+      "album": {
+        "name": "KHEPRI",
+        "url": "https://open.spotify.com/album/2fdhEkSj62tBTt6AF7a48y"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Obvi",
+      "url": "https://open.spotify.com/track/5J5w38Nz6WmwHshtQKWJZM"
     },
     {
       "album": {
@@ -11407,6 +11515,36 @@
     },
     {
       "album": {
+        "name": "Sexxo",
+        "url": "https://open.spotify.com/album/7Dc90FL2Odr90iQiQ7z8hg"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Gaelo",
+          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218633,
+      "name": "Sexxo",
+      "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"
+    },
+    {
+      "album": {
         "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
         "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
       },
@@ -13462,7 +13600,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 200000,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/1Iwb0Vf6uYL2Zys1SiTO6j"

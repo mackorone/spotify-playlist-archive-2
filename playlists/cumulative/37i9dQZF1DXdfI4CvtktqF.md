@@ -2,9 +2,9 @@
 
 ### [ฉันดูเอ็มวีไทย](https://open.spotify.com/playlist/37i9dQZF1DXdfI4CvtktqF)
 
-> ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน:  Potato
+> ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: Z9
 
-68 songs - 4 hr 23 min
+71 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2026-04-29 |  |
 | [Move On แบบใด](https://open.spotify.com/track/53XeQvCYruEEHVDgWmraKq) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [Move On แบบใด](https://open.spotify.com/album/1SYedOaOGyBXObvmBMpp1X) | 4:18 | 2026-04-29 |  |
 | [Neon](https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [Neon](https://open.spotify.com/album/1wYWO5DHO3FeiQT5obsg1M) | 3:47 | 2026-04-29 | 2026-08-08 |
+| [ONE PIECE](https://open.spotify.com/track/5UEV17A5Ym0CrJBTjYjFv8) | [SVRN](https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G) | [ONE PIECE](https://open.spotify.com/album/31dHclou4ALbyLGnZx3jps) | 3:57 | 2026-09-04 |  |
 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 | 2026-04-29 | 2026-07-25 |
 | [Perfect](https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [Perfect](https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq) | 4:15 | 2026-04-29 |  |
 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2026-04-29 | 2026-08-08 |
@@ -29,9 +30,9 @@
 | [Yours Ever \(feat\. Q Flure\)](https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:19 | 2026-04-29 |  |
 | [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2026-04-29 |  |
 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 | 2026-04-29 | 2026-08-08 |
-| [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy) | 2:24 | 2026-08-21 |  |
+| [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/track/0Rv76Bg0r2PSITMJyRDCWp) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ขอให้ฟ้าอวยพร \(Dear friend\)](https://open.spotify.com/album/7qi6LshNnGjkqvuey0Bfjy) | 2:24 | 2026-08-21 | 2026-09-05 |
 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 | 2026-08-07 |  |
-| [คงดีถ้าเป็นเขา \(Desire\)](https://open.spotify.com/track/3nvn1t6aZ4ocg4tqxxVtBn) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [คงดีถ้าเป็นเขา \(Desire\)](https://open.spotify.com/album/7kEqSQ8Xuz09OAbKPWTgcz) | 3:15 | 2026-04-29 |  |
+| [คงดีถ้าเป็นเขา \(Desire\)](https://open.spotify.com/track/3nvn1t6aZ4ocg4tqxxVtBn) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [คงดีถ้าเป็นเขา \(Desire\)](https://open.spotify.com/album/7kEqSQ8Xuz09OAbKPWTgcz) | 3:15 | 2026-04-29 | 2026-09-05 |
 | [ความคาดหวัง \(feat\. ตูน BODYSLAM, ปั๊บ Potato\)](https://open.spotify.com/track/3Vkzgf11Ubecqccu8Wxu8w) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [ตูน BODYSLAM](https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:23 | 2026-04-29 |  |
 | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r) | [Jigsaw Story](https://open.spotify.com/artist/42Q1POTb6v0GuRPQOk85rv), [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [จักรวาลไหน \(feat\. MONICA\)](https://open.spotify.com/album/6R6wGeqTE7snGX2qR0ckHs) | 3:33 | 2026-04-29 | 2026-07-25 |
 | [จากกันโดยสมบูรณ์](https://open.spotify.com/track/6SAcZT7H44417uxybshTEy) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [จากกันโดยสมบูรณ์](https://open.spotify.com/album/7rfPxZAEK7xLGgClLqPKlB) | 3:26 | 2026-04-29 |  |
@@ -49,11 +50,12 @@
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2026-04-29 |  |
 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 | 2026-04-29 |  |
 | [ฝากไว้ให้ Kiss \(feat\. BLVCKHEART\)](https://open.spotify.com/track/4psph4gNDqUnGvBSq6UwwE) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ฝากไว้ให้ Kiss \(feat\. BLVCKHEART\)](https://open.spotify.com/album/47Ym1CxnLXUN40au3otFsv) | 2:00 | 2026-04-29 |  |
+| [พระจันทร์เต็มดวง \(FULL MOON\)](https://open.spotify.com/track/4iOHxFmOshjhgfoWFLK2KJ) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Astronomy](https://open.spotify.com/album/15xn4XX56uZ7oKObEO6uPp) | 2:09 | 2026-09-04 |  |
 | [มอง 2568](https://open.spotify.com/track/4oOSJiNmrvZzhvr1OQPln2) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:30 | 2026-04-29 |  |
 | [รักที่พอดี \(enough\)](https://open.spotify.com/track/3IEA2jlMYaWZV1yJtaOsJx) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [รักที่พอดี \(enough\)](https://open.spotify.com/album/48vs0oAFIzF2SpovRwszy8) | 3:41 | 2026-08-21 |  |
 | [รักใครไม่ไหว](https://open.spotify.com/track/6UONhODhp5Yz51rL0gcxMU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [รักใครไม่ไหว](https://open.spotify.com/album/0m2tnO0TVcf6tfiYVofY59) | 4:10 | 2026-04-29 |  |
 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 | 2026-04-29 |  |
-| [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G) | 3:23 | 2026-08-07 |  |
+| [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [รักไม่ไหวแล้วโว้ย](https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G) | 3:23 | 2026-08-07 | 2026-09-05 |
 | [ลั่นทม \- From "หอมกลิ่นความรัก"](https://open.spotify.com/track/4zkXkoNOJh4N1FJHJENegu) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:32 | 2026-04-29 |  |
 | [ลามปาม \(circus\)](https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลามปาม \(circus\)](https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t) | 4:56 | 2026-04-29 |  |
 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 | 2026-04-29 |  |
@@ -75,6 +77,7 @@
 | [ใครจะรู้ \(Silent Blue\)](https://open.spotify.com/track/30rV6UdNAKRLu6he7Qw7oS) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:18 | 2026-04-29 | 2026-06-15 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/0x5JCTghFaNoVyfyxYyfnB) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/album/2B4kFPaqFMDMxJySic5ats) | 4:05 | 2026-04-29 |  |
 | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/track/70pOmngGTSMHPjgIqVRFsI) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ไกลกว่าดาว \(Million Light\-Years\)](https://open.spotify.com/album/6USjhvo2kxlFA9cyEBgw6m) | 4:44 | 2026-04-29 | 2026-07-25 |
+| [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 | 2026-09-04 |  |
 | [ไม่ให้ไป](https://open.spotify.com/track/3qT2Jn6s5k5dluHNqThi1X) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป](https://open.spotify.com/album/28dy93d5fLZFNkBKpuhtpQ) | 4:00 | 2026-04-29 |  |
 
 \*This playlist was first scraped on 2026-05-02. Prior content cannot be recovered.

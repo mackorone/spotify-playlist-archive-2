@@ -1,13 +1,77 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 173483,
+  "num_followers": 173526,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANXKlvdR06bwZL10h1mcwp++LBgO",
+  "snapshot_id": "AAAAAH8j4n9UoDHX78olw4kIo77HCWd0",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:00:26",
+      "album": {
+        "name": "And so it goes...",
+        "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 180913,
+      "name": "So mysterious",
+      "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
+    },
+    {
+      "added_at": "2026-09-04 04:00:26",
+      "album": {
+        "name": "Just a Little Lovin'",
+        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 289670,
+      "name": "Just a Little Lovin\u2019",
+      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
+    },
+    {
+      "added_at": "2026-09-04 04:00:26",
+      "album": {
+        "name": "Happiness Hotel",
+        "url": "https://open.spotify.com/album/2cowXQSSUpKq7SxrOuw64f"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "Happiness Hotel",
+      "url": "https://open.spotify.com/track/5RwSv7JU4HsDY8V8YqhIj0"
+    },
+    {
+      "added_at": "2026-09-04 04:00:26",
+      "album": {
+        "name": "A Kind of Wilderness",
+        "url": "https://open.spotify.com/album/0y6S5UjGhgffEkARduaOwI"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 226213,
+      "name": "Bitter Fruit",
+      "url": "https://open.spotify.com/track/3s69GFoopeEE7oR3aYexBL"
+    },
     {
       "added_at": "2026-08-21 04:00:23",
       "album": {
@@ -23,22 +87,6 @@
       "duration_ms": 170866,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/43L5ohb6cKJBpNCK7ZjiN6"
-    },
-    {
-      "added_at": "2026-08-14 04:00:26",
-      "album": {
-        "name": "Bein\u2019 Green",
-        "url": "https://open.spotify.com/album/13SwXrM9xSsndzWQWX21Rb"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 250515,
-      "name": "Bein\u2019 Green",
-      "url": "https://open.spotify.com/track/0bFDv9RwLd1KNfrkVhUy4g"
     },
     {
       "added_at": "2026-08-14 04:00:26",
@@ -71,22 +119,6 @@
       "duration_ms": 307660,
       "name": "Throw Something",
       "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
-    },
-    {
-      "added_at": "2026-08-07 04:00:20",
-      "album": {
-        "name": "Where is It Written?",
-        "url": "https://open.spotify.com/album/7kSsU12ybpCmhNb6pXR5uh"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 365626,
-      "name": "Where is It Written?",
-      "url": "https://open.spotify.com/track/5ts8DaYwiFI13Pk7KIoiwW"
     },
     {
       "added_at": "2026-08-07 04:00:20",
@@ -151,22 +183,6 @@
       "duration_ms": 154160,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/5QViSSo6i1Org1TGMn5szj"
-    },
-    {
-      "added_at": "2026-07-31 04:01:01",
-      "album": {
-        "name": "Silvershoes",
-        "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 157136,
-      "name": "Silvershoes",
-      "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
     },
     {
       "added_at": "2026-07-24 04:00:50",
@@ -503,22 +519,6 @@
       "duration_ms": 285863,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6jHtoIPI83lU0pZg4vPq3c"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
-        "name": "From the Bottom of the Ocean",
-        "url": "https://open.spotify.com/album/6EVUmvY8TSM6V9IeQlNbqv"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 215138,
-      "name": "From the Bottom of the Ocean",
-      "url": "https://open.spotify.com/track/2Z8B4hUUiYzcVqaGQ5ywe9"
     },
     {
       "added_at": "2026-03-20 04:00:30",

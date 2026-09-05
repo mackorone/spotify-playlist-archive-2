@@ -2,7 +2,7 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Kahuti
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Davy Waweru
 
 376 songs - 21 hr 12 min
 

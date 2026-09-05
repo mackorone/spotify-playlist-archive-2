@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "BODY WAVE",
+        "url": "https://open.spotify.com/album/0dyTUphUR3fYciR6Br4KNs"
+      },
+      "artists": [
+        {
+          "name": "BBGIRLS",
+          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "BODY WAVE",
+      "url": "https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck"
+    },
+    {
+      "album": {
         "name": "Bomb",
         "url": "https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c"
       },
@@ -5660,6 +5678,24 @@
       "duration_ms": 194840,
       "name": "Classified",
       "url": "https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "album": {
@@ -10364,7 +10400,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 146103,
       "name": "G.O.A.T",
       "url": "https://open.spotify.com/track/6z0toyvHVeEXP9VI64Hmwm"
@@ -13374,7 +13410,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170149,
       "name": "I DON'T BARGAIN",
       "url": "https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y"
@@ -23673,6 +23709,24 @@
     },
     {
       "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/7uXc6ya1gTIT7JtnKtqXEW"
       },
@@ -32722,7 +32776,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 158901,
       "name": "\u0e2b\u0e07\u0e38\u0e14\u0e2b\u0e07\u0e34\u0e14 (tsk)",
       "url": "https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx"

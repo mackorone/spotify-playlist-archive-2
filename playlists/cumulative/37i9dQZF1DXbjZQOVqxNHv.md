@@ -90,7 +90,7 @@
 | [Carplos](https://open.spotify.com/track/5xfoGIyXMhfs9RZLZlW8MK) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Blood, Looms & Blooms](https://open.spotify.com/album/0sKE3aoWy0Ly8vrmIc7LWN) | 4:21 | 2022-04-13 | 2022-07-24 |
 | [Cascade](https://open.spotify.com/track/77FEFA9LABMYORSAI0gxqG) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 5:59 | 2022-04-13 |  |
 | [Cascade \(Shortform\)](https://open.spotify.com/track/2dHLntbPVU8AjfakQVyE9w) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Cascade](https://open.spotify.com/album/4sD9BmSsLOLTchPVwgLhhE) | 4:18 | 2022-04-13 |  |
-| [Centercourt](https://open.spotify.com/track/3bEyXhlK8dg1yg6VEVS0zN) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Tadley Management](https://open.spotify.com/album/3766e1WmYg9o3X6px7YAme) | 5:39 | 2022-04-13 | 2026-07-13 |
+| [Centercourt](https://open.spotify.com/track/3bEyXhlK8dg1yg6VEVS0zN) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Tadley Management](https://open.spotify.com/album/3766e1WmYg9o3X6px7YAme) | 5:39 | 2022-04-13 |  |
 | [Centercourt](https://open.spotify.com/track/6EoU3CB6crpANaW7g6sThW) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Tadley Management](https://open.spotify.com/album/6nWlyf6CmLOWfpeMM3h6Dd) | 5:39 | 2022-04-13 | 2023-04-26 |
 | [Cfern](https://open.spotify.com/track/7EuJMbuh3qf5hVg27q6B03) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Confield](https://open.spotify.com/album/6FPt8HEGHoBGbX0dQnXDPh) | 6:41 | 2022-04-13 | 2024-07-10 |
 | [CHEETAHT2 \[Ld spectrum\]](https://open.spotify.com/track/44IECBxt9Hev9ivOFLG7W0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Cheetah EP](https://open.spotify.com/album/1pC7hHcaOmrDotqv1ZnuT8) | 5:53 | 2022-04-13 | 2022-07-29 |
@@ -586,6 +586,6 @@
 | [Zip Left, Zip Right](https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Digitalis](https://open.spotify.com/album/6SwEpgSxk3oRekFjMl69Oo) | 5:55 | 2022-04-13 |  |
 | [µ\-Ziq Theme](https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:36 | 2022-04-13 | 2023-04-29 |
 | [µ\-Ziq Theme](https://open.spotify.com/track/3jiRMszW0zfo4cO1gT7unu) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1mwzd45uIahVmQ2A7UvHoq) | 4:36 | 2022-04-13 | 2024-02-15 |
-| [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 |  |
+| [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 | 2026-09-05 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

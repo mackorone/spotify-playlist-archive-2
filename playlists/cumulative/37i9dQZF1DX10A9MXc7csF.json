@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Bohemio y Yng Lucas \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Grupo Feroz \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -3784,7 +3784,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 146941,
       "name": "Bien Enamorado",
       "url": "https://open.spotify.com/track/2BxyDXEStxfzohIlrJ0KjE"
@@ -5834,6 +5834,28 @@
       "duration_ms": 155488,
       "name": "CHULA",
       "url": "https://open.spotify.com/track/19YBQmFj9ZLrxuPJIz7saK"
+    },
+    {
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/564T0cacU7d16jYTEMFkyY"
+      },
+      "artists": [
+        {
+          "name": "Maik DB",
+          "url": "https://open.spotify.com/artist/5w8sDK4sQFfiRxD5tXklk8"
+        },
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189795,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/1dw4Gr0lkc6rilY8M41sgT"
     },
     {
       "album": {
@@ -17030,7 +17052,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 224706,
       "name": "Las Dos Me Duelen",
       "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
@@ -24710,7 +24732,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 164000,
       "name": "Pa' D\u00f3nde",
       "url": "https://open.spotify.com/track/3LzovbiayjAF9NBNw9rJr3"
@@ -25290,6 +25312,28 @@
       "duration_ms": 206210,
       "name": "PENSANDO Y PENSANDO",
       "url": "https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k"
+    },
+    {
+      "album": {
+        "name": "Perderte",
+        "url": "https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Perderte",
+      "url": "https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ"
     },
     {
       "album": {
@@ -26390,6 +26434,28 @@
       "duration_ms": 240375,
       "name": "Porqu\u00e9 No Le Dices",
       "url": "https://open.spotify.com/track/3sjYYiN6ZqlEDffsogmnSc"
+    },
+    {
+      "album": {
+        "name": "Portadas - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/01VYAH8iyFwVUaNE56mIda"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        },
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Portadas - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/7lEkG18Om4n4SJ8LzwQ0RL"
     },
     {
       "album": {
@@ -30345,6 +30411,28 @@
     },
     {
       "album": {
+        "name": "Sobredosis",
+        "url": "https://open.spotify.com/album/5Hs2OYUolCgYOVnzVFdQt0"
+      },
+      "artists": [
+        {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        },
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205561,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/4mMIy8vp6mpgvf7czlrdDX"
+    },
+    {
+      "album": {
         "name": "Socia",
         "url": "https://open.spotify.com/album/26fHw49PRumROrHp59b4Gk"
       },
@@ -30562,7 +30650,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151250,
       "name": "SOLO X BELLA",
       "url": "https://open.spotify.com/track/7qfmgahtktA5Nt0LOCC63S"
@@ -32978,7 +33066,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 157751,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5WQ4wWyIergvHONH09i3tq"
@@ -34676,6 +34764,24 @@
       "duration_ms": 182370,
       "name": "Willy Broncas",
       "url": "https://open.spotify.com/track/5KEkWSE0D6zhBONohmA2z4"
+    },
+    {
+      "album": {
+        "name": "El Primer Album de Low Clika",
+        "url": "https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149627,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-411 songs - 23 hr 7 min
+412 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Gluttony \- MC Vaud Villian Remix](https://open.spotify.com/track/1nddm6gXvUH9Sj6WdxQRGF) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Yvette Pylant](https://open.spotify.com/artist/1KA3XlnRF1f2EnTA50rf27), [MC Vaud Villian](https://open.spotify.com/artist/6nPrIblvX5f5VUTLk6FCzk) | [Gluttony \(Vaud Villain Remix\)](https://open.spotify.com/album/5bX16imMJdCFpOk4pqffVs) | 3:34 | 2023-03-31 |  |
 | [God of Swing \- Electro Swing Radio Mix](https://open.spotify.com/track/53BE1WhBBeOngbYNjnF2GR) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [God of Swing \(Electro Swing Radio Mix\)](https://open.spotify.com/album/3WxL5soKvavcU6HbD95cKf) | 2:55 | 2024-10-04 | 2025-11-21 |
 | [Gogo](https://open.spotify.com/track/0ztNLT11ln4bOudVKfvcCh) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh) | [Gogo](https://open.spotify.com/album/2U0hO7jbGJe862q0hWGrTp) | 2:46 | 2020-10-30 | 2022-07-28 |
+| [Got The Words](https://open.spotify.com/track/77VQgE9aaAEx8SVBpUWDr1) | [Pablo Zuazo](https://open.spotify.com/artist/3E2BvGGh7VOHyQbGAd4dOK) | [USED TRUCKS](https://open.spotify.com/album/5od6nTvY5DeU2L1zV34vUG) | 2:48 | 2026-09-04 |  |
 | [Grandpa's Groove \- Extended Version](https://open.spotify.com/track/2X4Nz5BFIcrwP9JmSfsY1Q) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [Grandpa's Groove](https://open.spotify.com/album/6QsGjnd1oV8Pxg2n6BX50A) | 4:16 | 2020-10-30 | 2022-05-14 |
 | [Grim Grinning Ghosts \- Electro Swing Mix](https://open.spotify.com/track/63mwrImc1QBy0x5GakHQi2) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Grim Grinning Ghosts](https://open.spotify.com/album/6eyrkKesZyDBGpM5GOfi7w) | 3:03 | 2022-10-12 | 2025-11-21 |
 | [Gringos Revenge](https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Gringos Revenge](https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF) | 3:58 | 2022-07-08 |  |
@@ -332,7 +333,7 @@
 | [Summer Swing](https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [Summer Swing](https://open.spotify.com/album/5rzDrcy3EbPwDUV6IFUc0N) | 2:38 | 2021-07-23 | 2023-05-20 |
 | [Sunny](https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Sunny](https://open.spotify.com/album/7kptn65vyNf42rqKfTZJWL) | 2:58 | 2024-07-12 |  |
 | [Superhero](https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn), [Mc Little Tree](https://open.spotify.com/artist/1WTWYBTjdHuCLJK9YXRbZb) | [Doorsteps](https://open.spotify.com/album/4EIopkohMjYArWWpqcMz0w) | 5:28 | 2020-10-30 | 2024-04-19 |
-| [Superhero \- Original Mix](https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn) | [Superhero](https://open.spotify.com/album/6v3ulVHcqgaI7Rc4Houepz) | 5:27 | 2020-10-30 |  |
+| [Superhero \- Original Mix](https://open.spotify.com/track/6kWxGDy6M6IBoUphdmYTSq) | [Kormac](https://open.spotify.com/artist/64FRiqIrUyWPvGb83fAYLn) | [Superhero](https://open.spotify.com/album/6v3ulVHcqgaI7Rc4Houepz) | 5:27 | 2020-10-30 | 2026-09-05 |
 | [Swag Bag](https://open.spotify.com/track/0u7gdux7Ft6P69Uyj0pa4a) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Electro Carousel Club Night \(Selected by Dr Cat\)](https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm) | 4:25 | 2020-10-30 |  |
 | [Swag Bag](https://open.spotify.com/track/32gRfQc1O71YyaEzcBPUuZ) | [The Young Punx](https://open.spotify.com/artist/3gkX03yW2WrvcDMp04TKjN), [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [Swag Bag](https://open.spotify.com/album/65Bp8ipcWk9qvl0HJAnpsn) | 4:30 | 2022-11-07 | 2024-04-19 |
 | [Sway \- Future Swing Mix](https://open.spotify.com/track/3ogL2bsjAYyiaQ0jOKy9su) | [Masha Ray](https://open.spotify.com/artist/706tsOoiPj3ud8APFxfRzW), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Sway \(Future Swing Mix\)](https://open.spotify.com/album/0Osw46pcXnO0B7JOKoOG5I) | 2:22 | 2023-07-07 | 2023-08-26 |

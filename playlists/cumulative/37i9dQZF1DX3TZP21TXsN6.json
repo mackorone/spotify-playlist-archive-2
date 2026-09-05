@@ -11315,6 +11315,24 @@
     },
     {
       "album": {
+        "name": "Quarterback",
+        "url": "https://open.spotify.com/album/3ggEhQJO82iJk2FHK7DMGd"
+      },
+      "artists": [
+        {
+          "name": "Riffi",
+          "url": "https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Quarterback",
+      "url": "https://open.spotify.com/track/2CyPi3EwtTSq3QUMBGyjW5"
+    },
+    {
+      "album": {
         "name": "Quatre Mains",
         "url": "https://open.spotify.com/album/7DAHUsY5UAEM0bI3lN7K52"
       },

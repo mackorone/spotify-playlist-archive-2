@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Uzielito Mix, M\u00e1talos Papi",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Barbas y Omar Camacho bufando",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -7003,6 +7003,28 @@
     },
     {
       "album": {
+        "name": "D\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
+      },
+      "artists": [
+        {
+          "name": "Barbas",
+          "url": "https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "D\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
+    },
+    {
+      "album": {
         "name": "Con Las Que Perreaba Tu Mam\u00e1",
         "url": "https://open.spotify.com/album/3l18uuE92xAoSurhNZM21p"
       },
@@ -12094,7 +12116,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 199518,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/58Lm23WIe0uE7KucPoLWQH"
@@ -14340,6 +14362,28 @@
       "duration_ms": 213706,
       "name": "MEXICANA",
       "url": "https://open.spotify.com/track/6FZro1fYNjSXd0d1xJpp5A"
+    },
+    {
+      "album": {
+        "name": "La Universidad del Perreo",
+        "url": "https://open.spotify.com/album/4Fa8dk5lKFUVqLIrRwYPl8"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198525,
+      "name": "Mi Baby",
+      "url": "https://open.spotify.com/track/6eIA8nPX6kSBYX9b20TnC0"
     },
     {
       "album": {

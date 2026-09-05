@@ -679,18 +679,18 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Just the two of us",
-      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2026-06-29 08:10:11",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 224066,
       "name": "They say, that is the love",
       "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
-    },
-    {
-      "added_at": "2026-06-29 08:10:11",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2026-06-29 08:10:11",
@@ -819,6 +803,22 @@
       "duration_ms": 236080,
       "name": "My Old Story",
       "url": "https://open.spotify.com/track/1H6gFy8Yfnm3JMAn4T398Y"
+    },
+    {
+      "added_at": "2026-06-29 08:10:11",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

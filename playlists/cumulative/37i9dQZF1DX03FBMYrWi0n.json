@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: F\u00e9lix Collin",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Alex Henry Foster",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
+        "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
+      },
+      "artists": [
+        {
+          "name": "Melissa Auf der Maur",
+          "url": "https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221587,
+      "name": "... And The Next Day",
+      "url": "https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n"
+    },
+    {
+      "album": {
         "name": "1 000 000 de probl\u00e8mes",
         "url": "https://open.spotify.com/album/1VbX4htOwGdywxsxLaeWwE"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 136532,
       "name": "1 000 000 de probl\u00e8mes",
       "url": "https://open.spotify.com/track/2QLNaHqtcN5EXgGeAG0Mov"
@@ -1655,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Calling Out!",
+        "url": "https://open.spotify.com/album/1zO8n8EnWtrJ92WlWR8eAI"
+      },
+      "artists": [
+        {
+          "name": "Alex Henry Foster",
+          "url": "https://open.spotify.com/artist/3xxV7Humr8VBXGhNNbyWoY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222592,
+      "name": "Calling Out!",
+      "url": "https://open.spotify.com/track/6qQF7LlBNYl37dcAbkl2Az"
+    },
+    {
+      "album": {
         "name": "CAM / LO",
         "url": "https://open.spotify.com/album/2qmBgWtRXyUYPQSbgHbj2T"
       },
@@ -2511,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118309,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
+    },
+    {
+      "album": {
         "name": "EMBRACE CHAOS",
         "url": "https://open.spotify.com/album/3zLHGel8t7u5cqKWccAvgX"
       },
@@ -2738,7 +2792,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 189540,
       "name": "Demain minuit",
       "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
@@ -4272,7 +4326,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 178379,
       "name": "heart",
       "url": "https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK"
@@ -5566,6 +5620,24 @@
       "duration_ms": 178000,
       "name": "L'heure des fontaines",
       "url": "https://open.spotify.com/track/1r5bR0LbpqBVHQqZvzICuJ"
+    },
+    {
+      "album": {
+        "name": "L'\u00e8re de glace",
+        "url": "https://open.spotify.com/album/6wN1CeKfT84aQVoPyaKiOB"
+      },
+      "artists": [
+        {
+          "name": "Simon Lacas",
+          "url": "https://open.spotify.com/artist/5krQUm0m0pQ6iPttl3kiOe"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287200,
+      "name": "L'\u00e8re de glace",
+      "url": "https://open.spotify.com/track/1XxooNA0LDvoNFwl76nmOj"
     },
     {
       "album": {
@@ -7252,7 +7324,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184712,
       "name": "Neon Love",
       "url": "https://open.spotify.com/track/1GQsaeaG3UvSvHdP4LHt9p"
@@ -8492,7 +8564,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
@@ -11854,7 +11926,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 234200,
       "name": "\u00e9tude06 . E A R T H S E A . AMII.0-RW006",
       "url": "https://open.spotify.com/track/4qRkCgJULmapg3utfOmo0U"

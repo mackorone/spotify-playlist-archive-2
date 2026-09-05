@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Sunmisola Agbebi
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,416 likes - 113 songs - 16 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,503 likes - 113 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 9 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 | 10 | [Lord Most High](https://open.spotify.com/track/5QdSwe7gS1ORjW6CQpsgDl) | [Dolapo Lawal](https://open.spotify.com/artist/3q4KhtQjtB8DQg0n2eGUMC), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Soli Deo Gloria](https://open.spotify.com/album/5EE2xY6Q8vDMoOUNj5bBI2) | 6:13 |
 | 11 | [Revival](https://open.spotify.com/track/4eht3GOOTNwq9HuR4UvO4s) | [Brite Egwuogu](https://open.spotify.com/artist/2YsaAFq1fn9w2aiBcvURmn), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Revival](https://open.spotify.com/album/6Pp4RgZaZtSrsR40zWYFxf) | 7:26 |
-| 12 | [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/6vN7iPK95U67VZhM4nXKe6), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 |
+| 12 | [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 |
 | 13 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
 | 14 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 |
 | 15 | [Mantles](https://open.spotify.com/track/2IKGoMUNCb0rZgwA793HIy) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Mantles](https://open.spotify.com/album/4CyA8LD8ZRUYrpqI0ce2LS) | 8:41 |

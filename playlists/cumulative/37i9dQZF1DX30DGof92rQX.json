@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Samar Jafri",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Sherry Khattak",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Chaltay Ja Rahay",
+        "url": "https://open.spotify.com/album/0ayEaXqjbUmVaukHCfHNfW"
+      },
+      "artists": [
+        {
+          "name": "Kashmir",
+          "url": "https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Chaltay Ja Rahay",
+      "url": "https://open.spotify.com/track/4JEV3rP2vAk0WvgNbiiM3B"
+    },
+    {
+      "album": {
         "name": "Chan Mahi",
         "url": "https://open.spotify.com/album/1B9UV3cSayU5ahTU4aS5dI"
       },
@@ -2863,6 +2881,32 @@
     },
     {
       "album": {
+        "name": "Dil | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/2UuTBgTE0qg0DhE7xyrUcZ"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186185,
+      "name": "Dil | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/5qZZiU7CqeLFUPL8afsiSd"
+    },
+    {
+      "album": {
         "name": "Par Ab Jo Aayegi Tu",
         "url": "https://open.spotify.com/album/1fEFaG0JWVUkvVVH3C7tE4"
       },
@@ -3413,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "Fake Sajna",
+        "url": "https://open.spotify.com/album/1al2Dnk7tvuJ9YhLaQw93u"
+      },
+      "artists": [
+        {
+          "name": "Qasim Dahir",
+          "url": "https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162119,
+      "name": "Fake Sajna",
+      "url": "https://open.spotify.com/track/5mRhLd4ofzmk9AaAuqWyOP"
+    },
+    {
+      "album": {
         "name": "Falling4U",
         "url": "https://open.spotify.com/album/1aasIv8wFPMlA2BlE8cEGs"
       },
@@ -3918,7 +3980,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 195000,
       "name": "Ghar",
       "url": "https://open.spotify.com/track/5gfXlObENjCjiyIWw1OgCS"
@@ -5168,6 +5230,28 @@
       "duration_ms": 168793,
       "name": "Janay Jaa",
       "url": "https://open.spotify.com/track/1PVbwQTuR2CNXuR1oDMVP6"
+    },
+    {
+      "album": {
+        "name": "Janay Kyun",
+        "url": "https://open.spotify.com/album/7JKvEKShGqyaOXIh335ucS"
+      },
+      "artists": [
+        {
+          "name": "Faisal Kapadia",
+          "url": "https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR"
+        },
+        {
+          "name": "Zara Madani",
+          "url": "https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243150,
+      "name": "Janay Kyun",
+      "url": "https://open.spotify.com/track/0mGLaIK76bchCVcICz5M4G"
     },
     {
       "album": {
@@ -9553,6 +9637,24 @@
     },
     {
       "album": {
+        "name": "Raatein",
+        "url": "https://open.spotify.com/album/5sFTuuZsvtdiiF0GIQN4oR"
+      },
+      "artists": [
+        {
+          "name": "Sherry Khattak",
+          "url": "https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "Raatein",
+      "url": "https://open.spotify.com/track/6vp6Hlj7jmgWwYka0GmsyL"
+    },
+    {
+      "album": {
         "name": "Raazi (blal's version)",
         "url": "https://open.spotify.com/album/6MF9ecBm6ewsaYeG7UWmdM"
       },
@@ -11496,6 +11598,32 @@
       "duration_ms": 137142,
       "name": "Tarpae",
       "url": "https://open.spotify.com/track/0ik3eFyP7Y8b1tycRCXPom"
+    },
+    {
+      "album": {
+        "name": "Tenu",
+        "url": "https://open.spotify.com/album/58LGOY9Kp2tB0fm5AvQ2zc"
+      },
+      "artists": [
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        },
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218185,
+      "name": "Tenu",
+      "url": "https://open.spotify.com/track/4cBDWTewLmPU9vKVn9sP46"
     },
     {
       "album": {

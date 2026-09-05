@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-615 songs - 1 day 12 hr 23 min
+616 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-21 |
 | [I Keep On Falling in Love](https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [I Keep On Falling in Love](https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB) | 3:30 | 2024-06-27 | 2024-08-30 |
 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 | 2025-01-24 |
-| [I Rock My Country](https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I Rock My Country](https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf) | 3:16 | 2026-05-11 |  |
+| [I Rock My Country](https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I Rock My Country](https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf) | 3:16 | 2026-05-11 | 2026-09-05 |
 | [I våra händer](https://open.spotify.com/track/1QJjgnpmj2kLnm3aSqohk8) | [Anna Stadling](https://open.spotify.com/artist/15xSyYUeEIQphb7lnNojQs) | [I våra händer](https://open.spotify.com/album/6Ss8sf2hBctLpp5yfVTWio) | 3:22 | 2024-06-27 | 2024-08-09 |
 | [I Will See You](https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [I Will See You](https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc) | 4:32 | 2024-08-08 | 2024-09-16 |
 | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [I Wrote Your Name \(Upon My Heart\)](https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu) | 3:20 | 2024-09-06 | 2025-04-11 |
@@ -443,7 +443,7 @@
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:58 | 2025-02-06 | 2026-02-13 |
 | [Roses](https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Roses](https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw) | 3:44 | 2025-10-30 | 2026-05-22 |
 | [Rosor](https://open.spotify.com/track/0aDYLomq2NbOuqniPSJ65T) | [Pernilla Andersson](https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy) | [Rosor](https://open.spotify.com/album/2Ms7NYrOs79Q2N6M4C7D3S) | 3:45 | 2026-07-16 | 2026-08-28 |
-| [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 | 2026-08-20 | 2026-09-04 |
+| [Rullande muller](https://open.spotify.com/track/4Ms5K9S0oKyfIUPw84xDe4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [9](https://open.spotify.com/album/6eG8X9I5pIzsSWcDgNM1r7) | 4:26 | 2026-08-20 |  |
 | [Rush Of Blood](https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Rush Of Blood](https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ) | 3:22 | 2024-08-15 | 2025-01-03 |
 | [Rytmen av ett regn](https://open.spotify.com/track/284OgQhThXzkssDt6Hdreg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Rytmen av ett regn](https://open.spotify.com/album/5KUGbEBxb6DBveyI28Sstp) | 3:14 | 2024-06-27 | 2024-08-09 |
 | [Rädd för hundar](https://open.spotify.com/track/31zjUJQ5zQx6Jw9NMuiNDn) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Rädd för hundar](https://open.spotify.com/album/1RQ5oUUy9dNh0E68CdIW0t) | 4:11 | 2025-01-16 | 2025-05-30 |
@@ -460,6 +460,7 @@
 | [Salta tårar](https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Salta tårar](https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit) | 3:23 | 2024-06-27 | 2024-08-16 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 | 2025-04-25 |
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-10 | 2026-02-13 |
+| [Scandinavian Eyes](https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Scandinavian Eyes](https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR) | 4:51 | 2026-09-03 |  |
 | [Ser du månen där du är ikväll](https://open.spotify.com/track/6LDQVt0SBoqGSEkov9tD3q) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [Vaggvisor med Perrelli](https://open.spotify.com/album/6hdlcqRwVgoIjo5IFShQ70) | 4:17 | 2025-05-29 | 2025-06-03 |
 | [Seven Days Of Heaven](https://open.spotify.com/track/4FdVXLaBpWLNshAzXP4WAa) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Seven Days Of Heaven](https://open.spotify.com/album/1xfkNCZQmq4sGKRxTpOFe9) | 3:35 | 2025-05-08 | 2025-06-16 |
 | [Show Me](https://open.spotify.com/track/23mymG8MR8H4oQ6uyJ40cQ) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Show Me](https://open.spotify.com/album/2iX8n3q3raSUgt3J1ejovV) | 3:38 | 2024-06-27 | 2024-08-09 |
@@ -511,7 +512,7 @@
 | [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-12 | 2026-05-24 |
 | [Sunny Day](https://open.spotify.com/track/4KZZ4pHjwZqGm0WWq8XrAl) | [Harpo](https://open.spotify.com/artist/6HsEXxUSqMXmIwbYVW6zdt), [Velvet Insane](https://open.spotify.com/artist/1d2wo3IQ7E02uB04ZTGZX3), [Teodor Franklin](https://open.spotify.com/artist/0eSRfiJYQLpXq3tnpO9Mt9) | [Sunny Day](https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO) | 3:06 | 2024-06-27 | 2024-09-13 |
 | [Superlim & silvertejp](https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Superlim & silvertejp](https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm) | 3:13 | 2026-04-02 |  |
-| [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 |  |
+| [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 | 2025-09-04 | 2026-09-05 |
 | [Swallow My Tears](https://open.spotify.com/track/2EZd0TdGBQGy0yZB0DEh93) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Swallow My Tears](https://open.spotify.com/album/0tDIhm78N9TV435gJtj9R8) | 2:54 | 2024-10-24 | 2025-01-24 |
 | [Swan Song](https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ) | [Weeping Willows](https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj) | [Swan Song](https://open.spotify.com/album/2b0h82VV0V8GUAJtOSaAUO) | 4:02 | 2025-03-20 | 2025-08-31 |
 | [Sweethearts](https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Sweethearts](https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB) | 4:43 | 2025-03-13 | 2026-02-13 |

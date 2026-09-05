@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra & DesaKTa2",
-  "num_followers": 816827,
+  "num_followers": 816856,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Por lo que yo te quiero",
-      "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/15FN3Y2aTgjTnsTxsNWwWj"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 150092,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/1jG6XJkyLl0TlmD0xoyheI"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Por lo que yo te quiero",
+      "url": "https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
+        "name": "LOS HERRERA | DJ TAO Sessions #31",
+        "url": "https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "duration_ms": 172537,
+      "name": "LOS HERRERA | DJ TAO Sessions #31",
+      "url": "https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
         "name": "Si Fuera Tan F\u00e1cil",
         "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
@@ -835,22 +855,6 @@
       "duration_ms": 207843,
       "name": "Si Fuera Tan F\u00e1cil",
       "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Tal Para Cual",
-        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 155990,
-      "name": "Tal Para Cual",
-      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -875,22 +879,18 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "LOS HERRERA | DJ TAO Sessions #31",
-        "url": "https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS"
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/6gEwNqWEiYAWO5ownctwQv"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 172537,
-      "name": "LOS HERRERA | DJ TAO Sessions #31",
-      "url": "https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ"
+      "duration_ms": 155990,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/6GCDZ6Y0sk1D4pZBxQyfLf"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1107,22 +1111,34 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Cita (La Carta)",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1147,22 +1163,6 @@
       "duration_ms": 217262,
       "name": "Para Repetir - Versi\u00f3n Cuarteto - En Vivo",
       "url": "https://open.spotify.com/track/0zIPLZvJpHTYlH38u9lfSw"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Cita (La Carta)",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1227,34 +1227,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Fui Nada",
-        "url": "https://open.spotify.com/album/7E31JX7OVjx9d3d9SffeBE"
-      },
-      "artists": [
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "DAMARIS",
-          "url": "https://open.spotify.com/artist/4hiHa1NemTB3KaprG8jN3z"
-        },
-        {
-          "name": "Kekelandia",
-          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
-        }
-      ],
-      "duration_ms": 165757,
-      "name": "Fui Nada",
-      "url": "https://open.spotify.com/track/1Qpsk8X3Ee4Yq0VtQjL54m"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1291,6 +1263,34 @@
       "duration_ms": 212027,
       "name": "ME DUELE TU TRAICI\u00d3N",
       "url": "https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Fui Nada",
+        "url": "https://open.spotify.com/album/7E31JX7OVjx9d3d9SffeBE"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "DAMARIS",
+          "url": "https://open.spotify.com/artist/4hiHa1NemTB3KaprG8jN3z"
+        },
+        {
+          "name": "Kekelandia",
+          "url": "https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy"
+        }
+      ],
+      "duration_ms": 165757,
+      "name": "Fui Nada",
+      "url": "https://open.spotify.com/track/1Qpsk8X3Ee4Yq0VtQjL54m"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Por Ese Hombre (En Vivo)",
-        "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        },
-        {
-          "name": "Luz Paisio",
-          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Por Ese Hombre - En Vivo",
-      "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1603,18 +1579,26 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "Por Ese Hombre (En Vivo)",
+        "url": "https://open.spotify.com/album/0BtiuO6dlmwCn5ZNLC1XI0"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Luz Paisio",
+          "url": "https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+      "duration_ms": 242000,
+      "name": "Por Ese Hombre - En Vivo",
+      "url": "https://open.spotify.com/track/0S33HwsUNnsCay68WOcHbS"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
         "name": "Que Te Vuelva Amor",
         "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 150764,
       "name": "Que Te Vuelva Amor",
       "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "Baby Nueva",
+        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "Baby Nueva",
+      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1683,18 +1699,38 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Baby Nueva",
-        "url": "https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB"
+        "name": "Atado a un Sentimiento",
+        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+          "name": "Chipote",
+          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
         }
       ],
-      "duration_ms": 167450,
-      "name": "Baby Nueva",
-      "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+      "duration_ms": 238576,
+      "name": "Los Gatos No Ladran",
+      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
+    },
+    {
+      "added_at": "2026-08-14 10:35:01",
+      "album": {
+        "name": "No Se Vivir Si No Es Contigo",
+        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 202149,
+      "name": "No Se Vivir Si No Es Contigo",
+      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1735,42 +1771,6 @@
       "duration_ms": 271516,
       "name": "Amor de Papel / Enamorado de Ti / En Libertad",
       "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "Atado a un Sentimiento",
-        "url": "https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS"
-      },
-      "artists": [
-        {
-          "name": "Chipote",
-          "url": "https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Los Gatos No Ladran",
-      "url": "https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF"
-    },
-    {
-      "added_at": "2026-08-14 10:35:01",
-      "album": {
-        "name": "No Se Vivir Si No Es Contigo",
-        "url": "https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 202149,
-      "name": "No Se Vivir Si No Es Contigo",
-      "url": "https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn"
     },
     {
       "added_at": "2026-08-14 10:35:01",
@@ -1955,22 +1955,18 @@
     {
       "added_at": "2026-08-14 10:35:01",
       "album": {
-        "name": "Voy A Olvidarme De Mi",
-        "url": "https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF"
+        "name": "El No Va a Venir",
+        "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
       },
       "artists": [
         {
-          "name": "Flor Vigna",
-          "url": "https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Voy A Olvidarme De Mi",
-      "url": "https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B"
+      "duration_ms": 135287,
+      "name": "El No Va a Venir",
+      "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
     }
   ],
   "unique_name": "100% Cuarteto",

@@ -4,7 +4,7 @@
 
 > новинки українського андерґраунду\. обкладинка: sestro
 
-880 songs - 1 day 21 hr 46 min
+880 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 | 2024-06-27 | 2025-01-26 |
 | [Melancholy Love](https://open.spotify.com/track/5uB0zDmW93oBCQ93GuV9KL) | [Lost Gift](https://open.spotify.com/artist/676CuDunRM60X41MIhAaI8) | [Melancholy Love](https://open.spotify.com/album/5GNg27IwodYLLQkxoNtAAv) | 2:12 | 2024-06-27 | 2024-07-13 |
 | [Michael J](https://open.spotify.com/track/0AlVElhcp5XyrHOYHw6lpe) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Michael J](https://open.spotify.com/album/6RkOQHkqG0TcGZjGxPz30T) | 2:02 | 2024-10-18 | 2024-11-22 |
+| [MY PRESCRIPTION](https://open.spotify.com/track/3hOGcPM8P6PJfZ2IE6kOpy) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [MY PRESCRIPTION](https://open.spotify.com/album/6bEXc0169lrOiYuK0Q0fPT) | 2:16 | 2026-09-03 |  |
 | [Nadto](https://open.spotify.com/track/4WBcZHmDx2mtV8kC6BXFES) | [Karoon](https://open.spotify.com/artist/4flrwqSTqk2O8a9KMfkLu7) | [Nadto](https://open.spotify.com/album/259b7V0g6ZgdtIrfb5eR3n) | 2:22 | 2025-03-17 | 2025-04-12 |
 | [Navesni](https://open.spotify.com/track/6ueWeR5wOVOCcdCWSZRYoK) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo), [W.I.T.H.](https://open.spotify.com/artist/2qvH0dlcBkx6U7wv7z0glv) | [Navesni](https://open.spotify.com/album/3vFTj6bXG764Ojl2uOLp0v) | 2:13 | 2025-11-06 | 2025-11-21 |
 | [Ne omyne](https://open.spotify.com/track/3BoVqsuxaOzjjtNFeHEVWh) | [Karoon](https://open.spotify.com/artist/4flrwqSTqk2O8a9KMfkLu7) | [Ne omyne](https://open.spotify.com/album/4ROycE1zPe1v9wlrl046lH) | 3:33 | 2025-03-03 | 2025-03-18 |
@@ -108,7 +109,6 @@
 | [The Weather](https://open.spotify.com/track/683LIpgBjcxJZGQHrzHXEw) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Sorry, Teacher](https://open.spotify.com/album/2Ig699Fe0ReA5OYhuTmypC) | 2:38 | 2026-08-27 | 2026-09-04 |
 | [Thin Ice](https://open.spotify.com/track/4sjNlqIcIxPb1Jr3COXDHh) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [Tenseoh](https://open.spotify.com/artist/14vpmZpC4vslI3cGUa7IOq) | [Thin Ice](https://open.spotify.com/album/3zFhYUZr2B8kPiyhb0fyRA) | 2:57 | 2026-04-02 | 2026-05-05 |
 | [TIRED OF ME](https://open.spotify.com/track/0EurmNTrZzwhy5q03RLM2u) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI) | [TIRED OF ME](https://open.spotify.com/album/6ozmnbCjaJrScOACN4bewn) | 2:30 | 2026-06-11 | 2026-07-10 |
-| [Track 1](https://open.spotify.com/track/3hOGcPM8P6PJfZ2IE6kOpy) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [MY PRESCRIPTION](https://open.spotify.com/album/6bEXc0169lrOiYuK0Q0fPT) | 0:00 | 2026-09-03 |  |
 | [trust me boy](https://open.spotify.com/track/3tXLFIXO7zkFDXe49yFtRf) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [trust me boy](https://open.spotify.com/album/4eP05BRKa5VDgoLdamXvKS) | 2:31 | 2026-07-16 | 2026-08-07 |
 | [TV](https://open.spotify.com/track/26YIBj1jzDDduwlOmhgv1f) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [TV](https://open.spotify.com/album/0C7ONMoxtbn9bJmEQlx1vw) | 3:07 | 2025-09-16 | 2025-10-26 |
 | [Ulamok](https://open.spotify.com/track/5Wm2I4VYOXyxSjo1LBSSRT) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo) | [Ulamok](https://open.spotify.com/album/2eUNPft2luNCUP0AFPfbPh) | 2:30 | 2024-10-04 | 2024-11-08 |
@@ -333,7 +333,7 @@
 | [зберігати баланс](https://open.spotify.com/track/4TdoAor44mBU7mqEfePwt8) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [панорама](https://open.spotify.com/album/0iUliIXEv6G7OTheXQtdeO) | 2:07 | 2026-04-23 | 2026-05-21 |
 | [Звичка](https://open.spotify.com/track/5msyZIxZND505WifUyW4Pz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Звичка](https://open.spotify.com/album/1LleagdZiAsYn10rW6zSkh) | 4:05 | 2025-08-08 | 2026-01-25 |
 | [ЗВИЧКИ](https://open.spotify.com/track/03GHWLW1R9mbwb77cjXwkw) | [ОНІСУКА ТАЙГЕР](https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM) | [ЕСКАПІЗМ](https://open.spotify.com/album/6JgTxPn4lfrI7OZzMU89eI) | 4:20 | 2026-06-11 | 2026-07-10 |
-| [здатність бути тут](https://open.spotify.com/track/6PGFhn3NTw1jcfngN2gbuN) | [сліпток](https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0) | [здатність бути тут](https://open.spotify.com/album/4JDFP7a7kgZCX0sM8zjyNi) | 1:32 | 2026-08-27 | 2026-09-04 |
+| [здатність бути тут](https://open.spotify.com/track/6PGFhn3NTw1jcfngN2gbuN) | [сліпток](https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0) | [здатність бути тут](https://open.spotify.com/album/4JDFP7a7kgZCX0sM8zjyNi) | 1:32 | 2026-08-27 |  |
 | [зелені очі](https://open.spotify.com/track/1xwc9xa0hIHe7RSa5BOSd2) | [ripcity](https://open.spotify.com/artist/5llGjZdNOIUf6T0ewEbSeK) | [зелені очі](https://open.spotify.com/album/04pyKFZnJtelzCtHSsN3vq) | 2:06 | 2026-04-02 | 2026-04-18 |
 | [Земля](https://open.spotify.com/track/6gYpS809CZImTMCcOseUZa) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK) | [Земля](https://open.spotify.com/album/3E0ZEYk0ycG6OqYGIKNBcf) | 3:10 | 2025-01-24 | 2025-03-04 |
 | [Зерно](https://open.spotify.com/track/7JohrgOFgLwGJPSThHvO53) | [Anastasia Lykhosherstova](https://open.spotify.com/artist/7DR77p5Mq3gQpSbZDT9jQM) | [Зерно](https://open.spotify.com/album/7sCq2zor54iLCFdwuZIWd8) | 2:35 | 2025-06-06 | 2025-06-18 |
@@ -502,7 +502,7 @@
 | [НАЙДЕШЕВША ТРАВА](https://open.spotify.com/track/7rtNG2ZShlhiL7oWThLqXH) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy), [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [НАЙДЕШЕВША ТРАВА](https://open.spotify.com/album/17jE6EHtCby0Kx1AXDXVnx) | 2:50 | 2026-04-02 | 2026-06-19 |
 | [Найліпший день](https://open.spotify.com/track/4XFCkkXZKB3DBjsNpMAyRS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Найліпший день](https://open.spotify.com/album/2ycRXMgdZrLgkdn0ZPSQOz) | 3:21 | 2024-06-27 | 2024-12-11 |
 | [Найсумніші пісні](https://open.spotify.com/track/2P45bHQL4hN5e9EtKvTbaz) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Квартира 25](https://open.spotify.com/album/08LOzABdC5Fem8StK3QZwy) | 2:36 | 2024-06-27 | 2024-07-29 |
-| [нам](https://open.spotify.com/track/72zEEwxCt2YxVw9o4rx6Df) | [pollyséna](https://open.spotify.com/artist/701tkyvZL9Cf7BffrezT9F) | [нам](https://open.spotify.com/album/0UozcuOX5rc9a6nCq09FJz) | 3:30 | 2026-07-16 |  |
+| [нам](https://open.spotify.com/track/72zEEwxCt2YxVw9o4rx6Df) | [pollyséna](https://open.spotify.com/artist/701tkyvZL9Cf7BffrezT9F) | [нам](https://open.spotify.com/album/0UozcuOX5rc9a6nCq09FJz) | 3:30 | 2026-07-16 | 2026-09-05 |
 | [Намалюй](https://open.spotify.com/track/2Umyi3slF7uXgLQFu33RMS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Намалюй](https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN) | 3:31 | 2025-11-06 | 2026-04-17 |
 | [Намі\-намі](https://open.spotify.com/track/56FXq5vA7soL9newOd7MFY) | [Alice Change](https://open.spotify.com/artist/2MUGwis27QiudPF2SfL2yh) | [ALICE CHALLENGE](https://open.spotify.com/album/4Zs9kx1otUIR3yweUhdWE0) | 2:11 | 2025-10-23 | 2025-11-21 |
 | [Напинай вітрила](https://open.spotify.com/track/4sxB6gfbavGMopWKv6vjj5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Напинай вітрила](https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0) | 2:39 | 2025-09-16 | 2026-04-03 |

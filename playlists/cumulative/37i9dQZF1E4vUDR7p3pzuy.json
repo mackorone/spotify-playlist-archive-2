@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, JUST LIZZY, The Dreamside and more",
+  "description": "With VELATINE, JUST LIZZY, Whispergun and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Breaking Out",
       "url": "https://open.spotify.com/track/4upw5Hwlgyf9H9n2isNEEA"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 216717,
       "name": "Chromophobia",
       "url": "https://open.spotify.com/track/5PVk5KtP2tW2xrUx5pVgTD"
@@ -4568,7 +4568,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 256875,
       "name": "Days of Glory",
       "url": "https://open.spotify.com/track/4sjvKVIklvq1TMMbixZgOD"
@@ -9000,7 +9000,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -10753,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "Life Whisper",
+        "url": "https://open.spotify.com/album/39x2ldLiTSQdP8LJ71MEzt"
+      },
+      "artists": [
+        {
+          "name": "The Poor Toms",
+          "url": "https://open.spotify.com/artist/3lS4BMYHAGUcSf1h5YRlyV"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340000,
+      "name": "Life Whisper & New Life - Reprise",
+      "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
+    },
+    {
+      "album": {
         "name": "Life's a Party",
         "url": "https://open.spotify.com/album/0dcRIfzAlXsjbtLb6fwdfg"
       },
@@ -10818,7 +10836,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10854,7 +10872,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 225520,
       "name": "Like We Do",
       "url": "https://open.spotify.com/track/3Y4Mg4esHNP5my44vm9L5P"
@@ -12602,7 +12620,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151385,
       "name": "NEW AGE ROCKSTAR",
       "url": "https://open.spotify.com/track/6wp6fkzPczSy8Eln67IL4p"
@@ -12948,7 +12966,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 267546,
       "name": "Nuda Veritas - Re-Recording from 2007",
       "url": "https://open.spotify.com/track/0Z4629KIriqTE0KkUQfYJg"
@@ -18884,7 +18902,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 207936,
       "name": "This Dance",
       "url": "https://open.spotify.com/track/27GtVpyrQcZ1Gtp74vPOFG"
@@ -19844,7 +19862,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 374488,
       "name": "Unexpected Love - The Axiom Divide Remix",
       "url": "https://open.spotify.com/track/64gPgNHLRBTmuQbM5Js9Jf"
@@ -21150,7 +21168,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"
@@ -21752,7 +21770,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

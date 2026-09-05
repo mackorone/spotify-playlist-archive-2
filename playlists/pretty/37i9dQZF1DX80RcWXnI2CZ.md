@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 
 > Always close at hand when a friend is in need, this character brings light, positivity, and an often underestimated strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,328 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,363 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 | 17 | [summertime](https://open.spotify.com/track/1oKoTnf5bERKjEiobXAuyN) | [cinnamons](https://open.spotify.com/artist/5aAe7DHdSJgTpBijaxTUaf), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [summertime](https://open.spotify.com/album/0XVXtHzFXYjZLYnB2WuBcx) | 4:11 |
 | 18 | [アイドル](https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:31 |
 | 19 | [Say So \- Japanese Version](https://open.spotify.com/track/5ffxZNBRjeN0zONSHN7hUC) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [Say So \(Japanese Version\)](https://open.spotify.com/album/3fZyuxmL4fueMr2z8HDw3l) | 4:02 |
-| 20 | [UFO](https://open.spotify.com/track/7gDwEgiqWc1CDfH3k5e7Uy) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク4](https://open.spotify.com/album/2jUGpeu8yTfdwEgz0E0OH1) | 4:37 |
+| 20 | [UFO \(feat\. 初音ミク\)](https://open.spotify.com/track/7gDwEgiqWc1CDfH3k5e7Uy) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [きくおミク4](https://open.spotify.com/album/2jUGpeu8yTfdwEgz0E0OH1) | 4:37 |
 | 21 | [ふわふわpartyつられてhappy](https://open.spotify.com/track/6hSjxRSMgerzEqd8Pdeqa1) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふわふわpartyつられてhappy](https://open.spotify.com/album/1LVLw9sGxbXE5lcP1vx9B7) | 4:20 |
 | 22 | [ハニージェットコースター](https://open.spotify.com/track/59dSFwh9F6Pq3WobXmE8pn) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [ハニージェットコースター](https://open.spotify.com/album/1GL81cgTKaGahF1Kg5uC6R) | 3:35 |
 | 23 | [星間飛行](https://open.spotify.com/track/0qHT5elQ5RNmTA7oDKgb1m) | [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS) | [「マクロスF」星間飛行](https://open.spotify.com/album/7GWdlXZ5UrBgnA6Vc4LQ3k) | 3:51 |

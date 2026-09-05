@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Ghost Hounds",
-  "num_followers": 270173,
+  "num_followers": 270275,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFlEVS6aWuzDJOyNZLp6LFy+yiU",
+  "snapshot_id": "AAAAALu5VYGCGtDFmqFv4AqpGSkrpyad",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:23",
@@ -39,6 +39,26 @@
       "duration_ms": 174000,
       "name": "Evil Is a Corporation",
       "url": "https://open.spotify.com/track/1blW8N8bhFYbgurRHB9EnG"
+    },
+    {
+      "added_at": "2026-09-04 04:00:34",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/5uc5pTzmP5z9xkcCwOPGsu"
+      },
+      "artists": [
+        {
+          "name": "Tora Trio",
+          "url": "https://open.spotify.com/artist/5tIBZGUDcpDlahR8M8NXEm"
+        },
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1httKI7AShBFrUfR3jjKmh"
     },
     {
       "added_at": "2026-08-28 04:02:23",
@@ -1571,22 +1591,6 @@
       "duration_ms": 216384,
       "name": "Black Gold",
       "url": "https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs"
-    },
-    {
-      "added_at": "2026-08-28 04:02:23",
-      "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/7EGjTs8NlKUo0VEUXU1lJU"
-      },
-      "artists": [
-        {
-          "name": "Cobi",
-          "url": "https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/2dfcd7W3wOh7lCXTLYwF1C"
     },
     {
       "added_at": "2026-08-28 04:02:23",

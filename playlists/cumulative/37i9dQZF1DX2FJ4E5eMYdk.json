@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 292000,
       "name": "250 Miles",
       "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 390666,
       "name": "Cecil Taylor",
       "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
@@ -384,6 +384,24 @@
       "duration_ms": 273395,
       "name": "Century City",
       "url": "https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs"
+    },
+    {
+      "album": {
+        "name": "Wowed Out",
+        "url": "https://open.spotify.com/album/65AADj5uYQYxQYxuXHfl9e"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/23UmwWszk53DqTksWWAlTa"
     },
     {
       "album": {
@@ -643,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Forever, I've Been Being Born",
+        "url": "https://open.spotify.com/album/3VyvNsadYx06FdukB3xicS"
+      },
+      "artists": [
+        {
+          "name": "Jesse Sykes & The Sweet Hereafter",
+          "url": "https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222960,
+      "name": "Feather Treasure",
+      "url": "https://open.spotify.com/track/3gPJ9rfAs1taYcqhiHyclp"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB"
       },
@@ -726,7 +762,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
@@ -798,7 +834,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
@@ -816,7 +852,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 191801,
       "name": "Hanging On",
       "url": "https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk"
@@ -881,6 +917,24 @@
     },
     {
       "album": {
+        "name": "High School Gym",
+        "url": "https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250253,
+      "name": "High School Gym",
+      "url": "https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf"
+    },
+    {
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -914,6 +968,24 @@
       "duration_ms": 140164,
       "name": "Hippo",
       "url": "https://open.spotify.com/track/62ik4X7W26bB7X9JtJcTjY"
+    },
+    {
+      "album": {
+        "name": "Hard Hearted Woman",
+        "url": "https://open.spotify.com/album/1r3wE07afZnLGbikNXDt3X"
+      },
+      "artists": [
+        {
+          "name": "Ora Cogan",
+          "url": "https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7oCgYtZkRPGwqGIon03DyX"
     },
     {
       "album": {
@@ -982,7 +1054,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 311948,
       "name": "If I Were A Butterfly - Single Version",
       "url": "https://open.spotify.com/track/73zzUVGeD9dD7sLjNuAkpE"
@@ -1036,7 +1108,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 235407,
       "name": "Island Time",
       "url": "https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo"
@@ -1362,7 +1434,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
@@ -1488,7 +1560,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 331879,
       "name": "Motions - Far Out Version",
       "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
@@ -1582,7 +1654,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
@@ -1715,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Lagniappe Session",
+        "url": "https://open.spotify.com/album/4riFbIzAuXOwH3s6FzstTB"
+      },
+      "artists": [
+        {
+          "name": "Sonny & The Sunsets",
+          "url": "https://open.spotify.com/artist/67zR9a98QqWJwpO7wBrGog"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Our Love Will Still Be There",
+      "url": "https://open.spotify.com/track/1wJDuuHd4t1xfb2vdOxSsl"
+    },
+    {
+      "album": {
         "name": "There Will Come Soft Rains",
         "url": "https://open.spotify.com/album/4hfr4fU8gI3kqxgY9Exx0o"
       },
@@ -1766,6 +1856,42 @@
       "duration_ms": 363706,
       "name": "Partition",
       "url": "https://open.spotify.com/track/2zoJ9SMaicLiQc22enBTII"
+    },
+    {
+      "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/1NugzTHesSWhZAG34HIEzF"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/3VB7mQfM9kxTUQJC4ffxgx"
+    },
+    {
+      "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314367,
+      "name": "Please Follow",
+      "url": "https://open.spotify.com/track/1xbrpQQJy7bBN5y4Ch9xoC"
     },
     {
       "album": {
@@ -2036,7 +2162,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 262542,
       "name": "Sing a Glad Song",
       "url": "https://open.spotify.com/track/1rKcc3LdBjj2mTLBSjSYfW"
@@ -2054,7 +2180,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 311280,
       "name": "Some Sunsick Day",
       "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
@@ -2156,6 +2282,42 @@
       "duration_ms": 260090,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+    },
+    {
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/1MWyBGAfYok6QLMrotjJg6"
+      },
+      "artists": [
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240987,
+      "name": "Sunshine Kisses",
+      "url": "https://open.spotify.com/track/2M98LYO5rEMZg0xr4eFfPb"
+    },
+    {
+      "album": {
+        "name": "Take It As It Is",
+        "url": "https://open.spotify.com/album/5qMBpitswasvtiUvKmBFW3"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289313,
+      "name": "Take It As It Is",
+      "url": "https://open.spotify.com/track/1exBcwZfWI6lafCCDtauBp"
     },
     {
       "album": {
@@ -2412,7 +2574,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 281786,
       "name": "The Roundabout",
       "url": "https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M"
@@ -2542,7 +2704,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 255213,
       "name": "Waiting for an Invitation",
       "url": "https://open.spotify.com/track/71yh7sKS2R54c3qcGuRv2j"
@@ -2672,6 +2834,28 @@
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
+    },
+    {
+      "album": {
+        "name": "You've Got a Woman",
+        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205220,
+      "name": "You've Got a Woman",
+      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2FJ4E5eMYdk"

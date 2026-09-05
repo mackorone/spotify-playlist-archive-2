@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from True Mountain Laurel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,685,793 likes - 130 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685,664 likes - 130 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

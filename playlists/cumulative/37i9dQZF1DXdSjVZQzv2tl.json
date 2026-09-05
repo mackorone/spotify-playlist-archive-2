@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Pedro e Ben\u00edcio",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Countrybeat, Mari Fernandez",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -6716,6 +6716,28 @@
       "duration_ms": 151715,
       "name": "Rodeio no Texas \ud83d\udc02",
       "url": "https://open.spotify.com/track/5ZgXkKLoO5WIiyzaGsrQQ2"
+    },
+    {
+      "album": {
+        "name": "Role Perfeito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5dRfhwO5qRFMld99PBrOvb"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        },
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166791,
+      "name": "Role Perfeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr"
     },
     {
       "album": {

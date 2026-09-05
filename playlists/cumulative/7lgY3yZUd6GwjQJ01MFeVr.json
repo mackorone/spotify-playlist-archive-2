@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Today's top country music! Cover: Cameron Whitcomb",
+  "description": "Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson",
   "name": "Top Country Hits",
   "tracks": [
     {
@@ -5120,6 +5120,24 @@
       "duration_ms": 162962,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"
+    },
+    {
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/6sd9n4Olql9SvAGGx18Uvj"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/7kuB0axEoke7a3VxPlye6s"
     },
     {
       "album": {

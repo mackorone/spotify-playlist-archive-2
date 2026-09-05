@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Av5gtBFJK3uLX1577WWLE"
+      },
+      "artists": [
+        {
+          "name": "Soothee",
+          "url": "https://open.spotify.com/artist/3LpjAkAAk6I05jTHoUs1al"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137799,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4ZM2ZMmBFB28JP8FPz5syB"
+    },
+    {
+      "album": {
         "name": "4:40 Am",
         "url": "https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D"
       },
@@ -14456,7 +14474,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 114240,
       "name": "Morning bun",
       "url": "https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS"
@@ -15560,7 +15578,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 153333,
       "name": "night walk",
       "url": "https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr"
@@ -15614,7 +15632,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 130819,
       "name": "nightfalling",
       "url": "https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q"

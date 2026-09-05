@@ -1,13 +1,29 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 47625,
+  "num_followers": 47647,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3RQD/RImX06fESjeZfv+HAZjmf",
+  "snapshot_id": "AAAAAER7agz1kSM/xmt7zFEkBH7k4Q9v",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:00:27",
+      "album": {
+        "name": "What Animal Can You See?",
+        "url": "https://open.spotify.com/album/7LY7LaicvpQbyYtfD9Bhmi"
+      },
+      "artists": [
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "duration_ms": 193704,
+      "name": "What Animal Can You See?",
+      "url": "https://open.spotify.com/track/2SG8cRNWCYUXkTwDx1bs5i"
+    },
     {
       "added_at": "2025-11-07 05:00:39",
       "album": {
@@ -1087,22 +1103,6 @@
       "duration_ms": 112625,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/0Z96UW7qNqYHaCATMM4jxw"
-    },
-    {
-      "added_at": "2025-07-20 16:48:26",
-      "album": {
-        "name": "Loose Tooth",
-        "url": "https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7"
-      },
-      "artists": [
-        {
-          "name": "Juice Box Heroes",
-          "url": "https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Sound Like an Elephant",
-      "url": "https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3"
     },
     {
       "added_at": "2025-07-20 16:48:26",

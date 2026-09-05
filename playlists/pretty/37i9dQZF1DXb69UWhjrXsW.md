@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb69UWhjrXsW.md) - [plain]
 
 > The greatest songs in the history of cinema\. Celebrating Tim Curry in The Rocky Horror Picture Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,875 likes - 101 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,961 likes - 101 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

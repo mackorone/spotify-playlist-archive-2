@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "MY PRESCRIPTION",
+        "url": "https://open.spotify.com/album/6bEXc0169lrOiYuK0Q0fPT"
+      },
+      "artists": [
+        {
+          "name": "I Hate Myself Because",
+          "url": "https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136274,
+      "name": "MY PRESCRIPTION",
+      "url": "https://open.spotify.com/track/3hOGcPM8P6PJfZ2IE6kOpy"
+    },
+    {
+      "album": {
         "name": "Nadto",
         "url": "https://open.spotify.com/album/259b7V0g6ZgdtIrfb5eR3n"
       },
@@ -1854,24 +1872,6 @@
       "duration_ms": 150000,
       "name": "TIRED OF ME",
       "url": "https://open.spotify.com/track/0EurmNTrZzwhy5q03RLM2u"
-    },
-    {
-      "album": {
-        "name": "MY PRESCRIPTION",
-        "url": "https://open.spotify.com/album/6bEXc0169lrOiYuK0Q0fPT"
-      },
-      "artists": [
-        {
-          "name": "I Hate Myself Because",
-          "url": "https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3hOGcPM8P6PJfZ2IE6kOpy"
     },
     {
       "album": {
@@ -6130,7 +6130,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 92500,
       "name": "\u0437\u0434\u0430\u0442\u043d\u0456\u0441\u0442\u044c \u0431\u0443\u0442\u0438 \u0442\u0443\u0442",
       "url": "https://open.spotify.com/track/6PGFhn3NTw1jcfngN2gbuN"
@@ -9320,7 +9320,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210543,
       "name": "\u043d\u0430\u043c",
       "url": "https://open.spotify.com/track/72zEEwxCt2YxVw9o4rx6Df"

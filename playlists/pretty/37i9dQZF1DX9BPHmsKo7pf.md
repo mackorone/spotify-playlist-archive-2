@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: MADATORRICELLI
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,089 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,105 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 37 | [Cupidoane](https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Cupidoane](https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih) | 2:26 |
 | 38 | [Sufăr în tăcere](https://open.spotify.com/track/7gk7ms2yEA5aRFBjw8a2je) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP), [EFRA](https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w) | [Sufăr în tăcere](https://open.spotify.com/album/46Qw3bBG5xVH1qA0Wh3RKD) | 2:49 |
 | 39 | [Mă sună nebunele](https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Mă sună nebunele](https://open.spotify.com/album/4N4PLJa3NezmNCZugWYRqN) | 3:09 |
-| 40 | [Ramai talent](https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y) | [Luis Gabriel](https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob) | [Ramai talent](https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI) | 3:17 |
+| 40 | [Ramai talent](https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y) | [Luis Gabriel](https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82) | [Ramai talent](https://open.spotify.com/album/3UwL6QYrfWnsb0rWA5FKJI) | 3:17 |
 | 41 | [Te juri ca vrei](https://open.spotify.com/track/6HyehozKV4IAOs4HCfOvKF) | [Mariano](https://open.spotify.com/artist/6lrgzrRBuMJQZeHMLTBpCg) | [Te juri ca vrei](https://open.spotify.com/album/4053tbO4BfcEx1t6HIHwhk) | 2:43 |
 | 42 | [MDS](https://open.spotify.com/track/7d90mcFcXgy1L4BJqiAoLX) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [MDS](https://open.spotify.com/album/0brffAQ1q3pYTL3B2bimVF) | 3:28 |
 | 43 | [Papaya](https://open.spotify.com/track/3x380J5Y7jLYz9x8vvzKvb) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Papaya](https://open.spotify.com/album/1UenUJrXtzk52Febj4QGoF) | 2:42 |

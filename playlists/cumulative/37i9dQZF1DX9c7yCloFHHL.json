@@ -3112,7 +3112,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 198880,
       "name": "ARMOUNIUM",
       "url": "https://open.spotify.com/track/1dO5K2NVmlxbCXMGwPUq2y"
@@ -5335,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/2T4SgeHHvYmenYQq4lCerj"
+      },
+      "artists": [
+        {
+          "name": "Rosentwig",
+          "url": "https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240826,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0KyMzxZEF3Z9gRcTOq6oJ7"
+    },
+    {
+      "album": {
         "name": "Bloom: Living World - Single",
         "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
       },
@@ -7317,6 +7335,32 @@
     },
     {
       "album": {
+        "name": "Circle 71 (Frequency of the River)",
+        "url": "https://open.spotify.com/album/0t0wVJcpc3r9m2Oregi4K3"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "Amor Reluciente",
+          "url": "https://open.spotify.com/artist/6hud3fxli0d2TxlWiS4EtF"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356470,
+      "name": "Circle 71 (Frequency of the River)",
+      "url": "https://open.spotify.com/track/5POeBhzJJTsf2qyza74tue"
+    },
+    {
+      "album": {
         "name": "Circle 72 (Summer Hum)",
         "url": "https://open.spotify.com/album/3w8hHfe15rdE2PLQeFjw8C"
       },
@@ -8371,6 +8415,28 @@
     },
     {
       "album": {
+        "name": "cool girls go to heaven",
+        "url": "https://open.spotify.com/album/1LXqUMFUVsiQY9c32Wyq4F"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Martyna Basta",
+          "url": "https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "cool girls go to heaven",
+      "url": "https://open.spotify.com/track/4HkQtiWQC9VfeYZzfESHaS"
+    },
+    {
+      "album": {
         "name": "Twin Color (Extended Play No. 2)",
         "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
       },
@@ -8782,7 +8848,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 211767,
       "name": "Dangerous Man - From \"The Six Billion Dollar Man\"",
       "url": "https://open.spotify.com/track/2Phx3JTv7BrRW9crlEZmkw"
@@ -12299,6 +12365,28 @@
     },
     {
       "album": {
+        "name": "Falling and Fragmentation",
+        "url": "https://open.spotify.com/album/0bMntYjNzLPXKocSysXInh"
+      },
+      "artists": [
+        {
+          "name": "Midori Takada",
+          "url": "https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n"
+        },
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501573,
+      "name": "Falling and Fragmentation",
+      "url": "https://open.spotify.com/track/5uE7CpImPBnxvseuMcFEHh"
+    },
+    {
+      "album": {
         "name": "Falling Back",
         "url": "https://open.spotify.com/album/3BBD3CKJmuYDMxotsvQv2J"
       },
@@ -13641,6 +13729,24 @@
     },
     {
       "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/2A5pQEn7L2DgcKzMyfEKVo"
+      },
+      "artists": [
+        {
+          "name": "Klara Lewis",
+          "url": "https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Forts\u00e4tt",
+      "url": "https://open.spotify.com/track/3N5cS13K5x3MNzkw3DPLnv"
+    },
+    {
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/6f0ELW7CR2CWxYf859r71X"
       },
@@ -14133,6 +14239,24 @@
     },
     {
       "album": {
+        "name": "Funeral\uff1a\u846c\u9001",
+        "url": "https://open.spotify.com/album/7cgh7MbrK82gaT2EECmRBa"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302086,
+      "name": "Funeral\uff1a\u846c\u9001",
+      "url": "https://open.spotify.com/track/4aAZKTeSiIWDV74F7FSrRy"
+    },
+    {
+      "album": {
         "name": "Decomposition: Fox on a Highway",
         "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
@@ -14500,7 +14624,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 139924,
       "name": "Glass Memories",
       "url": "https://open.spotify.com/track/4JYkPb9zGLEvCNRRRDEb6Y"
@@ -16570,7 +16694,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 227477,
       "name": "I had always been here",
       "url": "https://open.spotify.com/track/4eLndetXjlewTGKO6Emm3t"
@@ -16686,6 +16810,24 @@
       "duration_ms": 1077812,
       "name": "I Remember You Like the Best Song",
       "url": "https://open.spotify.com/track/0NKexfIeqfKHetCuMyuwJ7"
+    },
+    {
+      "album": {
+        "name": "Kitsune no yomeiri",
+        "url": "https://open.spotify.com/album/0Auhu8rELM7GhsaZIpKgmr"
+      },
+      "artists": [
+        {
+          "name": "Michael Scott Dawson",
+          "url": "https://open.spotify.com/artist/3ZRhu9lOqRMfE3ou2ORPLq"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250964,
+      "name": "I Saw The City From A Taxi",
+      "url": "https://open.spotify.com/track/6Mk6xdrU7yIVuOKfNUvhfW"
     },
     {
       "album": {
@@ -16888,7 +17030,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 212783,
       "name": "I'm Writing a New Song Every Month from One Birthday til the Next: July",
       "url": "https://open.spotify.com/track/2zVVm738JTdjncCZoLFYL8"
@@ -18512,7 +18654,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 172023,
       "name": "kai",
       "url": "https://open.spotify.com/track/1oRUA9u7jURsNfXWiifwhB"
@@ -21719,6 +21861,24 @@
     },
     {
       "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/3ft2ciSLYU5tmxZGDVuBv3"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352377,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/1HZKVYH50pY9s8IbpCezCP"
+    },
+    {
+      "album": {
         "name": "Missing Places I've Never Been",
         "url": "https://open.spotify.com/album/0PbMNDMPVfWieY0Mvl9p61"
       },
@@ -22248,7 +22408,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 161746,
       "name": "mirada brillante",
       "url": "https://open.spotify.com/track/27X5DcBfODxhUIifleMa3E"
@@ -23864,6 +24024,24 @@
       "duration_ms": 213416,
       "name": "NIGHTS LIKE THIS PT 2 (Ambient Demo Version)",
       "url": "https://open.spotify.com/track/0r2CKH0iwo4O2FaVX4RxqJ"
+    },
+    {
+      "album": {
+        "name": "Life Extension",
+        "url": "https://open.spotify.com/album/4sq1bkOs9N7h7yIvbGnUC9"
+      },
+      "artists": [
+        {
+          "name": "Canva6",
+          "url": "https://open.spotify.com/artist/5PrOoIDBKhbKUY90DYMRva"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Nigredo Phase",
+      "url": "https://open.spotify.com/track/1fRCPgaROpSH3naiooXknD"
     },
     {
       "album": {
@@ -30859,6 +31037,24 @@
     },
     {
       "album": {
+        "name": "Remnants and Whispers",
+        "url": "https://open.spotify.com/album/1fqbWApJPH1snrmadN0l1p"
+      },
+      "artists": [
+        {
+          "name": "Blurstem",
+          "url": "https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146664,
+      "name": "Shelter for the Quiet",
+      "url": "https://open.spotify.com/track/4nX5p69spLsF9zIC206Mef"
+    },
+    {
+      "album": {
         "name": "Shifen Falls",
         "url": "https://open.spotify.com/album/5B1fJdXPzFJcLoVOl4SmYG"
       },
@@ -31236,7 +31432,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 134000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/7npFQpoVFC5Cgt0MjkZ4kd"
@@ -31864,7 +32060,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 176842,
       "name": "So Hum",
       "url": "https://open.spotify.com/track/70od375j0F72wpQFxUInC7"
@@ -33170,6 +33366,24 @@
       "duration_ms": 285000,
       "name": "still life",
       "url": "https://open.spotify.com/track/5qOpSkCtp0twDYGpCE6UnP"
+    },
+    {
+      "album": {
+        "name": "About now",
+        "url": "https://open.spotify.com/album/3Ll9V1huQ4OGjnuCc2kgM1"
+      },
+      "artists": [
+        {
+          "name": "where??",
+          "url": "https://open.spotify.com/artist/6bUr4trSlpbXmrXvVhRuRL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158718,
+      "name": "Still there ?",
+      "url": "https://open.spotify.com/track/5AJtDvjGRwX2ddPn918HhX"
     },
     {
       "album": {
@@ -38028,7 +38242,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 281479,
       "name": "Vali",
       "url": "https://open.spotify.com/track/03ssucIHmJL9BPu9FzttRu"
@@ -38224,7 +38438,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 106000,
       "name": "Ventricle - Audio 00V Mix",
       "url": "https://open.spotify.com/track/3pZvFPTVAPDvhpCV3v9cIp"
@@ -39824,7 +40038,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 200000,
       "name": "While Seeing In Ultraviolet",
       "url": "https://open.spotify.com/track/0zk5CpStq7IELCQOLQJP8o"
@@ -39972,6 +40186,24 @@
       "duration_ms": 418695,
       "name": "Wide Open (In Two Parts)",
       "url": "https://open.spotify.com/track/2VbKTylpVGCBiKqTfeVmze"
+    },
+    {
+      "album": {
+        "name": "Wild At Heart",
+        "url": "https://open.spotify.com/album/7JDynZwk9Zeb2lxlqBFJyP"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Wild At Heart",
+      "url": "https://open.spotify.com/track/5w9WHq9dauE06RlxFEDEB1"
     },
     {
       "album": {

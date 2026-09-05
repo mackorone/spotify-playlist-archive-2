@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 18236,
+  "num_followers": 18266,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 228840,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 207403,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "JEUNE&INNOCENT",
         "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "R\u00c9SONANCE",
-        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
-      },
-      "artists": [
-        {
-          "name": "Josey",
-          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Woman King (T'as Capt\u00e9)",
-      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 260133,
       "name": "\u00c9pouse-moi",
       "url": "https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "R\u00c9SONANCE",
+        "url": "https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha"
+      },
+      "artists": [
+        {
+          "name": "Josey",
+          "url": "https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq"
+        }
+      ],
+      "duration_ms": 167704,
+      "name": "Woman King (T'as Capt\u00e9)",
+      "url": "https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1059,26 +1059,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "En Haut",
-        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Jr La Melo",
-          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
-        },
-        {
-          "name": "Tam Sir",
-          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 172394,
-      "name": "En Haut",
-      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
+      "duration_ms": 208484,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1147,18 +1139,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN"
+        "name": "En Haut",
+        "url": "https://open.spotify.com/album/3Ge3t58NoBmGiEdeqIXh1F"
       },
       "artists": [
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Jr La Melo",
+          "url": "https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU"
+        },
+        {
+          "name": "Tam Sir",
+          "url": "https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X"
         }
       ],
-      "duration_ms": 208484,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm"
+      "duration_ms": 172394,
+      "name": "En Haut",
+      "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1175,22 +1175,6 @@
       "duration_ms": 214777,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
       "added_at": "2026-08-21 10:56:34",
@@ -1211,6 +1195,22 @@
       "duration_ms": 162653,
       "name": "MINIMUM (feat. d\u00f8pelym)",
       "url": "https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1491,22 +1491,22 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "Biso Mibale (feat. Jungeli)",
-        "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
+        "name": "Gba Gba (feat. Toofan)",
+        "url": "https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm"
       },
       "artists": [
         {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+          "name": "Axel Merryl",
+          "url": "https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq"
         },
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
         }
       ],
-      "duration_ms": 177692,
-      "name": "Biso Mibale (feat. Jungeli)",
-      "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
+      "duration_ms": 176250,
+      "name": "Gba Gba (feat. Toofan)",
+      "url": "https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89"
     }
   ],
   "unique_name": "Francophone.wav",

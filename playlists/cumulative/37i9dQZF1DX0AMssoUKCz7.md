@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-768 songs - 1 day 14 hr 38 min
+769 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alive](https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Will Rumens](https://open.spotify.com/artist/5TfjEnaDv8EQY3ZHdFhi10), [James Goodwin](https://open.spotify.com/artist/7mwW4BNynO3Apo4zOaX6NE) | [Alive](https://open.spotify.com/album/50iBssHKHKsQNrvQ5t434t) | 2:37 | 2022-01-14 | 2023-05-13 |
 | [All I Need](https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [All I Need](https://open.spotify.com/album/08cpmAgexKWlRgAMouQKNk) | 2:31 | 2022-12-23 | 2023-02-15 |
 | [All I Wanna Do](https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8) | 3:14 | 2022-04-01 | 2022-04-21 |
+| [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 | 2026-09-04 |  |
 | [All or Nothing \(feat\. Axel Ehnström\) \- Sultan + Shepard Remix](https://open.spotify.com/track/52DNTZvyZREUZC6dEjq3J6) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [All Or Nothing \(feat\. Axel Ehnström\) \[Remixes Part 2\]](https://open.spotify.com/album/5hYQG9MTBpC3SRpTpJoC36) | 3:35 | 2022-01-14 | 2022-07-29 |
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2022-04-01 | 2024-05-04 |
 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 | 2022-01-14 | 2024-05-04 |
@@ -702,7 +703,7 @@
 | [Too Sweet](https://open.spotify.com/track/4Z3F8VnLHzcIRNDRRJmr8P) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [The Macarons Project](https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r) | [Too Sweet](https://open.spotify.com/album/2SPkdaGAzaDdftkh0EvyMJ) | 2:44 | 2025-11-28 |  |
 | [Tranquillity](https://open.spotify.com/track/6FRPp1RZx4bXvAP95Qmodx) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Tranquillity](https://open.spotify.com/album/2Lnj7ff21zvRM5PcYHkDTq) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Tripping Off](https://open.spotify.com/track/5JdhojQ6h2Cy2t6uH5jPAa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Layers](https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB) | 2:56 | 2022-02-18 | 2022-04-16 |
-| [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 | 2024-05-10 |  |
+| [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Triste Serenata \(feat\. French Braids\)](https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm) | 3:59 | 2024-05-10 | 2026-09-05 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-09 |  |
 | [Turn Up The Love](https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Turn Up The Love](https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5) | 3:06 | 2025-07-04 |  |
 | [Twilight](https://open.spotify.com/track/2fvhV6sto6aEblNbnZmttv) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [NVRT](https://open.spotify.com/artist/6qxvo887cuQQjfMEtyE0v7) | [Twilight](https://open.spotify.com/album/7mtiizlT8Gub2HvVSU0NHZ) | 3:22 | 2022-01-14 | 2022-11-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,782 songs - 10 day 17 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,784 songs - 10 day 17 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4790,5 +4790,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4780 | [Stone Cold](https://open.spotify.com/track/1MLRCcRlekC4jNsCpZIDKE) | [NitRo \- Tunes](https://open.spotify.com/artist/4jYkECQhDrMZPm8DNPafYP) | [Stone Cold](https://open.spotify.com/album/4ihqlf4aQHfoU3iiXST8i3) | 3:47 |
 | 4781 | [I Lose My Breath](https://open.spotify.com/track/4uUBuyQNUspHGt7eLIDofM) | [Nina Jasem](https://open.spotify.com/artist/6q13pDGfCcKImeMi8lITx7) | [I Lose My Breath](https://open.spotify.com/album/63l12zfjQAJ7Q2tjjXQHzN) | 3:30 |
 | 4782 | [Two Dollars](https://open.spotify.com/track/2rTQFoaVsvgf9atMLs6Hoy) | [Charlie Vernon](https://open.spotify.com/artist/2Qg6A0rfG9zGrnrZX0kNE0) | [Two Dollars](https://open.spotify.com/album/0psp2h6ZR6w4qtStUWAw4W) | 3:21 |
+| 4783 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 |
+| 4784 | [Return Of My Heart](https://open.spotify.com/track/4AguWjDrUwF7g5ADBIwTni) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Return Of My Heart](https://open.spotify.com/album/0MIP1A1PL4lDRCjagEwy1q) | 4:59 |
 
-Snapshot ID: `AAAJ79h3udecomj6ivq2r3aDoAdVNvXC`
+Snapshot ID: `AAAJ8Qsv9b3L1MnIECqkqZxO1wPF+wkv`

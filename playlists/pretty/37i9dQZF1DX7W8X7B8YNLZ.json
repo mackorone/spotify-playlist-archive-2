@@ -1,12 +1,12 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 129728,
+  "num_followers": 629363,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHPEYGUItXnk4ZVF0egQ9id8Ybm",
+  "snapshot_id": "AAAAAEC240lRQddMbN9pGnsbdeaU7OUT",
   "tracks": [
     {
       "added_at": "2025-12-28 17:29:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Magnolias for Ever",
-        "url": "https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Alexandrie Alexandra",
-      "url": "https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "20eme anniversaire",
         "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Mon Fr\u00e8re",
-        "url": "https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu"
+        "name": "Magnolias for Ever",
+        "url": "https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM"
       },
       "artists": [
         {
-          "name": "Maxime Le Forestier",
-          "url": "https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC"
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
         }
       ],
-      "duration_ms": 165560,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P"
+      "duration_ms": 262186,
+      "name": "Alexandrie Alexandra",
+      "url": "https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -307,6 +291,22 @@
       "duration_ms": 178506,
       "name": "Si maman si - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Mon Fr\u00e8re",
+        "url": "https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu"
+      },
+      "artists": [
+        {
+          "name": "Maxime Le Forestier",
+          "url": "https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P"
     },
     {
       "added_at": "2025-12-28 17:29:00",

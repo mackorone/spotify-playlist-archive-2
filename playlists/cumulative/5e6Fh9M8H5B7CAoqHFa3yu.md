@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,518 songs - 6 day 4 hr 10 min
+2,524 songs - 6 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Aximal \(Tor.Ma in Dub Remix\)](https://open.spotify.com/track/3EfxhmnFM1A33SlckpHskP) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Uncoded](https://open.spotify.com/album/547dqtF5bXKhGC0Bgh6eu2) | 3:08 | 2024-10-04 |  |
 | [Açores](https://open.spotify.com/track/3EZxs3OD4ozC7wE0seaLGn) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 4:15 | 2024-02-06 |  |
 | [A–Z Self\-Love & Feelings Kids Song](https://open.spotify.com/track/3mjzeqz8sQqh3335cmKaPn) | [CogniSongs](https://open.spotify.com/artist/3xLSyJ9ROxRRh2wPaByWQx) | [I Know my ABC's \(Letters, Phonics, Emotions\)](https://open.spotify.com/album/2UFrDs90jKe3iLewrayXRX) | 3:11 | 2026-06-25 |  |
+| [Babalei](https://open.spotify.com/track/6GVxeypcw1ZzU38FFEyypy) | [Kwame \(IT\)](https://open.spotify.com/artist/284XrwH61fdYHZ2DgdP1cR) | [Babalei](https://open.spotify.com/album/0BtrNBIBjLrvkRceu1tN26) | 2:12 | 2026-09-04 |  |
 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 | 2025-11-21 |  |
 | [Babbo Natale Trap](https://open.spotify.com/track/4RCD3bN1py1BuM47BFGzzY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 2:17 | 2025-12-19 |  |
 | [Baby malavida](https://open.spotify.com/track/4QAuWaUyFkxEBcIn6iS8Ig) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Baby malavida](https://open.spotify.com/album/2nsgGcMZxnXcI7bFOjeS0D) | 4:18 | 2025-06-09 |  |
@@ -354,6 +355,7 @@
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 | 2026-03-12 |  |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-03-15 |  |
+| [Ceniza en tu Boca](https://open.spotify.com/track/5EE74A4rTfwVOs5NwikSxk) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ceniza en tu Boca](https://open.spotify.com/album/7JsbWT2tk37LB3aPI2zBZO) | 3:28 | 2026-09-04 |  |
 | [Ceniza en tu Boca](https://open.spotify.com/track/5wxExH3v0AfHqqD3r4tJCm) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 | 2026-08-22 |  |
 | [Cenário Apocalíptico](https://open.spotify.com/track/6Ub64JpRN7CNzBFRQtSD4n) | [Tapuru](https://open.spotify.com/artist/6efhglYGjl31jFVNDRzHzh) | [Ignorância Natural](https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld) | 2:43 | 2025-06-07 |  |
 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2026-01-03 |  |
@@ -449,6 +451,7 @@
 | [Cumbia Loca \- Radio Edit](https://open.spotify.com/track/6gonmNwIjkKGnjqtkXppC6) | [Millonzi](https://open.spotify.com/artist/0QNGrzVmq2HdKLMln6VJP1) | [Cumbia Loca](https://open.spotify.com/album/4fuAu1zjMIVb8GKIfGK5sE) | 2:28 | 2024-03-08 |  |
 | [Cuori Spezzati](https://open.spotify.com/track/1iWK26b8P1irLHHPs7vp3k) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Gianluca Di Liberto](https://open.spotify.com/artist/1E2mnomYzAUhjDsShhKO30) | [Cuori Spezzati](https://open.spotify.com/album/4TUKwACe7NVIRjUE7WZXY2) | 5:06 | 2024-09-25 |  |
 | [Cupicide](https://open.spotify.com/track/47YIjbDL4f9cepSiNE0NPL) | [Lil Mvrty](https://open.spotify.com/artist/2op9Ee1lQWYiX6PM6P0Uys) | [Cupicide](https://open.spotify.com/album/1a0h2RPVsA9u5bzp0PvMRM) | 2:20 | 2026-05-18 |  |
+| [Curse](https://open.spotify.com/track/1UYXrUo4FCstxVJhV4wl1k) | [Necessary Evil](https://open.spotify.com/artist/6olIVnTb0JPsX8yhx3LPzZ) | [Curse](https://open.spotify.com/album/1VKW2t9mPymX1bL9YxAKFj) | 3:46 | 2026-09-04 |  |
 | [Cuss Cuss](https://open.spotify.com/track/7JdLACVKXzvT8wJA32gNUZ) | [iRoadie](https://open.spotify.com/artist/56jfhiR6kH8LWAliJ74xPp), [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI) | [Dub Time](https://open.spotify.com/album/7joWklqpz4DHv9bEbnziBM) | 4:57 | 2024-03-25 |  |
 | [Cycle Dub](https://open.spotify.com/track/4OZhkME5qEVXBgkCwsl4S8) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 4:24 | 2024-03-25 |  |
 | [Cypher Dust](https://open.spotify.com/track/32Zk8ZgVRf69UK6xIS5gW3) | [akawave](https://open.spotify.com/artist/5NSr7TIr69IGWkUdiJp79j) | [Cypher Dust](https://open.spotify.com/album/4ECCzaDYIUwXVPqKIbNSHe) | 3:21 | 2026-02-07 |  |
@@ -677,6 +680,7 @@
 | [Ethiopian Serenade](https://open.spotify.com/track/3GQEsHrbSIjjRkres0B2Dy) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 4:12 | 2024-03-25 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-24 |  |
 | [Eu Encontrei o Meu Amado](https://open.spotify.com/track/2kbnUCwz6AuDJWzpaWU4AB) | [Coral Gospel Vozes do Reino](https://open.spotify.com/artist/3gagHz1qMqB585kOByz8b3) | [Eu Encontrei o Meu Amado](https://open.spotify.com/album/4SdYNqafdrHadxG3l9okCi) | 2:35 | 2026-06-08 |  |
+| [Eu não vou recuar](https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [Mentiras e Clichês](https://open.spotify.com/album/0vutxwSLdsysrh8NgnuxZX) | 3:24 | 2026-09-04 |  |
 | [Evergreen](https://open.spotify.com/track/0LBEOeof0S5JA9ELSvc5C0) | [Cole Dine](https://open.spotify.com/artist/3aa40HerOqJBvwU4YcYeEL) | [Evergreen](https://open.spotify.com/album/4wtQiS8HQpQDXf3Ot0ydJG) | 4:35 | 2025-11-05 |  |
 | [Every Little Thing \(feat\. Irfane and Teki Latex\)](https://open.spotify.com/track/2ExQbV5IFG5ur4KnDIjIZn) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Teki Latex](https://open.spotify.com/artist/1hJv8PCKb3M0PSHQ9UxgCa) | [Passion](https://open.spotify.com/album/7m9hiaOiKQFcjGS0r60oWw) | 4:09 | 2025-05-28 |  |
 | [Everything Everywhere](https://open.spotify.com/track/1ktcfP4MInTWqfoepu0wW8) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [Everything Everywhere](https://open.spotify.com/album/6YNwZKzx3IxE35nl8TTyPF) | 2:46 | 2025-06-30 |  |
@@ -1339,6 +1343,7 @@
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2023-03-15 |  |
 | [Matic Manor](https://open.spotify.com/track/50qdtQrS8p3kvQXNguELeg) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:18 | 2024-03-23 |  |
 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-23 |  |
+| [Maweni Beach](https://open.spotify.com/track/20UqsbhbDwYPzgugBvdFYI) | [Amina Zawadi](https://open.spotify.com/artist/4klT5T78Zj8Kaq0XDP6d6i) | [Maweni Beach](https://open.spotify.com/album/2fwEE4BofUmXMem9fHDV1r) | 2:19 | 2026-09-04 |  |
 | [May It Be](https://open.spotify.com/track/1wIQ2Nm0raqOapHK4bCD3J) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [May It Be](https://open.spotify.com/album/6o6RblnNPtSpuIdv5p2cZe) | 3:31 | 2023-03-15 |  |
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
 | [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 | 2026-08-21 |  |
@@ -1361,6 +1366,7 @@
 | [Melodica Cut](https://open.spotify.com/track/1dhPSoTFXjjuSb0vdTK7XY) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 3:39 | 2024-05-01 |  |
 | [Melodica Dub](https://open.spotify.com/track/6dZp4XHxt5mlrcJYjC7nTM) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:24 | 2024-03-10 |  |
 | [Melody Drum](https://open.spotify.com/track/2l6j7BHO8gIxCB4NQAx0SJ) | [Jo\-Pan](https://open.spotify.com/artist/4QErm37yHLX57S4SZ6DAyD) | [Melody Drum](https://open.spotify.com/album/2XsiwuT93gcpppshxscHcU) | 4:17 | 2025-11-05 |  |
+| [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 | 2026-09-04 |  |
 | [Men](https://open.spotify.com/track/220iiQKMH4ZMfHERBJSRJC) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 4:54 | 2025-09-17 |  |
 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 | 2026-07-09 |  |
 | [Merri \- Go](https://open.spotify.com/track/5sgEWkDU0LZ1TtH5TZ9Ibp) | [JayzDayz](https://open.spotify.com/artist/6pd58j15goA4rLevfgIVAC) | [Jealousy Never Blooms](https://open.spotify.com/album/4UIZSIxQ32CLauUcxfRHBC) | 2:58 | 2026-01-10 |  |

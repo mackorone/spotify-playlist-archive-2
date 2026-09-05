@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
-  "num_followers": 121277,
+  "num_followers": 121275,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
-        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
-        }
-      ],
-      "duration_ms": 189412,
-      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
-    },
-    {
-      "added_at": "2026-09-01 15:00:11",
-      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
-        "name": "Corridor",
-        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
+        "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV"
       },
       "artists": [
         {
-          "name": "balloon",
-          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
         }
       ],
-      "duration_ms": 233875,
-      "name": "\u30b7\u30e3\u30eb\u30eb",
-      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
+      "duration_ms": 189412,
+      "name": "\u30ea\u30ec\u30a4\u30a2\u30a6\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh"
     },
     {
       "added_at": "2026-09-01 15:00:11",
@@ -747,6 +731,22 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
+        "name": "Corridor",
+        "url": "https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "duration_ms": 233875,
+      "name": "\u30b7\u30e3\u30eb\u30eb",
+      "url": "https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h"
+    },
+    {
+      "added_at": "2026-09-01 15:00:11",
+      "album": {
         "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
         "url": "https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
-        "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/16SvnBKXEzmtM4k52ffSEW"
-      },
-      "artists": [
-        {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        }
-      ],
-      "duration_ms": 157413,
-      "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7whlwTE5UoGiYLW30zTb9H"
-    },
-    {
-      "added_at": "2026-09-01 15:00:11",
-      "album": {
         "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
         "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 169529,
       "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
       "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
+    },
+    {
+      "added_at": "2026-09-01 15:00:11",
+      "album": {
+        "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/16SvnBKXEzmtM4k52ffSEW"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 157413,
+      "name": "\u30c0\u30df\u30fc\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7whlwTE5UoGiYLW30zTb9H"
     },
     {
       "added_at": "2026-09-01 15:00:11",

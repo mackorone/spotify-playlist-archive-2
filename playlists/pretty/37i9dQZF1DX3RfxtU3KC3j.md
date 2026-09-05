@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Göksel İpekçi
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,840 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,826 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [34](https://open.spotify.com/track/0E21vFmhXTOrx2dfStBodo) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [34](https://open.spotify.com/album/1dqIcygA9pOdu7uuf4ZBHM) | 2:08 |
 | 2 | [Canımın Sultanı](https://open.spotify.com/track/1yrF7zirmHKdsNuh8jSWiC) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Canımın Sultanı](https://open.spotify.com/album/1rIRMeTPk9YfSSPhmzwbCb) | 2:51 |
 | 3 | [Özgürlüğün Sebebi](https://open.spotify.com/track/3EUSNnuJgJFhq6tqZG1pYN) | [Efe Ünsalan](https://open.spotify.com/artist/2PY8RVWVxw1rqJaVJEzMn5) | [İstanbul'a Bir Kartpostal](https://open.spotify.com/album/0Fccua3cXwXfok3nYrULcG) | 4:12 |
-| 4 | [Track 9](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 0:00 |
+| 4 | [Yarım Ağız](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 4:28 |
 | 5 | [Ölürüm Daha İyi](https://open.spotify.com/track/7AZFyg2bqG4lcxCWpXYfup) | [Model](https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq) | [Ölürüm Daha İyi](https://open.spotify.com/album/2ZNObyR8dNJNyKYHH65LkT) | 4:08 |
-| 6 | [Track 1](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 0:00 |
+| 6 | [Dönme Dolaplar](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 3:07 |
 | 7 | [Belki](https://open.spotify.com/track/0MawbnN0HQJyLmvIdkIXFk) | [Mesafeler](https://open.spotify.com/artist/75z8pyZCUDFOCeYgRo9SXL) | [Belki](https://open.spotify.com/album/5De2NDPMVu3WKyrDDQwseO) | 4:51 |
 | 8 | [İkimize Ait Bir Yer](https://open.spotify.com/track/1StIoPwQr5O3WhM0bDo6jz) | [Birileri](https://open.spotify.com/artist/1JSlQod7y9LeC8hWvQqQtR) | [İkimize Ait Bir Yer](https://open.spotify.com/album/0vhrB6I2NvCfJBU0Nd2SZk) | 3:36 |
 | 9 | [Eski](https://open.spotify.com/track/1WT89oaLVWaHeksodkHQHO) | [MA RA](https://open.spotify.com/artist/768QxHapruFsSAhTeWlrlw) | [Eski](https://open.spotify.com/album/2BDquMQouyVrBIp8mYVubk) | 3:43 |

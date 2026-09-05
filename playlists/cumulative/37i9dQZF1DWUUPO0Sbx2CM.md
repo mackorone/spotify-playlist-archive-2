@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-632 songs - 1 day 10 hr 31 min
+633 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [NO SKIPS](https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS / GOOD OLD DAYS](https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X) | 3:10 | 2025-09-14 | 2026-08-19 |
 | [Nobody](https://open.spotify.com/track/3LxnSVRPRzPZdhNlu3d6W9) | [Bryan Boliver](https://open.spotify.com/artist/2xdw8Aa0DRetWarKBDZlwi) | [In the Meantime...](https://open.spotify.com/album/3PI4D4ObSCHUXpX3RWI9tC) | 4:13 | 2021-10-31 | 2022-07-04 |
 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 | 2021-10-31 | 2023-02-08 |
-| [Nobody Knows](https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK) | [Holmes John](https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL) | [Nobody Knows](https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj) | 3:44 | 2026-08-18 |  |
+| [Nobody Knows](https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK) | [Holmes John](https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL) | [Nobody Knows](https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj) | 3:44 | 2026-08-18 | 2026-09-05 |
 | [Nobody Like You](https://open.spotify.com/track/1JQDKOX5e64PlC8KstOEKY) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 3:06 | 2021-10-31 | 2022-07-31 |
 | [Nobody Like You](https://open.spotify.com/track/56g5Uk1PQinVoOK8y8bt5S) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/0DKHpIt25jPZ3uUrlu3Wi6) | 3:06 | 2021-10-31 | 2022-06-17 |
 | [Nostalgia](https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Nostalgia](https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD) | 4:56 | 2023-02-07 | 2024-07-20 |
@@ -470,6 +470,7 @@
 | [Praise \- Reyer Remix](https://open.spotify.com/track/6lYmKR5FeAasPAvNuDGhd1) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN) | [Praise \(Reyer Remix\)](https://open.spotify.com/album/7zXw7h3RkosuphJ9pKO3ov) | 2:40 | 2026-08-18 |  |
 | [praise forever.](https://open.spotify.com/track/77l9hPdrWcZpGnM10Whm38) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [praise forever.](https://open.spotify.com/album/5GQm3dPBhZXRgyTkeS7uCo) | 2:47 | 2026-08-18 |  |
 | [Praise Him](https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4) | [Megamind Nova](https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC), [MacD](https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh) | [Praise Him](https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R) | 7:14 | 2026-08-18 |  |
+| [Praise His Holy Name \- House Remix](https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV) | [Maurice Joshua](https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Praise His Holy Name \(House Remix\)](https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf) | 4:05 | 2026-08-18 |  |
 | [PRAISES \(remix\)](https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [PRAISES \(remix\)](https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW) | 2:50 | 2024-07-19 | 2026-03-24 |
 | [Praying Out Loud \- Arknn Remix](https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Arknn](https://open.spotify.com/artist/11mVkZmDJloz6UzalAaZJ4) | [Praying Out Loud \(Arknn Remix\)](https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6) | 3:04 | 2026-08-18 |  |
 | [Praying Out Loud \- Cade Legat Remix](https://open.spotify.com/track/5Rm7Bu9wnKisXPe0I4yjMW) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Cade Legat](https://open.spotify.com/artist/59QXs8tHKK8DPrH65Azhus) | [Praying Out Loud \(Cade Legat Remix\)](https://open.spotify.com/album/7DgOkaj6xAaioo2h1aZYJG) | 3:21 | 2025-09-14 | 2026-03-24 |

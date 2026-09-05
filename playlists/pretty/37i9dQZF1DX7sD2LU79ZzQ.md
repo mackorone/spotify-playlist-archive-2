@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lomba Sihir
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,588 likes - 124 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,612 likes - 124 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 7 | [Bahagia Lagi \- Acoustic](https://open.spotify.com/track/2uqvi6mX3AA6cyoadHb7a3) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi \(Acoustic\)](https://open.spotify.com/album/5pzAH8Ihu6R8sqtnSdGGnK) | 3:41 |
 | 8 | [Tak Mendua](https://open.spotify.com/track/6ywy8b8wdRVJxhIzcwNtS2) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Map of Feelings](https://open.spotify.com/album/0lbVLDfKJoLbXuKV5aY9y4) | 3:28 |
 | 9 | [Museum Duka](https://open.spotify.com/track/4x4YtCcmxghIUNwE2nVRLU) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [YB](https://open.spotify.com/artist/7u6eYMzlO7UGHY4qvd8NXu), [Tepe](https://open.spotify.com/artist/3KxeXrPqAFeuNvviB9dBGb) | [Museum Duka](https://open.spotify.com/album/7kG7ohzrjqSzh8c5K0w6sN) | 3:30 |
-| 10 | [Track 1](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 0:00 |
+| 10 | [Aku Merindu](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 2:44 |
 | 11 | [Riuh](https://open.spotify.com/track/6ByJhYUimSniZZg76gUDVp) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v), [Grace Kaitlin](https://open.spotify.com/artist/2aZrqM2hPUmc2dIJgLhfSd) | [Riuh](https://open.spotify.com/album/1xtLxh5zzljVud8P8J73eT) | 4:07 |
 | 12 | [Langit Merah Muda \- Original Soundtrack from 'Agensi Rumah Tangga'](https://open.spotify.com/track/2INmDiSugzBjib2TWP7Odd) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Langit Merah Muda \(Original Soundtrack from 'Agensi Rumah Tangga'\)](https://open.spotify.com/album/5oEY7qOdeJPvB02EwK4Jvp) | 3:20 |
 | 13 | [...dan berpesta](https://open.spotify.com/track/0n77r1eNDkSSpNE32xvhbJ) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [...dan berpesta](https://open.spotify.com/album/5qc8i560sWUyhRPrEX7Mo0) | 3:53 |

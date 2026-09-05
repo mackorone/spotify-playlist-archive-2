@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-417 songs - 22 hr 55 min
+418 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Free](https://open.spotify.com/track/6hoC8f9WHNZDSRINtuViap) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Free](https://open.spotify.com/album/5OqDTCl0cicYgB031QCNAe) | 3:39 | 2023-08-15 | 2023-08-29 |
 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 | 2023-08-28 | 2023-10-14 |
 | [From up Here](https://open.spotify.com/track/6rdHZ6VLgH52eARNMj5uPH) | [Sofia Wolfson](https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN) | [From up Here](https://open.spotify.com/album/6Nv8R0f555sPwWA1B5lJEx) | 3:08 | 2023-09-08 | 2023-09-23 |
+| [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 | 2026-09-04 |  |
 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 | 2023-08-15 | 2024-01-20 |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-08-15 | 2023-08-29 |
 | [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 | 2023-08-28 | 2023-10-07 |

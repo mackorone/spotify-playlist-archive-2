@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Quest in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,610 likes - 54 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,622 likes - 54 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 20 | [Trama](https://open.spotify.com/track/21gbVv0OpDZNqIYQ6vr4hi) | [R£d](https://open.spotify.com/artist/4hZ6NhyyFrGR6TAnEROtVs) | [Trama](https://open.spotify.com/album/3IDym4wyo6zI9wcbc6oA2S) | 2:10 |
 | 21 | [NIENTE È PER SEMPRE](https://open.spotify.com/track/3Of5q3EjYuH6JQQVqUjyMV) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [NIENTE È PER SEMPRE](https://open.spotify.com/album/6f4GPyPHjgL4jOV6cNokXX) | 2:34 |
 | 22 | [SOLA](https://open.spotify.com/track/5j3Vh66pbbZGWFTSM2XAcq) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [SOLA](https://open.spotify.com/album/2p58U9RMya1lmVcRdepubx) | 2:25 |
-| 23 | [in relax](https://open.spotify.com/track/6NlLEoumhT5850hsoffI9r) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C), [MiQu](https://open.spotify.com/artist/5LzpKZgYlDLjl50MbctpDp), [Mack Walker](https://open.spotify.com/artist/6aKtR3QpJ6HixaFv8jLc8Q) | [in relax](https://open.spotify.com/album/0NHGXvBheCwLRhFXfrH5gg) | 2:10 |
+| 23 | [in relax](https://open.spotify.com/track/6NlLEoumhT5850hsoffI9r) | [Adri](https://open.spotify.com/artist/6y985VEM5UDacD7lG3Zq9C), [MiQu](https://open.spotify.com/artist/29W9ZWOCIj7enyZFe3IUbE), [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [in relax](https://open.spotify.com/album/0NHGXvBheCwLRhFXfrH5gg) | 2:10 |
 | 24 | [Golfo aranci](https://open.spotify.com/track/2MCaHJcXbB820H32sYFcqf) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [Incidentiamo / Golfo Aranci](https://open.spotify.com/album/13tUuwDshDyZnXuZDMlvWl) | 2:35 |
 | 25 | [MILA](https://open.spotify.com/track/6bbQDtMXUsxM8XWDniV3oM) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [MILA](https://open.spotify.com/album/1SEV4WpfG7dkdNslAvL4Ur) | 3:10 |
 | 26 | [C0R0NA'S](https://open.spotify.com/track/2rWlggaEJdwX8PTxlHxmcB) | [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Dapper](https://open.spotify.com/artist/3HjiMSCJso9sKnJO6HEIJk), [Masoo](https://open.spotify.com/artist/00nNKgcACeyt9jFDmpwxz2) | [C0R0NA'S](https://open.spotify.com/album/5kO2qJlppleWHRWaDc4KPR) | 2:28 |

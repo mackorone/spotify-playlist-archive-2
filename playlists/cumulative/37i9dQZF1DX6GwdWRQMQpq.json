@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Trim",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 214054,
       "name": "CAN'T PRETEND",
       "url": "https://open.spotify.com/track/1deoVVt7Jz1QHpr0qd2shX"
@@ -5738,6 +5738,28 @@
       "duration_ms": 171391,
       "name": "Gas You Up (feat. Hunxho)",
       "url": "https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy"
+    },
+    {
+      "album": {
+        "name": "Geeked Shit (remix)",
+        "url": "https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y"
+      },
+      "artists": [
+        {
+          "name": "Luh Nae",
+          "url": "https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165298,
+      "name": "Geeked Shit - remix",
+      "url": "https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH"
     },
     {
       "album": {
@@ -8712,7 +8734,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 68111,
       "name": "Let's Wrap",
       "url": "https://open.spotify.com/track/4JGDIJ2aBYEkY78Q8doEVz"
@@ -16360,7 +16382,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 141059,
       "name": "What I Like",
       "url": "https://open.spotify.com/track/4M5igPbQd7rJAGrxaj3Chi"
@@ -17071,6 +17093,28 @@
     },
     {
       "album": {
+        "name": "NOT DA 2",
+        "url": "https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "WYO",
+      "url": "https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp"
+    },
+    {
+      "album": {
         "name": "X-Mas Bag",
         "url": "https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES"
       },
@@ -17320,6 +17364,24 @@
       "duration_ms": 157508,
       "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
       "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
+    },
+    {
+      "album": {
+        "name": "Young Ho",
+        "url": "https://open.spotify.com/album/0t0Z1z8BSAiOnl0dXjYdR0"
+      },
+      "artists": [
+        {
+          "name": "Lady Binladen",
+          "url": "https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155876,
+      "name": "Young Ho",
+      "url": "https://open.spotify.com/track/2cm9PdoJ7kZtqhDJohQPSV"
     },
     {
       "album": {

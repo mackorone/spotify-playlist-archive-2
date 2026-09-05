@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-336 songs - 10 hr 14 min
+337 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,8 +199,9 @@
 | [Old Macdonald](https://open.spotify.com/track/47ffTXm408U9thU7xS7CVE) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/11C07gKgzFhkl1AArySEfL) | 1:59 | 2022-02-25 | 2024-04-19 |
 | [Old MacDonald](https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 1:59 | 2022-02-25 | 2024-06-08 |
 | [Old Macdonald](https://open.spotify.com/track/6Ms66PRX5gSYvtzySYuSSd) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Happy and I Know It!](https://open.spotify.com/album/0JkcbVg79vcTXwFXJNqPIn) | 1:59 | 2022-02-25 | 2022-11-13 |
-| [Old MacDonald](https://open.spotify.com/track/5HDHI7vniziKvFwEZJxIbr) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Old MacDonald](https://open.spotify.com/album/7p2vDbyCJbRaD7dKIUNMiI) | 3:34 | 2024-06-07 |  |
+| [Old MacDonald](https://open.spotify.com/track/5HDHI7vniziKvFwEZJxIbr) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Old MacDonald](https://open.spotify.com/album/7p2vDbyCJbRaD7dKIUNMiI) | 3:34 | 2024-06-07 | 2026-09-05 |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/4qAjPrY1lg12AkXDjTg46W) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 3:35 | 2022-02-25 | 2024-01-05 |
+| [Old MacDonald Had a Farm](https://open.spotify.com/track/7Aq3YV6jwjUfqbg56h1MCW) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Old MacDonald Had a Farm & More Kids Songs](https://open.spotify.com/album/2Sivlm6GK4dr21Ucf1UKV8) | 3:12 | 2026-09-04 |  |
 | [Old Mother Hubbard](https://open.spotify.com/track/6sw0hG0OBQ4yuQopvu8Y3G) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Old Mother Hubbard](https://open.spotify.com/album/6HVxY20OsCsBi0PaO4OSUU) | 0:58 | 2022-02-25 |  |
 | [Old Woman Who Lived In a Shoe](https://open.spotify.com/track/0S22p30QRkbohImgqvfX6u) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:30 | 2022-02-25 |  |
 | [On Top Of Spaghetti](https://open.spotify.com/track/38zZsHOr2kSyDc1k7cgiK4) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Baby Songs \- 75 Nursery Rhymes](https://open.spotify.com/album/3tdyQzereDh9uMZvG9dzgE) | 1:36 | 2022-02-25 |  |

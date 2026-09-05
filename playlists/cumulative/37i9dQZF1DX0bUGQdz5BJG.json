@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Your ears on the ground in Music City. Cover: Clayton Mullen",
+  "description": "Your ears on the ground in Music City. Cover: Jordana Bryant",
   "name": "Coming Up Country",
   "tracks": [
     {
@@ -2591,6 +2591,24 @@
     },
     {
       "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/6ClrF3x27rcS8dqbTSSek6"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "All Of My Pretty",
+      "url": "https://open.spotify.com/track/3MPcqtZXjlVNZkWD55lmb0"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s"
       },
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 196768,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1kxepl24qVmwsYoKXLFQej"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180989,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0ZG6gmyI0eHfGTTmQ0jWK6"
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 179268,
       "name": "Backwoods Backwards",
       "url": "https://open.spotify.com/track/1vS42jK1S4pvIoMt7ojTe6"
@@ -6562,7 +6580,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184573,
       "name": "Best Worst Part of Me",
       "url": "https://open.spotify.com/track/1mvq2Nde5WY58PsZcLnJkL"
@@ -8940,6 +8958,24 @@
       "duration_ms": 208621,
       "name": "Brake Lights",
       "url": "https://open.spotify.com/track/4fiP6oZ0Uq3UYsAaxEkLLJ"
+    },
+    {
+      "album": {
+        "name": "Brand",
+        "url": "https://open.spotify.com/album/0kLdNMIKOd0Mjv8ZWedN09"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212522,
+      "name": "Brand",
+      "url": "https://open.spotify.com/track/1m3UsIb877hqDOXMhU6C2p"
     },
     {
       "album": {
@@ -14489,6 +14525,24 @@
     },
     {
       "album": {
+        "name": "Country Baptism",
+        "url": "https://open.spotify.com/album/7FtxwH6zx9AnS96O8KWaAo"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198138,
+      "name": "Cowgirls Cry When Cowboys Lie",
+      "url": "https://open.spotify.com/track/40YHV3s4al2pFln7Btn2QV"
+    },
+    {
+      "album": {
         "name": "Cows In The Front Yard",
         "url": "https://open.spotify.com/album/1UMLbITYzX4d2yAwaYDdqO"
       },
@@ -17797,6 +17851,24 @@
     },
     {
       "album": {
+        "name": "Don't Want More",
+        "url": "https://open.spotify.com/album/2EtbNAqTBazQVFpIOr62h0"
+      },
+      "artists": [
+        {
+          "name": "Austin Williams",
+          "url": "https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205933,
+      "name": "Don't Want More",
+      "url": "https://open.spotify.com/track/6h0Hv8ZKAM1KEqCxsimRb4"
+    },
+    {
+      "album": {
         "name": "Don't Worry Be Happy",
         "url": "https://open.spotify.com/album/34G5H6tpPxkttKPAfjuZDD"
       },
@@ -18540,7 +18612,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 179986,
       "name": "DRIFT AWAY",
       "url": "https://open.spotify.com/track/7xlfKpz1baVCoSPNuxWwIl"
@@ -19642,7 +19714,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217868,
       "name": "Easy To Be Lonely",
       "url": "https://open.spotify.com/track/59jvQ8Q7NWnVAL9hA5y9l8"
@@ -19833,6 +19905,24 @@
     },
     {
       "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/5lWcVSohH4aaeyw6046o2F"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186177,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5Gqc0v0mskcOQvuwY0Xlqg"
+    },
+    {
+      "album": {
         "name": "Empty Clip",
         "url": "https://open.spotify.com/album/6KzvEKoL2uGpyozM0ws5Qv"
       },
@@ -19974,6 +20064,24 @@
       "duration_ms": 148173,
       "name": "End Up In a Song",
       "url": "https://open.spotify.com/track/6YhEPsP4m6k22kN4kFXcWK"
+    },
+    {
+      "album": {
+        "name": "enough",
+        "url": "https://open.spotify.com/album/2V9GTPDwRCUIpxsQton0sI"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216613,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/1aH7sQLodOc7K0SUUNDH6f"
     },
     {
       "album": {
@@ -23686,7 +23794,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 190544,
       "name": "Gettin' Nowhere",
       "url": "https://open.spotify.com/track/2JMEDyOc99ccxZn7neEbfw"
@@ -24306,7 +24414,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 260874,
       "name": "Glory.",
       "url": "https://open.spotify.com/track/4BP19Pvv1zKSFOZrlIDTVg"
@@ -31020,7 +31128,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 204173,
       "name": "Hometown Hero",
       "url": "https://open.spotify.com/track/1RWvlOnQ5RksGc3mW6GcMk"
@@ -31558,6 +31666,24 @@
       "duration_ms": 158481,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/4jUtPEnDawZi0hFRDmSMbm"
+    },
+    {
+      "album": {
+        "name": "Hot Southern Nights",
+        "url": "https://open.spotify.com/album/622pkGDUigYSDhBJrn6cwk"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230115,
+      "name": "Hot Southern Nights",
+      "url": "https://open.spotify.com/track/6k5L0cR1fs2UMLuBQT2IBV"
     },
     {
       "album": {
@@ -35452,6 +35578,24 @@
       "duration_ms": 206373,
       "name": "If I Wasn't Your Man",
       "url": "https://open.spotify.com/track/1mPsepUzioW7tREbF9TthO"
+    },
+    {
+      "album": {
+        "name": "If I Were The Devil",
+        "url": "https://open.spotify.com/album/2wOSvJZNGvq13N33JhTudn"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201271,
+      "name": "If I Were The Devil",
+      "url": "https://open.spotify.com/track/0Khca3WtCMmHLzLNlEA1qo"
     },
     {
       "album": {
@@ -46353,6 +46497,24 @@
     },
     {
       "album": {
+        "name": "Better On A Boat...I Missed The Boat",
+        "url": "https://open.spotify.com/album/4EALxt8VpXY1YQx7KBhnTq"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Missed The Boat",
+      "url": "https://open.spotify.com/track/4ImsMF44wB2Wq3gd7JBrHS"
+    },
+    {
+      "album": {
         "name": "Missed the Boat",
         "url": "https://open.spotify.com/album/358todtduHcbUf6KOKzvma"
       },
@@ -47074,7 +47236,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 153586,
       "name": "Must Be Nice",
       "url": "https://open.spotify.com/track/68XeuNXynFVOzHoPDjMWG1"
@@ -48267,6 +48429,28 @@
     },
     {
       "album": {
+        "name": "Never Meet Your Heroes",
+        "url": "https://open.spotify.com/album/2qaWIj2b4t2eDuXbhdFKnp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Never Meet Your Heroes",
+      "url": "https://open.spotify.com/track/3VkuvRYXQO5KgzlzDBXrD8"
+    },
+    {
+      "album": {
         "name": "Never Mine",
         "url": "https://open.spotify.com/album/5J11l83dJCkvb2CRV2ucNn"
       },
@@ -48278,7 +48462,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 197838,
       "name": "Never Mine",
       "url": "https://open.spotify.com/track/25MeMF8ej2qNAwT9honyHR"
@@ -50997,6 +51181,24 @@
     },
     {
       "album": {
+        "name": "One Boot Out The Door",
+        "url": "https://open.spotify.com/album/2ZjYmFrvZsMyejQpgsXfQ9"
+      },
+      "artists": [
+        {
+          "name": "Cody Lohden",
+          "url": "https://open.spotify.com/artist/1EnXabEK8GX2Lh36EgdJq1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163552,
+      "name": "One Boot Out The Door",
+      "url": "https://open.spotify.com/track/0GtEowHsfXBjn3KqJMwiuV"
+    },
+    {
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/2ypu1P6a3zKL2RIQL6AcJt"
       },
@@ -51174,6 +51376,24 @@
       "duration_ms": 223908,
       "name": "One Heart",
       "url": "https://open.spotify.com/track/7JPcLmdYE5BEb6pN3h1Zqe"
+    },
+    {
+      "album": {
+        "name": "One Hell Of A Steal",
+        "url": "https://open.spotify.com/album/3GwIyewrBCEuzY2MiiEsDx"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193012,
+      "name": "One Hell Of A Steal",
+      "url": "https://open.spotify.com/track/4LlYMg8xRANpZFpJQRPpWr"
     },
     {
       "album": {
@@ -52760,7 +52980,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 224280,
       "name": "Park the Truck",
       "url": "https://open.spotify.com/track/6PdR2GzLWCbYPCCYIrdrAI"
@@ -59658,7 +59878,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 164456,
       "name": "Shouldn\u2019t Be",
       "url": "https://open.spotify.com/track/2iQkwOltRHBMH75riILqYS"
@@ -64726,7 +64946,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 219259,
       "name": "Summertime Well Spent",
       "url": "https://open.spotify.com/track/1aM2zy4UnL6PpDndVNiInT"
@@ -67715,6 +67935,24 @@
     },
     {
       "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/6sd9n4Olql9SvAGGx18Uvj"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/7kuB0axEoke7a3VxPlye6s"
+    },
+    {
+      "album": {
         "name": "The Kiss Or The Crash",
         "url": "https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ"
       },
@@ -68538,7 +68776,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 181567,
       "name": "The Summer I Turned Petty",
       "url": "https://open.spotify.com/track/3CKDCJR7BgrLm1a5QVD0DM"
@@ -76003,6 +76241,24 @@
     },
     {
       "album": {
+        "name": "Where I'll Be",
+        "url": "https://open.spotify.com/album/6lW1CxK4d6sdLHHqZjDHBH"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161893,
+      "name": "Where I'll Be",
+      "url": "https://open.spotify.com/track/3fcii5KEVvQx4BFVpWdjiH"
+    },
+    {
+      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/115eeeEBZogLKBMVQpklSD"
       },
@@ -80628,6 +80884,24 @@
       "duration_ms": 290137,
       "name": "Young Buck",
       "url": "https://open.spotify.com/track/2CMuWqynEd056gVgf0uyC8"
+    },
+    {
+      "album": {
+        "name": "Young Dumb and Reckless",
+        "url": "https://open.spotify.com/album/51uhC1ysVl2zGNiAIe7gqp"
+      },
+      "artists": [
+        {
+          "name": "Logan Michael",
+          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231071,
+      "name": "Young Dumb and Reckless",
+      "url": "https://open.spotify.com/track/0DAe1OQHxuQyNx5uC9euei"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Jay Kalyl",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Luis & Priscilla Bueno",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -12820,7 +12820,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 195357,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/2KIprcvBv1CU1NETVQMpGk"
@@ -13572,7 +13572,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 130264,
       "name": "PAPITO LINDO",
       "url": "https://open.spotify.com/track/4BmJghk2yeVOi8CGq9alcM"
@@ -14715,6 +14715,24 @@
     },
     {
       "album": {
+        "name": "quiero agradecerte",
+        "url": "https://open.spotify.com/album/3gC6d0d2YMWoyGSVi4xXn0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221686,
+      "name": "quiero agradecerte",
+      "url": "https://open.spotify.com/track/51Zqq7JGlHpG6wjoL5pHCj"
+    },
+    {
+      "album": {
         "name": "Quiero Levantar Mis Manos",
         "url": "https://open.spotify.com/album/4hQfzI83EELcr33pnRZhDb"
       },
@@ -14938,6 +14956,24 @@
       "duration_ms": 227353,
       "name": "Replay",
       "url": "https://open.spotify.com/track/190VbNhQCHxeZYGLRvZd0M"
+    },
+    {
+      "album": {
+        "name": "Resc\u00e1tame del Lodo",
+        "url": "https://open.spotify.com/album/1z9AMVXgljdjbrOKlALV3F"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581444,
+      "name": "Resc\u00e1tame del Lodo",
+      "url": "https://open.spotify.com/track/3UhLrf6XYCvievJ5wBRRzN"
     },
     {
       "album": {
@@ -18821,6 +18857,28 @@
     },
     {
       "album": {
+        "name": "Un Momento",
+        "url": "https://open.spotify.com/album/6FLRIgDJcucPXNCN8UtMYt"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Bueno",
+          "url": "https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM"
+        },
+        {
+          "name": "Luis Bueno",
+          "url": "https://open.spotify.com/artist/3Rh6iPLSp4CboIFqGXBzIN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347456,
+      "name": "Un Momento",
+      "url": "https://open.spotify.com/track/0bePk02051sVhHyp7OycIc"
+    },
+    {
+      "album": {
         "name": "A Great Awakening & Un Nuevo Despertar (Live)",
         "url": "https://open.spotify.com/album/03VPSpGeiuWIF0hiD7sEm2"
       },
@@ -20272,7 +20330,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 381938,
       "name": "\u00bfDe Qu\u00e9 Me Vale?",
       "url": "https://open.spotify.com/track/1ey4oIvEhdm1c4EsDJW6G2"

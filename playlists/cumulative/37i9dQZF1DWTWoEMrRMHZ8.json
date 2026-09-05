@@ -13503,6 +13503,36 @@
     },
     {
       "album": {
+        "name": "Mundo de Cores",
+        "url": "https://open.spotify.com/album/1NXJ3cFMUqtmj6gif2Pcln"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Mundo de Cores",
+      "url": "https://open.spotify.com/track/6cdJQfiyQy0VlsLEqBcWfE"
+    },
+    {
+      "album": {
         "name": "Mundo Livre",
         "url": "https://open.spotify.com/album/5gm7GD0exznuIqxRCHHM9B"
       },
@@ -24412,7 +24442,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 216592,
       "name": "Vamos Combinar",
       "url": "https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq"

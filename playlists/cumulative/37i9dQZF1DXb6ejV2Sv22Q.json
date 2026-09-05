@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Paloma Morphy en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Lucas Gael en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -762,6 +762,24 @@
       "duration_ms": 217524,
       "name": "Amarte a la Antigua",
       "url": "https://open.spotify.com/track/6zXxocUMzpPy5Q97xt09eJ"
+    },
+    {
+      "album": {
+        "name": "AMIGOS",
+        "url": "https://open.spotify.com/album/5vsUUYOU2M0wF66KgXvdbG"
+      },
+      "artists": [
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "AMIGOS",
+      "url": "https://open.spotify.com/track/2wQwWjVduDPjDoSKmmoTaS"
     },
     {
       "album": {
@@ -1723,6 +1741,28 @@
     },
     {
       "album": {
+        "name": "#CARTASYBORRONES",
+        "url": "https://open.spotify.com/album/2eJIiRdUlixhPBJRO0vcSu"
+      },
+      "artists": [
+        {
+          "name": "Lucas Gael",
+          "url": "https://open.spotify.com/artist/27H7D7CnN2Ef5Pra7wjsSB"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161707,
+      "name": "BRISA.",
+      "url": "https://open.spotify.com/track/08BOIM9Wxae7opSnJPL7fP"
+    },
+    {
+      "album": {
         "name": "buttermilk 2",
         "url": "https://open.spotify.com/album/0GccnfPFtt5X1bmGlKUNZR"
       },
@@ -2356,7 +2396,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171081,
       "name": "comovuelo!",
       "url": "https://open.spotify.com/track/6RNBad0IoUttcCdz94yQPb"
@@ -3134,7 +3174,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
@@ -4581,6 +4621,28 @@
     },
     {
       "album": {
+        "name": "HAVE UR FUN",
+        "url": "https://open.spotify.com/album/5Czjl0CMoMN92CofexwWIN"
+      },
+      "artists": [
+        {
+          "name": "Molly Ritz",
+          "url": "https://open.spotify.com/artist/7gQWrhzKwjFfuN64k2bvVh"
+        },
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179972,
+      "name": "HAVE UR FUN",
+      "url": "https://open.spotify.com/track/2y81y5PhY0vNS5IddfunZQ"
+    },
+    {
+      "album": {
         "name": "HBU",
         "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
       },
@@ -4596,7 +4658,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 248391,
       "name": "HBU",
       "url": "https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM"
@@ -4800,6 +4862,24 @@
       "duration_ms": 142080,
       "name": "hola...",
       "url": "https://open.spotify.com/track/60MzMIi9j7CqISXqcM5oVS"
+    },
+    {
+      "album": {
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "album": {
@@ -6178,7 +6258,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 225216,
       "name": "Linger - Spanish Mix (2026)",
       "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
@@ -6783,6 +6863,28 @@
     },
     {
       "album": {
+        "name": "laurel",
+        "url": "https://open.spotify.com/album/2pmXp8gTjHt8UplCCzAOZD"
+      },
+      "artists": [
+        {
+          "name": "d\u00e1til",
+          "url": "https://open.spotify.com/artist/4TMzTYiXwV1ysp7yfsMEfW"
+        },
+        {
+          "name": "korelei",
+          "url": "https://open.spotify.com/artist/6hMr4dVgCZzKUJpS16qQr5"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134514,
+      "name": "mayo",
+      "url": "https://open.spotify.com/track/2alUJhwm1WhzTEwMMTNuVx"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1ana Hablamos (1154)",
         "url": "https://open.spotify.com/album/1qzbJceoJvo2evgoBZVAIV"
       },
@@ -7122,7 +7224,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 156444,
       "name": "Millonari",
       "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
@@ -7266,7 +7368,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 154704,
       "name": "Money In The Bank",
       "url": "https://open.spotify.com/track/42A4pvjwzWcxyacNq7Ap0D"
@@ -8634,6 +8736,24 @@
       "duration_ms": 196946,
       "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
+    },
+    {
+      "album": {
+        "name": "Si ma\u00f1ana me muero me voy contento",
+        "url": "https://open.spotify.com/album/1Sqvk2EQnFkTqNbnvMNISk"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "para Emilio",
+      "url": "https://open.spotify.com/track/66Cb8LL0T1m8KnPzTuiVYW"
     },
     {
       "album": {
@@ -10712,7 +10832,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 188572,
       "name": "souvenir",
       "url": "https://open.spotify.com/track/6S3rTIbe80fnR7m8Frm1No"
@@ -10814,6 +10934,24 @@
       "duration_ms": 325706,
       "name": "Sprawl II (Mountains Beyond Mountains)",
       "url": "https://open.spotify.com/track/0epAG0WWRlDMsMFJiE5c6I"
+    },
+    {
+      "album": {
+        "name": "ARROGANTE! / ST. TROPEZ!",
+        "url": "https://open.spotify.com/album/43lZL6HKQbWTCSRN8icQMZ"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "ST. TROPEZ!",
+      "url": "https://open.spotify.com/track/7vQVVuBPua49LymUH8oFuh"
     },
     {
       "album": {
@@ -11745,6 +11883,24 @@
     },
     {
       "album": {
+        "name": "TU NOMBRE",
+        "url": "https://open.spotify.com/album/7eFnQkwJ5UEQnfTCT9YAfm"
+      },
+      "artists": [
+        {
+          "name": "margaroth",
+          "url": "https://open.spotify.com/artist/40KZ9P2VwHXlL22wzisArD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181764,
+      "name": "TU NOMBRE",
+      "url": "https://open.spotify.com/track/6vPFwlO9P19FI44Q2p8wXO"
+    },
+    {
+      "album": {
         "name": "San Lucas",
         "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
@@ -12512,7 +12668,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 134769,
       "name": "Yuzu",
       "url": "https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f"

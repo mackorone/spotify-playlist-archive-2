@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Ace Banzuelo
 
-521 songs - 1 day 4 hr 23 min
+522 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Vibrate](https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Vibrate](https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb) | 2:52 | 2025-10-15 | 2025-12-04 |
 | [Wag Lang Ganon](https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [Wag Lang Ganon](https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF) | 3:12 | 2024-10-11 | 2026-02-24 |
 | [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 | 2025-12-04 |
+| [WAITING ON YOU](https://open.spotify.com/track/703NtBYu8Yr6WIpVMXumQ2) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [WAITING ON YOU](https://open.spotify.com/album/42ybhST6hSl201euMwRTSt) | 3:19 | 2026-09-04 |  |
 | [Wala Ng Dahilan](https://open.spotify.com/track/77yAlOniNHAitiEsmfiFrF) | [Saintvvi](https://open.spotify.com/artist/0apBeGgTlunmoj2y846P22), [Cozyivy](https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS) | [Wala Ng Dahilan](https://open.spotify.com/album/4HgpvBok0OHcqtT4pGX1Wx) | 2:58 | 2025-10-24 | 2025-12-04 |
 | [WALANG HIYA](https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MADUMING TIMOG](https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj) | 3:24 | 2026-02-13 | 2026-07-29 |
 | [Walang Iba](https://open.spotify.com/track/5h3vsRx6ipMLg7ijWECx06) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Walang Iba](https://open.spotify.com/album/5d1NY84EQaXOnrUEnz4z7V) | 3:20 | 2025-10-13 | 2025-12-04 |

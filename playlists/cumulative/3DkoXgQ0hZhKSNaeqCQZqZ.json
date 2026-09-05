@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "DRUG",
+        "url": "https://open.spotify.com/album/5wtETLQm5TUNJwhl8fnEll"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "DRUG",
+      "url": "https://open.spotify.com/track/2Q7pPuFjPq1ox862ry93nQ"
+    },
+    {
+      "album": {
         "name": "drunk",
         "url": "https://open.spotify.com/album/05F3IttDmLYr93iaz5ihqI"
       },

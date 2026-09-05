@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Billy Strings",
+  "description": "A new shade of Country. Cover: Leon Majcen",
   "name": "Indigo",
   "tracks": [
     {
@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223342,
+      "name": "Cone Off",
+      "url": "https://open.spotify.com/track/1zjTmD96KKxnolQ0tp0Y80"
+    },
+    {
+      "album": {
         "name": "Conversations with the Moon",
         "url": "https://open.spotify.com/album/4FAchfVVjOygjZHw9WiIzW"
       },
@@ -4298,7 +4316,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 247840,
       "name": "Don't You Cry",
       "url": "https://open.spotify.com/track/5GqiEDFRVtZGAa90H10Cfl"
@@ -13476,6 +13494,28 @@
     {
       "album": {
         "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5PBGuq1PNWlWcYnRdf26uP"
+      },
+      "artists": [
+        {
+          "name": "C. James",
+          "url": "https://open.spotify.com/artist/77Y0VaGhTLxtpZ0nLbD2oD"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185086,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/6Zbl8ILPEkNr4WqyXaq0c4"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
         "url": "https://open.spotify.com/album/5ybUt3YH4ZbN8fEetQvqQg"
       },
       "artists": [
@@ -14100,6 +14140,24 @@
       "duration_ms": 211438,
       "name": "The Last Tear",
       "url": "https://open.spotify.com/track/1dUQUX4jRmE8PROZ4Xw49C"
+    },
+    {
+      "album": {
+        "name": "The Leaving Kind",
+        "url": "https://open.spotify.com/album/2icvLcu0xWjqlrvuAvu2YC"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "The Leaving Kind",
+      "url": "https://open.spotify.com/track/6IRzHSf6UBVFfXC4Lqh2JF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Suaaaaaaave \ud83d\udcf8 Kanito Escalante, Gabito Ballesteros, El Bogueto y Calle 24",
+  "description": "Suaaaaaaave \ud83d\udcf8 008RACCA",
   "name": "Rap Latte ",
   "tracks": [
     {
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 239170,
       "name": "Buenos d\u00edas Apocalipsis",
       "url": "https://open.spotify.com/track/3fJ6N9xFuQOOVNblgoORUb"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
@@ -3706,6 +3706,28 @@
       "duration_ms": 269720,
       "name": "JetLag",
       "url": "https://open.spotify.com/track/3Gily4qMvAOytQ07gpHDVD"
+    },
+    {
+      "album": {
+        "name": "Magia Marginal",
+        "url": "https://open.spotify.com/album/0ORX6IZjcBsL6o2sfisCpw"
+      },
+      "artists": [
+        {
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
+        },
+        {
+          "name": "MAPACHE",
+          "url": "https://open.spotify.com/artist/6i5UJieLqXIrhN98saCMzG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216375,
+      "name": "kari\u00f1o mio",
+      "url": "https://open.spotify.com/track/6emfqMxbxLIK8neNoBvnmX"
     },
     {
       "album": {
@@ -5970,10 +5992,28 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171501,
       "name": "panty_(Freedownload)_mp3_exe",
       "url": "https://open.spotify.com/track/3Kx9dfUHGkfrRn7RqzjY4z"
+    },
+    {
+      "album": {
+        "name": "Si ma\u00f1ana me muero me voy contento",
+        "url": "https://open.spotify.com/album/1Sqvk2EQnFkTqNbnvMNISk"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "para Emilio",
+      "url": "https://open.spotify.com/track/66Cb8LL0T1m8KnPzTuiVYW"
     },
     {
       "album": {
@@ -6300,7 +6340,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 323233,
       "name": "Pl\u00e1tica de hormigas Pt. 1 & 2",
       "url": "https://open.spotify.com/track/0I8oJeaMsXCodBElgMYWeE"
@@ -7523,6 +7563,28 @@
     },
     {
       "album": {
+        "name": "Solo Son D\u00edas Malos",
+        "url": "https://open.spotify.com/album/4GkvZQMPtGYYaYZobY5JTY"
+      },
+      "artists": [
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        },
+        {
+          "name": "LF Ants",
+          "url": "https://open.spotify.com/artist/34d8dSeOuJisT3TNcJazVQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Solo Son D\u00edas Malos",
+      "url": "https://open.spotify.com/track/1YNJ3kD4q03SRgY24fcTPu"
+    },
+    {
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/0kEdfrk19UXZrZHm6UgWFT"
       },
@@ -7560,6 +7622,40 @@
       "duration_ms": 160164,
       "name": "Solo x Ti",
       "url": "https://open.spotify.com/track/3hJGOSdMnL6jKLQl5BOIyd"
+    },
+    {
+      "album": {
+        "name": "Entre Compas",
+        "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262269,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/4I9MoG4cjf4TsStLNiqSmk"
     },
     {
       "album": {

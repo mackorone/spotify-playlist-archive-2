@@ -1,6 +1,6 @@
 {
   "description": "Naya Hip-Hop Hindi! Cover: Raga & Panther",
-  "num_followers": 23436,
+  "num_followers": 23487,
   "original_name": "New Rap Hindi",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,30 @@
       "duration_ms": 194673,
       "name": "Mere Type Ka Nahi",
       "url": "https://open.spotify.com/track/6XZKwuGk0InPAfvTjgoKLe"
+    },
+    {
+      "added_at": "2026-09-03 18:30:28",
+      "album": {
+        "name": "19th June",
+        "url": "https://open.spotify.com/album/1KqlR5JchxGoW6hQTf4Rja"
+      },
+      "artists": [
+        {
+          "name": "DirteeVibez",
+          "url": "https://open.spotify.com/artist/2T8IRmv2Gr2Zx5801MgbK7"
+        },
+        {
+          "name": "JORDAN WORDAMN",
+          "url": "https://open.spotify.com/artist/17dBdWeU2e9wSGeOfR81St"
+        },
+        {
+          "name": "Aadh pratapi",
+          "url": "https://open.spotify.com/artist/2DitYt0a5fKLtRnl7o1wts"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "19th June",
+      "url": "https://open.spotify.com/track/1HMo4GlQ5L4e97IESZXutF"
     },
     {
       "added_at": "2026-09-03 18:30:28",
@@ -1196,6 +1220,10 @@
           "url": "https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN"
         },
         {
+          "name": "Tarun",
+          "url": "https://open.spotify.com/artist/69ixItk8CBJ6J5x6AJQ7o5"
+        },
+        {
           "name": "Navyug",
           "url": "https://open.spotify.com/artist/4adwj9Z1zcgF7Os33tzs4Q"
         }
@@ -1394,6 +1422,10 @@
         {
           "name": "Karma",
           "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Hazaar",
+          "url": "https://open.spotify.com/artist/6xw4e0UW6teIJEIf9gxhYx"
         }
       ],
       "duration_ms": 173899,

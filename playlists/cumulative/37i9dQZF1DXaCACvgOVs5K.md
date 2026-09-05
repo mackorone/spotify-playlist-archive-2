@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-592 songs - 1 day 10 hr 50 min
+593 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 | 2022-08-26 | 2022-10-21 |
 | [Blessed](https://open.spotify.com/track/0s2Mc1cyH6XyxCTWdxkbgq) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Blessed](https://open.spotify.com/album/12AXdnOezhQCp2Cu0tKvvD) | 3:30 | 2025-04-17 | 2025-05-13 |
 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 | 2024-06-14 | 2026-04-11 |
-| [Blowin' Up The Spot](https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Blowin' Up The Spot](https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW) | 3:05 | 2026-07-16 |  |
+| [Blowin' Up The Spot](https://open.spotify.com/track/4GkPIJwHF5JE3dywYYEOLz) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Blowin' Up The Spot](https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW) | 3:05 | 2026-07-16 | 2026-09-05 |
 | [Blue Berries](https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Blue Berries](https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN) | 2:50 | 2024-06-14 | 2026-04-11 |
 | [Body Action](https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Body Action](https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig) | 5:31 | 2026-08-06 |  |
 | [Body Shots](https://open.spotify.com/track/02FQoIxEcJEKBW4VJ8a4XJ) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Body Shots](https://open.spotify.com/album/5yJHDOdyDT4KVeBS0TsUQk) | 2:33 | 2022-08-26 | 2023-04-05 |
@@ -527,6 +527,7 @@
 | [The Drum](https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [The Drum](https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp) | 3:17 | 2026-07-01 | 2026-08-07 |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2024-04-19 | 2024-06-14 |
 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 | 2025-04-17 | 2026-05-01 |
+| [The Montana Girl](https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [The Montana Girl](https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8) | 3:41 | 2026-08-20 |  |
 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 | 2025-04-24 | 2026-06-12 |
 | [The Prayer](https://open.spotify.com/track/5cRdTKuFFjXX2CV8AZN8R0) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74) | [The Prayer](https://open.spotify.com/album/7LfyYf6ZnI9Ju1IZA5DxoZ) | 3:29 | 2026-04-30 | 2026-07-24 |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-07-12 | 2025-04-18 |

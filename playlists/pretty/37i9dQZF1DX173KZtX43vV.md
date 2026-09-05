@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Joyce Wrice
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,409 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,411 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly \(Someone You Love\)](https://open.spotify.com/track/46FIsUouswpvnkTOWcdvH6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Fly \(Someone You Love\)](https://open.spotify.com/album/3EoQGYD5eejrP431tqxgJ8) | 3:34 |
-| 2 | [GASS \(feat.Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
+| 2 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
 | 3 | [Love Again \(feat\. Full Blown\)](https://open.spotify.com/track/0zZUq2EqsqD2DDDHZAgPEf) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [SUN SHERIF](https://open.spotify.com/album/4P9orjsOtA6EMnQHomKhpY) | 2:35 |
 | 4 | [SOMETHING](https://open.spotify.com/track/3aXaImDK4MQUuExUKXNv7u) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [SOME SMALL FORTUNE](https://open.spotify.com/album/7ego2G7DvXCvUq7k4xg60F) | 3:00 |
 | 5 | [Gets Like Dat](https://open.spotify.com/track/2JnBLtbhdDUiIUn3jeBY9O) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Gets Like Dat](https://open.spotify.com/album/42Ej7KiRXZaYe5kTEcZR1R) | 3:30 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 13 | [As The World Burns](https://open.spotify.com/track/1lI6tCdsq7UxIXr8cU0i3m) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [As The World Burns...](https://open.spotify.com/album/44OY4GEnZF1HXb6nIDPpyR) | 3:52 |
 | 14 | [Don't Spoil Love](https://open.spotify.com/track/2l6m0Dq55u6M0HE1uuaODy) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Don't Spoil Love](https://open.spotify.com/album/0AuLZ9X5iWoDMoB1cZuVIi) | 3:09 |
 | 15 | [I HATE YOU DON'T LEAVE ME !](https://open.spotify.com/track/2nZFXBGRt0j2OidpbhDhNn) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [I HATE YOU DON'T LEAVE ME !](https://open.spotify.com/album/64MjPDx2RsvKOFSAqu5B2q) | 3:50 |
-| 16 | [Tightness](https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Tightness](https://open.spotify.com/album/5w5CGFSIKxPXhZFrQl3ygr) | 2:32 |
+| 16 | [TIGHTNESS](https://open.spotify.com/track/1Mc3WfY3EHlYbHAvBwWOph) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [TIGHTNESS](https://open.spotify.com/album/5w5CGFSIKxPXhZFrQl3ygr) | 2:32 |
 | 17 | [6 o'clock](https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [6 o'clock](https://open.spotify.com/album/06kz3NAyivvlbizvcVtAxF) | 2:04 |
 | 18 | [Louis](https://open.spotify.com/track/5K5nYUjeH3DUcAYTQpZT6o) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.2](https://open.spotify.com/album/2nagKdXmlO5QLpvjA27dxQ) | 2:25 |
 | 19 | [To The Floor \(Vai Descendo\)](https://open.spotify.com/track/0VCLJHFuhgOQUVyWSU3aKr) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [To The Floor \(Vai Descendo\)](https://open.spotify.com/album/5yuEph0ggq7kX9uvAedKgb) | 2:13 |

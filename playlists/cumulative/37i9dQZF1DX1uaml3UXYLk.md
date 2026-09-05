@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-855 songs - 2 day 0 hr 23 min
+865 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Apex](https://open.spotify.com/track/27fiOIgMQkl1U8g6xYziBn) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Apex](https://open.spotify.com/album/6VkrMTkudAVw45JVAv6EMz) | 3:00 | 2025-04-25 |  |
 | [Aphex Wins](https://open.spotify.com/track/0vVCVbOgsdCnKTs0dz46CN) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Aphex Wins](https://open.spotify.com/album/1CRHiiWboQ9ENAdSwdt8As) | 1:45 | 2020-10-20\* | 2022-06-10 |
 | [Appetite](https://open.spotify.com/track/0PPuL7iauywEQvwdQ0uHO2) | [Bear Frantz](https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr) | [Appetite](https://open.spotify.com/album/2ExohDNbWG8OZs0Ic3g4G5) | 2:22 | 2026-07-08 |  |
+| [Aprication](https://open.spotify.com/track/4CQ7Bpbi7AS8OFfG3U8S7f) | [Aria Kyd](https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs) | [Aprication](https://open.spotify.com/album/2k55BEDq347e5WRYuiUUwW) | 2:35 | 2026-09-04 |  |
 | [Apéritif](https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [Apéritif](https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN) | 2:44 | 2021-02-20 | 2022-05-20 |
 | [Arcane](https://open.spotify.com/track/5v0GAHUhylQVErZVjvj25N) | [DJ Eely](https://open.spotify.com/artist/1pWq7WE6SgN6KxOFXD3w80) | [Arcane](https://open.spotify.com/album/4g5aOdoLGI7kuE3hFrL8Y6) | 4:06 | 2020-10-20\* | 2020-12-24 |
 | [Are You Here](https://open.spotify.com/track/3IaXWwHgeCMKj6dQfptKpm) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [Are You Here](https://open.spotify.com/album/5oDVfVoh42T7EOI8ncuGxB) | 2:13 | 2025-09-05 |  |
@@ -98,6 +99,7 @@
 | [Blue Gold](https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO) | [Blue Gold](https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm) | 3:44 | 2021-11-10 | 2025-01-18 |
 | [BLUE LIGHTS](https://open.spotify.com/track/6lYr0uy47uqdHP7W8AKe7l) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [BLUE LIGHTS](https://open.spotify.com/album/5VmppbYGqYcCdy0Oz0MAMc) | 2:21 | 2024-02-27 | 2024-04-02 |
 | [Blue Line](https://open.spotify.com/track/5uy948cCYu7VhN8A6mGTPv) | [Traingazing](https://open.spotify.com/artist/1AosScBBDX1JEAL6vU8ldj) | [Blue Line](https://open.spotify.com/album/02d2XLNUOQ4MGoEVDGKF72) | 3:43 | 2021-11-10 | 2022-08-05 |
+| [Blue Oceans](https://open.spotify.com/track/1FmW4kMcr7nc0nAsULlCba) | [Basenerd](https://open.spotify.com/artist/7C3eFJCxTmVmJtd3L4VUkm) | [Blue Oceans](https://open.spotify.com/album/2NYjHPa1amP32jadMwHoWd) | 2:30 | 2026-09-04 |  |
 | [Bonded](https://open.spotify.com/track/0hnYazxKTDPQLlLpagEPyC) | [Constantine](https://open.spotify.com/artist/4NgDKxvldQPRHbJ3DOz1hv) | [Bonded](https://open.spotify.com/album/2bDWz8pmbSpCvDV72LibkL) | 3:00 | 2026-01-16 | 2026-07-09 |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2021-11-10 | 2024-12-21 |
 | [Border](https://open.spotify.com/track/4loHyp6Rhk3aOgdXz1n8Y0) | [8TYL](https://open.spotify.com/artist/0lW3Li71IqwPWQFYBuwVmQ) | [Border](https://open.spotify.com/album/2SQpSGWdyhaTHpTWB7wz84) | 6:02 | 2021-03-25 | 2022-01-22 |
@@ -147,10 +149,12 @@
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2021-11-10 | 2024-12-21 |
 | [Clear Blue](https://open.spotify.com/track/6sOuXvqt5nl8ruvuTx6HrI) | [Beechy Hayze](https://open.spotify.com/artist/0ayMvt8eo6a2HQwnu2q9Mi) | [Bahama Sunrise](https://open.spotify.com/album/2lfjn5YAOArHw60etvE3zB) | 3:04 | 2021-06-23 | 2021-08-25 |
 | [Clearance](https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx) | [Dan Awy](https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z) | [Clearance](https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW) | 2:47 | 2021-05-13 | 2021-10-16 |
+| [Clearing Sky](https://open.spotify.com/track/4jPaKmgyLx9BGcMdrUCgdp) | [Le Bloom](https://open.spotify.com/artist/2uuL4VWwOqA4i1fKHXZD46) | [Clearing Sky](https://open.spotify.com/album/06NtoGeEl9RpzhsOKD8LBa) | 2:15 | 2026-09-04 |  |
 | [cloudless](https://open.spotify.com/track/5XCUn3nfOkGJYOyGshdFhC) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [cloudless](https://open.spotify.com/album/6HyFrG0HkKZILVZJCwXt8U) | 3:03 | 2023-02-17 | 2025-12-13 |
 | [Clouds & Rainbows](https://open.spotify.com/track/6srEPAMJQ8JaVK9IvXmlCS) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Sunflower](https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845) | 3:09 | 2021-06-23 | 2025-03-15 |
 | [Cloudy Day](https://open.spotify.com/track/13teDpR5PDCELyacIqneXd) | [Elvira Sand](https://open.spotify.com/artist/1YOpKHmFAyC2IV7xGCgEyZ) | [Cloudy Day](https://open.spotify.com/album/68vJq1SyBGQUPqNAyxdct3) | 2:37 | 2021-07-09 | 2022-04-15 |
 | [Coara](https://open.spotify.com/track/1T8MbIsGETrnZjOYZq1LXk) | [Lonov](https://open.spotify.com/artist/3i78jXbtRy4krrgXqMxeVv) | [Rooftops](https://open.spotify.com/album/56PAoGMrDmfqE4Iiwa6VB4) | 5:00 | 2020-10-20\* | 2021-01-07 |
+| [Coastal Café](https://open.spotify.com/track/0lurOnUeeEjfzhSd2BEVC6) | [Onda Kura](https://open.spotify.com/artist/1KLWNkshpPh67SV3yyM1gJ) | [Coastal Café](https://open.spotify.com/album/4Mjz17O2kSx5bnoA7IPUka) | 2:19 | 2026-09-04 |  |
 | [Coastline](https://open.spotify.com/track/1uaM53HQVyWcim7agCjB15) | [Urban Curls](https://open.spotify.com/artist/6cvuKU8oG3PqgwiJreZLfI) | [Coastline](https://open.spotify.com/album/34E1TXm0e68uT476tkZxsk) | 3:20 | 2021-02-20 | 2022-05-11 |
 | [Cobalite](https://open.spotify.com/track/61BpdYOTzGUWJDsBI0dgYw) | [Static 99](https://open.spotify.com/artist/3KWyHBYuMIZF9fuhrhGoju) | [Cobalite](https://open.spotify.com/album/6ynZMKMRKo8rJKJZTabLWp) | 2:27 | 2025-12-12 | 2026-06-17 |
 | [Coffe Stream](https://open.spotify.com/track/7g7OUVpXR4VkPZh7TAm9TW) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Second Floor](https://open.spotify.com/album/4NyAacQTvQf1Qc78nnPUKk) | 1:55 | 2020-10-20\* | 2021-03-25 |
@@ -263,6 +267,7 @@
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2021-06-04 | 2021-10-16 |
 | [Flight Mode](https://open.spotify.com/track/7qkXUGRizQr30isUVuprza) | [Airdust](https://open.spotify.com/artist/0oVvIMz128nLKgCgmNgJLQ) | [Flight Mode](https://open.spotify.com/album/1BBzpUYZvkVQalkOJ7i8q6) | 3:56 | 2020-10-20\* | 2021-01-15 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-07-09 | 2024-12-07 |
+| [Flood Of Emotion](https://open.spotify.com/track/7LZ88oirlHPrcwukQkXknr) | [ZooKeepr](https://open.spotify.com/artist/07hMsm97BWS43F3TVTkl6W) | [Flood Of Emotion](https://open.spotify.com/album/0EXydxzSYIg0dj2nv0DcMg) | 3:40 | 2026-09-04 |  |
 | [Flume](https://open.spotify.com/track/53XQa4c87MqktZqgvNpnYh) | [Milli V](https://open.spotify.com/artist/0LFc7WT26EWXfv0wpPvPcT) | [Flume](https://open.spotify.com/album/1jojVLaHmyhGzEU6kPoKxz) | 2:16 | 2022-08-19 | 2025-02-15 |
 | [Fluorescent](https://open.spotify.com/track/4eLEHUHt6D7jMwnxRpfngG) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [Fluorescent](https://open.spotify.com/album/5X93VcPAgCDjvWPmboeX62) | 2:14 | 2025-03-14 |  |
 | [fondue](https://open.spotify.com/track/25E7Gm5ydvtJGOh0Ts6h6r) | [Gravitat](https://open.spotify.com/artist/71yk2Qb0fOJL0q8EgfVz0y) | [fondue](https://open.spotify.com/album/5uCQFE8xF2IlhwOEK6zu9F) | 3:29 | 2023-03-10 | 2023-08-05 |
@@ -308,6 +313,7 @@
 | [guidance](https://open.spotify.com/track/0CQ9nsxVPYnPV0AsOnSKFD) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [guidance](https://open.spotify.com/album/3LAbfKYJjzKVbHvnbwp9ih) | 3:22 | 2023-10-02 |  |
 | [Guybrush](https://open.spotify.com/track/5Uk37TLnoOQzOh5tH6iaDb) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moves EP](https://open.spotify.com/album/5zW05MYM8hD6pBbhbyjQlC) | 3:57 | 2021-08-25 | 2022-05-20 |
 | [Half Moon](https://open.spotify.com/track/2h0Ahh5pZBc65Tsr50ONyQ) | [Average Joes](https://open.spotify.com/artist/2ZYICU5wQyvNXtUX61Ekdy) | [Half Moon](https://open.spotify.com/album/2qWmY0H3JxfZR8IoDkEHnm) | 3:42 | 2025-04-02 | 2025-04-26 |
+| [Halo](https://open.spotify.com/track/2Gh4Gdk1CkeSTtMH9et0yC) | [Pure Recall](https://open.spotify.com/artist/2dUzuRhlSLxwEeMZ5C2hTt) | [Halo](https://open.spotify.com/album/3IOvqGuxeUrIxoxhVGTHBr) | 2:27 | 2026-09-04 |  |
 | [Hands Together](https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn) | [SOL LOS](https://open.spotify.com/artist/7kVyiWLcDMgRtgVbkXhnF8) | [Hands Together](https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p) | 3:09 | 2022-01-21 | 2023-04-07 |
 | [Hard to Forget](https://open.spotify.com/track/2Olk9hRPF4PMV6ymZoBY9a) | [Lumin](https://open.spotify.com/artist/3ab5hmLBz9pAkr1hGdLN2R) | [Hard to Forget](https://open.spotify.com/album/62rrbMfkxDNvpILsPxPl2x) | 2:32 | 2025-01-31 | 2026-06-17 |
 | [Haven](https://open.spotify.com/track/7dFxH93eSYwUvhhXRv2yoM) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Haven](https://open.spotify.com/album/1I9Zboat8AKj4GPAd5zado) | 2:11 | 2024-03-04 | 2026-06-17 |
@@ -460,6 +466,7 @@
 | [Midding](https://open.spotify.com/track/2jqPyoAGWAaxfjtHj8DZAb) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Midding](https://open.spotify.com/album/09KIZqC3nwi1nWWrb0Z0eL) | 7:32 | 2020-12-24 | 2021-03-25 |
 | [Midnight at 0300](https://open.spotify.com/track/3Vz1vdVQKW0nzUM9AdnAuk) | [Roffe & Friends](https://open.spotify.com/artist/62m78RjjiHUr7cr0vpvDig) | [Midnight at 0300](https://open.spotify.com/album/7xygJ75JkH4Hx4zcHVK3Hf) | 2:59 | 2022-07-29 | 2024-12-21 |
 | [Midnight Whisper](https://open.spotify.com/track/5WQvRyZe7Mh9EF3buwOX9m) | [Pure Recall](https://open.spotify.com/artist/2dUzuRhlSLxwEeMZ5C2hTt) | [Midnight Whisper](https://open.spotify.com/album/1HWq5dcGwsgbguwlXi1egR) | 2:17 | 2025-10-10 |  |
+| [Milk & Honey](https://open.spotify.com/track/4HRplrXAQSyMMDmPrXx0ry) | [Yoda Swings](https://open.spotify.com/artist/2DYf2Dz8b2oFY7R9ULbpO8) | [Milk & Honey](https://open.spotify.com/album/6MuFfmHFF3S4A2HV60Y3Di) | 2:26 | 2026-09-04 |  |
 | [Milky Way](https://open.spotify.com/track/0M8IQeV7lqQj2jfTmoQwUR) | [Zaytune](https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c) | [Milky Way](https://open.spotify.com/album/5dtdGmFKiiX1t9WOrCcJ1c) | 2:31 | 2025-09-05 |  |
 | [Milo's Journey](https://open.spotify.com/track/1qEHRkV4iBTkpYs50EbpDo) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milo's Journey](https://open.spotify.com/album/2HCniE0c6Gggdy1eW4DNdw) | 4:40 | 2020-10-20\* | 2021-03-25 |
 | [Mind](https://open.spotify.com/track/7spuHnkwHxd4ZMxRSFbdkL) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:28 | 2020-10-20\* | 2020-12-24 |
@@ -607,6 +614,7 @@
 | [Rest](https://open.spotify.com/track/4EbfTd8HFoAOF6fiSRVsvT) | [Yim](https://open.spotify.com/artist/79EyYkNpcR3MlT972PZoUc) | [Rest](https://open.spotify.com/album/5Y2NdAYpCSwQdFl0Es9ne2) | 4:03 | 2020-10-20\* | 2021-02-20 |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Retrocation](https://open.spotify.com/track/4nIsTgi29Dq5Ezf0zozalF) | [ELRY](https://open.spotify.com/artist/5LLikEV14ip9GPnrmbUQMU) | [Retrocation](https://open.spotify.com/album/3ke0nq3r9CGpGVVZAAeEik) | 2:21 | 2023-09-08 | 2026-06-17 |
+| [Retrovision](https://open.spotify.com/track/4mtSPUIBEe4lAb2jzybYVf) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Retrovision](https://open.spotify.com/album/6OaX4eketHtG2GWoZgZmaT) | 2:47 | 2026-09-04 |  |
 | [Reverie](https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs) | [Liona Lotus](https://open.spotify.com/artist/30aieRomfqWYR79BigbnoI) | [Reverie](https://open.spotify.com/album/02gm1MgsEebvH23TcrB8y3) | 3:14 | 2021-06-23 | 2022-01-22 |
 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 | 2021-04-15 | 2022-08-05 |
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2021-11-10 | 2024-12-07 |
@@ -776,6 +784,7 @@
 | [The Palms](https://open.spotify.com/track/6Pby1rzTNp8P68GVRDm4ag) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [The Palms](https://open.spotify.com/album/3PHjZlt9FRbcln2xvZvD0q) | 2:24 | 2025-10-10 | 2026-04-25 |
 | [The Rhythm Section](https://open.spotify.com/track/728uaKQI7UyB6q1f1A4jdH) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [The Rhythm Section](https://open.spotify.com/album/0eYmfB2FzX9LbkqcvevxSW) | 3:55 | 2021-11-10 | 2022-02-11 |
 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 | 2020-12-24 | 2021-05-13 |
+| [The Truth](https://open.spotify.com/track/23blk1VXxj6mnyejgBKF5Z) | [Nova Glitch](https://open.spotify.com/artist/5bbMdQv3pCzS20lYjRxpB1) | [The Truth](https://open.spotify.com/album/1fDvyy888f3JX4mmrMIJIY) | 3:38 | 2026-09-04 |  |
 | [them above](https://open.spotify.com/track/58YmpwQJIlJajkFVueUbpr) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [them above](https://open.spotify.com/album/3KCspD3wyitgrzU8aWxMgR) | 2:37 | 2022-04-15 | 2025-03-01 |
 | [There](https://open.spotify.com/track/01qXAjf3nFvBruXlYs6KXA) | [Jean Caillou](https://open.spotify.com/artist/5SBg90332jOPtNutyYo2Ns) | [Departure Unknown](https://open.spotify.com/album/2BED7q2PoMjs9gXvogPiGM) | 10:42 | 2021-03-25 | 2021-10-16 |
 | [This House](https://open.spotify.com/track/61led8yj4KZZZ2BxoEDZ77) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [Entry Ways](https://open.spotify.com/album/5NLdUGVmnCepkIihyUlcJB) | 3:32 | 2020-10-20\* | 2020-10-30 |
@@ -824,6 +833,7 @@
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2021-11-10 | 2025-09-06 |
 | [Visionary](https://open.spotify.com/track/20YRX2bwUvbAI4iJRBre5s) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 8:33 | 2020-12-24 | 2021-02-20 |
 | [Vista](https://open.spotify.com/track/38J1VYhn5pFUoBWtqMAZvL) | [Ellives](https://open.spotify.com/artist/2CoA1WpKkhxdQuiawOH2M5) | [Vista](https://open.spotify.com/album/5Hocgdec6HtcVBBj4EHBb4) | 2:31 | 2025-10-10 | 2026-03-21 |
+| [Vitamin E](https://open.spotify.com/track/3BNbzwNKCf34lDyk6iHjI8) | [dusque](https://open.spotify.com/artist/5q4rYOVVLMJfpitKocYCJK) | [Vitamin E](https://open.spotify.com/album/6OQAvgpU379xzlNI2zRs6z) | 2:45 | 2026-09-04 |  |
 | [Vivid Dreams \(Instrumental Version\)](https://open.spotify.com/track/2bmHQl3qPWw5N6bJcE1Z3M) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Vivid Dreams](https://open.spotify.com/album/1YH3SLlUYqaFDf1M2Vz0Mh) | 3:00 | 2020-10-20\* | 2020-10-30 |
 | [Voices](https://open.spotify.com/track/5fvfSFJgElOl3a6DhX7JCd) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Voices](https://open.spotify.com/album/3h0JWWcJoyIjgxW8stMYG4) | 2:22 | 2025-12-12 | 2026-03-21 |
 | [Voltage](https://open.spotify.com/track/0Bl88TTe40kWhtfOq9XJq1) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Voltage](https://open.spotify.com/album/3R8JdqahxNThBZtdFxV8ht) | 2:47 | 2024-07-14 | 2025-05-03 |

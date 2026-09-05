@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Tuffic en portada.",
+  "description": "Romance a la antig\u00fcita con Luciano Daniel en portada.",
   "name": "nuevo bolero",
   "tracks": [
     {
@@ -244,6 +244,24 @@
       "duration_ms": 200412,
       "name": "Ah\u00ed No Es",
       "url": "https://open.spotify.com/track/2ewabgeMs3vo8sGyuqqxTW"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Voy a Estar",
+        "url": "https://open.spotify.com/album/2fa6bOnqANv8YJXyCDulof"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198010,
+      "name": "Ah\u00ed Voy a Estar",
+      "url": "https://open.spotify.com/track/4NAEu17iNCwqn4uGbNiUrN"
     },
     {
       "album": {
@@ -698,7 +716,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 150564,
       "name": "Arrancando Flores",
       "url": "https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
@@ -1766,6 +1784,24 @@
       "duration_ms": 112500,
       "name": "Cuando Yo Fui Tu Clavel",
       "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+    },
+    {
+      "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/49skjf3CjwWrZK7NjdiG7K"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249790,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/3xIDI8AEo4Ll8NHwCGC6XB"
     },
     {
       "album": {
@@ -2992,7 +3028,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 234710,
       "name": "Flores Negras",
       "url": "https://open.spotify.com/track/0vAxwdooCkIKU0uDcLD1BR"
@@ -4146,7 +4182,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 188760,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/6POa4yNzSmqQLoqnwKtngG"
@@ -4500,6 +4536,24 @@
       "duration_ms": 172000,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/1eDw1RDHLzBQvqAuVUDw53"
+    },
+    {
+      "album": {
+        "name": "Mi Dolor Un Arte",
+        "url": "https://open.spotify.com/album/6VVK5cxMtdH1BECTeda9PP"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209473,
+      "name": "Mi Dolor Un Arte",
+      "url": "https://open.spotify.com/track/5rTobNqWGcnDzSbiPWuFRW"
     },
     {
       "album": {
@@ -5806,7 +5860,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 178909,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
@@ -6280,6 +6334,24 @@
       "duration_ms": 203761,
       "name": "Quiz\u00e1s (La Historia de Nosotros)",
       "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
+    },
+    {
+      "album": {
+        "name": "Quiz\u00e1s En Otro Bar",
+        "url": "https://open.spotify.com/album/79i3GTSiKlPaBWMdHiXLD2"
+      },
+      "artists": [
+        {
+          "name": "Anakaren Rwiz",
+          "url": "https://open.spotify.com/artist/2mVozhX75nzJ4ejors3dh6"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183890,
+      "name": "Quiz\u00e1s En Otro Bar",
+      "url": "https://open.spotify.com/track/4gLA1HXgbCjjZRZnqpicTd"
     },
     {
       "album": {
@@ -7087,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Solo La Noche",
+        "url": "https://open.spotify.com/album/3JZRclTqpAQaqsX1NWhSw8"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146960,
+      "name": "Solo La Noche",
+      "url": "https://open.spotify.com/track/7Han9waq7SuDjoRqUGut0F"
+    },
+    {
+      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/3F7GynYbqGGrexv8juxXvz"
       },
@@ -7356,6 +7446,24 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "album": {
+        "name": "Te lo Adverti",
+        "url": "https://open.spotify.com/album/5fLUIrG672gqR4P1wWmwYX"
+      },
+      "artists": [
+        {
+          "name": "Luciano Daniel",
+          "url": "https://open.spotify.com/artist/4cEVjXOZHhUhhJXItFhA33"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193552,
+      "name": "Te lo Adverti",
+      "url": "https://open.spotify.com/track/6QVlOrq27ie4li8UXdgm30"
     },
     {
       "album": {
@@ -8116,7 +8224,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171272,
       "name": "Una Ma\u00f1ana",
       "url": "https://open.spotify.com/track/59iMSvqe3XmRqhB9AS2bsM"

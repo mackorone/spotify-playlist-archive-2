@@ -3637,6 +3637,24 @@
     },
     {
       "album": {
+        "name": "es wird alles gut",
+        "url": "https://open.spotify.com/album/4GdnYEQ7jAJ9YElnKWJUpM"
+      },
+      "artists": [
+        {
+          "name": "LEVKA",
+          "url": "https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163980,
+      "name": "es wird alles gut",
+      "url": "https://open.spotify.com/track/7nrj5WCNiTjzf0ppQX22qL"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/10P9sY4n3L1duh6qWByMN5"
       },

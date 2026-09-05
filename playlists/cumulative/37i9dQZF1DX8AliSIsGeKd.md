@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: DJ HEARTSTRING, Sam Gellaitry
 
-7,539 songs - 25 day 9 hr 3 min
+7,540 songs - 25 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1481,6 +1481,7 @@
 | [Dark Moon](https://open.spotify.com/track/15yG9rOi3H03nzXHbRwak1) | [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Dark Moon](https://open.spotify.com/album/640ZskekEgkAptAr60UqrR) | 6:49 | 2023-05-04 | 2023-05-19 |
 | [Dark Night](https://open.spotify.com/track/62A3xUUX7dSivGKDDj5uTU) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu) | [Dark Night](https://open.spotify.com/album/01PSu2mQ48HPOYjrS3zxeR) | 7:03 | 2025-12-18 | 2026-01-23 |
 | [Dark Ocean](https://open.spotify.com/track/6djw4hnA30Rbn7Jq8qOqGe) | [Lost Rhythm](https://open.spotify.com/artist/6HKc9lMN8B5NoN113ncFLN) | [Dark Ocean](https://open.spotify.com/album/4IIH55DVtjzmOcPgTNQtmx) | 6:08 | 2023-04-27 | 2023-05-12 |
+| [Dark Places](https://open.spotify.com/track/4PKqgr1RUnfzhHAwLwwpEn) | [AZZEL 447](https://open.spotify.com/artist/6zheQMfixBDKGJrCmapLPB) | [44029](https://open.spotify.com/album/36mGm38RjzqJKJK0WTQ27b) | 3:40 | 2026-09-03 |  |
 | [Dark Sun](https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Dark Sun](https://open.spotify.com/album/01u976hEIH1nzhd386t1hO) | 6:46 | 2022-09-01 | 2022-09-23 |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-06 | 2023-04-28 |
 | [Dark Underground](https://open.spotify.com/track/7FElWbmL0ZtLYjIbhlziAl) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Dark Underground](https://open.spotify.com/album/7atHQ1eAP0bXPhY5ziVZdh) | 5:45 | 2025-02-06 | 2025-02-21 |
@@ -6691,6 +6692,7 @@
 | [Time](https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Time](https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s) | 4:14 | 2023-09-07 | 2023-09-29 |
 | [Time](https://open.spotify.com/track/0D2ZpjADoTgRyopBUAzRSs) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Time](https://open.spotify.com/album/1hh3y77ZlGnhBqiyAoGiOn) | 3:08 | 2026-06-18 | 2026-07-03 |
 | [Time & Space \- Radio Edit](https://open.spotify.com/track/2t0PGK3AAEql92fDUmQ2g7) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn) | [Time & Space](https://open.spotify.com/album/2RjdU9W7lz4OL62Z6RJR0V) | 2:37 | 2026-08-13 | 2026-08-28 |
+| [Time \- Edit](https://open.spotify.com/track/4htvRYhJ56RRP6w8xgxZoO) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [Obsessions](https://open.spotify.com/album/470qxohAZhjO90CdzyRdoh) | 2:46 | 2026-09-04 |  |
 | [Time \- Fabio Fusco Remix](https://open.spotify.com/track/4V8TpfFOo3YgbJALG4T41r) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7) | [Time \(Fabio Fusco Remix\)](https://open.spotify.com/album/4164VDyNrmuv83oxgSRY9v) | 4:17 | 2024-10-31 | 2024-11-22 |
 | [Time Expands](https://open.spotify.com/track/22nmVMHu9jWcoRwNvtQuSE) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Time Expands](https://open.spotify.com/album/5WFhrKjglAEdacNAi77K1M) | 3:24 | 2023-09-28 | 2023-10-20 |
 | [Time Goes By](https://open.spotify.com/track/7zyxZ3eOr35H12Ag0NSBHU) | [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Time Goes By / Unsaid](https://open.spotify.com/album/0Jo5Xaqe5aZNkYwlHW9XQp) | 6:10 | 2025-04-10 | 2025-05-02 |
@@ -6792,7 +6794,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/4PKqgr1RUnfzhHAwLwwpEn) | [AZZEL 447](https://open.spotify.com/artist/6zheQMfixBDKGJrCmapLPB) | [44029](https://open.spotify.com/album/36mGm38RjzqJKJK0WTQ27b) | 0:00 | 2026-09-03 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

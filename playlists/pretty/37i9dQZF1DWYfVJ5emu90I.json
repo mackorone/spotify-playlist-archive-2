@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26620,
+  "num_followers": 26622,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Get Litty?",
-        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
-      },
-      "artists": [
-        {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
-        },
-        {
-          "name": "C.O.S.A.",
-          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
-        }
-      ],
-      "duration_ms": 157139,
-      "name": "BOUNCE (feat. C.O.S.A.)",
-      "url": "https://open.spotify.com/track/0FoSjnPhkhgnvWG9IqpVfC"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "Kick Up (feat. ralph)",
         "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 187696,
       "name": "Kick Up (feat. ralph)",
       "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        }
+      ],
+      "duration_ms": 157139,
+      "name": "BOUNCE (feat. C.O.S.A.)",
+      "url": "https://open.spotify.com/track/0FoSjnPhkhgnvWG9IqpVfC"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q"
       },
       "artists": [
         {
-          "name": "D3adStock",
-          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
         }
       ],
-      "duration_ms": 110500,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
+      "duration_ms": 205628,
+      "name": "Go (feat. Benjazzy)",
+      "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

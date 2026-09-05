@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Nezzah",
-  "num_followers": 27296,
+  "num_followers": 27302,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAaJmq2iPG+Bo/DuoI8XSzvTYYGQ",
+  "snapshot_id": "AAAAAGNKbQ2wcuSuWupWsxgm7hMd6B4B",
   "tracks": [
     {
       "added_at": "2026-08-28 04:59:16",
@@ -23,6 +23,22 @@
       "duration_ms": 172432,
       "name": "Las Notas Ser\u00e1n Besos",
       "url": "https://open.spotify.com/track/5DqzMGW2RiwZkSTOq99K8q"
+    },
+    {
+      "added_at": "2026-09-04 04:59:27",
+      "album": {
+        "name": "los mismos",
+        "url": "https://open.spotify.com/album/5nLOCyJsb6SBlPiSbXk5LM"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 161300,
+      "name": "los mismos",
+      "url": "https://open.spotify.com/track/49ASTjrn5GshpsttKeCRSI"
     },
     {
       "added_at": "2026-08-21 04:59:15",
@@ -71,6 +87,26 @@
       "duration_ms": 170056,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/6oF8AtV05wijGlaYqDBeds"
+    },
+    {
+      "added_at": "2026-09-04 04:59:27",
+      "album": {
+        "name": "No Fue Falta de Amor",
+        "url": "https://open.spotify.com/album/4ULOxxXeLNcA502j8CjnjR"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "No Fue Falta de Amor",
+      "url": "https://open.spotify.com/track/55jsFyf6WfQ85t0JCrSZP2"
     },
     {
       "added_at": "2026-05-22 04:59:42",
@@ -675,26 +711,6 @@
     {
       "added_at": "2026-03-26 19:05:39",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK"
-      },
-      "artists": [
-        {
-          "name": "Xavier Martinex",
-          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
-        },
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 188507,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z"
-    },
-    {
-      "added_at": "2026-03-26 19:05:39",
-      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p"
       },
@@ -731,38 +747,6 @@
       "duration_ms": 197958,
       "name": "Amor Barato",
       "url": "https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg"
-    },
-    {
-      "added_at": "2026-03-26 19:05:39",
-      "album": {
-        "name": "Caribe Caribe",
-        "url": "https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 240437,
-      "name": "Aleros/Pompeii",
-      "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
-    },
-    {
-      "added_at": "2025-07-18 22:47:50",
-      "album": {
-        "name": "Kinesis",
-        "url": "https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 199137,
-      "name": "Navego",
-      "url": "https://open.spotify.com/track/5ADyMWZM9dBKvRjCrfbu7j"
     },
     {
       "added_at": "2026-03-26 19:05:39",

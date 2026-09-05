@@ -3901,6 +3901,28 @@
     },
     {
       "album": {
+        "name": "Che Bella Vita (con Angelina Mango)",
+        "url": "https://open.spotify.com/album/1Y3WHJSYWtpVFUNqQ0zo4b"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        },
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167828,
+      "name": "Che Bella Vita (con Angelina Mango)",
+      "url": "https://open.spotify.com/track/6mn3IXt1IIQh22zgVK8u6G"
+    },
+    {
+      "album": {
         "name": "Che cos'\u00e8 l'amore ? (from Billboard Italia \"Women in Music\")",
         "url": "https://open.spotify.com/album/3wyE4cwkTAKOzYCIB0WG24"
       },

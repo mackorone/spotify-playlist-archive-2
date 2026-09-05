@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Ezra Collective",
+  "description": "New jazz for open minds. Cover: Linda Sikhakhane",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -9726,7 +9726,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 284066,
       "name": "Days Begin To Sing",
       "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
@@ -14636,7 +14636,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 390000,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5AHCGY9OE9ZxsqVrXrmyfc"
@@ -22137,6 +22137,24 @@
     },
     {
       "album": {
+        "name": "Lil Lullaby",
+        "url": "https://open.spotify.com/album/09L6XiqDLlkNZAvCdcLfOD"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238360,
+      "name": "Lil Lullaby",
+      "url": "https://open.spotify.com/track/36sS5GnenEZM4kw6aPcYwx"
+    },
+    {
+      "album": {
         "name": "The Swedish Songbook",
         "url": "https://open.spotify.com/album/505BfjZobC1dKVOMWqtRc8"
       },
@@ -26280,7 +26298,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 200569,
       "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
       "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
@@ -28590,7 +28608,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 116000,
       "name": "Out of Range",
       "url": "https://open.spotify.com/track/2Yk0XC7TvfevTBHyOjk2lt"
@@ -33183,6 +33201,36 @@
     },
     {
       "album": {
+        "name": "Mabui",
+        "url": "https://open.spotify.com/album/6razfP1h1f2P4hQ6AyeBwp"
+      },
+      "artists": [
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u9ad8\u6a4b\u4f51\u6210",
+          "url": "https://open.spotify.com/artist/3G2zdYCaGsctXWxSZjchZv"
+        },
+        {
+          "name": "\u30de\u30fc\u30c6\u30a3\u30fb\u30db\u30ed\u30d9\u30c3\u30af",
+          "url": "https://open.spotify.com/artist/4PSDkzRHb6bFCNh9wS0Uyj"
+        },
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462994,
+      "name": "Sepiageshiki",
+      "url": "https://open.spotify.com/track/4jpoJonqUhxgdJllbwQaG0"
+    },
+    {
+      "album": {
         "name": "Serenity's Illumination",
         "url": "https://open.spotify.com/album/355jh4TUAGKpm4U0WeQkL3"
       },
@@ -34104,6 +34152,24 @@
       "duration_ms": 220000,
       "name": "Sky",
       "url": "https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS"
+    },
+    {
+      "album": {
+        "name": "Sky River",
+        "url": "https://open.spotify.com/album/0QNbQmug6RBmjJu2guua2H"
+      },
+      "artists": [
+        {
+          "name": "Oded Tzur",
+          "url": "https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340644,
+      "name": "Sky River",
+      "url": "https://open.spotify.com/track/1FWuIyODkKQVVyrvtYcaT4"
     },
     {
       "album": {
@@ -36111,6 +36177,24 @@
     },
     {
       "album": {
+        "name": "Strange Attractor",
+        "url": "https://open.spotify.com/album/3noVMElhM5Tm6bnI7fAuJD"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373123,
+      "name": "Strange Attractor",
+      "url": "https://open.spotify.com/track/0IRjmouGKjH2S4Q8pR1qac"
+    },
+    {
+      "album": {
         "name": "Strange Habits",
         "url": "https://open.spotify.com/album/2IILdNlI6l9FO8Sj08Nr1k"
       },
@@ -36770,6 +36854,24 @@
       "duration_ms": 166448,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/7AMcu9TrTEw0jSYKNjXyGD"
+    },
+    {
+      "album": {
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/0ocFkJexb6rK72l2ADnlhV"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Supermoon",
+      "url": "https://open.spotify.com/track/1MwvTlMriZ8JiiW55ULXKA"
     },
     {
       "album": {
@@ -38934,7 +39036,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 338517,
       "name": "The Law of Diminishing Returns - Radio",
       "url": "https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t"
@@ -42551,6 +42653,28 @@
     },
     {
       "album": {
+        "name": "L I N D A",
+        "url": "https://open.spotify.com/album/7x2JzSfNmUlyePxPt7aiKQ"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Thabo Sikhakhane",
+          "url": "https://open.spotify.com/artist/64JbR3gFMOgojfpuxVFe6L"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274853,
+      "name": "Uzalo",
+      "url": "https://open.spotify.com/track/5fKqhPqp3870idM9vAGDZP"
+    },
+    {
+      "album": {
         "name": "Curly",
         "url": "https://open.spotify.com/album/2lb3nbgbib5gcK1kPyxXbg"
       },
@@ -44140,7 +44264,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 189948,
       "name": "who knows",
       "url": "https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw"

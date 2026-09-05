@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Nate Diaz",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Emanuel Deliser",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -5162,7 +5162,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 154282,
       "name": "Amarte Igual",
       "url": "https://open.spotify.com/track/2h25W0rzXFYMNwkwLuB7Sh"
@@ -7742,7 +7742,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 319897,
       "name": "Avivamiento - En Vivo Desde Per\u00fa",
       "url": "https://open.spotify.com/track/6o6p2jE3RPT1S9FqiLFEvL"
@@ -12762,6 +12762,28 @@
       "duration_ms": 169043,
       "name": "Como Eh",
       "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
+    },
+    {
+      "album": {
+        "name": "Como El Ciervo",
+        "url": "https://open.spotify.com/album/3hMD2MIZuMdl4PzGBrrwBS"
+      },
+      "artists": [
+        {
+          "name": "Madely Marquez",
+          "url": "https://open.spotify.com/artist/2G3YzUygaRk7t5ln7dg8w7"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 713745,
+      "name": "Como El Ciervo",
+      "url": "https://open.spotify.com/track/38sgBbh5bAd1BslhcgTqGK"
     },
     {
       "album": {
@@ -41136,7 +41158,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 373428,
       "name": "La Voz De Mi Padre",
       "url": "https://open.spotify.com/track/4adfWAlbzg9d49D8BK0yQW"
@@ -49736,7 +49758,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 470581,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/5iUPObkgjmeO7ve4fDmJ8K"
@@ -54966,7 +54988,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 247983,
       "name": "NO TIENES IGUAL",
       "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
@@ -56810,7 +56832,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 188586,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/14t6bEV9Efq9yor2RuJoli"
@@ -61643,6 +61665,24 @@
     },
     {
       "album": {
+        "name": "Zoe",
+        "url": "https://open.spotify.com/album/3hilvEg9HB6nEpl370G7kj"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Deliser",
+          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216342,
+      "name": "Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/4bkIkGM4JytM0Ppit01AzD"
+    },
+    {
+      "album": {
         "name": "PR\u00d3DIGO",
         "url": "https://open.spotify.com/album/1v9EFduo7F8IMMTnF2XCPq"
       },
@@ -61958,7 +61998,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 552988,
       "name": "Puro",
       "url": "https://open.spotify.com/track/7jEFRYS2thK0FoCYJq4ZLa"
@@ -62774,6 +62814,24 @@
       "duration_ms": 638315,
       "name": "Quiero Adorar a Cristo / C\u00f3mo Te Amamos",
       "url": "https://open.spotify.com/track/2F8NkPQxLHbWkHpBWaEy56"
+    },
+    {
+      "album": {
+        "name": "quiero agradecerte",
+        "url": "https://open.spotify.com/album/3gC6d0d2YMWoyGSVi4xXn0"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221686,
+      "name": "quiero agradecerte",
+      "url": "https://open.spotify.com/track/51Zqq7JGlHpG6wjoL5pHCj"
     },
     {
       "album": {
@@ -64354,6 +64412,24 @@
       "duration_ms": 297250,
       "name": "Rescatero(Medley): Quitamancha, Vean, Deja Que Te Toque, Loco, Quiero M\u00e1s Paz",
       "url": "https://open.spotify.com/track/4aKMGxNmkFkx4FWuOuZGNc"
+    },
+    {
+      "album": {
+        "name": "Resc\u00e1tame del Lodo",
+        "url": "https://open.spotify.com/album/1z9AMVXgljdjbrOKlALV3F"
+      },
+      "artists": [
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581444,
+      "name": "Resc\u00e1tame del Lodo",
+      "url": "https://open.spotify.com/track/3UhLrf6XYCvievJ5wBRRzN"
     },
     {
       "album": {
@@ -69393,6 +69469,28 @@
     },
     {
       "album": {
+        "name": "Simplemente Gracias (Remix)",
+        "url": "https://open.spotify.com/album/11TgMnzBttHsB5GM6Owo0M"
+      },
+      "artists": [
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        },
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180181,
+      "name": "Simplemente Gracias - Remix",
+      "url": "https://open.spotify.com/track/07adaSzY6gC7DvmmI4UfLL"
+    },
+    {
+      "album": {
         "name": "PAR\u00c9NTESIS",
         "url": "https://open.spotify.com/album/1T4TZDs7wcFvaHXv6hJVTv"
       },
@@ -73890,6 +73988,24 @@
     {
       "album": {
         "name": "Te Bendecir\u00e9",
+        "url": "https://open.spotify.com/album/5TdmROr7DwMgNreeW706sW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215166,
+      "name": "Te Bendecir\u00e9",
+      "url": "https://open.spotify.com/track/31jlnd0JgUw544Ejggh5Th"
+    },
+    {
+      "album": {
+        "name": "Te Bendecir\u00e9",
         "url": "https://open.spotify.com/album/7jdZaGlroSUhRoWFEZ9BdT"
       },
       "artists": [
@@ -75856,6 +75972,28 @@
       "duration_ms": 196043,
       "name": "Todo",
       "url": "https://open.spotify.com/track/1OEP4LDxwdo8IH65hxe9mD"
+    },
+    {
+      "album": {
+        "name": "Todo a Cristo",
+        "url": "https://open.spotify.com/album/5PEasngggn8KoYgMkHAb6K"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350110,
+      "name": "Todo a Cristo",
+      "url": "https://open.spotify.com/track/2RDwakLoQx2uzPgBoKRkOi"
     },
     {
       "album": {
@@ -78413,6 +78551,24 @@
     },
     {
       "album": {
+        "name": "Tu Palabra (10 Aniversario)",
+        "url": "https://open.spotify.com/album/5Bq7EW3KI4eL7gOvjD16Ez"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Tu Palabra - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3jsqLH5JukDaDZHEKbEEup"
+    },
+    {
+      "album": {
         "name": "Tu Palabra",
         "url": "https://open.spotify.com/album/3mScgPagLcWdG1d5L6QMZf"
       },
@@ -80296,6 +80452,28 @@
       "duration_ms": 245652,
       "name": "Un Mejor Lugar",
       "url": "https://open.spotify.com/track/5kTs12g8npLw1i34XA4xQ3"
+    },
+    {
+      "album": {
+        "name": "Un Momento",
+        "url": "https://open.spotify.com/album/6FLRIgDJcucPXNCN8UtMYt"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Bueno",
+          "url": "https://open.spotify.com/artist/3583URsjwdBL39M6t9Y3TM"
+        },
+        {
+          "name": "Luis Bueno",
+          "url": "https://open.spotify.com/artist/3Rh6iPLSp4CboIFqGXBzIN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347456,
+      "name": "Un Momento",
+      "url": "https://open.spotify.com/track/0bePk02051sVhHyp7OycIc"
     },
     {
       "album": {
@@ -85978,7 +86156,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 243656,
       "name": "Yo Ir\u00e9 (Live In Orson Welles)",
       "url": "https://open.spotify.com/track/3cY2LfA3ASnl7vxWPHvdbZ"
@@ -86904,7 +87082,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 557595,
       "name": "\u00bfDe Qu\u00e9 Me Sirven?",
       "url": "https://open.spotify.com/track/5f3nLiHGsV8CiAT7Yz6MGN"

@@ -6053,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Soundshield for Thoughts",
+        "url": "https://open.spotify.com/album/7p9mx3275dSA2lIiPsrADU"
+      },
+      "artists": [
+        {
+          "name": "Siltwave Library",
+          "url": "https://open.spotify.com/artist/0V0sLW2XdwFsJkLAActfmw"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139301,
+      "name": "Half-noise Half-silence",
+      "url": "https://open.spotify.com/track/6VgiGRSewGRBnkm3RuEMat"
+    },
+    {
+      "album": {
         "name": "Harmonic Brown",
         "url": "https://open.spotify.com/album/5zdbdqrWjIERMAy2NZ0i3Z"
       },
@@ -6766,7 +6784,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 144149,
       "name": "Low Pink Noise",
       "url": "https://open.spotify.com/track/1S81caEnVTmrBBfN61Gmsq"
@@ -7346,6 +7364,24 @@
       "duration_ms": 190000,
       "name": "Noise Dream",
       "url": "https://open.spotify.com/track/7s5bkyULE2gi9UXNWOippx"
+    },
+    {
+      "album": {
+        "name": "Noise for Busy Minds",
+        "url": "https://open.spotify.com/album/1XkCTfTnsCCpY5Ypg8mDv7"
+      },
+      "artists": [
+        {
+          "name": "Streambed Aura",
+          "url": "https://open.spotify.com/artist/0aRj3s9iYHZLAvP81hgFPH"
+        }
+      ],
+      "date_added": "2026-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133592,
+      "name": "Noise for Busy Minds",
+      "url": "https://open.spotify.com/track/41z2ALllzJwfBUGWmpOrdd"
     },
     {
       "album": {
@@ -9898,7 +9934,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184000,
       "name": "Pink Ocean Noise",
       "url": "https://open.spotify.com/track/0KatpWra5ggkO4Jc4QLlgJ"

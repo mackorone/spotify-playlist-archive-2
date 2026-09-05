@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: unfazed",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Jason Derulo, The Second Voice, Qing Madi",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -5048,6 +5048,36 @@
       "duration_ms": 161538,
       "name": "Bounce Around (feat. Paolo Pellegrino, Lotus, Shibui)",
       "url": "https://open.spotify.com/track/5xjKdP0kcZtL2AsCeCIgpb"
+    },
+    {
+      "album": {
+        "name": "Bounce Generation (NOBILEE X TBR 2026 Remix)",
+        "url": "https://open.spotify.com/album/43kTVe9TJIgmOQqpM4JHBF"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "NOBILEE",
+          "url": "https://open.spotify.com/artist/3bpyd2gHLELtjKVGh6OjZ5"
+        },
+        {
+          "name": "TBR",
+          "url": "https://open.spotify.com/artist/5qpNUMXSRYc7FOLIjcYWzv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Bounce Generation (NOBILEE X TBR 2026 Remix)",
+      "url": "https://open.spotify.com/track/5RL0Hh4GAaTa9K4rwwFG7A"
     },
     {
       "album": {
@@ -24275,6 +24305,28 @@
     },
     {
       "album": {
+        "name": "Love You Better (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/2IoAPKsUzG073Jbj1SmUeM"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185226,
+      "name": "Love You Better (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/7FaO06Mz257zOEa8PZJudY"
+    },
+    {
+      "album": {
         "name": "Love You Inside Out",
         "url": "https://open.spotify.com/album/0TyE77s9mLdwGuhuRxxIqv"
       },
@@ -24564,6 +24616,24 @@
       "duration_ms": 181384,
       "name": "Lowkey (with Liquid Silva)",
       "url": "https://open.spotify.com/track/5bXWpj4RxYxMtichvf4Rwe"
+    },
+    {
+      "album": {
+        "name": "LOXOXO",
+        "url": "https://open.spotify.com/album/3gsB7UO5LLi0Nj5m7DtNpG"
+      },
+      "artists": [
+        {
+          "name": "Fenrick",
+          "url": "https://open.spotify.com/artist/4xfKbQQytFl4LWMGe2v5P3"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "LOXOXO",
+      "url": "https://open.spotify.com/track/32cD7ANJ0mcLv8lThivNo0"
     },
     {
       "album": {
@@ -44096,6 +44166,28 @@
       "duration_ms": 154784,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
+    },
+    {
+      "album": {
+        "name": "Whisper (Will Sparks Remix)",
+        "url": "https://open.spotify.com/album/65L0TBoAZEzM4LYLoienZJ"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221052,
+      "name": "Whisper (Will Sparks Remix)",
+      "url": "https://open.spotify.com/track/1hiur3gFNheVisQGaKArsI"
     },
     {
       "album": {

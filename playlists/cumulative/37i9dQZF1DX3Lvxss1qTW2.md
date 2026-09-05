@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Muyeez
 
-871 songs - 1 day 16 hr 5 min
+871 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Pressure II](https://open.spotify.com/track/1lu5gxuLEmX27Jivnzy2Vc) | [WLR](https://open.spotify.com/artist/5OUSeRjRJmhGoeZ3iYYKfT), [MYRON](https://open.spotify.com/artist/4zkMLMoQabRa9pPEfaTG2W), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Pressure II](https://open.spotify.com/album/0UGn6SKerPlUVGfBcvr0rH) | 3:18 | 2026-05-01 | 2026-07-31 |
 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 | 2025-03-28 | 2025-08-23 |
 | [Prodigal](https://open.spotify.com/track/4AzjDZudZxhTvv7c0bx1RV) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Prodigal](https://open.spotify.com/album/6EJI47BoVplR1bbCDjHtp0) | 2:44 | 2024-08-09 | 2025-01-22 |
+| [Pronto](https://open.spotify.com/track/0SodZrpNCV81H9aFMa4YgQ) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Full Moon](https://open.spotify.com/album/6XXZ8PrtBAYhX8G9UsU0MH) | 2:47 | 2026-09-04 |  |
 | [Pull Over](https://open.spotify.com/track/40N72jM3hFr8jIl8s1HSEl) | [Doncarta](https://open.spotify.com/artist/5Z63FmpC8AabOGYc0asXU3), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Pull Over](https://open.spotify.com/album/6La7mFfoiK4D76FrvF44ON) | 2:28 | 2024-06-28 | 2024-07-27 |
 | [Punish You](https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Sh!t I Never Finished](https://open.spotify.com/album/0CQUMzUcAmp83gZjdMDiMv) | 2:28 | 2025-12-05 | 2026-01-29 |
 | [Puppets](https://open.spotify.com/track/1AS2pkSabi4z03bA1PFsDR) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Days Before NOSANGE](https://open.spotify.com/album/4tywzj5LMaCCNJwn6SnD5i) | 2:27 | 2026-01-28 | 2026-02-13 |
@@ -787,7 +788,6 @@
 | [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 | 2026-05-26 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
-| [Track 7](https://open.spotify.com/track/0SodZrpNCV81H9aFMa4YgQ) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Full Moon](https://open.spotify.com/album/6XXZ8PrtBAYhX8G9UsU0MH) | 0:00 | 2026-09-04 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

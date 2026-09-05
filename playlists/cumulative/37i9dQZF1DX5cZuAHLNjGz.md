@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Parmish Verma
+> Ultimate 101 Punjabi Hits with Jxggi
 
 608 songs - 1 day 6 hr 59 min
 

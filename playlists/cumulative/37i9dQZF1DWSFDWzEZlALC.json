@@ -16223,6 +16223,24 @@
     },
     {
       "album": {
+        "name": "Ein L\u00e4cheln im Gesicht",
+        "url": "https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m"
+      },
+      "artists": [
+        {
+          "name": "Farin Urlaub",
+          "url": "https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140494,
+      "name": "Irgendwas von Bach",
+      "url": "https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41"
+    },
+    {
+      "album": {
         "name": "Einmal ist keinmal",
         "url": "https://open.spotify.com/album/79L6eUMYi5FRixMuPsLq8V"
       },
@@ -30874,24 +30892,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "Ein L\u00e4cheln im Gesicht",
-        "url": "https://open.spotify.com/album/1jzMubbwDw3cwMv3ZCoN2m"
-      },
-      "artists": [
-        {
-          "name": "Farin Urlaub",
-          "url": "https://open.spotify.com/artist/1MfMEINKi23iSLoLcLVGRy"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/6rVBsXRKYooF90N7bksN41"
     },
     {
       "album": {

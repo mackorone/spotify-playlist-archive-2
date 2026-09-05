@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Dancefloor Erotica",
+        "url": "https://open.spotify.com/album/4cqQq02nWguqcZmn137K0V"
+      },
+      "artists": [
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208368,
+      "name": "Black Bugatti",
+      "url": "https://open.spotify.com/track/26ZQDzHWyLPswpCD9LcDjc"
+    },
+    {
+      "album": {
         "name": "Past Progressive",
         "url": "https://open.spotify.com/album/0A5WvtaB92HiMLxiJcOvZ3"
       },

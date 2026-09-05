@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "El Quelite (De la serie \"Mal De Amores\")",
+        "url": "https://open.spotify.com/album/0DygQgiQ0c1NjstgGJW8TI"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "El Quelite - De la serie \"Mal De Amores\"",
+      "url": "https://open.spotify.com/track/1LgNJvrcdqy8GqM6AnsgTP"
+    },
+    {
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -1420,7 +1438,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 218479,
       "name": "No S\u00e9 (feat. Girl Ultra)",
       "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"

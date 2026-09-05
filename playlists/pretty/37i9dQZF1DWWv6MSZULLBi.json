@@ -1,13 +1,193 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Le Ren",
-  "num_followers": 166275,
+  "description": "A laid-back trip in the folk scene. Cover: young friend",
+  "num_followers": 166283,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOTK3Qm/9XdK/vz+Lw14FKx9sxy",
+  "snapshot_id": "AAAAAB/HMlhZ90x6Bu1OC855JYmSlm1l",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Fatal Optimist (UN-unplugged)",
+        "url": "https://open.spotify.com/album/0q9IYqERRBRoQFluD6wKSO"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "Why\u2019d You Have To Bring Me Flowers - UN-unplugged",
+      "url": "https://open.spotify.com/track/5A1Iac0CrFmOcGLiUzBt9z"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Anything Anything",
+        "url": "https://open.spotify.com/album/5K4hP3VRzjea4wXYoeYWi9"
+      },
+      "artists": [
+        {
+          "name": "young friend",
+          "url": "https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Anything Anything",
+      "url": "https://open.spotify.com/track/5z0cWacpqhkgR0FfBEPqP9"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "It's Not Easy (Falling In Love)",
+      "url": "https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "The Way That It Wasn\u2019t",
+        "url": "https://open.spotify.com/album/7iaQaNp61VXLEhPdoIvvAO"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 249215,
+      "name": "The Way That It Wasn\u2019t",
+      "url": "https://open.spotify.com/track/4c5l3LR7lWFtvwKVhJD46P"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Blue Sky, Don't Cry",
+        "url": "https://open.spotify.com/album/2EVl4soWPj1NSVlAFRUJKs"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 266250,
+      "name": "Blue Sky, Don't Cry",
+      "url": "https://open.spotify.com/track/3tW7WprsVhHCAZHk9UGDHF"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Are You Tired?",
+        "url": "https://open.spotify.com/album/2tsBtORw2p2S5JFgk1AzJC"
+      },
+      "artists": [
+        {
+          "name": "The Bankes Brothers",
+          "url": "https://open.spotify.com/artist/3O4NBsokz0M9tv0vGzpv4o"
+        }
+      ],
+      "duration_ms": 180006,
+      "name": "Are You Tired?",
+      "url": "https://open.spotify.com/track/3Ggh2vgNFl1pHfp6GEO7kY"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "The Leaving Kind",
+        "url": "https://open.spotify.com/album/2icvLcu0xWjqlrvuAvu2YC"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "The Leaving Kind",
+      "url": "https://open.spotify.com/track/6IRzHSf6UBVFfXC4Lqh2JF"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Painting The Walls",
+        "url": "https://open.spotify.com/album/55daGLH0FR6BB9NJBu5W8n"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "Painting The Walls",
+      "url": "https://open.spotify.com/track/0iMZzz7aMj1XAyQIevdzzF"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/31VrYEC62Apx439TwuGfVt"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 143823,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/3VneXYcEtw6ZsVgGSOi1Op"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/5cDXhxIMcmRgr8g3B9JZKT"
+      },
+      "artists": [
+        {
+          "name": "Close Kicks",
+          "url": "https://open.spotify.com/artist/3pQw5S2Z06nDHl0s2p7Ooq"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6c8atDBcb1iEzxwIsDqpap"
+    },
     {
       "added_at": "2026-08-28 04:03:49",
       "album": {
@@ -23,6 +203,38 @@
       "duration_ms": 170826,
       "name": "Otherwise, I'm Fine",
       "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/0qOOdE39GNJsV2SjkavpNE"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ellsworth",
+          "url": "https://open.spotify.com/artist/3YZWrLzjRyroaj0DVpPEFd"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Sorry for Everything",
+      "url": "https://open.spotify.com/track/6ckTr6wN5JHDWdvK1JRgWj"
+    },
+    {
+      "added_at": "2026-09-04 04:03:30",
+      "album": {
+        "name": "Let's Go Far: Vol. 1",
+        "url": "https://open.spotify.com/album/4FZrEZF2B4zaiC0icWNITX"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "My Dark Places",
+      "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
     },
     {
       "added_at": "2026-08-28 04:03:49",
@@ -2137,54 +2349,6 @@
       "url": "https://open.spotify.com/track/1qbTh2COQvvz3wzsUdb64f"
     },
     {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/6NnkN5pzGSD9kXgc3X6SkR"
-      },
-      "artists": [
-        {
-          "name": "Drucker",
-          "url": "https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks"
-        }
-      ],
-      "duration_ms": 198924,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/5NsLNt21kTY69aLtU9J1ga"
-    },
-    {
-      "added_at": "2026-07-17 04:03:01",
-      "album": {
-        "name": "A Blooming Body",
-        "url": "https://open.spotify.com/album/3HrIhOs6N3qLz52crWhspQ"
-      },
-      "artists": [
-        {
-          "name": "Cinder Well",
-          "url": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV"
-        }
-      ],
-      "duration_ms": 223674,
-      "name": "Of Nettles and Roses",
-      "url": "https://open.spotify.com/track/5PjpDDm31DevJTdSTuRrRS"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Track Team",
-        "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 205412,
-      "name": "Track Team",
-      "url": "https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8"
-    },
-    {
       "added_at": "2026-07-10 04:03:19",
       "album": {
         "name": "Home In Your Broken Heart",
@@ -2251,150 +2415,6 @@
       "duration_ms": 250520,
       "name": "Searchlight (ft. Kashus Culpepper)",
       "url": "https://open.spotify.com/track/0cEwQVCHALAXWAHqIiqudp"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Right Now (Bouquet Version)",
-        "url": "https://open.spotify.com/album/0pKVNtlghMWCm9FV7szYCW"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 174008,
-      "name": "Right Now - Bouquet Version",
-      "url": "https://open.spotify.com/track/0pahIPR9i0l549a4ftxex5"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Los Ojos Del C\u00f3ndor",
-        "url": "https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Los Ojos Del C\u00f3ndor",
-      "url": "https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Full Moon Chamber",
-        "url": "https://open.spotify.com/album/0wiTPWUxtCXFCgtEsoqMea"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "You Make It Easy",
-      "url": "https://open.spotify.com/track/5rJYLtLtWOnEGdu5yjxIya"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Being Free",
-        "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
-        }
-      ],
-      "duration_ms": 216598,
-      "name": "Being Free",
-      "url": "https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Hiding Places",
-        "url": "https://open.spotify.com/album/0Gb7pcU9WAk6tP3Nh1WTYC"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 165782,
-      "name": "Never in Love",
-      "url": "https://open.spotify.com/track/12zMISWKPX9HqBx871hlOL"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Not on the Run",
-        "url": "https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp"
-      },
-      "artists": [
-        {
-          "name": "True Quiet",
-          "url": "https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO"
-        }
-      ],
-      "duration_ms": 231861,
-      "name": "Not on the Run",
-      "url": "https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Stuck In Place",
-        "url": "https://open.spotify.com/album/1gV2SVAWG6tLIrM54ZcwNS"
-      },
-      "artists": [
-        {
-          "name": "Emilee Moore",
-          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
-        }
-      ],
-      "duration_ms": 247592,
-      "name": "Stuck In Place",
-      "url": "https://open.spotify.com/track/1roqDqdHzKnducYiaXT2Q8"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Georgia",
-        "url": "https://open.spotify.com/album/2YCNpGkDmPxTGLAlTM9oJx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Ridgely",
-          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
-        }
-      ],
-      "duration_ms": 129204,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/4BaFhT9qytt0X7ApDsEE4H"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Blush Red",
-        "url": "https://open.spotify.com/album/7fMmi1DkgkI1fdOhRFxUpg"
-      },
-      "artists": [
-        {
-          "name": "Kevin Atwater",
-          "url": "https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "romance tape",
-      "url": "https://open.spotify.com/track/0mDPqU51kG3c2dBoQ3ulvG"
     },
     {
       "added_at": "2026-07-10 04:03:19",

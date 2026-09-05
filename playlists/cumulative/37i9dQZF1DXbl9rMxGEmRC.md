@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks only\. Updated monthly\. Cover: Wolves in the Throne Room
 
-868 songs - 3 day 1 hr 54 min
+868 songs - 3 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Know\-Nothing Ingrate](https://open.spotify.com/track/4cjhlFdjALnp8QZ4DnSlC5) | [Six Feet Under](https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI) | [Know\-Nothing Ingrate](https://open.spotify.com/album/3egY0jVJXAwceGEr30GY4Y) | 2:22 | 2024-03-22 | 2025-07-05 |
 | [Krásno](https://open.spotify.com/track/3hwQRPHb7bISgyLooGcv1V) | [Besna](https://open.spotify.com/artist/6ObFKojgIwvXycbRH0lQhA), [Jakub Tirco](https://open.spotify.com/artist/0q1Ueb46rFG29potDJywoU) | [Krásno](https://open.spotify.com/album/0xcHaw8JAslSjSuOlNWKzp) | 4:50 | 2025-07-04 | 2026-09-04 |
 | [Ksar Al\-Kufar](https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx) | [Necrowretch](https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq) | [Ksar Al\-Kufar](https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm) | 4:21 | 2023-12-15 | 2025-03-08 |
+| [Kuso\-shi 1, 2, and 3](https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW) | [Sigh](https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr) | [Goh\-Ka](https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q) | 9:12 | 2026-09-03 |  |
 | [L'Envol](https://open.spotify.com/track/49y4jrXiUxJ1XqzUmtcQje) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:02 | 2024-07-03 | 2026-06-30 |
 | [La Sdrega](https://open.spotify.com/track/5ts8eNirmt2q0I5a5kcc8O) | [Hesperia](https://open.spotify.com/artist/0jeCh42LIdsAuU7YE4Xa6D) | [La Sdrega](https://open.spotify.com/album/6il0Ld365Sqj2KARs8KoYP) | 9:09 | 2026-07-31 |  |
 | [Labyrinth of Stone](https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Labyrinth of Stone](https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY) | 5:45 | 2025-07-04 | 2026-09-04 |
@@ -789,7 +790,6 @@
 | [Torden](https://open.spotify.com/track/7IkZ4iWr9A6mIKZXkNeFTg) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Torden](https://open.spotify.com/album/6j6giDWzoBuM8PLI04VCCJ) | 3:54 | 2026-06-29 | 2026-07-31 |
 | [TORTURE PORN](https://open.spotify.com/track/4w5srfAVP0AVRrdQ1j1MNB) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [TORTURE PORN](https://open.spotify.com/album/6n9WBiLJFEFBviJIKNCUWF) | 3:20 | 2026-09-03 |  |
 | [Totentanz \- Dance Macabre](https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Totentanz \- Dance Macabre](https://open.spotify.com/album/5XZO6D5qfdUyYkSWt6ezoa) | 3:40 | 2022-04-15 | 2022-05-28 |
-| [Track 1](https://open.spotify.com/track/2qyheAzCFn8WhuM4FUswVW) | [Sigh](https://open.spotify.com/artist/4VUguuy2qoVGDMwH1tL7Qr) | [Goh\-Ka](https://open.spotify.com/album/1c8i8e2R9qdxr0JznsHi2q) | 0:00 | 2026-09-03 |  |
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 | 2024-06-04 |
 | [Transilvanian Hunger](https://open.spotify.com/track/6lJstSMcbosFzereFQ3bWm) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/5zaZAdRdcwZRsxexixMC2p) | 6:09 | 2022-07-13 | 2022-07-29 |
 | [Transilvanian Hunger \- Studio](https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E) | 6:09 | 2022-07-13 | 2023-04-22 |

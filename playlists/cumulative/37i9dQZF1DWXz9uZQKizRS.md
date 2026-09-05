@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Natalia Grosiak
 
-1,858 songs - 4 day 8 hr 43 min
+1,858 songs - 4 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Bohater](https://open.spotify.com/track/6W6IyqDcbKdT6OYy2ejJ8b) | [Winogradzki Lew](https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy) | [Bohater](https://open.spotify.com/album/3xSa8lZxjeTmXzzZiFDN2B) | 3:14 | 2026-01-29 | 2026-02-20 |
 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 | 2025-09-25 | 2025-11-14 |
 | [Boję się](https://open.spotify.com/track/1HHAiUsSQb9n5ApE1ynzTR) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Boję się](https://open.spotify.com/album/1KHHLqfvqyj8cv8j6q0hgW) | 3:35 | 2025-10-23 | 2025-11-21 |
+| [BOJĘ SIĘ, ŻE NIE MA NIEBA](https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS) | [cafetrauma](https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2) | [JAKA PIĘKNA KATASTROFA](https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6) | 3:53 | 2026-09-03 |  |
 | [Boo!](https://open.spotify.com/track/1wQ42jS4mJWjdl8To4R0ui) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Boo!](https://open.spotify.com/album/4uYFPPzhhOoTzGJj3wXRHZ) | 3:46 | 2025-01-23 | 2025-04-04 |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 | 2024-11-22 |
 | [Bowaryzm](https://open.spotify.com/track/5QGeXl6Dv6bnmGfgx79238) | [Madame Affair](https://open.spotify.com/artist/6TwD8d0Irny7eLLqt33rpD) | [Bowaryzm](https://open.spotify.com/album/5bDupK3lWtareEgWvZHqy7) | 4:03 | 2026-03-19 | 2026-04-10 |
@@ -1520,7 +1521,6 @@
 | [Touching](https://open.spotify.com/track/2oDRWPfp5tJkfYySjRoQV3) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Original Soundtrack\)](https://open.spotify.com/album/0ngt33D8YMRJUN3WbVd8tx) | 2:44 | 2026-01-08 | 2026-01-30 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-07-03 |
 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 | 2026-07-16 | 2026-08-21 |
-| [Track 5](https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS) | [cafetrauma](https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2) | [JAKA PIĘKNA KATASTROFA](https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6) | 0:00 | 2026-09-03 |  |
 | [Tracę czas](https://open.spotify.com/track/1J9O8tV3uVJldubfAGqp8i) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Tracę czas](https://open.spotify.com/album/3C9lJPKKVG6zaVYAqa6TKz) | 3:10 | 2026-05-21 | 2026-07-03 |
 | [Tracę zimną krew](https://open.spotify.com/track/1wGQr1EVshjLGhcruZ64nt) | [Sara](https://open.spotify.com/artist/7A2cSsMN0zdjRoyNtf9S5s), [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n), [Mac Kay](https://open.spotify.com/artist/2KgHaeIdNreTeUWwhfcmlE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Tracę zimną krew](https://open.spotify.com/album/7MHVXbnOe3xlxwB79B0PWE) | 3:48 | 2026-08-20 |  |
 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 | 2026-02-19 | 2026-03-27 |

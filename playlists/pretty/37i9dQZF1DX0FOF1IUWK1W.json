@@ -1,15 +1,51 @@
 {
-  "description": "Countrybeat, Mari Fernandez o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
-  "num_followers": 8760615,
+  "description": "MC Iguinho CT, DJ Aladin GDB, DU'L, MC LUUCKY, MC Willian, MC GP  o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "num_followers": 8760385,
   "original_name": "Top Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqMrM8uXP3GhMJBk4CHsYBSx5Jm",
+  "snapshot_id": "AAAAAJt7WZb/FyHlqjgCuq06qChIh2vH",
   "tracks": [
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
+      "album": {
+        "name": "\u00c9 O Iguinho Da CT",
+        "url": "https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs"
+      },
+      "artists": [
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "duration_ms": 433846,
+      "name": "GRWM",
+      "url": "https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx"
+    },
+    {
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Um Pe\u00e3o Desse",
         "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
@@ -29,7 +65,7 @@
       "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Na Contram\u00e3o",
         "url": "https://open.spotify.com/album/0zMJoB9PzAqOu3ejesaxnM"
@@ -65,7 +101,7 @@
       "url": "https://open.spotify.com/track/5GAAx9l33gDaECUMPcEP7y"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "S\u00f3 Com Ela (Ao Vivo)",
         "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
@@ -85,7 +121,51 @@
       "url": "https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
+      "album": {
+        "name": "J\u00e1 Virei Lenda Aqui",
+        "url": "https://open.spotify.com/album/1zBrs91xffe9UfAyMICwt2"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        }
+      ],
+      "duration_ms": 291713,
+      "name": "Puxa o Lan\u00e7a",
+      "url": "https://open.spotify.com/track/5nzn9neUXxZhv0WPYMbBQw"
+    },
+    {
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Vou Tacar na Peka",
         "url": "https://open.spotify.com/album/1SVnaj34lbY4xUlTPuUDCh"
@@ -117,23 +197,7 @@
       "url": "https://open.spotify.com/track/4Km7b1kLOaedAljmarYeWx"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
-      "album": {
-        "name": "Sabor HS 3.0",
-        "url": "https://open.spotify.com/album/1zAovKvahz5COTVcGkldnx"
-      },
-      "artists": [
-        {
-          "name": "Heitor Santos",
-          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
-        }
-      ],
-      "duration_ms": 179356,
-      "name": "Noite Fracassada",
-      "url": "https://open.spotify.com/track/1JO3uqVDPWj5j2GlYmK7e0"
-    },
-    {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "N\u00e3o \u00e9 Pressa, \u00e9 Press\u00e3o",
         "url": "https://open.spotify.com/album/0fkZZAJ0M0JvOqMZMHurWl"
@@ -157,7 +221,7 @@
       "url": "https://open.spotify.com/track/7DHAuCYRhuJVJPCwbFJA08"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Beatriz",
         "url": "https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup"
@@ -181,7 +245,23 @@
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
+      "album": {
+        "name": "157 VERDADEIRO REAL TRAP",
+        "url": "https://open.spotify.com/album/6xCEKHHuQEOUKDdA48QNlB"
+      },
+      "artists": [
+        {
+          "name": "DJ WG DO MIRIAMBI O PORRADEIRO",
+          "url": "https://open.spotify.com/artist/0ZoXxojOUsWG4lcvYcIDCV"
+        }
+      ],
+      "duration_ms": 115941,
+      "name": "157 TRUE REAL TRAP",
+      "url": "https://open.spotify.com/track/5bTwmHwPgeDWBUAl8MNmDU"
+    },
+    {
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "EXAGERADO",
         "url": "https://open.spotify.com/album/5IborVrA7dbZRiZCMqWu7Y"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/4rfkoY5a4JzRmQSOQHAVsr"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Deu Rolo No Barret\u00e3o (Ver\u00e3o) - Vol. 02 [Ao Vivo]",
         "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW"
@@ -229,7 +309,7 @@
       "url": "https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
@@ -245,7 +325,7 @@
       "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Cuida do Pet",
         "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
@@ -285,7 +365,7 @@
       "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Postinho de Gasolina",
         "url": "https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs"
@@ -305,43 +385,7 @@
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
-      "album": {
-        "name": "\u00c9 O Iguinho Da CT",
-        "url": "https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs"
-      },
-      "artists": [
-        {
-          "name": "Mc Iguinho Ct",
-          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
-        },
-        {
-          "name": "Dj Aladin GDB",
-          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
-        },
-        {
-          "name": "MC Willian",
-          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        }
-      ],
-      "duration_ms": 433846,
-      "name": "GRWM",
-      "url": "https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx"
-    },
-    {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Pau Pra Toda Obra",
         "url": "https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ"
@@ -369,7 +413,7 @@
       "url": "https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Pe\u00e3o Todo Tatuado",
         "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
@@ -389,7 +433,7 @@
       "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
         "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
@@ -405,7 +449,7 @@
       "url": "https://open.spotify.com/track/1Otolzb8QH4OnBc0zlbjjF"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Al\u00e9m Do Tempo",
         "url": "https://open.spotify.com/album/5wSMphnKqBeihlJzLaliuC"
@@ -425,7 +469,7 @@
       "url": "https://open.spotify.com/track/23AU70NKsQ4HfdSyd7lwZl"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
         "url": "https://open.spotify.com/album/2aGOhhN8UDFyHz8XpHKaRd"
@@ -441,7 +485,7 @@
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
@@ -457,7 +501,7 @@
       "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
@@ -477,7 +521,7 @@
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Louca de Saudade",
         "url": "https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5"
@@ -493,7 +537,7 @@
       "url": "https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "QUANDO EU TOMO GIN DE 10",
         "url": "https://open.spotify.com/album/1eIo5NbmShn4lpkZTZDFg5"
@@ -517,7 +561,7 @@
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "POR A\u00cd",
         "url": "https://open.spotify.com/album/7oxea6o25CZCKVfAKsAo1N"
@@ -537,7 +581,7 @@
       "url": "https://open.spotify.com/track/1ocTWahzsZ73RWU0fSyAYs"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Sentimento",
         "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Saudade Estranha - Du Nada (Ao Vivo)",
         "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
@@ -569,7 +613,7 @@
       "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Mem\u00f3rias P\u00f3stumas",
         "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
@@ -585,7 +629,7 @@
       "url": "https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y"
@@ -601,7 +645,7 @@
       "url": "https://open.spotify.com/track/5v747rXdm2NzkchPoMjb2U"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "MTG Pra Ficar Legal",
         "url": "https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3"
@@ -625,7 +669,7 @@
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Se Saudade Sentir (Se Prepara 3)",
         "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
@@ -653,7 +697,7 @@
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "FUNK DE CANALHA",
         "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
@@ -681,7 +725,7 @@
       "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Fique o tempo que precisar",
         "url": "https://open.spotify.com/album/3XopVdEcVEZHbk1yJQlXHO"
@@ -705,7 +749,7 @@
       "url": "https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Pra N\u00e3o Esquecer De Mim",
         "url": "https://open.spotify.com/album/0Kb7GeuzMK4sS45zb3O06h"
@@ -733,7 +777,7 @@
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Meu Forr\u00f3 \u00c9 Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sC9tJZqJHFEwLeEMOLoyN"
@@ -753,7 +797,7 @@
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Quem T\u00e1 Vivo, T\u00e1 Vivendo",
         "url": "https://open.spotify.com/album/5bfMYcaucm6RfNqZZTFjo9"
@@ -781,7 +825,7 @@
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Reliquia do 2T",
         "url": "https://open.spotify.com/album/6ecRUuOdAsn1ROohWK7D2Z"
@@ -817,7 +861,7 @@
       "url": "https://open.spotify.com/track/6n9JMoXkXu4lDOu1k6MRpy"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Jontex (fuma\u00e7a do ice)",
         "url": "https://open.spotify.com/album/6zIyY5NUxkrwVffDoCTLFc"
@@ -837,7 +881,7 @@
       "url": "https://open.spotify.com/track/7t1RoJiMrSZEkUjFmMP10x"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Famoso \u00cdm\u00e3 | O poderoso chat\u00e3o",
         "url": "https://open.spotify.com/album/1nJFHpaSmVAKbLMrzWOdwz"
@@ -865,7 +909,7 @@
       "url": "https://open.spotify.com/track/22bl3LPkCHQSBhCAdw8Jwk"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Cheiro De Culpado (Ao Vivo)",
         "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
@@ -881,7 +925,7 @@
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
         "url": "https://open.spotify.com/album/0w8Phtwh4NyFUApTSAQQDL"
@@ -917,7 +961,7 @@
       "url": "https://open.spotify.com/track/5ooFbBHL6xleehCpWACc9M"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Carn\u00edvoro",
         "url": "https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa"
@@ -945,7 +989,7 @@
       "url": "https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o 2, Vol.3",
         "url": "https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3"
@@ -965,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
@@ -997,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Velhos H\u00e1bitos Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm"
@@ -1013,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Matchola - Spotify Sessions",
         "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
@@ -1029,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Di\u00e1rio de um Cafajeste",
         "url": "https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA"
@@ -1065,7 +1109,7 @@
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Admita (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2"
@@ -1085,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "ZERO BALA",
         "url": "https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja"
@@ -1105,7 +1149,7 @@
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "MIXTAPE - BIG G",
         "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
@@ -1133,7 +1177,7 @@
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
     },
     {
-      "added_at": "2026-08-28 20:00:02",
+      "added_at": "2026-09-04 20:11:38",
       "album": {
         "name": "Manifesto Musical 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6xWtWF4IELcn31NEU5eMcq"
@@ -1147,22 +1191,6 @@
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
-    },
-    {
-      "added_at": "2026-08-28 20:00:02",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 158470,
-      "name": "Deixa Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO"
     }
   ],
   "unique_name": "Top Brasil",

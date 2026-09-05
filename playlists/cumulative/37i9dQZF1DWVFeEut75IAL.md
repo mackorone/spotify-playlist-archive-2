@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-203 songs - 13 hr 1 min
+204 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Lyric Pieces, Book III, Op\. 43: No\. 3, In My Native Country](https://open.spotify.com/track/3edHl0sywj6r9K67bFiMYh) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Grieg: Holberg Suite, Ballade & Lyric Pieces](https://open.spotify.com/album/4Ely2D4OUscL3dBLHG8OIZ) | 1:37 | 2025-07-04 |  |
 | [Memories of a Promenade II](https://open.spotify.com/track/4bFdyisLdkeS7tmbAWpl13) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Flying Steps](https://open.spotify.com/artist/1Oi59eHWhHIuwnVaFd3M60) | [Melody](https://open.spotify.com/album/0CWT7zFSzfNHq6mkY9dZxq) | 3:26 | 2021-11-15 |  |
 | [Miniatures for Piano "A Whole in Twelve": No\. 7, Clouds](https://open.spotify.com/track/3IRoeiTnEJ31WKMtcXShX1) | [Mikael Ayrapetyan](https://open.spotify.com/artist/6MbLMjlPQHSO9u4gKzys4w) | [Mikael Ayrapetyan: A Whole in Twelve](https://open.spotify.com/album/5WSD1JJ2w5DtTEizmK8rRX) | 4:52 | 2021-11-15 | 2022-04-13 |
+| [mirador](https://open.spotify.com/track/1DhxylpIpYYzibZLf1np93) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [mirador](https://open.spotify.com/album/6hAgD6SHjRaHHQWmv1W2xt) | 5:42 | 2026-09-04 |  |
 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 | 2021-11-15 | 2022-03-18 |
 | [Morgen, Op\. 27 No\. 4 \(Arr\. Reger for Piano\)](https://open.spotify.com/track/1YHB1xwXPgCkuGjQ0prNdb) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Angela Hewitt](https://open.spotify.com/artist/3KtQFp8FUbQMx3bLNKCw3R) | [Love Songs \- Piano Transcriptions Without Words](https://open.spotify.com/album/16zfntcR7VAJWn9Ovooo1w) | 3:52 | 2023-08-04 |  |
 | [Mozart Piano Concerto Variation \(After Piano Concerto No\. 27 in B\-Flat Major, K\. 595, II\. Larghetto\) \[Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/0nSG4NazWgZo0jg8JJznha) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:25 | 2025-11-26 |  |

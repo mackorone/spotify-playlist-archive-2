@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The hottest hits right now. Cover: ElGrandeToto",
+  "description": "The hottest hits right now. Cover: Shaw",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -7828,10 +7828,28 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
       "album": {
@@ -10539,6 +10557,24 @@
     },
     {
       "album": {
+        "name": "WA3RA",
+        "url": "https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8"
+      },
+      "artists": [
+        {
+          "name": "Mirv48",
+          "url": "https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141543,
+      "name": "WA3RA",
+      "url": "https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY"
+    },
+    {
+      "album": {
         "name": "Wala (5, 7, 10)",
         "url": "https://open.spotify.com/album/52ukqQBqbkKO3Qc5CXsgmW"
       },
@@ -11526,7 +11562,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 143777,
       "name": "\u0645\u0634 \u0645\u063a\u0631\u0648\u0631\u0629",
       "url": "https://open.spotify.com/track/0ypyxXgnE2V2QKO4qHv9Th"

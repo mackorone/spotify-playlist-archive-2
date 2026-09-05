@@ -6301,6 +6301,28 @@
     },
     {
       "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/7LZj19MRlz22g0fdtzHspn"
+      },
+      "artists": [
+        {
+          "name": "Supreme Sidhu",
+          "url": "https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN"
+        },
+        {
+          "name": "Bobby Kang",
+          "url": "https://open.spotify.com/artist/17E1bLcUaNpsG6xDIVZM4k"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138795,
+      "name": "Chall Mere Naal",
+      "url": "https://open.spotify.com/track/7v6gwEeK9aHgBC06DdQQhW"
+    },
+    {
+      "album": {
         "name": "Challa",
         "url": "https://open.spotify.com/album/4gg6yNLDRY3NUo4lsIK0hB"
       },
@@ -12986,6 +13008,28 @@
       "duration_ms": 132816,
       "name": "Headliners",
       "url": "https://open.spotify.com/track/27ueMJk9dPzc6VHX7qEesq"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/7LZj19MRlz22g0fdtzHspn"
+      },
+      "artists": [
+        {
+          "name": "Supreme Sidhu",
+          "url": "https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN"
+        },
+        {
+          "name": "Shiiv",
+          "url": "https://open.spotify.com/artist/1QNNJQV9fWB0o73y3fZAnj"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147582,
+      "name": "Heater",
+      "url": "https://open.spotify.com/track/0FI43BWpVXYhuAI2IO9pNH"
     },
     {
       "album": {
@@ -20130,7 +20174,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159999,
       "name": "Naami Saami",
       "url": "https://open.spotify.com/track/7FBQ1SA5iIVKSugThmBzkY"
@@ -26088,7 +26132,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151363,
       "name": "Selfmade",
       "url": "https://open.spotify.com/track/3k8bEDfJY5Hdu7d4UNGmzT"

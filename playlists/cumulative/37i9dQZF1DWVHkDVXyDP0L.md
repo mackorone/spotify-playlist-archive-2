@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Ra Ra Viper
 
-1,113 songs - 2 day 14 hr 27 min
+1,113 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Free As Hell](https://open.spotify.com/track/06uJf6Re1meuruxWc4UT6p) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [Free As Hell](https://open.spotify.com/album/660q3cUSBXyj3Ib3jxfRqx) | 2:28 | 2025-02-20 | 2025-04-04 |
 | [FRENEMIES](https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [FRENEMIES](https://open.spotify.com/album/23J0ze8Ram84QML5PlboAz) | 3:10 | 2024-08-01 | 2024-09-20 |
 | [fresh figure](https://open.spotify.com/track/4M7eIalDccTknOndeDRfOq) | [ixaras](https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ) | [fresh figure](https://open.spotify.com/album/1OAJBuKzbZ45dyoHAYIejU) | 2:35 | 2024-05-24 | 2024-07-19 |
+| [Frida](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 3:39 | 2026-09-03 |  |
 | [From The Very Start](https://open.spotify.com/track/4Ohq4McYAAmWFriu0avfYL) | [Bootleg Rascal](https://open.spotify.com/artist/2cScEQkwCAObAfeFX4CYr4) | [From The Very Start](https://open.spotify.com/album/29qXJNPwygqiT4bTz18KeI) | 3:44 | 2025-02-13 | 2025-04-11 |
 | [Fuck All](https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT) | [BIRD ISLAND](https://open.spotify.com/artist/3tx5aw2TDq7jiFd9HAtjNA) | [Shitty Thrills](https://open.spotify.com/album/7C35QNTsIDM12RhWG5Vo4y) | 3:15 | 2025-01-09 | 2025-03-21 |
 | [Fuck It](https://open.spotify.com/track/3zg6JtNNQdsxNgdeo4gGF8) | [Dick Move](https://open.spotify.com/artist/4y32anHRxQ5DXUQYomokdU) | [Fuck It](https://open.spotify.com/album/0W3SSzSp5WvMmV6SuZ61lF) | 2:19 | 2025-08-07 | 2025-10-03 |
@@ -1030,7 +1031,6 @@
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Tough Love](https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [Tough Love](https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL) | 3:25 | 2026-07-30 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 2](https://open.spotify.com/track/1fk4tJhMkhfagXPBP6BBnJ) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Enjoy Your Problems](https://open.spotify.com/album/04aTQrR7ApOJ0U0W0HsIRk) | 0:00 | 2026-09-03 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Trapezoid](https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Trapezoid](https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb) | 2:30 | 2026-07-30 |  |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |

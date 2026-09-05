@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAACtIUBYnCjFKXFXMjF7XEvr",
+  "snapshot_id": "api4gAAAAACOmFf56J6j/4GOxYm/ZV1v",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
+        "name": "Revenge of the Killer Slits",
+        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
+      "duration_ms": 200960,
+      "name": "Slits Tradition",
+      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge of the Killer Slits",
-        "url": "https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 200960,
-      "name": "Slits Tradition",
-      "url": "https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 167093,
-      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
+      "duration_ms": 167093,
+      "name": "Femme Fatale (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 322786,
-      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
+      "duration_ms": 135973,
+      "name": "Vaseline (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Vaseline (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N"
+      "duration_ms": 322786,
+      "name": "Enemy Numero Uno (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5"
     },
     {
       "added_at": null,

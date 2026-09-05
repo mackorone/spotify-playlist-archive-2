@@ -4,7 +4,7 @@
 
 > Mavi Gri ve haftanın en iyi çıkışları!
 
-9,633 songs - 20 day 12 hr 44 min
+9,635 songs - 20 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2071,6 +2071,7 @@
 | [CL GANG](https://open.spotify.com/track/01dCVJspcoY8jrMvx5gcPV) | [BATUBOW](https://open.spotify.com/artist/2ZZDgHaOISJIts0EWxeCsL), [KVCKIN](https://open.spotify.com/artist/47zqO7qZ7Ym7K3xqBZcVe6) | [CL GANG](https://open.spotify.com/album/653zQJTYCtPrDrfbtz7T60) | 1:36 | 2026-05-28 | 2026-06-05 |
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-23 | 2025-10-31 |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-22 | 2025-05-30 |
+| [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 | 2026-09-03 |  |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-03-27 |
 | [Close to You](https://open.spotify.com/track/1vkA7llFtaaQb5qo58kiGi) | [His&Hertz](https://open.spotify.com/artist/5Ymz0VxIThb8lZyIqykGI0), [Toprak Baris](https://open.spotify.com/artist/0o6zBZOHer0cIGpGOQk7nD), [Ece Yilmaz](https://open.spotify.com/artist/6QL4sw7mQfBDo0uuweEnAS) | [Close to You](https://open.spotify.com/album/1hD4ndeK8KUhHmG9E4UNYW) | 4:11 | 2026-08-13 | 2026-08-21 |
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-06-27 |
@@ -2629,6 +2630,7 @@
 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 | 2025-03-27 | 2025-04-04 |
 | [DÖNGÜ](https://open.spotify.com/track/4DktUGgXKQSulgF2dSs0Kr) | [İmpala](https://open.spotify.com/artist/2s26tvcj8lfuOFfrIl8APF) | [DÖNGÜ](https://open.spotify.com/album/4ajVVjRufsBDDsSF441GPw) | 3:09 | 2025-11-20 | 2025-11-28 |
 | [Dönme](https://open.spotify.com/track/01Zb2g239AzfiE7V4CNwYa) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P), [Umut Kaan Çakır](https://open.spotify.com/artist/6jHMgoD9shUnXLYjCvInAy) | [Dönme](https://open.spotify.com/album/5KBzDaKC9q6wGvIsP9o9x4) | 3:23 | 2025-11-06 | 2025-11-14 |
+| [Dönme Dolaplar](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 3:07 | 2026-09-03 |  |
 | [Dönme Geri](https://open.spotify.com/track/0sr4zZexGrbCltFgbyDEc1) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Dönme Geri](https://open.spotify.com/album/5wJH9Tzo1MECHR9NfD2p18) | 3:20 | 2025-11-20 | 2025-11-28 |
 | [Dönme Sakın](https://open.spotify.com/track/1W66qQmt1cTPSawPSV1K8R) | [LADEN](https://open.spotify.com/artist/6lPFE8Uhw6iOagRUXwjAN5), [Berk Çolak](https://open.spotify.com/artist/4IaaDcQF59rftsBPXfkk5s) | [Dönme Sakın](https://open.spotify.com/album/3dT8ABQ7im7FyO8h4ZXyqp) | 3:15 | 2026-08-27 | 2026-09-04 |
 | [Dönmek İstiyorum](https://open.spotify.com/track/3d3Jt7sovI1UCZuo6fzgh5) | [Lust](https://open.spotify.com/artist/49FuEUcoEf5YIcQdtEpOtF) | [Dönmek İstiyorum](https://open.spotify.com/album/5sHxPSv68dhqs9vaQGfGMd) | 2:02 | 2026-08-06 | 2026-08-14 |
@@ -4663,6 +4665,7 @@
 | [Kalk Ayağa Türkiye'm](https://open.spotify.com/track/0FgHgh2MYBG7gMoVzTo2qR) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Kalk Ayağa Türkiye'm](https://open.spotify.com/album/2srAmhtCsdGyqooOtcnQfH) | 3:04 | 2026-05-28 | 2026-06-05 |
 | [Kalk Gidelim](https://open.spotify.com/track/3MBBi2zVpZpv63p6SJGG41) | [Jülide](https://open.spotify.com/artist/2jORWiqkOfzfaNL0FPbH5w) | [Kalk Gidelim](https://open.spotify.com/album/52gg4ex3V6Md9y8paT4rWO) | 3:48 | 2026-05-28 | 2026-06-05 |
 | [Kalk Hele \- Official ‘Polis’ Soundtrack](https://open.spotify.com/track/73JK018WaI7X11XqIWZ6BV) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Kalk Hele \(Official ‘Polis’ Soundtrack\)](https://open.spotify.com/album/7t8kXXQBa9Nbfs8k46nQri) | 2:05 | 2026-06-11 | 2026-06-19 |
+| [Kalk Yeniden Başla](https://open.spotify.com/track/5p41wz6tC5VsNwZ8VDntH0) | [Ali Kınık](https://open.spotify.com/artist/0J7kxhnyiFpd0NArVYvexR) | [Kalk Yeniden Başla](https://open.spotify.com/album/3NvbGJLyXwSF3lbz1YNJcY) | 4:11 | 2026-09-03 |  |
 | [kalmadı](https://open.spotify.com/track/6IF1445ipUk4TmIfvXKL0z) | [Betül Çiçekyurt](https://open.spotify.com/artist/4k4sIsTkO5Rsp8S0uE7KGq) | [kalmadı](https://open.spotify.com/album/0NLo2EqLBXWvz3AfCdUmQ7) | 2:06 | 2026-05-21 | 2026-05-29 |
 | [Kalmadı](https://open.spotify.com/track/7v8tcnJqHkciPrPH2MRh2T) | [Ulaş Aydın](https://open.spotify.com/artist/6qachEZgS9ubzvQmT0q4XD) | [Kalmadı](https://open.spotify.com/album/1b9VYbNKO9VIZ3Le9K2j8w) | 2:56 | 2025-03-06 | 2025-03-14 |
 | [Kalmadı Kavgam](https://open.spotify.com/track/3OoxPtlcn7cEhWJQyJ7l9c) | [Furkan Halıcı](https://open.spotify.com/artist/6W1El4pLfVxwgMnAqfX4O7) | [Kalmadı Kavgam](https://open.spotify.com/album/7jNLYMJgx6NU2lheuilcMM) | 2:50 | 2025-04-17 | 2025-04-25 |
@@ -8057,8 +8060,6 @@
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-02 | 2026-07-10 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 1](https://open.spotify.com/track/4BWVewEtuuiV0wwFueGkH2) | [Hav Hav!](https://open.spotify.com/artist/26qC4fGKdFcnQGJpmoR5TQ) | [Lunapark](https://open.spotify.com/album/3d2cMcPQ3z8RFS8s8PpnRq) | 0:00 | 2026-09-03 |  |
-| [Track 9](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 0:00 | 2026-09-03 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trafo](https://open.spotify.com/track/1UqEriTZm9GOREm4lZUcTF) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Trafo](https://open.spotify.com/album/3fyKbclKoyHYRSGcknCy81) | 3:23 | 2026-06-11 | 2026-06-19 |
 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 | 2026-08-13 | 2026-08-21 |
@@ -8829,6 +8830,7 @@
 | [Yarı Çıplak](https://open.spotify.com/track/6Iiv4z7B9lgO9i7uwE2UsM) | [Rabia Tunçbilek](https://open.spotify.com/artist/6LFDD8c2UxP6NDMfrmlSMk) | [Yarı Çıplak](https://open.spotify.com/album/63qiG4fJRob4izueS0fkAY) | 3:13 | 2025-06-19 | 2025-06-27 |
 | [Yarım](https://open.spotify.com/track/70GFUvSpdWcGG3ngBQv7HU) | [Alara Naz](https://open.spotify.com/artist/3VIU99FOU2Xn7mVBWRepMV) | [Yarım](https://open.spotify.com/album/35DN8KmNYmZawDvef4FUCr) | 4:18 | 2026-08-20 | 2026-08-28 |
 | [Yarım](https://open.spotify.com/track/2AKJN9zWJVdjKuZZPz8a6v) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Yarım](https://open.spotify.com/album/4RZvkdXjfmzAxjpjM2x4tW) | 2:46 | 2025-11-06 | 2025-11-14 |
+| [Yarım Ağız](https://open.spotify.com/track/4THpoK0FWL57WctDNQxHc9) | [Vera](https://open.spotify.com/artist/6FuP3iXROMCITNRbUJIRC3) | [Dağınık+Kirli](https://open.spotify.com/album/3kcBe8k80zyrzKfYjV7Tks) | 4:28 | 2026-09-03 |  |
 | [Yarım Kalan Aşk](https://open.spotify.com/track/60V162wDhRbh4ltg76c3dm) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Yarım Kalan Aşk](https://open.spotify.com/album/2iqmVpaSWaRfnVxDwrZcdD) | 3:21 | 2026-03-12 | 2026-03-20 |
 | [Yarım Kalan Hikayeler](https://open.spotify.com/track/6nsABIgASXzm24mGvNcT7y) | [Can Köymen](https://open.spotify.com/artist/29ta5Necgm0pZUqs2lDEP6) | [Yarım Kalan Hikayeler](https://open.spotify.com/album/4EaNWchxah3RbME4Yb0ngi) | 3:21 | 2026-07-02 | 2026-07-10 |
 | [Yarım Kalan Hikayemiz](https://open.spotify.com/track/1NcfBa2ciQVt72TO278mCK) | [Esat Bitik](https://open.spotify.com/artist/3dHWOT8P9OZR6MDvIdMXO7) | [Yarım Kalan Hikayemiz](https://open.spotify.com/album/52e5bUpnLGgJyDsqFl9Lt8) | 2:28 | 2026-05-21 | 2026-05-29 |

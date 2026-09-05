@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Matilda Mann
 
-3,288 songs - 7 day 21 hr 18 min
+3,288 songs - 7 day 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1120,6 +1120,7 @@
 | [Grand Mal](https://open.spotify.com/track/4oEdHkK4ik653nuzWBNqPT) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Grand Mal](https://open.spotify.com/album/7KLCP0mgmNGvYXWBqeMgE9) | 3:16 | 2025-02-13 | 2025-02-28 |
 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 | 2024-12-05 | 2025-01-17 |
 | [Gravity](https://open.spotify.com/track/3DQ3Ksr9VNDRi4mJlaS87t) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Gravity](https://open.spotify.com/album/4f3w41FgqHkRBo9RVQ4qYa) | 3:35 | 2024-08-15 | 2024-09-06 |
+| [Gravity's Pull](https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Throw The Dice](https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861) | 3:26 | 2026-09-03 |  |
 | [GREAT PRETENDER](https://open.spotify.com/track/6okpS7XupEUMrB4sGv7Xjf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [GREAT PRETENDER](https://open.spotify.com/album/7K23bPTCyceBsC7lFufoLO) | 2:38 | 2026-04-02 | 2026-05-01 |
 | [Great\. The Ocean](https://open.spotify.com/track/0khlyUvosP9W5ApC4kFDoB) | [Hanreti](https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR) | [Floodlight](https://open.spotify.com/album/7FgT5ulsEwVeIhxW8wdSEN) | 5:11 | 2024-10-31 | 2024-11-29 |
 | [Green Bedsheet Gown](https://open.spotify.com/track/0cAxhrYz005Ie2CwxOaqYK) | [Lisa Harres](https://open.spotify.com/artist/6HHLb9HeGAK64JXTMok0CC) | [Green Bedsheet Gown](https://open.spotify.com/album/4Dqhpi7mwpCJ930uQAVvVx) | 3:09 | 2024-12-12 | 2025-01-17 |
@@ -2971,7 +2972,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 2](https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Throw The Dice](https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861) | 0:00 | 2026-09-03 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

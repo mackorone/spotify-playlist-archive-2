@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAADcfj5h3R/66NJqrW8As6t1",
+  "snapshot_id": "api4gAAAAABqNN/ENby0uVQ8zgZKDtA5",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
       "duration_ms": 218334,
       "name": "Water Doctor",
       "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcel and the Prince",
-        "url": "https://open.spotify.com/album/0GswR3L2aBUkWskZlBezhl"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Marcel and the Prince",
-      "url": "https://open.spotify.com/track/6zZwvuzLs6Zc1lsOMkfXa8"
     },
     {
       "added_at": null,

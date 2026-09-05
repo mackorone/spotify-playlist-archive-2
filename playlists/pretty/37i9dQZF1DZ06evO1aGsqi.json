@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 16229,
+  "num_followers": 16244,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAC6pWOMN5ty6mfUjqCt4bH5",
+  "snapshot_id": "api4gAAAAACbvbh1yAhNCHGJdJmxRMJI",
   "tracks": [
     {
       "added_at": null,
@@ -351,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
+        "name": "Sinners (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
         }
       ],
-      "duration_ms": 93603,
-      "name": "Rotta",
-      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
+      "duration_ms": 208613,
+      "name": "Smokestack Twins",
+      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
     },
     {
       "added_at": null,
@@ -399,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Smokestack Twins",
-      "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
         }
       ],
-      "duration_ms": 180666,
-      "name": "Go Kid",
-      "url": "https://open.spotify.com/track/0c5ySgApQVeR06Bey6D7Gy"
+      "duration_ms": 93603,
+      "name": "Rotta",
+      "url": "https://open.spotify.com/track/0N2vpZbs6kgXM5BZuYFkw2"
     },
     {
       "added_at": null,
@@ -491,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+        "name": "Star Wars: The Mandalorian and Grogu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2LrB8jQ7d0OEdHOmEZWfJn"
       },
       "artists": [
         {
           "name": "Ludwig G\u00f6ransson",
           "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 140125,
-      "name": "Wakanda",
-      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
+      "duration_ms": 180666,
+      "name": "Go Kid",
+      "url": "https://open.spotify.com/track/0c5ySgApQVeR06Bey6D7Gy"
     },
     {
       "added_at": null,
@@ -523,6 +503,26 @@
       "duration_ms": 316430,
       "name": "WINDMILLS",
       "url": "https://open.spotify.com/track/0WBa6rf5NCpkAbvhgWgmEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
     },
     {
       "added_at": null,

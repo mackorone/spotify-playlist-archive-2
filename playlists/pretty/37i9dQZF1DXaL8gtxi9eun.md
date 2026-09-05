@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: زياد ظاظا
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,012 likes - 52 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,059 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 2 | [Nogha](https://open.spotify.com/track/0zeEaXkyZTJWEWcDo1wmyb) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Nogha](https://open.spotify.com/album/6QfA7CzzOMVpj5aVMGGLbF) | 2:24 |
 | 3 | [Shhadi Ya Deni](https://open.spotify.com/track/1jjcCIUbf6J4GLGTkTig1a) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Shhadi Ya Deni](https://open.spotify.com/album/5bU5Fg54SC7StdbJRMJuNg) | 2:44 |
 | 4 | [Wahshaney](https://open.spotify.com/track/4SDzhmcot5c9JPtHe1KEPq) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshaney](https://open.spotify.com/album/51ARzrWimrJNCnPpM0TDQk) | 4:29 |
-| 5 | [Track 5](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 0:00 |
+| 5 | [Law Leila](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 2:41 |
 | 6 | [Shta’Tellak](https://open.spotify.com/track/28kL0bJHgjz1c8yxjt4tDZ) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Shta’Tellak](https://open.spotify.com/album/3jif2dNlnjkoH3wdFaTr5i) | 2:52 |
 | 7 | [BOSA](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [BOSA](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 |
 | 8 | [Tigi](https://open.spotify.com/track/6CCNjuE4nQ0hMGZtCePl8s) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE) | [Tigi](https://open.spotify.com/album/7CGaCqzV7UyLCF62ihArUf) | 2:31 |

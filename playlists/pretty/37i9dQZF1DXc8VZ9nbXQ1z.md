@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,087 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,181 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 8 | [Umlilo](https://open.spotify.com/track/1JE96CpkaL21OLE1KM8xA4) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Gil Bokobza](https://open.spotify.com/artist/61hqfFpaTu0oQO8lHYRBoW), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Umlilo](https://open.spotify.com/album/1VX5L3UMut6SCTzF4gzBNm) | 5:44 |
 | 9 | [Abasiki Bebunda](https://open.spotify.com/track/3mrm73XLbvYTcbchuZapDw) | [Em Ex](https://open.spotify.com/artist/5onpzOhX4fOa6fMziKvN03) | [Infinite Path](https://open.spotify.com/album/5NWwXULC5ElfqlmRsPeIz6) | 7:13 |
 | 10 | [Hustla](https://open.spotify.com/track/0pJDlz7Knzy5FqtBjWvbAe) | [MentMusik](https://open.spotify.com/artist/6IaXToqmOb6L9jV31jVsrt), [Meith](https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9) | [Hustla](https://open.spotify.com/album/72uW5sZ9JiqkL5qCJkWJYz) | 4:10 |
-| 11 | [Rise from the Darkness](https://open.spotify.com/track/1u4jF2pOajM6THm6fYtUeS) | [MPILOZA](https://open.spotify.com/artist/3nUf5Jdq1f6fdUOewuDwlh), [Sundile](https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk) | [Rise from the Darkness](https://open.spotify.com/album/16NC3cXuP9zjxJjowjOThJ) | 6:58 |
+| 11 | [Rise from the Darkness](https://open.spotify.com/track/1u4jF2pOajM6THm6fYtUeS) | [MPILOZA](https://open.spotify.com/artist/3nUf5Jdq1f6fdUOewuDwlh), [Sundile](https://open.spotify.com/artist/52IA2ZKjpv4G7zFBuoovjk) | [Rise from the Darkness](https://open.spotify.com/album/16NC3cXuP9zjxJjowjOThJ) | 7:04 |
 | 12 | [Danka \- Vocal Mix](https://open.spotify.com/track/0T1eRiLxEKyEsJcIG9ISJn) | [Dj Husca Boy](https://open.spotify.com/artist/4C73L9PtH3QwiqycdlBI4r) | [Danka \(Vocal Mix\)](https://open.spotify.com/album/2R2QUhYrEAEYTECd4An7l1) | 5:18 |
 | 13 | [Moonhound](https://open.spotify.com/track/6FCQ9uWV1CEqyBUDZW0qHz) | [Culoe De Song](https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR) | [Moonhound EP](https://open.spotify.com/album/7tuCnIeBJ2AnAjxSzLGcg7) | 5:53 |
 | 14 | [Alright \- Aroma IND, Massio Remix](https://open.spotify.com/track/0bpuFyRwcJw5UNOeCip7dz) | [Dale Mak](https://open.spotify.com/artist/3jyz7vojpcHelyPcp5m65W), [Aroma \(IND\)](https://open.spotify.com/artist/0XN90RWDbXTCkl94p1b24n), [Massio](https://open.spotify.com/artist/7sBQ7opbXfUczzXlB0ENB1) | [Alright \(The Remixes\)](https://open.spotify.com/album/0lmc1Ym9SvG0XTXoxZdn3i) | 6:32 |

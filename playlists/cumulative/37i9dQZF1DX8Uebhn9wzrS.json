@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "A Little Longer",
+        "url": "https://open.spotify.com/album/3awWuSo5liMZ9f6Ifmv8iH"
+      },
+      "artists": [
+        {
+          "name": "Red Cedar",
+          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "A Little Longer",
+      "url": "https://open.spotify.com/track/2npwOb4CeDUq91Pulq6UQA"
+    },
+    {
+      "album": {
         "name": "a little star strut",
         "url": "https://open.spotify.com/album/4jhB8uPd1UzqYCGeRVZIOJ"
       },
@@ -5926,7 +5944,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 129047,
       "name": "By The Lake",
       "url": "https://open.spotify.com/track/5pf8OQ19OvfPxhGuLpokXQ"
@@ -29561,6 +29579,24 @@
     },
     {
       "album": {
+        "name": "omuamua",
+        "url": "https://open.spotify.com/album/7bC2vK7iRGTfZibOgKjgKY"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133328,
+      "name": "omuamua",
+      "url": "https://open.spotify.com/track/1NDdxGxv9KHTT32tuj9GYY"
+    },
+    {
+      "album": {
         "name": "omw",
         "url": "https://open.spotify.com/album/15NdTmSabOkFfnm7b9fgCf"
       },
@@ -29828,6 +29864,24 @@
       "duration_ms": 149941,
       "name": "One more for the road",
       "url": "https://open.spotify.com/track/3Sp8yHw4Ss2gLNlvv5FJGz"
+    },
+    {
+      "album": {
+        "name": "One More Page",
+        "url": "https://open.spotify.com/album/1PQKE0jVaPq7ComyS7S939"
+      },
+      "artists": [
+        {
+          "name": "Blue Afternoon",
+          "url": "https://open.spotify.com/artist/7I3qZKjfcA4D6lxIcVBkB5"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131103,
+      "name": "One More Page",
+      "url": "https://open.spotify.com/track/3ubrObqREfUKohaeVQx5Ac"
     },
     {
       "album": {
@@ -37376,7 +37430,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170376,
       "name": "snoozed",
       "url": "https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn"
@@ -37662,6 +37716,24 @@
       "duration_ms": 187022,
       "name": "Softly Whispering",
       "url": "https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3DW5Db6lXxK659Q7YXuwXi"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/32t8uFTVcVeHLMGrIl4kon"
     },
     {
       "album": {
@@ -44323,6 +44395,24 @@
     },
     {
       "album": {
+        "name": "Until the Sky Turns Blue",
+        "url": "https://open.spotify.com/album/5vFacaIkFMyTATNbnQ8anO"
+      },
+      "artists": [
+        {
+          "name": "Slow Koi",
+          "url": "https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131919,
+      "name": "Until the Sky Turns Blue",
+      "url": "https://open.spotify.com/track/2lW1VdIBkSCRppgESsfInm"
+    },
+    {
+      "album": {
         "name": "until tomorrow",
         "url": "https://open.spotify.com/album/4B71U95fiuqTiJS4VEq2B9"
       },
@@ -46366,6 +46456,28 @@
       "duration_ms": 137142,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/7t2DFNrwmYM3mDGn6LlQJp"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3wQPUmLozJC7Y6Q3BeNwCb"
+      },
+      "artists": [
+        {
+          "name": "Yles",
+          "url": "https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/6GcxLsEJQoJWzqhZC3UMVQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss",
-  "num_followers": 156748,
+  "num_followers": 156787,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
-        "name": "Nada Mudou",
-        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 196457,
-      "name": "Nada Mudou",
-      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
         "name": "S\u00f3 Hoje (Strings Orchestra)",
         "url": "https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 209383,
       "name": "S\u00f3 Hoje - Strings Orchestra",
       "url": "https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "Nada Mudou",
+        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 196457,
+      "name": "Nada Mudou",
+      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
-        "name": "R\u00e1dio",
-        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "R\u00e1dio",
-      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
       },
@@ -607,22 +591,6 @@
       "duration_ms": 216860,
       "name": "Estive com Stevie",
       "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
-        "name": "Vamos Correr Pro Mar",
-        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
-      },
-      "artists": [
-        {
-          "name": "Seu Cuca",
-          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "Vamos Correr Pro Mar",
-      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -643,6 +611,22 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
+        "name": "Vamos Correr Pro Mar",
+        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
+      },
+      "artists": [
+        {
+          "name": "Seu Cuca",
+          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "Vamos Correr Pro Mar",
+      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
         "name": "Dragon",
         "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
+        "name": "R\u00e1dio",
+        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "R\u00e1dio",
+      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
         "name": "Vou Te Encontrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr"
       },
@@ -671,38 +671,6 @@
       "duration_ms": 270796,
       "name": "Vou Te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
-        "name": "P\u00e1ssaro Livre",
-        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "P\u00e1ssaro Livre",
-      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
-        "name": "Tudo Fica Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
-      },
-      "artists": [
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 165489,
-      "name": "Tudo Fica Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -731,6 +699,22 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
+        "name": "Tudo Fica Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 165489,
+      "name": "Tudo Fica Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
         "name": "Acustico Dr. Sin 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
       },
@@ -743,6 +727,42 @@
       "duration_ms": 274866,
       "name": "Wake Me Up - Ao Vivo",
       "url": "https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "P\u00e1ssaro Livre",
+        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "P\u00e1ssaro Livre",
+      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "Numas de Tapete Vermelho",
+        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gabriel",
+          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "duration_ms": 229564,
+      "name": "Numas de Tapete Vermelho",
+      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -775,26 +795,6 @@
       "duration_ms": 212024,
       "name": "Feedback - Ao Vivo",
       "url": "https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
-        "name": "Numas de Tapete Vermelho",
-        "url": "https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gabriel",
-          "url": "https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN"
-        },
-        {
-          "name": "Sonast\u00e9rio",
-          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
-        }
-      ],
-      "duration_ms": 229564,
-      "name": "Numas de Tapete Vermelho",
-      "url": "https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
+        "name": "Cozinho de Noite",
+        "url": "https://open.spotify.com/album/6hzAbCqXhpUxNCuE0H1zJI"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
+        },
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 202384,
+      "name": "Cozinho de Noite",
+      "url": "https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
         "name": "PITTYNANDO \u2013 As Suas, As Minhas e As Nossas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 173765,
       "name": "Ficou Saudade",
       "url": "https://open.spotify.com/track/0X7rSYCZNoaJR50Ja0Cfr7"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
-        "name": "Cozinho de Noite",
-        "url": "https://open.spotify.com/album/6hzAbCqXhpUxNCuE0H1zJI"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Baptista",
-          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
-        },
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 202384,
-      "name": "Cozinho de Noite",
-      "url": "https://open.spotify.com/track/2m9AJcDVe5B2dMxJRUOpdh"
     }
   ],
   "unique_name": "Rock Leve",

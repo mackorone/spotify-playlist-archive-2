@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777950,
+  "num_followers": 777960,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAACfChMAkBJ1OqM2/2d8Vll/",
+  "snapshot_id": "api4gAAAAAD+gh9I63DEnkUxKsLf3yhO",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
+      "duration_ms": 220720,
+      "name": "Build God, Then We'll Talk",
+      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 220720,
-      "name": "Build God, Then We'll Talk",
-      "url": "https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX"
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Camisado",
-      "url": "https://open.spotify.com/track/2hgkutEHVmJRg7drAJAFHi"
+      "duration_ms": 202026,
+      "name": "Time to Dance",
+      "url": "https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 227240,
-      "name": "She Had the World",
-      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
+      "duration_ms": 254386,
+      "name": "Do You Know What I'm Seeing?",
+      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Do You Know What I'm Seeing?",
-      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
+      "duration_ms": 227240,
+      "name": "She Had the World",
+      "url": "https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk"
     },
     {
       "added_at": null,

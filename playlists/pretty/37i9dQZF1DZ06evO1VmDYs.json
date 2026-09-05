@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205733,
+  "num_followers": 205761,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAAwuitfYcahmU6chTP3tcgx",
+  "snapshot_id": "api4gAAAAAB03MoSc+4KyV7dx7dQTu56",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 168186,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
+      "duration_ms": 219560,
+      "name": "Up In the Clouds",
+      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Up In the Clouds",
-      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
+      "duration_ms": 168186,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacific Daydream",
-        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 195893,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
+      "duration_ms": 286346,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Pacific Daydream",
+        "url": "https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 286346,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd"
+      "duration_ms": 195893,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY"
     },
     {
       "added_at": null,

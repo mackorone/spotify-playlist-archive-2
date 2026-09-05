@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-626 songs - 2 day 2 hr 9 min
+627 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-06 | 2025-07-17 |
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 | 2025-07-17 |
 | [Authenticated Krell](https://open.spotify.com/track/3TTyEO1WFusWo5HaSeokt6) | [Wobbly](https://open.spotify.com/artist/0qNnLmgWCSxj07xjEmz5aN) | [Popular Monitress](https://open.spotify.com/album/1XFvHUAZbwfqsPZZReEVSt) | 3:30 | 2021-10-06 | 2025-07-17 |
+| [Await](https://open.spotify.com/track/7bx7IZC0Xncb1JB57HGQyi) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Await](https://open.spotify.com/album/5d0UaITKvV8hmeBaBF9d6I) | 3:03 | 2026-09-04 |  |
 | [Azure Lunulae](https://open.spotify.com/track/16JKXjMSgQqD6TJftw0lC1) | [Natmou](https://open.spotify.com/artist/7y1QXoW5XtdkWFU5uD0WZF), [amaranth\_todd](https://open.spotify.com/artist/6RdkT5TY70MfXjL8Ql9cUV) | [Mycorrhizal Network](https://open.spotify.com/album/7onxbzz2dNRMa9nMIZ7qjO) | 3:46 | 2025-08-22 | 2026-02-21 |
 | [B12](https://open.spotify.com/track/7J5badCiU07ddc9wl4lr9O) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [B12](https://open.spotify.com/album/62pw9hYMJuTMC8vmqdy5aH) | 3:25 | 2025-04-11 | 2025-09-20 |
 | [Badwater Psalm \- Khotin Remix](https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0), [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Badwater Psalm \(Khotin Remix\)](https://open.spotify.com/album/2ylpTfBEFSetAZHwTT0jIK) | 6:00 | 2021-10-06 | 2025-07-17 |
@@ -338,7 +339,7 @@
 | [Mind Body](https://open.spotify.com/track/3UuRZmmJSW2mKIDbWL3OqO) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Ghostly Swim 3](https://open.spotify.com/album/25e8IflCnuVUvBOPHJBo9K) | 6:45 | 2021-10-06 | 2023-07-22 |
 | [Mind Body](https://open.spotify.com/track/7GoJMQInrLcrTD1K19I4HB) | [DJ Clea](https://open.spotify.com/artist/5ZSGfblqHsmriplkJOoAWx) | [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu) | 6:45 | 2021-10-06 | 2025-06-07 |
 | [mindspace](https://open.spotify.com/track/3vrFEEfp42bi7aHOAXte05) | ['•\. ¸¸ .•´¯data cluster ¯'•\. ¸¸ .•´](https://open.spotify.com/artist/4VRBuSZuS0yhwvU2SIPjZL) | [mindspace](https://open.spotify.com/album/19NDetB6aFOF6mvtiqH8EN) | 4:06 | 2025-09-19 |  |
-| [Mineral \- Edit](https://open.spotify.com/track/561gXtzNTVy07efgx7IJee) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Mineral \(Edit\)](https://open.spotify.com/album/6FaUwMO4QZqxJNApqgs1qq) | 3:27 | 2026-01-30 |  |
+| [Mineral \- Edit](https://open.spotify.com/track/561gXtzNTVy07efgx7IJee) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Mineral \(Edit\)](https://open.spotify.com/album/6FaUwMO4QZqxJNApqgs1qq) | 3:27 | 2026-01-30 | 2026-09-05 |
 | [Mist/Haze](https://open.spotify.com/track/51KBee4p5nVrPyLgTwpEC4) | [Friendly Chemist](https://open.spotify.com/artist/03CXtBOwnoV9TG6zNVqxrp) | [Touch of Jupiter](https://open.spotify.com/album/5e8J2ocCRv1YvvH8W8zqrr) | 5:48 | 2021-10-06 | 2022-07-26 |
 | [Mizu\-Iro](https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x) | [TENTENKO](https://open.spotify.com/artist/0Z0T5Cm2d7m8L0qCTzI6yD) | [An Antworten EP](https://open.spotify.com/album/5xJQeowjdaLP0GKJdRUjaO) | 6:28 | 2021-10-06 | 2025-07-17 |
 | [Mod Break](https://open.spotify.com/track/05rByi3FspJDgfpa8JOfLl) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Mod Break / Variated 3](https://open.spotify.com/album/5oMb7WAeh5Sumsxj19dQJb) | 5:43 | 2025-12-05 |  |

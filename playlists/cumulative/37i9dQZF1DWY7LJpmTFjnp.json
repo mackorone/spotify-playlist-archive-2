@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Son Rompe Pera en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Los Aut\u00e9nticos Decadentes y Los Caligaris en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/1jpC73VTuuzGQoZtKLq2Ep"
+      },
+      "artists": [
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "El Camino de la Verdad",
+      "url": "https://open.spotify.com/track/463wt19fJK6tFKV2MSilzX"
+    },
+    {
+      "album": {
         "name": "Anoche",
         "url": "https://open.spotify.com/album/5uBA88xQSrGS8sfVru3bWC"
       },
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210824,
       "name": "Fuera de Control",
       "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
@@ -2850,6 +2868,24 @@
       "duration_ms": 211155,
       "name": "Incomprensible",
       "url": "https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl"
+    },
+    {
+      "album": {
+        "name": "Infinito Paralelo",
+        "url": "https://open.spotify.com/album/1l4IsITlwC2USd6vml57Yt"
+      },
+      "artists": [
+        {
+          "name": "Doctor Kr\u00e1pula",
+          "url": "https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "Infinito Paralelo",
+      "url": "https://open.spotify.com/track/0WRqErSqR0hfiXmzUhYolk"
     },
     {
       "album": {
@@ -4032,7 +4068,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 230640,
       "name": "Me Olvidaste",
       "url": "https://open.spotify.com/track/73X0YNhRuFac62ApTB8gpP"
@@ -6110,7 +6146,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 205466,
       "name": "Ser\u00eda Feliz",
       "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
@@ -6280,7 +6316,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142031,
       "name": "Sismic",
       "url": "https://open.spotify.com/track/6Pfi8jcmT6Hfx19CW4DryR"
@@ -6342,6 +6378,28 @@
       "duration_ms": 181000,
       "name": "Solamente",
       "url": "https://open.spotify.com/track/1Dg29EgoDnKx3FXxTz2Adz"
+    },
+    {
+      "album": {
+        "name": "Solo Son D\u00edas Malos",
+        "url": "https://open.spotify.com/album/4GkvZQMPtGYYaYZobY5JTY"
+      },
+      "artists": [
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        },
+        {
+          "name": "LF Ants",
+          "url": "https://open.spotify.com/artist/34d8dSeOuJisT3TNcJazVQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232241,
+      "name": "Solo Son D\u00edas Malos",
+      "url": "https://open.spotify.com/track/1YNJ3kD4q03SRgY24fcTPu"
     },
     {
       "album": {
@@ -6796,6 +6854,28 @@
       "duration_ms": 214781,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
+    },
+    {
+      "album": {
+        "name": "Te Quiero Tanto",
+        "url": "https://open.spotify.com/album/2lV0MiZvuBpFeHrzU7zzFR"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208068,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/7BUqNxzfeDEMHvLG2FLYnn"
     },
     {
       "album": {
@@ -7670,7 +7750,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 208909,
       "name": "Y Te Aprovechas",
       "url": "https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ"

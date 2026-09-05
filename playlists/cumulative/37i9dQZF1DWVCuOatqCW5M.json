@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Rito Riba, Hansika Pareek, Shekhar Ravjiani, Swanand Kirkire and more.",
+  "description": "Latest music from Noor Chahal, Amit Trivedi, Anurag Saikia and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -702,7 +702,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 154782,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
@@ -4285,6 +4285,32 @@
     },
     {
       "album": {
+        "name": "Banjaare (Following the Sun)",
+        "url": "https://open.spotify.com/album/1J6GU8VNYO3luUsiV4IWQE"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Banjaare (Following the Sun)",
+      "url": "https://open.spotify.com/track/1LMfAnVIyTfqBJ4F7fRx0Y"
+    },
+    {
+      "album": {
         "name": "BANK CHOR",
         "url": "https://open.spotify.com/album/38PzMpE8iD5usGHyC5c0Rj"
       },
@@ -5222,7 +5248,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 166000,
       "name": "Behte Jana Hai",
       "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
@@ -5570,6 +5596,32 @@
       "duration_ms": 139200,
       "name": "Bewafa",
       "url": "https://open.spotify.com/track/42AxRRG1CrVgw21gdkOMxc"
+    },
+    {
+      "album": {
+        "name": "Bewafa (From\"Ilzaam 2.0\")",
+        "url": "https://open.spotify.com/album/73ahWMm2g5hpwYijQUPgg0"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "Isha Malviya",
+          "url": "https://open.spotify.com/artist/2PYWB1a54LJDbMGMpG94HG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Bewafa - (From\"Ilzaam 2.0\")",
+      "url": "https://open.spotify.com/track/7CsyFWn2F7B3WTueMVbjFG"
     },
     {
       "album": {
@@ -7710,6 +7762,28 @@
       "duration_ms": 147750,
       "name": "Chitthi",
       "url": "https://open.spotify.com/track/5VaMdYBY1TKv168OKvV789"
+    },
+    {
+      "album": {
+        "name": "Chokhi Laage",
+        "url": "https://open.spotify.com/album/06uMnHFlEM9eYFo40mPZ0U"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Chokhi Laage",
+      "url": "https://open.spotify.com/track/74iPQPCwr1EJq2qoxSGza6"
     },
     {
       "album": {
@@ -16554,7 +16628,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171932,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
@@ -17504,6 +17578,32 @@
       "duration_ms": 280117,
       "name": "Jalpari",
       "url": "https://open.spotify.com/track/0ZaNq3LvGZqXS34itop6xd"
+    },
+    {
+      "album": {
+        "name": "Jalwa E Jaanaan (Maati S2)",
+        "url": "https://open.spotify.com/album/1vtOYY3c8O3mTMzrkX88nd"
+      },
+      "artists": [
+        {
+          "name": "Anurag Saikia",
+          "url": "https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Shakeel Azmi",
+          "url": "https://open.spotify.com/artist/3KxvVvRRJE9ZYb3HbOGJSl"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252587,
+      "name": "Jalwa E Jaanaan - Maati S2",
+      "url": "https://open.spotify.com/track/3Ada7FIi6rNhh5sXeGiypb"
     },
     {
       "album": {
@@ -25714,7 +25814,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159211,
       "name": "Meri Saansein",
       "url": "https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH"
@@ -29912,7 +30012,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 223578,
       "name": "Piya Bedardi",
       "url": "https://open.spotify.com/track/5hdztw08uTjf2HT7bj26zJ"
@@ -33617,6 +33717,36 @@
     },
     {
       "album": {
+        "name": "Sajna Sang Tere",
+        "url": "https://open.spotify.com/album/4lQqEtLAvUTApzSFO5o8zY"
+      },
+      "artists": [
+        {
+          "name": "Shyam Sidhawat",
+          "url": "https://open.spotify.com/artist/4DMXeH8Y5Yvezzcg9kR0Ui"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Inayat Kaur Bajaj",
+          "url": "https://open.spotify.com/artist/3tUsiQAwzswWX1pTflob0o"
+        },
+        {
+          "name": "Mohsin Shaikh",
+          "url": "https://open.spotify.com/artist/1iIb9xv4HoY94O9IJWAFUj"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170396,
+      "name": "Sajna Sang Tere",
+      "url": "https://open.spotify.com/track/6o0MnEE45bkDs8pCNUe0jW"
+    },
+    {
+      "album": {
         "name": "Sajna Ve",
         "url": "https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ"
       },
@@ -35024,6 +35154,24 @@
       "duration_ms": 198447,
       "name": "Socho",
       "url": "https://open.spotify.com/track/5pZntMo01v4GRaWKWRqyTE"
+    },
+    {
+      "album": {
+        "name": "Sochun Main",
+        "url": "https://open.spotify.com/album/08zmj2y9MyLjcMtTL2Iapz"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sochun Main",
+      "url": "https://open.spotify.com/track/0N1ASYZHim2Uhj0DSqxKQO"
     },
     {
       "album": {
@@ -36986,6 +37134,36 @@
       "duration_ms": 242216,
       "name": "Tere Aane Se Pehle",
       "url": "https://open.spotify.com/track/5Xv9ZxTLaTRtEUAh3zXVEy"
+    },
+    {
+      "album": {
+        "name": "Tere Alava",
+        "url": "https://open.spotify.com/album/464djR3O3N07jXelC7lpFy"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266125,
+      "name": "Tere Alava",
+      "url": "https://open.spotify.com/track/1m3YMwToiCq4Yt06n4xSfX"
     },
     {
       "album": {
@@ -39790,7 +39968,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 189096,
       "name": "Tu Mileya",
       "url": "https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ"

@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "As We Were",
+        "url": "https://open.spotify.com/album/4ytp2GYLLRr5A9KS9D5nmj"
+      },
+      "artists": [
+        {
+          "name": "Robinson Roe",
+          "url": "https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139411,
+      "name": "As We Were",
+      "url": "https://open.spotify.com/track/7ENdUDE36n0If1ejuYoqmH"
+    },
+    {
+      "album": {
         "name": "Gaze",
         "url": "https://open.spotify.com/album/0k82yUpUYyvQV11mes5JgX"
       },
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169189,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/2mpy5N86A2YZDhiUvY1OGP"
@@ -2656,6 +2674,24 @@
       "duration_ms": 149724,
       "name": "Chillatorium",
       "url": "https://open.spotify.com/track/5NEvqdgF5r5vRuJD860hbO"
+    },
+    {
+      "album": {
+        "name": "Chillin' Colada",
+        "url": "https://open.spotify.com/album/6Pt5JX9mF1P4oFcH2VVpGx"
+      },
+      "artists": [
+        {
+          "name": "Aria Kyd",
+          "url": "https://open.spotify.com/artist/5xYT5srfugAEEXv0df3vRs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136266,
+      "name": "Chillin' Colada",
+      "url": "https://open.spotify.com/track/29xtJqhPWSytKBatdnURc2"
     },
     {
       "album": {
@@ -4572,6 +4608,24 @@
       "duration_ms": 390117,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D"
+    },
+    {
+      "album": {
+        "name": "Easy Weather",
+        "url": "https://open.spotify.com/album/5JYsi8QMAxi3UWX9Ouo71D"
+      },
+      "artists": [
+        {
+          "name": "Albu",
+          "url": "https://open.spotify.com/artist/4gztB2wNt82ZZEQ0rd5JaH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Easy Weather",
+      "url": "https://open.spotify.com/track/7HpPmLsrFJywkVkfHX0wdr"
     },
     {
       "album": {
@@ -7156,10 +7210,28 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 220403,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/1URQNNZ4XQZZOvSTRmyOwq"
+    },
+    {
+      "album": {
+        "name": "I found her",
+        "url": "https://open.spotify.com/album/2ScCBPXEOy2eu4iHGfrAhz"
+      },
+      "artists": [
+        {
+          "name": "Ocean Silhouette",
+          "url": "https://open.spotify.com/artist/2LWa52RmMEwEQF5q2EvjxL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130057,
+      "name": "I found her",
+      "url": "https://open.spotify.com/track/5K740VoQRt4YZJayBxwHCR"
     },
     {
       "album": {
@@ -7934,6 +8006,24 @@
       "duration_ms": 197869,
       "name": "Jazz Street Cafe",
       "url": "https://open.spotify.com/track/4LNAc5HhLtRTrAELN1HG3V"
+    },
+    {
+      "album": {
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/3wGB1RxdEOnCUj1scakJW2"
+      },
+      "artists": [
+        {
+          "name": "Zaytune",
+          "url": "https://open.spotify.com/artist/70JZHPeMCxGcQKKg3qmu2c"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "Jungle Fever",
+      "url": "https://open.spotify.com/track/7dnGlsP8VP8re9BMjtLkKr"
     },
     {
       "album": {
@@ -8819,6 +8909,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/7fQbNVNv3asxYmgY1VTsiP"
+      },
+      "artists": [
+        {
+          "name": "kuki",
+          "url": "https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/2i8HOfemjnKqfVueVjZHNH"
+    },
+    {
+      "album": {
         "name": "Liberation",
         "url": "https://open.spotify.com/album/4LVH4sPDtqUQiqffdU7QuQ"
       },
@@ -8978,6 +9086,24 @@
       "duration_ms": 167008,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/2ift2AgfPD8mCOjxIfg58t"
+    },
+    {
+      "album": {
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/5tpQNp0e2JLZYTDN4ppvfp"
+      },
+      "artists": [
+        {
+          "name": "The Lido",
+          "url": "https://open.spotify.com/artist/4pxc1z1I4Oqu6Kdp7SQ9A8"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/1uybcjneGZdVPkGtK5P7g1"
     },
     {
       "album": {
@@ -14539,6 +14665,24 @@
     },
     {
       "album": {
+        "name": "Shibui",
+        "url": "https://open.spotify.com/album/0RXXbGGAOg098Lpt9tZmyE"
+      },
+      "artists": [
+        {
+          "name": "Minima Bleu",
+          "url": "https://open.spotify.com/artist/7lOlIIo25tGr1BhaFu9uJc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Shibui",
+      "url": "https://open.spotify.com/track/5zkbK0NAiCeSbUNbvDtsb1"
+    },
+    {
+      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/4ZrpYHfQZeDtrpUrMnVean"
       },
@@ -15119,6 +15263,24 @@
     },
     {
       "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/4bQIeWsHgKddNuRpoOa8ga"
+      },
+      "artists": [
+        {
+          "name": "Phil Axes",
+          "url": "https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133018,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2fwXWu7GW6k2BZCGuGvqpe"
+    },
+    {
+      "album": {
         "name": "Socorro & J\u00fcpiter",
         "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
@@ -15646,7 +15808,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 168113,
       "name": "Stencils",
       "url": "https://open.spotify.com/track/463Lbeh622AWB00MTqxcZs"
@@ -16190,6 +16352,24 @@
       "duration_ms": 123260,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0CXDewCNTSPql9OhPtLkS2"
+    },
+    {
+      "album": {
+        "name": "Sunlit Steps",
+        "url": "https://open.spotify.com/album/0lDcpIdNIU1oBGywjynLYi"
+      },
+      "artists": [
+        {
+          "name": "sunie",
+          "url": "https://open.spotify.com/artist/3ftVuGld5gbsOp6scb9QYC"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sunlit Steps",
+      "url": "https://open.spotify.com/track/6NVelEBSWi0Mj5fG5uxR27"
     },
     {
       "album": {
@@ -17232,6 +17412,24 @@
       "duration_ms": 318384,
       "name": "The Wait",
       "url": "https://open.spotify.com/track/324pDJfbknuqbfSmOp8p60"
+    },
+    {
+      "album": {
+        "name": "The Whole Afternoon",
+        "url": "https://open.spotify.com/album/0nmHsoFcku8B2P8ycplPoh"
+      },
+      "artists": [
+        {
+          "name": "Dove Tales",
+          "url": "https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144743,
+      "name": "The Whole Afternoon",
+      "url": "https://open.spotify.com/track/2RQ8jTYjBRubEzA3Pc6Frc"
     },
     {
       "album": {

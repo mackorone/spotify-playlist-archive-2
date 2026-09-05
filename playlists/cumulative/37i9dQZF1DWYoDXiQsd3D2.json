@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Between Breaths (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0XlegLORnvTRgFwPEfUrKs"
+      },
+      "artists": [
+        {
+          "name": "Birgir Hilmarsson",
+          "url": "https://open.spotify.com/artist/4RM0WqCh73jRZH3AhHsSC1"
+        },
+        {
+          "name": "Arnger\u00f0ur Mar\u00eda \u00c1rnad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3YLZ2x3zepW2rbRK8LoMi3"
+        },
+        {
+          "name": "Biggi Hilmars",
+          "url": "https://open.spotify.com/artist/55RUzsCv2DA6ilOoYYzpbz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123150,
+      "name": "Alone Under the Northern Sky",
+      "url": "https://open.spotify.com/track/2pB0Yr4t1DoezJQ4PpOD1G"
+    },
+    {
+      "album": {
         "name": "An Incoherent Meditation On A Fucked Up Year",
         "url": "https://open.spotify.com/album/6at6VquluJUiU6jti8aJTE"
       },
@@ -1510,6 +1536,36 @@
       "duration_ms": 313299,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/1vanuicvdPJJFjJ2OYdLGI"
+    },
+    {
+      "album": {
+        "name": "Dazed and Reflective Glory Pt. 1",
+        "url": "https://open.spotify.com/album/0XkMLaPhQKqy5Uy9K9cBSk"
+      },
+      "artists": [
+        {
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Budapest Art Orchestra",
+          "url": "https://open.spotify.com/artist/6OepiS5BXsCRgfBGf5CD9N"
+        },
+        {
+          "name": "Peter Pejtsik",
+          "url": "https://open.spotify.com/artist/2GwrkEbcYi6RODxm5hYSMO"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137420,
+      "name": "Dazed and Reflective Glory Pt. 1",
+      "url": "https://open.spotify.com/track/4kT4u2NX4jg4gj3ozwwCbS"
     },
     {
       "album": {

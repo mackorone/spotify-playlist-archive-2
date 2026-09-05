@@ -8773,6 +8773,24 @@
     },
     {
       "album": {
+        "name": "DaME las SuBs",
+        "url": "https://open.spotify.com/album/5HqPe7U9O4uJ3BvtlRKJsN"
+      },
+      "artists": [
+        {
+          "name": "Peereira7",
+          "url": "https://open.spotify.com/artist/1PYrFqv06YjSh6G170C0uz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138701,
+      "name": "DaME las SuBs",
+      "url": "https://open.spotify.com/track/13DIKGeh9SBpYBRIBZOs6m"
+    },
+    {
+      "album": {
         "name": "Dance Crip",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
@@ -10364,7 +10382,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"

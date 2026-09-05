@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,003 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,021 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GASS \(feat.Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
+| 1 | [GASS \(feat\. Travis Scott\)](https://open.spotify.com/track/4TtFvGGps7haO0XbmhVz2y) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 1:56 |
 | 2 | [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 |
 | 3 | [Milan \(CC2\)](https://open.spotify.com/track/52ADv6b6hr9YIO0JenUCz3) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Lost Tapes](https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC) | 3:00 |
 | 4 | [Which One](https://open.spotify.com/track/3URpUsUUv4Kr7l1hVnWy1K) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Which One](https://open.spotify.com/album/3AipAgLfi9mnI0hFewZvUx) | 3:01 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 46 | [Yep](https://open.spotify.com/track/2tuW2GQM4ERuLt5UMeZ1z6) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Yep](https://open.spotify.com/album/4meoHt8uzYWUhWdVf3JmrI) | 2:12 |
 | 47 | [LONDON STATE OF MIND](https://open.spotify.com/track/7xYa76UjWNFoHOteD513k7) | [N4T](https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz) | [LONDON STATE OF MIND](https://open.spotify.com/album/4fEU1kx3p4YOnPazeeZls9) | 4:23 |
 | 48 | [Franklin Saint](https://open.spotify.com/track/41eLyUevYzG1Nqcs9LOSQb) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Crossroads](https://open.spotify.com/album/6OLfB7EDNgVTNM8eNlEeRC) | 2:11 |
-| 49 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
+| 49 | [whine am well ft\. onoola\-sama](https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu) | [Len Lucci](https://open.spotify.com/artist/4RFMoaKlMKR4HLjnM8NOia), [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC) | [goldenboy](https://open.spotify.com/album/03zrcHL12iJSAOmMDnHeu3) | 2:49 |
 | 50 | [Where I Go \(W.I.G\)](https://open.spotify.com/track/59juBdCdQX0THna8cx7hos) | [THIAGO](https://open.spotify.com/artist/2FJfmQKv4jm8Zfi5K9uaUO) | [Where I Go \(W.I.G\)](https://open.spotify.com/album/78O5E8j2h2WOR26zx1321p) | 2:02 |
 | 51 | [Body Tea \(feat\. J Hus\)](https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Bulletproof Disc](https://open.spotify.com/album/0X9zXdN9mAkszdZjsWWhKx) | 2:41 |
 | 52 | [Same Old Story](https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [CLARK](https://open.spotify.com/artist/3oe253onRmaxNiz7NkNELQ), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [Same Old Story](https://open.spotify.com/album/2yCnCG9ZDTDAQMOvTCAG6t) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Mudra D'Viral
 
-620 songs - 1 day 7 hr 25 min
+621 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Oouuh](https://open.spotify.com/track/3UuGbtOErjt3X0gQiIPO67) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Vinci Vybz](https://open.spotify.com/artist/6N7PI6eQUaQm4lZHDqnQuW) | [Oouuh](https://open.spotify.com/album/0hrr3LFE855N3EZ0cNHEoK) | 2:12 | 2025-10-17 | 2026-01-16 |
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 | 2022-10-06 |
 | [Osobola](https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 3:13 | 2022-09-30 | 2022-10-07 |
+| [Oteesa Otya](https://open.spotify.com/track/1qkkB8PQ4ER1Y2OZngrXLI) | [Dokta Brain](https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu), [Chemical Ali Nicer](https://open.spotify.com/artist/1sZ6KgVU4SDatULlsTIhxA) | [Oteesa Otya](https://open.spotify.com/album/79iFT9y8rMlKacTtys0Zsj) | 2:50 | 2026-09-03 |  |
 | [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-02-07 | 2025-05-23 |
 | [Outside](https://open.spotify.com/track/2qKzsHkkXWCQ394i1Fgykw) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:30 | 2024-03-15 | 2024-04-06 |
 | [Over](https://open.spotify.com/track/0dUQnaFf8mn6ts1gI5Pb89) | [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Over](https://open.spotify.com/album/3O35nnZEXcmQht2m1vzNGl) | 2:33 | 2024-03-01 | 2024-06-08 |

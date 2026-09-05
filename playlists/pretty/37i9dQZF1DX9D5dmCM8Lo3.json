@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 72977,
+  "num_followers": 73038,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -82,6 +82,10 @@
         {
           "name": "Kikuo",
           "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
       "duration_ms": 365235,

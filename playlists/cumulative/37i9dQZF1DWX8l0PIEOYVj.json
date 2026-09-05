@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 featuring HALIENE",
+  "description": "Future & melodic bass  \ud83d\udef8  featuring Andrew Bayer",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -8606,6 +8606,28 @@
       "duration_ms": 204800,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr"
+    },
+    {
+      "album": {
+        "name": "A Light That Guides Weary Travelers Home",
+        "url": "https://open.spotify.com/album/1CQdK1Uirt3M4YrwHlo0FI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Gemma Hayes",
+          "url": "https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1qOGoXdkbAwTcy5G9GDLl0"
     },
     {
       "album": {
@@ -18826,7 +18848,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 290910,
       "name": "Waking up in a Dream",
       "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"

@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88642,
+  "num_followers": 88641,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u30a2\u30a4\u30a6\u30bf",
@@ -599,6 +583,22 @@
       "duration_ms": 292917,
       "name": "\u30a2\u30a4\u30a6\u30bf",
       "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "back to you (you're the reason)",
-        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
-      },
-      "artists": [
-        {
-          "name": "satellite.",
-          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
-        }
-      ],
-      "duration_ms": 240392,
-      "name": "back to you (you're the reason)",
-      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 194586,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "back to you (you're the reason)",
+        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+      },
+      "artists": [
+        {
+          "name": "satellite.",
+          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+        }
+      ],
+      "duration_ms": 240392,
+      "name": "back to you (you're the reason)",
+      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u7a7a\u306f\u307e\u308b\u3067",
-        "url": "https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "\u5149\u671d",
-      "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Museum of My Mess",
         "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 269048,
       "name": "Museum of My Mess",
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u7a7a\u306f\u307e\u308b\u3067",
+        "url": "https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "\u5149\u671d",
+      "url": "https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -969,40 +969,40 @@
       "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
-      "added_at": "2026-05-21 15:00:24",
+      "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+        "name": "\u5504\u304c\u6b69\u304f\u6642",
+        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
       },
       "artists": [
         {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
+      "duration_ms": 230571,
+      "name": "\u5504\u304c\u6b69\u304f\u6642",
+      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
+      "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
       "artists": [
         {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
         }
       ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1041,40 +1041,40 @@
       "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-05-21 15:00:24",
       "album": {
-        "name": "Fall Into You",
-        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
         },
         {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
         }
       ],
-      "duration_ms": 168658,
-      "name": "Fall Into You",
-      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-07-09 15:00:41",
       "album": {
-        "name": "\u5504\u304c\u6b69\u304f\u6642",
-        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
       },
       "artists": [
         {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
         }
       ],
-      "duration_ms": 230571,
-      "name": "\u5504\u304c\u6b69\u304f\u6642",
-      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO"
     },
     {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Silent Storm",
@@ -1197,6 +1181,22 @@
       "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
     },
     {
+      "added_at": "2026-07-16 15:00:53",
+      "album": {
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
+    },
+    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "Turntable in the Lift",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Pools of Colour",
         "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 228398,
       "name": "Pools of Colour",
       "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "MY\u5922\u4e2d",
         "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
       },
@@ -1371,22 +1355,6 @@
       "duration_ms": 249000,
       "name": "MY\u5922\u4e2d",
       "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "\u9f13\u52d5",
-        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
-      },
-      "artists": [
-        {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
-        }
-      ],
-      "duration_ms": 161720,
-      "name": "\u9f13\u52d5",
-      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1407,18 +1375,34 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-        "url": "https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV"
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
         }
       ],
-      "duration_ms": 268500,
-      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u9f13\u52d5",
+        "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "duration_ms": 161720,
+      "name": "\u9f13\u52d5",
+      "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1443,6 +1427,22 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0"
     },
     {
       "added_at": "2026-05-07 16:20:46",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
-      },
-      "artists": [
-        {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
         "url": "https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 195600,
       "name": "Place Your Hands",
       "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",

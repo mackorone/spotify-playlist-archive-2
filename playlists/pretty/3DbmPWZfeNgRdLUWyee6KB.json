@@ -6,8 +6,56 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXlaJXNXoRmety5d0jY8ZXZ7hwiNSs",
+  "snapshot_id": "AAAXoAxZ0Qurujc6+UrmTOWSyXmg8RDt",
   "tracks": [
+    {
+      "added_at": "2026-09-04 07:33:13",
+      "album": {
+        "name": "7 Minuti",
+        "url": "https://open.spotify.com/album/0AXg8MfBadPBzKIh9KQUhV"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 166989,
+      "name": "7 Minuti",
+      "url": "https://open.spotify.com/track/79OfypttlVnnEevErh7JYo"
+    },
+    {
+      "added_at": "2026-09-04 18:48:27",
+      "album": {
+        "name": "Oats in the Water",
+        "url": "https://open.spotify.com/album/0RArkkNk0GSK3Sa350Q6fh"
+      },
+      "artists": [
+        {
+          "name": "OceanHeir",
+          "url": "https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Oats in the Water",
+      "url": "https://open.spotify.com/track/1ByNlQGRy1zfsxLIfJPB7O"
+    },
+    {
+      "added_at": "2026-09-04 18:48:10",
+      "album": {
+        "name": "Oats in the Water",
+        "url": "https://open.spotify.com/album/0RArkkNk0GSK3Sa350Q6fh"
+      },
+      "artists": [
+        {
+          "name": "OceanHeir",
+          "url": "https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU"
+        }
+      ],
+      "duration_ms": 252706,
+      "name": "Oats in the Water",
+      "url": "https://open.spotify.com/track/1ByNlQGRy1zfsxLIfJPB7O"
+    },
     {
       "added_at": "2026-08-21 09:03:00",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 187010,
       "name": "Eyes Like Robin Eggs",
       "url": "https://open.spotify.com/track/5tMGSuQIlHud3aumM4JHwH"
+    },
+    {
+      "added_at": "2026-09-04 17:50:11",
+      "album": {
+        "name": "Bajo el Sol",
+        "url": "https://open.spotify.com/album/5xZ7eWuiEXPYI1Gew39wM5"
+      },
+      "artists": [
+        {
+          "name": "Mary Nena",
+          "url": "https://open.spotify.com/artist/0sAQ4d3Dx3Z7IVDeZy9bXL"
+        }
+      ],
+      "duration_ms": 154990,
+      "name": "Bajo el Sol",
+      "url": "https://open.spotify.com/track/4JtZDo0l8Pga9n6BvgZ7S0"
+    },
+    {
+      "added_at": "2026-09-04 16:31:46",
+      "album": {
+        "name": "Babushka",
+        "url": "https://open.spotify.com/album/4zwjYXDS247l7S36Cgpsjw"
+      },
+      "artists": [
+        {
+          "name": "Vitanota",
+          "url": "https://open.spotify.com/artist/6Ay0IHTWZ1abifFcGYI1Lv"
+        }
+      ],
+      "duration_ms": 425000,
+      "name": "Babushka",
+      "url": "https://open.spotify.com/track/2CVoJokaGUE9j4Fk3xxnxK"
     },
     {
       "added_at": "2026-08-23 08:44:16",
@@ -1735,6 +1815,86 @@
       "duration_ms": 202828,
       "name": "Nicht nur heut",
       "url": "https://open.spotify.com/track/7Kfb3DrhtIApy2CuTWwfs8"
+    },
+    {
+      "added_at": "2026-09-04 07:41:19",
+      "album": {
+        "name": "Sunshine Mery",
+        "url": "https://open.spotify.com/album/5SCF6XJUAw8ypOX6JPhdjz"
+      },
+      "artists": [
+        {
+          "name": "Nakace7",
+          "url": "https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "Sunshine Mery",
+      "url": "https://open.spotify.com/track/6R8bdDF7LEmYfSFnuL8JPb"
+    },
+    {
+      "added_at": "2026-09-04 07:41:21",
+      "album": {
+        "name": "Telephone (Demo)",
+        "url": "https://open.spotify.com/album/2bwSulBGn57LB3ftljJgYb"
+      },
+      "artists": [
+        {
+          "name": "Trent Schmit",
+          "url": "https://open.spotify.com/artist/7xwUob9itrByfnnGyHEIGQ"
+        }
+      ],
+      "duration_ms": 247078,
+      "name": "Telephone (Demo)",
+      "url": "https://open.spotify.com/track/41xiEeepKURMhIFOtBahiM"
+    },
+    {
+      "added_at": "2026-09-04 13:27:36",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/5D15vHFZgrvUdLQWATteUQ"
+      },
+      "artists": [
+        {
+          "name": "Krio",
+          "url": "https://open.spotify.com/artist/6fP0UUQ2SsI2xvbqGhXDbN"
+        }
+      ],
+      "duration_ms": 165740,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/1i9G9QJk7VwyiEyPE9QRlb"
+    },
+    {
+      "added_at": "2026-09-04 13:27:39",
+      "album": {
+        "name": "Your Silence Is Deadly",
+        "url": "https://open.spotify.com/album/2XcJhbHfWGlAZDPxhNUTHZ"
+      },
+      "artists": [
+        {
+          "name": "Linda Imperial",
+          "url": "https://open.spotify.com/artist/0ulH2qWVGdDxSNcCzj4hgA"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Your Silence Is Deadly",
+      "url": "https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q"
+    },
+    {
+      "added_at": "2026-09-04 13:27:43",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3QNg4LrouXljZ0u6SjyWIo"
+      },
+      "artists": [
+        {
+          "name": "Valeska Rautenberg",
+          "url": "https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG"
+        }
+      ],
+      "duration_ms": 211624,
+      "name": "The Forest Song - A Cappella Version",
+      "url": "https://open.spotify.com/track/2oEEGGspJgXus3vxjDWqxI"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,664 songs - 6 day 2 hr 38 min
+2,666 songs - 6 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Afterglow](https://open.spotify.com/track/6czAdzw7kRxwJmYQXYutCD) | [phvrien](https://open.spotify.com/artist/4V1JGaADDuIWiWsWFwoHVE) | [Afterglow](https://open.spotify.com/album/0YUkTFKDyOgM0uKIkPMGjq) | 2:13 | 2025-01-30 | 2025-02-02 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-11-06 | 2023-12-02 |
 | [Ai Coração](https://open.spotify.com/track/25l25dLwkUGmvWx8N9gE8g) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Ai Coração](https://open.spotify.com/album/4dEIT8yEBY152fcLo67fVY) | 2:54 | 2023-05-15 | 2023-05-20 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-09-04 |  |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-09 | 2021-08-30 |
 | [AIR FORCE \(BLACK DEMARCO\)](https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:44 | 2026-01-17 | 2026-01-19 |
 | [Akmuo](https://open.spotify.com/track/1oRnqEgjFPgezATqJvvbfa) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 2:49 | 2024-03-22 | 2024-04-07 |
@@ -1190,7 +1191,7 @@
 | [Labubu](https://open.spotify.com/track/0Pzp6TnmozLpH3zFMZAkdM) | [Lilas ir Innomine](https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR) | [Labubu](https://open.spotify.com/album/2hoRmRSbx4Z2lu0hWzu3rQ) | 3:40 | 2026-04-28 | 2026-05-25 |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
 | [LAIKAI MANE](https://open.spotify.com/track/2xeSVn85HLRMfCNtAgYnyd) | [ba.](https://open.spotify.com/artist/4JgXlDN8sCvwjFeFlWnsuf) | [LAIKAI MANE](https://open.spotify.com/album/17mhHjXzqCtD2OHasW0wfq) | 3:38 | 2024-02-02 | 2024-02-13 |
-| [Laikas Keistis](https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8) | [G&G Sindikatas](https://open.spotify.com/artist/2bqjifJKTLK1AS9AnGbX0L) | [Revoliucijos Garso Takelis](https://open.spotify.com/album/6UszIdQLBKwbveBm8ogJJM) | 4:16 | 2025-09-04 |  |
+| [Laikas Keistis](https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8) | [G&G Sindikatas](https://open.spotify.com/artist/2bqjifJKTLK1AS9AnGbX0L) | [Revoliucijos Garso Takelis](https://open.spotify.com/album/6UszIdQLBKwbveBm8ogJJM) | 4:16 | 2025-09-04 | 2026-09-05 |
 | [Laikas Negydo](https://open.spotify.com/track/6axuazwArLoEAxYRFvD0wK) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7rxB0crsrIhNMX9ZV0o3xp) | 3:07 | 2025-07-21 | 2025-09-04 |
 | [Laikas Negydo](https://open.spotify.com/track/78Ry00x6UzlCPY8MFg189X) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Apkabinti Prisiminimus](https://open.spotify.com/album/7a6yvohFsFbRkQarmnJHcz) | 3:07 | 2022-01-26 | 2022-01-30 |
 | [Laikas Negydo \- Live @ Kalnų Parkas](https://open.spotify.com/track/6yA5AjKJurgfaC8VGObyPg) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Laikas Negydo \(Live @ Kalnų Parkas\)](https://open.spotify.com/album/7I7exEPKepdulLYjhqD4k7) | 5:45 | 2025-08-31 | 2025-09-02 |
@@ -2178,7 +2179,7 @@
 | [SURVIVOR](https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8) | [PARG](https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K) | [SURVIVOR](https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ) | 2:58 | 2025-05-19 | 2025-05-21 |
 | [Swagga Money](https://open.spotify.com/track/5w1wnIDDASEyHpRGmE29V4) | [4Mat B](https://open.spotify.com/artist/3sT7BlOXEw3katFNa222on) | [Swagga Money](https://open.spotify.com/album/6PtaAgD5IX24suf8mJ4MNa) | 3:12 | 2024-03-17 | 2024-03-19 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-03-27\* | 2026-05-16 |
-| [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2024-09-17 |  |
+| [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2024-09-17 | 2026-09-05 |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2021-06-27 | 2021-06-28 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2025-07-11 | 2025-07-13 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |
@@ -2549,6 +2550,7 @@
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2022-10-13 | 2024-01-21 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 2:41 | 2021-11-23 | 2022-05-08 |
 | [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 | 2025-10-04 | 2025-10-08 |
+| [Wicked Game](https://open.spotify.com/track/2y42xAsl6dfMeVXQgOYsUw) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/2103xkKW1uuHUG2sOIaZSt) | 4:49 | 2026-09-04 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-05-18 | 2026-02-08 |
 | [WILSHIRE](https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 8:35 | 2021-06-27 | 2021-06-28 |
 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2025-10-26 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 312,
+  "num_followers": 321,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
         "name": "Written into Changes",
         "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 141381,
       "name": "Circlesz",
       "url": "https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
     },
     {
       "added_at": "2026-08-06 16:00:19",

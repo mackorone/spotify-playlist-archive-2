@@ -1,6 +1,6 @@
 {
   "description": "El campo suena fuerte. Sumate a la fiesta. Foto: Angelo Aranda",
-  "num_followers": 68470,
+  "num_followers": 68499,
   "original_name": "Baile Campero",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAAI/1OJ5kf7eNl8s0n0w4eHKBlyQH",
   "tracks": [
+    {
+      "added_at": "2026-09-03 15:42:16",
+      "album": {
+        "name": "L\u00e1grimas Del Palo Cruz",
+        "url": "https://open.spotify.com/album/73uYKGFnRwagfH0L942gJg"
+      },
+      "artists": [
+        {
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 159632,
+      "name": "L\u00e1grimas Del Palo Cruz",
+      "url": "https://open.spotify.com/track/5OB8HtOzT0GwLkcVn2jOmT"
+    },
     {
       "added_at": "2026-09-03 15:42:16",
       "album": {

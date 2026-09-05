@@ -4523,7 +4523,7 @@
       "artists": [
         {
           "name": "King Solomon",
-          "url": "https://open.spotify.com/artist/6vN7iPK95U67VZhM4nXKe6"
+          "url": "https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh"
         },
         {
           "name": "Preye Odede",
@@ -6145,24 +6145,6 @@
     },
     {
       "album": {
-        "name": "The OverFlow",
-        "url": "https://open.spotify.com/album/5FjEP0G0gLE12RYTDaAZHz"
-      },
-      "artists": [
-        {
-          "name": "Naomi Classik",
-          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
-        }
-      ],
-      "date_added": "2026-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/46hC9KsdqwotKlcrUKZVtP"
-    },
-    {
-      "album": {
         "name": "Heart Of Worship Vol. 2",
         "url": "https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw"
       },
@@ -7156,6 +7138,28 @@
       "duration_ms": 284212,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6dkpWruWBcvP0G43JYvpdn"
+    },
+    {
+      "album": {
+        "name": "The OverFlow",
+        "url": "https://open.spotify.com/album/5FjEP0G0gLE12RYTDaAZHz"
+      },
+      "artists": [
+        {
+          "name": "Naomi Classik",
+          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
+        },
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676475,
+      "name": "Your Name - Live",
+      "url": "https://open.spotify.com/track/46hC9KsdqwotKlcrUKZVtP"
     },
     {
       "album": {

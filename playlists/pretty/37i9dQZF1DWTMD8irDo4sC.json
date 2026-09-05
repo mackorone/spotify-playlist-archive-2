@@ -1,6 +1,6 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 78965,
+  "num_followers": 78974,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-10-06 14:50:07",
       "album": {
-        "name": "Soul (Rouh)",
-        "url": "https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        }
-      ],
-      "duration_ms": 418106,
-      "name": "Soul (Rouh)",
-      "url": "https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF"
-    },
-    {
-      "added_at": "2025-10-06 14:50:07",
-      "album": {
         "name": "Ghalta",
         "url": "https://open.spotify.com/album/0geJTiK5HGDu4C5XLR20XH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212876,
       "name": "Ghalta",
       "url": "https://open.spotify.com/track/3AqxIuMAi2dzwxRJ7JYjl9"
+    },
+    {
+      "added_at": "2025-10-06 14:50:07",
+      "album": {
+        "name": "Soul (Rouh)",
+        "url": "https://open.spotify.com/album/499lxS0hhJcexWf3dZX2g8"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        }
+      ],
+      "duration_ms": 418106,
+      "name": "Soul (Rouh)",
+      "url": "https://open.spotify.com/track/4azmg1dcdnaNdppq6i8MgF"
     },
     {
       "added_at": "2025-10-06 14:50:07",

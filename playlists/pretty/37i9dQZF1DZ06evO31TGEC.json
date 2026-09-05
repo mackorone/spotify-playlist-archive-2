@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56007,
+  "num_followers": 56022,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAABLwXfBbmBxFhW7eNMgmUVC",
+  "snapshot_id": "api4gAAAAADVNecsHpZqak0lwkC1sNqg",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Maldito Licor",
-      "url": "https://open.spotify.com/track/5UZxsxodMAfhXQk2nE0oEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 180185,
       "name": "Nadie Es De Nadie",
       "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Maldito Licor",
+      "url": "https://open.spotify.com/track/5UZxsxodMAfhXQk2nE0oEy"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embrujado - Single",
-        "url": "https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 173872,
-      "name": "Embrujado",
-      "url": "https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 203000,
       "name": "Cuando Era Ni\u00f1o",
       "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embrujado - Single",
+        "url": "https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 173872,
+      "name": "Embrujado",
+      "url": "https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Rancheras Consentidas",
-        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 203706,
       "name": "Ap\u00e1rtame Esta Noche",
       "url": "https://open.spotify.com/track/3NE4YdED8j6h0x5HNzqYsQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Rancheras Consentidas",
+        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Un Bruto",
-        "url": "https://open.spotify.com/album/5YxgoxmdN9TGpVw63HzcLz"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 180289,
-      "name": "Como Un Bruto",
-      "url": "https://open.spotify.com/track/4DOdWV7Db67i7hjSMIIxt9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Un Bruto",
+        "url": "https://open.spotify.com/album/5YxgoxmdN9TGpVw63HzcLz"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 180289,
+      "name": "Como Un Bruto",
+      "url": "https://open.spotify.com/track/4DOdWV7Db67i7hjSMIIxt9"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eran De Azucar Sus Labios (Version Banda)",
+        "url": "https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182688,
+      "name": "Eran De Azucar Sus Labios (Version Banda)",
+      "url": "https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 174706,
       "name": "En La Misma Cama - Dueto Con El Chapo",
       "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eran De Azucar Sus Labios (Version Banda)",
-        "url": "https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182688,
-      "name": "Eran De Azucar Sus Labios (Version Banda)",
-      "url": "https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV"
     },
     {
       "added_at": null,
@@ -746,11 +746,15 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,
@@ -810,15 +814,11 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
     }
   ],
   "unique_name": "This Is El Chapo De Sinaloa",

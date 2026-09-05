@@ -1,13 +1,197 @@
 {
-  "description": "Lo nuevo del mundo tropical. Cover: Lauta",
-  "num_followers": 395988,
+  "description": "Lo nuevo del mundo tropical. Cover: Kenia Os, Xavi",
+  "num_followers": 396215,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAORhlLERD5gAlxJUnB4GclLC7Rfk",
+  "snapshot_id": "AAAAAD18uncwf7N0yHcZcXNi707uFlak",
   "tracks": [
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Malas Ma\u00f1as",
+        "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Malas Ma\u00f1as",
+      "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Ojitos Hechiceros",
+        "url": "https://open.spotify.com/album/4AwPF1P3Wps8SGTziSzy8C"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/0fwdc72bpBkqAqBBhZcbu9"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Todas (En Vivo)",
+        "url": "https://open.spotify.com/album/41EmZx3XosBduSdJnJLIXl"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Milthon",
+          "url": "https://open.spotify.com/artist/6gIF4fABYGdlhkCP8C22MK"
+        }
+      ],
+      "duration_ms": 155690,
+      "name": "Todas - En Vivo",
+      "url": "https://open.spotify.com/track/7Lz7yfo6OePiYfJ4CokhgM"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "30 Aniversario (En Vivo Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4OfUlDpmWNLOhLPFx9n2cE"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 231965,
+      "name": "Vienes y Te Vas - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1ww12XnHtof48oHp9ZjdaM"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "El Terremoto",
+        "url": "https://open.spotify.com/album/75OB71lKerS5Truadn3gvt"
+      },
+      "artists": [
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        },
+        {
+          "name": "NEETRAM",
+          "url": "https://open.spotify.com/artist/6lcIRYh3d5bJR02L3DFSgE"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "El Terremoto",
+      "url": "https://open.spotify.com/track/2Vi9ISfnzgnuONeZzWFGaF"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Me Enamore de un Imposible",
+        "url": "https://open.spotify.com/album/7kEVqctUt0W1B83N4UeomH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Me Enamore de un Imposible",
+      "url": "https://open.spotify.com/track/7FvQmquIiwn6ObedgphKsi"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "After The Noise (Lado A)",
+        "url": "https://open.spotify.com/album/5d82h1YS8TJSJfqyq3YTMa"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        },
+        {
+          "name": "Max Santos The Thunder",
+          "url": "https://open.spotify.com/artist/1MzZGAOtnxrMTIGpGBSPAr"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Leyendas",
+      "url": "https://open.spotify.com/track/2nvkpeQCScIPlntqF6f2U5"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Besitos de man\u00ed",
+        "url": "https://open.spotify.com/album/4InOhA1sJdKuXIvLoSahSL"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 207241,
+      "name": "Besitos de man\u00ed",
+      "url": "https://open.spotify.com/track/3SjM9g3p8UaAwvzprBLdeF"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "Para Que Hables de M\u00ed",
+        "url": "https://open.spotify.com/album/4HTjB8DLvLl1KLcFbaHBC8"
+      },
+      "artists": [
+        {
+          "name": "Los S\u00faper Caracoles",
+          "url": "https://open.spotify.com/artist/34yN3W6hGSIpvWEJLKHsX7"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Para Que Hables de M\u00ed",
+      "url": "https://open.spotify.com/track/5cXiE2Kvsr8knlS6gEJ65o"
+    },
+    {
+      "added_at": "2026-09-04 17:23:25",
+      "album": {
+        "name": "NO ME DEJES SIN TU AMOR",
+        "url": "https://open.spotify.com/album/0TfW07lvHp8hE8KJOEaqit"
+      },
+      "artists": [
+        {
+          "name": "Baketha",
+          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
+        },
+        {
+          "name": "AnaKingZ",
+          "url": "https://open.spotify.com/artist/0sZhD1co7vMzjD55ps1cpD"
+        }
+      ],
+      "duration_ms": 132347,
+      "name": "NO ME DEJES SIN TU AMOR",
+      "url": "https://open.spotify.com/track/1xcbvqlHeTeccX6pvmS8Nu"
+    },
     {
       "added_at": "2026-08-28 06:00:21",
       "album": {
@@ -371,22 +555,6 @@
     {
       "added_at": "2026-08-28 06:00:21",
       "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 282216,
-      "name": "Rubio",
-      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
         "name": "Nunca M\u00e1s",
         "url": "https://open.spotify.com/album/0TRs7YJpWKhSpPm8Sf4gDp"
       },
@@ -399,22 +567,6 @@
       "duration_ms": 189186,
       "name": "Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/0WvCKbeTXebWQUCduvbjIG"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "Por No Perderte Te Perdi",
-        "url": "https://open.spotify.com/album/4AXp8On21o5752eVPV8Tlg"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 169342,
-      "name": "Por No Perderte Te Perdi",
-      "url": "https://open.spotify.com/track/57RM67Rt2vO9Dgjqc1eC5a"
     },
     {
       "added_at": "2026-08-28 06:00:21",
@@ -447,22 +599,6 @@
       "duration_ms": 252900,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/62bwSXNBzLeGebnbZWJuLq"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "Vi\u00e9ndote de Lejos",
-        "url": "https://open.spotify.com/album/0m1ZGtpxHjB8jcZ0ezwatx"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Vi\u00e9ndote de Lejos",
-      "url": "https://open.spotify.com/track/7152ddHmoKsHJKc3eMglLS"
     },
     {
       "added_at": "2026-08-28 06:00:21",
@@ -579,22 +715,6 @@
     {
       "added_at": "2026-08-28 06:00:21",
       "album": {
-        "name": "Momento Zero.",
-        "url": "https://open.spotify.com/album/1qzCxXvPKPJQ5N6aTz0Ovv"
-      },
-      "artists": [
-        {
-          "name": "Danny Polo",
-          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Lo que no sabes tu",
-      "url": "https://open.spotify.com/track/0vuFk5CjCau6dpjUGDoSwZ"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
         "name": "Tu recuerdo",
         "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
       },
@@ -623,38 +743,6 @@
       "duration_ms": 149765,
       "name": "No Se Olvida",
       "url": "https://open.spotify.com/track/2imd4D4oRsVb5bNIcXp9nP"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/6G7yDOTR6sNJYT4D2oYTG7"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 257898,
-      "name": "Cari\u00f1o Gitano",
-      "url": "https://open.spotify.com/track/5KqQ354Q8AeRsJOKglBv4l"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "La Discoteca",
-        "url": "https://open.spotify.com/album/4RcYAfFpxlNDm9vQx4ivSv"
-      },
-      "artists": [
-        {
-          "name": "Donny Caballero",
-          "url": "https://open.spotify.com/artist/59KiJoJk4joMhDfJ037DDt"
-        }
-      ],
-      "duration_ms": 171947,
-      "name": "La Discoteca",
-      "url": "https://open.spotify.com/track/5iZsbkwnVAC6HrCafCez6F"
     },
     {
       "added_at": "2026-08-28 06:00:21",
@@ -695,22 +783,6 @@
     {
       "added_at": "2026-08-28 06:00:21",
       "album": {
-        "name": "WhyWhyWhy",
-        "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 159178,
-      "name": "WhyWhyWhy",
-      "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
         "name": "Apambichao",
         "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
@@ -723,26 +795,6 @@
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "Vuelvo a Ser Yo",
-        "url": "https://open.spotify.com/album/4JV604kWQm7qdoShxrrIYO"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        },
-        {
-          "name": "Alain P\u00e9rez",
-          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
-        }
-      ],
-      "duration_ms": 257114,
-      "name": "Vuelvo a Ser Yo",
-      "url": "https://open.spotify.com/track/4YkOLuXVmAtcJWBAm5Zog0"
     },
     {
       "added_at": "2026-08-28 06:00:21",
@@ -763,38 +815,6 @@
       "duration_ms": 215151,
       "name": "Perderme Contigo (Salsa)",
       "url": "https://open.spotify.com/track/0yC19LEuEQPjxmyXcG1DL2"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/1MwhORiO9DTVExZRxF7uUp"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cruz",
-          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
-        }
-      ],
-      "duration_ms": 167555,
-      "name": "Me Quiere A M\u00ed",
-      "url": "https://open.spotify.com/track/0bUgZF9KH9QE3YvR0wOXCP"
-    },
-    {
-      "added_at": "2026-08-28 06:00:21",
-      "album": {
-        "name": "POBRE DIABLO",
-        "url": "https://open.spotify.com/album/552defk7tp8dhkrmakfAIr"
-      },
-      "artists": [
-        {
-          "name": "Ronald Borjas",
-          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
-        }
-      ],
-      "duration_ms": 292629,
-      "name": "POBRE DIABLO",
-      "url": "https://open.spotify.com/track/37lSdhzxIe6DLpunPPoT9P"
     },
     {
       "added_at": "2026-08-28 06:00:21",

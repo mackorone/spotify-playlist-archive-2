@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Savanna Leigh",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Macy Todd",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -878,6 +878,24 @@
       "duration_ms": 208226,
       "name": "All My Songs",
       "url": "https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2"
+    },
+    {
+      "album": {
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/6ClrF3x27rcS8dqbTSSek6"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "All Of My Pretty",
+      "url": "https://open.spotify.com/track/3MPcqtZXjlVNZkWD55lmb0"
     },
     {
       "album": {
@@ -7088,7 +7106,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 197538,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/4aPCqvzEHLWCBjYMxvXKbV"
@@ -8424,7 +8442,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 173730,
       "name": "how2get2me",
       "url": "https://open.spotify.com/track/1uRKG3qQlihYCSQVEop2lA"
@@ -11755,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "luckiest girl alive",
+        "url": "https://open.spotify.com/album/5VYf1y5PC7GpqfjAXmnYQu"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "luckiest girl alive",
+      "url": "https://open.spotify.com/track/03I8QTPwaCgRgCbOYC1wQ3"
+    },
+    {
+      "album": {
         "name": "Machine Learning",
         "url": "https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX"
       },
@@ -12072,7 +12108,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 200029,
       "name": "mean!",
       "url": "https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH"
@@ -13398,6 +13434,24 @@
       "duration_ms": 246322,
       "name": "One For The Road",
       "url": "https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru"
+    },
+    {
+      "album": {
+        "name": "one good thing",
+        "url": "https://open.spotify.com/album/0izq3cdOEnJu9Y4CW0X5Gh"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196069,
+      "name": "one good thing",
+      "url": "https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV"
     },
     {
       "album": {
@@ -15102,6 +15156,24 @@
       "duration_ms": 207546,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/7N04vaIHwmsEFIOSOtEzGd"
+    },
+    {
+      "album": {
+        "name": "Sad Porn",
+        "url": "https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192174,
+      "name": "Sad Porn",
+      "url": "https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX"
     },
     {
       "album": {
@@ -18416,7 +18488,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 205667,
       "name": "Toothpaste",
       "url": "https://open.spotify.com/track/7gf02EFnPEN4kCD6c5jKND"

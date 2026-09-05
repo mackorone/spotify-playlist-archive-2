@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Victor Rivera y su Nuevo Estilo",
+  "description": "Bien alucin con el electro, la nueva ola de la fiesta. Cover: Mando y a Kiko el Crazy",
   "name": "Electro Corridos",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 145281,
       "name": "ANTRO FRESXN (REMIX)",
       "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 160000,
       "name": "BELICLOVE",
       "url": "https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 140686,
       "name": "ENQLADO",
       "url": "https://open.spotify.com/track/49Ba4Xut516R9L6Fw1YjB0"
@@ -5806,7 +5806,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170882,
       "name": "La Movie",
       "url": "https://open.spotify.com/track/5685SxAjAOu4pQisUv5lh4"
@@ -6209,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "Lavadita De Fresa",
+        "url": "https://open.spotify.com/album/6mpwJiPllnurecipqKV8Oe"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178513,
+      "name": "Lavadita De Fresa",
+      "url": "https://open.spotify.com/track/3STIXmYgwwj1CGRJt8MyqL"
+    },
+    {
+      "album": {
         "name": "LINDA",
         "url": "https://open.spotify.com/album/3yWUhNOlKeko8CssJgRUF8"
       },
@@ -6466,7 +6484,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 165245,
       "name": "Los Poderes",
       "url": "https://open.spotify.com/track/3EG9FhiEylICvnpT1GHZ5f"
@@ -6492,7 +6510,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159360,
       "name": "LVL",
       "url": "https://open.spotify.com/track/4DrtWtE0ljRCFVB5cMZhBb"
@@ -6562,7 +6580,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142501,
       "name": "Mafioso Americano",
       "url": "https://open.spotify.com/track/1eFIgq7Wj5cQnDFZ3NfEv8"
@@ -6722,7 +6740,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 155912,
       "name": "Mar y Alcohol",
       "url": "https://open.spotify.com/track/5s48XlrADj9QFsFZMpI3rn"
@@ -6952,7 +6970,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184647,
       "name": "Me Visto Caro",
       "url": "https://open.spotify.com/track/5U2eK2ahgNG5l8ebm0et8C"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 108519,
       "name": "MONUMENTO",
       "url": "https://open.spotify.com/track/3QsJiCwh5mRXUbKHybghGV"
@@ -9446,7 +9464,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 155562,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX"
@@ -9656,6 +9674,24 @@
       "duration_ms": 160880,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
+    },
+    {
+      "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
     },
     {
       "album": {
@@ -10819,6 +10855,28 @@
     },
     {
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4eB4ANAGN0uOcoHRQGZKLi"
+      },
+      "artists": [
+        {
+          "name": "Mando",
+          "url": "https://open.spotify.com/artist/5je9bD2UleIqUBGMNnFyPc"
+        },
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6BZsdRUmdJaUhno9XGgDvx"
+    },
+    {
+      "album": {
         "name": "TESTIGO",
         "url": "https://open.spotify.com/album/0uCapRAWnX9YHCPwLWZMTZ"
       },
@@ -11960,7 +12018,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 172925,
       "name": "Winnie Pooh",
       "url": "https://open.spotify.com/track/6syifuZ5Q2DrTNp68Mprt2"

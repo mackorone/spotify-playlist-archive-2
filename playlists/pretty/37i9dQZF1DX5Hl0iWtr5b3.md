@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Unmask your true love\. Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,066 likes - 124 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,318 likes - 124 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 9 | [DJ Got US Fallin’ In Love](https://open.spotify.com/track/2EOTuQRTwNaqzyg9CAhzZr) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:22 |
 | 10 | [I Am The Tea](https://open.spotify.com/track/03LELeiepIk1GZy1C1JYDH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 2:16 |
 | 11 | [Ms\. Wilson Runs the Show](https://open.spotify.com/track/1Vul5NzyLvZURHyt3Kfiqy) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 1:01 |
-| 12 | [Life In Technicolor](https://open.spotify.com/track/0L9mQWPKNFRyaiIUCd9O3x) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 2:56 |
-| 13 | [Love Or Envy](https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 0:54 |
+| 12 | [Love Or Envy](https://open.spotify.com/track/09YAz8zwEc3e53EnNGsSGZ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Four \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6Kk8aewGFrutyVj6EcuNi2) | 0:54 |
+| 13 | [Life In Technicolor](https://open.spotify.com/track/0L9mQWPKNFRyaiIUCd9O3x) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 2:56 |
 | 14 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
 | 15 | [Never Let You Go](https://open.spotify.com/track/5chAAj8QNNl2dMHlZh4Sjy) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:31 |
 | 16 | [All I Wanted](https://open.spotify.com/track/7kENWNGw5C2v3HfBsEdWxi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Four \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4aXB7bXpydzYA3cGf277Rn) | 3:20 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 123 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 124 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `AAAAADoksxhK5Q21D8l+jczOJdy4QiVU`
+Snapshot ID: `AAAAAKlVGgWdb3xp/f1mkmYFAIKJNw6r`

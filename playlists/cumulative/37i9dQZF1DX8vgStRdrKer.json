@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 211513,
       "name": "Biggest Name (Man of Galilee)",
       "url": "https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A"
@@ -6582,6 +6582,24 @@
       "duration_ms": 198668,
       "name": "How Can I Forget?",
       "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
+    },
+    {
+      "album": {
+        "name": "how can it be?",
+        "url": "https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "how can it be?",
+      "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
       "album": {
@@ -11495,6 +11513,28 @@
     },
     {
       "album": {
+        "name": "NSO (Live)",
+        "url": "https://open.spotify.com/album/3QHokGNotqKag2PySA54cW"
+      },
+      "artists": [
+        {
+          "name": "King Solomon",
+          "url": "https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451569,
+      "name": "NSO - Live",
+      "url": "https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0"
+    },
+    {
+      "album": {
         "name": "Nyame Banbofo (God the Protector)",
         "url": "https://open.spotify.com/album/4bY3fGW7US97ciDNc2gvaA"
       },
@@ -13738,7 +13778,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 511913,
       "name": "So Good Medley",
       "url": "https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa"

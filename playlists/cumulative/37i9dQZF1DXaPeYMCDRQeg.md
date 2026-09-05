@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-540 songs - 1 day 8 hr 52 min
+543 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Dilemma](https://open.spotify.com/track/4nthV2eZAXnt4yiJMocLkG) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville \(Explicit Version\)](https://open.spotify.com/album/502wXEj9iWWdqaAi0CO75M) | 4:49 | 2024-01-31 |  |
 | [DND](https://open.spotify.com/track/0T1rQV6AKYpktPNXArEqmz) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DUMBCRAZY](https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW) | 2:53 | 2025-12-12 | 2026-01-15 |
 | [Don't](https://open.spotify.com/track/3pXF1nA74528Edde4of9CC) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:18 | 2024-01-31 |  |
+| [Don't You Know](https://open.spotify.com/track/0ps01PauqwH16MJZQbZkcH) | [Chelsie Denise](https://open.spotify.com/artist/0fRSAl779fSbXWCYpzPm2j) | [Don't You Know](https://open.spotify.com/album/1ME1OgJP7GLfyjhcm8nXCi) | 3:05 | 2026-09-04 |  |
 | [Dontchange](https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 5:04 | 2021-12-15 | 2024-02-01 |
 | [Dope Girl](https://open.spotify.com/track/03UERpSRNgwNt1poeQQZ0M) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 2:12 | 2026-08-28 |  |
 | [Drive](https://open.spotify.com/track/2qYbtIf8dRkBkKIcZVGFDq) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:05 | 2024-12-20 | 2025-02-08 |
@@ -328,6 +329,7 @@
 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 | 2025-10-17 | 2025-12-18 |
 | [Mobbin in DC](https://open.spotify.com/track/2RQgeSpeept1RwvpBZeRBh) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS) | 4:25 | 2026-01-23 |  |
 | [Moment](https://open.spotify.com/track/6rSUrh8ErKSKfbH0t0IzCM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:59 | 2023-02-10 | 2024-02-01 |
+| [MONDAY TO SUNDAY](https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [MONDAY TO SUNDAY](https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu) | 3:07 | 2026-09-04 |  |
 | [MORE THAN A HOMIE](https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [MORE THAN A HOMIE](https://open.spotify.com/album/1mJDMgJyr19JFmT0GxBCgT) | 3:34 | 2025-08-15 | 2025-12-06 |
 | [more than a trend](https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 1:36 | 2024-01-31 | 2024-04-25 |
 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 | 2022-03-14 | 2023-02-11 |
@@ -357,6 +359,7 @@
 | [Number One \(with Brent Faiyaz\)](https://open.spotify.com/track/45Dbuxv3884YEuIaZ4F6iN) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:47 | 2025-11-14 | 2025-12-06 |
 | [NWM](https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [NWM](https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs) | 3:12 | 2026-08-14 |  |
 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 | 2025-07-11 | 2025-09-11 |
+| [OK \(feat\. Latto\)](https://open.spotify.com/track/5RiaFa4CFyUBgMA1cqDyPI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 2:07 | 2026-09-04 |  |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2021-12-15 | 2023-02-11 |
 | [On Tonight](https://open.spotify.com/track/1ngrFqz5zp4qd0wX71mynC) | [Allyn](https://open.spotify.com/artist/2nWo31Kvu9rMSVfhuUVUw3) | [On Tonight](https://open.spotify.com/album/44QUGK5Nmr3v3dZMN1sX7L) | 2:30 | 2025-07-11 | 2025-08-09 |
 | [One And Only](https://open.spotify.com/track/6oZ9Qpb5BFl1mSQsAwL8jA) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Shyst Vader](https://open.spotify.com/artist/4I5adK92x8iI08SorjLrYY) | [One And Only](https://open.spotify.com/album/35rFSAlSO2hjj0rp1MTg0H) | 3:00 | 2026-01-30 | 2026-05-23 |

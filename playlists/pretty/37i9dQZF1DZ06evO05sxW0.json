@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 9494,
+  "num_followers": 9507,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAA/4U67OU79fjolDhxkUreW",
+  "snapshot_id": "api4gAAAAAAflALPJS9LcDe/2DcH7pYk",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reject All American",
         "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
+      "duration_ms": 148760,
+      "name": "Daddy's L'il Girl",
+      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
     },
     {
       "added_at": null,
@@ -468,22 +484,6 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148760,
-      "name": "Daddy's L'il Girl",
-      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
       "duration_ms": 213026,
       "name": "Playground",
       "url": "https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy"
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
+      "duration_ms": 209960,
+      "name": "Ocean Song",
+      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Ocean Song",
-      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
+      "duration_ms": 215546,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
     }
   ],
   "unique_name": "This Is Bikini Kill",

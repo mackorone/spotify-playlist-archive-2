@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Luh Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,841 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,885 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Geeked Shit \- remix](https://open.spotify.com/track/0zRkeslMkmS7y4RNCCwIgH) | [Luh Nae](https://open.spotify.com/artist/0BdeKVmnO8H0Y1vIvRjoK1), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Geeked Shit \(remix\)](https://open.spotify.com/album/5gz9K0m5e7mcfMBpl8Rc2y) | 2:45 |
-| 2 | [on point](https://open.spotify.com/track/0vVh4v2pZITlNiYhPIQhlZ) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [opened gates](https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w) | 2:32 |
-| 3 | [Earn Ya Rank](https://open.spotify.com/track/5fZqbCKt3Uyf82bP4NhE1T) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf) | [Earn Ya Rank](https://open.spotify.com/album/16StEgkchpdfXwW4kY06N3) | 2:06 |
+| 2 | [Earn Ya Rank](https://open.spotify.com/track/5fZqbCKt3Uyf82bP4NhE1T) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf) | [Earn Ya Rank](https://open.spotify.com/album/16StEgkchpdfXwW4kY06N3) | 2:06 |
+| 3 | [on point](https://open.spotify.com/track/0vVh4v2pZITlNiYhPIQhlZ) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [opened gates](https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w) | 2:32 |
 | 4 | [Let’s Talk About It \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/track/1APm1pv04YFJiE43qE30Ri) | [bdifferent](https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Come On!!](https://open.spotify.com/album/3on6PLR2DZcDKKEpwGrBq7) | 2:45 |
 | 5 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
 | 6 | [Reason](https://open.spotify.com/track/6JfiCWei9nil1VGD6Jn4Zd) | [Yung Skooley](https://open.spotify.com/artist/5hfKHmE2Vo9XyLyIJZe3rl), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Cutt To Da Bone](https://open.spotify.com/album/4qr5B6d7CLvhLnAn5MmVDk) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Mari Glock](https://open.spotify.com/track/4tcerjzYYVUdIcfcYfuvRa) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h), [Lil Sy](https://open.spotify.com/artist/72CLkm7zXfuBxvLU9hjmsi) | [51 Days & 54 Nights Walkin](https://open.spotify.com/album/3oLF2NLYR1s77uIxtU0cTF) | 2:00 |
 | 80 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAAFx7Li5gffw/biLE4TF3TeDJzHce`
+Snapshot ID: `AAAAAHVktW/KwiziZknUkIkL/3iqzF07`

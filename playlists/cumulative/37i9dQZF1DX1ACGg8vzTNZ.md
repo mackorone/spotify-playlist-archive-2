@@ -4,7 +4,7 @@
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-137 songs - 8 hr 10 min
+138 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Gnossienne: No.1 \(Satie Reworks\) \- Spotify Singles](https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 2:39 | 2022-10-28 | 2023-02-02 |
 | [Hands](https://open.spotify.com/track/6p2tTt91TXVyuTDlgNtTC2) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Hands](https://open.spotify.com/album/0kD0sQjX9gaY04IrziJcIf) | 3:23 | 2022-01-10 | 2022-03-31 |
 | [Her & the Sea](https://open.spotify.com/track/3fXIgil7Wu5SIuvwICY511) | [CLANN](https://open.spotify.com/artist/0YN64WuO9KaKCUbTx8hNd0) | [Kin Fables](https://open.spotify.com/album/0Uf6UV3INFgG210s3v0yKR) | 3:42 | 2022-01-10 | 2022-03-31 |
+| [Honey Lemon Soda \- Main Theme](https://open.spotify.com/track/0DcB5CUxWsEaiINaxVNnbf) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Honey Lemon Soda \- Main Theme](https://open.spotify.com/album/2xfT9Ovf2vxoAGGI0tjerP) | 2:48 | 2026-09-04 |  |
 | [Horizon](https://open.spotify.com/track/0AOnNl1SVzTFWovqKJoSKk) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Horizon](https://open.spotify.com/album/4CCfBKrtjWQrtfmhyxB4DV) | 4:55 | 2022-01-10 | 2022-07-12 |
 | [Hoxa Sound](https://open.spotify.com/track/7uKJyU2UuZDEb98ENxk4kq) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Holm \(Variations & B\-sides\)](https://open.spotify.com/album/55JLt4kV1iMlDMBVba8sSb) | 2:03 | 2023-02-01 |  |
 | [I Thought About Death, About Time](https://open.spotify.com/track/4JOoSceuUVZwJ3CCNWNc0n) | [Benjamin Gustafsson](https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl) | [Dear Earth, I'm Lost](https://open.spotify.com/album/6RzX8tJaaKmsQsvkEoxxaU) | 2:00 | 2023-04-21 | 2024-04-19 |

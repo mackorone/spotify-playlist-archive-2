@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRH3BidpSgn.md) - [plain]
 
 > <a href="spotify:artist:0ygIgsjUzKivFgxgjQ9iV9">Jacques Greene</a>'s favourite tracks\. Updated regularly\. Curated by Jacques Greene\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

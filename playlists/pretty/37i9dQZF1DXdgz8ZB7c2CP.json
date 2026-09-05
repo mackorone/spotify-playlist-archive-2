@@ -1,13 +1,109 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring Juelz",
-  "num_followers": 844618,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83e\udd41 featuring Saint Ludo + Cap1talA",
+  "num_followers": 844628,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCxDqyaRM9JThR+bujyGjCLJANe",
+  "snapshot_id": "AAAAAHYcIoIQAUYE2a3TYNNGShSH0vph",
   "tracks": [
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/6YVrO1ehYsQFlDlYAtTViw"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "808",
+      "url": "https://open.spotify.com/track/0r8iGm1w5lPfQsYJ1xwEq6"
+    },
+    {
+      "added_at": "2026-05-01 04:02:39",
+      "album": {
+        "name": "Gloss (feat. y3kfae)",
+        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "y3kfae",
+          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
+        }
+      ],
+      "duration_ms": 112325,
+      "name": "Gloss (feat. y3kfae)",
+      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:55",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6Se6Ms3VemVAL03nu22DRV"
+      },
+      "artists": [
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Keir Gibson",
+          "url": "https://open.spotify.com/artist/7ey2WoBWg8ibvFA69UNy0M"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/2BpWIXkAIQvBvTdQVcyYTq"
+    },
+    {
+      "added_at": "2026-07-17 04:01:39",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/4iEHPWf90D0ZEUHzd3Mv5a"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "Luire",
+        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
+      },
+      "artists": [
+        {
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Luire",
+      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
+    },
     {
       "added_at": "2026-08-21 15:18:15",
       "album": {
@@ -31,42 +127,6 @@
     {
       "added_at": "2026-08-28 16:14:58",
       "album": {
-        "name": "Luire",
-        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
-      },
-      "artists": [
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Luire",
-      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
-    },
-    {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "Gloss (feat. y3kfae)",
-        "url": "https://open.spotify.com/album/1oJVbraMcDsSslBon72fUP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "y3kfae",
-          "url": "https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP"
-        }
-      ],
-      "duration_ms": 112325,
-      "name": "Gloss (feat. y3kfae)",
-      "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
-    },
-    {
-      "added_at": "2026-08-28 16:14:58",
-      "album": {
         "name": "WHEN I TALK!",
         "url": "https://open.spotify.com/album/52IP1UM34Tnd2XXAjaxlGl"
       },
@@ -83,6 +143,34 @@
       "duration_ms": 173116,
       "name": "WHEN I TALK!",
       "url": "https://open.spotify.com/track/6c3EEVUELrRPujWdYCxmDA"
+    },
+    {
+      "added_at": "2026-09-04 04:01:55",
+      "album": {
+        "name": "I SAW A TRAP DJ AND IT CHANGED MY BIO CHEMISTRY",
+        "url": "https://open.spotify.com/album/2QGRurbGefSNSTzkdUL8WO"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Jack Blom",
+          "url": "https://open.spotify.com/artist/2bo9YinKaf9AODdIQ93G9m"
+        },
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "duration_ms": 212228,
+      "name": "Candy Flipping",
+      "url": "https://open.spotify.com/track/4ErJ2mnFmvQIWdsL6KNDnq"
     },
     {
       "added_at": "2026-08-14 04:01:52",
@@ -121,6 +209,26 @@
       "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
     },
     {
+      "added_at": "2026-09-04 04:01:55",
+      "album": {
+        "name": "in my dreams",
+        "url": "https://open.spotify.com/album/0Mg01R2oTPFnSAYnFMXQFP"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Abi Flynn",
+          "url": "https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "in my dreams",
+      "url": "https://open.spotify.com/track/1ws9HNQVmC84LcyG2pfIhH"
+    },
+    {
       "added_at": "2026-08-21 15:18:15",
       "album": {
         "name": "Greyscale",
@@ -137,24 +245,24 @@
       "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
     },
     {
-      "added_at": "2026-08-28 16:14:58",
+      "added_at": "2026-09-04 04:01:55",
       "album": {
-        "name": "808",
-        "url": "https://open.spotify.com/album/6YVrO1ehYsQFlDlYAtTViw"
+        "name": "Pocket Science Vol.1",
+        "url": "https://open.spotify.com/album/0DYo1FCqtc9Q7PH6XeMpGy"
       },
       "artists": [
         {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+          "name": "episcool",
+          "url": "https://open.spotify.com/artist/3KhrVd40DJwuzH8uPASUu4"
         },
         {
-          "name": "Cap1talA",
-          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+          "name": "AedFX",
+          "url": "https://open.spotify.com/artist/3SGPWc458j00jDAZ0hFBt4"
         }
       ],
-      "duration_ms": 122000,
-      "name": "808",
-      "url": "https://open.spotify.com/track/0r8iGm1w5lPfQsYJ1xwEq6"
+      "duration_ms": 146726,
+      "name": "donjulio",
+      "url": "https://open.spotify.com/track/11VUWABVyMZTCIqo2sagcy"
     },
     {
       "added_at": "2026-08-21 15:18:15",
@@ -175,6 +283,22 @@
       "duration_ms": 180339,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/3jfBMg8uje6vAYTxdK0Jqt"
+    },
+    {
+      "added_at": "2026-09-04 04:01:55",
+      "album": {
+        "name": "talk smooth",
+        "url": "https://open.spotify.com/album/1cgZvu5CfMP1MCq2MxKv8u"
+      },
+      "artists": [
+        {
+          "name": "Kaiyo",
+          "url": "https://open.spotify.com/artist/3tVaONcHNsNoVJ5U1RspLs"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "talk smooth",
+      "url": "https://open.spotify.com/track/36ETX5XxWjVfY8pX19dLh8"
     },
     {
       "added_at": "2026-08-28 16:14:58",
@@ -207,26 +331,6 @@
       "duration_ms": 103285,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
-    },
-    {
-      "added_at": "2026-07-17 04:01:39",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/4iEHPWf90D0ZEUHzd3Mv5a"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
-          "name": "fkblnde",
-          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
     },
     {
       "added_at": "2026-07-31 04:02:28",
@@ -287,6 +391,22 @@
       "duration_ms": 154285,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
+    },
+    {
+      "added_at": "2026-09-04 04:01:55",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/5u2SydpyK5My9bvvzm3WpG"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 231304,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/6z8D9KWgMGNm6oSzFltgHe"
     },
     {
       "added_at": "2026-07-24 04:02:33",
@@ -953,26 +1073,6 @@
       "url": "https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC"
     },
     {
-      "added_at": "2026-07-10 04:02:04",
-      "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/6pCthnB3Fdl539ZM628Rlc"
-      },
-      "artists": [
-        {
-          "name": "Dogs I Know",
-          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
-        },
-        {
-          "name": "Polezsky",
-          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/3azLtBULAnMXVSR600y29n"
-    },
-    {
       "added_at": "2026-07-31 04:02:28",
       "album": {
         "name": "Think About You",
@@ -1055,22 +1155,6 @@
       "duration_ms": 182608,
       "name": "WASTINGTIME",
       "url": "https://open.spotify.com/track/00x4LHrD6sxltEHSLCh6uY"
-    },
-    {
-      "added_at": "2026-05-29 04:02:39",
-      "album": {
-        "name": "Close To Me",
-        "url": "https://open.spotify.com/album/5xy527apuowNDrT8YPGOiD"
-      },
-      "artists": [
-        {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
     },
     {
       "added_at": "2026-07-13 17:06:11",
@@ -1323,22 +1407,6 @@
       "duration_ms": 171696,
       "name": "TAKIN PICTURES",
       "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "Take My Space",
-        "url": "https://open.spotify.com/album/62SfUalXptRGizTRybkeXH"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 143473,
-      "name": "Take My Space",
-      "url": "https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij"
     },
     {
       "added_at": "2026-04-10 04:03:08",

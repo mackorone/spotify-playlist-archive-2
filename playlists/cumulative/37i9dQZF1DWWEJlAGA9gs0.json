@@ -7667,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "Theme from Samson and Delilah (arr. Nina Simone)",
+        "url": "https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ"
+      },
+      "artists": [
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306401,
+      "name": "Theme from Samson and Delilah - arr. Nina Simone",
+      "url": "https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW"
+    },
+    {
+      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },

@@ -17678,7 +17678,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159456,
       "name": "ZACHODY",
       "url": "https://open.spotify.com/track/4vtS1OvvKn2vOpbcvy3aOd"
@@ -17754,6 +17754,28 @@
       "duration_ms": 206649,
       "name": "Zakr\u0119ty",
       "url": "https://open.spotify.com/track/0nQmwxn6lcTxehbPJELmHT"
+    },
+    {
+      "album": {
+        "name": "Zaloty",
+        "url": "https://open.spotify.com/album/1HnyUP9B5d0vo2hlbmimj0"
+      },
+      "artists": [
+        {
+          "name": "Andy Birds",
+          "url": "https://open.spotify.com/artist/7iWZRPwpiKyAL5PLXEhAeg"
+        },
+        {
+          "name": "Joulie Fox",
+          "url": "https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191102,
+      "name": "Zaloty",
+      "url": "https://open.spotify.com/track/7e07gvdtoAR9f1SD5Tzgsq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Carlina de Place
 
-1,379 songs - 3 day 7 hr 20 min
+1,381 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 | 2026-04-09 |  |
 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 | 2025-07-17 | 2026-01-16 |
 | [Empty the Bags](https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0) | [Noak Hellsing](https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc) | [Empty the Bags](https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse) | 2:33 | 2024-06-27 | 2024-07-27 |
+| [En Chans Till](https://open.spotify.com/track/1sm05ldJsHtFcOiYn2fADr) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [En Chans Till](https://open.spotify.com/album/13CdzEm38jsL7u5j1MsKSK) | 3:22 | 2026-09-04 |  |
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 | 2025-07-25 |
 | [En kväll i Copacabana](https://open.spotify.com/track/3LRLFjQTsnwP0S2PSKN3ZS) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [En kväll i Copacabana](https://open.spotify.com/album/2T5Y0Eh0mQz3tr7pCKgaH9) | 3:21 | 2025-08-21 | 2026-01-16 |
 | [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 | 2026-08-06 |  |
@@ -510,6 +511,7 @@
 | [Higher than Mount Everest](https://open.spotify.com/track/1L4MJdES5EHIhLm7LA7oUE) | [MYKKE](https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX) | [Higher than Mount Everest](https://open.spotify.com/album/0jT9uv4npjN4tETppAA41k) | 3:18 | 2026-07-02 |  |
 | [Highlife](https://open.spotify.com/track/3Bs4XzNlcIW3KbXAZbF1GY) | [Spawner](https://open.spotify.com/artist/7hZffu4iOY88iCnkRKDcrK) | [Highlife](https://open.spotify.com/album/2qnWsNCNZxfeI9WsbFjmLf) | 3:13 | 2026-05-28 |  |
 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 | 2026-01-22 |  |
+| [Himmel helvete](https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Himmel helvete](https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5) | 3:29 | 2026-09-04 |  |
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-09 | 2026-05-01 |
 | [Hjärtat slår](https://open.spotify.com/track/7MuUIYeMlGpMkdXgP8KFct) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ), [Själen](https://open.spotify.com/artist/1o8iMexHLU6IISsELlCO0Y) | [Hjärtat slår](https://open.spotify.com/album/1ZdJ1GaF8viBrTxYSp6Nzw) | 4:28 | 2024-10-18 | 2025-03-08 |
 | [Hold Me Till It's Over](https://open.spotify.com/track/2nLEGhjWqAShdg1HWVPuyU) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Hold Me Till It's Over](https://open.spotify.com/album/1DQa0bPP8FPqGvZVCPrCVh) | 2:35 | 2026-01-22 |  |

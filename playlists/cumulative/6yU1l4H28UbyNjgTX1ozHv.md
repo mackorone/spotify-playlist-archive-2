@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-336 songs - 17 hr 12 min
+338 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
 | [Best Day of My Life \- Acoustic](https://open.spotify.com/track/1K3piXjBqn6HLxqDFe4sTc) | [Mack Myles](https://open.spotify.com/artist/3Z3DcVvd27IgmmFqkV7WoW) | [Best Day of My Life \(Acoustic\)](https://open.spotify.com/album/2dR0Fxs2Or6ZS4dkfshf92) | 2:33 | 2025-06-22 |  |
+| [Best of My Love \- Acoustic](https://open.spotify.com/track/43YhSpSNiobe3hDynefcCL) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Best of My Love \(Acoustic\)](https://open.spotify.com/album/6lKeM00G8sjHr2t9YBfew3) | 2:29 | 2026-09-04 |  |
 | [Beyond the Sea \- Acoustic](https://open.spotify.com/track/1YHB4atLgNr7UMDwA0WMY1) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Beyond the Sea \(Acoustic\)](https://open.spotify.com/album/57dND5OOaL8jwJ1CIGebQI) | 3:19 | 2024-09-21 | 2025-02-10 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2024-05-27 |  |
 | [Billie Jean \- Acoustic](https://open.spotify.com/track/6uaTKOvSd4PZdHWs05r65k) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Billie Jean \(Acoustic\)](https://open.spotify.com/album/2FkpSpxM1xedprP77SJA3T) | 3:05 | 2023-07-07 | 2024-01-13 |
@@ -264,6 +265,7 @@
 | [Symphony \(feat\. Zara Larsson\) \- Acoustic Version](https://open.spotify.com/track/06R0AVKrZM91OJf1ubm80d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\) \[Acoustic\]](https://open.spotify.com/album/2ixRAW2pBgisVTmYKiJca0) | 3:36 | 2019-10-13 |  |
 | [Take a Chance On Me \- Acoustic](https://open.spotify.com/track/4zXAFNd8ZyGDxMQirvjA0S) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Take a Chance On Me \(Acoustic\)](https://open.spotify.com/album/3T8fiS1ajuJDnvUJUnGRHu) | 2:58 | 2024-09-13 | 2025-02-26 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/6VSMMUfqorGCI5Glap5KSr) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Take Me Home, Country Roads](https://open.spotify.com/album/4jQcSVIcWcvWnTAPQ7w2eG) | 2:56 | 2026-01-05 | 2026-08-22 |
+| [Tears Dry on Their Own](https://open.spotify.com/track/5NK0jSLk8IkuLqXklMXa9I) | [Harriett Hartley](https://open.spotify.com/artist/0lAAZwE7s1Phh2hdBVTcBz) | [Tears Dry on Their Own](https://open.spotify.com/album/3lDCZ572o9sYMnPpAsEszt) | 1:54 | 2026-09-04 |  |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/28UhV2P56qrhxu05pNP08W) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/1kJwJ8ks6DweMzFDiJieIg) | 2:52 | 2026-02-27 |  |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
@@ -284,7 +286,7 @@
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
 | [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 | 2026-01-06 |
 | [To Love Somebody \- Acoustic](https://open.spotify.com/track/4JpBgEiq7EDH60uBMFfhmu) | [Natalie Johnson](https://open.spotify.com/artist/4J0sVz614kdcEHl3MkKHej) | [To Love Somebody \(Acoustic\)](https://open.spotify.com/album/3TqmGJzTBZXmFZ3PdBFAad) | 2:43 | 2026-07-18 |  |
-| [Together Again](https://open.spotify.com/track/7H1Ruav4MfqFvebiBxCvYp) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Together Again](https://open.spotify.com/album/6Yk8zrEZ8LjXJoCOzpkN19) | 2:47 | 2026-05-08 |  |
+| [Together Again](https://open.spotify.com/track/7H1Ruav4MfqFvebiBxCvYp) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Together Again](https://open.spotify.com/album/6Yk8zrEZ8LjXJoCOzpkN19) | 2:47 | 2026-05-08 | 2026-09-05 |
 | [Too Good At Goodbyes \- Acoustic](https://open.spotify.com/track/7ejps6ztLxyZD74tHrTdEj) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes \(Acoustic\)](https://open.spotify.com/album/6yjWw8pTnhYM4y4jfbGSFY) | 3:40 | 2019-10-13 |  |
 | [Total Eclipse of the Heart \- Acoustic](https://open.spotify.com/track/3IkEaYtOxzAbRNtfM1bfiZ) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI), [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Total Eclipse of the Heart \(Acoustic\)](https://open.spotify.com/album/2sS9ty7Uxew3M0AgpulZUw) | 2:40 | 2023-06-02 | 2023-12-14 |
 | [Treasure](https://open.spotify.com/track/31Ctlmul6mkj9MYrLwKuMU) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Treasure](https://open.spotify.com/album/1Bk8Z6dsSdL0KNBQCo4xtd) | 3:09 | 2025-05-31 | 2026-04-18 |

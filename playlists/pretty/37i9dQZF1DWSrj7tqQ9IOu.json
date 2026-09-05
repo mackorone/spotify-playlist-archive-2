@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Haute & Freddy",
-  "num_followers": 401494,
+  "num_followers": 401525,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Ao\u00fbt 2026",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,42 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "How Much",
+        "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "How Much",
+      "url": "https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "DIFFERENCE [Feat. Yebba]",
         "url": "https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy"
       },
@@ -203,42 +239,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "How Much",
-        "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF"
-      },
-      "artists": [
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "How Much",
-      "url": "https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "I Cry in Front of Paintings",
         "url": "https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 175720,
       "name": "I Cry in Front of Paintings",
       "url": "https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "Bye Bye .",
-        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 166111,
-      "name": "Bye Bye .",
-      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -303,18 +287,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Alyse",
-        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+        "name": "Bye Bye .",
+        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
         }
       ],
-      "duration_ms": 231477,
-      "name": "Alyse",
-      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
+      "duration_ms": 166111,
+      "name": "Bye Bye .",
+      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -335,6 +319,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "Alyse",
+        "url": "https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "Alyse",
+      "url": "https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "BANGER BOY",
         "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
@@ -347,6 +347,42 @@
       "duration_ms": 146165,
       "name": "SHEGE",
       "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
+      },
+      "artists": [
+        {
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "Traces (feat. SDM)",
+        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Traces (feat. SDM)",
+      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -367,22 +403,6 @@
       "duration_ms": 239666,
       "name": "ANGEL",
       "url": "https://open.spotify.com/track/6EWz01NLmUigFEz98Ek5qR"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "Lean On",
-        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
-      },
-      "artists": [
-        {
-          "name": "Miles Caton",
-          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -419,38 +439,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Traces (feat. SDM)",
-        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
         }
       ],
-      "duration_ms": 194919,
-      "name": "Traces (feat. SDM)",
-      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "Two Roads",
-        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Two Roads",
-      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
+      "duration_ms": 156015,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -471,18 +471,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3"
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 156015,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+      "duration_ms": 240000,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn"
+        "name": "aimee lou wood freestyle",
+        "url": "https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
         }
       ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF"
+      "duration_ms": 159383,
+      "name": "aimee lou wood freestyle",
+      "url": "https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "aimee lou wood freestyle",
-        "url": "https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C"
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn"
       },
       "artists": [
         {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 159383,
-      "name": "aimee lou wood freestyle",
-      "url": "https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX"
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF"
     },
     {
       "added_at": "2026-08-31 22:00:22",

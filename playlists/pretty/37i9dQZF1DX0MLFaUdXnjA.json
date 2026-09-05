@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Andrea Bejar",
-  "num_followers": 1772204,
+  "description": "Sit back and relax to the chillest pop.  Cover: Matilda Mann",
+  "num_followers": 1772017,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnOZp563h1YEqDtqZn5nmllnBZS",
+  "snapshot_id": "AAAAADlZIGuCy8RF2NIVrQIlKw7vVj9Z",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:02:38",
+      "album": {
+        "name": "Kismet",
+        "url": "https://open.spotify.com/album/1GeE95CLSgFa5r3I5a7Q50"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/02kiA7m6xx7F7KC1ukLpTq"
+    },
     {
       "added_at": "2026-08-28 04:02:54",
       "album": {
@@ -41,20 +57,52 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
-      "added_at": "2026-08-28 04:02:54",
+      "added_at": "2026-09-04 04:02:38",
       "album": {
-        "name": "SLEEP",
-        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 151654,
-      "name": "SLEEP",
-      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+      "duration_ms": 212547,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO"
+    },
+    {
+      "added_at": "2026-07-31 04:01:36",
+      "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 226041,
+      "name": "Chemical Light",
+      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+    },
+    {
+      "added_at": "2026-07-03 04:02:27",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
       "added_at": "2026-08-14 04:00:11",
@@ -75,6 +123,38 @@
     {
       "added_at": "2026-08-28 04:02:54",
       "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 151654,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj"
+    },
+    {
+      "added_at": "2026-09-04 04:02:38",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-08-28 04:02:54",
+      "album": {
         "name": "WHAT AM I DOING?",
         "url": "https://open.spotify.com/album/0nBmW52mTtee3G8zPSTZgO"
       },
@@ -87,6 +167,22 @@
       "duration_ms": 163966,
       "name": "WHAT AM I DOING?",
       "url": "https://open.spotify.com/track/5MbIQfHUzea4zbsnsDueEL"
+    },
+    {
+      "added_at": "2026-09-04 04:02:38",
+      "album": {
+        "name": "Not That Guy",
+        "url": "https://open.spotify.com/album/5d0fWUzMhfyVNUmgTwW5LZ"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Not That Guy",
+      "url": "https://open.spotify.com/track/4D8XmJSaO3566gzwPSetkJ"
     },
     {
       "added_at": "2026-08-21 04:00:20",
@@ -105,20 +201,20 @@
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
-      "added_at": "2026-07-03 04:02:27",
+      "added_at": "2026-09-04 04:02:38",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/7tuKf6C1YINV2hPGlccnG9"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
         }
       ],
-      "duration_ms": 223013,
-      "name": "honeybee",
-      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
+      "duration_ms": 240648,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5sTcGQXd5WuW1slqxpDP0E"
     },
     {
       "added_at": "2026-08-21 04:00:20",
@@ -137,20 +233,20 @@
       "url": "https://open.spotify.com/track/1VkOwCb4bkYCwCFi4QyPAn"
     },
     {
-      "added_at": "2026-07-31 04:01:36",
+      "added_at": "2026-09-04 04:02:38",
       "album": {
-        "name": "Greetings From Bleak St.",
-        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/4HPi2f6Tf6Jhq7j9IrIaWC"
       },
       "artists": [
         {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
         }
       ],
-      "duration_ms": 226041,
-      "name": "Chemical Light",
-      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+      "duration_ms": 167236,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/0W4eLntQDmc8yDJ7roRdK8"
     },
     {
       "added_at": "2026-08-28 04:02:54",
@@ -183,6 +279,22 @@
       "duration_ms": 262057,
       "name": "Love I You",
       "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
+    },
+    {
+      "added_at": "2026-09-04 04:02:38",
+      "album": {
+        "name": "one good thing",
+        "url": "https://open.spotify.com/album/0izq3cdOEnJu9Y4CW0X5Gh"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 196069,
+      "name": "one good thing",
+      "url": "https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV"
     },
     {
       "added_at": "2026-08-21 04:00:20",
@@ -753,22 +865,6 @@
       "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
-      "added_at": "2026-06-12 04:11:55",
-      "album": {
-        "name": "Red Bottoms",
-        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 186941,
-      "name": "Red Bottoms",
-      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
-    },
-    {
       "added_at": "2026-06-12 04:43:22",
       "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
@@ -799,22 +895,6 @@
       "duration_ms": 157683,
       "name": "Sweet n\u2019 Sour",
       "url": "https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix"
-    },
-    {
-      "added_at": "2026-07-24 14:27:45",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/3Xcn9Ba7U12iDIJcC86uaP"
-      },
-      "artists": [
-        {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "SUGAR RUSH",
-      "url": "https://open.spotify.com/track/2IczQasfpF3dXhnKCKzbPg"
     },
     {
       "added_at": "2026-07-03 04:02:27",
@@ -897,22 +977,6 @@
       "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
     },
     {
-      "added_at": "2026-06-26 04:00:34",
-      "album": {
-        "name": "BAD COMPANY",
-        "url": "https://open.spotify.com/album/11NO5t5VTniRy4dJOxQ1EC"
-      },
-      "artists": [
-        {
-          "name": "Tiger La Flor",
-          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
-        }
-      ],
-      "duration_ms": 173409,
-      "name": "BAD COMPANY",
-      "url": "https://open.spotify.com/track/6l8EVqC5hJbYzys0N3QXAN"
-    },
-    {
       "added_at": "2026-07-03 04:02:27",
       "album": {
         "name": "Sunflower",
@@ -977,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
     },
     {
-      "added_at": "2026-06-26 04:00:34",
-      "album": {
-        "name": "Liar Out Of Me",
-        "url": "https://open.spotify.com/album/5H68xqeJ7cvT7Jl8KbupQK"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 176253,
-      "name": "Liar Out Of Me",
-      "url": "https://open.spotify.com/track/4gkYx1zSCdMEpvoqbCDmdE"
-    },
-    {
       "added_at": "2026-05-08 04:01:35",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
@@ -1023,22 +1071,6 @@
       "duration_ms": 167999,
       "name": "Otis",
       "url": "https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv"
-    },
-    {
-      "added_at": "2026-05-22 04:01:51",
-      "album": {
-        "name": "End of an Era",
-        "url": "https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 218236,
-      "name": "End of an Era",
-      "url": "https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV"
     },
     {
       "added_at": "2026-05-22 04:01:51",
@@ -1409,22 +1441,6 @@
       "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
-      "added_at": "2026-05-01 04:03:47",
-      "album": {
-        "name": "Maybe I'm Not What You Need",
-        "url": "https://open.spotify.com/album/1RSilOHyuP9mpJv8Bq9Eq6"
-      },
-      "artists": [
-        {
-          "name": "Odessa A'zion",
-          "url": "https://open.spotify.com/artist/48kTThXnps1zxvbJT5Kpx0"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Maybe I'm Not What You Need",
-      "url": "https://open.spotify.com/track/5YlNSWMOmRg918QZSocE2u"
-    },
-    {
       "added_at": "2026-04-10 04:01:32",
       "album": {
         "name": "Jesus loves a primadonna",
@@ -1471,22 +1487,6 @@
       "duration_ms": 208200,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/3cZHlJKR00a64Fuvn9c2fF"
-    },
-    {
-      "added_at": "2026-04-17 04:01:26",
-      "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "added_at": "2026-03-13 04:00:45",

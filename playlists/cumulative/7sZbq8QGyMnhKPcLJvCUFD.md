@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-893 songs - 1 day 20 hr 21 min
+894 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 | 2023-08-10 |
 | [Heart My Heart](https://open.spotify.com/track/270q1FvyIjwKdrX5O0sFSN) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Heart My Heart](https://open.spotify.com/album/08PO8CBEiN6EMD9xXnptl1) | 2:49 | 2023-12-13 | 2024-07-19 |
 | [Heart Robbery](https://open.spotify.com/track/51I95Yhf3siwoQBpBUY5p6) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Heart Robbery](https://open.spotify.com/album/7IXYVtzISSM1SzL9Xywie8) | 3:29 | 2023-02-22 | 2023-08-10 |
+| [Heaven & Hell](https://open.spotify.com/track/12mUiAGnkttkpoqRrZvjtF) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Heaven & Hell](https://open.spotify.com/album/5xKDyLDeZi8g3aGYcrfiTr) | 4:08 | 2026-09-04 |  |
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 | 2023-08-10 |
 | [Help Me Help You](https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:31 | 2024-04-19 | 2024-12-09 |
 | [Her Body](https://open.spotify.com/track/1IwxBJDrjQm93Wn1jgd1fU) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [DMHP\_SKN](https://open.spotify.com/artist/1aOM1lb7XonK53Ye1wVB62) | [Her Body](https://open.spotify.com/album/4zXZfkKD7Oe0zLDhwHtfRc) | 2:05 | 2025-07-22 |  |

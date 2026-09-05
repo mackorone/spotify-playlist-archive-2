@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 256590,
       "name": "Black Box - feat. Kamasi Washington",
       "url": "https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y"
@@ -35431,6 +35431,28 @@
     },
     {
       "album": {
+        "name": "In This World (Boris Brejcha Remix)",
+        "url": "https://open.spotify.com/album/3jhLKqd8JwBAwyIiVr6DIn"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "In This World - Boris Brejcha Remix",
+      "url": "https://open.spotify.com/track/0M0PLcQOKPcmLNT87q5oEl"
+    },
+    {
+      "album": {
         "name": "In This World (Resound NYC Version)",
         "url": "https://open.spotify.com/album/2ICuN4YYh9ElukLUKgVGSY"
       },
@@ -38204,6 +38226,36 @@
       "duration_ms": 170786,
       "name": "Keychain - FROM THE FILM K-POPS!",
       "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
+    },
+    {
+      "album": {
+        "name": "KHABIB",
+        "url": "https://open.spotify.com/album/3J43pU6FgLUmbuCFFWzPEP"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388960,
+      "name": "KHABIB",
+      "url": "https://open.spotify.com/track/7BM2tjcbPjejKQeL0rBa4z"
     },
     {
       "album": {
@@ -42455,6 +42507,36 @@
     },
     {
       "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/41U7vbBDLldKiQbwuYLV56"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        },
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213796,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2Cxk6od6DEVfKy5TwwDLOg"
+    },
+    {
+      "album": {
         "name": "Longshot",
         "url": "https://open.spotify.com/album/43uhiAyZZF1ftlgHaDMKZX"
       },
@@ -43716,7 +43798,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 223466,
       "name": "Mad Technology",
       "url": "https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi"
@@ -43994,7 +44076,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 220645,
       "name": "Mama",
       "url": "https://open.spotify.com/track/0pUqnKg1SUbfWciG9TW6jw"
@@ -48150,7 +48232,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 252857,
       "name": "Natural Blues (TECIE)",
       "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
@@ -62266,6 +62348,28 @@
       "duration_ms": 379490,
       "name": "Shorthand REDUX",
       "url": "https://open.spotify.com/track/3Ow6Wyc2BRDuYB4OP2uiYH"
+    },
+    {
+      "album": {
+        "name": "Code Of The Streets",
+        "url": "https://open.spotify.com/album/3AVYyN7xU270lGiiO2lAmK"
+      },
+      "artists": [
+        {
+          "name": "Trekt",
+          "url": "https://open.spotify.com/artist/51Qp81HqR3dreIiQmznIzp"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123402,
+      "name": "Shot First",
+      "url": "https://open.spotify.com/track/37Ba0OhTm8AXk4RlBqYpcX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 LE SSERAFIM TOUR 'PUREFLOW' IN JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,298 likes - 29 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,352 likes - 29 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

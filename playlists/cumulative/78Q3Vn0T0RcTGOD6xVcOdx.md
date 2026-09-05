@@ -4,7 +4,7 @@
 
 > www.upmusicpromotion.com &\#x2F; IG: @upmusic\_promotion &\#x2F; promo@upmusicpromotion.com
 
-341 songs - 20 hr 2 min
+344 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2025-01-24 | 2026-06-12 |
 | [Dime, ¿por qué?](https://open.spotify.com/track/1fiBfIOJZvdsGRJeQqGPHG) | [varezzz](https://open.spotify.com/artist/7LBMHjY7HMQrcqhshF49gj) | [Dime, ¿por qué?](https://open.spotify.com/album/4ckFbOj39hzANt7eKNHgfZ) | 2:48 | 2025-05-11 | 2026-04-06 |
 | [Drama Queen](https://open.spotify.com/track/613vtBkDfBbvwYixROuc5p) | [Issa Solchaga](https://open.spotify.com/artist/10E3nziZZuHlG97n7TJuy5) | [Drama Queen](https://open.spotify.com/album/2CaPenNzoZVRHvnloRFAaw) | 3:37 | 2025-08-17 | 2026-04-06 |
+| [Dreaming of Better Days](https://open.spotify.com/track/5xakJCIWkJMDDJL4kQgtBC) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Dreaming of Better Days](https://open.spotify.com/album/2NLhQ3pPgmNBzi44IrYkuI) | 2:42 | 2026-09-04 |  |
 | [Driftline](https://open.spotify.com/track/5T1qLuRmcKDXBQxpH5ZiES) | [After Kollaps](https://open.spotify.com/artist/0qmiwvyNCscuDEAfDg0TYX), [1ØØ1](https://open.spotify.com/artist/6l5R4W3bm41mElXy4M8piI), [Ocean Space](https://open.spotify.com/artist/2EKESElMU5AT8yPMR7XCEz) | [Nexora](https://open.spotify.com/album/2NvlcLSh5FSBE92Xq4aK9C) | 3:54 | 2026-06-13 |  |
 | [Efímero](https://open.spotify.com/track/2sCmtQsdCzhIAy5CK3BGt9) | [Ibarra\_G²](https://open.spotify.com/artist/1FLNaErNKKXdknTGfrSn1R), [G\_jay](https://open.spotify.com/artist/3wlxvR47cjdXFWOrSwFwqW) | [Efímero](https://open.spotify.com/album/2fMdYDKUnSe19ViFjCv8rx) | 3:41 | 2025-04-20 | 2026-04-06 |
 | [El Amor Es Más Fuerte](https://open.spotify.com/track/3jGzM90Ne3BzArqMsTEVwS) | [Lemi Rock](https://open.spotify.com/artist/1s6KGiVrw1VEx1hg18ioG5) | [El Amor Es Más Fuerte](https://open.spotify.com/album/39ikUINlVEVM47e0UGcXlu) | 4:29 | 2025-04-01 | 2026-04-06 |
@@ -231,6 +232,7 @@
 | [Ojos Verdes](https://open.spotify.com/track/4Dm0V6rpjbEjQKACxbnG2L) | [Exen](https://open.spotify.com/artist/1nifjsMyLyjkDexOqptbeq) | [Ojos Verdes](https://open.spotify.com/album/197SmE1V69QtScoUSnvlhy) | 2:49 | 2025-03-08 | 2026-06-12 |
 | [On My Own \- Valence Remix](https://open.spotify.com/track/17z9D8bhQ5kAqqDWp8Dra6) | [The Engagement](https://open.spotify.com/artist/0rLsMRlRAKLpRO6CjgFoeV), [Valence](https://open.spotify.com/artist/1DNs16u01pv3jYnZAORG4Y) | [On My Own \(Valence Remix\)](https://open.spotify.com/album/4252N1zNSp8VeB69VUXMWT) | 3:10 | 2025-01-25 | 2026-06-12 |
 | [Onde di Luce](https://open.spotify.com/track/1Qlfkz30wwCeCgQ1XLBJZL) | [PAUL PARKER](https://open.spotify.com/artist/0P4buL4lc2m8KO8WD28XMa), [Deep7s](https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl) | [Onde di Luce](https://open.spotify.com/album/5dnnc3ycjReH8Kwh1XFZk7) | 2:54 | 2026-05-14 |  |
+| [One of a Kind](https://open.spotify.com/track/2Loj4wKwkthHdA4akfT9Vq) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [One of a Kind](https://open.spotify.com/album/1DC0CoPSsxs3zCXefhIrYa) | 3:05 | 2026-09-04 |  |
 | [Para volverte a ver](https://open.spotify.com/track/0RMJH4BY4TsfPZpDhzojoC) | [Lucas Mira](https://open.spotify.com/artist/6kJTpZfDoQfiBF1qim6Qy8) | [Para volverte a ver](https://open.spotify.com/album/6xHhy8egyGlxZV8YlNNZcU) | 3:14 | 2025-05-11 | 2026-04-06 |
 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 | 2025-04-02 | 2026-04-06 |
 | [Perdón, joder](https://open.spotify.com/track/6JqQrFpb9y2b6s7dMfgQNI) | [Dani Leiva](https://open.spotify.com/artist/5sSNiAK830tcTjCsD8uIPW) | [Perdón, joder](https://open.spotify.com/album/0tL2cbP9wAWxZw2A2G8KjB) | 2:17 | 2025-06-30 | 2026-04-06 |
@@ -302,6 +304,7 @@
 | [Time Away](https://open.spotify.com/track/4xMXO0JY8qmv54Irn16VEF) | [Disco Dreams](https://open.spotify.com/artist/5KRlBkGzQFsekajKbhN7WX) | [Mystic Daze](https://open.spotify.com/album/2PdHmqqIYXFH8tOJdGSJLF) | 4:09 | 2025-02-01 | 2026-06-12 |
 | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/track/2ieoYpTIQTG45FIANsmHu1) | [Norbiwyso](https://open.spotify.com/artist/3n92Nht0BNvgrdonVb1lF4) | [TODAVIA CREO EN EL AMOR](https://open.spotify.com/album/5fOn4GW1qIVB1OHxSDRhDs) | 4:44 | 2026-08-31 |  |
 | [Too Sweet](https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/48qd9sU3xqYJbKaxHCciJL) | 4:11 | 2025-01-24 | 2026-06-12 |
+| [Torn Between Head and Heart](https://open.spotify.com/track/1Z3uDLN5F4y44nZtRhjj7v) | [PM not AM](https://open.spotify.com/artist/59FYG63fAJ258g4kNk3Ast) | [Torn Between Head and Heart](https://open.spotify.com/album/6L5yQsi7FTytXQmwd2TMPe) | 4:12 | 2026-09-04 |  |
 | [Tot pel Futbol](https://open.spotify.com/track/4JH3jAg74uvJGUpGyywgL2) | [IrenA](https://open.spotify.com/artist/1taYiurk4eCkkKvrAI6uYx) | [Tot pel Futbol](https://open.spotify.com/album/3nxZhBc9aMUkbXafvHfs1h) | 3:23 | 2025-08-14 | 2026-04-06 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-24 | 2026-06-12 |
 | [TRAIDOR](https://open.spotify.com/track/5OEf9p6gOLPSXgY7AtX81s) | [MERY DAGOSTINO](https://open.spotify.com/artist/4QsCalmAFx1uhhJo11DZTS) | [TRAIDOR](https://open.spotify.com/album/2H77pX8u4wBMKklgQKqO3h) | 3:17 | 2025-07-24 | 2026-04-06 |

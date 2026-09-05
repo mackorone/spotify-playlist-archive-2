@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,339 songs - 2 day 3 hr 13 min
+1,340 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2.05am](https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [2.05am](https://open.spotify.com/album/2ZN7gvIcWxomdsqecufEWe) | 3:50 | 2024-06-05 | 2025-07-16 |
 | [3 AM](https://open.spotify.com/track/1Fc0apFTrqXZGqerg8EKeZ) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [3 AM](https://open.spotify.com/album/6fl3GBwGZcMiSvUpTgpHU5) | 2:33 | 2025-04-24 | 2025-07-16 |
 | [305 sky](https://open.spotify.com/track/3gIJheKHSVrhs5EkxHdNpA) | [Rory Callum](https://open.spotify.com/artist/25DH1fXhuHYG3JDDydqbpY) | [305 sky](https://open.spotify.com/album/3iPp8nXQprbUgcYZP89fKy) | 2:01 | 2021-11-10 | 2022-10-08 |
+| [3AM](https://open.spotify.com/track/4ZM2ZMmBFB28JP8FPz5syB) | [Soothee](https://open.spotify.com/artist/3LpjAkAAk6I05jTHoUs1al) | [3AM](https://open.spotify.com/album/1Av5gtBFJK3uLX1577WWLE) | 2:17 | 2026-09-04 |  |
 | [4:40 Am](https://open.spotify.com/track/2v0GqtA4G9tGqx13rtDs4h) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [4:40 Am](https://open.spotify.com/album/3wLlEK9Hfynb0tnMzhUm0D) | 1:52 | 2025-07-18 |  |
 | [4am](https://open.spotify.com/track/7rcjGfeuIseoe4fgaP9r78) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [4am](https://open.spotify.com/album/4avUNfmB4btjnI77Bw5t3R) | 2:05 | 2022-11-11 | 2023-08-04 |
 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 | 2024-07-26 | 2025-03-15 |
@@ -768,7 +769,7 @@
 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 | 2024-01-12 | 2025-07-16 |
 | [MoonRise](https://open.spotify.com/track/3m1XMpzK6J1ZiLYoLJ47zM) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [MoonRise](https://open.spotify.com/album/4gbEeGRlFLcJ2CRSPlqYHp) | 3:15 | 2024-07-19 | 2024-08-09 |
 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 | 2023-12-08 | 2025-07-16 |
-| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 | 2026-08-29 |
+| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 |  |
 | [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-11-10 | 2022-06-10 |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2021-11-10 | 2022-11-12 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2021-11-10 | 2022-09-03 |
@@ -826,10 +827,10 @@
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-09-01 |  |
 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 | 2022-04-15 | 2023-04-28 |
 | [night walk](https://open.spotify.com/track/4X9OLjeDCUTr39baLOSMlQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [night walk](https://open.spotify.com/album/6HXpBu0Dk9XuJ0zkicvFIr) | 1:48 | 2021-11-10 | 2022-08-19 |
-| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 |  |
+| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 | 2026-09-05 |
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 | 2025-07-16 |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
-| [nightfalling](https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [nightfalling](https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d) | 2:10 | 2026-05-22 |  |
+| [nightfalling](https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [nightfalling](https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d) | 2:10 | 2026-05-22 | 2026-09-05 |
 | [nirwana](https://open.spotify.com/track/7Iu0d7ORgRU1CcDymzVPck) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [nirwana](https://open.spotify.com/album/2plF1M083P6jysg6ODjBNj) | 2:17 | 2021-11-10 | 2022-10-15 |
 | [no breeze](https://open.spotify.com/track/0T2BGpjb7qVrNCtFXJYNkf) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [no breeze](https://open.spotify.com/album/0DdVswYFDxvGtMwiuExn8e) | 2:06 | 2022-10-28 | 2025-07-16 |
 | [No Feelings \- Instrumental](https://open.spotify.com/track/2KSO3sLE9m0VPw6A1MUYsc) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [No Feelings](https://open.spotify.com/album/4d6dCwHrT29HyMm814TO02) | 2:28 | 2022-06-24 | 2022-09-17 |

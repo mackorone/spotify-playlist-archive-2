@@ -3007,6 +3007,36 @@
     },
     {
       "album": {
+        "name": "FINALE (Remix)",
+        "url": "https://open.spotify.com/album/6k32MtL3rfZGB0hY6U4UGq"
+      },
+      "artists": [
+        {
+          "name": "Jamaica Moana",
+          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
+        },
+        {
+          "name": "Icon Sinia Alaia",
+          "url": "https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo"
+        },
+        {
+          "name": "Kevin Jz Prodigy",
+          "url": "https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk"
+        },
+        {
+          "name": "B. Ames",
+          "url": "https://open.spotify.com/artist/3x2jesOcsWoo4rahIUUCCb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256488,
+      "name": "FINALE - Remix",
+      "url": "https://open.spotify.com/track/3T4v9f3DBNqHLsabw64c9E"
+    },
+    {
+      "album": {
         "name": "She's Calling EP",
         "url": "https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N"
       },
@@ -5394,7 +5424,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -5536,7 +5566,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 246992,
       "name": "M32 Riddim",
       "url": "https://open.spotify.com/track/2mCuGGAMp2K86a5XnzwBi6"
@@ -6816,6 +6846,32 @@
       "duration_ms": 226533,
       "name": "PAPARAZZI",
       "url": "https://open.spotify.com/track/1AdJ7n7C3R2CtiQjJfKHuH"
+    },
+    {
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/5526vWhIpphfZZA7IetApb"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        },
+        {
+          "name": "Swick",
+          "url": "https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID"
+        },
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248612,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/0qQAMChkXSUQXikhhkbuDV"
     },
     {
       "album": {

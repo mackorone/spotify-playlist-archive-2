@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Maia Reficco en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Bad Milk en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -524,6 +524,24 @@
       "duration_ms": 185217,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
+    },
+    {
+      "album": {
+        "name": "lucy mir\u00f3 al mundo y not\u00f3 que est\u00e1 girando",
+        "url": "https://open.spotify.com/album/3VcleF9EbQ0tBFsVCWeB6Y"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6U85Zxlq5KwuW2yYKlLnIx"
     },
     {
       "album": {
@@ -5179,6 +5197,24 @@
     },
     {
       "album": {
+        "name": "EMOcional </3",
+        "url": "https://open.spotify.com/album/7x0P9tSUzBrFnckamE2gof"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "EMOcional </3",
+      "url": "https://open.spotify.com/track/62s4iszBpTBmeBwjzM0zun"
+    },
+    {
+      "album": {
         "name": "empleado del mes",
         "url": "https://open.spotify.com/album/4YvqwFBW0pc0HXX4D7xGfI"
       },
@@ -6470,6 +6506,24 @@
       "duration_ms": 186669,
       "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
       "url": "https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd"
+    },
+    {
+      "album": {
+        "name": "herida",
+        "url": "https://open.spotify.com/album/1KGxflnzWJqRuXLMgOPqzo"
+      },
+      "artists": [
+        {
+          "name": "cKovi",
+          "url": "https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "herida",
+      "url": "https://open.spotify.com/track/4ciDfbeWFzTWysIMj406Lc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-621 songs - 1 day 6 hr 31 min
+626 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Alder Dream](https://open.spotify.com/track/7DUuCUZHEq1JN6Dbr52wZM) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Alder Dream](https://open.spotify.com/album/6UGAuRxVDOJd1ffEPGTXnF) | 2:32 | 2026-08-06 |  |
 | [aldrei endar elskan](https://open.spotify.com/track/0ov4xf6xaae92Ob0fppnSv) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [aldrei endar elskan](https://open.spotify.com/album/5daP5cHf9iBMspEtYajoFh) | 2:57 | 2021-12-08 | 2025-05-28 |
 | [Aligned](https://open.spotify.com/track/0ujtST75MHymwydk9rwDN9) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Aligned](https://open.spotify.com/album/2i37ATQuaxTDbIXJ1obd9d) | 2:32 | 2025-07-08 |  |
+| [Aline](https://open.spotify.com/track/67u5S8u9ymR5RMRbZ1MZn7) | [Opaline Monarque](https://open.spotify.com/artist/5Aac4kbP69VaMEt67lEiKD) | [Aline](https://open.spotify.com/album/6jUfMyBDp1KPuCjW1MMXZj) | 2:31 | 2026-09-04 |  |
 | [Alteration](https://open.spotify.com/track/1NJ9dJE7pcImOJ1qQoS1Z6) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Alteration](https://open.spotify.com/album/2CGsv0FeVAteTU7S0iPIus) | 2:45 | 2025-04-15 |  |
 | [Ambient Alchemy](https://open.spotify.com/track/6UmR1J4Iq00ViMySyEC9Ii) | [Mystical Resonance](https://open.spotify.com/artist/4fMd2MCtDVGnltgxkdUclZ) | [Ambient Alchemy](https://open.spotify.com/album/4aVFyHVg3VaCvq9Q7QB6wF) | 3:19 | 2024-03-07 | 2024-08-22 |
 | [Amoenus](https://open.spotify.com/track/0i3qOBmmyLuvIAGokmojii) | [Ex Nocte](https://open.spotify.com/artist/5AjF2OTpEFbeNTgy4cqpnW) | [Amoenus](https://open.spotify.com/album/7MqPZ7OMzOLXWUfJbNznEP) | 2:37 | 2026-06-22 |  |
@@ -174,6 +175,7 @@
 | [Energetic Waves](https://open.spotify.com/track/6ALP8q5geZi3Y6agRNKsA1) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Mindful Delta](https://open.spotify.com/album/7zBPGRenr6VrZcHU45DtQp) | 2:47 | 2021-12-08 | 2024-08-03 |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-12-08 | 2022-10-22 |
 | [Entering the Sacred Room \(Temple pt\. I\)](https://open.spotify.com/track/7Dz2O45BvScxRo5zUGA21K) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Temple](https://open.spotify.com/album/4zapRzqcbZaoqxvgnJzxgE) | 4:06 | 2021-12-08 | 2024-08-03 |
+| [Ephemeral](https://open.spotify.com/track/6IiV9BswA4cyqOq04UfJyz) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Ephemeral](https://open.spotify.com/album/6g3N6l9pF0zanPYhVLHnRk) | 2:33 | 2026-09-04 |  |
 | [Epic keys](https://open.spotify.com/track/0sc3NHCx6ME031as4gsNOA) | [Udda Jnhale](https://open.spotify.com/artist/61dB4bXX3NDinvPlTy0v2P) | [Epic keys](https://open.spotify.com/album/6M7DRibzrsIfTXaroGtSkz) | 3:02 | 2024-01-29 | 2024-11-20 |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-22 | 2025-05-28 |
 | [Equinox](https://open.spotify.com/track/0RzlFSdtSNuSF7AZVH8ZJw) | [Amethyst Nimue](https://open.spotify.com/artist/3Jcoemtva31dOpUHzjxcga) | [Equinox](https://open.spotify.com/album/3YYkwDdCM7fVrqskHDpNLN) | 2:58 | 2024-07-12 | 2025-07-09 |
@@ -249,6 +251,7 @@
 | [Horizon](https://open.spotify.com/track/0ghXBxhbgRroeqyk0flbwc) | [Landscapes Of Joy](https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99) | [Calm Morning \(Vol 3\)](https://open.spotify.com/album/7ktnzXmO3bJvW5Jg7Uyi1t) | 3:34 | 2022-10-21 | 2022-11-13 |
 | [Horizon](https://open.spotify.com/track/3XRvk5eVsIoAIOlczehBmD) | [Landscapes Of Joy](https://open.spotify.com/artist/0D84atg0DW6sSSakLtQA99) | [Dreaming Of The Horizon](https://open.spotify.com/album/0zeuEYGGSRZjTbZvfKY03z) | 3:34 | 2022-07-27 | 2023-08-12 |
 | [Humaine](https://open.spotify.com/track/3LY9LDCe2ToQWbS9TItiFz) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Humaine](https://open.spotify.com/album/3MxrYc0YSsHqqPEbCWEFVW) | 3:08 | 2025-10-08 |  |
+| [Huminity](https://open.spotify.com/track/6ByUqBJG01rBwU34YUo8JR) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Huminity](https://open.spotify.com/album/3z3QaM22xLmaTBxMNTCd3P) | 2:42 | 2026-09-04 |  |
 | [Hushed](https://open.spotify.com/track/5rChl89uGUx0DRLY4blIqa) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Hushed](https://open.spotify.com/album/6QqP4YdgeNMGS3EQfr8uCU) | 2:44 | 2025-01-14 | 2026-02-14 |
 | [Hypnagogia of the Quiet Mind](https://open.spotify.com/track/4YNT5uI4c4dIvFV9VumJw0) | [Ambient Eternal](https://open.spotify.com/artist/7HeEzWQeYDfoVJY5y5yNAR) | [Hypnagogia of the Quiet Mind](https://open.spotify.com/album/6hH3ZGYZtkIT8xrryAMntj) | 2:36 | 2026-04-08 |  |
 | [Idyllic Abode](https://open.spotify.com/track/0tBRe7eiliuJyjoXjfbIhw) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Idyllic Abode](https://open.spotify.com/album/4lXQjwlJ9zWPeSzLAUSCpd) | 2:55 | 2026-02-13 |  |
@@ -303,6 +306,7 @@
 | [Lotus](https://open.spotify.com/track/5IwttgCz4FPDkodjrZtLb3) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Lotus](https://open.spotify.com/album/2un9gyChobeTNRw8BN7B95) | 2:19 | 2024-12-19 | 2025-12-11 |
 | [Low Sugar Rest](https://open.spotify.com/track/3aMWliXgEzcHmrbNB4HnZl) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Low Sugar Rest](https://open.spotify.com/album/1aZzJynkMDolOm3KJS1r9k) | 2:32 | 2025-01-29 |  |
 | [Lucent Calm](https://open.spotify.com/track/3AVyhHZshmqu53oCcqXV4Z) | [Phase Quiet](https://open.spotify.com/artist/4nGXChdq7ggYhLNnqP10Ma) | [Lucent Calm](https://open.spotify.com/album/0NsszANleiE6bzi09tjJ4J) | 2:42 | 2026-06-22 |  |
+| [Lucent Fields](https://open.spotify.com/track/2MdszS8xkyzFieY2XtJ7FD) | [Carlo Cipriani](https://open.spotify.com/artist/5lXIK5LjHj6sjXP3cgP5N1) | [Lucent Fields](https://open.spotify.com/album/5xqssLjW6xnWjgNC9FApKf) | 2:33 | 2026-09-04 |  |
 | [Luciferous](https://open.spotify.com/track/6eWdQ0tioQV0kRKTOHail5) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Luciferous](https://open.spotify.com/album/12YuHiTmziMFD8DBsqxYO1) | 2:59 | 2025-05-27 |  |
 | [Lugnet](https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg) | [Najma Wallin](https://open.spotify.com/artist/28XFFzqCAHFNcEdRiuEf71) | [Lugnet](https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ) | 2:39 | 2021-12-08 | 2025-05-21 |
 | [Lull](https://open.spotify.com/track/1Dfabl6cD5EzLzpKGwDXYp) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Lull](https://open.spotify.com/album/5BcI4DwruUvUp9X8qdIeOZ) | 2:49 | 2025-01-29 |  |
@@ -530,6 +534,7 @@
 | [Submerged](https://open.spotify.com/track/0FaCS30JAXH9ntYh3TcF31) | [The Aural Healer](https://open.spotify.com/artist/5aS55avvX9UAYN3LVTRwyr) | [Liquid Universe](https://open.spotify.com/album/4MkMpficPrQ8RnElrfp8Iq) | 3:01 | 2021-12-08 | 2024-08-03 |
 | [Subtle Comfort](https://open.spotify.com/track/1A3c3gK3iEJwT6Plh49tsY) | [Atlantic Horizon](https://open.spotify.com/artist/3SLHGw6mPRgN333BnW7VO0) | [Subtle Comfort](https://open.spotify.com/album/5mC3TqFEqeqK6nTfCNj0i2) | 2:10 | 2026-02-13 |  |
 | [Sun Descending](https://open.spotify.com/track/2C67c8x43LXzoX71FdCUdd) | [Segarus](https://open.spotify.com/artist/5L3uMci2iyD3APnlwYfTkO) | [Sun Descending](https://open.spotify.com/album/7mtktubpUj4RsaMaokQamH) | 3:11 | 2024-01-29 | 2025-10-24 |
+| [Sun in Motion](https://open.spotify.com/track/4YWdxAVTRoKL38I7KAv7v2) | [Mindweather](https://open.spotify.com/artist/3mdeibd7mERBfhEqmkmSrc) | [Sun in Motion](https://open.spotify.com/album/1tjWc3mVkQNUFo8MfH4Sqy) | 2:28 | 2026-09-04 |  |
 | [Sunhalo](https://open.spotify.com/track/4JQihjauuYyS4CQ4l62odF) | [Takhall](https://open.spotify.com/artist/5JT8XbqZDGSHR91TqvUKi0) | [Sunhalo](https://open.spotify.com/album/0KUqfIRUEqbHqFZSrpH6qh) | 3:39 | 2025-10-08 |  |
 | [Super Moon](https://open.spotify.com/track/2RhkqYZSsC2MGHvWNf05oa) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Super Moon](https://open.spotify.com/album/3VsiFFZNCC0bn6vg2gHSGO) | 3:02 | 2023-09-15 | 2026-02-14 |
 | [Supernal](https://open.spotify.com/track/3Fgczqjqb71Prf9C5dX5UQ) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Supernal](https://open.spotify.com/album/3bAUgxJjOOIrZrG6GhW8jo) | 2:37 | 2026-06-22 |  |

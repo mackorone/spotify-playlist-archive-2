@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Kirk Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,681 likes - 80 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,870 likes - 80 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thank You For Everything \(with Karen Clark\-Sheard\)](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
 | 2 | [He's Not Finished](https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [He's Not Finished](https://open.spotify.com/album/16tA66otBVRH8ZkZvAaULO) | 8:00 |
-| 3 | [Gracefully Broken/Who The Son Sets Free](https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Gracefully Broken / Who The Son Sets Free](https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm) | 5:58 |
+| 3 | [You Know My Name](https://open.spotify.com/track/6RhbpIePM17MPqCqDAtOrS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [You Know My Name](https://open.spotify.com/album/5fuP4rcGPYJZFGeRhgUods) | 8:41 |
 | 4 | [You Will Have It All](https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [You Will Have It All](https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ) | 5:22 |
 | 5 | [Heaven Collide](https://open.spotify.com/track/6napmh5WfgrThYbkwognKx) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heaven Collide](https://open.spotify.com/album/6y8gYo7orW8jbpY3EAqpRe) | 5:16 |
 | 6 | [He Is](https://open.spotify.com/track/1Aa16EDsmbJp6e0UwUwYpf) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Dreams, Revelations & Moments](https://open.spotify.com/album/7Jb3f5zIDacGvL1o7Bj02o) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [Made New \- Radio Edit](https://open.spotify.com/track/38GV2hTJoKJwhHsDRi9WbA) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Made New \(Radio Edit\)](https://open.spotify.com/album/00RBYgE7x0XFvLHCPZrPQq) | 3:39 |
 | 80 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 |
 
-Snapshot ID: `AAAAAC1UZBNMABFn2rG6khCEqNDipZsd`
+Snapshot ID: `AAAAAFmwK1mPpI7KWDB6RAFr3xaht21G`

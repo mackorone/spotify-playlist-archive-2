@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Bolela, Bohemio en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170353,
       "name": "Ahora Resulta",
       "url": "https://open.spotify.com/track/64uCj2nU2CTgiSnywmaw0F"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 178500,
       "name": "Celos Enfermizos",
       "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
@@ -4009,6 +4009,24 @@
     },
     {
       "album": {
+        "name": "Cu\u00eddame",
+        "url": "https://open.spotify.com/album/3hMYOqmzYqRCqZZIbBmI75"
+      },
+      "artists": [
+        {
+          "name": "La Edici\u00f3n de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Cu\u00eddame",
+      "url": "https://open.spotify.com/track/1l21C7jVUnOX4SlZ9xGoeV"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo est\u00e1s t\u00fa",
         "url": "https://open.spotify.com/album/5CnLsMoKIXFOnT8vcstLBE"
       },
@@ -4238,6 +4256,28 @@
       "duration_ms": 161816,
       "name": "De Ma\u00f1ana en 8 D\u00edas",
       "url": "https://open.spotify.com/track/5CdvFc6d2MtfHxpYejXTUl"
+    },
+    {
+      "album": {
+        "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
+        "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207140,
+      "name": "De Peri\u00f3dico Un Gallito - En Vivo",
+      "url": "https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ"
     },
     {
       "album": {
@@ -6777,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "El Tres Letras",
+        "url": "https://open.spotify.com/album/5xzwTss13sx65es1bPnlFJ"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222143,
+      "name": "El Tres Letras",
+      "url": "https://open.spotify.com/track/56q9hFAx3NBeEFd42Kake2"
+    },
+    {
+      "album": {
         "name": "El Troquero",
         "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
       },
@@ -7290,6 +7348,24 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "album": {
+        "name": "LAS QUE SUENAN EN MI TROCA",
+        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227488,
+      "name": "Entre Hierva Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
     },
     {
       "album": {
@@ -7920,7 +7996,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 179433,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/2Lg3Mytou7RnwZbYrFXlAz"
@@ -8794,7 +8870,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 207886,
       "name": "HOME RUN",
       "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
@@ -12664,6 +12740,24 @@
       "duration_ms": 164400,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG"
+    },
+    {
+      "album": {
+        "name": "Millonario",
+        "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185781,
+      "name": "Millonario",
+      "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
     },
     {
       "album": {
@@ -16876,7 +16970,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217511,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/6dX9AMjSe3GM8v0jtNs4j1"
@@ -17824,7 +17918,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 162711,
       "name": "TAN FACIL",
       "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
@@ -18726,6 +18820,24 @@
       "duration_ms": 177237,
       "name": "Tu Forma De Ser",
       "url": "https://open.spotify.com/track/6DVF8N91Z4yHLbX7J5DK5j"
+    },
+    {
+      "album": {
+        "name": "Tu Juguete",
+        "url": "https://open.spotify.com/album/63WYCoCLe8wDi5IGlxbHu7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204105,
+      "name": "Tu Juguete",
+      "url": "https://open.spotify.com/track/1TGw2o9FP9A16BpsYYwkk4"
     },
     {
       "album": {
@@ -19683,6 +19795,24 @@
     },
     {
       "album": {
+        "name": "Y C\u00f3mo Es El",
+        "url": "https://open.spotify.com/album/2i5cRsYmyoF6CZBomPVjoA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269072,
+      "name": "Y C\u00f3mo Es El",
+      "url": "https://open.spotify.com/track/3J46mDOZWucrgrjb3JAyaP"
+    },
+    {
+      "album": {
         "name": "Y Las Mariposas",
         "url": "https://open.spotify.com/album/2zoQli0jT1VjQZWVvhhosW"
       },
@@ -19730,7 +19860,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"

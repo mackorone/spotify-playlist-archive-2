@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Ghard",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Abbot, LX",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 145945,
       "name": "114 Freestyle 2",
       "url": "https://open.spotify.com/track/3b6a75xFVfRLTi08p3ON7F"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 174855,
       "name": "Acordado Desde Ontem",
       "url": "https://open.spotify.com/track/7mMbvAgxy3RQxJHP8WDXKd"
@@ -14087,6 +14087,36 @@
     },
     {
       "album": {
+        "name": "Dona Estela 2",
+        "url": "https://open.spotify.com/album/7ojOfkNp6tWC6JKU8RtWQX"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        },
+        {
+          "name": "prod by bila",
+          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Dona Estela 2",
+      "url": "https://open.spotify.com/track/4S0Nga8imClHEgUwy9WT7s"
+    },
+    {
+      "album": {
         "name": "Dono Do Morro",
         "url": "https://open.spotify.com/album/1e2ZjrdomPu2tBGXVyT2K2"
       },
@@ -22076,7 +22106,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 139245,
       "name": "ICE",
       "url": "https://open.spotify.com/track/4QMWwYSQuRAEOUzKlso99B"
@@ -33597,6 +33627,32 @@
     },
     {
       "album": {
+        "name": "O PLANO",
+        "url": "https://open.spotify.com/album/1HuRaIk3Mjli5P5KCQrdh1"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173908,
+      "name": "O PLANO",
+      "url": "https://open.spotify.com/track/3mbPEehvKH8uPcvlyen94O"
+    },
+    {
+      "album": {
         "name": "O Plug Sabe Quem Compra",
         "url": "https://open.spotify.com/album/7JeHHL7anLsqoZMXLNL8SN"
       },
@@ -34436,7 +34492,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210989,
       "name": "Ora\u00e7\u00e3o do filho de Deus",
       "url": "https://open.spotify.com/track/54Bz8FYJ98BL3LoqxabJnr"
@@ -37944,6 +38000,32 @@
       "duration_ms": 141333,
       "name": "PRE SS\u00c3O",
       "url": "https://open.spotify.com/track/0Of8oYzJxw1oVNnNReoWJb"
+    },
+    {
+      "album": {
+        "name": "ESTILHA\u00c7OS & CICATRIZES - 2\u00ba ATO",
+        "url": "https://open.spotify.com/album/0YHOEYkncGDlQ4T8Ky1ZSR"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191111,
+      "name": "PRECISO TE ESQUECER",
+      "url": "https://open.spotify.com/track/0b1gGn4PbKKmm0qfJtfH4a"
     },
     {
       "album": {
@@ -47312,7 +47394,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 222740,
       "name": "THE BOX MEDLEY 13",
       "url": "https://open.spotify.com/track/3Ic4k05jgQcoDagNmas48h"
@@ -48037,6 +48119,32 @@
     },
     {
       "album": {
+        "name": "Touca&Hoodie",
+        "url": "https://open.spotify.com/album/57nbr84k9pG5IfsJYRvEqW"
+      },
+      "artists": [
+        {
+          "name": "Dherik",
+          "url": "https://open.spotify.com/artist/3fgTEE6t2huIn7SwM4lC9q"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Touca&Hoodie",
+      "url": "https://open.spotify.com/track/3pSDgUC9PZQcOLgaeig6Wt"
+    },
+    {
+      "album": {
         "name": "Trader (Estrela Bet Freestyle)",
         "url": "https://open.spotify.com/album/2T3nm2IFr5wJtFsskcMQN2"
       },
@@ -48694,6 +48802,28 @@
       "duration_ms": 177322,
       "name": "Turista",
       "url": "https://open.spotify.com/track/78OWuPL27aLMkDKdFNNnuH"
+    },
+    {
+      "album": {
+        "name": "ELAS <3 808s",
+        "url": "https://open.spotify.com/album/6e6XVIIDDsPJulWsvSxs8w"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "loonyjetski",
+          "url": "https://open.spotify.com/artist/1TPQ578HtBYpfgpzNJIs93"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84093,
+      "name": "TWEAKIN",
+      "url": "https://open.spotify.com/track/1uilboMjT1qdFjTkxAC1EJ"
     },
     {
       "album": {
@@ -50146,7 +50276,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 210410,
       "name": "VIDA DE ILUS\u00c3O",
       "url": "https://open.spotify.com/track/671zmu4aFMn7u16sTKL5dl"
@@ -51674,6 +51804,32 @@
       "duration_ms": 213016,
       "name": "XTRANHO",
       "url": "https://open.spotify.com/track/6sHWMvDDdgNNvkJ7JHktdl"
+    },
+    {
+      "album": {
+        "name": "XXL DLX",
+        "url": "https://open.spotify.com/album/5rbq7dxnsWUZQHmx7Atl9m"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        },
+        {
+          "name": "EAGD",
+          "url": "https://open.spotify.com/artist/3DQWLv2DfidEeP4967gDxN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40898,
+      "name": "xxl dlx",
+      "url": "https://open.spotify.com/track/0Fe1jPZXecDKXw0csf4zW3"
     },
     {
       "album": {

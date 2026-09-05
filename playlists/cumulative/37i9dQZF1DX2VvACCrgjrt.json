@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 168272,
       "name": "Addictions",
       "url": "https://open.spotify.com/track/5DrlrwkvVpS3Pr5iI5GWKg"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 138461,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 139147,
       "name": "Bass Down Low (feat. DEV)",
       "url": "https://open.spotify.com/track/4ZOGujJtpygBRvPj8KZKFn"
@@ -7974,7 +7974,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 196158,
       "name": "Down To The Sound",
       "url": "https://open.spotify.com/track/6hcEfqQL5wcVzBq2qf5p3A"
@@ -10096,6 +10096,24 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "album": {
+        "name": "Freeky",
+        "url": "https://open.spotify.com/album/2V4zX6rsY4S3nT9MNCpRAW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Shepherd",
+          "url": "https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Freeky",
+      "url": "https://open.spotify.com/track/5wrq1OgoR7JMO4wImNj5xO"
     },
     {
       "album": {
@@ -13530,7 +13548,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 153522,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/6qOwlZH48YSwjp3x5vPrZx"
@@ -13741,6 +13759,24 @@
     },
     {
       "album": {
+        "name": "In Da Zone",
+        "url": "https://open.spotify.com/album/3ZaJg7VrjUqQS21VOV2Xgo"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "In Da Zone",
+      "url": "https://open.spotify.com/track/74EYuSfkYh7EKzyqWXys3d"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4MXz9gdRN1wvmAULI7RmH8"
       },
@@ -13806,7 +13842,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 180004,
       "name": "In My System",
       "url": "https://open.spotify.com/track/5XFEApc6uwSKYTbZTMwnbx"
@@ -14260,7 +14296,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 166704,
       "name": "Jiggle That",
       "url": "https://open.spotify.com/track/3ikcVjz0ADmh8kk812zMPY"
@@ -14484,7 +14520,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 185777,
       "name": "Jungle Gem",
       "url": "https://open.spotify.com/track/6p74OOY5V3vnWfGRgfjgWM"
@@ -14680,6 +14716,28 @@
       "duration_ms": 334615,
       "name": "Killa",
       "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
+    },
+    {
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/5N8kPUSkctxosibq1HxNEl"
+      },
+      "artists": [
+        {
+          "name": "Juush",
+          "url": "https://open.spotify.com/artist/4E3LoXmQVgt6uWJvAw9Olo"
+        },
+        {
+          "name": "Harel",
+          "url": "https://open.spotify.com/artist/015xd9ZzBLzvkIlgny78zc"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/7jfeYulZXHNudr2l05YX5g"
     },
     {
       "album": {
@@ -15620,7 +15678,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217738,
       "name": "Like a Devil",
       "url": "https://open.spotify.com/track/76Ov2Fp2VbHKE6TLYYZXDD"
@@ -16692,7 +16750,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 168000,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/5iEeVYUufEdHhuddGqaTFH"
@@ -17568,7 +17626,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 170000,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3HH2w8W7uaauucUTOYcoAW"
@@ -18530,7 +18588,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 143636,
       "name": "Nitro Beat",
       "url": "https://open.spotify.com/track/03tX8BuXUxHxCC50ceH4Xq"
@@ -23542,7 +23600,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 181384,
       "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
@@ -24695,6 +24753,28 @@
     },
     {
       "album": {
+        "name": "Stimulation",
+        "url": "https://open.spotify.com/album/69PX831txDJgxSMpkddReF"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191818,
+      "name": "Stimulation",
+      "url": "https://open.spotify.com/track/2naxCYSOhwt1IWZsTNFElk"
+    },
+    {
+      "album": {
         "name": "Stir It Up",
         "url": "https://open.spotify.com/album/4BgiNsZY4M5YuBkIJrGjY4"
       },
@@ -25542,7 +25622,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169090,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/2iqCJ7iTcuRtJzZv2kx4ID"
@@ -25848,7 +25928,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 183500,
       "name": "Tease",
       "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
@@ -26223,6 +26303,32 @@
     },
     {
       "album": {
+        "name": "Tequila Bounce",
+        "url": "https://open.spotify.com/album/7J02BSTJGwTsimcqNzSFes"
+      },
+      "artists": [
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        },
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Tequila Bounce",
+      "url": "https://open.spotify.com/track/1RuV6ibdjBiAyv3xS4RhI2"
+    },
+    {
+      "album": {
         "name": "That Beat!",
         "url": "https://open.spotify.com/album/1cCKbMISPqZAZplijyhR3M"
       },
@@ -26518,6 +26624,24 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/6HIM7tRgaZVq6QTlJTaWU5"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166406,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/0oEivQjCbab3EDYHOIsLko"
     },
     {
       "album": {
@@ -27234,7 +27358,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 194545,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/5DEvDR22e6iJuKWhNSxTRP"

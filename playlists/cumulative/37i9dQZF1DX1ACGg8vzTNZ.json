@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Honey Lemon Soda - Main Theme",
+        "url": "https://open.spotify.com/album/2xfT9Ovf2vxoAGGI0tjerP"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168869,
+      "name": "Honey Lemon Soda - Main Theme",
+      "url": "https://open.spotify.com/track/0DcB5CUxWsEaiINaxVNnbf"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/4CCfBKrtjWQrtfmhyxB4DV"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,491 likes - 99 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,609 likes - 99 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 18 | [YAHWEH](https://open.spotify.com/track/69DpIiEK7dz42Qbg8oZvX5) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [YAHWEH](https://open.spotify.com/album/1UJwFgwIq5UjQJ45jMOGfP) | 2:36 |
 | 19 | [Nothing but Grace \- Live](https://open.spotify.com/track/48AEVs6HxlDtiz8ySWvpmj) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Sound of Revival \(Live\)](https://open.spotify.com/album/6pzb4yimOW4qubXYzs3XEw) | 7:22 |
 | 20 | [TESTIFY](https://open.spotify.com/track/2b5UNUaF0OBRL79xm2SbEw) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [TESTIFY](https://open.spotify.com/album/1f58xSl8LURmdy8YKjPX7d) | 4:02 |
-| 21 | [Track 8](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 0:00 |
+| 21 | [Promises](https://open.spotify.com/track/36A9F8P3yh6RUj71WjlhXa) | [Precious Marc](https://open.spotify.com/artist/3oFa0DpAlB8ayyBuXA2WDB), [Skerz beatz](https://open.spotify.com/artist/4dhY6CUts7Uklc5Poshg7a), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [OURGODRITHM](https://open.spotify.com/album/3YT61bKWUXKuIvavGJLAtq) | 3:10 |
 | 22 | [Onward](https://open.spotify.com/track/4XbrVgJnmGlAcEE8tExWgj) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Grove Kifasi](https://open.spotify.com/artist/1oCupC0FNIQBe2dUse7zlY), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Onward](https://open.spotify.com/album/2iPeophTCk8wXss2jRML5J) | 3:03 |
 | 23 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 |
 | 24 | [Anywhere](https://open.spotify.com/track/3b2aeXNBMALXAy4w0GLLEu) | [Sustain Music](https://open.spotify.com/artist/3XYigbH6KlaM1tJj52I0A4), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [METAMORPHOSIS \(Let Us Fly\)](https://open.spotify.com/album/6NlhIE1mJ3cky7h79iLvV9) | 2:18 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 31 | [BGBC \(Blessed Going Blessed Coming\)](https://open.spotify.com/track/51g0Qy13Pu4XnAx6fqQnIx) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Dreamhowz Music](https://open.spotify.com/artist/5JRAAuNkBUZ9uHNC65veJU) | [BGBC \(Blessed Going Blessed Coming\)](https://open.spotify.com/album/2zLavjqY2dmrt0NQBGeh1M) | 1:47 |
 | 32 | [Away \(Prayer\)](https://open.spotify.com/track/26cTXM7SB7sv0Ma0XPKmKa) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Away \(Prayer\)](https://open.spotify.com/album/5BpHepK6F3Q7RALC4Jm8VG) | 3:44 |
 | 33 | [ESE BABA](https://open.spotify.com/track/7216Nc4pIIuzQTQofwW9fC) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [ESE BABA](https://open.spotify.com/album/51wZ2HDgDTQapWepBoIj2A) | 7:41 |
-| 34 | [Track 3](https://open.spotify.com/track/46hC9KsdqwotKlcrUKZVtP) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [The OverFlow](https://open.spotify.com/album/5FjEP0G0gLE12RYTDaAZHz) | 0:00 |
+| 34 | [Your Name \- Live](https://open.spotify.com/track/46hC9KsdqwotKlcrUKZVtP) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [The OverFlow](https://open.spotify.com/album/5FjEP0G0gLE12RYTDaAZHz) | 11:16 |
 | 35 | [HIS OWN](https://open.spotify.com/track/0aJEPTi3l1MsbfE7fMmGCj) | [M4YLAH](https://open.spotify.com/artist/0JhQyKAxt4SIqX2XwLXMKZ), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [HIS OWN](https://open.spotify.com/album/60AtNhaNMB2LF3sUwSwb1O) | 2:29 |
 | 36 | [Use Me](https://open.spotify.com/track/0GAV0C3mSRWDTO9LpKDQXV) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Use Me](https://open.spotify.com/album/3vQSQJX5x9jxVdUOCr10aV) | 3:16 |
 | 37 | [I Belong](https://open.spotify.com/track/6pXjLtmCpTMoYHOa56csXu) | [Abraham H.](https://open.spotify.com/artist/3M7phinI0gb39Yj760iIQV), [Holy Gabbana](https://open.spotify.com/artist/5l0lH4oyk0SNh2fmX4OKVK) | [I Belong](https://open.spotify.com/album/6j4neM0OqNPkXe8kDbRXWe) | 3:19 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 78 | [Pou Zot](https://open.spotify.com/track/42onudkl5mipAaSQZKxYfy) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Pou Zot](https://open.spotify.com/album/2vKWguqO7CF8aazcozgGYu) | 3:59 |
 | 79 | [RIPPLES OF LOVE](https://open.spotify.com/track/22qASvclJXFb2IlZkruylF) | [TheWorshipper EPG](https://open.spotify.com/artist/43XHvBQtirLrlrFaIsSwli) | [RIPPLES OF LOVE](https://open.spotify.com/album/4YvaOBxllonHMdBDm0O2L2) | 6:17 |
 | 80 | [Godful](https://open.spotify.com/track/4ngpzYxWejLe37N8JVD6kS) | [iKofi](https://open.spotify.com/artist/3wIyDrZEHkkYCxROcQv8XV) | [Godful](https://open.spotify.com/album/3Z03d6EuS5CSAINZ1OREZx) | 2:07 |
-| 81 | [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/6vN7iPK95U67VZhM4nXKe6), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 |
+| 81 | [NSO \- Live](https://open.spotify.com/track/7lJ2qGZS8edvdGrQbZBeJ0) | [King Solomon](https://open.spotify.com/artist/65qGdBDvU2MNQSidVL4Hxh), [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [NSO \(Live\)](https://open.spotify.com/album/3QHokGNotqKag2PySA54cW) | 7:31 |
 | 82 | [JOY IS COMING](https://open.spotify.com/track/2NbsouKqlRdujJEUir0Ecr) | [Dj Fetty](https://open.spotify.com/artist/2ZluNFnnyxXaXTJZKxxq04), [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [JOY IS COMING](https://open.spotify.com/album/3Jmzue2wE4nLbc1rCf5BvU) | 2:29 |
 | 83 | [BEFORE YOU](https://open.spotify.com/track/2KVHzaNe5opnsRNxdjptDe) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [BEFORE YOU](https://open.spotify.com/album/4nWiSFCM1n4rkqtngum48h) | 16:12 |
 | 84 | [Vanilla](https://open.spotify.com/track/11ojSC6bu7zXxuKMTy7zhR) | [Bilivmusic](https://open.spotify.com/artist/3MjpP6adL0XsKugy9PuWoM) | [Vanilla](https://open.spotify.com/album/3RpnvVSM1ZTxoY2bWhkgxB) | 2:33 |

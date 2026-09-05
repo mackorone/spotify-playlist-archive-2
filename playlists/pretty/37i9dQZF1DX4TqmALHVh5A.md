@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Sam Sauvage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,291 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,782 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Note 12 : Dream](https://open.spotify.com/track/4KfBfVRSxUBtpRWVgA0dsJ) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Note 12 : Dream](https://open.spotify.com/album/5VAWspQyNbR4bHvzPuK5uF) | 2:26 |
 | 50 | [wannabe](https://open.spotify.com/track/5T6J6gvoUcHwICm3Dv9ZQU) | [megateuf](https://open.spotify.com/artist/0LBDcV4DbDTAoOcobDT5ZS) | [wannabe](https://open.spotify.com/album/36BUAWNmjAylVG6EC4enSR) | 3:09 |
 
-Snapshot ID: `AAAAAPoFSsmlOhbsrMNXkpz4YJLOhIJo`
+Snapshot ID: `AAAAAFueeabLCqh9z9KYr8SaWI8h11dQ`

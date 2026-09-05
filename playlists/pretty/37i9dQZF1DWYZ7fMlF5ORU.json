@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186800,
+  "num_followers": 186850,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+      "duration_ms": 172480,
+      "name": "Deus Est\u00e1 No Controle",
+      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -224,25 +224,29 @@
           "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Deus Est\u00e1 No Controle",
-      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "One Vision",
-        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
       },
       "artists": [
         {
           "name": "ONE Service",
           "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
         }
       ],
-      "duration_ms": 257586,
-      "name": "Far\u00e1 Outra Vez",
-      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -279,26 +283,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Leandro Rodrigues",
-          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
-        },
-        {
-          "name": "PVAP",
-          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 332160,
-      "name": "Sossegai - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -319,38 +315,42 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+        "name": "One Vision",
+        "url": "https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o"
       },
       "artists": [
         {
           "name": "ONE Service",
           "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
         }
       ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+      "duration_ms": 257586,
+      "name": "Far\u00e1 Outra Vez",
+      "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
     },
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+        "name": "Piano e Voz, Amigos e Pertences 3a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Leandro Rodrigues",
+          "url": "https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK"
+        },
+        {
+          "name": "PVAP",
+          "url": "https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a"
         }
       ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+      "duration_ms": 332160,
+      "name": "Sossegai - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Aleluia",
+        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Escolhi",
         "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 301545,
       "name": "Escolhi",
       "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Aleluia",
-        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Aleluia",
-      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
+        "name": "Tudo Passa",
+        "url": "https://open.spotify.com/album/72dx9PBvtQPfSH876B3Cpc"
       },
       "artists": [
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Ed Motta",
-          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
         }
       ],
-      "duration_ms": 246737,
-      "name": "O Melhor Pra Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl"
+      "duration_ms": 236250,
+      "name": "Tudo Passa",
+      "url": "https://open.spotify.com/track/4K1VIN5uX9IqfseTbGzsFJ"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Tudo Passa",
-        "url": "https://open.spotify.com/album/72dx9PBvtQPfSH876B3Cpc"
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
       "artists": [
         {
           "name": "Eli Soares",
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Tudo Passa",
-      "url": "https://open.spotify.com/track/4K1VIN5uX9IqfseTbGzsFJ"
+      "duration_ms": 246737,
+      "name": "O Melhor Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/0B6x3VODbBd7i0g55kQutl"
     },
     {
       "added_at": "2026-06-12 03:01:51",

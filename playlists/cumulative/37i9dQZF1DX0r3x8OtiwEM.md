@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-804 songs - 3 day 2 hr 25 min
+805 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Cariilon \- Original Mix](https://open.spotify.com/track/5n2Fq8cWJ2AoODIeTm0vNP) | [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [Cariilon](https://open.spotify.com/album/71r8Xq4iT7IverzGNug96l) | 7:28 | 2020-08-08 | 2020-11-07 |
 | [Castles Of Illusion](https://open.spotify.com/track/40y4KYB5DNXQsrZapLUhnV) | [Naeiiv](https://open.spotify.com/artist/2abcn9W6DWwhy0oHuYZ0VU) | [Castles Of Illusion](https://open.spotify.com/album/3aYbkA3Vt3HWcsD34BElkO) | 6:39 | 2022-04-04 | 2022-04-20 |
 | [Catalyst](https://open.spotify.com/track/6V5O2k52BsMFKRrY0QMCE2) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb), [Rustboy](https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu) | [Catalyst](https://open.spotify.com/album/3772U7LhJvi6kYwSiN1XhO) | 8:04 | 2021-12-17 | 2021-12-21 |
+| [Ceremony \(Feat\. Tailor\)](https://open.spotify.com/track/0aYwSeY6AHMNyyh4AJyl8o) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Ceremony \(Feat\. Tailor\)](https://open.spotify.com/album/0Ds6w39pEOuMkCCFj4TyCF) | 3:29 | 2026-09-04 |  |
 | [Certain](https://open.spotify.com/track/3WR9e1EZ0OXnbxnEIYuXjm) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj) | [Certain](https://open.spotify.com/album/09j9iZPJDAtAbbtI6AUb4X) | 7:02 | 2020-02-22 | 2020-08-15 |
 | [Chamaniac](https://open.spotify.com/track/1DeV7EVTK12TIYb8iZFVmw) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Chamaniac](https://open.spotify.com/album/5JuOdgCUIZSpVKi6aeOTYc) | 7:04 | 2019-08-06\* | 2020-01-04 |
 | [Changes](https://open.spotify.com/track/6wWMiWDSwoI8hIVcI0D9S5) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo) | [Changes](https://open.spotify.com/album/3UqR621qSR4DX3paMUJozM) | 4:05 | 2022-11-15 | 2022-11-26 |
@@ -329,7 +330,7 @@
 | [Hybrid Sounds](https://open.spotify.com/track/73LEqnV0JnO1a41qxdkgn3) | [Schwarz Avni](https://open.spotify.com/artist/001UurAm0cIXxR0hrqMepQ), [Tiefschwarz](https://open.spotify.com/artist/6f2k5CwVLvTy0rgw6Q8B4Q), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Hybrid Sounds](https://open.spotify.com/album/29dvlndPExjenFcc4Tuuez) | 7:45 | 2019-08-06\* | 2020-02-09 |
 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 | 2020-07-18 | 2022-11-26 |
 | [Hypnotease](https://open.spotify.com/track/4v4yMDQ3eO8uVSYRysgcyQ) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Hypnotease](https://open.spotify.com/album/4fT1pJeDDNgdpIXXVUoiQS) | 5:46 | 2022-01-14 | 2022-07-29 |
-| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 |  |
+| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 | 2026-09-05 |
 | [I Don't Need You](https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:04 | 2022-10-28 | 2023-04-16 |
 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 | 2023-04-05 | 2024-04-19 |
 | [I Feel](https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC) | [INURE](https://open.spotify.com/artist/5NvzCumjwyLbFqorYKqIXd) | [I Feel](https://open.spotify.com/album/1GPFvq8fng96P1Isom1ZCZ) | 4:48 | 2020-07-25 | 2021-02-07 |

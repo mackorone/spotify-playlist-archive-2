@@ -5413,6 +5413,24 @@
     },
     {
       "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/5yQofV6X9hJFJIAQmcpXuv"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/1e6b8Vinqx518KdGAw6pEk"
+    },
+    {
+      "album": {
         "name": "Can't Refuse",
         "url": "https://open.spotify.com/album/1QzjJKr1zyo5NA0nyfW7Bs"
       },
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 286359,
       "name": "Do for You",
       "url": "https://open.spotify.com/track/7AVk1V6I4eSHDBEaWvC4YH"
@@ -8552,6 +8570,24 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
+      "album": {
+        "name": "Don't Spoil Love",
+        "url": "https://open.spotify.com/album/0AuLZ9X5iWoDMoB1cZuVIi"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189614,
+      "name": "Don't Spoil Love",
+      "url": "https://open.spotify.com/track/2l6m0Dq55u6M0HE1uuaODy"
     },
     {
       "album": {
@@ -11740,6 +11776,24 @@
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
+    {
+      "album": {
+        "name": "Forever and a Day",
+        "url": "https://open.spotify.com/album/3N5IlFhcihN9ea6JnFO4nY"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245979,
+      "name": "Forever and a Day",
+      "url": "https://open.spotify.com/track/5kDug34aip4weKBO1xjMSJ"
     },
     {
       "album": {
@@ -20530,7 +20584,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 224273,
       "name": "Maybe...",
       "url": "https://open.spotify.com/track/279Wu3If7JDlRoor8f3XxJ"
@@ -24230,7 +24284,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 171818,
       "name": "Out Of Time with Tomoko Aran",
       "url": "https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa"
@@ -32923,6 +32977,32 @@
     },
     {
       "album": {
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261426,
+      "name": "This Woman (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+    },
+    {
+      "album": {
         "name": "Three Little Words",
         "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
       },
@@ -36806,7 +36886,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 201887,
       "name": "You're Ego",
       "url": "https://open.spotify.com/track/1IN1eKg2h6GGtqFuNrVBxX"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Kenny Die",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: GeezyDee, Kris R.",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 244894,
       "name": "$extape",
       "url": "https://open.spotify.com/track/1i0Pppx0NGD0DvXbe3oofn"
+    },
+    {
+      "album": {
+        "name": "$TRIP CLUB",
+        "url": "https://open.spotify.com/album/5Q5wGjOUfPqZ8nz26WOKdf"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180474,
+      "name": "$TRIP CLUB",
+      "url": "https://open.spotify.com/track/0ozQRe0Z4dcvcXLxE3k3iw"
     },
     {
       "album": {
@@ -246,6 +264,32 @@
       "duration_ms": 152986,
       "name": "0 Millas",
       "url": "https://open.spotify.com/track/6fmTUemzE4UFPAsWCOernn"
+    },
+    {
+      "album": {
+        "name": "0MILLAJE (feat. Conep, Tutu)",
+        "url": "https://open.spotify.com/album/4f5FCoiM14yO3N4djO9mqt"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Tutu",
+          "url": "https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221908,
+      "name": "0MILLAJE (feat. Conep, Tutu)",
+      "url": "https://open.spotify.com/track/0xvNmR4v5vtgPoRHeU0Vek"
     },
     {
       "album": {
@@ -1828,7 +1872,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 124800,
       "name": "A LO MALDITA",
       "url": "https://open.spotify.com/track/2r6Pg4PFmJzN2u61hs8PoB"
@@ -5200,7 +5244,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 150410,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1MMSPU104BcRlh6Yc7AGW4"
@@ -8375,6 +8419,28 @@
     },
     {
       "album": {
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
+    },
+    {
+      "album": {
         "name": "CAPRICHOSO",
         "url": "https://open.spotify.com/album/6oKn81qm7WFAXnvkFB8Pah"
       },
@@ -8640,6 +8706,28 @@
       "duration_ms": 163979,
       "name": "CASI ALGO",
       "url": "https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ"
+    },
+    {
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/2I7fAlhMDkMYpTTbd8IPpb"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212857,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/6EZXf6pgpbWzmrQo5ErXDK"
     },
     {
       "album": {
@@ -15439,6 +15527,28 @@
     },
     {
       "album": {
+        "name": "D\u00f3nde est\u00e1s",
+        "url": "https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5"
+      },
+      "artists": [
+        {
+          "name": "Barbas",
+          "url": "https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "D\u00f3nde est\u00e1s",
+      "url": "https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh"
+    },
+    {
+      "album": {
         "name": "diamantes y espinas",
         "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
@@ -16454,6 +16564,24 @@
       "duration_ms": 159273,
       "name": "Embuste",
       "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
+    },
+    {
+      "album": {
+        "name": "EMOcional </3",
+        "url": "https://open.spotify.com/album/7x0P9tSUzBrFnckamE2gof"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136293,
+      "name": "EMOcional </3",
+      "url": "https://open.spotify.com/track/62s4iszBpTBmeBwjzM0zun"
     },
     {
       "album": {
@@ -18200,7 +18328,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 130046,
       "name": "Fantasmita",
       "url": "https://open.spotify.com/track/1my8PFCBBKVKMwKmS6SfgR"
@@ -20020,7 +20148,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 326746,
       "name": "GANAS REMIX",
       "url": "https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S"
@@ -26882,7 +27010,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 228068,
       "name": "LAS PRINCESAS EN LA CAMA",
       "url": "https://open.spotify.com/track/3sCIilW4JETI7jBz808ZaD"
@@ -33127,6 +33255,28 @@
     },
     {
       "album": {
+        "name": "La Universidad del Perreo",
+        "url": "https://open.spotify.com/album/4Fa8dk5lKFUVqLIrRwYPl8"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198054,
+      "name": "Muevelo pa Mi",
+      "url": "https://open.spotify.com/track/14uCjJTbgDo9HRkmKQJmYL"
+    },
+    {
+      "album": {
         "name": "MUJER FINA",
         "url": "https://open.spotify.com/album/6n82Dmo91AJ28X8Z4Yiy7W"
       },
@@ -34301,6 +34451,32 @@
     },
     {
       "album": {
+        "name": "Nigga Colombiano (REMIX)",
+        "url": "https://open.spotify.com/album/74m2A8vc9eyh9Y8yvOAffA"
+      },
+      "artists": [
+        {
+          "name": "Jaime El King",
+          "url": "https://open.spotify.com/artist/7xiOYD4GFS278j40P4ZB8K"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224854,
+      "name": "Nigga Colombiano (REMIX)",
+      "url": "https://open.spotify.com/track/3rPB09tYWvhBMAjhihKDq9"
+    },
+    {
+      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/1OctTG0xdFHuIdixua7451"
       },
@@ -34704,6 +34880,32 @@
       "duration_ms": 166829,
       "name": "No Love",
       "url": "https://open.spotify.com/track/2AEbYc8UX8fAj3Gqaaoqtm"
+    },
+    {
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/4OcaqBQhyoUdnAxm4wVYSt"
+      },
+      "artists": [
+        {
+          "name": "Tito Flow",
+          "url": "https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7FH4gEs0RKJ2BeNRXYAuFc"
     },
     {
       "album": {
@@ -38483,6 +38685,28 @@
     },
     {
       "album": {
+        "name": "Paroliguelido",
+        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Paroliguelido",
+      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
+    },
+    {
+      "album": {
         "name": "Parriba (feat. Trueno)",
         "url": "https://open.spotify.com/album/1yO3aW12O3F7cPnS2nJrCA"
       },
@@ -38560,7 +38784,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 144544,
       "name": "PARTY ALL DAY",
       "url": "https://open.spotify.com/track/2NsPRU3huaZ8O1R010evAl"
@@ -43966,7 +44190,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 175035,
       "name": "Ricky Bobby",
       "url": "https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0"
@@ -44294,7 +44518,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 169850,
       "name": "ROMA",
       "url": "https://open.spotify.com/track/0NUgJXE6L7SrMmm18nhoSY"
@@ -49172,7 +49396,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 140599,
       "name": "Tatuaje En La Espalda",
       "url": "https://open.spotify.com/track/3eYR0MMAo6V0sJ8XGGt9ov"
@@ -52570,7 +52794,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 245538,
       "name": "TUSSI",
       "url": "https://open.spotify.com/track/735b3AKwQfuX1DQdUQmTs2"

@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "JAKA PI\u0118KNA KATASTROFA",
+        "url": "https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6"
+      },
+      "artists": [
+        {
+          "name": "cafetrauma",
+          "url": "https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233491,
+      "name": "BOJ\u0118 SI\u0118, \u017bE NIE MA NIEBA",
+      "url": "https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS"
+    },
+    {
+      "album": {
         "name": "Boo!",
         "url": "https://open.spotify.com/album/4uYFPPzhhOoTzGJj3wXRHZ"
       },
@@ -29706,24 +29724,6 @@
       "duration_ms": 181463,
       "name": "Tracimy tylko czas",
       "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
-    },
-    {
-      "album": {
-        "name": "JAKA PI\u0118KNA KATASTROFA",
-        "url": "https://open.spotify.com/album/35sIObd3sDgSDqDm5F3YS6"
-      },
-      "artists": [
-        {
-          "name": "cafetrauma",
-          "url": "https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2"
-        }
-      ],
-      "date_added": "2026-09-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0WXTcLfIr4ZCIto9T0pJjS"
     },
     {
       "album": {

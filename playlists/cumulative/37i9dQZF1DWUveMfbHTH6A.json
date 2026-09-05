@@ -1010,10 +1010,28 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 185370,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU"
+    },
+    {
+      "album": {
+        "name": "is a Folk Artist",
+        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243630,
+      "name": "Guilty Running",
+      "url": "https://open.spotify.com/track/1qhZy98UGJAJKQufZ9f4bf"
     },
     {
       "album": {

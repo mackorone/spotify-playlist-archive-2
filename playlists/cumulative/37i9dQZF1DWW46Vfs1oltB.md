@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Tiger JK, YOON MIRAE\)
 
-1,954 songs - 4 day 8 hr 13 min
+1,955 songs - 4 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1454,6 +1454,7 @@
 | [Seatbelt](https://open.spotify.com/track/0VPmzoUEtmi8Xc9x71VDYG) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [REDRUM](https://open.spotify.com/album/3vJNnISlrqGjpROegP4bpo) | 3:27 | 2023-09-07 | 2024-01-06 |
 | [Secret](https://open.spotify.com/track/0SQNu4qg8dQQxmwZoxNsCR) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:12 | 2025-11-05 | 2025-12-31 |
 | [Secret](https://open.spotify.com/track/1jhu4DIgzxXzULoUWrGXAa) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv) | 2:12 | 2025-12-31 | 2026-03-13 |
+| [SECRET \(feat\. Raf Sandou\)](https://open.spotify.com/track/0g7lx8BVxUjmUwu6k6gTl8) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [METAMORPHOSIS](https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4) | 3:14 | 2026-09-03 |  |
 | [See Through](https://open.spotify.com/track/2EVEdzxtyiDD7vB8h4tXzx) | [Dabin.kr](https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi) | [senseS](https://open.spotify.com/album/0lngMKgjFwq61YlgI8aQz0) | 2:20 | 2025-05-29 | 2025-09-20 |
 | [SEE YOU](https://open.spotify.com/track/5gYvymKWCq0o4lkGW2c36Q) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [SEE YOU](https://open.spotify.com/album/7EqRUYreKshmE3AfwZvoCs) | 2:28 | 2024-10-03 | 2025-01-25 |
 | [See You In Every Party](https://open.spotify.com/track/2KgVbhxyywlDZp1juQ8gzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:01 | 2023-08-09 | 2024-03-09 |

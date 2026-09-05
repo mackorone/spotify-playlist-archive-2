@@ -2379,6 +2379,32 @@
     },
     {
       "album": {
+        "name": "Mozart: String Quintet in C Major, K. 515: II. Menuetto. Allegretto \u2013 Trio",
+        "url": "https://open.spotify.com/album/7aZFmRrzpCiMz9xh1151nB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        },
+        {
+          "name": "Timothy Ridout",
+          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342333,
+      "name": "String Quintet in C Major, K. 515: II. Menuetto. Allegretto \u2013 Trio",
+      "url": "https://open.spotify.com/track/1V2W71OU2EcZbEla1qctaF"
+    },
+    {
+      "album": {
         "name": "Beethoven: String Quintets Op. 29 and 104, Fugue Op. 137",
         "url": "https://open.spotify.com/album/0ltkuezXFiwGT35lsu1zmo"
       },
@@ -3336,6 +3362,28 @@
       "duration_ms": 237960,
       "name": "Widmung, Op. 25 No. 1",
       "url": "https://open.spotify.com/track/2rbB9tFpJdjAkO9XHf0AJZ"
+    },
+    {
+      "album": {
+        "name": "Lecuona: Y la negra Bailaba!",
+        "url": "https://open.spotify.com/album/4Xp7GR0rltg1DR91ZEvgQR"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Lecuona",
+          "url": "https://open.spotify.com/artist/4Gd1JXQVbYicIeo2bDNHwL"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129786,
+      "name": "Y la negra Bailaba!",
+      "url": "https://open.spotify.com/track/45J7WvUU6fwIOt0NUGWgyW"
     },
     {
       "album": {

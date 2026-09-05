@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-694 songs - 1 day 11 hr 15 min
+696 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2022-01-21 | 2024-07-13 |
 | [Eye to Eye](https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Eye to Eye](https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU) | 2:26 | 2022-12-16 | 2024-09-14 |
 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 | 2023-11-17 | 2026-03-05 |
-| [Eyes Closed](https://open.spotify.com/track/1VbJ5Fv1mJVYq1YBZFu0X6) | [Lumenelle](https://open.spotify.com/artist/0hrWlzWNSDV4sTNjf0hC7Q) | [Eyes Closed](https://open.spotify.com/album/26RoaqAvarR4A71z36CViw) | 3:00 | 2026-07-03 |  |
+| [Eyes Closed](https://open.spotify.com/track/1VbJ5Fv1mJVYq1YBZFu0X6) | [Lumenelle](https://open.spotify.com/artist/0hrWlzWNSDV4sTNjf0hC7Q) | [Eyes Closed](https://open.spotify.com/album/26RoaqAvarR4A71z36CViw) | 3:00 | 2026-07-03 | 2026-09-05 |
 | [Fairytale](https://open.spotify.com/track/3nEy4BBcsUD9M2A45rLjkR) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Fairytale](https://open.spotify.com/album/5vj9fKh95WbicPH55sVfeg) | 2:18 | 2023-01-20 | 2024-11-09 |
 | [Fake A Smile](https://open.spotify.com/track/79QJyCeKedEGv6njcE7S8m) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Fake A Smile](https://open.spotify.com/album/6UmV4okL0lSjs1lAvBJaVn) | 2:36 | 2023-03-17 |  |
 | [Fake a smile](https://open.spotify.com/track/2JI53ZVCxMucM68UpCtZ5C) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Fake a smile](https://open.spotify.com/album/4Z9LkxhZbqK0jY3bkj2uo7) | 2:49 | 2022-01-21 | 2023-03-18 |
@@ -266,6 +266,7 @@
 | [Hero](https://open.spotify.com/track/7l3A71BEW1FAvSFlvLCagL) | [Keely Lake](https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft) | [Hero](https://open.spotify.com/album/4RPverR0mCeAWbgrF7zvkf) | 3:11 | 2023-04-14 | 2025-10-25 |
 | [Hey Jude](https://open.spotify.com/track/4oLyZoduYHjLuYgvC9ds07) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Hey Jude](https://open.spotify.com/album/0moinVUWhkOZmD7JkvlrYh) | 2:09 | 2023-03-24 | 2026-01-28 |
 | [Hey Jude \- Piano](https://open.spotify.com/track/04HZn55ZWEdksrHmM1REW5) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Bad Habits & Hey Jude \(Piano\)](https://open.spotify.com/album/6Je7JdE3y16Y6mysHv2MWJ) | 3:09 | 2022-10-14 | 2023-03-25 |
+| [Hey There Delilah](https://open.spotify.com/track/3yTeFCojSnwSszZIEmXq1S) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Hey There Delilah](https://open.spotify.com/album/45c9EC3a6pj9vOpo6e1MYP) | 3:18 | 2026-09-04 |  |
 | [Ho Hey](https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh) | [Ellie Cox](https://open.spotify.com/artist/7wOOvJ7BwpFWIoVGa0nhh6) | [Ho Hey](https://open.spotify.com/album/6tbOClFwY3XKiGzhD4ugzU) | 1:36 | 2022-09-30 | 2023-08-18 |
 | [Ho Hey](https://open.spotify.com/track/6G4hWFBXZ3vekirssPlulx) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Unwind](https://open.spotify.com/album/52cMHhlW7BR4IdfBTl6rEw) | 3:24 | 2022-01-21 | 2022-10-15 |
 | [Ho hey](https://open.spotify.com/track/2ahwerIzRcGeSMQnZ2DDJa) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Piano Hits Chill](https://open.spotify.com/album/7lQ9Sx3i7oqYDLfjEJnOnS) | 3:32 | 2022-01-21 | 2022-10-01 |
@@ -404,7 +405,7 @@
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 | 2026-03-05 |
 | [Midnight Sun](https://open.spotify.com/track/4NfqOLPYiJyc9G6ph9UuMZ) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Midnight Sun](https://open.spotify.com/album/6sMhEX0noNb7GCGdacBdo7) | 4:23 | 2026-03-04 |  |
 | [Mirrors](https://open.spotify.com/track/3GTPkpNSEP1FLMa6OyIQfj) | [Vakur Svalason](https://open.spotify.com/artist/6yfv7Ftp3LxeYueOlidnZ3) | [Covered](https://open.spotify.com/album/69aKSktq5zcnn7pIURT5x7) | 4:12 | 2022-12-16 | 2023-06-03 |
-| [Miss You](https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Unholy](https://open.spotify.com/album/1ovsYM2jJqHFA4Tpr8hgiY) | 2:24 | 2023-01-06 |  |
+| [Miss You](https://open.spotify.com/track/2FXgKMM1anXLM8o4jpgqMr) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Unholy](https://open.spotify.com/album/1ovsYM2jJqHFA4Tpr8hgiY) | 2:24 | 2023-01-06 | 2026-09-05 |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/6KpG42chPTbjaigDOyfO0M) | [Julius Reid](https://open.spotify.com/artist/0CKyUaC00wxvMDw4GVquX2) | [Mmm Mmm Mmm Mmm](https://open.spotify.com/album/1OGAxXCH1VkLBN38b8d1JK) | 3:24 | 2023-08-17 | 2024-11-09 |
 | [Mood](https://open.spotify.com/track/7FqtfUDu66w8sGA61GXDyq) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 3:35 | 2022-10-28 | 2023-06-03 |
 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 | 2022-12-02 | 2025-08-30 |
@@ -529,6 +530,7 @@
 | [Stay](https://open.spotify.com/track/18UzagiSaYLgfKfK8On0SP) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [Stay](https://open.spotify.com/album/7kOIdDWDFiP5qjelqOyH8C) | 3:51 | 2023-04-14 | 2025-11-08 |
 | [Stay](https://open.spotify.com/track/3K6sfBeFE5O3O79SqZV1yv) | [Otis J\. Hart](https://open.spotify.com/artist/5PN2bToM1pb2WeRrMInjfT) | [Stay](https://open.spotify.com/album/7GkR7MgoB8K7fVntprF7Bf) | 3:47 | 2026-05-22 | 2026-06-12 |
 | [Stay Awake \- from Mary Poppins](https://open.spotify.com/track/1Iv7MmldOIPHZS3DuOtv6E) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Stay Awake](https://open.spotify.com/album/589iyDAVWz68zBJn1q4RrR) | 2:01 | 2022-01-21 | 2023-08-11 |
+| [Stay With Me](https://open.spotify.com/track/6q6pBHGNxM3I7cIDru0LBY) | [Jonas Mire](https://open.spotify.com/artist/6kIVYoRlOEHANMZgX3g3JR) | [Stay With Me](https://open.spotify.com/album/76LZpiMxPFHhIwUHSe8IDF) | 3:07 | 2026-09-04 |  |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/2z1uYvuItlQHdpmPDTy0Mx) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/6oKDEzEkuudHJQoewjiNQu) | 2:37 | 2022-01-21 | 2025-10-25 |
 | [Stay With Me \- Acoustic Guitar](https://open.spotify.com/track/3vcxFtJXZrEaetTMmQNg3Z) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [Stay With Me \(Acoustic Guitar\)](https://open.spotify.com/album/32ALrJMyjZIvS8BroIZf5f) | 2:37 | 2023-03-24 | 2024-04-19 |
 | [Stayin' Alive](https://open.spotify.com/track/4nEKbI250iiR61MASGuFie) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Stayin' Alive](https://open.spotify.com/album/3SwA8fVRvOmPzxqcAhEsNn) | 2:43 | 2023-08-31 | 2025-02-15 |

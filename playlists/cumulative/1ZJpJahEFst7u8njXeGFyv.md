@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-1,014 songs - 2 day 13 hr 10 min
+1,015 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Aria](https://open.spotify.com/track/6fQHaEEKl62kDACs5yzsik) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Peter Serkin](https://open.spotify.com/artist/34FzW8HqwYuLmThOltysBu) | [Relaxing Classics](https://open.spotify.com/album/15ySNjCbDjE89Xq7gl9l7f) | 2:10 | 2022-09-25 | 2023-01-04 |
 | [Arise, Shine](https://open.spotify.com/track/29waj25GhGjyIFzde8kxZW) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP), [The Chapel Choir of Pembroke College, Cambridge](https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35), [Sophia Membery](https://open.spotify.com/artist/4HZTH0hcr5ioXuYK8d39G2) | [Arise, Shine](https://open.spotify.com/album/1zl9pQZn5Fd12UWQdyqxX4) | 4:19 | 2026-01-23 |  |
 | [At Last](https://open.spotify.com/track/0mH9l3C0C3WTV4AhusmsMy) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 2:50 | 2023-10-24 | 2026-04-25 |
+| [Auf dem Wasser zu singen, Op\. 72, D\. 774 \(Transcr\. for Piano by Franz Liszt, S\. 558, No\. 2\)](https://open.spotify.com/track/6QSsLpjd2IHFXCFJ69CbpD) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Lukas Sternath](https://open.spotify.com/artist/6Su1aZ1nDd9OSagY9j3Zsx) | [Auf dem Wasser zu singen, Op\. 72, D\. 774 \(Transcr\. for Piano by Franz Liszt, S\. 558, No\. 2\)](https://open.spotify.com/album/3jkiViYzZeoR6d2JSbUfMR) | 4:30 | 2026-09-04 |  |
 | [Aurora](https://open.spotify.com/track/5qeCr2mV1zZLJPN9egykyW) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Aurora](https://open.spotify.com/album/1N4QqNY0cGWUzIunHfk8qv) | 2:50 | 2025-10-17 | 2025-11-29 |
 | [Aurora \- Upright Piano Version](https://open.spotify.com/track/0lBPqu8JRUgVcewtIdRwP2) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Aurora \(Upright Piano Version\)](https://open.spotify.com/album/4vtjL4P4CdAELHAAOvta7w) | 1:59 | 2025-07-11 | 2026-05-28 |
 | [Avant la suite](https://open.spotify.com/track/0ZEQiY8Hdz3GzheX22C9Bh) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Avant la suite](https://open.spotify.com/album/0TdulPsHLP3fq97XGbnyE0) | 3:37 | 2026-04-24 |  |

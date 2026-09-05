@@ -233,6 +233,28 @@
     },
     {
       "album": {
+        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+        "url": "https://open.spotify.com/album/7Kh3oWBXclTJftycEMj0ae"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+      "url": "https://open.spotify.com/track/1OaQjzWeSvEswHJ5JkP9S3"
+    },
+    {
+      "album": {
         "name": "Rachmaninoff: Complete Solo Piano Music",
         "url": "https://open.spotify.com/album/3j60GFZYHcaCMpmIFjoFuc"
       },
@@ -756,6 +778,28 @@
       "duration_ms": 270560,
       "name": "Cello Sonata in D Major, Op. 17: II. Andante tranquillo",
       "url": "https://open.spotify.com/track/4OOTZjgz2fAusb6S1Qch2G"
+    },
+    {
+      "album": {
+        "name": "Chopin & Faur\u00e9",
+        "url": "https://open.spotify.com/album/0dtjK2FAnLff5HRUoAYaiD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Saehyun Kim",
+          "url": "https://open.spotify.com/artist/1JiZGgjMlMtfpKeSgMN7YQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Chopin: 12 \u00c9tudes, Op. 25: No. 12 in C Minor",
+      "url": "https://open.spotify.com/track/4Uzda9HprcrBtvU1yyHVJE"
     },
     {
       "album": {

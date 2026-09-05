@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Bolden.",
+  "description": "The best jazz new releases. Cover: Liana Flores",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 422533,
       "name": "Akshay",
       "url": "https://open.spotify.com/track/5QdQkKe4i62RftaExcQWvW"
@@ -4385,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "Days Begin To Sing",
+        "url": "https://open.spotify.com/album/02Wod8VLumZiz6Qlr1vynH"
+      },
+      "artists": [
+        {
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
+        },
+        {
+          "name": "Omagugu",
+          "url": "https://open.spotify.com/artist/3fOgc0hcEUZjOuhvGEise4"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Days Begin To Sing",
+      "url": "https://open.spotify.com/track/28UYnzAaPLrglxCtr1tGrg"
+    },
+    {
+      "album": {
         "name": "Days Of Us",
         "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
       },
@@ -4498,6 +4520,28 @@
       "duration_ms": 336440,
       "name": "Dear Lord",
       "url": "https://open.spotify.com/track/4kv4y1ksmfSfdMcJkZvLtd"
+    },
+    {
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/1y04S5ec1zBL2lG7bjfhP4"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381007,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/6jBnz1u9XVFmGrcaaPduYm"
     },
     {
       "album": {
@@ -5126,7 +5170,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 301230,
       "name": "Dulce",
       "url": "https://open.spotify.com/track/7jREIuWmgV1bPOvxeRTADF"
@@ -6110,7 +6154,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 229321,
       "name": "Finders",
       "url": "https://open.spotify.com/track/26S1rmY8cE3P6ZaWCNuMzg"
@@ -8130,7 +8174,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
       "url": "https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g"
@@ -9473,6 +9517,24 @@
     },
     {
       "album": {
+        "name": "Just a Little Lovin'",
+        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289670,
+      "name": "Just a Little Lovin\u2019",
+      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
+    },
+    {
+      "album": {
         "name": "Just Believe",
         "url": "https://open.spotify.com/album/3WiKABuiG4cH2pkY5t41oa"
       },
@@ -10494,7 +10556,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 266320,
       "name": "Les Vacances",
       "url": "https://open.spotify.com/track/3ewE2BwxUcuzT2ctZdSbMJ"
@@ -11282,6 +11344,28 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "album": {
+        "name": "low tide",
+        "url": "https://open.spotify.com/album/2b0h55zXL8PLxIOUyclFME"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "Prince Lao",
+          "url": "https://open.spotify.com/artist/5JzG8nk7bQwC59bs5zuBmP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "low tide",
+      "url": "https://open.spotify.com/track/6OmMKDDtWtRQDqt6ZdjHZB"
     },
     {
       "album": {
@@ -16615,6 +16699,24 @@
     },
     {
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1nYIPgv2msxabdgHygNxSk"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335880,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/5ZTNlVn4KXDdO9PPgYDvqL"
+    },
+    {
+      "album": {
         "name": "D Day",
         "url": "https://open.spotify.com/album/5jiKkzg09f3YoQq5ewYSR8"
       },
@@ -16644,10 +16746,28 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 156340,
       "name": "So it goes",
       "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "album": {
+        "name": "And so it goes...",
+        "url": "https://open.spotify.com/album/2mSpwTBIVyUPFnGJ2yKME5"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180913,
+      "name": "So mysterious",
+      "url": "https://open.spotify.com/track/6N1eCaZR3zb05tLtD09M2c"
     },
     {
       "album": {
@@ -20007,6 +20127,24 @@
     },
     {
       "album": {
+        "name": "Art Is Simple",
+        "url": "https://open.spotify.com/album/38WvHt6oMBvFBAJrD4PhB3"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267586,
+      "name": "Une ligne",
+      "url": "https://open.spotify.com/track/4ltGjmraUL5LVtG17mvtvg"
+    },
+    {
+      "album": {
         "name": "Une Seule Etoile",
         "url": "https://open.spotify.com/album/30zOeBi8oIWyMvoMMuffVz"
       },
@@ -21604,7 +21742,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 212066,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/0KuRnOc37nAmoW0JYdStGY"

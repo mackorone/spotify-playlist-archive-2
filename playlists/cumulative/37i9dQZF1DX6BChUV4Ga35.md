@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-144 songs - 5 hr 4 min
+145 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Sleeping Bunnies](https://open.spotify.com/track/6csM46iNHpUJYhLnq6iua1) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hop Little Bunnies! Happy Easter Nursery Rhymes](https://open.spotify.com/album/4l8ubVl3ZuL18cIC4qgF7L) | 1:44 | 2022-07-25 | 2022-11-13 |
 | [Snakes](https://open.spotify.com/track/3v5Brc1Dhx1Kq7bpLIOhJy) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap 6](https://open.spotify.com/album/7tZGyOMUj6xQX8J78zuU2t) | 2:49 | 2022-02-01 |  |
 | [Something 'Bout This Duck](https://open.spotify.com/track/3NxDQZ1rkiNX0zqg8kvQPo) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:47 | 2022-02-01 |  |
-| [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2022-02-01 |  |
+| [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2022-02-01 | 2026-09-05 |
 | [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 |  |
 | [Spider Monkey](https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:02 | 2022-07-25 | 2024-04-19 |
 | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/track/2HRupRvr6BY4wswlwqLnZK) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv) | 2:06 | 2024-05-31 |  |
@@ -143,6 +143,7 @@
 | [This Little Piggy](https://open.spotify.com/track/6eIAL4vyNV85bS2ibvcBd7) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT) | 1:37 | 2022-02-01 |  |
 | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/track/4oEVDEWT1NhOY1eroalRWq) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Walking in the Jungle \(Noodle & Pals\)](https://open.spotify.com/album/38aF5dFMx6IWGMcLVLu59D) | 3:17 | 2024-03-15 |  |
 | [Watching the Ponies](https://open.spotify.com/track/4x6TgA12lMOzcMK9klfQze) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Wiggle Up, Giddy Up!](https://open.spotify.com/album/3KGtEQo5N3kxOWgWDrLHjP) | 1:02 | 2025-03-07 |  |
+| [What Animal Can You See?](https://open.spotify.com/track/2SG8cRNWCYUXkTwDx1bs5i) | [Lah\-Lah](https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm) | [What Animal Can You See?](https://open.spotify.com/album/7LY7LaicvpQbyYtfD9Bhmi) | 3:13 | 2026-09-04 |  |
 | [What Do You Hear?](https://open.spotify.com/track/4bzPmmlCWmyltVft0vxHfc) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Do You Hear?](https://open.spotify.com/album/6tGcGYE47Vrvpaffpd3kj8) | 3:01 | 2026-02-20 | 2026-04-11 |
 | [What Is a Bird?](https://open.spotify.com/track/619VhpdmxCBHpolXyJbyCw) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/6SCnHCUmOHe77UlUouWyrO) | 1:57 | 2022-02-01 |  |
 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 | 2022-07-25 | 2024-04-19 |

@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "I've Never Felt So Hated",
+        "url": "https://open.spotify.com/album/0ME1Bbej2WzlHNY5jx9acx"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196596,
+      "name": "I've Never Felt So Hated",
+      "url": "https://open.spotify.com/track/1uoF9slbLRJpK71X0BU39G"
+    },
+    {
+      "album": {
         "name": "If I Could",
         "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
       },
@@ -5530,7 +5548,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 202048,
       "name": "New York, Let's Do Nothing",
       "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"

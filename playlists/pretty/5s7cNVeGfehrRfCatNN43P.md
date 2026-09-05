@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Popjustice's new release playlist updated on Fridays for over a decade with one rule: best song at the top\. Here are 500\-ish songs of the week from the first ten years of New Music Friday.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,638 likes - 509 songs - 1 day 4 hr 50 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,637 likes - 509 songs - 1 day 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 282 | [Lady Powers](https://open.spotify.com/track/0brM44JpkvWTu3XREyokHF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/0YneCKu6aJCtBSkP9f8rrK) | 2:53 |
 | 283 | [Lady Powers](https://open.spotify.com/track/16CwBVK9HgxaCdoaFzPVAz) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Lady Powers](https://open.spotify.com/album/69gzICqgGHJdnL3k3EAp0x) | 3:12 |
 | 284 | [Kissing Strangers](https://open.spotify.com/track/2YMyVYNLmFDD0KGtNkkgFa) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/06gn37D7SVYKofXqDneiTp) | 3:22 |
-| 285 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
+| 285 | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Kings & Queens, Pt\. 2 \(feat\. Lauv & Saweetie\)](https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf) | 2:55 |
 | 286 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
 | 287 | [Kids](https://open.spotify.com/track/1FMLd0ANP4dWhyTORMy298) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Kids](https://open.spotify.com/album/0CGWJLKFpxtR7XQmVawyBh) | 4:00 |
 | 288 | [Kicks](https://open.spotify.com/track/7amolw6J7RGQrg6mJXvuMA) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Kicks](https://open.spotify.com/album/4AakiUa8wDAnC2ehmtQxmM) | 3:36 |

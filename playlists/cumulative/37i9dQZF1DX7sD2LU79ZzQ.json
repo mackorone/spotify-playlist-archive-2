@@ -1119,6 +1119,24 @@
     },
     {
       "album": {
+        "name": "Merindu",
+        "url": "https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ"
+      },
+      "artists": [
+        {
+          "name": "Ruth Sahanaya",
+          "url": "https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Aku Merindu",
+      "url": "https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU"
+    },
+    {
+      "album": {
         "name": "Aku MerinduMu (Ya Allah)",
         "url": "https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko"
       },
@@ -31984,24 +32002,6 @@
       "duration_ms": 256521,
       "name": "Torang Indonesia",
       "url": "https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv"
-    },
-    {
-      "album": {
-        "name": "Merindu",
-        "url": "https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ"
-      },
-      "artists": [
-        {
-          "name": "Ruth Sahanaya",
-          "url": "https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz"
-        }
-      ],
-      "date_added": "2026-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU"
     },
     {
       "album": {

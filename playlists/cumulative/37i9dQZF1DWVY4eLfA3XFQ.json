@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc8b Tech house operators, featuring SIDEPIECE",
+  "description": "50% techno, 50% house \ud83d\udd2a\ud83d\udd2a Tech house operators, featuring IDEMI",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -444,6 +444,24 @@
       "duration_ms": 128307,
       "name": "4 The Trouble",
       "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
+    },
+    {
+      "album": {
+        "name": "4 UR SOUL",
+        "url": "https://open.spotify.com/album/0ea5r83Ioa1OVvWBZ1kRYh"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "4 UR SOUL",
+      "url": "https://open.spotify.com/track/0diCZ8ZsO4feipBk5zONGf"
     },
     {
       "album": {
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193846,
       "name": "Big Drip",
       "url": "https://open.spotify.com/track/4U6jMew9hqeATIwK0Qmktm"
@@ -7593,6 +7611,40 @@
     },
     {
       "album": {
+        "name": "Brota no Meu Setor",
+        "url": "https://open.spotify.com/album/66xnrJM1wHW8JO3KtyRmR9"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "DJ Petroski",
+          "url": "https://open.spotify.com/artist/2ibOTUqkFFeIYei7my6n6A"
+        },
+        {
+          "name": "DJ Zig\u00e3o",
+          "url": "https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy"
+        },
+        {
+          "name": "FP do Trem Bala",
+          "url": "https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Brota no Meu Setor",
+      "url": "https://open.spotify.com/track/3q2tmliJBb66a0U0FXpIHp"
+    },
+    {
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/2kNiIFSNAvmvA3QJezpbhs"
       },
@@ -8706,7 +8758,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 193846,
       "name": "Can't Say Nah (feat. Benni Ola)",
       "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
@@ -11242,7 +11294,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 174375,
       "name": "Crazy Dream",
       "url": "https://open.spotify.com/track/371GFNvEcw8nGblC56ED2G"
@@ -14396,7 +14448,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 150230,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/2Mqcu9xNwpoSHQAdTJmvAU"
@@ -23614,7 +23666,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180000,
       "name": "HighRoller",
       "url": "https://open.spotify.com/track/5HQT0kKcKSJCk9iMLmb010"
@@ -27773,6 +27825,24 @@
     },
     {
       "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+    },
+    {
+      "album": {
         "name": "Just Feels Tight",
         "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },
@@ -31684,6 +31754,28 @@
       "duration_ms": 184259,
       "name": "Lose My Number",
       "url": "https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR"
+    },
+    {
+      "album": {
+        "name": "Lose Your Mind",
+        "url": "https://open.spotify.com/album/3Q0lb1M974yuC7dFaxvkhb"
+      },
+      "artists": [
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "Sorry Not Jomari",
+          "url": "https://open.spotify.com/artist/68j4bAKZIedRa7MVIeeAyz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "Lose Your Mind",
+      "url": "https://open.spotify.com/track/227IICPII4mKTat2r2cPsG"
     },
     {
       "album": {
@@ -40226,7 +40318,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 174374,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/2jiDDOAnHUcF9OeXzUbpPv"
@@ -41979,6 +42071,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/6Q4LuSj6IXVeb04nPV2fet"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/0uPV8YMnJytNJPrxjkSa4m"
+    },
+    {
+      "album": {
         "name": "Pra Nao Dizer",
         "url": "https://open.spotify.com/album/4T90MAy1ApB3LyatLqTqAc"
       },
@@ -42162,6 +42272,28 @@
       "duration_ms": 197648,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5Qb6BbM9zkHXg3X7OCXzbb"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4AMiTH47x7mfHDK9kktZ5G"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "ZARO",
+          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205476,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0RWYzt8kP2N12SxqbyIHPC"
     },
     {
       "album": {
@@ -45658,7 +45790,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 196377,
       "name": "Sans Stress",
       "url": "https://open.spotify.com/track/6F1yOSkpwMwbkI2SeFiJEI"
@@ -53934,6 +54066,24 @@
       "duration_ms": 138625,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3aBnAalGNegmCOS1LIdSIc"
+    },
+    {
+      "album": {
+        "name": "THE MOB / Seamless",
+        "url": "https://open.spotify.com/album/4ZplKVemkCr0b7Hh2aujSo"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "THE MOB",
+      "url": "https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: For Revenge, YB, Tepe
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,413 likes - 110 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,406 likes - 110 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 4 | [Pertiwi](https://open.spotify.com/track/0qaWprziAgg0suOirB3KEd) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Pertiwi](https://open.spotify.com/album/3qYQ3T1B1kMHWvMeRtH25S) | 3:48 |
 | 5 | [Tentangmu, Tenangku \- From "Ibu, Bagaimana Aku Tanpamu?"](https://open.spotify.com/track/50KLVKPseJNmSnwIDg7bES) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Tentangmu, Tenangku \(From "Ibu, Bagaimana Aku Tanpamu?"\)](https://open.spotify.com/album/2WLVGuGrm7OCH4DXAROCSd) | 5:25 |
 | 6 | [Semoga Nanti](https://open.spotify.com/track/0RSKTd73kcQVe0smlDO8cS) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Dan Ternyata Aku Cukup](https://open.spotify.com/album/04rABPREg1mVy6QvWubST3) | 3:32 |
-| 7 | [Track 1](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 0:00 |
+| 7 | [Aku Merindu](https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU) | [Ruth Sahanaya](https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz) | [Merindu](https://open.spotify.com/album/4W5s3ZHtAhHiBThV3DTpcQ) | 2:44 |
 | 8 | [Terpesona](https://open.spotify.com/track/1iRDtYqkXpKfo5X0bXzWa2) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Josh Flo](https://open.spotify.com/artist/1N9oae6JjWPiMYrbhDpIdw) | [Terpesona](https://open.spotify.com/album/6EIeAiwGskDBWBQGy7PZIr) | 4:27 |
 | 9 | [Reservasi Untuk Dua](https://open.spotify.com/track/7KkycouTGBRhpSle5hPXyA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Laika, Yang Ditinggalkan](https://open.spotify.com/album/2YnDdq86RHVb2CvkS2qHxA) | 4:19 |
 | 10 | [...dan berpesta](https://open.spotify.com/track/0n77r1eNDkSSpNE32xvhbJ) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [...dan berpesta](https://open.spotify.com/album/5qc8i560sWUyhRPrEX7Mo0) | 3:53 |

@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Kirk Franklin
 
-839 songs - 2 day 23 hr 54 min
+840 songs - 3 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 | 2022-02-18 | 2022-08-13 |
 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 | 2022-02-25 | 2022-04-09 |
 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 | 2023-11-03 | 2024-03-23 |
-| [Gracefully Broken/Who The Son Sets Free](https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Gracefully Broken / Who The Son Sets Free](https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm) | 5:58 | 2026-08-07 |  |
+| [Gracefully Broken/Who The Son Sets Free](https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Gracefully Broken / Who The Son Sets Free](https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm) | 5:58 | 2026-08-07 | 2026-09-05 |
 | [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 | 2024-11-29 | 2025-08-09 |
 | [Grateful](https://open.spotify.com/track/7eb7nSuU857g6I0BaTobzz) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Grateful](https://open.spotify.com/album/6Fh8l7FYm4ao0tFYJ9X3R9) | 5:34 | 2025-06-13 | 2025-11-29 |
 | [Grateful](https://open.spotify.com/track/0RamNJ3yMsYouJLTFBCgX5) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Grateful](https://open.spotify.com/album/5R7bp4VDiSkXWd7BfW1BiW) | 4:13 | 2024-07-05 | 2025-02-01 |
@@ -828,6 +828,7 @@
 | [You Carried Me \- Jekalyn's Version](https://open.spotify.com/track/2q6utlOBBdiOMZ4TcQ1CRj) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [JEKALYN](https://open.spotify.com/album/4juJvUDtZiY996RJKlIxrK) | 5:03 | 2023-10-20 | 2025-03-15 |
 | [You Deserve It \(feat\. Cecily\)](https://open.spotify.com/track/1tg1ZOxKsEb9z4lVlZnZX3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Reminder \(feat\. Deon Kipping\) / You Deserve It \(feat\. Cecily\)](https://open.spotify.com/album/6mvkpq8gQ8DOKBjXQKHWlh) | 8:30 | 2023-03-17 | 2023-04-01 |
 | [You Kept Me](https://open.spotify.com/track/5ax8IDf487EyohGC8v1oF7) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Kept Me](https://open.spotify.com/album/2CpcvaCDxcQ31XAP3zP5VD) | 5:19 | 2022-05-06 | 2022-06-11 |
+| [You Know My Name](https://open.spotify.com/track/6RhbpIePM17MPqCqDAtOrS) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [You Know My Name](https://open.spotify.com/album/5fuP4rcGPYJZFGeRhgUods) | 8:41 | 2026-09-04 |  |
 | [You Remain \(feat\. Chandler Moore\)](https://open.spotify.com/track/09JZLlHLGMl0QnaVDqW7Eg) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Encounter](https://open.spotify.com/album/71LAwwrE9j6BamiEqWT4B2) | 10:07 | 2022-10-14 | 2023-09-09 |
 | [You Surround \- Live](https://open.spotify.com/track/3AAVe0VCll3cxytUkm3znV) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [You Surround](https://open.spotify.com/album/2i3gWt2j7kJH3XR12cDbbQ) | 7:45 | 2024-02-02 | 2025-03-29 |
 | [You Were There](https://open.spotify.com/track/7pA42zUyLZx6G2Pp0buki2) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Through It All](https://open.spotify.com/album/4CqlfHgGjOcLFuWMDRz52r) | 4:13 | 2026-05-01 |  |

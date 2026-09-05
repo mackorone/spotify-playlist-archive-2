@@ -4053,36 +4053,6 @@
     },
     {
       "album": {
-        "name": "Moana (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Moses Mackay",
-          "url": "https://open.spotify.com/artist/1lF8blXmEp51nJVQx2Exb8"
-        },
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
-        }
-      ],
-      "date_added": "2026-06-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140933,
-      "name": "We Know The Way",
-      "url": "https://open.spotify.com/track/4QhEpsyfMhxZzmnwi2L1Oy"
-    },
-    {
-      "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
       },
@@ -4106,6 +4076,36 @@
       "duration_ms": 141413,
       "name": "We Know The Way",
       "url": "https://open.spotify.com/track/6YH2r9NyEJTjlRmKOCvxgJ"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        },
+        {
+          "name": "Moses Mackay",
+          "url": "https://open.spotify.com/artist/1lF8blXmEp51nJVQx2Exb8"
+        },
+        {
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140933,
+      "name": "We Know The Way",
+      "url": "https://open.spotify.com/track/4QhEpsyfMhxZzmnwi2L1Oy"
     },
     {
       "album": {

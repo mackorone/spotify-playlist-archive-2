@@ -1993,6 +1993,28 @@
     },
     {
       "album": {
+        "name": "Auf dem Wasser zu singen, Op. 72, D. 774 (Transcr. for Piano by Franz Liszt, S. 558, No. 2)",
+        "url": "https://open.spotify.com/album/3jkiViYzZeoR6d2JSbUfMR"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Lukas Sternath",
+          "url": "https://open.spotify.com/artist/6Su1aZ1nDd9OSagY9j3Zsx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "Auf dem Wasser zu singen, Op. 72, D. 774 (Transcr. for Piano by Franz Liszt, S. 558, No. 2)",
+      "url": "https://open.spotify.com/track/6QSsLpjd2IHFXCFJ69CbpD"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/1N4QqNY0cGWUzIunHfk8qv"
       },

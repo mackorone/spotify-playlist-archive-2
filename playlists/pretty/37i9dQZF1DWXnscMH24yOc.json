@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 524901,
+  "num_followers": 524916,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "How Deep is Your Love",
         "url": "https://open.spotify.com/album/7jmDqZ9yhnSk3HbcRtTudK"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 218285,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1HIj1pIcx7lLPojZwl621A"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Prime - EP",
-        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nothing's Gonna Hurt You Baby (From \"Promising Young Woman\" Soundtrack)",
         "url": "https://open.spotify.com/album/60H1ATlKVSVErAcZtr9rkY"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 197864,
       "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack",
       "url": "https://open.spotify.com/track/0DNJCBqcgQaBndHYHbx57y"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In Your Prime - EP",
+        "url": "https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX"
+      },
+      "artists": [
+        {
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Every Breath You Take (Re:Imagined)",
-        "url": "https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN"
-      },
-      "artists": [
-        {
-          "name": "Denmark + Winter",
-          "url": "https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Every Breath You Take (Re:Imagined)",
-      "url": "https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "In Your Eyes (Acoustic)",
         "url": "https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq"
+        "name": "Every Breath You Take (Re:Imagined)",
+        "url": "https://open.spotify.com/album/3SwpbUHJxGoZQnUCtBltcN"
       },
       "artists": [
         {
-          "name": "Lia Rose",
-          "url": "https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0"
+          "name": "Denmark + Winter",
+          "url": "https://open.spotify.com/artist/3iieFb3WOWJ8tW57Gixt8y"
         }
       ],
-      "duration_ms": 208345,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/5idADky7mHihopJGObd4hf"
+      "duration_ms": 222222,
+      "name": "Every Breath You Take (Re:Imagined)",
+      "url": "https://open.spotify.com/track/1sz0fuWEAcPkCfG5o7D9KP"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -755,6 +739,22 @@
       "duration_ms": 227276,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/5bwhlXoiRJorQ0bCavednq"
+      },
+      "artists": [
+        {
+          "name": "Lia Rose",
+          "url": "https://open.spotify.com/artist/5c1Ag67oqsK5rOUtOmK9J0"
+        }
+      ],
+      "duration_ms": 208345,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/5idADky7mHihopJGObd4hf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Friday I'm in Love",
+        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
+      },
+      "artists": [
+        {
+          "name": "Oselie",
+          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
+        }
+      ],
+      "duration_ms": 173475,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 211626,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Friday I'm in Love",
-        "url": "https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA"
-      },
-      "artists": [
-        {
-          "name": "Oselie",
-          "url": "https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ"
-        }
-      ],
-      "duration_ms": 173475,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In The Aeroplane Over The Sea",
-        "url": "https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "In The Aeroplane Over The Sea",
-      "url": "https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Blank Space",
         "url": "https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 245053,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In The Aeroplane Over The Sea",
+        "url": "https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "In The Aeroplane Over The Sea",
+      "url": "https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Savior Complex",
-        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 232493,
-      "name": "Savior Complex",
-      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Kuhzoo",
         "url": "https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 173906,
       "name": "Like Spinning Plates",
       "url": "https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Savior Complex",
+        "url": "https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "duration_ms": 232493,
+      "name": "Savior Complex",
+      "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Final Song",
-        "url": "https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk"
-      },
-      "artists": [
-        {
-          "name": "Wendy Lucas",
-          "url": "https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a"
-        },
-        {
-          "name": "Jesse Justin",
-          "url": "https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm"
-        }
-      ],
-      "duration_ms": 141212,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "High By The Beach.",
         "url": "https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 249736,
       "name": "Hope She'll Be Happier - Spotify Singles",
       "url": "https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Final Song",
+        "url": "https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk"
+      },
+      "artists": [
+        {
+          "name": "Wendy Lucas",
+          "url": "https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a"
+        },
+        {
+          "name": "Jesse Justin",
+          "url": "https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm"
+        }
+      ],
+      "duration_ms": 141212,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+        "name": "Rebox",
+        "url": "https://open.spotify.com/album/3EDsEmujCvWc5ZzUIR17Ss"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
         }
       ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+      "duration_ms": 153266,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/1SZ63wN0pk18Dr4Epyhcsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1611,50 +1611,50 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Ode to My Family",
-        "url": "https://open.spotify.com/album/7uB4KcsGTHl0whmCwKOBl5"
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
       },
       "artists": [
         {
-          "name": "Radical Face",
-          "url": "https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 272001,
-      "name": "Ode to My Family",
-      "url": "https://open.spotify.com/track/7aVmUCeBxzfyqqKwFyrYux"
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Blue Film",
-        "url": "https://open.spotify.com/album/66BEZ127VgaQbxxRJijFZg"
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/4375fZFM49wOvF4BvU1jfv"
       },
       "artists": [
         {
-          "name": "Lo-Fang",
-          "url": "https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 204706,
-      "name": "You're The One That I Want",
-      "url": "https://open.spotify.com/track/1dEHQktvcM8vCCyI1x7yVB"
+      "duration_ms": 165309,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
     },
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Avant Gardener",
-        "url": "https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa"
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/2qxHbPkJbXIGlC940RWehf"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
         }
       ],
-      "duration_ms": 259749,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur"
+      "duration_ms": 246573,
+      "name": "Bullet Proof.. I Wish I Was",
+      "url": "https://open.spotify.com/track/1bV4e4r8bcKNP3KSLNEG1S"
     }
   ],
   "unique_name": "Chill Covers",

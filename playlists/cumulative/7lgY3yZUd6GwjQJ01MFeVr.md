@@ -2,9 +2,9 @@
 
 ### [Top Country Hits](https://open.spotify.com/playlist/7lgY3yZUd6GwjQJ01MFeVr)
 
-> Today's top country music! Cover: Cameron Whitcomb
+> Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-322 songs - 17 hr 13 min
+323 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2024-01-26 | 2025-03-20 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-19 | 2026-05-05 |
 | [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 | 2025-09-13 | 2025-11-18 |
+| [The Joker](https://open.spotify.com/track/7kuB0axEoke7a3VxPlye6s) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [The Joker](https://open.spotify.com/album/6sd9n4Olql9SvAGGx18Uvj) | 3:29 | 2026-09-04 |  |
 | [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-04-07 |  |
 | [The Old Guys](https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Young](https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX) | 3:13 | 2026-08-21 |  |
 | [The Painter](https://open.spotify.com/track/5DQU4Fmdx7Hs7pwtcZMSTK) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:31 | 2024-01-26 | 2026-05-05 |

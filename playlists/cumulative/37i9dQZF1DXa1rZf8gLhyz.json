@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 167200,
       "name": "A song for always",
       "url": "https://open.spotify.com/track/78EvJphoG9nEY8GP5pwTEX"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 139733,
       "name": "After midnight fades",
       "url": "https://open.spotify.com/track/3LpsKaxUHC5PvLBRJzctuq"
@@ -1762,7 +1762,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 152766,
       "name": "Before the Candle Burns Out",
       "url": "https://open.spotify.com/track/5QZSyoye8o5tEV29AdCj4h"
@@ -2072,6 +2072,24 @@
       "duration_ms": 156208,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/0oLNhSMVdZalsr7xuCVTdI"
+    },
+    {
+      "album": {
+        "name": "Blue Silence",
+        "url": "https://open.spotify.com/album/17xQRf0dL4g1x1kLSVnH07"
+      },
+      "artists": [
+        {
+          "name": "Henriette Martin",
+          "url": "https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Blue Silence",
+      "url": "https://open.spotify.com/track/0295FJTxkUdnpDeAAewFOG"
     },
     {
       "album": {
@@ -5200,7 +5218,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 149066,
       "name": "Held in suspension",
       "url": "https://open.spotify.com/track/3FvvjXdwnO03VfDgJUv0HV"
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 152300,
       "name": "I've got that on vinyl",
       "url": "https://open.spotify.com/track/3NlUoqkRaFJLJ3d1fUqx7L"
@@ -6896,6 +6914,24 @@
       "duration_ms": 175221,
       "name": "It's a Rose",
       "url": "https://open.spotify.com/track/31ZPwsxaX8ytpdlv3vaKzB"
+    },
+    {
+      "album": {
+        "name": "It's All Made Up",
+        "url": "https://open.spotify.com/album/2DmcZpkKuHZDeatMNoVcM6"
+      },
+      "artists": [
+        {
+          "name": "Estralogic",
+          "url": "https://open.spotify.com/artist/2dUNXGoOnNW3Zk6d7dzkJA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "It's All Made Up",
+      "url": "https://open.spotify.com/track/0Ht5oxC3pWteYBXCdLhSwd"
     },
     {
       "album": {
@@ -9023,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "My Song For You",
+        "url": "https://open.spotify.com/album/1k1lxc5Z6fnORNWyTWFJWZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Colin Peterson",
+          "url": "https://open.spotify.com/artist/7ErYC9A5R0d0CLaTZkMIXt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141570,
+      "name": "My Song For You",
+      "url": "https://open.spotify.com/track/1O3hnQx0Pe2gdupIFtZSdD"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/6Vq1GuiSwp1Sat5cCajS94"
       },
@@ -9275,6 +9329,24 @@
     },
     {
       "album": {
+        "name": "Night Letters",
+        "url": "https://open.spotify.com/album/6efIG2eK0GIjruVjXG4jiS"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158233,
+      "name": "Night Letters",
+      "url": "https://open.spotify.com/track/5xHil2thv4x5C8oYJcXtdd"
+    },
+    {
+      "album": {
         "name": "Night Mood",
         "url": "https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF"
       },
@@ -9308,6 +9380,42 @@
       "duration_ms": 174792,
       "name": "Night Stroll",
       "url": "https://open.spotify.com/track/6835Z1Y2e7HMzO7A3gkmuh"
+    },
+    {
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/2Ma3MBuDmYoOG47PbKSRcH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Pichon",
+          "url": "https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130057,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/69iPWotY4ywwSZKjrRHvaM"
+    },
+    {
+      "album": {
+        "name": "Night Treasures",
+        "url": "https://open.spotify.com/album/3Agc9KBY4etgNMP2JVl2Bh"
+      },
+      "artists": [
+        {
+          "name": "Nouri",
+          "url": "https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145023,
+      "name": "Night Treasures",
+      "url": "https://open.spotify.com/track/4obimW3tEIq9VyZPu9H49X"
     },
     {
       "album": {
@@ -10474,7 +10582,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 151866,
       "name": "Quiet Motion",
       "url": "https://open.spotify.com/track/65fRG4DT8wDjZMW5SQO4QI"
@@ -11385,6 +11493,24 @@
     },
     {
       "album": {
+        "name": "Slow Horizon",
+        "url": "https://open.spotify.com/album/4DYMytXdMrGiOVuS6nCrvg"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Slow Horizon",
+      "url": "https://open.spotify.com/track/4qBNl2JfB1saBRuTZOVX26"
+    },
+    {
+      "album": {
         "name": "Slow Turning North",
         "url": "https://open.spotify.com/album/3hDYGSjd77lcpm6LEzsv3I"
       },
@@ -12098,7 +12224,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 161633,
       "name": "Stay Calm",
       "url": "https://open.spotify.com/track/2rVXzu43QCjvLbEf1Ef33A"
@@ -12854,7 +12980,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 143548,
       "name": "The door to one\u2019s heart",
       "url": "https://open.spotify.com/track/0sJOcSucChfY7tIAjeHGMc"
@@ -13502,7 +13628,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 159533,
       "name": "The Soft Collapse",
       "url": "https://open.spotify.com/track/63bhBWE7hN69E83iHNTdZc"
@@ -13970,7 +14096,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 142733,
       "name": "Through the Still Air",
       "url": "https://open.spotify.com/track/3NMJok6Kkd557gJf0nfNu4"
@@ -14604,6 +14730,24 @@
       "duration_ms": 120778,
       "name": "Waltzing Away with You",
       "url": "https://open.spotify.com/track/1rBGjTx1BBBZcCcmvqsIPj"
+    },
+    {
+      "album": {
+        "name": "Waypoint",
+        "url": "https://open.spotify.com/album/6kGoiZxa83JkrZAFVu8dS6"
+      },
+      "artists": [
+        {
+          "name": "Vera Nightingale",
+          "url": "https://open.spotify.com/artist/6dgvfOxu8nivAN0pQPLeEo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "Waypoint",
+      "url": "https://open.spotify.com/track/0CB7B5LapESDVOKmJzrT0u"
     },
     {
       "album": {

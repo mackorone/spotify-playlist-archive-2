@@ -4,7 +4,7 @@
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨
 
-294 songs - 16 hr 32 min
+298 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 | 2025-07-18 | 2025-09-13 |
 | [Forest Hills](https://open.spotify.com/track/7aeexgGieEGhvIg7Bm0Bra) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [Forest Hills](https://open.spotify.com/album/0w8cg1jEpgA7cANU4qW6ov) | 3:18 | 2025-11-21 | 2026-01-17 |
 | [Forward Motion](https://open.spotify.com/track/4GoDpEcYUUdwC0J7cBkZiw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Ron Cha](https://open.spotify.com/artist/4VmfJId5FAnW2l20SUpUNi), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Forward Motion](https://open.spotify.com/album/4es22B851qcaM083Xvec5q) | 2:12 | 2026-03-13 |  |
+| [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 | 2026-09-04 |  |
 | [Game Over Jazz](https://open.spotify.com/track/1bWEoUlX1fogQ4xy0TveOT) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Beat Tape III](https://open.spotify.com/album/6bhdbUuEQ9GEmnFrtwmO9w) | 1:30 | 2025-09-19 | 2025-09-27 |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2025-07-18 | 2025-09-06 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 | 2025-07-18 | 2025-08-30 |
@@ -122,6 +123,7 @@
 | [Hush \(baby\)](https://open.spotify.com/track/6l2y7qexA2OpXeveevT3Ej) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Hush \(baby\)](https://open.spotify.com/album/1mI4bjW8iRFSAjzhQnBl3q) | 3:09 | 2025-07-18 | 2026-02-28 |
 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-08-14 |  |
 | [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:33 | 2026-02-06 |  |
+| [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 | 2026-09-04 |  |
 | [Iedereen Verandert](https://open.spotify.com/track/7b7Ujxj4feKmvG8Qz7aLao) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Iedereen Verandert](https://open.spotify.com/album/2REOlYJEBvz1D4qTbUTTQc) | 2:51 | 2025-07-18 | 2025-11-29 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2026-02-06 |  |
 | [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/track/6lWo19d95E0Ha9bgZIZ2zA) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [If You Love Her \(feat\. Christina Perri\)](https://open.spotify.com/album/5n37xMf8Czh0pyFy28QAYC) | 3:37 | 2025-10-03 | 2026-02-07 |
@@ -188,6 +190,7 @@
 | [Once In A Blue Moon](https://open.spotify.com/track/3nlJUUkiwlRrLNsI31yGl7) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Once In A Blue Moon](https://open.spotify.com/album/32zsXe3xy546PHhgMpGgYw) | 3:06 | 2025-12-19 |  |
 | [One Day](https://open.spotify.com/track/16rVMhdt2dOn8Zj486DAS8) | [Lotte Walda](https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6) | [One Day](https://open.spotify.com/album/1qcBuQfVNCJTE6nI6ETCkz) | 2:50 | 2025-07-18 | 2025-08-23 |
 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 | 2025-07-18 |  |
+| [One Last Dance](https://open.spotify.com/track/2hFJkTkYuul6obJwUakb0v) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 3:28 | 2026-09-04 |  |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2026-05-27 |  |
 | [orange tree](https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.2](https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI) | 3:17 | 2025-07-18 | 2025-10-11 |
 | [Ori](https://open.spotify.com/track/4AtXdEbZFaqzpxEUD7JVkL) | [Pchew Pow](https://open.spotify.com/artist/0MXpmlZZWs1MoTGIEQ3EBr) | [Ori](https://open.spotify.com/album/6TmO8aBJcsj7nd3BfSWRgB) | 2:15 | 2026-06-08 |  |
@@ -225,6 +228,7 @@
 | [Simple Life](https://open.spotify.com/track/27LKcnqzk6ckyQylQNUv91) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/7uen16WfzBE3uzKdIgei4y) | 1:33 | 2025-08-29 |  |
 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-02-06 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-04-10 |  |
+| [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-04 |  |
 | [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 | 2025-08-09 |
 | [Socrates Smiled](https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq) | 3:07 | 2025-09-26 | 2026-02-07 |
 | [Somebody New](https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/7nPAHt752Iqi3noSMr9YcW) | 2:52 | 2025-07-18 | 2025-09-20 |

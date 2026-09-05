@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,185 songs - 2 day 16 hr 25 min
+1,186 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -812,6 +812,7 @@
 | [pretty sure you're fine](https://open.spotify.com/track/4F4XQKH4vVoPnwDmRPh6sJ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [pretty sure you're fine](https://open.spotify.com/album/5BL3gZkADVjB3pHG1thulk) | 3:17 | 2025-02-28 | 2025-04-21 |
 | [Princess Bubblegum](https://open.spotify.com/track/6ucInAX6PojGk0QVLHptHT) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Princess Bubblegum](https://open.spotify.com/album/2K2RHh8CxhHI9RgYXKVt7W) | 2:48 | 2023-05-11 | 2023-05-19 |
 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 | 2025-10-02 |  |
+| [Questionnaire](https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Questionnaire](https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4) | 2:12 | 2026-08-07 |  |
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-04-12 | 2024-05-15 |
 | [quite like u](https://open.spotify.com/track/0GQJkqfrcUCkLlFE6YBvt9) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [quite like u](https://open.spotify.com/album/5TQ9dOAu9zJw2gg7kRCCs1) | 2:34 | 2023-06-08 | 2023-06-16 |
 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 | 2024-08-30 |  |
@@ -939,7 +940,7 @@
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2023-11-13 | 2023-12-09 |
 | [Somehow](https://open.spotify.com/track/4pTpwIo2BEuzQkmktfJyD3) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Somehow](https://open.spotify.com/album/5viPEPHhQJWxv5hUmOyBAx) | 2:39 | 2023-09-01 | 2023-09-09 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-11 | 2023-08-26 |
-| [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 | 2023-02-23 |  |
+| [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 | 2023-02-23 | 2026-09-05 |
 | [Something About You \(feat\. FIG\)](https://open.spotify.com/track/0sr5bb8p1PkyD2PbER33yp) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE), [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Something About You \(feat\. FIG\)](https://open.spotify.com/album/0rz0PV7kFLjmcTVZ5WgGDw) | 2:52 | 2025-04-04 | 2025-05-03 |
 | [Song for Rainy Days](https://open.spotify.com/track/3pwBZlH72Rj61f4vqYyOXe) | [Cindy Zhang](https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz) | [Songs for Rainy Days](https://open.spotify.com/album/0rz68chCF7fIUSkfsAkUCD) | 3:08 | 2022-11-14 | 2022-12-16 |
 | [sorry i phone you](https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [sorry i phone you](https://open.spotify.com/album/1Jobt4hAKFliWO22VB1SLI) | 3:40 | 2024-10-04 | 2024-10-19 |

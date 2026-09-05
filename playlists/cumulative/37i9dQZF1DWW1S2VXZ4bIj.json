@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KLEAR",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GEMINI",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 149400,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC"
@@ -1188,6 +1188,24 @@
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "album": {
@@ -3507,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "oasis (feat. D Gerrard)",
+        "url": "https://open.spotify.com/album/0cvvDW04KiOXnJKN4rqEKn"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        },
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182576,
+      "name": "oasis (feat. D Gerrard)",
+      "url": "https://open.spotify.com/track/0vhuUxZ2J94B1Fcv9jI7UL"
+    },
+    {
+      "album": {
         "name": "OH MY!",
         "url": "https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV"
       },
@@ -4224,6 +4264,24 @@
       "duration_ms": 193417,
       "name": "Satin",
       "url": "https://open.spotify.com/track/0Eqm1msB6wpMo9PgMOsAIx"
+    },
+    {
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "album": {
@@ -5820,7 +5878,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 184000,
       "name": "WHO YOU ARE? (\u0e15\u0e30\u0e42\u0e01\u0e19!)",
       "url": "https://open.spotify.com/track/3jIR8f97cWUN9roUZpOf0g"
@@ -7236,7 +7294,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 285000,
       "name": "\u0e04\u0e32\u0e15\u0e32 (KATA)",
       "url": "https://open.spotify.com/track/59g67XSLvrQG4AXDGjylK8"
@@ -7770,7 +7828,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 267559,
       "name": "\u0e08\u0e33\u0e44\u0e14\u0e49\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21 (Flashback)",
       "url": "https://open.spotify.com/track/0qE8ZkREZXAn9zMcYzYUZV"
@@ -9243,6 +9301,32 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e15\u0e1a\u0e15\u0e32 (Remix)",
+        "url": "https://open.spotify.com/album/1cxLMLQnKXC4hwBQP4idmD"
+      },
+      "artists": [
+        {
+          "name": "MaxMillor",
+          "url": "https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63"
+        },
+        {
+          "name": "PORZAX",
+          "url": "https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP"
+        },
+        {
+          "name": "ize so cold.",
+          "url": "https://open.spotify.com/artist/2ghXX54wgKqlv2UQZv0N4a"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e15\u0e1a\u0e15\u0e32 - Remix",
+      "url": "https://open.spotify.com/track/5fajhzcr4puTHlkzI8KQwm"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07 (From now on)",
         "url": "https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY"
       },
@@ -10306,7 +10390,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 215714,
       "name": "\u0e22\u0e31\u0e07\u0e44\u0e07\u0e01\u0e47\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/1zP5IYbYe1Gi1BaiGJEK64"
@@ -10476,7 +10560,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 220000,
       "name": "\u0e22\u0e49\u0e32\u0e22\u0e48\u0e32\u0e22\u0e30",
       "url": "https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy"
@@ -13659,6 +13743,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e07\u0e32...\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/3PTXvqPCV5ijlUgGt1tufp"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207580,
+      "name": "\u0e40\u0e2b\u0e07\u0e32...\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1HDARi635fpU4mHpzKtFYs"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e15\u0e38\u0e14\u0e48\u0e27\u0e19\u0e40\u0e2b\u0e15\u0e38\u0e23\u0e49\u0e32\u0e22 (Heart Thief) - Single",
         "url": "https://open.spotify.com/album/5jNzGYtj0Q1OgVLSeVf4Bh"
       },
@@ -14856,6 +14958,24 @@
       "duration_ms": 223534,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e17\u0e35\u0e48\u0e44\u0e1b\u0e01\u0e47\u0e15\u0e49\u0e2d\u0e07\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+        "url": "https://open.spotify.com/album/37j3Ofcn7pBtbUe4pxOIPx"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202900,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
+      "url": "https://open.spotify.com/track/0NV22uXDU0K7EIjKuhzoBy"
     },
     {
       "album": {

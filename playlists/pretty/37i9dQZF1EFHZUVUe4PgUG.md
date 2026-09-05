@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 121 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 697 likes - 121 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 120 | [Pinterest](https://open.spotify.com/track/6ejjnJmKJgGsWkUXjquGGI) | [Maria Republica](https://open.spotify.com/artist/3OzkpQ0eN65yKclLHHSPKU) | [Samba de uma Nova Nota](https://open.spotify.com/album/4yuxgmdJsQ3uG3fHQLj09h) | 2:32 |
 | 121 | [No Es Normal](https://open.spotify.com/track/0COqeWp74Nsv8iv7ArRqXe) | [Juan Arnedo OK](https://open.spotify.com/artist/3X4OHPHoUJe1tAZGvpktPm) | [No Es Normal](https://open.spotify.com/album/13Zr7LvQTdYpYvRwnl7wIC) | 2:20 |
 
-Snapshot ID: `AcbWXAAAAAA7QJi8c1AvqlXM3mPA6ov2`
+Snapshot ID: `Acbb6AAAAACpXarX6J8RsVS27BR21kX9`

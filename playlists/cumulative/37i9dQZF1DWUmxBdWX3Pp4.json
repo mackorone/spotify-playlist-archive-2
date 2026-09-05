@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Brray\n",
+  "description": "\u00c9xitos de Trap Latino  \ud83d\udcf8  Blessd y Anuel AA\n",
   "name": "TRAPPERZ",
   "tracks": [
     {
@@ -2384,6 +2384,28 @@
       "duration_ms": 200434,
       "name": "Campeones",
       "url": "https://open.spotify.com/track/3utEkGqMuYMK6xMxHZOaCp"
+    },
+    {
+      "album": {
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
     },
     {
       "album": {
@@ -10414,7 +10436,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 394285,
       "name": "Pa la Uni V2 - V2",
       "url": "https://open.spotify.com/track/3NIBylC6T3FWI9f9gYSI4B"
@@ -10708,6 +10730,28 @@
       "duration_ms": 214629,
       "name": "Papa Noel",
       "url": "https://open.spotify.com/track/7iSzHI1PsFudcDPd5IUPIr"
+    },
+    {
+      "album": {
+        "name": "Paroliguelido",
+        "url": "https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Paroliguelido",
+      "url": "https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K"
     },
     {
       "album": {
@@ -11196,7 +11240,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 276165,
       "name": "Por el Money",
       "url": "https://open.spotify.com/track/3QZGHvvTvvW7R04Yt3rIrp"
@@ -12536,7 +12580,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 272400,
       "name": "Si O Si - Remix",
       "url": "https://open.spotify.com/track/1HfmblNnew8ommGB1wt8PF"

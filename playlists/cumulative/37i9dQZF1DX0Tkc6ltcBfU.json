@@ -691,6 +691,28 @@
     },
     {
       "album": {
+        "name": "2CRETE",
+        "url": "https://open.spotify.com/album/2TkOaLgqZaFTgMznqJiyr1"
+      },
+      "artists": [
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164697,
+      "name": "2CRETE",
+      "url": "https://open.spotify.com/track/6JotdMeVrosFs4jZDmYYtQ"
+    },
+    {
+      "album": {
         "name": "2Tone (feat. YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/1puqMBYmUpSRiWKCf24G65"
       },
@@ -1208,6 +1230,28 @@
       "duration_ms": 165000,
       "name": "4AM at Coffee Zone (Florida Avengers)",
       "url": "https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1"
+    },
+    {
+      "album": {
+        "name": "4EVA",
+        "url": "https://open.spotify.com/album/0jUsEBOkDgH0QFrREqq3oj"
+      },
+      "artists": [
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "4EVA",
+      "url": "https://open.spotify.com/track/6KzoF3YjfgDX7Zb546RcSN"
     },
     {
       "album": {
@@ -2306,6 +2350,24 @@
       "duration_ms": 113684,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/4yxQkYkrFWCHrKVwiwXRL2"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7ne5pqe1F2AzZBVKJjnXCX"
+      },
+      "artists": [
+        {
+          "name": "ApolloRed1",
+          "url": "https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148961,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/63Z5XjhYhs4qJ7RVhSHtn8"
     },
     {
       "album": {
@@ -3932,6 +3994,24 @@
       "duration_ms": 107234,
       "name": "B.B.L.S.",
       "url": "https://open.spotify.com/track/0NjVgY0ozThRP2odytEsUj"
+    },
+    {
+      "album": {
+        "name": "B.L.F.S",
+        "url": "https://open.spotify.com/album/0zOHJyS2DJ64ZWEht88Liq"
+      },
+      "artists": [
+        {
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195909,
+      "name": "B.L.F.S",
+      "url": "https://open.spotify.com/track/0AKYgSGaR0eiZ0zwjz2ccZ"
     },
     {
       "album": {
@@ -8970,6 +9050,24 @@
       "duration_ms": 126323,
       "name": "Bypass (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/660NH0EDIW0B7I4tiEiMdt"
+    },
+    {
+      "album": {
+        "name": "C'Mere(Ride)",
+        "url": "https://open.spotify.com/album/2mHVfxkKed3TscTRQw28dQ"
+      },
+      "artists": [
+        {
+          "name": "MoeIsBetter",
+          "url": "https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "C'Mere(Ride)",
+      "url": "https://open.spotify.com/track/22P4ISHz8oK4BeUOgsoJpv"
     },
     {
       "album": {
@@ -15696,6 +15794,10 @@
         {
           "name": "Future",
           "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tezzus",
+          "url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
         }
       ],
       "date_added": "2026-08-31",
@@ -23788,6 +23890,10 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
+          "name": "Tezzus",
+          "url": "https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm"
+        },
+        {
           "name": "diamond*",
           "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
         }
@@ -26171,7 +26277,7 @@
     },
     {
       "album": {
-        "name": "IN THE CLUB (with Sexyy Red)",
+        "name": "IN THE CLUB (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
       },
       "artists": [
@@ -26188,7 +26294,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 144708,
-      "name": "IN THE CLUB (with Sexyy Red)",
+      "name": "IN THE CLUB (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
     },
     {
@@ -33406,7 +33512,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 234813,
       "name": "Monta",
       "url": "https://open.spotify.com/track/3eqjedosKjwKzKFdhWqmbh"
@@ -43147,6 +43253,32 @@
     },
     {
       "album": {
+        "name": "Reign",
+        "url": "https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185026,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm"
+    },
+    {
+      "album": {
         "name": "Fraternal: Keed Edition",
         "url": "https://open.spotify.com/album/4AnLGuHCdJvVsHEuLdxoB4"
       },
@@ -48770,6 +48902,28 @@
       "duration_ms": 167000,
       "name": "Stickin And Movin",
       "url": "https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ"
+    },
+    {
+      "album": {
+        "name": "B.I.L.L.Y",
+        "url": "https://open.spotify.com/album/79ZmKk27UdvTROEqxwrMkM"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179495,
+      "name": "STILL A YOUNGBOY",
+      "url": "https://open.spotify.com/track/2Hl0kumtns8DpY2zsTa8fk"
     },
     {
       "album": {
@@ -55495,6 +55649,24 @@
     },
     {
       "album": {
+        "name": "The Mad Vamp",
+        "url": "https://open.spotify.com/album/3PJuBz1EOiXcGEWQDlrkxU"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Walking",
+      "url": "https://open.spotify.com/track/0TWSQ46ueFejcvpYXXAvbl"
+    },
+    {
+      "album": {
         "name": "Walls Closing In",
         "url": "https://open.spotify.com/album/1Upt1sMC2vabGpmwMym7oh"
       },
@@ -58146,6 +58318,28 @@
       "duration_ms": 129683,
       "name": "WYG (feat. LAZER DIM 700)",
       "url": "https://open.spotify.com/track/6Jfqxn9t6wxAT6nz4LqW7Z"
+    },
+    {
+      "album": {
+        "name": "NOT DA 2",
+        "url": "https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "WYO",
+      "url": "https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp"
     },
     {
       "album": {

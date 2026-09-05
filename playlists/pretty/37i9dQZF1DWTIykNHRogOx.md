@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Eddy de Pretto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,271 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,650 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Les mots blessent](https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Les mots blessent](https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw) | 2:46 |
 | 50 | [le dernier verre](https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [le dernier verre](https://open.spotify.com/album/77hFDBhBnkgsuH2h8OA7FQ) | 3:03 |
 
-Snapshot ID: `AAAAAN2RjpSvHvwRx1+KYVYbuXAtObdl`
+Snapshot ID: `AAAAAFmRr93toVh4DcjLRfQHPb1j64tu`

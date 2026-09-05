@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 129836,
       "name": "Las Avispas",
       "url": "https://open.spotify.com/track/5hWtMK64O73MxJbyDUn4wU"
@@ -8340,7 +8340,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 173548,
       "name": "Palma Da Mao",
       "url": "https://open.spotify.com/track/640VxwbcxFTspknfTVKDst"
@@ -8986,7 +8986,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 130731,
       "name": "PYHU (Put Your Hands Up)",
       "url": "https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq"
@@ -9344,6 +9344,32 @@
       "duration_ms": 185952,
       "name": "RAMITO",
       "url": "https://open.spotify.com/track/7qwztTtuPusFuB5Ogi1QQN"
+    },
+    {
+      "album": {
+        "name": "Rebeca",
+        "url": "https://open.spotify.com/album/1wf5eUJOMpgjcLlp46bJg2"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "Dual Beat",
+          "url": "https://open.spotify.com/artist/0MPPw4tjpM25hY0X5aGktZ"
+        },
+        {
+          "name": "Lyon Monster",
+          "url": "https://open.spotify.com/artist/7GQeq4UJRBOmvxUDes0rjN"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Rebeca",
+      "url": "https://open.spotify.com/track/5N2ppnfd0pVWG6NEHVdPXG"
     },
     {
       "album": {

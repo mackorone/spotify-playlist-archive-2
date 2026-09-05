@@ -1,12 +1,12 @@
 {
   "description": "This is Emily A. Sprague. The essential tracks, all in one playlist.",
-  "num_followers": 196,
+  "num_followers": 200,
   "original_name": "This Is Emily A. Sprague",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apdnAAAAAAC746MMxIoJ42eD/9seXW0s",
+  "snapshot_id": "api4gAAAAACcN+ax9ag5a2jnyXaD2ARG",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 297666,
+      "name": "Synth 3",
+      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silken Pt. 2.1",
         "url": "https://open.spotify.com/album/2M4guG3tSS7txcqjx8oiHT"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 232000,
       "name": "Silken Pt. 2.1",
       "url": "https://open.spotify.com/track/72xpnBpM8UEJtCAiURvM3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Huckleberry",
-      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mount Vision",
+        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/0jzmcBUTN9SqVrFed0NKFV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 413826,
       "name": "Star Gazing",
       "url": "https://open.spotify.com/track/06DeoRfplLugqP2Soi6No2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mount Vision",
-        "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 297666,
-      "name": "Synth 3",
-      "url": "https://open.spotify.com/track/7F2oeHj1KjVGIyIpA8s1XQ"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 575320,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -399,22 +383,6 @@
       "duration_ms": 443440,
       "name": "Piano 1",
       "url": "https://open.spotify.com/track/5lSEJkubu5mdi1NnYkEiLC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cloud Time",
-        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Tokyo 2",
-      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
     },
     {
       "added_at": null,
@@ -435,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cloud Time",
+        "url": "https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Tokyo 2",
+      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mount Vision",
         "url": "https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 459866,
       "name": "Synth 2",
       "url": "https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 575320,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2S4TjDCuFEqewoBxzW2VYd"
     },
     {
       "added_at": null,

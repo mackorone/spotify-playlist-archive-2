@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "258366",
+        "url": "https://open.spotify.com/album/5So0wjjztZHOeV0nKnpcDA"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199799,
+      "name": "258366",
+      "url": "https://open.spotify.com/track/3JAE90gTtwRbM1jFNdGayh"
+    },
+    {
+      "album": {
         "name": "365 Flavors",
         "url": "https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h"
       },
@@ -470,6 +488,24 @@
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1"
+    },
+    {
+      "album": {
+        "name": "The Cure",
+        "url": "https://open.spotify.com/album/2Us044j2qG1iqbjnBNH6eR"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "B-Side",
+      "url": "https://open.spotify.com/track/4aJxB28TaJFnGQTQ76kbJo"
     },
     {
       "album": {
@@ -4976,7 +5012,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 221386,
       "name": "It\u2019s A Shame",
       "url": "https://open.spotify.com/track/5OYmwQ2I7uahApwDA0PMDB"
@@ -7331,6 +7367,24 @@
     },
     {
       "album": {
+        "name": "Paint The Picture",
+        "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "Paint The Picture",
+      "url": "https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T"
       },
@@ -7360,7 +7414,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180286,
       "name": "Paying It Forward",
       "url": "https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS"
@@ -9012,7 +9066,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 257539,
       "name": "Somnolent Love",
       "url": "https://open.spotify.com/track/7o5bO798ISksP3UGx7y9Y2"

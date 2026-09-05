@@ -4,7 +4,7 @@
 
 > ❗️Nieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-557 songs - 1 day 1 hr 7 min
+558 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Niemand](https://open.spotify.com/track/2R5pR5gFpXjvKUCVtXm1ui) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Niemand](https://open.spotify.com/album/2JhnDm8AtD2OIHFaX2dcOa) | 2:31 | 2026-02-12 | 2026-03-20 |
 | [NIET ACTIEF](https://open.spotify.com/track/59bj8LFNbkBP692Iyh4gV2) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5) | [NIET ACTIEF](https://open.spotify.com/album/64l5mqybz0fgCP7gpbz1Tb) | 2:06 | 2026-04-23 | 2026-05-19 |
 | [Niet alleen jij](https://open.spotify.com/track/6tpBXxIm6YR9niC24TO1tH) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Niet alleen jij](https://open.spotify.com/album/37vYwOOZzdc9bIMITjQZDW) | 2:40 | 2026-07-02 | 2026-08-11 |
-| [Niet Eens Een Rapper](https://open.spotify.com/track/67r9F6fkRmiGtyvz51Kw2Z) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Niet Eens Een Rapper](https://open.spotify.com/album/35V2FVOD7Zp24iScCc6iNx) | 2:45 | 2026-07-02 |  |
+| [Niet Eens Een Rapper](https://open.spotify.com/track/67r9F6fkRmiGtyvz51Kw2Z) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Niet Eens Een Rapper](https://open.spotify.com/album/35V2FVOD7Zp24iScCc6iNx) | 2:45 | 2026-07-02 | 2026-09-05 |
 | [Niet Genoeg](https://open.spotify.com/track/3nDTgr6tA6RGTqfsKMMrrM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Niet Genoeg](https://open.spotify.com/album/1ZEzfbl3tUydOdnNdcPFdv) | 3:05 | 2025-07-17 | 2025-09-05 |
 | [Niet Loyaal](https://open.spotify.com/track/3S3DzF5XnUVWAm3Jz3ZHoN) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:12 | 2026-05-07 | 2026-05-22 |
 | [NIEUWE BOETE](https://open.spotify.com/track/62VWxxGcdh4TDRfqyAJ8jU) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [DAYDA](https://open.spotify.com/album/6w620VqNHfmyS3t8qENq1A) | 2:49 | 2025-11-13 | 2026-01-15 |
@@ -467,6 +467,7 @@
 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 | 2025-10-30 | 2026-02-20 |
 | [Stenen](https://open.spotify.com/track/1ytJk4rlLoloGfq8V5uhzm) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Stenen](https://open.spotify.com/album/3s7dQ2oumFQWZFvMUxnE9p) | 2:32 | 2025-08-04 | 2025-08-29 |
 | [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 | 2026-03-12 | 2026-07-17 |
+| [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 | 2026-09-04 |  |
 | [Street therapy](https://open.spotify.com/track/1WVNpw65SACTQtcvf5xY5z) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Street therapy](https://open.spotify.com/album/2fkYO5Bf9EcLzQ0ZVuRMQ3) | 2:23 | 2026-04-10 | 2026-06-09 |
 | [Streetlife](https://open.spotify.com/track/2ZjgHWphAZlKk6C8vqbjlw) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [OM DE TAFEL](https://open.spotify.com/album/7v2C0BOh9nhvgrtULvW5HR) | 4:28 | 2026-06-12 | 2026-07-10 |
 | [STUK](https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [STUK](https://open.spotify.com/album/7CNunsUm1e9qFJcEPD9T2f) | 1:49 | 2026-06-29 | 2026-08-21 |

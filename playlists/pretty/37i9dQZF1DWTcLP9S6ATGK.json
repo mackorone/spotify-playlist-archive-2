@@ -1,6 +1,6 @@
 {
   "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Aruma",
-  "num_followers": 168498,
+  "num_followers": 168522,
   "original_name": "Musik Akhir Pekan",
   "owner": {
     "name": "Spotify",
@@ -168,8 +168,8 @@
           "url": "https://open.spotify.com/artist/2MoFaFNb7uknA3GxKqpMYz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 164250,
+      "name": "Aku Merindu",
       "url": "https://open.spotify.com/track/3KF1IgQMx73027fDrl9VdU"
     },
     {
@@ -267,6 +267,22 @@
       "duration_ms": 211304,
       "name": "Sebelum Malam Menutup Jendela",
       "url": "https://open.spotify.com/track/4lvDA5L3UZrFFlihKVTZBi"
+    },
+    {
+      "added_at": "2026-09-03 17:05:00",
+      "album": {
+        "name": "Hilang Tanpa Bayang",
+        "url": "https://open.spotify.com/album/2r2s8HLQyHMmoSIoL9v0YU"
+      },
+      "artists": [
+        {
+          "name": "Pelipur",
+          "url": "https://open.spotify.com/artist/3iAcNyICqpO7dz3tDf2Tpn"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Hilang Tanpa Bayang",
+      "url": "https://open.spotify.com/track/1gs1Liji6gPbfHdypf728F"
     },
     {
       "added_at": "2026-09-03 17:05:00",

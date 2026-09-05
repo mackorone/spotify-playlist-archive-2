@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 354666,
       "name": "Kanmanipoove (From \"Thudarum\")",
       "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 217777,
       "name": "Kannodu - Live",
       "url": "https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f"
@@ -3265,6 +3265,32 @@
     },
     {
       "album": {
+        "name": "Dosth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/270nQj6SJnNEwBmyElnH03"
+      },
+      "artists": [
+        {
+          "name": "Vidyasagar",
+          "url": "https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279080,
+      "name": "Thathamma Peru",
+      "url": "https://open.spotify.com/track/4lMHMjgCZfCRVQFK23wBi3"
+    },
+    {
+      "album": {
         "name": "Thattathil (From \"Abhilasham\")",
         "url": "https://open.spotify.com/album/1Dm8yyO41vK1cW9FI0NhaB"
       },
@@ -3558,6 +3584,32 @@
       "duration_ms": 208128,
       "name": "Welcome To Mollywood (From \"Maine Pyar Kiya\")",
       "url": "https://open.spotify.com/track/4fEommZNa1Xxv4R4VTyTGP"
+    },
+    {
+      "album": {
+        "name": "Anna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1WD1N0OMijDGXpZumUHop5"
+      },
+      "artists": [
+        {
+          "name": "Ouseppachan",
+          "url": "https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "Yavanakathayil",
+      "url": "https://open.spotify.com/track/2ra5zHrfFliQ649DPGN2V1"
     },
     {
       "album": {

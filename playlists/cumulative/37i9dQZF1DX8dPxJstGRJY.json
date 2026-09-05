@@ -355,6 +355,36 @@
     },
     {
       "album": {
+        "name": "Brodszky: Be My Love",
+        "url": "https://open.spotify.com/album/18svE0hNgI4kwlRKsGZCEX"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Brodszky",
+          "url": "https://open.spotify.com/artist/3f9LAwIU21jKFCWHwVWZbp"
+        },
+        {
+          "name": "Stephen Costello",
+          "url": "https://open.spotify.com/artist/3YPkNg9mW3yAERax2DaLEd"
+        },
+        {
+          "name": "Constantine Orbelian",
+          "url": "https://open.spotify.com/artist/7sadiOYNVOqYMQYBsv0VnK"
+        },
+        {
+          "name": "Kaunas City Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4slZ6XWWAmzI2FqyrQi2bt"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216607,
+      "name": "Be My Love (Arr. for Tenor and Orchestra by Flaviu Mogo\u0219an)",
+      "url": "https://open.spotify.com/track/4tVfDViedEIQMr2vadw7ci"
+    },
+    {
+      "album": {
         "name": "Classical Barbra (Re-Mastered)",
         "url": "https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp"
       },

@@ -2,9 +2,9 @@
 
 ### [Queen](https://open.spotify.com/playlist/37i9dQZF1DWSIO2QWRavWZ)
 
-> New music from your favorite women\.  Cover: Tiana Major9
+> New music from your favorite women\.  Cover: Kelela
 
-849 songs - 2 day 0 hr 27 min
+853 songs - 2 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:24 | 2024-02-01 | 2024-02-10 |
 | [F.O.O.L](https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:22 | 2026-03-06 |  |
 | [Faces](https://open.spotify.com/track/4Q1pCz12OHeDwBuYgmqRki) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf) | [Faces](https://open.spotify.com/album/32mhSctEoshvXv1xoenks0) | 2:52 | 2025-09-19 | 2026-03-21 |
+| [Fair Exchange](https://open.spotify.com/track/6w7R8Ki7x3X4GxpHNS5IPf) | [Dono](https://open.spotify.com/artist/5wyWKmk8XPhoJlD6rnw0eG) | [Growing Pains](https://open.spotify.com/album/7IM5uaSV1XtEx6OgTZB74I) | 2:21 | 2026-09-04 |  |
 | [Fallin' Out](https://open.spotify.com/track/1Tn0b93GeEZ1wDDRpT6WhM) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 4:26 | 2023-11-10 | 2024-02-02 |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2024-02-09 | 2024-10-05 |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2024-02-09 | 2024-10-05 |
@@ -268,6 +269,7 @@
 | [Flawless Remix \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:54 | 2021-11-24 | 2022-02-12 |
 | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ) | 2:51 | 2026-04-17 |  |
 | [flow state](https://open.spotify.com/track/1MoJWlbn9PUTAq7NzHGc6F) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [flow state](https://open.spotify.com/album/7JlJy1e1s6LNPcomANfRCx) | 3:03 | 2026-04-03 | 2026-06-27 |
+| [Fly \(Someone You Love\)](https://open.spotify.com/track/46FIsUouswpvnkTOWcdvH6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Fly \(Someone You Love\)](https://open.spotify.com/album/3EoQGYD5eejrP431tqxgJ8) | 3:34 | 2026-09-04 |  |
 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 | 2024-02-09 | 2024-10-05 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-20 | 2025-10-25 |
 | [Folded \(Remix\) \[feat\. Brandy\]](https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Folded Homage Pack](https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm) | 4:19 | 2025-10-24 | 2026-04-04 |
@@ -376,6 +378,7 @@
 | [I Lied, You Lied](https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz) | 3:23 | 2026-08-14 | 2026-08-22 |
 | [I Like It](https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK), [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [I Like It](https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9) | 3:24 | 2026-07-17 |  |
 | [I Love You Out Loud](https://open.spotify.com/track/7svayygEZXPdOBQ2MoH2ZP) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Love You Out Loud](https://open.spotify.com/album/4duEYFqitqYj9e7jD2B80M) | 3:33 | 2026-04-03 | 2026-06-27 |
+| [I Miss The City](https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [I Miss The City / Gymnastics](https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q) | 3:00 | 2026-09-04 |  |
 | [I Need You](https://open.spotify.com/track/08U3QpENVVF2YUuPAN0Wz1) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [I Need You](https://open.spotify.com/album/5COOaPOnTPmAzwrZIqbFoP) | 2:31 | 2025-11-07 | 2025-12-20 |
 | [I Need You \(feat\. Brandy\)](https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 4:03 | 2026-04-24 | 2026-06-27 |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2024-02-09 | 2024-10-05 |
@@ -390,6 +393,7 @@
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-08-25 | 2023-11-11 |
 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 | 2025-09-05 |  |
 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 | 2026-04-10 | 2026-06-06 |
+| [idea 1 \(Live\) \- Spotify Live Room](https://open.spotify.com/track/4LBVzZBuJoDyHK8xYHxpGF) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Kelela \- Spotify Live Room](https://open.spotify.com/album/6IQOXpC4MgHksTtrsGyR0T) | 3:30 | 2026-09-04 |  |
 | [idea of love \- A COLORS SHOW](https://open.spotify.com/track/3XMriAsMxhNuT7ygP11JpJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [idea of love \- A COLORS SHOW](https://open.spotify.com/album/37Cp4Hk4xLqVmUHQRLu1es) | 2:34 | 2026-05-15 | 2026-06-27 |
 | [If I Let You](https://open.spotify.com/track/5lyLBXZXjHNX0wi5zy2Wrt) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [If I Let You](https://open.spotify.com/album/1zUpkYqngSZ4juLdfUVwvg) | 3:58 | 2026-07-10 |  |
 | [If I Was You](https://open.spotify.com/track/0TSNYgNN06hEKIKce2jlxW) | [Qui](https://open.spotify.com/artist/0G2LfRTlpJ9sqb8bWH4396) | [Cold Summer](https://open.spotify.com/album/2LUxcIEqoNcuQlfhJQLRyd) | 3:12 | 2026-05-22 |  |

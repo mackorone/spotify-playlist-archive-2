@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -4412,7 +4412,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
       "url": "https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4"
@@ -9236,7 +9236,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 281346,
       "name": "Cigarety",
       "url": "https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN"
@@ -15814,7 +15814,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 180223,
       "name": "FOTOALBUM",
       "url": "https://open.spotify.com/track/3nT2vmKcx4PZamEMAU7onq"
@@ -25434,7 +25434,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 216525,
       "name": "Kr\u00e1l a princ",
       "url": "https://open.spotify.com/track/4lbmSXYmm2ZAMkoFOdMHQN"
@@ -25662,6 +25662,28 @@
       "duration_ms": 141322,
       "name": "Kung-fu",
       "url": "https://open.spotify.com/track/0odvlXjOnmtZ6sZ9CIIvbt"
+    },
+    {
+      "album": {
+        "name": "KURVY V POZORU",
+        "url": "https://open.spotify.com/album/51vUnAOdbs7CAokbiSqYQ2"
+      },
+      "artists": [
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        },
+        {
+          "name": "Eclipse",
+          "url": "https://open.spotify.com/artist/2to5J7dbaGiiSCeRGoEHLb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103291,
+      "name": "KURVY V POZORU",
+      "url": "https://open.spotify.com/track/5sNrjyTnypj1YrPiDos8wr"
     },
     {
       "album": {
@@ -38014,7 +38036,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 174117,
       "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
@@ -57904,7 +57926,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 240116,
       "name": "Zub za zub",
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"

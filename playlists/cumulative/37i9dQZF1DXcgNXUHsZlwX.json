@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Cycle d\u00e9licat (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z4Dya3ETZefsipO0omfZy"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        },
+        {
+          "name": "\u00c9mile Bourgault",
+          "url": "https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170065,
+      "name": "Astronaute - Deluxe",
+      "url": "https://open.spotify.com/track/56DBXuNndPOxNfVYmX7mew"
+    },
+    {
+      "album": {
         "name": "Au bout du monde",
         "url": "https://open.spotify.com/album/3GglngNuy4H740Q3cfTv31"
       },
@@ -2818,7 +2840,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 343733,
       "name": "Feel '26",
       "url": "https://open.spotify.com/track/0gF9UtSCMLFv4dK8clGuUx"
@@ -6758,7 +6780,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 126000,
       "name": "maybe i think",
       "url": "https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux"
@@ -7950,6 +7972,24 @@
       "duration_ms": 224312,
       "name": "Partir en mer",
       "url": "https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0"
+    },
+    {
+      "album": {
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+      },
+      "artists": [
+        {
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
     },
     {
       "album": {

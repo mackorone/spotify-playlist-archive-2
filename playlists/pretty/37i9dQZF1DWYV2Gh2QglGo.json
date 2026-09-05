@@ -1,13 +1,221 @@
 {
-  "description": "The home of Canadian country music. Cover: Jess Moskaluke",
-  "num_followers": 84380,
+  "description": "The home of Canadian country music. Cover: Jessica Sevier",
+  "num_followers": 84382,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhYSOD7bhDaUTIQjcz7Mq8RulxL",
+  "snapshot_id": "AAAAAL474uq9qT3gO3ZkAMkYtQ4zDHIs",
   "tracks": [
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/52LvLBk8Ll7PU7CqrxnWL1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sevier",
+          "url": "https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/4JabZ47TNNJKCTI3lXsuOt"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Me Without My Hometown",
+        "url": "https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Me Without My Hometown",
+      "url": "https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Leave You Lonely",
+        "url": "https://open.spotify.com/album/2cw6OwnU3ZoYmwz0umOzM5"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 165287,
+      "name": "Leave You Lonely",
+      "url": "https://open.spotify.com/track/3CSs5zrlIK0Ls5WRxHI7pt"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Blue Collar",
+        "url": "https://open.spotify.com/album/4oLMGPMxKuw1Ag5JJpcmZy"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "duration_ms": 169246,
+      "name": "Blue Collar",
+      "url": "https://open.spotify.com/track/0tGdlyVYmwrpgwRijjR3jv"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "ONE STORY HOUSE",
+        "url": "https://open.spotify.com/album/1QAeUWNufWKEcWyKKTrOUp"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 203860,
+      "name": "ONE STORY HOUSE",
+      "url": "https://open.spotify.com/track/1cKiZBe8UYuUjhxcxmyLZD"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Mes racines",
+        "url": "https://open.spotify.com/album/1PDjMjLfHL7ihNn47sQtck"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "duration_ms": 173454,
+      "name": "Mes racines",
+      "url": "https://open.spotify.com/track/3XGvpCqX6rd4lbgntHeLTs"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Bar's Gone Now",
+        "url": "https://open.spotify.com/album/1UPWTdK05UqwRShAynv8HQ"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "duration_ms": 191151,
+      "name": "Bar's Gone Now",
+      "url": "https://open.spotify.com/track/4U4igsl062GZsxerY6CWtv"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1sQYJt8QNUF27lquPgRPtA"
+      },
+      "artists": [
+        {
+          "name": "Wes Mack",
+          "url": "https://open.spotify.com/artist/0FMBtqD2Z6zyzL6f5FJbHX"
+        }
+      ],
+      "duration_ms": 208876,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5buI6VW2DqTcJDnsLXORJc"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "I See Red",
+        "url": "https://open.spotify.com/album/2JD5I5TJ8ZkOjs82sQB6Wc"
+      },
+      "artists": [
+        {
+          "name": "Bree Taylor",
+          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
+        }
+      ],
+      "duration_ms": 236945,
+      "name": "I See Red",
+      "url": "https://open.spotify.com/track/5CzGfHcU3AdUBmXA7oFRQz"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/5pGwxedMOVtX7LQSQgxETw"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6ucPAKExGmPK3ifKVb3Plv"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Training Wheels",
+        "url": "https://open.spotify.com/album/2dS6mvxVDZxCOnOoKz3000"
+      },
+      "artists": [
+        {
+          "name": "Dan Davidson",
+          "url": "https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "Training Wheels",
+      "url": "https://open.spotify.com/track/6Ie2H10E3YeiXMq64qSgDz"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "The Way That It Wasn\u2019t",
+        "url": "https://open.spotify.com/album/7iaQaNp61VXLEhPdoIvvAO"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 249215,
+      "name": "The Way That It Wasn\u2019t",
+      "url": "https://open.spotify.com/track/4c5l3LR7lWFtvwKVhJD46P"
+    },
+    {
+      "added_at": "2026-09-04 04:03:31",
+      "album": {
+        "name": "Welcome to My Life",
+        "url": "https://open.spotify.com/album/4cB6Ojlt3LGXdCsLX6Ya1k"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "Welcome to My Life",
+      "url": "https://open.spotify.com/track/3CEvKB1c1RnDQ36XkWlbSj"
+    },
     {
       "added_at": "2026-08-28 04:03:47",
       "album": {
@@ -2551,22 +2759,6 @@
     {
       "added_at": "2026-05-22 04:02:55",
       "album": {
-        "name": "Alone in Good Company",
-        "url": "https://open.spotify.com/album/3IhQf9TBQJAiIv9ZOv0JOK"
-      },
-      "artists": [
-        {
-          "name": "Graham Bedard",
-          "url": "https://open.spotify.com/artist/7361cS4653cmgewy0OOFLR"
-        }
-      ],
-      "duration_ms": 195664,
-      "name": "Alone in Good Company",
-      "url": "https://open.spotify.com/track/62PZKyOahhcVMuOfSnAPMw"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
         "name": "Break the Bronco",
         "url": "https://open.spotify.com/album/6mopZVRgp9DY2PbfKPlCJF"
       },
@@ -2579,102 +2771,6 @@
       "duration_ms": 191824,
       "name": "Break the Bronco",
       "url": "https://open.spotify.com/track/0snJCP2rCRPurMXdoWIx0M"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "The Homesteader's Song",
-        "url": "https://open.spotify.com/album/3FDnGB0TjFKbllyg3ETb7x"
-      },
-      "artists": [
-        {
-          "name": "Jake Vaadeland",
-          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "The Homesteader's Song",
-      "url": "https://open.spotify.com/track/3xi9941jmONLIJuE9WPnMQ"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "Good Ol' Boys",
-        "url": "https://open.spotify.com/album/0ygq4LVEBPps5t31dQc6M2"
-      },
-      "artists": [
-        {
-          "name": "Travis Dolter",
-          "url": "https://open.spotify.com/artist/3f8JdOIWSgRL3vTYDGjejl"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "Good Ol' Boys",
-      "url": "https://open.spotify.com/track/5eipg5JP2iA2WCgGOwADkN"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
-        "name": "Robot Girl",
-        "url": "https://open.spotify.com/album/1LM3D1wTwOMMmf11f0KzkC"
-      },
-      "artists": [
-        {
-          "name": "Kerrington Gillespie",
-          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Robot Girl",
-      "url": "https://open.spotify.com/track/1qTpO2fMLDLSbnIsFWfHbe"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "Two-Lane Testimony",
-        "url": "https://open.spotify.com/album/2IjBSgu75CoQpUdjROSTPB"
-      },
-      "artists": [
-        {
-          "name": "Josh Stumpf",
-          "url": "https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj"
-        }
-      ],
-      "duration_ms": 212205,
-      "name": "Johnnie Walker (Back to Me)",
-      "url": "https://open.spotify.com/track/7sObNFmO0LiCaeo2nK2TIq"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "Buckin' Time",
-        "url": "https://open.spotify.com/album/3gJOBumSAiaKALhHh61BeJ"
-      },
-      "artists": [
-        {
-          "name": "The Wild Palominos",
-          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Buckin' Time",
-      "url": "https://open.spotify.com/track/0vngx1kZ2Y38BPFYg0zE6O"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "Smooth Runnin'",
-        "url": "https://open.spotify.com/album/4TUltZG7FSdsplQFTSjWYV"
-      },
-      "artists": [
-        {
-          "name": "Delta Sweet",
-          "url": "https://open.spotify.com/artist/50y7lUCZOffDQNaQ6QVlPx"
-        }
-      ],
-      "duration_ms": 187150,
-      "name": "Smooth Runnin'",
-      "url": "https://open.spotify.com/track/2PeMkcxVPG0S8JBXZ04fEn"
     },
     {
       "added_at": "2026-02-27 05:01:26",
@@ -2707,22 +2803,6 @@
       "duration_ms": 218947,
       "name": "I've Got a Keg",
       "url": "https://open.spotify.com/track/52XmxHMoAUSrkCZiD2OBWw"
-    },
-    {
-      "added_at": "2026-05-01 04:04:57",
-      "album": {
-        "name": "If Hell Were A Bar",
-        "url": "https://open.spotify.com/album/79tOtIOeU33PXLkps86Kdq"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "If Hell Were A Bar",
-      "url": "https://open.spotify.com/track/44kxmvqyN0TFpFbzoWBTfo"
     },
     {
       "added_at": "2026-05-08 04:05:38",
@@ -2771,230 +2851,6 @@
       "duration_ms": 168000,
       "name": "South of the Suburbs",
       "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "Bad Weather",
-        "url": "https://open.spotify.com/album/2XvglEycq8eGDXVs59s45L"
-      },
-      "artists": [
-        {
-          "name": "Sheri Marie Ptolemy",
-          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
-        }
-      ],
-      "duration_ms": 219568,
-      "name": "Bad Weather",
-      "url": "https://open.spotify.com/track/0xTUAjetB5iZrm18btwJ5Z"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "If I\u2019m Still Here",
-        "url": "https://open.spotify.com/album/10nH45WSBMECJ16qs3hAbU"
-      },
-      "artists": [
-        {
-          "name": "Dylan Burk",
-          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
-        }
-      ],
-      "duration_ms": 213461,
-      "name": "If I\u2019m Still Here",
-      "url": "https://open.spotify.com/track/4xPF37muZeLcYs8pf8CONc"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/0Nq37RrtL71QTpiTEYjoiA"
-      },
-      "artists": [
-        {
-          "name": "Kyle McKearney",
-          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
-        }
-      ],
-      "duration_ms": 217450,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/4euWcMK8R1oGsh3XtLKgLP"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0ytYX9x4aGnrmashhYKMCf"
-      },
-      "artists": [
-        {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/57vyPtqcNIJwW1g9RgWZ8A"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Ailleurs",
-        "url": "https://open.spotify.com/album/3odGwqJWWFm6LiLMXjf0nb"
-      },
-      "artists": [
-        {
-          "name": "Laurence St-Martin",
-          "url": "https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG"
-        }
-      ],
-      "duration_ms": 154224,
-      "name": "Avant que la routine frappe encore",
-      "url": "https://open.spotify.com/track/7x8YaoVNwkRGnLRTQQnrhM"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "So Far so Good",
-        "url": "https://open.spotify.com/album/1kuZcTOrSLbQD6rhyCbi4f"
-      },
-      "artists": [
-        {
-          "name": "Ben Chase",
-          "url": "https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0"
-        }
-      ],
-      "duration_ms": 169938,
-      "name": "So Far so Good",
-      "url": "https://open.spotify.com/track/5p4rAajj1Osq1aS8vFBgdO"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/53KIKLzRbYIXUO5aWnYCzR"
-      },
-      "artists": [
-        {
-          "name": "Bree Taylor",
-          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "More",
-      "url": "https://open.spotify.com/track/0A7k2C5AtYMjjiTtFd91Ss"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "All I Want Is All of It",
-        "url": "https://open.spotify.com/album/5dxCpc0Ea190JhzQH706Ud"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 188325,
-      "name": "I Want the Milk",
-      "url": "https://open.spotify.com/track/6aPxQeKXniplK7r7a565i2"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Longer Than A Little While",
-        "url": "https://open.spotify.com/album/4BVIljEEJFxUaa3PFdphT5"
-      },
-      "artists": [
-        {
-          "name": "The Prairie States",
-          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
-        }
-      ],
-      "duration_ms": 177702,
-      "name": "First Car Kinda Freedom",
-      "url": "https://open.spotify.com/track/00kElZg1It48SdLqO33nKU"
-    },
-    {
-      "added_at": "2026-01-30 10:00:36",
-      "album": {
-        "name": "Dublin Blues",
-        "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
-      },
-      "artists": [
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
-        }
-      ],
-      "duration_ms": 388107,
-      "name": "Dublin Blues",
-      "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
-    },
-    {
-      "added_at": "2026-05-01 04:04:57",
-      "album": {
-        "name": "Cigarette Smoke",
-        "url": "https://open.spotify.com/album/6kXxF8t32N6rZLcLmoBsOk"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 203096,
-      "name": "Cigarette Smoke",
-      "url": "https://open.spotify.com/track/6UjE42w4Dh38gpG4zTV5Ly"
-    },
-    {
-      "added_at": "2026-05-01 04:04:57",
-      "album": {
-        "name": "Bottle Blonde",
-        "url": "https://open.spotify.com/album/6bZoeREsXaMFcpAfNLEvTh"
-      },
-      "artists": [
-        {
-          "name": "Cate",
-          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
-        }
-      ],
-      "duration_ms": 188096,
-      "name": "Crazy For You",
-      "url": "https://open.spotify.com/track/4F20g3pd4jMu7hHNPKoUxG"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "'Cause That Girl",
-        "url": "https://open.spotify.com/album/3aayvtqj8qNBJ6pD5ynnR2"
-      },
-      "artists": [
-        {
-          "name": "Chris Goodwin Band",
-          "url": "https://open.spotify.com/artist/2gcXFS9OxYS0Fq4yqzXinD"
-        }
-      ],
-      "duration_ms": 182254,
-      "name": "'Cause That Girl",
-      "url": "https://open.spotify.com/track/7JT9MizYIIgmJ4D6hBZ8vx"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "Rich Man",
-        "url": "https://open.spotify.com/album/12XLtDpDurSkPWn79ma6Xx"
-      },
-      "artists": [
-        {
-          "name": "Bobby Wills",
-          "url": "https://open.spotify.com/artist/32vz5yfClDLomeIAH6LF5Q"
-        }
-      ],
-      "duration_ms": 185525,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/7b0mAtc6R9lWr8OCegOceI"
     },
     {
       "added_at": "2026-01-09 05:01:23",

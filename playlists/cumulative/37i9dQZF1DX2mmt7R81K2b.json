@@ -2919,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0GoKIi2ahb18yecU6ualW9"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260699,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6ZftPd2YNPVovPzDqZcIuo"
+    },
+    {
+      "album": {
         "name": "Gershwin: Summertime (from \"Porgy and Bess\")",
         "url": "https://open.spotify.com/album/36So4mnwk2zC2sayK2KAZx"
       },

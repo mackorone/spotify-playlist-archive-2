@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Mbosso, Nandy, S2kizzy
+> What is your love language? Say it in Swahili\.  Cover: Harmonize
 
-385 songs - 21 hr 33 min
+386 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 | 2025-01-10 |
 | [I Belong To You](https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [I Belong To You](https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1) | 2:52 | 2023-11-10 | 2024-02-23 |
 | [I Do](https://open.spotify.com/track/0xKkw3VN1fEFWK8BGsyEBM) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [The Black Queen](https://open.spotify.com/album/5hDp3ipvViHB27ya6kWZri) | 3:01 | 2024-07-04 | 2024-07-06 |
+| [I Do](https://open.spotify.com/track/6Jwiz7dPghIJ09mx7CkBf0) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [31](https://open.spotify.com/album/3zNp3g5kEnRMrhAoxg2qhs) | 2:59 | 2026-09-04 |  |
 | [I Do](https://open.spotify.com/track/4e6oiM3w4K2o0lnd3ll8lE) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [I Do](https://open.spotify.com/album/2J0frKTCXVcOUb9piqkVwo) | 3:19 | 2024-09-26 | 2025-04-18 |
 | [I Love You](https://open.spotify.com/track/2Mt3Sq3zpBmZj6pkkttzQs) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [I Love You](https://open.spotify.com/album/3beOuf8HSVjiWzl47doPX6) | 3:10 | 2024-11-22 | 2025-04-04 |
 | [I Love You](https://open.spotify.com/track/3XRI2PTAJ65j7uPKuvpuNS) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Love You](https://open.spotify.com/album/1u4xz5MGmqYxqVMYXdvnyg) | 3:31 | 2026-04-02 |  |
@@ -363,7 +364,7 @@
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 | 2024-06-14 |
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2024-02-23 |
 | [Wait](https://open.spotify.com/track/1Avasqjbg7cadpigVWLJix) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Wait](https://open.spotify.com/album/1DPm1F3u5lArmqgOQw6C63) | 2:52 | 2025-09-12 | 2026-02-13 |
-| [Wange](https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Wange](https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t) | 2:49 | 2026-03-27 |  |
+| [Wange](https://open.spotify.com/track/6xAiy56e2VZxSsWT7EKx2A) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Wange](https://open.spotify.com/album/35FjBLon7dtFYhsWJXtR8t) | 2:49 | 2026-03-27 | 2026-09-05 |
 | [Wangu](https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Wangu](https://open.spotify.com/album/6oQFivXTgklnz7mHzjQkab) | 3:30 | 2026-02-26 | 2026-03-27 |
 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 | 2024-11-29 | 2026-07-31 |
 | [Wanita](https://open.spotify.com/track/6QZBqo7ubhps9A0Z3BvXwf) | [ICent](https://open.spotify.com/artist/56bg8TSGbshdGcQnPXqOlR), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wanita](https://open.spotify.com/album/7utPhWIODju3YH6vdFKokR) | 3:32 | 2025-01-31 | 2025-06-14 |

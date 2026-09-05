@@ -4,7 +4,7 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-231 songs - 12 hr 54 min
+232 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Lo Jujeño](https://open.spotify.com/track/74WFDFXIP58qhGYkklkH20) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Lo Jujeño](https://open.spotify.com/album/5ruxuaQ8tKTXlNMqSZu3hX) | 2:14 | 2023-01-27 | 2023-09-02 |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-08-18 | 2023-10-21 |
 | [Lágrimas de Amor](https://open.spotify.com/track/1BYoQjba1juC70CeBkbtTV) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Yo Soy el Indio](https://open.spotify.com/album/38i6QhEOVlyZG2Lwumhkzp) | 3:06 | 2021-12-31 | 2022-03-12 |
+| [Lágrimas Del Palo Cruz](https://open.spotify.com/track/5OB8HtOzT0GwLkcVn2jOmT) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Lágrimas Del Palo Cruz](https://open.spotify.com/album/73uYKGFnRwagfH0L942gJg) | 2:39 | 2026-09-03 |  |
 | [Maravillosa esta noche](https://open.spotify.com/track/07xCDKEuGKAp36L02UPHJe) | [Los Criollos](https://open.spotify.com/artist/1TsCyGV3RvaqP5liAwEwkK) | [Bien sencillo](https://open.spotify.com/album/1UOBjv9KaXAY0AKviOgy6D) | 3:27 | 2026-07-20 |  |
 | [Me Dicen La Carbonera](https://open.spotify.com/track/6Fh1wejYBoCiGDsbbkqT3m) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN) | [Me Dicen La Carbonera](https://open.spotify.com/album/72iTlanlX1X4kP8cYqv72X) | 2:31 | 2023-11-10 | 2026-07-21 |
 | [Me Duele Que Me Duelas](https://open.spotify.com/track/1ffCdMrIr6EMA0oSrRm38g) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Me Duele Que Me Duelas](https://open.spotify.com/album/0WnPItcpjzY6FjYhKAiNg8) | 3:06 | 2026-07-20 |  |

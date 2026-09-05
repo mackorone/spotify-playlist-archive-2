@@ -4,36 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,646 likes - 27 songs - 1 hr 35 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,647 likes - 13 songs - 52 min 56 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Big Big Sleep](https://open.spotify.com/track/1jIUVSJk8nUT4fpYUQwtmd) | [Le Maine](https://open.spotify.com/artist/4Ry8vd24BRxmJqr1h2I8QC) | [Big Big Sleep](https://open.spotify.com/album/6J1umILN70vtXlZpCbvTWc) | 3:23 |
-| 2 | [Gelato](https://open.spotify.com/track/2RypsWQrKKpJio2UXbt5JI) | [Nightmare](https://open.spotify.com/artist/35v0Xp51aXcDm5PpX1OD5m) | [ASBO](https://open.spotify.com/album/3eLlFpJXOyuFqjFKYs9Vef) | 4:34 |
-| 3 | [MOTIONS](https://open.spotify.com/track/75KHCEfDujbC1H4vJrVuhM) | [MOTHER](https://open.spotify.com/artist/436LWqzQmrcjN6iI1WsYJg) | [MOTIONS](https://open.spotify.com/album/6am6U6rAU6cC2bDhqPKUDq) | 4:07 |
-| 4 | [Ear Worm](https://open.spotify.com/track/34rfXiiIdTvCR0KbVzvyY6) | [OST Fox](https://open.spotify.com/artist/6QsTaQJfaxuA25E2VHaLHw) | [Ear Worm](https://open.spotify.com/album/3Muuo8VGg3A5ulqSVexqUz) | 6:28 |
-| 5 | [no swing zone](https://open.spotify.com/track/7KNFfsMSlOzpIT0Vr7vZB6) | [touko](https://open.spotify.com/artist/2COU1tbZyozjUeGWBc1zn9) | [no swing zone!](https://open.spotify.com/album/6gyn3nnQ3hplkctFNs1IOr) | 3:32 |
-| 6 | [Go Crazy](https://open.spotify.com/track/65MqsZxM72RRW5CjMNorcE) | [TmmyX](https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK) | [Go Crazy](https://open.spotify.com/album/1XKtuG2i0a859PuavVF4BN) | 2:46 |
-| 7 | [comme ci comme ça](https://open.spotify.com/track/3pmCSzvqn28OJqtFdfBBfP) | [Petit Ocean](https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf), [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [comme ci comme ça](https://open.spotify.com/album/26vyeYLMgimxUNBYznUI4z) | 2:15 |
-| 8 | [Crossed The Line](https://open.spotify.com/track/6iRXLySyBxOSRewLgs9mUk) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Crossed The Line](https://open.spotify.com/album/1GSUm60NbqH1eM5qeaY3pI) | 3:18 |
-| 9 | [Common Ground](https://open.spotify.com/track/3fHSefKapA4mZkCapmVY5h) | [Kaocide](https://open.spotify.com/artist/4zorf7dfOl2Xx1H18F0EXI) | [Common Ground](https://open.spotify.com/album/2CHeeY8AlyUkR4qAZk1h5H) | 3:43 |
-| 10 | [Hullua ja unelmaa](https://open.spotify.com/track/0D80cdEjEvB4PPDzGGMka3) | [Olli Helenius](https://open.spotify.com/artist/7GKUfB9z21AJzb2s48lepE) | [Hullua ja unelmaa](https://open.spotify.com/album/5WcxggGc2AKAV8xQEUhfr2) | 3:23 |
-| 11 | [Viimeinen kerta](https://open.spotify.com/track/5cgoffp8dznoygopqbxrLQ) | [Onni](https://open.spotify.com/artist/4C7Hk6wMYyugTkVyj3fXqh) | [Viimeinen kerta](https://open.spotify.com/album/2JEw00cnICfSqcdIWpqKTX) | 2:57 |
-| 12 | [Puotila](https://open.spotify.com/track/2BY5TyqfedAoxrtoTKOS1Y) | [Hamina](https://open.spotify.com/artist/5wPZpQd6Ejo6NSJ1EcMfin) | [Puotila](https://open.spotify.com/album/6zhLQlYVyVESmut6sDo6Vx) | 3:12 |
-| 13 | [För varje andetag](https://open.spotify.com/track/6ug5Qs3RenVHbfkjs0urgj) | [Pelle&Co](https://open.spotify.com/artist/1gV6JB05s97BiBpbv7AY5F) | [För varje andetag](https://open.spotify.com/album/5egbzXJPRNXOmICJHT5Y2n) | 3:50 |
-| 14 | [Open Vein](https://open.spotify.com/track/2f0VPa0mrRNg8sRxure07k) | [God Mother](https://open.spotify.com/artist/4m4mM8KMQd8gtIFC4SOGHL) | [Open Vein](https://open.spotify.com/album/6nOrTjmsNbo18zCXnSSEWV) | 1:04 |
-| 15 | [ELECTRA](https://open.spotify.com/track/0nRELu6uycebETjzski4TH) | [After Death Art](https://open.spotify.com/artist/5zhMspVqdOyFX1YFuDLr53) | [ELECTRA](https://open.spotify.com/album/235EAGys1izOgVnwh1F0GD) | 3:51 |
-| 16 | [Blackshold](https://open.spotify.com/track/1WdvaTZVgobwoohpNR7Nyk) | [CALAMER](https://open.spotify.com/artist/7InIQuycNznW35fnIHlHq9) | [Blackshold](https://open.spotify.com/album/7uNEbbNlwDT6rpLwgnGwLj) | 3:04 |
-| 17 | [It had to be You](https://open.spotify.com/track/48A88AtTifOPf2BTccgo9K) | [Derek B](https://open.spotify.com/artist/0If4PJua4iAR7N8GXUcF00), [Ella](https://open.spotify.com/artist/0gdRZmfLR6Qp6E410Ru89n) | [It had to be You](https://open.spotify.com/album/17gulT5q6GVHwsarMRlvwl) | 3:36 |
-| 18 | [Semi\-Charmed Life](https://open.spotify.com/track/4DG3jZTrxDy2RppYpRE3lh) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [90’s Grass](https://open.spotify.com/album/7uKxLW5zZEjEzOvSqr4PNi) | 4:32 |
-| 19 | [Closing Time](https://open.spotify.com/track/6VXwiFQ6jJTxZCh7k1lPC9) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [90’s Grass](https://open.spotify.com/album/7uKxLW5zZEjEzOvSqr4PNi) | 3:20 |
-| 20 | [In Her Hands](https://open.spotify.com/track/0VJJKFFbCr7QEgSdXpQqJH) | [Nephila](https://open.spotify.com/artist/5ZbjP0UFo6aonRXctRA4ju) | [HULDRA](https://open.spotify.com/album/205MRifd02P7GW14H6mLXf) | 3:19 |
-| 21 | [No Aguanto Más](https://open.spotify.com/track/6wlBiMW3dNUToLTsIbAGR9) | [Murió el Doctor](https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J) | [No Aguanto Más](https://open.spotify.com/album/22rQSTbtagET4Bfqgp6ZiQ) | 2:47 |
-| 22 | [DC](https://open.spotify.com/track/6n26gGgQ6YILDGTPsoIxuA) | [face the bass](https://open.spotify.com/artist/1Hwg0wzIH2L6iirUXAQ0g1) | [DC](https://open.spotify.com/album/0JoYB8m53KEF0JG3rRjLGG) | 4:42 |
-| 23 | [Bofink på min Balkong](https://open.spotify.com/track/2bt7oJ0oRC9tVEyvJxLglw) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [Bofink på min Balkong](https://open.spotify.com/album/719KDBCP6HsQkJ5F7xnJVN) | 3:27 |
-| 24 | [This Year](https://open.spotify.com/track/19lgNfBozdyVBFSy9VM2cy) | [Drop Shadow](https://open.spotify.com/artist/5pFJt8Elph23Cwvdt7EfHX) | [This Year](https://open.spotify.com/album/4mMTb8vEkIadSAgVS2PvWD) | 4:27 |
-| 25 | [Apology Flowers](https://open.spotify.com/track/3gcKeqSrw7RlFTcfEFSp08) | [Saunder](https://open.spotify.com/artist/4G9C1r7GXgbYZYpe6BtQKd) | [Apology Flowers](https://open.spotify.com/album/2Jtd0ftNmncPIEl6xBB8He) | 4:42 |
-| 26 | [I'll Love You Anyway](https://open.spotify.com/track/2STaE1pT8OSkF6Wf0GaA8O) | [PJ Bushell](https://open.spotify.com/artist/3NQoxuvg7wTW7aUZUxGyHo) | [A Case For Chaos](https://open.spotify.com/album/5r32yGL7d3yaoVJXJZVZVy) | 2:57 |
-| 27 | [COSMIC CROSSROADS 2026 \- From "Subway Surfers"](https://open.spotify.com/track/4A0lYlJ5CYpeuJoHSFGFJp) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [COSMIC CROSSROADS 2026 \(From "Subway Surfers"\)](https://open.spotify.com/album/1HwMcuR7DxiXkn20WB7bAx) | 2:18 |
+| 1 | [I Have Suffered Enough](https://open.spotify.com/track/5iIRzoh8NSjgOZ3SNcCNus) | [Blue Alien Mystic](https://open.spotify.com/artist/5TMz8DAwdjonp8zXc8tWhN) | [I Have Suffered Enough](https://open.spotify.com/album/66ZrPr7LH76fIss9QuRZ7e) | 4:26 |
+| 2 | [The Love We Seek](https://open.spotify.com/track/3wOU8qbZwPJz6bebLlvT3K) | [The New Black Diamonds](https://open.spotify.com/artist/3n2wigIgJwLFRgfP3ipE67) | [The Love We Seek](https://open.spotify.com/album/2tN9Qm8RN5d9h1FoGS9z6u) | 3:29 |
+| 3 | [Rise Up](https://open.spotify.com/track/6gFOU4cLidSyAlZfpw6AsK) | [Jodi Moore](https://open.spotify.com/artist/10xhhIPVwzNV1EnHCUzt5g) | [Rise Up](https://open.spotify.com/album/569XzMuNbwnRukLOKaX6Tx) | 5:05 |
+| 4 | [Pocket Full of Rain](https://open.spotify.com/track/2DikT36rTOvs4zBpZbXT3x) | [No Moon Tomorrow](https://open.spotify.com/artist/7urYK3fuNooMgfgxTkeU17) | [Pocket Full of Rain](https://open.spotify.com/album/3tsp6ILSzjZ4EBldEQ725p) | 3:48 |
+| 5 | [City Girl](https://open.spotify.com/track/0xMUhx0NYzZZf0Gqxeii1r) | [City Sound Rebels](https://open.spotify.com/artist/7anz4BzgTccKyEzXfqrdNF) | [City Girl](https://open.spotify.com/album/7sR7whlbdPsXY9ZScqcHJc) | 5:47 |
+| 6 | [Pitch Black](https://open.spotify.com/track/3BzPCodyPS8oicBXpixeJv) | [Awaken The Fire](https://open.spotify.com/artist/4k9YxZViR98Bqsi2QbXaAc) | [Pitch Black](https://open.spotify.com/album/2N0JqLhbpD3d3tq1iM2B3d) | 3:23 |
+| 7 | [Casualties Of Momentum](https://open.spotify.com/track/6Ee5AXMdSntAu5OslqGaSf) | [H3llBLAU](https://open.spotify.com/artist/2jeosJ3N8njOK8329m9rlt) | [Casualties Of Momentum](https://open.spotify.com/album/7gBzYYRAAGXr1mo9S79fYg) | 3:15 |
+| 8 | [Neon Tears](https://open.spotify.com/track/1v9B6zFkxMZ5amrwjIvk9q) | [Sound Interface Device](https://open.spotify.com/artist/2EiEOoh9IlTvUTLtb3z7xo) | [Cosmic Getaway](https://open.spotify.com/album/1VfooLYaPQoT0DvoruiqsB) | 5:06 |
+| 9 | [FIGHTING FOR FREEDOM](https://open.spotify.com/track/7Jt8fhRLvQI5sCHP4gMuG2) | [CRIER](https://open.spotify.com/artist/0H2t1S5KTLLsFuaYCsJnzC) | [FIGHTING FOR FREEDOM](https://open.spotify.com/album/64eryubUfJmqB3bvitNcMY) | 4:44 |
+| 10 | [Act Your Wage](https://open.spotify.com/track/3FW8HwO2wXxmXxjZnQ6Ju0) | [Stabbitha and the Knifey Wifeys](https://open.spotify.com/artist/7k1Oqkb4dWM3Hkyjrp4QpE) | [Disgust](https://open.spotify.com/album/4iepC0rc4upv75TgSKHI9W) | 3:10 |
+| 11 | [Tandtrollsdisco](https://open.spotify.com/track/2c4oYwcUkLWzwoakpBgoTD) | [Den vise Baby kungen](https://open.spotify.com/artist/42URCjkOOottNbEYW9vApN) | [Den vise Baby kungen](https://open.spotify.com/album/3oWNjJEugMdIJEH2aUtO8h) | 3:09 |
+| 12 | [LEVA SOM DU \- REMIX](https://open.spotify.com/track/0nHR90ukyMfcgwjnp6jKj5) | [Sam Bertling](https://open.spotify.com/artist/3uLrN7kvvWG6uPelk11als) | [LEVA SOM DU \(REMIX\)](https://open.spotify.com/album/24Kk5iACob0EW4M7EI0Sg1) | 3:18 |
+| 13 | [FUBAR](https://open.spotify.com/track/4fqiAaWy9fJBQCh35Azhd0) | [The New Magnetic North](https://open.spotify.com/artist/2hp3xkJJ07yieSL0Y6Q42Y) | [Some Days](https://open.spotify.com/album/5gUreOIY3MnK7CPygnwjCW) | 4:10 |
 
-Snapshot ID: `AAAF+d8xNCRi7WIzIWWZ+jpEj1vHOfVw`
+Snapshot ID: `AAAF+wjP6T03rj6xvmtbAhPTyr8IrCRe`

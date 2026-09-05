@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,588 songs - 6 day 8 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,594 songs - 6 day 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2596,5 +2596,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2586 | [leaf](https://open.spotify.com/track/4LjIbStGdsEOFp8DBz86ua) | [Mimi Moon](https://open.spotify.com/artist/6fViq5ClIf7k9q4G8dqfy2) | [My aloe](https://open.spotify.com/album/31fmpUtgv2ChGWG3lbEJ57) | 2:49 |
 | 2587 | [No more Gunmen Dub \(cut 1\)](https://open.spotify.com/track/2XETSASDmBQ4yUUBvV9Qv6) | [Dubmaster Conte](https://open.spotify.com/artist/12Ms9bkvJpFIpOFN6V8ZYl) | [No more Gunmen / Bababoom Dub](https://open.spotify.com/album/3Tnqm0VucHtZLb73asZEZS) | 3:50 |
 | 2588 | [1000 Dollars](https://open.spotify.com/track/6XDfS3RcnpaZ3pmeo577bZ) | [MAGIC MONDAY](https://open.spotify.com/artist/03JUoALu8i6GFdXJR0BVHT) | [1000 Dollars](https://open.spotify.com/album/5bGROZndv3uhgFGukOylre) | 4:21 |
+| 2589 | [Ceniza en tu Boca](https://open.spotify.com/track/5EE74A4rTfwVOs5NwikSxk) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ceniza en tu Boca](https://open.spotify.com/album/7JsbWT2tk37LB3aPI2zBZO) | 3:28 |
+| 2590 | [Maweni Beach](https://open.spotify.com/track/20UqsbhbDwYPzgugBvdFYI) | [Amina Zawadi](https://open.spotify.com/artist/4klT5T78Zj8Kaq0XDP6d6i) | [Maweni Beach](https://open.spotify.com/album/2fwEE4BofUmXMem9fHDV1r) | 2:19 |
+| 2591 | [Babalei](https://open.spotify.com/track/6GVxeypcw1ZzU38FFEyypy) | [Kwame \(IT\)](https://open.spotify.com/artist/284XrwH61fdYHZ2DgdP1cR) | [Babalei](https://open.spotify.com/album/0BtrNBIBjLrvkRceu1tN26) | 2:12 |
+| 2592 | [Curse](https://open.spotify.com/track/1UYXrUo4FCstxVJhV4wl1k) | [Necessary Evil](https://open.spotify.com/artist/6olIVnTb0JPsX8yhx3LPzZ) | [Curse](https://open.spotify.com/album/1VKW2t9mPymX1bL9YxAKFj) | 3:46 |
+| 2593 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 |
+| 2594 | [Eu não vou recuar](https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [Mentiras e Clichês](https://open.spotify.com/album/0vutxwSLdsysrh8NgnuxZX) | 3:24 |
 
-Snapshot ID: `AAALDiFm5UH2DalLn91aRLBNq/sYx1j8`
+Snapshot ID: `AAALFEzUXO/84b1ZtpmXHFs4mdLO5Nv7`

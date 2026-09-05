@@ -1988,10 +1988,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 120000,
       "name": "Atari",
       "url": "https://open.spotify.com/track/1XjCMOz9u9e8wG79fHYoQP"
+    },
+    {
+      "album": {
+        "name": "atem",
+        "url": "https://open.spotify.com/album/5s1eLzLD54UmKelAThJG4W"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144210,
+      "name": "atem",
+      "url": "https://open.spotify.com/track/54CzycKldx5URD05FEHyBz"
     },
     {
       "album": {
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 90732,
       "name": "awake to see the city sleep",
       "url": "https://open.spotify.com/track/34ZmkJqFjkNewux1wZJoAv"
@@ -2296,7 +2314,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 117142,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/17CwEPAHes0NjgbLfZCt9s"
@@ -2438,6 +2456,24 @@
       "duration_ms": 163333,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3WSX75ziUUMqFPrt1893y1"
+    },
+    {
+      "album": {
+        "name": "balloons",
+        "url": "https://open.spotify.com/album/4XZS5ahWcnPe7aiM7oH0cu"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "balloons",
+      "url": "https://open.spotify.com/track/4GsRUAY7eZMQFXnFG1iYXF"
     },
     {
       "album": {
@@ -3795,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "breakaway",
+        "url": "https://open.spotify.com/album/1VnRRHgtBPBHvGoxIRIHdZ"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "breakaway",
+      "url": "https://open.spotify.com/track/1LuidkdHUwTLPW7tyuc8QS"
+    },
+    {
+      "album": {
         "name": "breakfast outside",
         "url": "https://open.spotify.com/album/29yponNSIYRTvnuN4psniF"
       },
@@ -4906,6 +4960,24 @@
       "duration_ms": 76800,
       "name": "Changed",
       "url": "https://open.spotify.com/track/5mvcUvy1ckRhvl2MrWPD0c"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2ETpsIuFievzuNfyjMrHzb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/2uvveOyvOy4OfJs8pImhu3"
     },
     {
       "album": {
@@ -7136,7 +7208,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 127500,
       "name": "dogdays",
       "url": "https://open.spotify.com/track/2iEs1stmTnjxcDQRVgqDI2"
@@ -8518,7 +8590,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 116666,
       "name": "end of time",
       "url": "https://open.spotify.com/track/4WQl6cI7wdBdJWpP21bKiI"
@@ -8576,7 +8648,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 90810,
       "name": "Espectro",
       "url": "https://open.spotify.com/track/1QehBD3s0Yff4RKrepvBvG"
@@ -10046,6 +10118,28 @@
       "duration_ms": 120000,
       "name": "for you...",
       "url": "https://open.spotify.com/track/6gUtsMjQuNTvJXkVIPlqIq"
+    },
+    {
+      "album": {
+        "name": "Forage",
+        "url": "https://open.spotify.com/album/1jiuC2a5RdKrYCUVKMgBXF"
+      },
+      "artists": [
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147945,
+      "name": "Forage",
+      "url": "https://open.spotify.com/track/1CWefHKcQFzEIehpvCkU3Q"
     },
     {
       "album": {
@@ -11715,6 +11809,28 @@
     },
     {
       "album": {
+        "name": "hiding",
+        "url": "https://open.spotify.com/album/0kjMvbzlEm1fAKXuh9wWCr"
+      },
+      "artists": [
+        {
+          "name": "Cloophie",
+          "url": "https://open.spotify.com/artist/4IeQ3mv23oNLUGBHk4mOIU"
+        },
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "hiding",
+      "url": "https://open.spotify.com/track/7lizSskRGv9bSXgxfxPmpk"
+    },
+    {
+      "album": {
         "name": "high lines",
         "url": "https://open.spotify.com/album/3Pa9qFAljKQz68K7Np6fcT"
       },
@@ -12306,6 +12422,28 @@
       "duration_ms": 144008,
       "name": "I Got Lost at the Aquarium",
       "url": "https://open.spotify.com/track/44pQZSHeXef3RuKomOOeTU"
+    },
+    {
+      "album": {
+        "name": "I know the ending",
+        "url": "https://open.spotify.com/album/0T5ypEQeNxiK676fBoQpcp"
+      },
+      "artists": [
+        {
+          "name": "alcinous",
+          "url": "https://open.spotify.com/artist/5exJeWiFSaSkGtUAThzDB2"
+        },
+        {
+          "name": "Pevanni",
+          "url": "https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117894,
+      "name": "I know the ending",
+      "url": "https://open.spotify.com/track/6EB32fyuiVtqh5eLZH0DDZ"
     },
     {
       "album": {
@@ -14698,7 +14836,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 134865,
       "name": "ladybugs",
       "url": "https://open.spotify.com/track/2rek75wQDqxmBFF8XAuq4i"
@@ -15602,6 +15740,24 @@
       "duration_ms": 98048,
       "name": "Like This, Like That",
       "url": "https://open.spotify.com/track/4n4wIZe1tw41mG0QpBrTFY"
+    },
+    {
+      "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/0RyQQ9ylhJ8fsgYNNEcwrU"
+      },
+      "artists": [
+        {
+          "name": "tatsuo",
+          "url": "https://open.spotify.com/artist/0yW4uPjl7S5Rk0sjOzVRTb"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137410,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/5wZ9NWrX5w8nHTso9C5Sor"
     },
     {
       "album": {
@@ -17190,7 +17346,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 148235,
       "name": "Mahone Bay",
       "url": "https://open.spotify.com/track/2vbrq3aG9w6Uu4z1nirX9R"
@@ -22080,7 +22236,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 113239,
       "name": "Pistacchio",
       "url": "https://open.spotify.com/track/7FUbpPN4QGeQwD6TOj1TJS"
@@ -22636,7 +22792,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 109000,
       "name": "Quiet Days",
       "url": "https://open.spotify.com/track/2hTmVvP1LNcfqPp15kUTVA"
@@ -26465,6 +26621,24 @@
     },
     {
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3DW5Db6lXxK659Q7YXuwXi"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/32t8uFTVcVeHLMGrIl4kon"
+    },
+    {
+      "album": {
         "name": "reflections",
         "url": "https://open.spotify.com/album/6g7Ts5ow6HLyCs5x9Fy8FA"
       },
@@ -29952,7 +30126,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 132000,
       "name": "this is a love song",
       "url": "https://open.spotify.com/track/0Am4xYsVuJjh4gPJcTyLrt"
@@ -31827,6 +32001,28 @@
     },
     {
       "album": {
+        "name": "n\u0259\u02c8stalj\u0259",
+        "url": "https://open.spotify.com/album/2M1Awy3o9eykuBdMRMqCwI"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        },
+        {
+          "name": "Ol Wallace",
+          "url": "https://open.spotify.com/artist/0R4bCRfiDBcRYcn9g0e35c"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96187,
+      "name": "Views",
+      "url": "https://open.spotify.com/track/1VMKkSYYLX0tz7cG00PeYz"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/4R8Vz6szozsXUipPIUhrDO"
       },
@@ -32002,6 +32198,24 @@
       "duration_ms": 175020,
       "name": "Waalian (Lo-Fi)",
       "url": "https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD"
+    },
+    {
+      "album": {
+        "name": "Waffle Clouds",
+        "url": "https://open.spotify.com/album/35lmhQfk9EAH1TPgeBhwj0"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105105,
+      "name": "Waffle Clouds",
+      "url": "https://open.spotify.com/track/5BDI8tLO64NNcV23Lr2wLK"
     },
     {
       "album": {
@@ -33140,7 +33354,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 103000,
       "name": "whisper me home",
       "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
@@ -33434,6 +33648,28 @@
       "duration_ms": 144615,
       "name": "wildflower walk",
       "url": "https://open.spotify.com/track/3mcGCTghkfVwws7J8Td7AZ"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3wQPUmLozJC7Y6Q3BeNwCb"
+      },
+      "artists": [
+        {
+          "name": "Yles",
+          "url": "https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/6GcxLsEJQoJWzqhZC3UMVQ"
     },
     {
       "album": {

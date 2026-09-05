@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Toxe✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,180 likes - 247 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,245 likes - 247 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

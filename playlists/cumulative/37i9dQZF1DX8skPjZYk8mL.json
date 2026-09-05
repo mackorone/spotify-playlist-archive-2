@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "a lull in light",
+        "url": "https://open.spotify.com/album/1s5a39YMoUBqfq2qkvcs9H"
+      },
+      "artists": [
+        {
+          "name": "pencil dreaming",
+          "url": "https://open.spotify.com/artist/1OLbfsyTtWjJoUivXVFS58"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "a lull in light",
+      "url": "https://open.spotify.com/track/6afbEvaLthqMyFXnwbQUes"
+    },
+    {
+      "album": {
         "name": "A Magic Door",
         "url": "https://open.spotify.com/album/4tqn24jIdRLBiocuVlu448"
       },
@@ -2723,6 +2741,24 @@
     },
     {
       "album": {
+        "name": "Billy Ballerina",
+        "url": "https://open.spotify.com/album/08XjLQmNDgQQau85a5MFVe"
+      },
+      "artists": [
+        {
+          "name": "Brian Zeller",
+          "url": "https://open.spotify.com/artist/4yKC0oIL4z8XeeRWTGiSNx"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85588,
+      "name": "Billy Ballerina",
+      "url": "https://open.spotify.com/track/1gQ4JtnXcPD5jNKGVBk9GB"
+    },
+    {
+      "album": {
         "name": "Billy Boy",
         "url": "https://open.spotify.com/album/1VVe1690y0gKZpbdqndcnQ"
       },
@@ -3695,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "Carillon",
+        "url": "https://open.spotify.com/album/0TD5ApZPg3k9WdAV8T44iX"
+      },
+      "artists": [
+        {
+          "name": "Oreste Lucas",
+          "url": "https://open.spotify.com/artist/4SGvJZae6yfX6EZuNxOBNd"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105632,
+      "name": "Carillon",
+      "url": "https://open.spotify.com/track/1ZItXjvLeBMLug1ZmlQwJu"
+    },
+    {
+      "album": {
         "name": "Celestial Bridge",
         "url": "https://open.spotify.com/album/0B9uoaxw6fMzDnqLpGPttO"
       },
@@ -3728,6 +3782,24 @@
       "duration_ms": 101265,
       "name": "Chanson De Berceau",
       "url": "https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2"
+    },
+    {
+      "album": {
+        "name": "Charlie the Quiet Fox",
+        "url": "https://open.spotify.com/album/7At8epdxGqZB4QXDljVeeV"
+      },
+      "artists": [
+        {
+          "name": "James Wilson",
+          "url": "https://open.spotify.com/artist/3ga6yp9X6U92WEuBdIGMem"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118991,
+      "name": "Charlie the Quiet Fox",
+      "url": "https://open.spotify.com/track/206F62MSP5JjHgI6yDncRi"
     },
     {
       "album": {
@@ -7270,10 +7342,28 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 104333,
       "name": "Gentle Nightfall",
       "url": "https://open.spotify.com/track/02rnRDyPFZo92BDKmJc75L"
+    },
+    {
+      "album": {
+        "name": "Gentle Nightfall",
+        "url": "https://open.spotify.com/album/0ODhw7MCSddu0NyonKztQ0"
+      },
+      "artists": [
+        {
+          "name": "Iggy Harrison",
+          "url": "https://open.spotify.com/artist/5SFT2c0WWMScxh7il5VypM"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134583,
+      "name": "Gentle Nightfall",
+      "url": "https://open.spotify.com/track/2qm4yRo8i8sIIKBt0V0ElG"
     },
     {
       "album": {
@@ -8861,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "Hopscotch",
+        "url": "https://open.spotify.com/album/3o8EEX04CgXXudBm2An5gs"
+      },
+      "artists": [
+        {
+          "name": "Korey Cremona",
+          "url": "https://open.spotify.com/artist/1m9jLyEPbjFzydjZHdeigX"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119110,
+      "name": "Hopscotch",
+      "url": "https://open.spotify.com/track/3nB4deQmvlGuCWtLwmCPsh"
+    },
+    {
+      "album": {
         "name": "Horizon of Dreams",
         "url": "https://open.spotify.com/album/4SiGtVKw75SCNGCKM4DonR"
       },
@@ -10294,7 +10402,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 121482,
       "name": "John Blund",
       "url": "https://open.spotify.com/track/3TptFEpWAROx6OhMIoEnJr"
@@ -10528,7 +10636,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 122534,
       "name": "Kitty Made a Toy",
       "url": "https://open.spotify.com/track/1amKv2iacIgMI7OTgmEG4F"
@@ -12188,6 +12296,24 @@
       "duration_ms": 85458,
       "name": "Majas visa",
       "url": "https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD"
+    },
+    {
+      "album": {
+        "name": "Mama and Her Ducklings",
+        "url": "https://open.spotify.com/album/45O2tODCxVJveg7NFAJu7Z"
+      },
+      "artists": [
+        {
+          "name": "Alverin Ljusen",
+          "url": "https://open.spotify.com/artist/2pegAWRAVWCLKlhNglkDns"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108594,
+      "name": "Mama and Her Ducklings",
+      "url": "https://open.spotify.com/track/3IXdvBPMMNmOKNluxaEj2m"
     },
     {
       "album": {
@@ -14488,7 +14614,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 96274,
       "name": "Naptime",
       "url": "https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg"
@@ -14708,6 +14834,24 @@
       "duration_ms": 113800,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/1lTMz0eLHFrK0YiX61kbpL"
+    },
+    {
+      "album": {
+        "name": "Nighty Moon",
+        "url": "https://open.spotify.com/album/3dQgGpX49BpbbzZaSih4mP"
+      },
+      "artists": [
+        {
+          "name": "Moira Lune",
+          "url": "https://open.spotify.com/artist/5Evzc18UWs8hbbQqhpJZ82"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112518,
+      "name": "Nighty Moon",
+      "url": "https://open.spotify.com/track/33Dgj64rh7I8HXilhPZhkC"
     },
     {
       "album": {
@@ -15662,6 +15806,24 @@
       "duration_ms": 113576,
       "name": "Petite Journey",
       "url": "https://open.spotify.com/track/5bLD4xsq1eJ4y3dsvLFzAj"
+    },
+    {
+      "album": {
+        "name": "Pillow Of Starlight",
+        "url": "https://open.spotify.com/album/0udt6nvlrv8YvvNv5gC2Lf"
+      },
+      "artists": [
+        {
+          "name": "Daniella Averys",
+          "url": "https://open.spotify.com/artist/0s8VJiOs4NWCoZ657S3E3q"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Pillow Of Starlight",
+      "url": "https://open.spotify.com/track/4eeXKIIE80AU7rvfKkm5FD"
     },
     {
       "album": {
@@ -19150,7 +19312,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-05",
       "duration_ms": 98830,
       "name": "Star Glow",
       "url": "https://open.spotify.com/track/2OrWoteM0JIphd40CWdd67"
@@ -19298,6 +19460,24 @@
       "duration_ms": 75789,
       "name": "Starry Sprinkles",
       "url": "https://open.spotify.com/track/2bhgQZe1w5JkXya5JdMIyt"
+    },
+    {
+      "album": {
+        "name": "Starry Starry Sky",
+        "url": "https://open.spotify.com/album/1oqzJ4yAcWPOyIggHZV6R7"
+      },
+      "artists": [
+        {
+          "name": "Richie Goulding",
+          "url": "https://open.spotify.com/artist/5b5SPZ7aLs0XfLvysfiASR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89733,
+      "name": "Starry Starry Sky",
+      "url": "https://open.spotify.com/track/0MDCE1r7hA7N14UgukHOQn"
     },
     {
       "album": {

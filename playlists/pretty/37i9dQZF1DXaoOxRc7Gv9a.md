@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoOxRc7Gv9a.md) - [plain]
 
 > Enjoy the sound track of Still Shining with memorable lines from the show \(샤이닝의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661 likes - 30 songs - 58 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,668 likes - 30 songs - 58 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34364,
+  "num_followers": 34370,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
+        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+      },
+      "artists": [
+        {
+          "name": "Rona Kenan",
+          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+        }
+      ],
+      "duration_ms": 204423,
+      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
+      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-        "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
+        "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0"
       },
       "artists": [
         {
-          "name": "Rona Kenan",
-          "url": "https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 204423,
-      "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
-      "url": "https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr"
+      "duration_ms": 256000,
+      "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -523,22 +539,6 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 186421,
-      "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
         "name": "PENNY LAME",
         "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 180352,
       "name": "PENNY LAME",
       "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
+        "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/5Rxznk6IJnfljjWTdzyk9i"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 186421,
+      "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -607,22 +623,6 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
         "name": "WATCH THE NEWS",
         "url": "https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 166996,
       "name": "WATCH THE NEWS",
       "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -659,8 +675,8 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-        "url": "https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt"
+        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
       },
       "artists": [
         {
@@ -668,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 222000,
-      "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-      "url": "https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze"
+      "duration_ms": 216000,
+      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -687,34 +703,6 @@
       "duration_ms": 187434,
       "name": "\u05db\u05d5\u05ea\u05d1 \u05e9\u05d9\u05e8\u05d9 \u05e4\u05e8\u05d9\u05d3\u05d4",
       "url": "https://open.spotify.com/track/7AZHHG5GcjASyOWv11OBQ1"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
-        "name": "African Coast",
-        "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
-      },
-      "artists": [
-        {
-          "name": "Balkan Beat Box",
-          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
-        },
-        {
-          "name": "Trinidad James",
-          "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
-        },
-        {
-          "name": "Ori Kaplan",
-          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
-        },
-        {
-          "name": "Tamir Muskat",
-          "url": "https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR"
-        }
-      ],
-      "duration_ms": 182638,
-      "name": "African Coast",
-      "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -759,8 +747,36 @@
     {
       "added_at": "2026-09-03 22:03:12",
       "album": {
-        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
+        "name": "African Coast",
+        "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
+      },
+      "artists": [
+        {
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+        },
+        {
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7"
+        },
+        {
+          "name": "Ori Kaplan",
+          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
+        },
+        {
+          "name": "Tamir Muskat",
+          "url": "https://open.spotify.com/artist/0JpjOln5myM6tFYglXTsAR"
+        }
+      ],
+      "duration_ms": 182638,
+      "name": "African Coast",
+      "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
+        "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
+        "url": "https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt"
       },
       "artists": [
         {
@@ -768,25 +784,9 @@
           "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 216000,
-      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
-      },
-      "artists": [
-        {
-          "name": "Monica Sex",
-          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+      "duration_ms": 222000,
+      "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
+      "url": "https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -807,6 +807,22 @@
       "duration_ms": 304400,
       "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
       "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
+    },
+    {
+      "added_at": "2026-09-03 22:03:12",
+      "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+      },
+      "artists": [
+        {
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
     },
     {
       "added_at": "2026-09-03 22:03:12",
@@ -863,22 +879,6 @@
       "duration_ms": 210620,
       "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
-    },
-    {
-      "added_at": "2026-09-03 22:03:12",
-      "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q"
-      },
-      "artists": [
-        {
-          "name": "Omer Netzer",
-          "url": "https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d"
-        }
-      ],
-      "duration_ms": 229099,
-      "name": "Midnight Blue",
-      "url": "https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

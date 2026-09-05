@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Broke Carrey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,513 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,507 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 9 | [Tan Linda](https://open.spotify.com/track/0rCX14qkY3KiS9p9wTP5Fp) | [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Tan Linda](https://open.spotify.com/album/2Dw4kOyM7qHcRrsAHNWCPm) | 2:56 |
 | 10 | [Quién va a cantar](https://open.spotify.com/track/0rJFZjUamurKu7Y6jdBQx1) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr) | [Quién va a cantar](https://open.spotify.com/album/4XtW6stHkJaRAOEMYh5N7w) | 2:47 |
 | 11 | [Gente así](https://open.spotify.com/track/7jowWfPD38Qi8jdIXjiqjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [María Wolff](https://open.spotify.com/artist/2BpnBoHCfKB1OVeH4JJeLf) | [Gente así](https://open.spotify.com/album/56xWpa2Kd04PIw4aKGOXQz) | 3:51 |
-| 12 | [Track 3](https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 0:00 |
+| 12 | [La Finitud de las Cosas](https://open.spotify.com/track/2DgW0xLlRqhuwW81GYGGPY) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [La Lista](https://open.spotify.com/album/7i18zxTnzHqmGjs7P0edKQ) | 2:49 |
 | 13 | [Afuera](https://open.spotify.com/track/3Z2pbcrWI4Q8z1r1meLOKv) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Afuera](https://open.spotify.com/album/7H0QtsXzjY2X80RQABI9K7) | 3:25 |
 | 14 | [Cocodrilo](https://open.spotify.com/track/0DFVGmxnqnq7fq8zA1leIo) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [LA NUEVA VIOLENCIA](https://open.spotify.com/album/6OFtCmtiEuIhIXnwz5QTZk) | 3:16 |
 | 15 | [dios hizo barro](https://open.spotify.com/track/7pvTSvIn8eItANUaZ3A6oi) | [Juane Pelegrin](https://open.spotify.com/artist/56TL9baGgi5E2L80LFElqo), [Julen y la Gente Sola](https://open.spotify.com/artist/6LOIQfbOC8gCrm9Y45EPki) | [elige vida](https://open.spotify.com/album/0vCOAMbvk0zUu5RaXgEcpp) | 2:59 |
