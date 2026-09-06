@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Magi Merlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,297 likes - 20 songs - 59 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88,298 likes - 20 songs - 59 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

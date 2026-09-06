@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50870,
+  "num_followers": 50869,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAcrH+A2AASiECeZzSdMaAI",
+  "snapshot_id": "apoKAAAAAADcIVx7unGSAUZpmS01se/O",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 192218,
-      "name": "No Tiene Comparaci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un D\u00eda a La Vez (En Vivo)",
         "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
       },
@@ -499,26 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Del Dorian",
-        "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
+        "name": "Desde Navolato Vengo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9"
       },
       "artists": [
-        {
-          "name": "Grupo Fernandez",
-          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 224413,
-      "name": "La Vida Del Dorian",
-      "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
+      "duration_ms": 192218,
+      "name": "No Tiene Comparaci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV"
     },
     {
       "added_at": null,
@@ -547,6 +523,30 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida Del Dorian",
+        "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "La Vida Del Dorian",
+      "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
     },
     {
       "added_at": null,

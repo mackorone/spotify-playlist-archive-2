@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tbIsLEZuCd.md) - [plain]
 
 > Great taste always comes back around\. Discover it here\. Amira Elfeky, Estevie, House of Protection, and Lily Meola pass down the sounds and styles they keep on repeat\. A Spotify x Depop experience\. Hit play\. Get put on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,736 likes - 61 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741 likes - 61 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

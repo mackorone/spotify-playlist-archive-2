@@ -10117,6 +10117,28 @@
     },
     {
       "album": {
+        "name": "THE ANTIHUMAN",
+        "url": "https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "Stephanafro",
+          "url": "https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230150,
+      "name": "THE ANTIHUMAN",
+      "url": "https://open.spotify.com/track/2PLUQi0nRbx5lT2ncSJYYG"
+    },
+    {
+      "album": {
         "name": "SLANEY VS SODASTEAL",
         "url": "https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd"
       },

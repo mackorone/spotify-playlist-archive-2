@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,987 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,076 likes - 101 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

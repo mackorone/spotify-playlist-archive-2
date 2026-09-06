@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Christopher, Malte & Mumle, Berg og mange flere ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,452 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,451 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

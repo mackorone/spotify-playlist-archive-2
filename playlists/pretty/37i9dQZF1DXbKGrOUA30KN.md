@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,631 likes - 91 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,568 likes - 91 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

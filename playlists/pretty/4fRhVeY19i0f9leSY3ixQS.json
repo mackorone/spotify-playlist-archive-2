@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1827,
+  "num_followers": 1831,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAATz6rRwfsyfLih/c61STLkrl2FJhgy",
+  "snapshot_id": "AAAT2HU1R0tnvWKUoAVcaG9bOT3jMlap",
   "tracks": [
     {
       "added_at": "2026-08-27 00:33:05",
@@ -175,6 +175,22 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-09-05 16:42:16",
+      "album": {
+        "name": "All The Worlds A Stage",
+        "url": "https://open.spotify.com/album/7Bp29dvZFgIGDYtVj2EOvq"
+      },
+      "artists": [
+        {
+          "name": "Gordo Bardot",
+          "url": "https://open.spotify.com/artist/28F44Svtu30Jj8s4q4yunR"
+        }
+      ],
+      "duration_ms": 241268,
+      "name": "All The Worlds A Stage",
+      "url": "https://open.spotify.com/track/00UrXK6b9AXYK4rCY3XKQQ"
     },
     {
       "added_at": "2026-09-04 20:48:36",
@@ -1483,38 +1499,6 @@
       "duration_ms": 198315,
       "name": "Despite the Outcome",
       "url": "https://open.spotify.com/track/3o61ISs4qBMzfjAnn6w0GJ"
-    },
-    {
-      "added_at": "2026-08-05 13:01:25",
-      "album": {
-        "name": "Every Noise at Once",
-        "url": "https://open.spotify.com/album/5dtiaOmJcas10BtPy1NhjW"
-      },
-      "artists": [
-        {
-          "name": "Good Rifles",
-          "url": "https://open.spotify.com/artist/44Aq2HIdcKz37kU4ZwKbXG"
-        }
-      ],
-      "duration_ms": 153102,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/3yeOxEljgsCVWMZmhD2lxg"
-    },
-    {
-      "added_at": "2026-08-05 12:54:07",
-      "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/552xwvOwJWHeO4j9aSTV3o"
-      },
-      "artists": [
-        {
-          "name": "Dear Doky",
-          "url": "https://open.spotify.com/artist/04Q5ZQFConUk1fKPYHzTKH"
-        }
-      ],
-      "duration_ms": 188423,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6g9bLKT1QoeGwPmjYQ5cdN"
     },
     {
       "added_at": "2026-06-18 11:56:24",
@@ -4461,6 +4445,22 @@
       "url": "https://open.spotify.com/track/4F3JZ83Ioteaw2HeTeLn2w"
     },
     {
+      "added_at": "2026-09-05 16:48:29",
+      "album": {
+        "name": "dream diary \u3086\u3081\u306b\u3063\u304d",
+        "url": "https://open.spotify.com/album/4XVZGql64s9FhpnRC6WZBE"
+      },
+      "artists": [
+        {
+          "name": "Waxstar",
+          "url": "https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "phosphorium",
+      "url": "https://open.spotify.com/track/2UQDju7O1tY1xvT0iNY39K"
+    },
+    {
       "added_at": "2026-09-04 20:57:26",
       "album": {
         "name": "Someone in My Head",
@@ -4507,6 +4507,70 @@
       "duration_ms": 167881,
       "name": "The Athlete's Demise",
       "url": "https://open.spotify.com/track/3Uw72sdEd3rW5smjrTnWdq"
+    },
+    {
+      "added_at": "2026-09-05 08:48:22",
+      "album": {
+        "name": "Trauma Bond",
+        "url": "https://open.spotify.com/album/3arHKlimm0D91eiQEgTVdJ"
+      },
+      "artists": [
+        {
+          "name": "Jess & The Dropouts",
+          "url": "https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD"
+        }
+      ],
+      "duration_ms": 218336,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2UZZ1AO25CVBRwCLHnmVuD"
+    },
+    {
+      "added_at": "2026-09-05 08:48:44",
+      "album": {
+        "name": "Dysfunctional Disco",
+        "url": "https://open.spotify.com/album/1450btXGPiaMUsNA0u0bku"
+      },
+      "artists": [
+        {
+          "name": "Tears of the Fatman",
+          "url": "https://open.spotify.com/artist/6ZoJe1Rgnv3JxHq7eYHbWp"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Evrybuddy",
+      "url": "https://open.spotify.com/track/6EKX94PupgSQwglRfjdQTm"
+    },
+    {
+      "added_at": "2026-09-05 16:50:15",
+      "album": {
+        "name": "Come in Peace",
+        "url": "https://open.spotify.com/album/6fLEX5UV6BjBnpgHYr655Q"
+      },
+      "artists": [
+        {
+          "name": "Vega Rose",
+          "url": "https://open.spotify.com/artist/4f0zvgxUPgzSj1D7V68nju"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Disco Planet",
+      "url": "https://open.spotify.com/track/2pLA0gq0zfwnvccNkChvbe"
+    },
+    {
+      "added_at": "2026-09-05 16:50:41",
+      "album": {
+        "name": "Caught In The Middle",
+        "url": "https://open.spotify.com/album/0xbM3qIPjF0cke0xnOSqhO"
+      },
+      "artists": [
+        {
+          "name": "Counting Sheep",
+          "url": "https://open.spotify.com/artist/1tvRwzDvNICZifBoiNohZS"
+        }
+      ],
+      "duration_ms": 188494,
+      "name": "Caught In The Middle",
+      "url": "https://open.spotify.com/track/5EccRbsoiS316tuRpvEzwh"
     }
   ],
   "unique_name": "Spotify Radio",

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Mareux and more
+> With Pastel Ghost, Phantogram, Mareux and more
 
 1,857 songs - 4 day 18 hr 20 min
 
@@ -276,7 +276,7 @@
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2024-03-05 | 2024-03-06 |
 | [Brian is the Most Beautiful](https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:45 | 2023-09-26 | 2026-09-02 |
 | [Broken Philosophy](https://open.spotify.com/track/0SWZJAYVsbmwzsJ5ptssBB) | [Pi.A](https://open.spotify.com/artist/0QjzP3493Oc3b9h5ZwuWdw) | [Broken Philosophy](https://open.spotify.com/album/1HBq0WLOpxiHiFCXedA5En) | 2:26 | 2022-10-09 | 2022-10-10 |
-| [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2025-03-18 |  |
+| [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 | 2025-03-18 | 2026-09-06 |
 | [Brokeup](https://open.spotify.com/track/7pQyoXUiVOptxs9FuA6wOX) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Stretch 2](https://open.spotify.com/album/0EENZAipASKMdo404CPRwE) | 2:52 | 2022-03-09 | 2022-08-01 |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2024-03-18 | 2024-06-20 |
 | [Brotherhood](https://open.spotify.com/track/4uuFvVKwLSAiXF46Dvxf6f) | [Solar Year](https://open.spotify.com/artist/3X7cqK1DIt6V1mvBnngKhx) | [Waverly](https://open.spotify.com/album/4hALVe3YtybqYEkPzLpDnn) | 5:32 | 2023-04-13 | 2023-05-04 |
@@ -389,7 +389,7 @@
 | [Crash](https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:09 | 2022-06-25 | 2022-07-03 |
 | [crawlersout](https://open.spotify.com/track/54AnwduX0v10qXzZjhiUB5) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:10 | 2023-06-04 | 2023-06-05 |
 | [Creatura](https://open.spotify.com/track/2qhKGS5B4nPIOhN9a0Fdme) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [HANADRIEL](https://open.spotify.com/album/4BlLJn9RjIJ9WufqeufTCU) | 3:56 | 2022-07-28 | 2022-07-29 |
-| [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 | 2024-03-05 |  |
+| [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 | 2024-03-05 | 2026-09-06 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2021-01-08 | 2021-12-18 |
 | [Crimewave](https://open.spotify.com/track/3yQFmN8A5S8Kf1nUJuvb01) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/5nM3cUPxqg7iqjaoyeCWtN) | 4:18 | 2020-10-16\* | 2021-01-08 |
 | [Crimewave](https://open.spotify.com/track/65iYbm2yC7fKPeFhO4M6oX) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7wv3aJpBLyDwoacQrRRFFU) | 4:18 | 2025-11-07 | 2025-11-08 |
@@ -1300,7 +1300,7 @@
 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 | 2022-01-01 | 2022-04-02 |
 | [Preservation](https://open.spotify.com/track/1DfBgQB0sYiVA818nXTDol) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:40 | 2022-12-09 | 2023-08-28 |
 | [Preservation](https://open.spotify.com/track/5pjGIOM7a6M4mB8ZVLhel6) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:40 | 2022-03-16 | 2022-10-13 |
-| [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2024-01-11 | 2026-09-05 |
+| [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2024-01-11 |  |
 | [Pretty Bones](https://open.spotify.com/track/1wl53ydLl7vh2t7bFMZ5dn) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/5HZHvhX5TpJJD6hTgn0j0D) | 4:33 | 2022-04-21 | 2022-09-12 |
 | [Pretty Dark \- Demo](https://open.spotify.com/track/27TwBntAb6UgUVJVyY0B2U) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Pretty Dark \(Demo\)](https://open.spotify.com/album/3saDZIHSjWBBdQTCN1aG6t) | 4:12 | 2020-10-27 | 2020-11-03 |
 | [PREY](https://open.spotify.com/track/2x5NmER7At4EkPzEzVJZBd) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [PREY//IV](https://open.spotify.com/album/0MA1g3G6pOmh1cc4FALDrZ) | 2:20 | 2022-04-08 | 2023-12-31 |
@@ -1421,7 +1421,7 @@
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2020-10-24 | 2022-03-08 |
 | [Shadow](https://open.spotify.com/track/7b3YF30p0ghFL7LykwaraK) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1), [Goo Munday](https://open.spotify.com/artist/540egazqjMY2Lm7NPclRQ2) | [Exorcism](https://open.spotify.com/album/39Gw0iMQQjfGI0v7p1oasA) | 4:09 | 2025-10-01 | 2026-04-14 |
 | [Shadows](https://open.spotify.com/track/4TimKwMIY6mTJXEdSilVP9) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:28 | 2024-01-14 | 2024-09-06 |
-| [Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 3:28 | 2024-09-06 |  |
+| [Shadows](https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 3:28 | 2024-09-06 | 2026-09-06 |
 | [shadowshow](https://open.spotify.com/track/4obdp8Nty0Cad7pAoY77h6) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [BLUE](https://open.spotify.com/album/0mECQjDNmBl1vThYWBQX5D) | 5:24 | 2022-03-24 | 2022-09-09 |
 | [Shadowside](https://open.spotify.com/track/2RYzm2lelugDMf0UcxR36i) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Shadowside](https://open.spotify.com/album/6JmuwDDaO5SeKypwskj2ua) | 5:08 | 2022-10-29 | 2022-10-30 |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/3awA5h5b7xwPxCIlUK1p4c) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:55 | 2023-05-04 | 2025-12-13 |
@@ -1444,7 +1444,7 @@
 | [Sick of the Sun](https://open.spotify.com/track/6udc7qqsfHJH5uql9gOIMO) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:11 | 2022-06-15 | 2022-10-16 |
 | [Sidewalk Safari](https://open.spotify.com/track/6nsZ23hRFXCVkk9NwuzAz0) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:49 | 2022-05-07 | 2022-05-18 |
 | [Sidney's Lullaby](https://open.spotify.com/track/6MQxmNGmQqcJT1uBidQUdS) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Sidney's Lullaby](https://open.spotify.com/album/506gZaqv5DXu8OjrhYui9e) | 3:19 | 2021-09-02 | 2021-09-17 |
-| [Silhouette](https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71) | 3:59 | 2024-04-19 | 2026-09-05 |
+| [Silhouette](https://open.spotify.com/track/3HoGF4zDfQOkNQnUY6W2nH) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/230rGveNEYVpC6pqrXRZ71) | 3:59 | 2024-04-19 |  |
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2023-09-26 | 2024-02-02 |
 | [silkspun](https://open.spotify.com/track/7e4yf2ICJQqfuiKyk3oaoC) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [WOMB](https://open.spotify.com/album/7mm8NRdr4E5gNGYAL0RoaZ) | 3:35 | 2022-04-05 | 2023-06-09 |
 | [Silver Soul](https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:58 | 2021-03-30 | 2024-03-23 |
@@ -1570,7 +1570,7 @@
 | [Super Stars](https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:05 | 2021-10-28 | 2022-03-09 |
 | [Supersoaker](https://open.spotify.com/track/0Sbxha3C1QZNRBmzVyQawE) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/0NjpedEWmXVlxHhLl7nTor) | 3:04 | 2021-10-07 | 2021-10-30 |
 | [Supersoaker](https://open.spotify.com/track/21lsxNQxBO9TLUsq3AqDfK) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9) | 3:04 | 2022-01-09 | 2022-10-25 |
-| [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 | 2022-11-04 | 2026-09-05 |
+| [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 | 2022-11-04 |  |
 | [Superstar](https://open.spotify.com/track/3w91918dPywkczARMO5tnJ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 6:08 | 2021-12-01 | 2021-12-02 |
 | [Superstar](https://open.spotify.com/track/4EIFBTyp0yoOTVOqUKUEQy) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Superstar](https://open.spotify.com/album/1kI4QfnDNFyK8giPZ9bdXK) | 2:55 | 2020-10-19 | 2020-11-22 |
 | [Susie Save Your Love](https://open.spotify.com/track/32tUYhAygMdx9XxFxxj3It) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cape God](https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae) | 3:58 | 2020-10-17 | 2022-03-14 |

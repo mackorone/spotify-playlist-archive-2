@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777960,
+  "num_followers": 777958,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAD+gh9I63DEnkUxKsLf3yhO",
+  "snapshot_id": "apoKAAAAAACcGFOTZ/qYAU2Ce2L2qKwN",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+      "duration_ms": 196520,
+      "name": "LA Devotee",
+      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 196520,
-      "name": "LA Devotee",
-      "url": "https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ"
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
     },
     {
       "added_at": null,

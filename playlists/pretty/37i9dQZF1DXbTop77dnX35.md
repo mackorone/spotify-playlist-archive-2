@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Bees & Honey, and Omah Lay Black Sherif, Boj & Ajebutter,  Nasty C, 2 Chainz, Wiz Khalifa, LISA and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,596 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,664 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41477,
+  "num_followers": 41481,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADr8rN3qLtTZDqqn1CDAFNr",
+  "snapshot_id": "apoKAAAAAABlbldyBWPVXL5CJprf6dWZ",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 284360,
-      "name": "Everything Must Go",
-      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Cut Me Up Jenny",
-      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
     },
     {
       "added_at": null,

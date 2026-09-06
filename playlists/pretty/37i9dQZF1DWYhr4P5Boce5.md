@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,117 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,116 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 92 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |
 | 93 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 |
 | 94 | [My World](https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [My World](https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN) | 3:19 |
-| 95 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
-| 96 | [Sunday Coffee](https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Sunday Coffee](https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk) | 1:31 |
+| 95 | [Sunday Coffee](https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Sunday Coffee](https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk) | 1:31 |
+| 96 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
 | 97 | [Without The Risk](https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Without The Risk](https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS) | 3:43 |
 | 98 | [Loving Me Like Jesus](https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Loving Me Like Jesus](https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz) | 3:12 |
 | 99 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |

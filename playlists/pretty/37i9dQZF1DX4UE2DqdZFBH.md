@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,508 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,520 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 94 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 |
 | 95 | [Unfold](https://open.spotify.com/track/0qgeMWjLSn8O4Lyy22E2Ye) | [Karthick Iyer](https://open.spotify.com/artist/1MwvKygex8H7vb2KqINLxz) | [Unfold](https://open.spotify.com/album/1F3O6qshrBwito065TLN17) | 1:40 |
 | 96 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 |
-| 97 | [Level Up](https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz) | 2:58 |
-| 98 | [Mask](https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Mask](https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf) | 4:57 |
+| 97 | [Mask](https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Mask](https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf) | 4:57 |
+| 98 | [Level Up](https://open.spotify.com/track/4YF5L6U90H7bU7GQ25497z) | [Wabisabi](https://open.spotify.com/artist/5YII9GsBhqKzQgqLy3xDgA), [Rajeev Prasanna](https://open.spotify.com/artist/0cYYHB1dkwNq5FgcP6xZu2), [Abhishek Dasgupta](https://open.spotify.com/artist/7gWcOkLaYH0PfJ8RBZeYmj), [Sanglap Sengupta](https://open.spotify.com/artist/2SmBVQOuykpq3Uz3AhMU0V), [Jairaj Joshi](https://open.spotify.com/artist/26c2bpTdcmjA3nYGzfgnif) | [Beginners Luck](https://open.spotify.com/album/4l6UFFoN4C7uixV6qFVuqz) | 2:58 |
 | 99 | [Suka \- Instrumental Version](https://open.spotify.com/track/03Z44Y3S9rpSWGOj8BPs4V) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 5:17 |
 | 100 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 |
 

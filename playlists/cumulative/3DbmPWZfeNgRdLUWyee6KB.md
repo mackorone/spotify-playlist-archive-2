@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,465 songs - 3 day 13 hr 18 min
+1,467 songs - 3 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 | 2026-05-26 | 2026-07-03 |
 | [para la niña que un día fui](https://open.spotify.com/track/02kulGMAiGlCqFvoPq2FqY) | [SISSIE](https://open.spotify.com/artist/1eJKvBgKswZlJd4N0j3Nar) | [para el lugar que me vio crecer](https://open.spotify.com/album/0VSwRX6zQRkhIECkP0huhH) | 2:19 | 2026-01-24 | 2026-02-20 |
 | [Paradise](https://open.spotify.com/track/5MxbHfOqvSdP1c33DBdma6) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:10 | 2026-02-12 | 2026-03-15 |
+| [Paranoia](https://open.spotify.com/track/3dmveUmjQOAb2yR4azcvYw) | [TheDamnedKirai](https://open.spotify.com/artist/3FcKEtMQWB3qk95I7Y0n9Y) | [Paranoia](https://open.spotify.com/album/3mlXTWuAxkvyP5YGW64Ivq) | 4:21 | 2026-09-05 |  |
 | [Paranoid](https://open.spotify.com/track/7mEI3CpUWf7LdEah1QWYyW) | [RunAway](https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp) | [Paranoid](https://open.spotify.com/album/355kpn62Z3In51dBINK14M) | 3:29 | 2026-06-23 | 2026-07-19 |
 | [Parched as Hell](https://open.spotify.com/track/6NjHTQtSOHZ5z9xlCyb6qZ) | [Consorcio Humano](https://open.spotify.com/artist/6pzNibk8eE0etGvSTW8rjI) | [Parched as Hell](https://open.spotify.com/album/5VvaqTNUsEVu3mVeRZllJx) | 2:52 | 2026-08-14 |  |
 | [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 | 2026-05-24 | 2026-07-03 |
@@ -1446,6 +1447,7 @@
 | [You fill my life](https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW) | [Debora Gioè](https://open.spotify.com/artist/6C9jZZoxXCFasaJ989cQyd) | [You fill my life](https://open.spotify.com/album/2QHcqrhbL3napTYSiPdBWI) | 3:23 | 2026-06-02 | 2026-07-03 |
 | [You Just Want Sex](https://open.spotify.com/track/1gKUHmmt034rVgEJa331K4) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [You Just Want Sex](https://open.spotify.com/album/0bgSwyYZRCbSs1gDmWz1ns) | 3:32 | 2026-07-29 | 2026-08-30 |
 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 | 2025-12-05 | 2026-01-15 |
+| [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-09-05 |  |
 | [You Only Live Once](https://open.spotify.com/track/78ZUdJY596WjWnlO2rrf1H) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [You Only Live Once](https://open.spotify.com/album/7A3KnD5zWY1u4obrLVdN5f) | 3:43 | 2026-06-30 | 2026-08-10 |
 | [You Orient Me](https://open.spotify.com/track/7J7pMhd7fB8UhwC7JsBDmE) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [You Orient Me](https://open.spotify.com/album/5JyTywZwRy29o97qQpKZpR) | 3:30 | 2026-08-22 |  |
 | [YOU SHOULD KNOW](https://open.spotify.com/track/0sPPHtsOUhgGZP7vC366rP) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [YOU SHOULD KNOW](https://open.spotify.com/album/4CkIrQzgFRTE1aNK1kJB0V) | 2:23 | 2026-01-15 | 2026-02-20 |

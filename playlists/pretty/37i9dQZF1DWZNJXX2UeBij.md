@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > The 2000s called\. We picked up\. Celebrating 25 years of the iconic music of Dil Chahta Hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,862,906 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,366 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

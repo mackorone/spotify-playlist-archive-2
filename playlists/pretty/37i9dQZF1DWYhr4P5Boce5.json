@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210117,
+  "num_followers": 210116,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Sunday Coffee",
+        "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 91141,
+      "name": "Sunday Coffee",
+      "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 222868,
       "name": "Holding On to You - Single Version",
       "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Sunday Coffee",
-        "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 91141,
-      "name": "Sunday Coffee",
-      "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
     },
     {
       "added_at": "2026-07-29 15:15:10",

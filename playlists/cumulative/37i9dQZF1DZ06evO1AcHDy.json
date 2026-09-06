@@ -60,28 +60,6 @@
     {
       "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Coco Morier",
-          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
-        }
-      ],
-      "date_added": "2024-04-08",
-      "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
-      "duration_ms": 106832,
-      "name": "Bees & Honey (Bonus Track)",
-      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
-    },
-    {
-      "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
       },
       "artists": [
@@ -100,6 +78,28 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/5td3aQXu6mpU2HDSzt1i5z"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Coco Morier",
+          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106832,
+      "name": "Bees & Honey - Bonus Track",
+      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
     },
     {
       "album": {

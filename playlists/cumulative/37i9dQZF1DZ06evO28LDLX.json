@@ -975,6 +975,28 @@
     },
     {
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/6nLttkyOq3hrynxwMehBt9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145586,
+      "name": "Lyric Pieces Book 9, Op. 68: No. 5, At the Cradle",
+      "url": "https://open.spotify.com/track/4McgbEFTE84obaK3EJlS0m"
+    },
+    {
+      "album": {
         "name": "\"Landscapes\": A Classical Soundtrack",
         "url": "https://open.spotify.com/album/04NrCNfsyfCzeo7VdjwUx1"
       },
@@ -1328,7 +1350,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"

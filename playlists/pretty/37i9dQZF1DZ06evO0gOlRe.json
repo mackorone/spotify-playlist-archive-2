@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37416,
+  "num_followers": 37420,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAC/+/ddcpRzqmC+VNMecbTd",
+  "snapshot_id": "apoKAAAAAAATZHeD8S0Gk1RnAe7gqo8U",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 138400,
-      "name": "blame's on me",
-      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
+      "duration_ms": 190666,
+      "name": "i wish you cheated",
+      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
     },
     {
       "added_at": null,
@@ -95,38 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Scared of Myself",
-      "url": "https://open.spotify.com/track/7gnJbQcm0abwugDk1Xyxj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "i wish you cheated",
-      "url": "https://open.spotify.com/track/6yCcEYC4iWqMGqOsmQV99o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
       },
@@ -143,6 +111,38 @@
       "duration_ms": 168750,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "blame's on me",
+      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Scared of Myself",
+      "url": "https://open.spotify.com/track/7gnJbQcm0abwugDk1Xyxj5"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If?",
-        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171760,
-      "name": "The Way a Heart Breaks",
-      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
+      "duration_ms": 214285,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/278AZLs8DAqE2hldJ8pw41"
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 214285,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/1QNt0bhIXWu5XdlXlYI4iI"
+      "duration_ms": 171760,
+      "name": "The Way a Heart Breaks",
+      "url": "https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life at First Sight",
-        "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "Life at First Sight",
-      "url": "https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1xXwe8GRCA9xt18XDaEopd"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 190873,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/43I6PQfwHbXMipL4mvb5Zf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life at First Sight",
+        "url": "https://open.spotify.com/album/7pQfFjGdIT73op3XXM6G7J"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Life at First Sight",
+      "url": "https://open.spotify.com/track/54TAOgQWiq0jBDZ1D5F8vC"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Would You Lie",
         "url": "https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR"
     },
     {
       "added_at": null,
@@ -404,25 +404,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Again",
-        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
+      "duration_ms": 215173,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 232340,
       "name": "Best Damn Thing",
       "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,

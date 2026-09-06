@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1161423,
+  "num_followers": 1161828,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABZ23x6MUFaTdlGi1xLEZoj",
+  "snapshot_id": "apoKAAAAAADEqTtkwxH3Ge5nXueZkNPX",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Es El After?",
-        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 122986,
-      "name": "Como De Sol A Sol",
-      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
+      "duration_ms": 153785,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
     },
     {
       "added_at": null,
@@ -767,18 +759,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
+        "name": "\u00bfD\u00f3nde Es El After?",
+        "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
       "artists": [
         {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 153785,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
+      "duration_ms": 122986,
+      "name": "Como De Sol A Sol",
+      "url": "https://open.spotify.com/track/74yeYD6XNdGWGb2FeihqCa"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165542,
-      "name": "Doliendo Bastante",
-      "url": "https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 194838,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165542,
+      "name": "Doliendo Bastante",
+      "url": "https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0"
     },
     {
       "added_at": null,

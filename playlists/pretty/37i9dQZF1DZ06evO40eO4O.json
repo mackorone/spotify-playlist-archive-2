@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8991,
+  "num_followers": 9016,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABdCe4AZuYLVgIadFm5oNr+",
+  "snapshot_id": "apoKAAAAAABLGyy0+ERhHIdvdAy7PuII",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINGIA",
-        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "FINGIA",
-      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4V8VrdZELSBwlvKaEr4jNC"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 199340,
       "name": "Las Leyes de La Vida",
       "url": "https://open.spotify.com/track/1E9mUWox7ZaSnfGS4P3fBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FINGIA",
+        "url": "https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "FINGIA",
+      "url": "https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA"
     },
     {
       "added_at": null,

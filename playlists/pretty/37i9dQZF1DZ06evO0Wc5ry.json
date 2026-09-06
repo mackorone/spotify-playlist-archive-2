@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 169309,
+  "num_followers": 169324,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACn1usR9tlCrV2CYSYNlDc8",
+  "snapshot_id": "apoKAAAAAABYocv/PHaaq2COzFPosAxs",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 222655,
-      "name": "Da Art of Storytellin' (Pt. 1)",
-      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
+      "duration_ms": 426859,
+      "name": "SpottieOttieDopaliscious",
+      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 426859,
-      "name": "SpottieOttieDopaliscious",
-      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC"
+      "duration_ms": 222655,
+      "name": "Da Art of Storytellin' (Pt. 1)",
+      "url": "https://open.spotify.com/track/1KQymTxNJfWk6vCD5ywKW2"
     },
     {
       "added_at": null,
@@ -543,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can't Wait featuring Outkast",
-        "url": "https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT"
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
       "artists": [
         {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        },
-        {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
         }
       ],
-      "duration_ms": 272546,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR"
+      "duration_ms": 526372,
+      "name": "Liberation (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb"
     },
     {
       "added_at": null,
@@ -579,22 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+        "name": "I Can't Wait featuring Outkast",
+        "url": "https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
         },
         {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 526372,
-      "name": "Liberation (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/1H6S9OkozTNvcASUX4Bfgb"
+      "duration_ms": 272546,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
       "artists": [
         {
@@ -632,17 +632,13 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Scar",
-          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 264400,
-      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
-      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
     },
     {
       "added_at": null,
@@ -663,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz"
       },
       "artists": [
         {
@@ -672,13 +668,17 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Scar",
+          "url": "https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
         }
       ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+      "duration_ms": 264400,
+      "name": "Morris Brown (feat. Scar & Sleepy Brown)",
+      "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Cyst
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,414 likes - 296 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,410 likes - 296 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

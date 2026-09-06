@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: White Chorus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,920 likes - 98 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,916 likes - 98 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

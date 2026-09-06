@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 140097,
+  "num_followers": 140169,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM"
       },
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Between The Sheets",
-        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 338133,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
       },
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
       },
       "artists": [
         {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+      "duration_ms": 338133,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
     },
     {
       "added_at": "2025-05-23 07:54:59",

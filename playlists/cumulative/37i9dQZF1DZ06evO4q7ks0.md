@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-103 songs - 6 hr 26 min
+104 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Analyse](https://open.spotify.com/track/4jMEymCdvlhqCYZdzLO0JM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp) | 4:10 | 2025-03-08 |  |
 | [Animal Instinct](https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:31 | 2025-03-08 |  |
 | [Away](https://open.spotify.com/track/019HjfytZgeJRGpzSOVh5e) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(30th Anniversary / Super Deluxe Edition\)](https://open.spotify.com/album/5VJ5kSs6Pct7Wh9cPQyJeC) | 2:38 | 2025-09-13 |  |
-| [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 | 2025-03-08 |  |
+| [Cordell](https://open.spotify.com/track/7rExM1JfHUgEyIPLot5CZL) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Gold](https://open.spotify.com/album/5zjZVqXPI7J5qtBsZMjlI8) | 3:40 | 2025-03-08 | 2026-09-06 |
 | [Desperate Andy](https://open.spotify.com/track/5uF13htfgQxdBpNtpaqUBT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Bury The Hatchet](https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e) | 3:44 | 2026-08-26 | 2026-08-27 |
 | [Dreaming My Dreams](https://open.spotify.com/track/4UTl2IO4zwZkU4KXbShgUg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:37 | 2025-03-08 | 2025-09-09 |
-| [Dreaming My Dreams \- 2025 Remastered](https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:36 | 2025-09-09 |  |
+| [Dreaming My Dreams \- 2025 Remastered](https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:36 | 2025-09-09 | 2026-09-06 |
+| [Dreaming My Dreams \- Live At The London Astoria II, 1994](https://open.spotify.com/track/4SoTt9wzHzpMf1btxVYhBg) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live At The London Astoria II, 1994](https://open.spotify.com/album/7vJk7ccgDbENvYwNtn6e5j) | 3:52 | 2026-09-06 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-03-08 | 2026-06-12 |
 | [Dreams \- Acoustic Version](https://open.spotify.com/track/2J8xeXaGojJxfwlgcXISez) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:24 | 2025-03-08 |  |
 | [Dreams \- Remastered 2026](https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:33 | 2026-06-12 |  |
@@ -29,7 +30,7 @@
 | [Empty \- Live At The London Astoria II, 1994](https://open.spotify.com/track/3vdQT29MvBGPuOCwuzGRGH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty \(Live At The London Astoria II, 1994\)](https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX) | 3:52 | 2026-07-10 |  |
 | [Empty \- Live MTV Unplugged](https://open.spotify.com/track/12sxeMvMRpKGe9vqBImiBS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty](https://open.spotify.com/album/4W52uLWuYeNT3GJWoAb5fl) | 4:10 | 2025-09-21 | 2025-10-19 |
 | [Everything I Said](https://open.spotify.com/track/3dw1KIS8K5INsoeEXHQDdy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:52 | 2025-09-05 | 2025-09-09 |
-| [Everything I Said \- 2025 Remastered](https://open.spotify.com/track/2Dm6YlM8g7iyaP2rlWeYS9) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:52 | 2026-08-26 | 2026-08-27 |
+| [Everything I Said \- 2025 Remastered](https://open.spotify.com/track/2Dm6YlM8g7iyaP2rlWeYS9) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:52 | 2026-08-26 |  |
 | [Forever Yellow Skies](https://open.spotify.com/track/6e3nEEnyeHFnnMdFImIBmM) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:08 | 2026-08-26 | 2026-08-27 |
 | [Free To Decide](https://open.spotify.com/track/42e1QfTyPYWuoddr0ghc0i) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:25 | 2025-03-08 |  |
 | [Free to Decide \- Acoustic Version](https://open.spotify.com/track/0Ttp25IjQ0IUEtmNgb84fA) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 3:17 | 2026-08-26 | 2026-08-27 |

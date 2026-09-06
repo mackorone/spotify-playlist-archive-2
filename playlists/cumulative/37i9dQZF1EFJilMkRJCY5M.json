@@ -117,6 +117,42 @@
     },
     {
       "album": {
+        "name": "All for Nothing",
+        "url": "https://open.spotify.com/album/7I4biCiz4l1K1JEeLcEWAT"
+      },
+      "artists": [
+        {
+          "name": "Faith Hopkins",
+          "url": "https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185456,
+      "name": "All for Nothing",
+      "url": "https://open.spotify.com/track/1bNiYAH8XGajKV2QB0r82A"
+    },
+    {
+      "album": {
+        "name": "MMO3",
+        "url": "https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219680,
+      "name": "Almost Was",
+      "url": "https://open.spotify.com/track/7vgvhrvnkN76Z5oYRxB4Sl"
+    },
+    {
+      "album": {
         "name": "American Dream",
         "url": "https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl"
       },
@@ -294,6 +330,24 @@
       "duration_ms": 169951,
       "name": "Boots to the Club",
       "url": "https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX"
+    },
+    {
+      "album": {
+        "name": "MMO3",
+        "url": "https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201906,
+      "name": "Borrow Tomorrow",
+      "url": "https://open.spotify.com/track/7ECi07OWAnkpfxTMvLA1u8"
     },
     {
       "album": {
@@ -1027,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Future History",
+        "url": "https://open.spotify.com/album/4EHgSyCfTca6SDVBr2G2HV"
+      },
+      "artists": [
+        {
+          "name": "Carda",
+          "url": "https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO"
+        },
+        {
+          "name": "Jack Newsome",
+          "url": "https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194528,
+      "name": "Future History",
+      "url": "https://open.spotify.com/track/0mjx0wo5jbVjfbds3kRlOQ"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p"
       },
@@ -1100,6 +1176,24 @@
       "duration_ms": 182326,
       "name": "Girl Wonder",
       "url": "https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4"
+    },
+    {
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215164,
+      "name": "Golden Days",
+      "url": "https://open.spotify.com/track/5dOdysFdXSPhUltpIPwIRC"
     },
     {
       "album": {
@@ -1980,6 +2074,24 @@
       "duration_ms": 194543,
       "name": "Luckier",
       "url": "https://open.spotify.com/track/7Fb3sRIpWeB55rQ6iCbTpQ"
+    },
+    {
+      "album": {
+        "name": "Lucky To Be Loved",
+        "url": "https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6"
+      },
+      "artists": [
+        {
+          "name": "Baylee Lynn",
+          "url": "https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180508,
+      "name": "Lucky To Be Loved",
+      "url": "https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ"
     },
     {
       "album": {

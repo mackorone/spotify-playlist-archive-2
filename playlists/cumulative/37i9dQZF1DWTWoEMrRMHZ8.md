@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Djavan
 
-1,261 songs - 3 day 1 hr 25 min
+1,262 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Cuida de mim](https://open.spotify.com/track/6iKMTz1fKTN50PQOkLXHIh) | [Guilherme Castel](https://open.spotify.com/artist/13EnZwFsY0CxXKiEsAIOpX) | [Cuida de mim](https://open.spotify.com/album/4Tg4kfHPx27Xbm4CegjX2U) | 3:28 | 2024-06-14 | 2024-07-19 |
 | [Céu Azul](https://open.spotify.com/track/5a6lWVjTdhcPjlgolPv1Ha) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Céu Azul / Canção no Rádio](https://open.spotify.com/album/797YaMO31dVt2atdiuUc6R) | 3:09 | 2025-02-07 | 2026-03-28 |
 | [Céu da Boca](https://open.spotify.com/track/5Q7BuAZbulj3VezdhoPBAD) | [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Tori](https://open.spotify.com/artist/03euHNnmuAWwDfvrIBStRS) | [Céu da Boca](https://open.spotify.com/album/1WJrBgNXkyjJwwL5dSDwis) | 4:00 | 2025-04-28 | 2025-05-31 |
+| [Cê Tá pensando Que Eu Sou Loki?](https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9) | [Arnaldo Baptista](https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1), [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Cê Tá pensando Que Eu Sou Loki?](https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I) | 3:14 | 2026-09-04 |  |
 | [D'Ouro Brilhante](https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW), [Di Melo](https://open.spotify.com/artist/3mF2vErMvYsldeouUAo2k3) | [D'Ouro Brilhante](https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv) | 4:06 | 2026-05-29 |  |
 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 | 2022-10-19 | 2022-12-10 |
 | [Da Mesma Matéria](https://open.spotify.com/track/4En42mLgcoo3lSAOUxIWUY) | [Rê Gugli](https://open.spotify.com/artist/4i61oiNj2OuvVp2wMvZxp8), [NÍCCOLO](https://open.spotify.com/artist/3Zvh3iidBzCYNwldU46HWQ) | [Da Mesma Matéria](https://open.spotify.com/album/5MTzGyUuyasjq7q2387za6) | 2:52 | 2026-03-27 | 2026-06-13 |
@@ -854,7 +855,7 @@
 | [Pisadinha](https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Pisadinha](https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY) | 3:16 | 2023-07-21 | 2023-10-07 |
 | [Planeta Vênus \- Ao Vivo no Noites Cariocas](https://open.spotify.com/track/4dpuPTfpY0tvaXsloKKPbE) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu), [Baby Do Brasil](https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls) | [Baby e Pepeu \(Ao Vivo no Noites Cariocas\)](https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC) | 4:21 | 2022-07-22 | 2023-09-02 |
 | [Planos do Céu](https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Planos do Céu](https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V) | 4:07 | 2024-07-26 | 2024-09-07 |
-| [PLENA](https://open.spotify.com/track/0PV2Ajb4Lo05x51bWwJFUo) | [Maíra Guedes](https://open.spotify.com/artist/6tvHdAkKWIN9ja4GCWlYMI) | [ENTRELACES](https://open.spotify.com/album/3EhMg4z2miSfE46PjRs4st) | 4:23 | 2026-08-28 |  |
+| [PLENA](https://open.spotify.com/track/0PV2Ajb4Lo05x51bWwJFUo) | [Maíra Guedes](https://open.spotify.com/artist/6tvHdAkKWIN9ja4GCWlYMI) | [ENTRELACES](https://open.spotify.com/album/3EhMg4z2miSfE46PjRs4st) | 4:23 | 2026-08-28 | 2026-09-06 |
 | [Pode Amar](https://open.spotify.com/track/1ymxekSYIHAgO2Tg7CZeCT) | [Maíra Garrido](https://open.spotify.com/artist/4yLOANxWBJrt875pfJWCtk), [Juliana Linhares](https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN) | [Pode Amar](https://open.spotify.com/album/4GXQ26QsD4CnyQixy5Zdyo) | 3:31 | 2022-01-21 | 2022-02-10 |
 | [Pois é](https://open.spotify.com/track/2sVXcLNGtYwSbOO5I8xpAb) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre Homens e Automóveis](https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6) | 3:05 | 2021-12-24 | 2023-03-12 |
 | [Poliamor \- Acústico](https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe) | [Poliamor \(Acústico\)](https://open.spotify.com/album/2tgQHFbqFj0fUHG4wUudLC) | 2:50 | 2023-06-02 | 2023-07-22 |

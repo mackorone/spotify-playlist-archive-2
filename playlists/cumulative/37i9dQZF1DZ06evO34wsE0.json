@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Boots (feat. Shania Twain)",
+        "url": "https://open.spotify.com/album/4uwwxmoZWDLb5lbM8aDnGf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Boots (feat. Shania Twain)",
+      "url": "https://open.spotify.com/track/01250QTCDYXoXq6ikHoc4R"
+    },
+    {
+      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -288,7 +310,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 166792,
       "name": "Dirty Rosie",
       "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
@@ -628,7 +650,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 200367,
       "name": "I'd Be Loving Me",
       "url": "https://open.spotify.com/track/6liXi6cJZMRp9CC8dpUQCg"
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 235284,
       "name": "Northern Town",
       "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"

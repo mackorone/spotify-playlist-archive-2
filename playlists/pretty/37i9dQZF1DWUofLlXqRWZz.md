@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,720 likes - 86 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,857 likes - 86 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 | 85 | [Elements](https://open.spotify.com/track/1jrFczYf5NysHccOQPXnNP) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:05 |
 | 86 | [Taranta \- Remastered 2020](https://open.spotify.com/track/4zMdbrKpIMxe3RFTAptsjc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mauro Durante](https://open.spotify.com/artist/05SxaycC6mQpGMP2AEwEZM) | [Undiscovered](https://open.spotify.com/album/13N7JjBSjtRhNZwf6FpsLn) | 4:22 |
 
-Snapshot ID: `AAAAABvbAlIAsGp6QAmjuLF1WY9bMh+L`
+Snapshot ID: `AAAAALFb0V8+Ms3Cary2Raf7W7544Lme`

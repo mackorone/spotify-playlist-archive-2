@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Empieza el mes patrio como se debe en compañía de Chino Pacas y muchas rolitas bien perronas <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,936 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,236 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

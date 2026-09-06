@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,412 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,440 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 85 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
 | 86 | [Elderly Woman Behind the Counter in a Small Town \- Radio Edit](https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli) | [Drunken Hearts](https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH), [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Silas Herman](https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt) | [Elderly Woman Behind the Counter in a Small Town](https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg) | 3:41 |
 | 87 | [Drivin' Nails In My Coffin \- Live](https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA) | [Country's Family Reunion](https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Simply Bluegrass \(Live / Vol\. 1\)](https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B) | 3:10 |
-| 88 | [Smells Like Teen Spirit](https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0) | [Mandowar](https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks) | [Fistful Of Bullets](https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk) | 4:31 |
+| 88 | [Linger](https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY) | [Aine Burns](https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz) | [Linger](https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP) | 4:28 |
 | 89 | [Ohio](https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ohio](https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl) | 2:53 |
-| 90 | [Linger](https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY) | [Aine Burns](https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz) | [Linger](https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP) | 4:28 |
-| 91 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |
+| 90 | [good 4 u \- Spotify Sessions](https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 3:36 |
+| 91 | [Smells Like Teen Spirit](https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0) | [Mandowar](https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks) | [Fistful Of Bullets](https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk) | 4:31 |
 | 92 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Break on Through \(To the Other Side\)](https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT) | 3:35 |
 | 93 | [If I Needed You](https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag) | [Admiral Radio](https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v) | [If I Needed You](https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU) | 3:23 |
 | 94 | [Born to Run](https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Born to Run](https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X) | 4:41 |

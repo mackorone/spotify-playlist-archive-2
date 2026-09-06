@@ -4,7 +4,7 @@
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: LIN D
 
-13,584 songs - 36 day 18 hr 59 min
+13,585 songs - 36 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4604,6 +4604,7 @@
 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 | 2022-06-03 | 2022-06-18 |
 | [Heart Cry \- Acoustic](https://open.spotify.com/track/6ljf7FI7aEUggYb2N4Vo5E) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Heart Cry \(Acoustic\)](https://open.spotify.com/album/2AS5sgV0G1b6Yo8snoChXJ) | 6:26 | 2023-09-01 | 2023-09-16 |
 | [Heart Is Good \- Live](https://open.spotify.com/track/0NlrMkLpCNaj1KUyNjDO6U) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [FRVR FREE: Live From Athens, GA](https://open.spotify.com/album/6KnRPd9znWnrpxZKIcKE65) | 5:37 | 2022-06-17 | 2022-07-02 |
+| [Heart Like Heaven \- in lieu of me](https://open.spotify.com/track/1VUaj16xDwJ6Jox7SOqJOL) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- in lieu of me \(Vol\. 2\)](https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1) | 6:01 | 2026-09-04 |  |
 | [Heart of God](https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Heart of God](https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS) | 3:53 | 2022-07-29 | 2022-08-20 |
 | [heart of heaven](https://open.spotify.com/track/5oYViuxzQmU2MSQxAXp36r) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [heart of heaven](https://open.spotify.com/album/7BZ3TiEPKZlz9kLD0xBYvI) | 4:03 | 2026-01-23 | 2026-01-31 |
 | [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2022-08-12 | 2022-08-27 |

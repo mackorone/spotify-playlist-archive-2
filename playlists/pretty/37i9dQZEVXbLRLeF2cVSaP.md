@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,773 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,775 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Тело похудело](https://open.spotify.com/track/4N3IBdnUsYkY5gcaJ4LpWR) | [КОРЗА](https://open.spotify.com/artist/1WbISJKyEkdo0BPxuCN7Uw) | [Тело похудело](https://open.spotify.com/album/1ags4F55YOyN4ECu1uFw39) | 2:24 |
 | 50 | [агентство насилия™](https://open.spotify.com/track/6W3Psuj5yAWF2EQ4xRv6Ut) | [gotlibgotlibgotlib](https://open.spotify.com/artist/60BuDy9NuubibSQWzvE3w1), [Sabu](https://open.spotify.com/artist/7sg61WJ1RMuH3Yxtysrxny) | [агентство насилия™](https://open.spotify.com/album/4X9phIzro92X1TOjmQd7QE) | 2:15 |
 
-Snapshot ID: `Mi42eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mi+H+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

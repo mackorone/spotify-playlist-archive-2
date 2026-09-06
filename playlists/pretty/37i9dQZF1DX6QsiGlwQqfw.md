@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,730 likes - 48 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,736 likes - 48 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 11 | [Dhun in Madhyam se Gara \- Studio](https://open.spotify.com/track/2E6CaLThMXVtfa1lt4qmlk) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Silken Strings](https://open.spotify.com/album/1D5ftreyjAxac1oqd1v4hq) | 5:59 |
 | 12 | [Raga Shudh Nat](https://open.spotify.com/track/1owwIPlqMsGKfmtJjop4s5) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:10 |
 | 13 | [Raga Bhinna Kauns \- Alap](https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Rare Masterpiece \- Raga Bhinna Kauns](https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn) | 9:48 |
-| 14 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
-| 15 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 |
+| 14 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 |
+| 15 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 16 | [The Beginning](https://open.spotify.com/track/4BIq5SZHEJ4DEbC859nZnS) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 3:36 |
 | 17 | [Raga Hansadhwani](https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 14:40 |
 | 18 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Ustad Vilayat Khan](https://open.spotify.com/artist/1g7sP2AgbNmuDUD3qj7LVV) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |

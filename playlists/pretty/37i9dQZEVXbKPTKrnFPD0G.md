@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,318 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,334 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [M U S A E L E V Á](https://open.spotify.com/track/7vPsviPvbWsFd9VuftF5JT) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:07 |
 | 50 | [Para La Gilada \- Remix](https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Para La Gilada \(Remix\)](https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU) | 2:56 |
 
-Snapshot ID: `Mi42eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mi+H+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

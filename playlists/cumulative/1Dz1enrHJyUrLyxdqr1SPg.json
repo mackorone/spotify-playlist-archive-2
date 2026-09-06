@@ -277,6 +277,40 @@
     },
     {
       "album": {
+        "name": "borderlinda",
+        "url": "https://open.spotify.com/album/5C9snPTfbJX9gDGhtEvXxv"
+      },
+      "artists": [
+        {
+          "name": "Oghamyst",
+          "url": "https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12"
+        },
+        {
+          "name": "Danos",
+          "url": "https://open.spotify.com/artist/6lWSNaLlIITAVNO0u76ikK"
+        },
+        {
+          "name": "Marvy",
+          "url": "https://open.spotify.com/artist/5gxMLATm0iC82ZFLfXOYu5"
+        },
+        {
+          "name": "Subkronos",
+          "url": "https://open.spotify.com/artist/0b21fbAWFf7T2eFKZtE3vr"
+        },
+        {
+          "name": "Zaratu$tra",
+          "url": "https://open.spotify.com/artist/1MfpD66gW14yrNNdgqcCzZ"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175238,
+      "name": "borderlinda",
+      "url": "https://open.spotify.com/track/25bFm5HNIsoITlsQG1URVd"
+    },
+    {
+      "album": {
         "name": "Burst (ANNA Remix)",
         "url": "https://open.spotify.com/album/1bVcpOwHIrXjWKNouJ7ybL"
       },
@@ -2934,7 +2968,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 155347,
       "name": "\u0436\u043e\u043b (Listen To Your Heart)",
       "url": "https://open.spotify.com/track/6ojRITs2gacBxJVL7Wmm2Y"

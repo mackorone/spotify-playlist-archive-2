@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover:  Bumkey\)
 
-937 songs - 2 day 1 hr 23 min
+938 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,6 +588,7 @@
 | [No Blueberries](https://open.spotify.com/track/0sGuE1QPupKA3D0LyZbTaN) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [No Blueberries](https://open.spotify.com/album/0b2gjEKztBkBBhQ16bM1JS) | 3:05 | 2022-04-19 | 2022-07-29 |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-03-28 |
 | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh) | 2:56 | 2022-04-19 | 2022-06-26 |
+| [No Rational](https://open.spotify.com/track/6MFXc89xFLHSsvFNpnoLRw) | [aiiyh](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [No Rational](https://open.spotify.com/album/5gXaf8oYfotWAn5xSFHrmD) | 3:04 | 2026-09-03 |  |
 | [No Sugar in My Coffee](https://open.spotify.com/track/7B73gaKbMqe8P39tl4yp1f) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [No Sugar in My Coffee](https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne) | 3:11 | 2026-05-22 | 2026-06-05 |
 | [No Type \(Prod\. hayul\)](https://open.spotify.com/track/022vyzDtNPZjI72vVyt66x) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:53 | 2022-11-09 | 2022-11-23 |
 | [No way](https://open.spotify.com/track/3HXqyLcx0FcD6qZrFZ6GFf) | [Ban Estin](https://open.spotify.com/artist/3VphqJqtfCgQT3Sc5spgUR), [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [No way](https://open.spotify.com/album/5b4Pzx6dW9s4cbIuAMYqCi) | 3:11 | 2022-07-24 | 2022-07-28 |

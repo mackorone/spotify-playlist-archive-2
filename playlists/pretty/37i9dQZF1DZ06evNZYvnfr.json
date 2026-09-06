@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5562,
+  "num_followers": 5567,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACJMw/7WWqiOa+phQQvjFcU",
+  "snapshot_id": "apoKAAAAAABA4ST2fiioS89fFOu9aYas",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Bless the Broken Road",
-        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 132240,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Kitchen Sink EP",
         "url": "https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 200829,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/4xYGLd2NHdPTpO1LrRZAbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Bless the Broken Road",
+        "url": "https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 132240,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5"
     },
     {
       "added_at": null,

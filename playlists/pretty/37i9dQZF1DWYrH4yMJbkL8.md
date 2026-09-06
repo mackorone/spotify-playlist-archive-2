@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A bitter\-sweet cocktail of country, singer/songwriter and folk by Indigenous artists curated by Chevy Beaulieu
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,100 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,097 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

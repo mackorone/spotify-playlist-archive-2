@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Jordana Bryant
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,534 likes - 175 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,569 likes - 175 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

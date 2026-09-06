@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > The big Hip\-Life hits rn\. Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,128 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,139 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 74 | [Only God](https://open.spotify.com/track/6v6EryPXEEWnz8oUMghIDi) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [TrustnGod +](https://open.spotify.com/album/5P65otOgIIHPskLTZ76JQP) | 2:17 |
 | 75 | [Akua Donkor](https://open.spotify.com/track/0Hm30HuXmfm4IwO5Vrcho6) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Akua Donkor](https://open.spotify.com/album/2Gbr6jdBQgRk2rmnBpJpvd) | 3:08 |
 
-Snapshot ID: `AAAAAI3KSjyecKzIu1ijY2FLtlwfZ5/+`
+Snapshot ID: `AAAAAJXY5Wnko8aEagM/HxvuPKK7WnTr`

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER CINDERELLA GIRLS\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 25857,
+  "num_followers": 25859,
   "original_name": "THE IDOLM@STER CINDERELLA GIRLS",
   "owner": {
     "name": "Spotify",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2026-08-25 16:11:08",
       "album": {
+        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21\u301c30 GAME VERSION",
+        "url": "https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u90e8\u83dc\u3005 (CV: \u4e09\u5b85\u9ebb\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua"
+        },
+        {
+          "name": "\u4f50\u85e4\u5fc3 (CV: \u82b1\u5b88\u3086\u307f\u308a)",
+          "url": "https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw"
+        }
+      ],
+      "duration_ms": 128524,
+      "name": "\u51f8\u51f9\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc - GAME VERSION",
+      "url": "https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V"
+    },
+    {
+      "added_at": "2026-08-25 16:11:08",
+      "album": {
         "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 01\u301c10 GAME VERSION",
         "url": "https://open.spotify.com/album/0Z5APTMWfS7OKiFCSkerqd"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 124616,
       "name": "\u30b5\u30de\u30ab\u30cb!! - GAME VERSION",
       "url": "https://open.spotify.com/track/5cF6FwuYMUQZOyrBYsWcqQ"
-    },
-    {
-      "added_at": "2026-08-25 16:11:08",
-      "album": {
-        "name": "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21\u301c30 GAME VERSION",
-        "url": "https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u90e8\u83dc\u3005 (CV: \u4e09\u5b85\u9ebb\u7406\u6075)",
-          "url": "https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua"
-        },
-        {
-          "name": "\u4f50\u85e4\u5fc3 (CV: \u82b1\u5b88\u3086\u307f\u308a)",
-          "url": "https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw"
-        }
-      ],
-      "duration_ms": 128524,
-      "name": "\u51f8\u51f9\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc - GAME VERSION",
-      "url": "https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V"
     },
     {
       "added_at": "2026-08-25 16:11:08",

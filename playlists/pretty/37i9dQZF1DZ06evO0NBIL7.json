@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADbQJQIXY+UXKO899rT2dbw",
+  "snapshot_id": "apoKAAAAAABtHEHv354y3Qy/qkY1uDdm",
   "tracks": [
     {
       "added_at": null,
@@ -244,15 +244,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 241520,
-      "name": "Sweater Forever",
-      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "added_at": null,
@@ -308,15 +308,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 251544,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
+      "duration_ms": 241520,
+      "name": "Sweater Forever",
+      "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 155840,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 155840,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,

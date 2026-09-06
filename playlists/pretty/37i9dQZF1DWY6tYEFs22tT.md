@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Nemzzz, 2 Chainz, Casper TNG, Yung Miami, Lil Baby, Drake, and Kardinal Offishall.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,509 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,414 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

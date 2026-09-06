@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Leon Majcen
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,980 likes - 102 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,039 likes - 102 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

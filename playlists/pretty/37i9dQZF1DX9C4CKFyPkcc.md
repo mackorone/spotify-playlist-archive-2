@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,102 likes - 200 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,096 likes - 200 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,13 +178,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 168 | [Let It Snow](https://open.spotify.com/track/4YbufhkptTA9aVMkAVwjLh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [A Christmas To Remember](https://open.spotify.com/album/61ByJ1TZ3lz4NNrlvBIkkU) | 2:23 |
 | 169 | [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/track/1DH6zhxdbHU5NU3tnelKrw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [\(There’s No Place Like\) Home for the Holidays](https://open.spotify.com/album/4QM16VhapZKE1haa2QdXkv) | 2:21 |
 | 170 | [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 |
-| 171 | [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 |
-| 172 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
-| 173 | [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 |
-| 174 | [Every Christmas](https://open.spotify.com/track/5PWIkiuT0ThywmbZmxWvsD) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Every Christmas EP](https://open.spotify.com/album/2pu7P5DlqbCqPzQysmnFbp) | 5:06 |
+| 171 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
+| 172 | [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 |
+| 173 | [Every Christmas](https://open.spotify.com/track/5PWIkiuT0ThywmbZmxWvsD) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Every Christmas EP](https://open.spotify.com/album/2pu7P5DlqbCqPzQysmnFbp) | 5:06 |
+| 174 | [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 |
 | 175 | [Merry Christmas](https://open.spotify.com/track/389HWwxJs2MYGDs7Wdvm6t) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Merry Christmas](https://open.spotify.com/album/6s6xCxKGKgeDegTRGKlRTO) | 3:05 |
-| 176 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
-| 177 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 |
+| 176 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 |
+| 177 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
 | 178 | [Roses in December](https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Roses in December](https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ) | 3:18 |
 | 179 | [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 |
 | 180 | [O' What a Gift](https://open.spotify.com/track/34c8IY8BIua7yazJJkXJhD) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux) | [O' What a Gift](https://open.spotify.com/album/5qljKJVL1KZm83TXqEgjnk) | 3:28 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABrHeRm8GskdsiuOn2JT2Ir",
+  "snapshot_id": "apoKAAAAAAA1oSP4eIFTVc0WGUxho3Rt",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
       "duration_ms": 137454,
       "name": "Ceiling Games",
       "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Sam Spade",
+      "url": "https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY"
     },
     {
       "added_at": null,

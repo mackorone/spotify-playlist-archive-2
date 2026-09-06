@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6685,
+  "num_followers": 6696,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADtQH4r94cpuAquIleFPIvP",
+  "snapshot_id": "apoKAAAAAACQmna2KN3y0nZ7Zbd8kY7l",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Like a Butterfly",
         "url": "https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 188871,
       "name": "Two Doors Down",
       "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+        "name": "Dolly: The Seeker - We Used To",
+        "url": "https://open.spotify.com/album/0XsLZoOugHHeNc3WftV1fu"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 125106,
-      "name": "When Someone Wants to Leave",
-      "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
+      "duration_ms": 185207,
+      "name": "The Seeker",
+      "url": "https://open.spotify.com/track/4zaTdrLfDQXFwPWgS95oDj"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "When Someone Wants to Leave",
+      "url": "https://open.spotify.com/track/48FoX5yyWA9SU1bZAWEtcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Sparrow",
         "url": "https://open.spotify.com/album/0RYsRBFuNAoqYyHHvSJj6x"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 253666,
       "name": "Little Sparrow",
       "url": "https://open.spotify.com/track/2U3hRXmqSm6Tk2m33d9J8O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly: The Seeker - We Used To",
-        "url": "https://open.spotify.com/album/0XsLZoOugHHeNc3WftV1fu"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 185207,
-      "name": "The Seeker",
-      "url": "https://open.spotify.com/track/4zaTdrLfDQXFwPWgS95oDj"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -899,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
       },
       "artists": [
         {
@@ -908,9 +924,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/4ktJUA1L4JUwyctMoBQo59"
+      "duration_ms": 190226,
+      "name": "Eagle When She Flies",
+      "url": "https://open.spotify.com/track/5FxyzZ85qso4AxoeFqMBll"
     },
     {
       "added_at": null,
@@ -927,22 +943,6 @@
       "duration_ms": 208789,
       "name": "If You Hadn\u2019t Been There",
       "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Eagle When She Flies",
-      "url": "https://open.spotify.com/track/5FxyzZ85qso4AxoeFqMBll"
     }
   ],
   "unique_name": "This Is Dolly Parton",

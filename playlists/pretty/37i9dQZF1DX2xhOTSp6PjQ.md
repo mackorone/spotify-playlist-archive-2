@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Mjolisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,293 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,442 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 2 | [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/track/60q8bPLtN7gLTrpm5JZP7G) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8) | [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/album/3vrEVzUKWBYLL8qIKs0185) | 4:56 |
 | 3 | [Distance](https://open.spotify.com/track/36eEND5G3RbI4XD7Xupnmv) | [Zulu Queens](https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID), [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Distance](https://open.spotify.com/album/2Ivj87ZpYPeIt57s4kgrsZ) | 4:21 |
 | 4 | [Liyoma Ngami](https://open.spotify.com/track/662p5yCu62sqXtZN2nihdB) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [SOMCWAYI](https://open.spotify.com/artist/4kLo4bjriPxt8Bbx3UnuDZ) | [Kuphelele](https://open.spotify.com/album/6GEKyyFeiQOaUCdaWVUgbJ) | 3:49 |
-| 5 | [UKUK'THANDA YEBO \(feat\. UMNOTHO & USDUH DLADLA\)](https://open.spotify.com/track/3uSZxqnUC2jcvdAgnZtiMu) | [MALIBONGWE](https://open.spotify.com/artist/17YfaoJ6a8qfUcYPvNg9jD), [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [USduh Dladla](https://open.spotify.com/artist/4ByrLNabomBA9SoJKeA3Pr) | [NGIYABABA](https://open.spotify.com/album/2xgOJRD7jYdTIuOA067oKB) | 3:16 |
+| 5 | [UKUK'THANDA YEBO \(feat\. UMnotho & USDUH DLADLA\)](https://open.spotify.com/track/3uSZxqnUC2jcvdAgnZtiMu) | [MALIBONGWE](https://open.spotify.com/artist/17YfaoJ6a8qfUcYPvNg9jD), [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [USduh Dladla](https://open.spotify.com/artist/4ByrLNabomBA9SoJKeA3Pr) | [NGIYABABA](https://open.spotify.com/album/2xgOJRD7jYdTIuOA067oKB) | 3:16 |
 | 6 | [AMABULAWO](https://open.spotify.com/track/47F1eJNUYIvzU3MwdWI7VS) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [TRUE COLOURS](https://open.spotify.com/album/7MVUr7a9jWPdH5EJJLGnJh) | 3:41 |
 | 7 | [Ama Baffalo Nama Elephant](https://open.spotify.com/track/0CyUpyCXdfg3j3aeNefnvE) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Number 10](https://open.spotify.com/album/7grvU2KtNU99HxAZOMpanN) | 4:59 |
 | 8 | [Ngabona Amathanga Amhlophe \(feat\. Maphungula IzinganeZoma\)](https://open.spotify.com/track/2HtiCtSUZKbmWV9kwQilhj) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq), [Maphungula IzinganeZoma](https://open.spotify.com/artist/3wKS23XCfo0yYvTy4DVlcu) | [Kuthathe Konke](https://open.spotify.com/album/6fO3fkdNELRirJzXjsaOle) | 4:56 |

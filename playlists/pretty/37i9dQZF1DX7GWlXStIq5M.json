@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 356950,
+  "num_followers": 356908,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-09-04 03:00:31",
       "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-09-04 03:00:31",
+      "album": {
         "name": "Pura Magia",
         "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 220204,
       "name": "Pura Magia",
       "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
-    },
-    {
-      "added_at": "2026-09-04 03:00:31",
-      "album": {
-        "name": "Caos e Poesia",
-        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
-      },
-      "artists": [
-        {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
-        }
-      ],
-      "duration_ms": 145927,
-      "name": "Caos e Poesia",
-      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
     },
     {
       "added_at": "2026-09-04 03:00:31",

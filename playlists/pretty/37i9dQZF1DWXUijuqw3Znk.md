@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 97 | [Universe \(feat\. Lee Juck\)](https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc) | [Pinodyne](https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Universe](https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb) | 3:47 |
 | 98 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YF](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 |
 | 99 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 |
-| 100 | [APOLOGY](https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:23 |
+| 100 | [monologue \(Feat\. GSoul\)](https://open.spotify.com/track/0zOh4s95HEcFRSS4SzScTx) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [LIGHTS](https://open.spotify.com/album/6lVLpHULkoKw2pFhzDXXaN) | 3:06 |
 
 Snapshot ID: `AAAAAOVmNJophUga7EGKhGWS18EjNzSe`

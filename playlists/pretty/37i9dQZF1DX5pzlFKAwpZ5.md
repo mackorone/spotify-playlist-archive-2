@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,509 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,587 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

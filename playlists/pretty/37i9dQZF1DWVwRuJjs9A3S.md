@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Carlina de Place
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,572 likes - 362 songs - 20 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,575 likes - 362 songs - 20 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

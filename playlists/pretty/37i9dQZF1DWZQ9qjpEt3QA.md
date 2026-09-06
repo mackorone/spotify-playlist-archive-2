@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,454 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,451 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [...dan berpesta](https://open.spotify.com/track/0n77r1eNDkSSpNE32xvhbJ) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG) | [...dan berpesta](https://open.spotify.com/album/5qc8i560sWUyhRPrEX7Mo0) | 3:53 |
-| 2 | [秘密 the hidden me](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密 the hidden me](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 |
+| 2 | [秘密](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 |
 | 3 | [Plastic Love \(Mariya Takeuchi 1984\)](https://open.spotify.com/track/2q5GUeJhuHomFurTNRgKLQ) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [What if…](https://open.spotify.com/album/2nisoEDYXGFKZnT7nXfHez) | 4:31 |
 | 4 | [Nice Day](https://open.spotify.com/track/46DQRMHHHFVcKnEQSWZwVC) | [Shin In Ryu](https://open.spotify.com/artist/1HBeN73z1CZ0E58rEIeozp) | [1126611](https://open.spotify.com/album/4MLYr9Qdrs7dkMkDDkeKgN) | 2:57 |
 | 5 | [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 |

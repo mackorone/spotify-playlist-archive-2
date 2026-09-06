@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 702293,
+  "num_followers": 702372,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pink (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO"
-      },
-      "artists": [
-        {
-          "name": "Boris",
-          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
-        }
-      ],
-      "duration_ms": 453440,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/7HGOZac4VHXnWXWuvMniTv"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Ultra Vivid Scene",
         "url": "https://open.spotify.com/album/0lf5uU9vstokKznk6C1esx"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 249853,
       "name": "Mercy Seat",
       "url": "https://open.spotify.com/track/58w6DAHu9ZPuG3xmp84snl"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Pink (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        }
+      ],
+      "duration_ms": 453440,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/7HGOZac4VHXnWXWuvMniTv"
     },
     {
       "added_at": "2021-06-03 02:39:04",

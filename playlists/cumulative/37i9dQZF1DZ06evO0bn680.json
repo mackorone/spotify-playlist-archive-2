@@ -1521,32 +1521,6 @@
     },
     {
       "album": {
-        "name": "Rutter: Requiem & Magnificat",
-        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        }
-      ],
-      "date_added": "2026-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
-      "duration_ms": 369733,
-      "name": "I. Requiem aeternam",
-      "url": "https://open.spotify.com/track/53J1g7Axs1SFsGpQAK62aJ"
-    },
-    {
-      "album": {
         "name": "The Sacred Flame",
         "url": "https://open.spotify.com/album/7ERL64qc8JB2ioimlmxGBb"
       },
@@ -2972,7 +2946,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 188426,
       "name": "Requiem in D Minor, Op. 48: III. Sanctus",
       "url": "https://open.spotify.com/track/0zzAnuYmKMJJFcRHpNSHW6"
@@ -3052,6 +3026,32 @@
       "duration_ms": 222360,
       "name": "Requiem in D Minor, Op. 48: VII. In paradisum (Arr. for Choir & Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/6KdyxUPfTgv8SmiGBx08vY"
+    },
+    {
+      "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369733,
+      "name": "Requiem: I. Requiem aeternam",
+      "url": "https://open.spotify.com/track/53J1g7Axs1SFsGpQAK62aJ"
     },
     {
       "album": {

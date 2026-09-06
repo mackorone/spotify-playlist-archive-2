@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Glória Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,950 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,908 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 65 | [Dias de Mar](https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Dias de Mar](https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo) | 2:42 |
 | 66 | [Sem foto, sem vídeo](https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sem foto, sem vídeo](https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh) | 3:14 |
 | 67 | [Liberdade?](https://open.spotify.com/track/05OSoY5o8YImbjWhU2QRZ8) | [Revna](https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0) | [Liberdade?](https://open.spotify.com/album/2WIe2zcaxbqiwltJhyg604) | 2:48 |
-| 68 | [Pura Magia](https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pura Magia](https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X) | 3:40 |
-| 69 | [Caos e Poesia](https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo) | [Isix](https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug), [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv) | [Caos e Poesia](https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD) | 2:25 |
+| 68 | [Camomila](https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Camomila](https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl) | 3:10 |
+| 69 | [Pura Magia](https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pura Magia](https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X) | 3:40 |
 | 70 | [afinal o que é um amor tranquilo?](https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF) | [Mafe Peccin](https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6) | [TRANSBORDAR](https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB) | 2:45 |
 
 Snapshot ID: `AAAAAI7rEKpiWfUGuO2Rq59XBJMmLL7t`

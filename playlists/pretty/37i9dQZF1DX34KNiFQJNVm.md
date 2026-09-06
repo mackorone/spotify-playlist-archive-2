@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pablo com Simone Mendes, Gustavo Mioto, Beyoncé, Miley Cyrus, Iguinho e Lulinha, JUNIOR com Luccas Carlos e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,787 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,761 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

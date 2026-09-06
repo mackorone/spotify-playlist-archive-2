@@ -4,7 +4,7 @@
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-1,028 songs - 2 day 6 hr 41 min
+1,029 songs - 2 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Cuando Me Dé la Gana](https://open.spotify.com/track/2joHNbSdBZtZC5NlEQDUkZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 3:26 | 2022-06-03 | 2023-05-26 |
 | [Cuatro Hielos](https://open.spotify.com/track/7E3HPajHtNdDKzhsw1leJ3) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Cuatro Hielos](https://open.spotify.com/album/3Q13UiN37fcQrawW6x7kkx) | 3:23 | 2024-08-09 | 2025-11-22 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-03-24 | 2023-05-26 |
+| [CUERPO \(TUMBAO\) \(feat\. Maluma\)](https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:08 | 2026-09-05 |  |
 | [Cuestiones \- Live from NPR's Tiny Desk](https://open.spotify.com/track/0paib2dL3JmrBykxuPJyqq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Live From NPR's Tiny Desk](https://open.spotify.com/album/5rSveljw4MYm3iQv46wSfh) | 0:48 | 2026-08-07 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-02-17 | 2023-06-01 |
 | [Cupido](https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3j0DrBixQhCQCucPr8hC13) | 2:54 | 2023-06-01 | 2023-06-03 |

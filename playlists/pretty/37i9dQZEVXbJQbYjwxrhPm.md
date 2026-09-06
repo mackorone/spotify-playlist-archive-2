@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Orient Express](https://open.spotify.com/track/5fyieCkRITuBt8EOs47W2f) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Unleashed](https://open.spotify.com/album/4x8QsNNRYXFnhC0TSXN2gs) | 3:29 |
 | 50 | [Времето лекува](https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Времето лекува](https://open.spotify.com/album/4VtU0bvfeiySYWyZIsKiG0) | 3:37 |
 
-Snapshot ID: `Mi42eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mi+H+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

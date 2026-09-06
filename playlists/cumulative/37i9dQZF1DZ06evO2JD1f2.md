@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-177 songs - 7 hr 54 min
+178 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Sky Dweller](https://open.spotify.com/track/4nBsccyzGPbIIXmHNCN4ij) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:08 | 2024-05-11 |  |
 | [SLAM DUNK \(FEAT\. YOUNG SCOOTER\)](https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:22 | 2023-03-19 | 2023-07-27 |
 | [Slime](https://open.spotify.com/track/6yPHD5w7T5h0CMsqpp5XWB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:45 | 2025-02-02 | 2025-03-02 |
-| [SOMETIMES](https://open.spotify.com/track/6dQKb7COXpqMTwWNtbOPj9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SOMETIMES](https://open.spotify.com/album/0kGJPplQXOq7qY7WmY6cej) | 2:18 | 2026-08-09 |  |
+| [SOMETIMES](https://open.spotify.com/track/6dQKb7COXpqMTwWNtbOPj9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SOMETIMES](https://open.spotify.com/album/0kGJPplQXOq7qY7WmY6cej) | 2:18 | 2026-08-09 | 2026-09-06 |
+| [SOMETIMES](https://open.spotify.com/track/7pPN7CAODxYTEylcC0Jat0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SOMETIMES](https://open.spotify.com/album/7o6ZgUrSefKTAiqwFLlo7b) | 2:18 | 2026-09-06 |  |
 | [Special](https://open.spotify.com/track/2fTWKA83JIAdEJk8vLUvy6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:31 | 2023-12-18 | 2025-02-02 |
 | [Special](https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU) | 2:31 | 2023-06-06 | 2023-09-03 |
 | [Special Remix \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:41 | 2022-10-28 |  |

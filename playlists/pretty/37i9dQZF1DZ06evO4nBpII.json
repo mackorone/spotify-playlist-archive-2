@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1164328,
+  "num_followers": 1164439,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADXYZg5/t45QiRj78pv2egc",
+  "snapshot_id": "apoKAAAAAABennFtovdVBhw746BF0UAg",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "21st Century Breakdown",
-      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 151173,
       "name": "Walking Contradiction",
       "url": "https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "21st Century Breakdown",
+      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerplunk!",
-        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 144626,
-      "name": "2000 Light Years Away",
-      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomniac",
         "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 90226,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6uWp8yAt8dN5ZaT7REJ6RV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kerplunk!",
+        "url": "https://open.spotify.com/album/1UShup0VvfxhxS7j3Omxh2"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 144626,
+      "name": "2000 Light Years Away",
+      "url": "https://open.spotify.com/track/6pM25DLzJb5oWj74d3ElXI"
     },
     {
       "added_at": null,

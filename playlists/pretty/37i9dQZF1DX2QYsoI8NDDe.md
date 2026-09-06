@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Mar Solis
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,285 likes - 111 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,282 likes - 111 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,15 +97,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 87 | [No Llega El Olvido](https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:37 |
 | 88 | [24/7](https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [24/7](https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP) | 2:58 |
 | 89 | [Allá Donde Vayas](https://open.spotify.com/track/2ZWIqmP9Y9AChlfMp9G9Jl) | [Angela Fonte](https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw) | [Allá Donde Vayas](https://open.spotify.com/album/6w4pWVHHj7Adwh3Pe8u9fn) | 3:33 |
-| 90 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
-| 91 | [Nos Acostumbramos](https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Nos Acostumbramos](https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ) | 2:59 |
+| 90 | [Nos Acostumbramos](https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Nos Acostumbramos](https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ) | 2:59 |
+| 91 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
 | 92 | [Vas De Salida](https://open.spotify.com/track/3D6Hf0GVInskiVwZ7e37eK) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Johanna Cota](https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2) | [Vas De Salida](https://open.spotify.com/album/4xp1xzruof6D5oPPDTvcyU) | 3:31 |
 | 93 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 |
 | 94 | [BOTITAS](https://open.spotify.com/track/2pCR8I7m7IaKIJoVR5eOOK) | [Isa La Mexicana](https://open.spotify.com/artist/4RYI87k6c5m0asFEPE1vjK) | [BOTITAS](https://open.spotify.com/album/7rUasUEfoC9BOjtKLfHA92) | 2:46 |
 | 95 | [Mamá](https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mamá](https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A) | 3:49 |
 | 96 | [Sufriendo a Solas](https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [Sufriendo a Solas \(Versión Mariachi\)](https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO) | 4:54 |
-| 97 | [La Más Bella](https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [La Más Bella](https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE) | 3:48 |
-| 98 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
+| 97 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
+| 98 | [La Más Bella](https://open.spotify.com/track/79cIsy8pd93aTirCOXeiHK) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [La Más Bella](https://open.spotify.com/album/4pcWwS4qziCROZmUn9P4ZE) | 3:48 |
 | 99 | [Caminos De Michoacan \- En Vivo](https://open.spotify.com/track/1yaCfymfoO4c3bxCAWl3WD) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Caminos De Michoacan \(En Vivo\)](https://open.spotify.com/album/2onjf4QRJiGJWCwkXSDTxp) | 6:03 |
 | 100 | [No Me Queda Más \- En Vivo](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
 | 101 | [Amé](https://open.spotify.com/track/5fWOE0l5UDeNo2TkNOMpFL) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Noche Bohemia](https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4) | 4:11 |

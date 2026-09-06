@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Church & State (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/6mTWD8HWph5F6PZlfy4hpc"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "Church & State - Sad Gay Version",
+      "url": "https://open.spotify.com/track/2J7DE0FvovLhz64va1qWzz"
+    },
+    {
+      "album": {
         "name": "Busted Jukebox Volume 2",
         "url": "https://open.spotify.com/album/4cJyMkeK2D0fRaFZXFGK14"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 230108,
       "name": "Wherever is Your Heart",
       "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: PISS
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,847 likes - 153 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,859 likes - 153 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

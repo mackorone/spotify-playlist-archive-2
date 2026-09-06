@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 64615,
+  "num_followers": 64651,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -2299,30 +2299,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6"
-      },
-      "artists": [
-        {
-          "name": "QUINQUIS",
-          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
-        },
-        {
-          "name": "Gareth Jones",
-          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
-        },
-        {
-          "name": "\u00d3lavur J\u00e1kupsson",
-          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "lux",
         "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
@@ -2371,6 +2347,30 @@
       "duration_ms": 158620,
       "name": "The Red Line",
       "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6"
+      },
+      "artists": [
+        {
+          "name": "QUINQUIS",
+          "url": "https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH"
+        },
+        {
+          "name": "Gareth Jones",
+          "url": "https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV"
+        },
+        {
+          "name": "\u00d3lavur J\u00e1kupsson",
+          "url": "https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
     },
     {
       "added_at": "2025-11-07 05:00:56",

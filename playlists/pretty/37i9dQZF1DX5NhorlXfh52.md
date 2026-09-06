@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NhorlXfh52.md) - [plain]
 
 > Enjoy CORTIS's \[PUT YOUR PHONE DOWN\] tour LIVE SET including the voices from stage! \(CORTIS 맴버들의 무대 멘트가 포함된 PUT YOUR PHONE DOWN 투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,677 likes - 21 songs - 47 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 35,487 likes - 21 songs - 47 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

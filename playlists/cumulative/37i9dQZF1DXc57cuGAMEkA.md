@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。JISOO, Ellie Goulding, LISA,  Miley Cyrus, ADÉLA and more!
 
-15,038 songs - 34 day 23 hr 50 min
+15,039 songs - 34 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2011,6 +2011,7 @@
 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:42 | 2023-03-24 | 2023-03-31 |
 | [Can I Mend It?](https://open.spotify.com/track/6G4dGhbdRJoOWysoFPJX7O) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Can I Mend It?](https://open.spotify.com/album/4iZBTCva0s1ngT4MpBUiUe) | 3:56 | 2026-02-26 | 2026-03-06 |
 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 | 2024-03-28 | 2024-04-05 |
+| [CAN I WATCH YOU \(feat\. Pharrell Williams\)](https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:36 | 2026-09-05 |  |
 | [Can of Hurt](https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [High Concept \(Deluxe\)](https://open.spotify.com/album/4K4xd1yJCISdl7jkRHBb3G) | 2:39 | 2023-12-08 | 2023-12-15 |
 | [Can U Dig That?](https://open.spotify.com/track/5poLcNswsi0NovepA5xZ7j) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Can U Dig That?](https://open.spotify.com/album/7weNFtwo3U0B0oHp6FPkhy) | 3:14 | 2024-03-28 | 2024-04-05 |
 | [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 | 2026-04-16 | 2026-04-24 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 椅子樂團 The Chairs
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,219 likes - 72 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,220 likes - 72 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rolling On, Marching On](https://open.spotify.com/track/5GQbEFeq3gYmkS34DlQz8Y) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Rolling On, Marching On](https://open.spotify.com/album/2GC0Q11LqMMYGm6DMK4rv7) | 3:58 |
-| 2 | [秘密 the hidden me](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密 the hidden me](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 |
+| 2 | [秘密](https://open.spotify.com/track/3lGn4LVu1p18rcYmBKiEjJ) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [秘密](https://open.spotify.com/album/79bdBmR1ZO4vpkPKV0SLHr) | 4:11 |
 | 3 | [偶像包袱](https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr) | 3:57 |
 | 4 | [100 秒的紅燈](https://open.spotify.com/track/0NJh6C9p5trVG3R0S5UlMV) | [普通隊長](https://open.spotify.com/artist/5qJoZTy9eeE8I3U87jtHXo) | [100 秒的紅燈](https://open.spotify.com/album/2FkIYUkkY4MyfOoz90hVb7) | 2:54 |
 | 5 | [命盤](https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [命盤](https://open.spotify.com/album/5MxrQp3LYMxmkB0SpCwx3h) | 5:49 |

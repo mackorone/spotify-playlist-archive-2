@@ -4,7 +4,7 @@
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Jon Reddick
 
-1,089 songs - 4 day 6 hr 20 min
+1,090 songs - 4 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Heart & Flesh](https://open.spotify.com/track/5QT13TE0vN29dYa8Ifkz0A) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Heart & Flesh](https://open.spotify.com/album/6EX05GseZptgcwHKil4tqY) | 7:11 | 2022-09-09 | 2022-11-05 |
 | [HEART AND MIND](https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [HEART AND MIND](https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek) | 3:47 | 2024-11-01 | 2025-01-11 |
 | [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 | 2022-06-03 | 2022-07-02 |
+| [Heart Like Heaven \- in lieu of me](https://open.spotify.com/track/1VUaj16xDwJ6Jox7SOqJOL) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [MATT CROCKER \- in lieu of me \(Vol\. 2\)](https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1) | 6:01 | 2026-09-04 |  |
 | [Heaven Collide](https://open.spotify.com/track/6napmh5WfgrThYbkwognKx) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heaven Collide](https://open.spotify.com/album/6y8gYo7orW8jbpY3EAqpRe) | 5:16 | 2026-07-31 |  |
 | [Heaven Sings Holy](https://open.spotify.com/track/4KhMTGBEqYdTdLlos91oXI) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Heaven Sings Holy](https://open.spotify.com/album/42BXK3yKX8LAeWGLr0Qigd) | 4:57 | 2026-02-27 |  |
 | [Heaven's Frequency](https://open.spotify.com/track/5iJViNLHsoOlulhrDVDJCH) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Heaven's Frequency](https://open.spotify.com/album/6f1Jkfs8tfgM7G2tmUXxbj) | 4:15 | 2024-03-22 | 2024-09-28 |

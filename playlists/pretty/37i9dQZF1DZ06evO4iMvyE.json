@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 421648,
+  "num_followers": 421713,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACJOyVLBGU9shdkJXfzAViT",
+  "snapshot_id": "apoKAAAAAACKNc0Ps5gmLRBDaoIT4eiW",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/6QQG95C5Evjbichtoxl4RH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen When Sad",
         "url": "https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 228221,
       "name": "Listen When Sad",
       "url": "https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/6QQG95C5Evjbichtoxl4RH"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "That's Just The Way We Roll",
-      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Name Chapter: FREEFALL",
         "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "That's Just The Way We Roll",
+      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/0PijZTpKNGUvL12y7w4tZF"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200693,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7BuSE9uTIw931wtZYzvZcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
       "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 209706,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
       },
       "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
         {
           "name": "Jonas Brothers",
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 162051,
-      "name": "Healing (Shattered Heart)",
-      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
+      "duration_ms": 209706,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "BB Good",
-      "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "clich\u00e9 (Jonas Brothers remix)",
         "url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 176242,
       "name": "clich\u00e9 - Jonas Brothers remix",
       "url": "https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "BB Good",
+      "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little Bit Longer",
-        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Video Girl",
-      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lines, Vines and Trying Times",
         "url": "https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 218560,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Little Bit Longer",
+        "url": "https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Video Girl",
+      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
     }
   ],
   "unique_name": "This Is Jonas Brothers",

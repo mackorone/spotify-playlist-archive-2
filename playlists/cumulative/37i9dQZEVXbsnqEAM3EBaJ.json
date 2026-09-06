@@ -41795,6 +41795,32 @@
     },
     {
       "album": {
+        "name": "Melodies of the Old World",
+        "url": "https://open.spotify.com/album/6BffZ66oeV5PtGU8ovcWTz"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164496,
+      "name": "Minuet of the Marble Hall",
+      "url": "https://open.spotify.com/track/4sAFP603qIW6FQXdlMkywc"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK"
       },
@@ -53550,7 +53576,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 139608,
       "name": "Romance at Candlelight",
       "url": "https://open.spotify.com/track/0OaJekVwgslvyiKZiaqL1A"
@@ -63480,7 +63506,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 188880,
       "name": "The Amber Nocturne",
       "url": "https://open.spotify.com/track/6WDijVZSFLAo5qpFlOmUsv"
@@ -71366,6 +71392,28 @@
       "duration_ms": 190133,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo"
+    },
+    {
+      "album": {
+        "name": "Venetian Seasons",
+        "url": "https://open.spotify.com/album/78jDf8kT4gFPuvWQVZsqoW"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172416,
+      "name": "Venetian Poetry",
+      "url": "https://open.spotify.com/track/2vF7agIlFXyMz0UKOpZxWc"
     },
     {
       "album": {

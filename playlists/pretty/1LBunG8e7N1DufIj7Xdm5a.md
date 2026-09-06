@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,784 songs - 10 day 17 hr 56 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,790 songs - 10 day 18 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4792,5 +4792,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4782 | [Two Dollars](https://open.spotify.com/track/2rTQFoaVsvgf9atMLs6Hoy) | [Charlie Vernon](https://open.spotify.com/artist/2Qg6A0rfG9zGrnrZX0kNE0) | [Two Dollars](https://open.spotify.com/album/0psp2h6ZR6w4qtStUWAw4W) | 3:21 |
 | 4783 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 |
 | 4784 | [Return Of My Heart](https://open.spotify.com/track/4AguWjDrUwF7g5ADBIwTni) | [The Skanks](https://open.spotify.com/artist/0v0TjF66EusIrCf2uk9xlB) | [Return Of My Heart](https://open.spotify.com/album/0MIP1A1PL4lDRCjagEwy1q) | 4:59 |
+| 4785 | [Hope I Make It](https://open.spotify.com/track/4hvi9U9sqJFYJBwbQXBwT5) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Hope I Make It / Fifths 0ver Minors](https://open.spotify.com/album/1KThZgBta2GtOCTu3hevJ2) | 3:06 |
+| 4786 | [Baby Baby](https://open.spotify.com/track/0EEIDMw52VNcAc3bgBEgQc) | [Cherish Amber](https://open.spotify.com/artist/1ceQ2yaXI3VQcvgqmc3cLq) | [Baby Baby](https://open.spotify.com/album/2B9rEl56UovPLwWtz6uSPS) | 3:33 |
+| 4787 | [Apes and Cyborgs](https://open.spotify.com/track/4hsqJGvyzt4n7fdalPuPpw) | [Gibson and Gibson](https://open.spotify.com/artist/6wItM1DeDBExx3nHd8Q2mB) | [Apes and Cyborgs](https://open.spotify.com/album/3gQk0fJjEizqHDZhfkg4fU) | 2:40 |
+| 4788 | [Głupia Melancholia](https://open.spotify.com/track/7d53CrkoFx1LCFW3I3hfgv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Abbracci](https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51) | 3:22 |
+| 4789 | [Bliżej w stronę słońca](https://open.spotify.com/track/02chDc7iqeOWoDmtn76k1z) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 |
+| 4790 | [Masz prawo](https://open.spotify.com/track/0Q1ozsplWjw215gu9jMofX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 |
 
-Snapshot ID: `AAAJ8Qsv9b3L1MnIECqkqZxO1wPF+wkv`
+Snapshot ID: `AAAJ98Z2/Vr66upPMje0Eoxk59FnyU2y`

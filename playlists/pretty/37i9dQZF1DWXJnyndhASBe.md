@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: MJ Deli
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,406 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,375 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 14 | [Zapach](https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4) | [Hellfield](https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q), [Baby Nerro](https://open.spotify.com/artist/5tZMd0pUPmQ0ydcd5Vrl16), [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr) | [Zapach](https://open.spotify.com/album/7JhcP0myYthnGJdHMD96qn) | 2:30 |
 | 15 | [OFFLINE](https://open.spotify.com/track/77VHmVziNOMJNQGWLUYXjo) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Culten](https://open.spotify.com/artist/65bVKViLWdB93HvvxhbWwb) | [OFFLINE](https://open.spotify.com/album/6efkKiB2wfJGh8LuVMwZH1) | 2:31 |
 | 16 | [jeszcze raz?](https://open.spotify.com/track/5X1f1HSzJlUjQ7HUMw8PDD) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [REKLAMACJA'47: CD2](https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK) | 3:15 |
-| 17 | [PAULO DYBALA](https://open.spotify.com/track/1k1D74FCJ4GFR90Kgv2VSI) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX) | [PAULO DYBALA](https://open.spotify.com/album/4V0SSxIEDfohRBauveLbSE) | 2:50 |
+| 17 | [PAULO DYBALA](https://open.spotify.com/track/1k1D74FCJ4GFR90Kgv2VSI) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [Bufu](https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa) | [PAULO DYBALA](https://open.spotify.com/album/4V0SSxIEDfohRBauveLbSE) | 2:50 |
 | 18 | [5980](https://open.spotify.com/track/7ouervSACfkmuk5vnLARzo) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [5980](https://open.spotify.com/album/3azCHDvuNqb7KmO3JHh2gg) | 2:29 |
 | 19 | [WILD WEST](https://open.spotify.com/track/4cIA1xpUKGRVgM7A4sLpLk) | [MJ Deli](https://open.spotify.com/artist/4zlJMomtDhz5jPYQC0UNhE), [Suwal](https://open.spotify.com/artist/5ySH1SGdybbpB07zl03goY) | [WILD WEST](https://open.spotify.com/album/5Hu21Z1nDPeZuiHqNJzBmt) | 2:50 |
 | 20 | [TO COŚ](https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Palar](https://open.spotify.com/artist/0hydhEXYglaiCLK9QkP9Yt), [VVSimon](https://open.spotify.com/artist/4qKXfc0gl62ImELchh15HY), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn) | [CALIFORNIA LOVE EP](https://open.spotify.com/album/2Mk6yP0Xpv0R4Ej9Pi89zd) | 3:00 |

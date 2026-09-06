@@ -17549,6 +17549,24 @@
     },
     {
       "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3mlXTWuAxkvyP5YGW64Ivq"
+      },
+      "artists": [
+        {
+          "name": "TheDamnedKirai",
+          "url": "https://open.spotify.com/artist/3FcKEtMQWB3qk95I7Y0n9Y"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261259,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3dmveUmjQOAb2yR4azcvYw"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/355kpn62Z3In51dBINK14M"
       },
@@ -27358,6 +27376,24 @@
       "duration_ms": 163855,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
+    },
+    {
+      "album": {
+        "name": "You Made Me Bad",
+        "url": "https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc"
+      },
+      "artists": [
+        {
+          "name": "Rayka Blake",
+          "url": "https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220137,
+      "name": "You Made Me Bad",
+      "url": "https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL"
     },
     {
       "album": {

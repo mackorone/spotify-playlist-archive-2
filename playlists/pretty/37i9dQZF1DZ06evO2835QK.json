@@ -1,12 +1,12 @@
 {
   "description": "This is Cleo Sol. The essential tracks, all in one playlist.",
-  "num_followers": 45476,
+  "num_followers": 45516,
   "original_name": "This Is Cleo Sol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAz01Z2HGWTewA960lWx16Q",
+  "snapshot_id": "apoKAAAAAADt3wyz5oD2gRRt2/TZkkgN",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 257280,
-      "name": "Sentimental Love",
-      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws"
+      "duration_ms": 240466,
+      "name": "Gentlewoman",
+      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Force of Love",
-      "url": "https://open.spotify.com/track/0eTuYIcKA7pqvTCkEeOxaK"
+      "duration_ms": 257280,
+      "name": "Sentimental Love",
+      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Let Me Cry",
-      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
+      "duration_ms": 241600,
+      "name": "Force of Love",
+      "url": "https://open.spotify.com/track/0eTuYIcKA7pqvTCkEeOxaK"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 240466,
-      "name": "Gentlewoman",
-      "url": "https://open.spotify.com/track/5D3bHecBBMUXUYZcgBvySo"
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "added_at": null,

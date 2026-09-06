@@ -6115,6 +6115,28 @@
     },
     {
       "album": {
+        "name": "CAPCANA COCOA",
+        "url": "https://open.spotify.com/album/141GgW9A8gEidZyiHZPTs4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "CAPCANA COCOA",
+      "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
+    },
+    {
+      "album": {
         "name": "Capo",
         "url": "https://open.spotify.com/album/6vPqUNTRgp3KpM4MK3Bh0V"
       },
@@ -7544,7 +7566,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 168036,
       "name": "Complica",
       "url": "https://open.spotify.com/track/1Q9SCRgQgWwokmb6ZZbyhx"
@@ -13970,7 +13992,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 127384,
       "name": "ENCUERA",
       "url": "https://open.spotify.com/track/4fclQgqgZDLbiEkNhtZ0Mx"
@@ -18230,7 +18252,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 166265,
       "name": "HOMBRE",
       "url": "https://open.spotify.com/track/0aAK0G8pJpYdl21gJpqt1h"
@@ -18718,7 +18740,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -20432,7 +20454,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -27500,7 +27522,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 142549,
       "name": "MOFIA",
       "url": "https://open.spotify.com/track/3oBqblPEhj67vYLMyX7yFX"
@@ -30544,7 +30566,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 133669,
       "name": "Pa Tripea",
       "url": "https://open.spotify.com/track/1CFvTAWrMV8qayjz5pyYkQ"
@@ -34736,7 +34758,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 250560,
       "name": "Que Se Mueran",
       "url": "https://open.spotify.com/track/7FrPSk0rZdCPR50pfzdzMK"
@@ -35934,7 +35956,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
@@ -36886,7 +36908,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 97113,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/5oJA5EvbxaBPbum2FX11MC"
@@ -42062,7 +42084,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

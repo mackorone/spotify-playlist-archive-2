@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\| Cover: Maple's Pet Dinosaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,618 likes - 155 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,659 likes - 155 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Raga & Panther
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,487 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,505 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sab Set Hai](https://open.spotify.com/track/6HlsFdX5LhnFyKX5To8VyG) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [UZIII](https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r) | [Sab Set Hai](https://open.spotify.com/album/5hfgYC8gBhpYXAJpv54LFR) | 2:39 |
+| 1 | [Sab Set Hai](https://open.spotify.com/track/6HlsFdX5LhnFyKX5To8VyG) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sab Set Hai](https://open.spotify.com/album/5hfgYC8gBhpYXAJpv54LFR) | 2:39 |
 | 2 | [Awaaz Hai](https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd) | [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Awaaz Hai](https://open.spotify.com/album/4Wts4h7CDUEfXv36DrrVfY) | 2:48 |
 | 3 | [Mere Type Ka Nahi](https://open.spotify.com/track/6XZKwuGk0InPAfvTjgoKLe) | [Queeniqa](https://open.spotify.com/artist/1QBznhpQw0XcLMUAgmk3Bg) | [Mere Type Ka Nahi](https://open.spotify.com/album/4UQGh6UlGx1Ts05l02yU6R) | 3:14 |
 | 4 | [19th June](https://open.spotify.com/track/1HMo4GlQ5L4e97IESZXutF) | [DirteeVibez](https://open.spotify.com/artist/2T8IRmv2Gr2Zx5801MgbK7), [JORDAN WORDAMN](https://open.spotify.com/artist/17dBdWeU2e9wSGeOfR81St), [Aadh pratapi](https://open.spotify.com/artist/2DitYt0a5fKLtRnl7o1wts) | [19th June](https://open.spotify.com/album/1KqlR5JchxGoW6hQTf4Rja) | 3:45 |

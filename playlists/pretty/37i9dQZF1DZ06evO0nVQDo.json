@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACkl+sWm8OzcPcAceekmXXF",
+  "snapshot_id": "apoKAAAAAAAScMWY0oG65wan3NeV4/4M",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 108680,
-      "name": "Night Bloomer",
-      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
+      "duration_ms": 110883,
+      "name": "Messenger",
+      "url": "https://open.spotify.com/track/1Bxq46gZWqxJLTYgX8Smyy"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 110883,
-      "name": "Messenger",
-      "url": "https://open.spotify.com/track/1Bxq46gZWqxJLTYgX8Smyy"
+      "duration_ms": 31816,
+      "name": "First Sustain",
+      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
     },
     {
       "added_at": null,
@@ -292,77 +292,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 31816,
-      "name": "First Sustain",
-      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 97000,
-      "name": "6:33 AM",
-      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Shadow Spots",
-      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 60534,
-      "name": "Earth / Water",
-      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Cumulus",
-      "url": "https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7"
+      "duration_ms": 108680,
+      "name": "Night Bloomer",
+      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
     },
     {
       "added_at": null,
@@ -396,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
         }
       ],
-      "duration_ms": 308000,
-      "name": "Friendly Glow",
-      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+      "duration_ms": 276266,
+      "name": "Shadow Spots",
+      "url": "https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah"
     },
     {
       "added_at": null,
@@ -419,6 +351,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Cumulus",
+      "url": "https://open.spotify.com/track/6RoynqvKPYmIZkXE6isMU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 97000,
+      "name": "6:33 AM",
+      "url": "https://open.spotify.com/track/0yeDAJ4yH08Y4Cf3SKPn8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Friendly Glow",
+      "url": "https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Conditions",
         "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
       },
@@ -428,9 +412,25 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 209700,
-      "name": "Water / Earth",
-      "url": "https://open.spotify.com/track/1pnZHkdiCLlsIQ7Tb9KuUr"
+      "duration_ms": 252857,
+      "name": "Air / Earth",
+      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Earth / Fire",
+      "url": "https://open.spotify.com/track/2qWHBE0IaZvjC2jSemE9xK"
     }
   ],
   "unique_name": "This Is Celia Hollander",

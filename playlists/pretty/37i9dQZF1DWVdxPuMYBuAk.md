@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,853 likes - 153 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,858 likes - 153 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 41 | [Always Yours](https://open.spotify.com/track/6NuwSSmuiw6ZeA3HAIkLqI) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Always Yours](https://open.spotify.com/album/0gMvjJ00T8TIXiSg6TcmPD) | 3:06 |
 | 42 | [About Love \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/4XII12nbsvJblXfG1I2QR4) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [About Love \(From The Netflix Film “To All The Boys: P.S\. I Still Love You”\)](https://open.spotify.com/album/3UqotmoFHhdvwBHbP70amM) | 3:34 |
 | 43 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
-| 44 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
+| 44 | [I Like Me Better](https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG) | 3:17 |
 | 45 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 46 | [I DO](https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O) | 3:10 |
 | 47 | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/track/5eRHUqFh42n2udXatalFuy) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f), [Juicelover](https://open.spotify.com/artist/25zt0fnFASic9db8SoGnFL) | [Curling Field \(feat\. Juicelover\)](https://open.spotify.com/album/47BWmB2pJt774yrb0cdPK7) | 3:38 |

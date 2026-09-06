@@ -1625,6 +1625,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Show",
+        "url": "https://open.spotify.com/album/7cyzIV3psbJtHnCRojkZW1"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "Qu\u00e9 Show",
+      "url": "https://open.spotify.com/track/6IyXRF2ZE8QTMpwzyWl2DX"
+    },
+    {
+      "album": {
         "name": "Chill Navidad Vol. 1",
         "url": "https://open.spotify.com/album/621ROPn0yiFE7qTqg4KFaT"
       },

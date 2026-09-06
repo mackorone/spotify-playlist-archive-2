@@ -8972,10 +8972,28 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 162377,
       "name": "Why",
       "url": "https://open.spotify.com/track/3S3frIqslxTPN14ywKgS3I"
+    },
+    {
+      "album": {
+        "name": "Five Voices And A Streetlamp",
+        "url": "https://open.spotify.com/album/3RXQ1JgId5RXGw0UGqzLiE"
+      },
+      "artists": [
+        {
+          "name": "The Cues",
+          "url": "https://open.spotify.com/artist/5lOPf6fPyl2Tx1zubgt56b"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1nVPFml7Axvdgf6lckwMgS"
     },
     {
       "album": {

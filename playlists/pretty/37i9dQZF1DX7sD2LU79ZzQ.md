@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lomba Sihir
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,612 likes - 124 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,614 likes - 124 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

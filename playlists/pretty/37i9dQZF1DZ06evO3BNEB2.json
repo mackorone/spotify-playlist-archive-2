@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40995,
+  "num_followers": 40997,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABgqUlAW3kv5jOHDuANhFmE",
+  "snapshot_id": "apoKAAAAAAAKiKaBrwGDGQwsD8WJZV8C",
   "tracks": [
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Dearly Beloved (feat. Jamie Foxx)",
-      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N.W.A",
         "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 230413,
       "name": "N.W.A",
       "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Dearly Beloved (feat. Jamie Foxx)",
+      "url": "https://open.spotify.com/track/0JQ0F7iBZ3rIZaY9PTlBpT"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "MY PYT",
+      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "MY PYT",
-      "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
     },
     {
       "added_at": null,
@@ -935,26 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere Over The Rainbow",
-        "url": "https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04"
+        "name": "Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
       "artists": [
         {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "J'TA",
-          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
         }
       ],
-      "duration_ms": 217731,
-      "name": "Peace Of Mind (feat. Wale & J'TA)",
-      "url": "https://open.spotify.com/track/7IoN6gu0AcOGGcijdp8XiY"
+      "duration_ms": 236000,
+      "name": "Feel the Love (feat. Wale)",
+      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
     },
     {
       "added_at": null,
@@ -979,22 +975,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04"
       },
       "artists": [
         {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
         },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "J'TA",
+          "url": "https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Feel the Love (feat. Wale)",
-      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
+      "duration_ms": 217731,
+      "name": "Peace Of Mind (feat. Wale & J'TA)",
+      "url": "https://open.spotify.com/track/7IoN6gu0AcOGGcijdp8XiY"
     },
     {
       "added_at": null,

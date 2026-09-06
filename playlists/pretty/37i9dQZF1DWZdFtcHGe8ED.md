@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,837 likes - 200 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,842 likes - 200 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 175 | [66 Exeter Street](https://open.spotify.com/track/0oSILLUEwuFTFRsz5Twe56) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Exiled To The Surface](https://open.spotify.com/album/0tkgyipQ3jjwI2UVGVDDuT) | 4:09 |
 | 176 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 |
 | 177 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
-| 178 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
-| 179 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 |
+| 178 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 |
+| 179 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
 | 180 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 |
 | 181 | [The Great Circus Train Disaster](https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Great Circus Train Disaster](https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY) | 3:43 |
 | 182 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 179588,
+  "num_followers": 179684,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAB3gjnS+YX5iV71T2BVAwo",
+  "snapshot_id": "apoKAAAAAADap75rIR7iesZ2yqL8EPsn",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 217012,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 150678,
       "name": "Lies Came Out My Mouth",
       "url": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 217012,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "My Only Friend",
-      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 120194,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "My Only Friend",
+      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 178492,
-      "name": "Glow On",
-      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 136615,
       "name": "All in All",
       "url": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 178492,
+      "name": "Glow On",
+      "url": "https://open.spotify.com/track/1iGx5ExhCxY0mgTaLqWyhn"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 190265,
-      "name": "Death Ray",
-      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 132236,
       "name": "When You're Around",
       "url": "https://open.spotify.com/track/27RyeAlW8qufycdeSz2K2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 190265,
+      "name": "Death Ray",
+      "url": "https://open.spotify.com/track/0YdG4zW1WUpKvWI9tVbnjO"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 165523,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 165523,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
     },
     {
       "added_at": null,

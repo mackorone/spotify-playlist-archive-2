@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41873,
+  "num_followers": 41876,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAX+HUUbmUimX2W4mO1sTOe",
+  "snapshot_id": "apoKAAAAAACrlYIYpeVbFJ6Emb3DRiU8",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 632006,
+      "name": "Admirable",
+      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/6WUJmzEMK7EBa2LLgp96s0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 632006,
-      "name": "Admirable",
-      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
-        "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 231742,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
-      "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrar\u00e9 (Live)",
         "url": "https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 395757,
       "name": "Esa Es La Raz\u00f3n - Live",
       "url": "https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+        "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 231742,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley)",
+      "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ambientes de Cuna",
         "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 452354,
       "name": "Como Dijiste",
       "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
     },
     {
       "added_at": null,

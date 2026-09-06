@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 97613,
+  "num_followers": 97633,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+        "name": "We Are the 21st Century Ambassadors of Peace & Magic",
+        "url": "https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "Foxygen",
+          "url": "https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+      "duration_ms": 201706,
+      "name": "Shuggie",
+      "url": "https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1587,6 +1587,22 @@
       "duration_ms": 174172,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/57A6HbITtifBco2NbF7Qq8"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1619,22 +1635,6 @@
       "duration_ms": 194733,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Muchacho De Lujo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song For Zula",
-      "url": "https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi"
     }
   ],
   "unique_name": "Best of Indie 2013",

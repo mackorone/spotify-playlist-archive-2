@@ -3247,6 +3247,24 @@
     },
     {
       "album": {
+        "name": "Bing Crosby - At His Best",
+        "url": "https://open.spotify.com/album/0c8GenvR5G7oyvviNFBSxl"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "My Resistance Is Low",
+      "url": "https://open.spotify.com/track/3f7kjhbky3T0cWOouM6o1s"
+    },
+    {
+      "album": {
         "name": "The Complete United Artist Sessions",
         "url": "https://open.spotify.com/album/1av3ItSe0NMhJiAmqqPpRm"
       },
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 137773,
       "name": "My Resistance Is Low - Alternate Take",
       "url": "https://open.spotify.com/track/6QaYNOZJt61S5NpmXk5t4N"

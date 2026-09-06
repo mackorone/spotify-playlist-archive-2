@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Check out the <a href="https://open.spotify.com/playlist/37i9dQZF1DXc3O66k5Ivui">BTS's NORMAL Day playlist </a>\. This playlist reflects your votes for each member's personal picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,082,103 likes - 326 songs - 19 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,082,145 likes - 326 songs - 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,10 +298,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 | 288 | [Intro: 2 Cool 4 Skool](https://open.spotify.com/track/1UlnDZ5ubsSX3xrXu063dZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [2 Cool 4 Skool](https://open.spotify.com/album/6egaEe9JaULuUCkihSnYlH) | 1:03 |
 | 289 | [Intro: What Am I to You](https://open.spotify.com/track/3HhgGvmDKx13uRTkXYfcDw) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 2:45 |
 | 290 | [Outro: Luv in Skool](https://open.spotify.com/track/2ZiVvIvwAwNRL4dUO3TaF6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [O!RUL8,2?](https://open.spotify.com/album/6rWmdSJIaGTVtdMJQ35Lvf) | 1:26 |
-| 291 | [Make It Right \(feat\. Lauv\) \- Acoustic Remix](https://open.spotify.com/track/4aQooO4mUMX1l457bgYR6a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\) \(Acoustic Remix\)](https://open.spotify.com/album/1mGRx12r0mVGK7jgp3eFe2) | 4:15 |
+| 291 | [Make It Right \(feat\. Lauv\) \- Acoustic Remix](https://open.spotify.com/track/4aQooO4mUMX1l457bgYR6a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\) \(Acoustic Remix\)](https://open.spotify.com/album/1mGRx12r0mVGK7jgp3eFe2) | 4:15 |
 | 292 | [Change](https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Change](https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq) | 4:37 |
 | 293 | [forever rain](https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 4:31 |
-| 294 | [Make It Right \(feat\. Lauv\) \- EDM Remix](https://open.spotify.com/track/57PBRXsXl2rEAR85Gh4Qac) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Frants](https://open.spotify.com/artist/7qxLQ0CByGfbd3HdL7ilR8) | [Make It Right \(feat\. Lauv\) \(EDM Remix\)](https://open.spotify.com/album/408RKKP71NxM0WprGQAUsB) | 4:06 |
+| 294 | [Make It Right \(feat\. Lauv\) \- EDM Remix](https://open.spotify.com/track/57PBRXsXl2rEAR85Gh4Qac) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Frants](https://open.spotify.com/artist/7qxLQ0CByGfbd3HdL7ilR8) | [Make It Right \(feat\. Lauv\) \(EDM Remix\)](https://open.spotify.com/album/408RKKP71NxM0WprGQAUsB) | 4:06 |
 | 295 | [SWIM with RM \(Chill Hip Hop Remix\)](https://open.spotify.com/track/7EytKcb3klVPpN5IW1sj1Y) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 2:43 |
 | 296 | [SWIM with Jin \(Alternative Rock Remix\)](https://open.spotify.com/track/5dZLsPskKzph16LWo31uxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:13 |
 | 297 | [SWIM with SUGA \(Melodic Techno Remix\)](https://open.spotify.com/track/5AL5OrvyIMPqKjl9iw3xO5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [KEEP SWIMMING](https://open.spotify.com/album/6iPjmGZeonxBZ9r7Cjkezq) | 3:39 |

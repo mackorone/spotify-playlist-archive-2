@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Bleeker
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,659 likes - 147 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,646 likes - 147 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 39 | [Fake Summer](https://open.spotify.com/track/5m0Zp1GYg58mxGBp5QnEAS) | [Mountain Head](https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O) | [Fake Summer](https://open.spotify.com/album/66qrKui54uTe2XBsE3Fqnj) | 4:07 |
 | 40 | [Thought I Was Lost](https://open.spotify.com/track/6L9tNIDvCmA2qOoDG6F2gS) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Love, In Spite of Everything](https://open.spotify.com/album/4zOlS79rxoVYNuvIi9PLsJ) | 3:56 |
 | 41 | [LOVE IS A WEAPON](https://open.spotify.com/track/0Yh2fbAjSibgNVuQ6wwUjs) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [LOVE IS A WEAPON](https://open.spotify.com/album/6uUrscaY02wDjVqIPvZyV4) | 4:03 |
-| 42 | [Euphoria](https://open.spotify.com/track/5W8Nnop1H98GpsnmAUfRLd) | [never goodbye](https://open.spotify.com/artist/4Qqzm4FXFUgM5Ml09HRn6b), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Euphoria](https://open.spotify.com/album/7EXuRlGOKcBxzvQOCfuHGG) | 1:54 |
+| 42 | [Euphoria](https://open.spotify.com/track/5W8Nnop1H98GpsnmAUfRLd) | [never goodbye](https://open.spotify.com/artist/4Qqzm4FXFUgM5Ml09HRn6b), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Euphoria](https://open.spotify.com/album/7EXuRlGOKcBxzvQOCfuHGG) | 1:54 |
 | 43 | [Say Yes](https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:04 |
 | 44 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 45 | [Süki & Amadeus](https://open.spotify.com/track/6joH4JVrb2uKcuNCigSjqB) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Big Life, Big Leaf](https://open.spotify.com/album/5tWhmvVVwODyA4cWaNZPCT) | 5:42 |

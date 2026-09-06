@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 225800,
       "name": "Across Every Ocean",
       "url": "https://open.spotify.com/track/621ojYru1eDdxfTvlYjQlQ"
@@ -1405,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/6b5PEThEEZlaqwftCs6fUT"
+      },
+      "artists": [
+        {
+          "name": "VINTERGRAV",
+          "url": "https://open.spotify.com/artist/0IYU8yHsIGv0JHIgs8rTle"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303108,
+      "name": "Blissful Sanguine",
+      "url": "https://open.spotify.com/track/77w2k8O21mGQEai3KfFlrM"
+    },
+    {
+      "album": {
         "name": "Bloemen Voor De Moeders",
         "url": "https://open.spotify.com/album/7p5JTvi9BM9P3onLcKWSqi"
       },
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Commander Cruel - Rework 2026",
       "url": "https://open.spotify.com/track/1cz2tkOAJEnaOr4DLp16hH"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 210247,
       "name": "Crystal Morning",
       "url": "https://open.spotify.com/track/0Wj4shsnjqKaDUO8UJBdU5"
@@ -3077,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Diamonds Like We Are",
+        "url": "https://open.spotify.com/album/5LPOQBRd3yWVrKNQ9jqYA8"
+      },
+      "artists": [
+        {
+          "name": "Berenika",
+          "url": "https://open.spotify.com/artist/7ltP9KntNNC1xDrGdI8mXy"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335142,
+      "name": "Diamonds Like We Are",
+      "url": "https://open.spotify.com/track/05kWaZQjbYJ6ykZ7fBwPMk"
+    },
+    {
+      "album": {
         "name": "The Ho Rider Demos",
         "url": "https://open.spotify.com/album/4QDqisQteghpyw2SQpaZYa"
       },
@@ -3575,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "The Lost Theatre",
+        "url": "https://open.spotify.com/album/21zPh4h3JcrEzFQt9JVR2R"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200636,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/4SVevBfmx6XLv36i52xNRV"
+    },
+    {
+      "album": {
         "name": "Drunk Blue Eyes",
         "url": "https://open.spotify.com/album/3Ghzabj99s9nU8FtA1Gyo8"
       },
@@ -3972,6 +4026,24 @@
       "duration_ms": 203308,
       "name": "Emotions of Gray",
       "url": "https://open.spotify.com/track/0lSx4ZCLjisMT9mw60l1Nr"
+    },
+    {
+      "album": {
+        "name": "Random Access Violence",
+        "url": "https://open.spotify.com/album/4Vf7Qcj9A6sTCTRvSQmxhv"
+      },
+      "artists": [
+        {
+          "name": "Dagan Divoro",
+          "url": "https://open.spotify.com/artist/2LQgqGqenxDT02N4ozzUWy"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172296,
+      "name": "Employee Factory",
+      "url": "https://open.spotify.com/track/4CUKpVkB4pfa9blzNiJIot"
     },
     {
       "album": {
@@ -4602,7 +4674,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -4638,7 +4710,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 99552,
       "name": "Fall Of A Good Man",
       "url": "https://open.spotify.com/track/0gtVlHOD1LKtzq202AdvFf"
@@ -4808,6 +4880,24 @@
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
+    },
+    {
+      "album": {
+        "name": "Der Wahn Als Methode",
+        "url": "https://open.spotify.com/album/6gHoLJnRgtRf4NUeiKPzn9"
+      },
+      "artists": [
+        {
+          "name": "photophor",
+          "url": "https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177257,
+      "name": "Faszinosum Wahnsinn",
+      "url": "https://open.spotify.com/track/0v1iD675UGFD45ZvF15QAH"
     },
     {
       "album": {
@@ -5042,7 +5132,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 330737,
       "name": "Flieg Vogel flieg",
       "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
@@ -5388,7 +5478,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 253909,
       "name": "Genom sm\u00e4rta",
       "url": "https://open.spotify.com/track/79OhJsAo6NtdoFPB4f0wnH"
@@ -5638,7 +5728,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 294068,
       "name": "Grenn Eyes",
       "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
@@ -6730,7 +6820,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -6964,7 +7054,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -7278,7 +7368,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -8437,6 +8527,24 @@
     },
     {
       "album": {
+        "name": "LOVE ON DEMAND",
+        "url": "https://open.spotify.com/album/0SaDW7vmXqzw4GEwvkFsmd"
+      },
+      "artists": [
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/4s3qihklCtJDxfS9Ik3CoA"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "LOVE ON DEMAND",
+      "url": "https://open.spotify.com/track/7wUXFi8yUluMaieRFoqCYj"
+    },
+    {
+      "album": {
         "name": "Love Transcends It All",
         "url": "https://open.spotify.com/album/69dJeQqMgbKX5iSKjITbJX"
       },
@@ -8866,7 +8974,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 262960,
       "name": "Melodies of Movement",
       "url": "https://open.spotify.com/track/5LADnb8ITeBulXFQK3o5Xl"
@@ -9559,6 +9667,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/7c1xzLgoQiBntQsfAXm3N2"
+      },
+      "artists": [
+        {
+          "name": "WHITE MASK",
+          "url": "https://open.spotify.com/artist/7qhehFpZToEsjTHIdcyQ4E"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "My Pain",
+      "url": "https://open.spotify.com/track/1jyRMSljX8OOpQmarGcI88"
+    },
+    {
+      "album": {
         "name": "My Remains",
         "url": "https://open.spotify.com/album/2ryT3PneH0kB6YEaIcwHQC"
       },
@@ -9700,7 +9826,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -11072,7 +11198,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -13120,7 +13246,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 327951,
       "name": "Stale",
       "url": "https://open.spotify.com/track/7i4c2nXS9JyKmajo0VMcNI"
@@ -13398,7 +13524,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 207623,
       "name": "Stum tystnad",
       "url": "https://open.spotify.com/track/4fTHAUI2k7UbwRZrFIapmU"
@@ -13744,7 +13870,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 276940,
       "name": "Tapetblomma",
       "url": "https://open.spotify.com/track/43m5wGSqGgkPR9nOgPdamR"
@@ -14386,7 +14512,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -14776,7 +14902,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 218000,
       "name": "The Third Son",
       "url": "https://open.spotify.com/track/1FtBT5m5alMadSATu735BJ"
@@ -14928,7 +15054,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 217733,
       "name": "The Witness Tree",
       "url": "https://open.spotify.com/track/5zJZTmMLUfoVRhZNrqW2Bt"
@@ -14986,7 +15112,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -15702,7 +15828,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -16769,6 +16895,24 @@
     },
     {
       "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5Rcy1eTl1fzdW9F8hxQ22a"
+      },
+      "artists": [
+        {
+          "name": "Grave Dance Company",
+          "url": "https://open.spotify.com/artist/248m05AQWwlZ9OduEN8yF2"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314080,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/0GK1BREHwx001Q5LXbocaQ"
+    },
+    {
+      "album": {
         "name": "Where Cats Go to Die",
         "url": "https://open.spotify.com/album/4BzTFBFB7K8OXrPWkPs3Ax"
       },
@@ -16986,7 +17130,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 269507,
       "name": "Wings Of An Angel",
       "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"

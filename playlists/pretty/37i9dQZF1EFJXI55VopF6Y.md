@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 34 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 |
 | 35 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 |
 | 36 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |
-| 37 | [little things](https://open.spotify.com/track/7HPG4wUGKWT63rsyYGhmbc) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [everything, in time](https://open.spotify.com/album/5QknArSibMONi8qaAWn4OQ) | 3:33 |
-| 38 | [BRINGING TO THE TABLE](https://open.spotify.com/track/2bBcpzGbc9Xe0oumISMarC) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:46 |
+| 37 | [BRINGING TO THE TABLE](https://open.spotify.com/track/2bBcpzGbc9Xe0oumISMarC) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRT ON MY HANDS](https://open.spotify.com/album/46TbLLLUlWHrDCRlchF4ed) | 2:46 |
+| 38 | [little things](https://open.spotify.com/track/7HPG4wUGKWT63rsyYGhmbc) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [everything, in time](https://open.spotify.com/album/5QknArSibMONi8qaAWn4OQ) | 3:33 |
 | 39 | [ENTRE NOUS](https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:40 |
 | 40 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
 | 41 | [Streets](https://open.spotify.com/track/0xmOfwQ4UxyNSt8g50yE3i) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Streets](https://open.spotify.com/album/0hj6iS5EK2Nn4uOZh6psCV) | 2:51 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 62 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 63 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `Acbb/AAAAAAUyxkE02BLywM8WzGWxbhP`
+Snapshot ID: `AcbhnAAAAACsyGz2NnqFFD7dqI0n+0ha`

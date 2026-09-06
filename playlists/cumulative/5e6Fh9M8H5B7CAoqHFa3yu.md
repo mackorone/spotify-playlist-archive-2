@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,524 songs - 6 day 4 hr 28 min
+2,527 songs - 6 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,6 +1042,7 @@
 | [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 | 2026-08-28 |  |
 | [In the Night](https://open.spotify.com/track/6cnsNfZr2MAEztGiOSPMwJ) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 4:44 | 2024-09-25 |  |
 | [In The Night](https://open.spotify.com/track/2D1ApfVhLwpnrKCQuwkhKg) | [Ruthless Vision](https://open.spotify.com/artist/6lzWhXhEjGm4IdfghiQg9O) | [In The Night](https://open.spotify.com/album/2LJ1HkiNgKsTUBVpln6bmb) | 3:27 | 2025-08-14 |  |
+| [In The Trap](https://open.spotify.com/track/2GLJ6ix9u9CuQk0iSHv54i) | [Yung Pager](https://open.spotify.com/artist/4GaK4K1SUk1cXNMseEkQvK) | [Things I See In The Dark](https://open.spotify.com/album/5Mjrhi3OnXbqTCEfOQu1R4) | 2:30 | 2026-09-05 |  |
 | [Incomparable \(Bluesman\)](https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 3:28 | 2026-04-30 |  |
 | [India Rubber](https://open.spotify.com/track/2zco38BnUzODIa6duYk8On) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Fake Plastic Trees](https://open.spotify.com/album/1Kv1QDrvDeGs2t2sR64pjN) | 3:26 | 2024-03-04 |  |
 | [Indimenticabile](https://open.spotify.com/track/4ochTtaaqxdPsoPLbF2bCu) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Elettricità \(Radio Version\)](https://open.spotify.com/album/5XqEsAqAOJQS52RC0qOq7A) | 3:09 | 2025-04-16 |  |
@@ -1061,6 +1062,7 @@
 | [Integrity Version](https://open.spotify.com/track/6RYhS7NQDTeBIZ03GMI2SK) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Moonsteppa](https://open.spotify.com/album/15mEEqT5CD79q5apP4mK0M) | 3:05 | 2024-05-04 |  |
 | [Interior](https://open.spotify.com/track/6Vgg8AISPds3DBInHYi02L) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Dueto](https://open.spotify.com/album/6od0qOZJPuGeXp1Bi5y3vX) | 1:35 | 2025-05-16 |  |
 | [Interstitial City](https://open.spotify.com/track/2k4oAkdTSf4n2QtoUfVojl) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Version 20](https://open.spotify.com/album/2bUYIrZkGqup6nbbxTPqqS) | 4:24 | 2024-12-05 |  |
+| [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 | 2026-09-05 |  |
 | [Into the Sun](https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:47 | 2026-04-12 |  |
 | [Intro](https://open.spotify.com/track/65kWtHIqg2IACNR9KP4KOS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Mansion](https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl) | 3:19 | 2025-02-15 |  |
 | [Intro 2](https://open.spotify.com/track/6QtmlxUMrvwDE7CLN6WKIz) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Intro 2](https://open.spotify.com/album/69kEuoBoaggzOvSwZulmDS) | 2:39 | 2024-11-08 |  |
@@ -2002,6 +2004,7 @@
 | [Souvenir](https://open.spotify.com/track/3gWOuj8bFBxxwzsmY2DnmB) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Fractal](https://open.spotify.com/album/6DBdgU939bZqH9lEJnczSO) | 3:47 | 2025-12-28 |  |
 | [Space Odyssey](https://open.spotify.com/track/5lwtSR1F1bHAhbxCGRZdFj) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 1:15 | 2026-02-05 |  |
 | [Space Time \(HIIT30\-10\)](https://open.spotify.com/track/4cI7BXZ6tyeXHChzXFpe7f) | [THE COACH](https://open.spotify.com/artist/1TXrJpe4fvCaVpg3f1nbjW) | [HIIT FRENETICO](https://open.spotify.com/album/6qoJhjAStNrszMp7sN0Q9N) | 1:20 | 2024-03-08 |  |
+| [SPACE TRUMPET](https://open.spotify.com/track/2hoTjOEWccbV7FLupcjTt9) | [GEA MASTER MUSIC](https://open.spotify.com/artist/1Vl0gfcaEnR0LjP5JJT0Cw), [Mario FURCERI](https://open.spotify.com/artist/3qsaLAJI8Rfcrsb4Yn0c9t) | [SPACE TRUMPET](https://open.spotify.com/album/1lUN9FXGsMbh1I2J6I7Z6K) | 2:40 | 2026-09-05 |  |
 | [Spark](https://open.spotify.com/track/1ZlPAx2KLngbbtM4zozoDV) | [View Into](https://open.spotify.com/artist/0knJzCXevzATs6yEPaY57P) | [Spark](https://open.spotify.com/album/4sjOtEXPGOm9shZRyIRgFl) | 3:36 | 2025-10-03 | 2026-08-27 |
 | [Sparkle's Silly Spire](https://open.spotify.com/track/6IRxLQuWotxsfNgT7N3DlU) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 3:41 | 2026-01-09 |  |
 | [Spatial \(Sped\-Up\)](https://open.spotify.com/track/07T5JPdHkKfZwLSWe2RYMh) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial \(Sped\-Up\)](https://open.spotify.com/album/3lvS4ndM1mNnIz27edwC6K) | 1:52 | 2025-09-11 |  |

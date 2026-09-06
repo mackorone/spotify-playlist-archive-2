@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 9 hr 22 min
+184 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Fan de Tus Fotos](https://open.spotify.com/track/6rIql0inorjJoC5Fxye5e9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:17 | 2025-11-07 |  |
 | [FICHAJE DEL AÑO](https://open.spotify.com/track/0shb1hFrVP3Lstj1mmaHiQ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:13 | 2025-11-07 |  |
 | [FKN Movie](https://open.spotify.com/track/0t2Y8BKBhtHQTOW7nzyIc0) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:59 | 2025-11-07 |  |
+| [For u My lova](https://open.spotify.com/track/1K17D7gMrxJDz3EA7W0Q72) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:30 | 2026-09-05 |  |
 | [Freshy](https://open.spotify.com/track/1kH0az3ybfv6yI7NAlLFE0) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Freshy](https://open.spotify.com/album/160ESTRdBsAbDx6kERV6TU) | 2:23 | 2025-11-07 |  |
 | [GATA G](https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:43 | 2025-11-07 |  |
 | [GL](https://open.spotify.com/track/1KFB36MCmrNXVD4I15kO0R) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:01 | 2026-08-11 |  |

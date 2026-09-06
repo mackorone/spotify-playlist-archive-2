@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Ana Laura Lopes
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,535 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,525 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 64 | [QUANDO ASSUM VOAR](https://open.spotify.com/track/5yNhzae5tKwrQgiXVJtpcq) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [QUANDO ASSUM VOAR](https://open.spotify.com/album/0m909aW6kNTzgB05lzga06) | 2:55 |
 | 65 | [Céu Rosa](https://open.spotify.com/track/4LnFAmujdsNMroW3qwmTeN) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [Céu Rosa](https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK) | 2:30 |
 | 66 | [Malabares](https://open.spotify.com/track/75R9tlySgDXJJcbMXWUsiN) | [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8) | [Malabares](https://open.spotify.com/album/5Rif2nv8U9hEyS66Kogy0y) | 3:20 |
-| 67 | [Pura Magia](https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pura Magia](https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X) | 3:40 |
-| 68 | [Camomila](https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Camomila](https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl) | 3:10 |
+| 67 | [Camomila](https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Camomila](https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl) | 3:10 |
+| 68 | [Pura Magia](https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Pura Magia](https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X) | 3:40 |
 | 69 | [Pôr Do Sol Avisa](https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Pôr Do Sol Avisa](https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS) | 2:25 |
 | 70 | [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 |
 

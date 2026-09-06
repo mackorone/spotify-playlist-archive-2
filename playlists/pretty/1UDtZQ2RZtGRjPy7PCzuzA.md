@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia🍭](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,333 songs - 3 day 4 hr 3 min
+[lia🍭](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,338 songs - 3 day 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1341,5 +1341,10 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1331 | [I Am Damaged](https://open.spotify.com/track/1nMI7HkE0NOnuGMLP6MH6r) | [Barrett Wilbert Weed](https://open.spotify.com/artist/417KN08R5x90PqWWZUGTsE), [Ryan McCartan](https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 1:26 |
 | 1332 | [Seventeen \(Reprise\)](https://open.spotify.com/track/7APBZfwOZRSDmkskR8yrdP) | [Barrett Wilbert Weed](https://open.spotify.com/artist/417KN08R5x90PqWWZUGTsE), [Alice Lee](https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5), [Katie Ladner](https://open.spotify.com/artist/6u0kZHLrtCxD7vEqIO5Knt), [Elle McLemore](https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj) | [Heathers: The Musical \(World Premiere Cast Recording\)](https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO) | 2:44 |
 | 1333 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
+| 1334 | [Losing](https://open.spotify.com/track/4ga8BXjCeZ5EW9Qn0D41mf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling: The Archives](https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6) | 2:03 |
+| 1335 | [VBS](https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 3:56 |
+| 1336 | [Nonbeliever](https://open.spotify.com/track/1njVROLMK2Hgj8WJyWwAV1) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 3:40 |
+| 1337 | [Time In A Bottle](https://open.spotify.com/track/3mkDMc2dY2NNvAoLYV09Np) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling: The Archives](https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6) | 2:39 |
+| 1338 | [Dream State...](https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 3:30 |
 
-Snapshot ID: `AAAMrdy3z09gIiKZBgBVtqvV6xkNtZAc`
+Snapshot ID: `AAAMtDpfXWgPALan07TwAqTKMlLlpXZE`

@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10450,
+  "num_followers": 10455,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADmturQMS30OIc3vY9q1pce",
+  "snapshot_id": "apoKAAAAAABbJFwTr7CZ3yIpleXPWLom",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 219665,
       "name": "Live by the Sword",
       "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/0pdmG6XHXq9p9FvZ36LEUz"
     },
     {
       "added_at": null,
@@ -123,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 227567,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/4jKonocCzh6JbKfmoANcix"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Good Left To Give",
         "url": "https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z"
       },
@@ -135,22 +167,6 @@
       "duration_ms": 240906,
       "name": "Skin To Skin",
       "url": "https://open.spotify.com/track/1leOJnHs7HFXF4B5Nsgkmk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": null,
@@ -171,6 +187,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 237278,
+      "name": "Flowerbed",
+      "url": "https://open.spotify.com/track/1qRAtQjuQdABlBLi9W8dOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outgrown Things",
         "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
@@ -187,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Third Degree",
+      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cherry Thrill",
         "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
       },
@@ -199,6 +263,22 @@
       "duration_ms": 199521,
       "name": "Cherry Thrill",
       "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 67170,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/0LuRD7PTDVxzdZQhXk1Zz6"
     },
     {
       "added_at": null,
@@ -228,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 226360,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+      "duration_ms": 284626,
+      "name": "Suffer Through",
+      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
     },
     {
       "added_at": null,
@@ -251,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 231121,
+      "name": "III at Ease",
+      "url": "https://open.spotify.com/track/7G2uBd0CDs4RFgRH118CgW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outgrown Things",
         "url": "https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO"
       },
@@ -263,6 +359,22 @@
       "duration_ms": 241034,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/5b3p0Lc2Kc1gwZnECZ1kmg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Deadly Dull",
+      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
     },
     {
       "added_at": null,
@@ -283,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
       },
       "artists": [
         {
@@ -292,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 284626,
-      "name": "Suffer Through",
-      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+      "duration_ms": 260840,
+      "name": "Everyone I've Ever Been",
+      "url": "https://open.spotify.com/track/6WJzH3L0fS6a14wa8xC84c"
     },
     {
       "added_at": null,
@@ -347,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI"
       },
       "artists": [
         {
@@ -356,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Deadly Dull",
-      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+      "duration_ms": 271883,
+      "name": "Fragile Hands",
+      "url": "https://open.spotify.com/track/64lJaDtxSW9GhGawuZTFxj"
     },
     {
       "added_at": null,
@@ -491,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Protection (Demo)",
-        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
+        "name": "Live At Studio 4",
+        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
       },
       "artists": [
         {
@@ -500,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 209967,
-      "name": "Protection - Demo",
-      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
+      "duration_ms": 185841,
+      "name": "Banquet - Live at Studio 4",
+      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
     },
     {
       "added_at": null,
@@ -555,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+        "name": "Protection (Demo)",
+        "url": "https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl"
       },
       "artists": [
         {
@@ -564,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 269946,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+      "duration_ms": 209967,
+      "name": "Protection - Demo",
+      "url": "https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO"
     },
     {
       "added_at": null,
@@ -603,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Studio 4",
-        "url": "https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
       "artists": [
         {
@@ -612,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 185841,
-      "name": "Banquet - Live at Studio 4",
-      "url": "https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS"
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     }
   ],
   "unique_name": "This Is Movements",

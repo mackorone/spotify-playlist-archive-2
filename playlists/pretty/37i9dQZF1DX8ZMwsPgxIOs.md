@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,674 likes - 146 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,713 likes - 146 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

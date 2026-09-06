@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,527 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,526 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 55 | [Santa Tell Me](https://open.spotify.com/track/2DCxWF4de4snGIze8xKw15) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Tell Me](https://open.spotify.com/album/0OB5qNV3Nk6lbZpWNQI8jA) | 2:47 |
 | 56 | [I'll Be Home for Christmas](https://open.spotify.com/track/5npbKR3fjmyfnYY1RtjxGc) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp) | [I'll Be Home for Christmas](https://open.spotify.com/album/6ABJT39u4YaKGD33L3080f) | 4:21 |
 | 57 | [Gabriel's Message](https://open.spotify.com/track/0QWDOBSNiPaM73Y2AxXQ4L) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Gabriel's Message](https://open.spotify.com/album/0YC5jOsmjX2LebjVZq0VMa) | 2:34 |
-| 58 | [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 |
+| 58 | [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 |
 | 59 | [I Wonder as I Wander](https://open.spotify.com/track/4MgmjwYiDDj7h0MZF8Km5m) | [Barron Ryan](https://open.spotify.com/artist/4gj7WndN1VykJMR3z4j9to) | [I Wonder as I Wander](https://open.spotify.com/album/5djuC60i0uFWvVhYbGLvOe) | 4:46 |
 | 60 | [Away in a Manger \- Ambient Mix](https://open.spotify.com/track/75ORqYj5yNX288tGlpM3ox) | [William J\. Kirkpatrick](https://open.spotify.com/artist/0IyFf7sJynolp1a7Ck79u9), [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Away in a Manger \(Ambient Mix\)](https://open.spotify.com/album/5XypOXTm419Pw6UxPOhAg2) | 3:15 |
 | 61 | [Fairytale of New York](https://open.spotify.com/track/2Lef0CHyds1JR5t8oPXXzw) | [Jem Finer](https://open.spotify.com/artist/5DJY4vHKN7NdsbU60GVIkW), [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Together At Last](https://open.spotify.com/album/0XWsqCngjp9vAcDzr8dp9T) | 3:12 |

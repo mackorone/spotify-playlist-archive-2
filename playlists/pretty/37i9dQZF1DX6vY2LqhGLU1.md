@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,084 likes - 150 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,078 likes - 150 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,9 +115,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6vY2LqhGLU1.md) - [plain]
 | 105 | [Hope Is Born \(2025\)](https://open.spotify.com/track/5OO8lwTALUoZikT7Az4FFN) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Peace On Earth](https://open.spotify.com/album/6uIWkNigeSF2T1lN5xtal2) | 3:22 |
 | 106 | [Good Christian Men Rejoice \(Born to Reign\)](https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Good Christian Men Rejoice \(Born to Reign\)](https://open.spotify.com/album/2WP3QY0LZcOTwzTxMj12jn) | 3:32 |
 | 107 | [MANGER OF MY HEART](https://open.spotify.com/track/0Vga9TGN4Xt6JDWSUNlhM7) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [MANGER OF MY HEART](https://open.spotify.com/album/7FCAJR4cTdqMG7hoTKNbsl) | 4:09 |
-| 108 | [Light Has Come](https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF) | [New City Collective](https://open.spotify.com/artist/77LpqlVxuQD1IySatLFg1s), [Dave Aubrey](https://open.spotify.com/artist/0uwvIQev84qq1NOWeqntBg) | [Light Has Come](https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj) | 5:44 |
+| 108 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 |
 | 109 | [First Noel \(It's All About You\)](https://open.spotify.com/track/7DwrtWFajs2Nri6qioVXGf) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [It's All About You](https://open.spotify.com/album/2nACCDrSqaEc2VVhW3fSFk) | 3:48 |
-| 110 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 |
+| 110 | [Light Has Come](https://open.spotify.com/track/0YfMMHnFJYhTD1cUzZ1pnF) | [New City Collective](https://open.spotify.com/artist/77LpqlVxuQD1IySatLFg1s), [Dave Aubrey](https://open.spotify.com/artist/0uwvIQev84qq1NOWeqntBg) | [Light Has Come](https://open.spotify.com/album/7hrETvT4Nz6xVV03YmTEUj) | 5:44 |
 | 111 | [Go Tell](https://open.spotify.com/track/4sDRKpcBYlquxgTmVXU0kd) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E), [Solo Ray](https://open.spotify.com/artist/1pbOEtWFBO3bPTxUmDgBCd) | [Go Tell](https://open.spotify.com/album/6p21VNODi0gRsTKw6kE8YL) | 2:30 |
 | 112 | [O Holy Night \- Live](https://open.spotify.com/track/0UrKPs28Pte1NZ4ZvcYXJA) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Melinda Watts](https://open.spotify.com/artist/5Mo0qcsIlDzmNli75afKB0) | [A Weary World Rejoices](https://open.spotify.com/album/27a2ATZGDNSYlwO5CpAo5z) | 6:24 |
 | 113 | [Mary Did You Know](https://open.spotify.com/track/7hbjYJFCL29uMATp8QofVI) | [Prestonwood Worship](https://open.spotify.com/artist/0vj1ONO111GpehfAlHuYFs), [Michael Neale](https://open.spotify.com/artist/1RfoR5qLjoy96pTpSkDzW9) | [Mary Did You Know](https://open.spotify.com/album/4vlswBt1N2Y86NjgvcuseA) | 5:38 |

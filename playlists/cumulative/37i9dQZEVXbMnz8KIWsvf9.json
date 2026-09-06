@@ -3043,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "album": {
         "name": "When the Stars Gossip OST Part.3",
         "url": "https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc"
       },
@@ -7305,6 +7323,24 @@
     },
     {
       "album": {
+        "name": "OUTWEST",
+        "url": "https://open.spotify.com/album/2zVQGjF89IWIFQQVNT3SPG"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2a2AaM5jWg2ZctT9VMUZNN"
+    },
+    {
+      "album": {
         "name": "IRREPLACEABLE",
         "url": "https://open.spotify.com/album/1qBo0T1XG8sxyOGaiSGhF3"
       },
@@ -10632,7 +10668,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 216000,
       "name": "One Of My Life",
       "url": "https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj"
@@ -10862,6 +10898,24 @@
       "duration_ms": 225446,
       "name": "Outro: Wings",
       "url": "https://open.spotify.com/track/7kyUapJyppdjzoAWB6XS14"
+    },
+    {
+      "album": {
+        "name": "OUTWEST",
+        "url": "https://open.spotify.com/album/2zVQGjF89IWIFQQVNT3SPG"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198845,
+      "name": "OUTWEST",
+      "url": "https://open.spotify.com/track/4Bn4b4N7rWCqPlKfEZi6PB"
     },
     {
       "album": {
@@ -12518,6 +12572,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "album": {
@@ -17478,7 +17550,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 257133,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/5pqAbpHRuFhcACwvVBi69V"
@@ -21870,7 +21942,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 253764,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
       "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
@@ -22858,7 +22930,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 243426,
       "name": "\u0e2a\u0e2d\u0e07\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/7sWVkwBJ8J1JPS1hmLwIYL"
@@ -25550,7 +25622,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 221049,
       "name": "\u0e43\u0e08\u0e1a\u0e32\u0e07",
       "url": "https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9"
@@ -25868,7 +25940,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 271578,
       "name": "\u0e44\u0e14\u0e49\u0e42\u0e1b\u0e23\u0e14\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (Upside Down)",
       "url": "https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be"
@@ -25904,7 +25976,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 265133,
       "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e19\u0e2d\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1Uq8lyMmWfsvmWx9SRO5Vn"
@@ -26352,7 +26424,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 228383,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e25\u0e37\u0e21\u0e41\u0e04\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d - Flashback",
       "url": "https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT"

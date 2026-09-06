@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18825,
+  "num_followers": 18827,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,82 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
+        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        }
+      ],
+      "duration_ms": 294733,
+      "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6hKQeWvK5CfSBEMzsm2bFp"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
+        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
+      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
+      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON",
         "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
       },
@@ -995,18 +1071,18 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
-        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
+        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
       },
       "artists": [
         {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
         }
       ],
-      "duration_ms": 193106,
-      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
-      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+      "duration_ms": 267560,
+      "name": "\u6e80\u8179\u81f3\u6975\u30d5\u30eb\u30b3\u30a9\u30b9",
+      "url": "https://open.spotify.com/track/74iCadn1JR5DB4ZtAwvXXQ"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1039,82 +1115,6 @@
       "duration_ms": 208960,
       "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30b8\u30e5\u30a8\u30eb \uff5e\u9b45\u60d1\u306e\u91d1\u525b\u77f3\uff5e",
       "url": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
-      },
-      "artists": [
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "\u6d41\u661f\u7fa4",
-      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
-        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
-          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
-        }
-      ],
-      "duration_ms": 294733,
-      "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6hKQeWvK5CfSBEMzsm2bFp"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
-        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
-          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
-        }
-      ],
-      "duration_ms": 267560,
-      "name": "\u6e80\u8179\u81f3\u6975\u30d5\u30eb\u30b3\u30a9\u30b9",
-      "url": "https://open.spotify.com/track/74iCadn1JR5DB4ZtAwvXXQ"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
-        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
-      },
-      "artists": [
-        {
-          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
-          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
-        },
-        {
-          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
-          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
-          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
-      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
     },
     {
       "added_at": "2025-03-26 16:49:37",

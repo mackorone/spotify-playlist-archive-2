@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 826178,
+  "num_followers": 826257,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
-        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
+        "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
     },
     {
       "added_at": "2022-08-26 12:00:00",

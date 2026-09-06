@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 11 min
+107 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Quiero Que Seas Tú](https://open.spotify.com/track/7bSCakZAVtms7KN96hwaPW) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Que Seas Tú](https://open.spotify.com/album/2W3UAlM3O9u1IENBXtB8M8) | 2:28 | 2026-03-01 | 2026-08-27 |
 | [Quiero Ser](https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 3:29 | 2026-08-26 | 2026-08-27 |
 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 | 2024-08-08 |  |
+| [Qué Show](https://open.spotify.com/track/6IyXRF2ZE8QTMpwzyWl2DX) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Qué Show](https://open.spotify.com/album/7cyzIV3psbJtHnCRojkZW1) | 2:28 | 2026-09-06 |  |
 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/4KZuz2dF3U0oKugVuFUjWm) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Chill Navidad Vol\. 1](https://open.spotify.com/album/621ROPn0yiFE7qTqg4KFaT) | 2:26 | 2025-11-30 | 2025-12-28 |
 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 | 2024-08-08 | 2026-07-20 |
 | [SENTIMIENTOS](https://open.spotify.com/track/4Er8xI0V9tW7njjStgAeDn) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:16 | 2026-07-22 | 2026-07-23 |

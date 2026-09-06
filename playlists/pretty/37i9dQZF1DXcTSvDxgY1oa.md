@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Jim Gardner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,017 likes - 89 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,021 likes - 89 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

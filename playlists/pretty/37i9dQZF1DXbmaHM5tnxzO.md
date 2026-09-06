@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > All the best tracks from Pixar films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,088 likes - 87 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,110 likes - 87 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 6 | [Boo's Going Home](https://open.spotify.com/track/5H2HoE7EQjHaBbRK05Ezy8) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 3:33 |
 | 7 | [The Life of Riley](https://open.spotify.com/track/4hwwfstxl1XWqA0KKce7FY) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 2:32 |
 | 8 | [Meet Me Halfway](https://open.spotify.com/track/3xreTiCUTCyy9l7nsqbEyl) | [Campfire](https://open.spotify.com/artist/54iFlEyl0Ns7oVIoee11W4), [Francci Richard](https://open.spotify.com/artist/0julhRDXKjW4PjQb7L2tdE) | [Win or Lose \(Original Soundtrack\)](https://open.spotify.com/album/5b8ZVBaIDmoFi7NEv3swE7) | 2:49 |
-| 9 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
+| 9 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 10 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 |
 | 11 | [Sweeter \(When You're Dancing\)](https://open.spotify.com/track/28ixgeSDaB7ZAcKobYl3mZ) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Dream Productions \(Original Soundtrack\)](https://open.spotify.com/album/1DkKYNowb8r3REP069nDBQ) | 2:57 |
 | 12 | [Don't Fight the Rhythm! \- From "Disneyland Resort's Pixar Pals Playtime Party"](https://open.spotify.com/track/3QhIwMB5eIul4JzFGVTlCn) | [Brandon Rogers](https://open.spotify.com/artist/7srpB9KpvRiJMkJIbIk6fy), [Rhett Fisher](https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA), [Devin Hoffman](https://open.spotify.com/artist/3Rg7OiUyC9WwwbcgZzfwqb) | [Don't Fight the Rhythm! \(From "Disneyland Resort's Pixar Pals Playtime Party"\)](https://open.spotify.com/album/2Hs7U0rI4ITjlt5CzomTW5) | 3:10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117024,
+  "num_followers": 117023,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABMV3Q8bhVbO3LGDqROe8qW",
+  "snapshot_id": "apoKAAAAAAD158QyV9BAJAtMrumxP2Tt",
   "tracks": [
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 307160,
-      "name": "Shoot to Thrill",
-      "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 254838,
-      "name": "Rain Your Blood On Me",
-      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/2ONNVBhYiojv9aJeK84Ghn"
       },
@@ -767,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
       "artists": [
         {
@@ -776,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 212973,
-      "name": "What Sober Couldn't Say",
-      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
+      "duration_ms": 254838,
+      "name": "Rain Your Blood On Me",
+      "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
     },
     {
       "added_at": null,
@@ -792,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Gold Dust Woman",
-      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
+      "duration_ms": 307160,
+      "name": "Shoot to Thrill",
+      "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
     },
     {
       "added_at": null,
@@ -823,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "What Sober Couldn't Say",
+      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ReAniMate 3.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 249986,
       "name": "I Hate Myself for Loving You",
       "url": "https://open.spotify.com/track/77Fg4U5G7kejajeLbBh9HK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Gold Dust Woman",
+      "url": "https://open.spotify.com/track/4UyYS7Vjte02mASH4h7Oer"
     }
   ],
   "unique_name": "This Is Halestorm",

@@ -11893,6 +11893,24 @@
     },
     {
       "album": {
+        "name": "No Rational",
+        "url": "https://open.spotify.com/album/5gXaf8oYfotWAn5xSFHrmD"
+      },
+      "artists": [
+        {
+          "name": "aiiyh",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "No Rational",
+      "url": "https://open.spotify.com/track/6MFXc89xFLHSsvFNpnoLRw"
+    },
+    {
+      "album": {
         "name": "No Sugar in My Coffee",
         "url": "https://open.spotify.com/album/6dPBZ3eft4pJEmi6M6K9Ne"
       },

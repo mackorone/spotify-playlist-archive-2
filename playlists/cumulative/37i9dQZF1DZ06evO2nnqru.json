@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "El Gallo Celoso",
+        "url": "https://open.spotify.com/album/3qwKU6NmVTrt6jjQU9lX0Z"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "El Gallo Celoso",
+      "url": "https://open.spotify.com/track/5ehlpaAQnRLBB18cl7xKjr"
+    },
+    {
+      "album": {
         "name": "El G\u00fcero (Feat. Marca MP)",
         "url": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 202296,
       "name": "La Mitad - en Vivo",
       "url": "https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw"

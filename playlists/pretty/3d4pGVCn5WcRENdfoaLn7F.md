@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 844 likes - 64 songs - 3 hr 36 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 846 likes - 67 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 62 | [Bleed Me](https://open.spotify.com/track/1zUyNaht7QAMAjpe9d0bsw) | [The Pleasure Merchants](https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF) | [Bleed Me](https://open.spotify.com/album/6Fgy6G7kwojsXyI5WTp6FT) | 3:21 |
 | 63 | [Underwater](https://open.spotify.com/track/5YrtHifBNkMY2HYL6kua2r) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Underwater](https://open.spotify.com/album/5O5s0tRNYYi4OgjDvto3Le) | 3:52 |
 | 64 | [sparkles](https://open.spotify.com/track/2USvuzXtQIR05I6kP7IEt6) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [sparkles](https://open.spotify.com/album/1iFXnOBQejkpHOsFJcPZ2n) | 4:06 |
+| 65 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
+| 66 | [Take the Leap](https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2) | [Belshire](https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC) | [Belshire](https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S) | 2:56 |
+| 67 | [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 |
 
-Snapshot ID: `AAAD6ptJmQNu6kpdcFr3+iCnRfDIT5b0`
+Snapshot ID: `AAAD7erw9KZxGcCPE/ewFlkrvszFfq2x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Mpho.Wav
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,803 likes - 65 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,822 likes - 65 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

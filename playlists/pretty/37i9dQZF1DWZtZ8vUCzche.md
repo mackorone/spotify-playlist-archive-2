@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > Put your speakers to the test with this eclectic collection of legendary tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,351 likes - 150 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,589 likes - 150 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 143 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
 | 144 | [Morning](https://open.spotify.com/track/3arVrdpOPMgLZOztBr2jM6) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 5:19 |
 | 145 | [Spirits In The Material World \- Remastered 2003](https://open.spotify.com/track/0h1wFiJEfkPsuJyPHL5j2H) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered\)](https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A) | 2:59 |
-| 146 | [Slave Song](https://open.spotify.com/track/57Zm7XTk4f5A9I7f4N28Rv) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk) | 4:12 |
-| 147 | [Jumbo](https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish](https://open.spotify.com/album/2WQi7I2Nc8pMLgsXnwJp0b) | 6:57 |
+| 146 | [Jumbo](https://open.spotify.com/track/56A2b7HaPMzTsIOicdnet1) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Beaucoup Fish](https://open.spotify.com/album/2WQi7I2Nc8pMLgsXnwJp0b) | 6:57 |
+| 147 | [Slave Song](https://open.spotify.com/track/57Zm7XTk4f5A9I7f4N28Rv) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/2sLtjaUo7maVVpBAE4IyDk) | 4:12 |
 | 148 | [Bye Bye Blackbird](https://open.spotify.com/track/1RpkMoOomu5989qM3Ir23A) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [ディア・マイルス](https://open.spotify.com/album/5wBI5RZ3F64aZJ72ZNyyQd) | 5:28 |
 | 149 | [Last Goodbye](https://open.spotify.com/track/4xqw8JSmfNdHLCuT23pHiv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 4:35 |
 | 150 | [Listen to the Grass Grow](https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [SOAR](https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G) | 4:26 |

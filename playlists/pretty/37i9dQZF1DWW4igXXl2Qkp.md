@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: Luh Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,885 likes - 80 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,921 likes - 80 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

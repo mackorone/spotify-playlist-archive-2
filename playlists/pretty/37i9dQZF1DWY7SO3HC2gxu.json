@@ -1,6 +1,6 @@
 {
   "description": "Best blends of Electronic music across Africa. Cover: Big Nyagz & Tina Ardor",
-  "num_followers": 11886,
+  "num_followers": 11897,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
@@ -2687,6 +2687,26 @@
     {
       "added_at": "2026-08-21 08:49:48",
       "album": {
+        "name": "Fantasize",
+        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
+      },
+      "artists": [
+        {
+          "name": "Tony Finger",
+          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Fantasize",
+      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
+    },
+    {
+      "added_at": "2026-08-21 08:49:48",
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/0VpAJKUJ7ywTexwFkBPVzY"
       },
@@ -2747,26 +2767,6 @@
       "duration_ms": 220165,
       "name": "Kiwache Kisonge - Radio Edit",
       "url": "https://open.spotify.com/track/25czmtF57DG14NOvibExz1"
-    },
-    {
-      "added_at": "2026-08-21 08:49:48",
-      "album": {
-        "name": "Fantasize",
-        "url": "https://open.spotify.com/album/38NW24V2srA0Vt5KwHJKop"
-      },
-      "artists": [
-        {
-          "name": "Tony Finger",
-          "url": "https://open.spotify.com/artist/7hzFQ0RFYNHtJ6aJyQeeIa"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Fantasize",
-      "url": "https://open.spotify.com/track/2kr5G7Y4NIcon9kNWOPeJ0"
     },
     {
       "added_at": "2026-08-21 08:49:48",

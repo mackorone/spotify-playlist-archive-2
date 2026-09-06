@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 3099,
+  "num_followers": 3104,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAjjo228Q0aubuAbcFLF52k",
+  "snapshot_id": "apoKAAAAAAA7aIQ0L4p/QQBIG6C4VSv4",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 253664,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "never come never morning",
-      "url": "https://open.spotify.com/track/1Ooknnmn9MT0ssFoeDDSY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 281004,
       "name": "Hymn to the Pillory",
       "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "never come never morning",
+      "url": "https://open.spotify.com/track/1Ooknnmn9MT0ssFoeDDSY0"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "a short history of decay",
-      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 270565,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "a short history of decay",
+      "url": "https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a short history of decay",
-        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "cannibal world",
-      "url": "https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 242759,
       "name": "Dig",
       "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a short history of decay",
+        "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "cannibal world",
+      "url": "https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 272864,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a short history of decay",
         "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 321480,
       "name": "the rain don\u2019t care",
       "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 177216,
-      "name": "Bent Nail",
-      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 177216,
+      "name": "Bent Nail",
+      "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a short history of decay",
         "url": "https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 282253,
       "name": "purple strings",
       "url": "https://open.spotify.com/track/1yZT5UA1LMo6cAyJfNwgzu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 272864,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/0wrUMltYXH5OX82ylmEbD7"
     },
     {
       "added_at": null,

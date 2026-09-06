@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekhun tera nishaan hai, mehraab\-e\-dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,609 likes - 75 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,689 likes - 75 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-167 songs - 10 hr 51 min
+168 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Celia Y Tito](https://open.spotify.com/track/3flZnMUMEKYjwvSXalOegN) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [2En1](https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM) | 5:58 | 2021-12-28 | 2022-10-17 |
 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/21pnPg1UFfvVpLInYio1sR) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 4:17 | 2021-12-28 | 2022-04-06 |
 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 | 2022-04-05 |  |
+| [Come Down To Miami \- Gharah “PK” Degeddingseze Remix](https://open.spotify.com/track/3pvYEqfy4yajZ9jBozHLvy) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Gharah "Pk" Degeddingseze](https://open.spotify.com/artist/4mZsBU9TkBqU2QMJvBe8FE) | [Come Down To Miami \(G'harah “PK” Degeddingseze Remix\)](https://open.spotify.com/album/2eH0PzDocLLTNoWOZ0wSIJ) | 2:54 | 2026-09-06 |  |
 | [Cruz De Navajas](https://open.spotify.com/track/2XLdgYGYiGYUuNxhqwXvrx) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [2En1](https://open.spotify.com/album/0HM5htNd3yWjExQx9BzEnM) | 4:59 | 2022-10-12 | 2023-11-11 |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Todos Mis Amigos](https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A) | 2:26 | 2021-12-28 |  |
 | [Cuando Salí De Cuba](https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:59 | 2021-12-28 | 2025-11-08 |
@@ -67,7 +68,7 @@
 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 | 2021-12-28 |  |
 | [Encántigo](https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Commitment](https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x) | 7:58 | 2026-08-11 | 2026-08-27 |
 | [Esperaré](https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:32 | 2022-01-04 | 2025-11-16 |
-| [Esperaré \- Remastered 2025](https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira \(Remastered 2025\)](https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2) | 2:31 | 2026-08-08 |  |
+| [Esperaré \- Remastered 2025](https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira \(Remastered 2025\)](https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2) | 2:31 | 2026-08-08 | 2026-09-06 |
 | [Espérame En El Cielo](https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:02 | 2021-12-28 |  |
 | [Gracia Divina \- Live](https://open.spotify.com/track/2wBcpqSNc6isZJLuqKEi9S) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Hommy: A Latin Opera](https://open.spotify.com/album/1WAQ55TokPK6a1OrTnSEW8) | 4:50 | 2023-09-12 | 2024-02-05 |
 | [Gracia Divina \- Live](https://open.spotify.com/track/4GnGZNWpSLN4LfV4eA29bl) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Celia](https://open.spotify.com/album/2xBaORsHP0AqtXhjTaXFai) | 4:50 | 2021-12-28 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 Luko, Kris, Speedy på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,700 likes - 46 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,696 likes - 46 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

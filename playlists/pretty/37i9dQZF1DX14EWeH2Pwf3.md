@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > DALE DALE troppo caldo qui dentro 🔥 Yung Snapp, Frezza, G.Mineiro, R3versal in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,925 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,863 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

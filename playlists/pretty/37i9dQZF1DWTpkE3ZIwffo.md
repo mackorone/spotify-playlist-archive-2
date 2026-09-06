@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 
 > Las canciones más escuchadas del género\.  Foto: Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,709 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,737 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

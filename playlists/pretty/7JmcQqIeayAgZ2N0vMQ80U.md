@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 
 > Clean Versions of Your Favourite Hits! Includes The Weeknd, Justin Bieber, Shawn Mendes and more! Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,444 likes - 87 songs - 4 hr 33 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 4,443 likes - 87 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/7JmcQqIeayAgZ2N0vMQ80U.md) - [plain]
 | 49 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/0CD7DzeCsuPJygddqlUVYa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:00 |
 | 50 | [makeout with a stranger](https://open.spotify.com/track/44NQ2S22UuRK0QLjuyJp3y) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [makeout with a stranger](https://open.spotify.com/album/1ERoaxiuegt7OkjDLorpGm) | 2:26 |
 | 51 | [memories \- demo](https://open.spotify.com/track/2xbPbYI0ggFDLZNt2uQRC7) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [songs that got lost in translation](https://open.spotify.com/album/7DNKJTacqnSTbhjbWq1Ihx) | 2:40 |
-| 52 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 |
+| 52 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 |
 | 53 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4) | 4:03 |
 | 54 | [Favorite Color](https://open.spotify.com/track/6YiNvXwlNsyCkGv5IDNcon) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite Color](https://open.spotify.com/album/034vrNtnZQYiIvnM9xcJbn) | 3:04 |
 | 55 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 |

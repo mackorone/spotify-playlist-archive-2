@@ -12640,7 +12640,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 188702,
       "name": "\u05d0\u05d1\u05d9\u05e6'\u05d9",
       "url": "https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK"
@@ -12662,7 +12662,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -13186,7 +13186,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 212737,
       "name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05db\u05d7\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6jG3OmapjEN38Q1UCA6CJI"
@@ -17413,6 +17413,28 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9\u05d6\u05d4 \u05db\u05d9\u05e3 \u05dc\u05d7\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/3LZ4TBWlBTszjrU3LNTRPy"
+      },
+      "artists": [
+        {
+          "name": "Bar Tzabary",
+          "url": "https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF"
+        },
+        {
+          "name": "Shuli Rand",
+          "url": "https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196097,
+      "name": "\u05d4\u05de\u05dc\u05da \u05d1\u05e9\u05d3\u05d4",
+      "url": "https://open.spotify.com/track/33hekXUB91e5KbiYT1ZxJU"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05de\u05dc\u05da \u05d1\u05e9\u05d3\u05d4",
         "url": "https://open.spotify.com/album/1SSBNUr8VSBq5ht9ZQge7Y"
       },
@@ -19916,7 +19938,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 162088,
       "name": "\u05db\u05dc \u05e2\u05db\u05d1\u05d4 \u05dc\u05d8\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/6spkDJlie5raRezVwEDeQK"
@@ -24124,7 +24146,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 190517,
       "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05d5\u05ea",
       "url": "https://open.spotify.com/track/2bzhJBao5xywL3jlXu2S8O"

@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -1608,10 +1608,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 119840,
       "name": "If I Loved You",
       "url": "https://open.spotify.com/track/1938FeAi8kI7w9TpbgQWgP"
+    },
+    {
+      "album": {
+        "name": "The Crooner's Raincoat",
+        "url": "https://open.spotify.com/album/4grtpTlaIP68uzpzjRYI5Q"
+      },
+      "artists": [
+        {
+          "name": "Dick Haymes",
+          "url": "https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119840,
+      "name": "If I Loved You",
+      "url": "https://open.spotify.com/track/4M5jfN2LLFK7V6puhYSyZm"
     },
     {
       "album": {
@@ -3869,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Broadway Keepsake",
+        "url": "https://open.spotify.com/album/2Ybm9pPrbtFuucOHtmFL1M"
+      },
+      "artists": [
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/4PF0rkoHO68Kr9N6zVWiju"
+    },
+    {
+      "album": {
         "name": "The Sound Of Music",
         "url": "https://open.spotify.com/album/4B1Anoo4xyFeabCkRWXjHs"
       },
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 168026,
       "name": "The Sound of Music - Bonus Track from 'South Pacific'",
       "url": "https://open.spotify.com/track/5RQeK1Sf06Qon4IL7qHesY"

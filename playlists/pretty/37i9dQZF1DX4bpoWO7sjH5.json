@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 40698,
+  "num_followers": 40697,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "La Noche Que Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/15tJ7kXImie7xyKiaspFNv"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 197718,
-      "name": "La Noche Que Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Ha Nacido el Rey",
         "url": "https://open.spotify.com/album/5Uw1d36khu89kHDIQnv9NQ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215400,
       "name": "Ha Nacido el Rey",
       "url": "https://open.spotify.com/track/4aZIWWQKC2YFlrJIt1291N"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "La Noche Que Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/15tJ7kXImie7xyKiaspFNv"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 197718,
+      "name": "La Noche Que Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB"
     },
     {
       "added_at": "2025-12-12 05:00:50",

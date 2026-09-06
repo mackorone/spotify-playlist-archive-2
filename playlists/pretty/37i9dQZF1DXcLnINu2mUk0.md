@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,635 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,643 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 12 | [show my shine](https://open.spotify.com/track/6O8EiOfOS1eYM4b6Wroxq0) | [Solbee](https://open.spotify.com/artist/6QUhW3F6mOIKgq2X0dEDNd) | [show my shine](https://open.spotify.com/album/0zSIXfMCYCb39WZ6ntmGER) | 3:13 |
 | 13 | [Cartas Na Mesa](https://open.spotify.com/track/4fZcTqpyQUNDNXARwYjV2F) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Cartas Na Mesa](https://open.spotify.com/album/6AByrhMO1L3PFSBuQy5LAh) | 3:08 |
 | 14 | [Fruta Proibida](https://open.spotify.com/track/5hNigQs5ima4nOigK7ladV) | [Venus](https://open.spotify.com/artist/0JvMGnHp2N3pLEzsqpw7Hu) | [Fruta Proibida](https://open.spotify.com/album/4VUE0eKHwPzQ0PO7cHO04K) | 2:31 |
-| 15 | [ninguém mais](https://open.spotify.com/track/7rtctz3cgct4toxF1PeNDd) | [CAIO](https://open.spotify.com/artist/7L9u5BLeFDSbRy6w2cz4KE) | [ninguém mais](https://open.spotify.com/album/4ZP3WthCT420gwjTVEB89r) | 2:55 |
+| 15 | [ninguém mais](https://open.spotify.com/track/7rtctz3cgct4toxF1PeNDd) | [CAIO](https://open.spotify.com/artist/3pCIwipBj9hOPpz5LYod1N) | [ninguém mais](https://open.spotify.com/album/4ZP3WthCT420gwjTVEB89r) | 2:55 |
 | 16 | [Impec](https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Deepak Looper](https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf) | 3:13 |
 | 17 | [Pensamentos](https://open.spotify.com/track/3GCPnJyIkr5wPs4PvdH3j1) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv) | [Pensamentos](https://open.spotify.com/album/6SIpdM64x4W8sdIjp95hoI) | 2:53 |
 | 18 | [Traumas](https://open.spotify.com/track/4F85yQQ8WBin4BJN9ZGLvW) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Traumas](https://open.spotify.com/album/6uFAcZ1DBNnP97huRU2Kxg) | 3:20 |

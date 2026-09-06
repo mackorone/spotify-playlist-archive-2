@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 44 | [Tú+Yo](https://open.spotify.com/track/0R3xevnIYOf8AuBSIvGT6R) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg) | [El Amor No Tiene Lenguaje](https://open.spotify.com/album/0dzWhFK0nYY5niiUC36WVN) | 3:17 |
 | 45 | [Ego](https://open.spotify.com/track/7uB6KGAyiz2fNmsYY2NdsX) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 5:50 |
 | 46 | [Hard II Love](https://open.spotify.com/track/7i9K4q131A0fvXw2FFhxLr) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:22 |
-| 47 | [Focus](https://open.spotify.com/track/4rJdWYYtB15dqizbumex4a) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:47 |
-| 48 | [Yalla Habibi](https://open.spotify.com/track/5bh1nrFgPrF37UTFUqNF2K) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Rime](https://open.spotify.com/artist/6dzxyLQVwvrXYxhgX24PUY), [Kaz Money](https://open.spotify.com/artist/6FzGg6vAs0WklxyplF8jbn) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 3:20 |
+| 47 | [Yalla Habibi](https://open.spotify.com/track/5bh1nrFgPrF37UTFUqNF2K) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Rime](https://open.spotify.com/artist/6dzxyLQVwvrXYxhgX24PUY), [Kaz Money](https://open.spotify.com/artist/6FzGg6vAs0WklxyplF8jbn) | [Nightlife](https://open.spotify.com/album/7gs3rS7OKAyqWia7njEy1K) | 3:20 |
+| 48 | [Focus](https://open.spotify.com/track/4rJdWYYtB15dqizbumex4a) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:47 |
 | 49 | [Revolution](https://open.spotify.com/track/45LbqIkc6xVfyOxBVU8efO) | [Catey Shaw](https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI) | [Revolution](https://open.spotify.com/album/1R71BrJFADHwIWaqQ3UAzy) | 4:06 |
 | 50 | [Better Apart](https://open.spotify.com/track/0uLEddUzP1Sj4SwcDGBbZG) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 3:10 |
 | 51 | [Gone](https://open.spotify.com/track/7b5qjSnusll0Ll9vDdkuLh) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:57 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 140 | [Aquatic Reflections](https://open.spotify.com/track/5qnES870WffOrO2s0iG8SM) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:03 |
 | 141 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `Acbb6AAAAABDAQAHww02Sj+sQIa7cEUp`
+Snapshot ID: `AcbhiAAAAACoJamilDMX5uy/b1EfKjmS`

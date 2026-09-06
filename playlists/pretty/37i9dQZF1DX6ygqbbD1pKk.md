@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,539 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,552 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 16 | [Hawaiian Roller Coaster Ride \- From "Lilo & Stitch"](https://open.spotify.com/track/4SMyFD1nz2HFIlARsP8jyK) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hawaiian Roller Coaster Ride \(From "Lilo & Stitch"\)](https://open.spotify.com/album/39qk7h3gj7wtNHSzWIDd33) | 3:29 |
 | 17 | [Al final \(Versión de créditos\)](https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Moana 2 \(Banda Sonora Original\)](https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM) | 3:16 |
 | 18 | [Hombres de Acción Serán Hoy](https://open.spotify.com/track/6tSjLKma2kitI4azWbOK4W) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mulán \(Banda Sonora Original en Español\)](https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq) | 3:20 |
-| 19 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
+| 19 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 20 | [Nuestro Huésped Sea Usted](https://open.spotify.com/track/3taMkY9CwwphIT4Ch1MEWq) | [Sergio Zaldívar](https://open.spotify.com/artist/3sexeO2304jukBDwlDKu33), [Irasema Terrazas](https://open.spotify.com/artist/1lLbqV8uwF5D9MK8w4im3j), [Olivia Gorra](https://open.spotify.com/artist/6xIqmLpaCPVsk8l7vGIHKB), [Francisco Colmenero](https://open.spotify.com/artist/7CUbYXaUdYaKhpzeGWwoBb) | [La Bella y La Bestia \(Banda Sonora Original en Español\)](https://open.spotify.com/album/1grUQut8vgoI1fdRq6vVjq) | 4:48 |
 | 21 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
 | 22 | [Colombia, Mi Encanto](https://open.spotify.com/track/1DgS5IMm8ffbZ78GbIPlOM) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 2:55 |

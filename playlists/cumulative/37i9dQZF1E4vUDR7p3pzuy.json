@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 208166,
       "name": "Burn Till You Black Out",
       "url": "https://open.spotify.com/track/598cjxu4LqDdxSJYyb7h4F"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 216717,
       "name": "Chromophobia",
       "url": "https://open.spotify.com/track/5PVk5KtP2tW2xrUx5pVgTD"
@@ -3647,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "DEAD LINES",
+        "url": "https://open.spotify.com/album/76VqWnqpki7EKfcCV3Q6KM"
+      },
+      "artists": [
+        {
+          "name": "Bestial Mouths",
+          "url": "https://open.spotify.com/artist/0vHo9GceFuSSJjSbF49Uzt"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "CONJURE",
+      "url": "https://open.spotify.com/track/4q8fm60IMS9bD3wkrk0FQk"
+    },
+    {
+      "album": {
         "name": "CONJURE",
         "url": "https://open.spotify.com/album/2QGKkKBPQRmaPTl9jOiq3V"
       },
@@ -3658,7 +3676,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 221760,
       "name": "CONJURE",
       "url": "https://open.spotify.com/track/6FXww5jWwbpQ2YvYNvCRAy"
@@ -4856,7 +4874,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6xMoVtv5mx5IAMmtLvehA1"
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 259250,
       "name": "Desire",
       "url": "https://open.spotify.com/track/1U7zkwLHRzqtktC47X88Z8"
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 233325,
       "name": "Details Fade - Hex Formes & D1NTR Remix",
       "url": "https://open.spotify.com/track/4EW3YZgKOsvbbLPVLmPboY"
@@ -5763,6 +5781,24 @@
     },
     {
       "album": {
+        "name": "Random Access Violence",
+        "url": "https://open.spotify.com/album/4Vf7Qcj9A6sTCTRvSQmxhv"
+      },
+      "artists": [
+        {
+          "name": "Dagan Divoro",
+          "url": "https://open.spotify.com/artist/2LQgqGqenxDT02N4ozzUWy"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172296,
+      "name": "Employee Factory",
+      "url": "https://open.spotify.com/track/4CUKpVkB4pfa9blzNiJIot"
+    },
+    {
+      "album": {
         "name": "DAGGER",
         "url": "https://open.spotify.com/album/55HepBmKiLSq2A7ThJddW8"
       },
@@ -6158,6 +6194,24 @@
       "duration_ms": 309480,
       "name": "Fairest Maiden",
       "url": "https://open.spotify.com/track/1LekrgRGh0hIMrV5Etzxhr"
+    },
+    {
+      "album": {
+        "name": "The 13th Chapter",
+        "url": "https://open.spotify.com/album/3uCaLxsAMxp7g44QCLYFHQ"
+      },
+      "artists": [
+        {
+          "name": "The Dreamside",
+          "url": "https://open.spotify.com/artist/34OfCIgv73WN6WhYvBktB1"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Fairy Child - 2002 the Dreamside Remix",
+      "url": "https://open.spotify.com/track/33XIjROsKXHUaySCPEEDIA"
     },
     {
       "album": {
@@ -8820,7 +8874,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 260063,
       "name": "I Only See You When I'm Dancing",
       "url": "https://open.spotify.com/track/6DowLPrUvNw7sn6hLnJnH6"
@@ -9793,6 +9847,24 @@
     },
     {
       "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/3hA7S1oIql7LwLho37Q04z"
+      },
+      "artists": [
+        {
+          "name": "Who Saw Her Die?",
+          "url": "https://open.spotify.com/artist/04rfebSFvXDYvsubDSnavv"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/7n36Dg7vZlg88sPGbImgDU"
+    },
+    {
+      "album": {
         "name": "Nowhere and Now",
         "url": "https://open.spotify.com/album/0W9qwa6sYYersO7igycuFX"
       },
@@ -10038,7 +10110,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -10392,7 +10464,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 361080,
       "name": "Last Transmission Elegy II",
       "url": "https://open.spotify.com/track/015hep8yPIi22IsyZMqMda"
@@ -10764,7 +10836,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -10836,7 +10908,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -10962,7 +11034,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -11208,6 +11280,24 @@
       "duration_ms": 248058,
       "name": "Love Lies",
       "url": "https://open.spotify.com/track/2zwe0c2US7GuhwwbxXZBud"
+    },
+    {
+      "album": {
+        "name": "LOVE ON DEMAND",
+        "url": "https://open.spotify.com/album/0SaDW7vmXqzw4GEwvkFsmd"
+      },
+      "artists": [
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/4s3qihklCtJDxfS9Ik3CoA"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277333,
+      "name": "LOVE ON DEMAND",
+      "url": "https://open.spotify.com/track/7wUXFi8yUluMaieRFoqCYj"
     },
     {
       "album": {
@@ -12656,7 +12746,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "Night/Day",
       "url": "https://open.spotify.com/track/0zLfDNmSw2hCe7V5nsiC7Z"
@@ -18076,7 +18166,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -18902,7 +18992,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 207936,
       "name": "This Dance",
       "url": "https://open.spotify.com/track/27GtVpyrQcZ1Gtp74vPOFG"
@@ -20046,7 +20136,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 275902,
       "name": "Velvet Goodbye",
       "url": "https://open.spotify.com/track/4gKVoKdVpGJdRLEV8sOvvZ"
@@ -20220,7 +20310,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -21132,7 +21222,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -21168,7 +21258,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 226917,
       "name": "Whisper Park",
       "url": "https://open.spotify.com/track/6cCV0VdbECEBATuTYNXbNC"

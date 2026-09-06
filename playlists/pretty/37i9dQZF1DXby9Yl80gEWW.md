@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Bryan Sutton
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,507 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,521 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 74 | [Elizabeth Brown](https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK), [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Elizabeth Brown / Sail Away](https://open.spotify.com/album/5thncZARxiTdu2we7s45r6) | 2:44 |
 | 75 | [Bozeman](https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Details](https://open.spotify.com/album/4SVwFCQW8ao3s1TBZxqhO3) | 4:14 |
 
-Snapshot ID: `AAAAAGeSdb7GqIAi/bQrO6MeU3AWJt2j`
+Snapshot ID: `AAAAAGXXiDFl7pBrVH3PETpVlYoc/QFn`

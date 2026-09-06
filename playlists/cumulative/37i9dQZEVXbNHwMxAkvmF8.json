@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 144666,
       "name": "ALL NIGHT",
       "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Always be mine",
       "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
@@ -5498,6 +5498,24 @@
       "duration_ms": 138947,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
+    },
+    {
+      "album": {
+        "name": "Bulv\u00e1r",
+        "url": "https://open.spotify.com/album/06MpMOPmdvq4tlu8JzXxkn"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128784,
+      "name": "Bulv\u00e1r",
+      "url": "https://open.spotify.com/track/5qUR1466s8i5FvQnVD0oUy"
     },
     {
       "album": {
@@ -12933,6 +12951,32 @@
     },
     {
       "album": {
+        "name": "GRIND",
+        "url": "https://open.spotify.com/album/2lsK4dIcNT3eK6Z6c9E3tW"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "GRIND",
+      "url": "https://open.spotify.com/track/29URpEljCaPFoODyrDmuhd"
+    },
+    {
+      "album": {
         "name": "Purgat\u00f3rium",
         "url": "https://open.spotify.com/album/6VZ7cFeqx6daOulrJQOOGL"
       },
@@ -19330,7 +19374,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -32476,7 +32520,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -32716,7 +32760,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
@@ -36736,7 +36780,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 146581,
       "name": "vrumm",
       "url": "https://open.spotify.com/track/0al6QSMsKKdGqYcbr53p9y"
@@ -36998,7 +37042,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"
@@ -39330,7 +39374,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 199183,
       "name": "\u00dagy Hiszem",
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"

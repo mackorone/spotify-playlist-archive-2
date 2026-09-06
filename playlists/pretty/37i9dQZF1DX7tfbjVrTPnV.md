@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Son Volt
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,582 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,608 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Terms Of My Surrender](https://open.spotify.com/track/4OWKZfpJQDRNJdfeZf5Svf) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms Of My Surrender](https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu) | 3:29 |
 | 150 | [Never Let a Day Go By](https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [First Agnostic Church of Hope and Wonder](https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y) | 3:15 |
 
-Snapshot ID: `AAAAAItkCt1REM85qirQJKg9YmNzQ1ET`
+Snapshot ID: `AAAAAEhfqi2zNqsm3AqeZo6XtbFZJ0O0`

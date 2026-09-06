@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Dominic Fike along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,857 likes - 81 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,892 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

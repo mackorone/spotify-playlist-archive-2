@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,166,677 likes - 199 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,166,696 likes - 199 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

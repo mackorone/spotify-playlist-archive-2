@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 LA JOAQUI
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,378 likes - 69 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,492 likes - 69 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

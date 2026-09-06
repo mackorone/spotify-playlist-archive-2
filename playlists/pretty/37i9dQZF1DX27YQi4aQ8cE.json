@@ -1,6 +1,6 @@
 {
   "description": "The most calming Christmas carols.",
-  "num_followers": 30435,
+  "num_followers": 30432,
   "original_name": "Calming Carols",
   "owner": {
     "name": "Spotify",
@@ -1004,12 +1004,12 @@
       },
       "artists": [
         {
-          "name": "James Lord Pierpont",
-          "url": "https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb"
-        },
-        {
           "name": "Patrick Hamilton",
           "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "James Lord Pierpont",
+          "url": "https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb"
         }
       ],
       "duration_ms": 155800,

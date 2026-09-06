@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover:  Nakhisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,729 likes - 71 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,731 likes - 71 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

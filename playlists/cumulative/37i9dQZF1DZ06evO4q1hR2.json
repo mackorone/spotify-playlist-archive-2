@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 137887,
       "name": "Alguien Dijo",
       "url": "https://open.spotify.com/track/6BdXHbTKLO4uAWbuGnJUgl"
@@ -774,6 +774,24 @@
       "duration_ms": 146733,
       "name": "El Federal De Caminos",
       "url": "https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB"
+    },
+    {
+      "album": {
+        "name": "El Hijo De Don Vicente",
+        "url": "https://open.spotify.com/album/7GYDdGNUYIzq0lBKM7CgsF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243684,
+      "name": "El Hijo De Don Vicente",
+      "url": "https://open.spotify.com/track/0esYxymyHMC92iMmkwIgA4"
     },
     {
       "album": {

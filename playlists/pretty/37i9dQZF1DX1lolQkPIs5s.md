@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,878 likes - 106 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,896 likes - 106 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 81 | [Be Our Guest \- Japanese Version](https://open.spotify.com/track/5C8U2cJ9A5xIncq0FjHqi5) | [POPURA](https://open.spotify.com/artist/3FlYS9aq8N81ifZ7eVJY4N), [Junichi Wakae](https://open.spotify.com/artist/1BDacL9WszRz8uIC7JpSv1), [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7zDGaKFf29c032M3TBUfiV) | 3:42 |
 | 82 | [Happy Song](https://open.spotify.com/track/6P3XqUKNMcmksTiErTrzRn) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [The Happy Ride with Baymax \- Special Version](https://open.spotify.com/album/4DjEa9qaoYJGwikhSoEVgl) | 1:35 |
 | 83 | [B\-A\-Y\-M\-A\-X](https://open.spotify.com/track/0q6anUYSVYHlQLqQRq6OLT) | [Tokyo Disneyland](https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2) | [The Happy Ride with Baymax \- Special Version](https://open.spotify.com/album/4DjEa9qaoYJGwikhSoEVgl) | 1:29 |
-| 84 | [Steal The Show](https://open.spotify.com/track/5TUTOvV9sJ9LSTNNMvGUFs) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vQ5OJ4WG6xsYp7JaTeXMx) | 3:12 |
+| 84 | [Steal The Show](https://open.spotify.com/track/5TUTOvV9sJ9LSTNNMvGUFs) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vQ5OJ4WG6xsYp7JaTeXMx) | 3:12 |
 | 85 | [Try Everything](https://open.spotify.com/track/0VCJ5YjphljOf1YRcPp08v) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack / Japanese version\)](https://open.spotify.com/album/0gj5STwLy0dZ0cGFJb8Fht) | 3:16 |
 | 86 | [Surface Pressure](https://open.spotify.com/track/7lvv3G1HyMfbbq84P0Xs1d) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:50 |
 | 87 | [Bibbidi\-Bobbidi\-Boo \(The Magic Song\)](https://open.spotify.com/track/5rW2y0Toqep1mmqI9KUI6h) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Cinderella \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/5TVjtPTbNgwISiLVZbeniT) | 1:21 |

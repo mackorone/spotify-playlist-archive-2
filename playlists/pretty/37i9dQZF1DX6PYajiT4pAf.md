@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lucho RK, Miley Cyrus, Camilo, Cyril Kamer, l0rna y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,020 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,028 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

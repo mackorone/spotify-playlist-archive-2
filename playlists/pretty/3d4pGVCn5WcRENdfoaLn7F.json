@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 844,
+  "num_followers": 846,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD6ptJmQNu6kpdcFr3+iCnRfDIT5b0",
+  "snapshot_id": "AAAD7erw9KZxGcCPE/ewFlkrvszFfq2x",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1039,6 +1039,54 @@
       "duration_ms": 246000,
       "name": "sparkles",
       "url": "https://open.spotify.com/track/2USvuzXtQIR05I6kP7IEt6"
+    },
+    {
+      "added_at": "2026-09-05 20:44:17",
+      "album": {
+        "name": "Scattered",
+        "url": "https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3"
+      },
+      "artists": [
+        {
+          "name": "Tess & The Details",
+          "url": "https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql"
+        }
+      ],
+      "duration_ms": 182811,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW"
+    },
+    {
+      "added_at": "2026-09-05 20:46:09",
+      "album": {
+        "name": "Belshire",
+        "url": "https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S"
+      },
+      "artists": [
+        {
+          "name": "Belshire",
+          "url": "https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Take the Leap",
+      "url": "https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2"
+    },
+    {
+      "added_at": "2026-09-06 01:36:31",
+      "album": {
+        "name": "Time (Remix 2026)",
+        "url": "https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "duration_ms": 226161,
+      "name": "Time - Remix 2026",
+      "url": "https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

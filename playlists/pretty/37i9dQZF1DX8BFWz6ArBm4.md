@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Katerina Lioliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,527 likes - 61 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,534 likes - 61 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

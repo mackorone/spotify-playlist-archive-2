@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAADJy8LPcxpnYmW2AXRCdm8c",
+  "snapshot_id": "apoKAAAAAABUFnZQm6jHxePVoGU0HyPg",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 378000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv"
+      "duration_ms": 216373,
+      "name": "Seeing Is Forgetting",
+      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Seeing Is Forgetting",
-      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
+      "duration_ms": 378000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv"
     },
     {
       "added_at": null,

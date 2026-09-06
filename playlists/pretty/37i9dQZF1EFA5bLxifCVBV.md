@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 160 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 160 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 3 | [Old Devil Moon](https://open.spotify.com/track/0hdNrtu4z3lHfP4YQOZUny) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 2:58 |
 | 4 | [What Is There To Say?](https://open.spotify.com/track/5l0TSFftfKMk7FF84EO7FO) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 4:55 |
 | 5 | [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 |
-| 6 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
-| 7 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
+| 6 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
+| 7 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
 | 8 | [When We Were Young \- Acoustic Version](https://open.spotify.com/track/118Y7quq16kBeHmCR2dQ0d) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [When We Were Young \(Acoustic Version\)](https://open.spotify.com/album/4UEflkcJLDZ7Nu0tB6YHFT) | 4:46 |
 | 9 | [My One And Only Love \- Remastered](https://open.spotify.com/track/6DHuDz9Rnz5beUnOijThjH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 3:12 |
 | 10 | [Look To The Rainbow](https://open.spotify.com/track/29bY7nEpgxmDjP6R4CamIx) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Look To The Rainbow](https://open.spotify.com/album/2C6vaaU6Jwx5JQe3qhG0OD) | 3:28 |
 | 11 | [Pretty As A Picture \- Remastered 1996](https://open.spotify.com/track/7omhSfHyh2upy3qBdkg8Wn) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile](https://open.spotify.com/artist/5lLwrwVHGlErj8cObYCWyi) | [The Singles](https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR) | 2:32 |
 | 12 | [The Blue Room](https://open.spotify.com/track/6Wqbkn7eVcdRv0uJKr9pVs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/2Oci46OYqUTsWPaElEkQMr) | 2:31 |
 | 13 | [Down with Love](https://open.spotify.com/track/1157OkVE9eTzsVvpCTE2ZA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Holly Palmer](https://open.spotify.com/artist/5lmdvHmfrJv5iHexbdUfCB) | [Down with Love \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/6OfabbeDEMH1kCsXsZkH4x) | 2:31 |
-| 14 | [Fancy Meeting You Here \- Remastered](https://open.spotify.com/track/2qA9MNueUN13DZkFi96tU5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Fancy Meeting You Here](https://open.spotify.com/album/1XM7cZ9GPJiEuXjIuQipPj) | 2:29 |
+| 14 | [Fancy Meetin´ You Here](https://open.spotify.com/track/7p48AuJ72wxNOQBJtsfcnb) | [Loesser](https://open.spotify.com/artist/332iBVcDaVusr5qLGzLb2Y), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Milestones of a Pop Legend \- Rosemary Clooney, Vol\. 5](https://open.spotify.com/album/4okKHFJmymzqo4s3tjDCi6) | 2:26 |
 | 15 | [I Love to Singa](https://open.spotify.com/track/64pAIZRz6PYxIU7vpvL1jT) | [Matthieu Boré](https://open.spotify.com/artist/7h1EiObXYjl5sTSP2PrnNg) | [Frizzante!!](https://open.spotify.com/album/20m2cws4UxgjZhh9cbkF5F) | 1:38 |
 | 16 | [Isn't It Heavenly](https://open.spotify.com/track/0upnE6IoCEZXS92mXzmzFx) | [Al Bowlly](https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R) | [Penny Serenade](https://open.spotify.com/album/18mIvxqtwGyxCJB6uV18SV) | 2:55 |
 | 17 | [Oh! Dem Golden Slippers](https://open.spotify.com/track/4SwVJu2QnXN4CfZ0e9cymU) | [The Gaslight Singers](https://open.spotify.com/artist/2q1BpivZcLgh0hx6goxnfc) | [Gaslight Varieties: Early 20th\-Century Favourites](https://open.spotify.com/album/2p42htFJTQGqFmGETp2H7N) | 2:22 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 159 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 160 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `Acbb/AAAAACMnGaFXty6u2kVaKZ2lRQV`
+Snapshot ID: `AcbhnAAAAADo2UGoLfHjmLPCZDBTDcoM`

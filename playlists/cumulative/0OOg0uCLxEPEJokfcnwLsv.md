@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-645 songs - 1 day 15 hr 47 min
+649 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Crushwhore](https://open.spotify.com/track/3g9dkoiaCGaaAAX8WS88c5) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Learning It the Hard Way](https://open.spotify.com/album/6h3qBmbL2n3vFtfYF9G9uq) | 3:38 | 2026-04-08 | 2026-05-26 |
 | [Cut and Sell](https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Cut and Sell](https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn) | 2:43 | 2026-03-14 | 2026-04-20 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-10-30 | 2026-02-04 |
+| [Daddy's Gone Disco](https://open.spotify.com/track/7BZ8YBm77VL9zypVjmal1C) | [Things We Built](https://open.spotify.com/artist/6nR593jw3f16T3dZ6r5naC) | [Daddy's Gone Disco](https://open.spotify.com/album/28r190G1W5ObFumX3uwrn3) | 4:24 | 2026-09-06 |  |
 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 | 2025-12-22 | 2026-01-21 |
 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 | 2026-07-07 | 2026-08-08 |
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 | 2025-12-12 |
@@ -190,6 +191,7 @@
 | [Falling](https://open.spotify.com/track/4LlmiQt2LyQA0MaAkIi3HN) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Falling](https://open.spotify.com/album/7hRFFZjliY9n18r3d9XCCT) | 3:03 | 2026-08-21 |  |
 | [Falling Behind](https://open.spotify.com/track/79QEpZ2GCWHgBL6L7OugjA) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Falling Behind](https://open.spotify.com/album/3ESOHDThYhkb5hfhikkBqQ) | 2:16 | 2026-08-29 |  |
 | [Falling Curtain](https://open.spotify.com/track/2yHWrzZ7foMNuft7TlarBm) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Falling Curtain](https://open.spotify.com/album/0hsbIouOmJOjyPfwRoG1Z8) | 3:28 | 2026-07-13 | 2026-08-08 |
+| [Falling to the Ground](https://open.spotify.com/track/75jXRd8mzVECXIOtCvbyg8) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [Falling to the Ground](https://open.spotify.com/album/5VxYxFcTOmQklzSyd6suRf) | 5:41 | 2026-09-06 |  |
 | [Fantasia](https://open.spotify.com/track/3HQyqgoK7z6VY9bE8GlAli) | [Astratto](https://open.spotify.com/artist/1kQT4JN2XDrVdT4vubHCjw) | [Fantasia](https://open.spotify.com/album/4Qp6S6ln5GwDmTih32uJVf) | 6:10 | 2026-04-22 | 2026-06-13 |
 | [Farewell](https://open.spotify.com/track/27tcaTzyrakD3Upv0kNKhU) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 6:05 | 2026-04-06 | 2026-05-08 |
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 | 2026-01-05 |
@@ -448,6 +450,7 @@
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 | 2026-01-05 |
 | [Say Hello To My Friend](https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:19 | 2026-08-11 |  |
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-01-24 | 2026-02-23 |
+| [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 | 2026-09-05 |  |
 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 | 2026-03-31 |  |
 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 | 2026-04-16 | 2026-06-13 |
 | [Schön und dumm](https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Schön und dumm](https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU) | 3:52 | 2026-06-11 | 2026-08-08 |
@@ -523,6 +526,7 @@
 | [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 | 2026-05-19 | 2026-08-08 |
 | [Sympathy](https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Sympathy](https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM) | 3:53 | 2026-08-11 |  |
 | [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 | 2026-06-18 | 2026-08-08 |
+| [Take a Bow](https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:46 | 2026-09-06 |  |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-19 | 2026-06-13 |
 | [Take It Slow](https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2) | [Saturday Night Vacancy](https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU) | [Take It Slow](https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo) | 3:35 | 2026-07-06 | 2026-08-08 |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |

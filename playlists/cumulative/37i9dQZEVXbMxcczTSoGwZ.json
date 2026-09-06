@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 175970,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
@@ -5292,7 +5292,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 178847,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh"
@@ -20385,6 +20385,24 @@
     },
     {
       "album": {
+        "name": "Illat",
+        "url": "https://open.spotify.com/album/6EfzkF81CcfN7LFsik0eol"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Illat",
+      "url": "https://open.spotify.com/track/3PttHwnm9kC8LIvTIuaebG"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -21994,6 +22012,28 @@
       "duration_ms": 226523,
       "name": "Jos et olis siin\u00e4",
       "url": "https://open.spotify.com/track/5VYFhGBiwuV8k55Ushpekr"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141121,
+      "name": "Jos ja kun",
+      "url": "https://open.spotify.com/track/0b1JfWWAjEARzveBYqZzDN"
     },
     {
       "album": {
@@ -25980,6 +26020,24 @@
       "duration_ms": 210645,
       "name": "Kippaamaan",
       "url": "https://open.spotify.com/track/3yL32SSjlGSRK063F235w1"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150152,
+      "name": "Kirja",
+      "url": "https://open.spotify.com/track/0s94cGujeBrKrFp5QUQ7Em"
     },
     {
       "album": {
@@ -31780,7 +31838,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 165079,
       "name": "L\u00e4hikuppila",
       "url": "https://open.spotify.com/track/3p3s1YoDEcZnxu0YVD3EN8"
@@ -32638,7 +32696,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 188000,
       "name": "Make up your mind",
       "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
@@ -34086,7 +34144,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 165484,
       "name": "Menestys on paras tapa kostaa",
       "url": "https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE"
@@ -34796,6 +34854,24 @@
       "duration_ms": 213133,
       "name": "Mik\u00e4 kes\u00e4?",
       "url": "https://open.spotify.com/track/2lkdkMYCogQm5ef6tqYjz2"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238495,
+      "name": "Mik\u00e4 muutti kaiken",
+      "url": "https://open.spotify.com/track/3Gk51KzdIrYiH1fYA8SSKk"
     },
     {
       "album": {
@@ -36068,7 +36144,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 193578,
       "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
       "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
@@ -39419,6 +39495,24 @@
     },
     {
       "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151556,
+      "name": "Niinku huomist ei ois",
+      "url": "https://open.spotify.com/track/1P0MKLBlnC5FtOv9Fsj1QO"
+    },
+    {
+      "album": {
         "name": "Niinku koko ajan",
         "url": "https://open.spotify.com/album/6U7IKDdsi7ToOYPPFxmz7X"
       },
@@ -39448,7 +39542,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 168763,
       "name": "Niityt, suot (interlude)",
       "url": "https://open.spotify.com/track/4pWeFxYeE4X7qsBz5J9fh8"
@@ -44996,7 +45090,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 139887,
       "name": "Poikayst\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/3ufhILS7kGr5syXj7cxMM9"
@@ -45036,6 +45130,24 @@
       "duration_ms": 141372,
       "name": "Poikii on",
       "url": "https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Poitsu",
+      "url": "https://open.spotify.com/track/01bMjvzaT0hL8MbJ3mYxol"
     },
     {
       "album": {
@@ -46310,7 +46422,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 172969,
       "name": "Radio p\u00e4\u00e4lle",
       "url": "https://open.spotify.com/track/4uWw15g3ImMxHqmiGAW0UE"
@@ -48041,6 +48153,24 @@
     },
     {
       "album": {
+        "name": "RLG",
+        "url": "https://open.spotify.com/album/6O3Qk2gF5e1ONFnVk39H49"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145108,
+      "name": "RLG",
+      "url": "https://open.spotify.com/track/4f27Nr8WSTHJzsfDO5oxZ0"
+    },
+    {
+      "album": {
         "name": "Robbery Bob",
         "url": "https://open.spotify.com/album/778bia6HhNWH2ReDuDM5vk"
       },
@@ -48730,6 +48860,24 @@
       "duration_ms": 243120,
       "name": "Saappaat",
       "url": "https://open.spotify.com/track/2ZkpSLweVJypeqIjNZpHnA"
+    },
+    {
+      "album": {
+        "name": "Saat anteeks vaikket pyyd\u00e4",
+        "url": "https://open.spotify.com/album/536HqHvrzYKVKLMLc9guGz"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163362,
+      "name": "Saat anteeks vaikket pyyd\u00e4",
+      "url": "https://open.spotify.com/track/6OOwO4BnJO2OyaqtONLBfo"
     },
     {
       "album": {
@@ -50256,7 +50404,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -50386,7 +50534,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 202240,
       "name": "Sen piti olla min\u00e4",
       "url": "https://open.spotify.com/track/3mLFiXrh5H0Ri8ZNcUdzab"
@@ -51659,6 +51807,24 @@
     },
     {
       "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188216,
+      "name": "Sisko ja sen veli",
+      "url": "https://open.spotify.com/track/0VLExINyqziPytQkO13FwI"
+    },
+    {
+      "album": {
         "name": "Sisko ja sen veli",
         "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
       },
@@ -51670,7 +51836,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 188216,
       "name": "Sisko ja sen veli",
       "url": "https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD"
@@ -51692,6 +51858,24 @@
       "duration_ms": 173221,
       "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
       "url": "https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO"
+    },
+    {
+      "album": {
+        "name": "Siskon kaa",
+        "url": "https://open.spotify.com/album/68HMkeKhklwjJR47VARlSM"
+      },
+      "artists": [
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180024,
+      "name": "Siskon kaa",
+      "url": "https://open.spotify.com/track/1YumSYYm3Xg0a1TBTNx71v"
     },
     {
       "album": {
@@ -52880,6 +53064,24 @@
       "duration_ms": 165359,
       "name": "Stand Back",
       "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Stanley Cup",
+      "url": "https://open.spotify.com/track/0ZC9xM6MdClvWyWUKwyMam"
     },
     {
       "album": {
@@ -57453,6 +57655,24 @@
     },
     {
       "album": {
+        "name": "Tii\u00e4n et sua sattuu",
+        "url": "https://open.spotify.com/album/5IUN2oZGq2XbmS9fRwTpWf"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150504,
+      "name": "Tii\u00e4n et sua sattuu",
+      "url": "https://open.spotify.com/track/1D1TJw2QW5JtB7yc1hVl2v"
+    },
+    {
+      "album": {
         "name": "Tikapuut (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/3NAsQ6NWWHOHmpg8ILpFOO"
       },
@@ -58372,7 +58592,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/5D5wXQy4MpnTS5ZOPW5v94"
@@ -59942,6 +60162,28 @@
       "duration_ms": 197169,
       "name": "T\u00e4hdenlento (feat. Sliki)",
       "url": "https://open.spotify.com/track/0HgDdM7SZvUsTsOFOPexzS"
+    },
+    {
+      "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195194,
+      "name": "T\u00e4hdet",
+      "url": "https://open.spotify.com/track/21TLpgFggHKbyh3waJpPkA"
     },
     {
       "album": {
@@ -63843,6 +64085,24 @@
     },
     {
       "album": {
+        "name": "Mik\u00e4 muutti kaiken",
+        "url": "https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "Virta",
+      "url": "https://open.spotify.com/track/6ib6e7TErz1lK5uhoC6Wpy"
+    },
+    {
+      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -67156,7 +67416,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 229322,
       "name": "\u00c4l\u00e4 mee",
       "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"

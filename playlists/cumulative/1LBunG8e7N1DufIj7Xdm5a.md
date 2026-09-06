@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,719 songs - 10 day 14 hr 35 min
+4,725 songs - 10 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Ansiedad Social](https://open.spotify.com/track/0uf3yBVaoyMthJiiu2dZez) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Ansiedad Social](https://open.spotify.com/album/2mirnr7ex2EUk3xXjNz5dn) | 2:47 | 2026-08-05 |  |
 | [Antarctica 2 South Georgia](https://open.spotify.com/track/5u5UMCU1vEDPbEHssiDabE) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [Antarctica \(Chillout\)](https://open.spotify.com/album/3pNpxsAlvxLNxv20GhgbJj) | 2:56 | 2026-08-24 |  |
 | [Anything \- Radio Edit](https://open.spotify.com/track/2LjtlofgJSPLLR2BHobh1Y) | [Vellkhan](https://open.spotify.com/artist/4IkkkRiHwKB0fnXWcFjLEp) | [Anything](https://open.spotify.com/album/2tl8aq8QwKHP23Tch8Rgej) | 2:45 | 2025-07-16 |  |
+| [Apes and Cyborgs](https://open.spotify.com/track/4hsqJGvyzt4n7fdalPuPpw) | [Gibson and Gibson](https://open.spotify.com/artist/6wItM1DeDBExx3nHd8Q2mB) | [Apes and Cyborgs](https://open.spotify.com/album/3gQk0fJjEizqHDZhfkg4fU) | 2:40 | 2026-09-05 |  |
 | [Apnea](https://open.spotify.com/track/1sT98Sbal2QFeCGqlwtcYP) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Apnea](https://open.spotify.com/album/5YGNXqexHVhrsW3oj0ZhdK) | 2:57 | 2025-05-27 |  |
 | [Apocalisse Danzante](https://open.spotify.com/track/0z7phOYBmZHU8QHpSsPRLc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 2:42 | 2025-09-17 |  |
 | [Apocalisse Danzante \(another\)](https://open.spotify.com/track/2nSgigvNfDrj27kSCi1cOl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian vol.2](https://open.spotify.com/album/2zR5iN4XMlyWBz77ZdG9s1) | 3:09 | 2025-09-17 |  |
@@ -299,6 +300,7 @@
 | [Babbo Natale](https://open.spotify.com/track/5QQRo3aUGqs25MOid0lOZz) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 2:42 | 2025-04-04 |  |
 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 | 2025-12-10 |  |
 | [Babe Come](https://open.spotify.com/track/6jmHAuTAwDpG9gaPDinLyi) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 3:38 | 2025-06-04 |  |
+| [Baby Baby](https://open.spotify.com/track/0EEIDMw52VNcAc3bgBEgQc) | [Cherish Amber](https://open.spotify.com/artist/1ceQ2yaXI3VQcvgqmc3cLq) | [Baby Baby](https://open.spotify.com/album/2B9rEl56UovPLwWtz6uSPS) | 3:33 | 2026-09-05 |  |
 | [BABY GIRL](https://open.spotify.com/track/71gZCe7n2hWNZzI5sRB1wf) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [BABY GIRL](https://open.spotify.com/album/7xiPjYiBgc9HXt9DsPYd7E) | 2:03 | 2025-07-03 |  |
 | [Baby malavida](https://open.spotify.com/track/4QAuWaUyFkxEBcIn6iS8Ig) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Baby malavida](https://open.spotify.com/album/2nsgGcMZxnXcI7bFOjeS0D) | 4:18 | 2025-05-27 |  |
 | [Baby malavida LIVE \- Live](https://open.spotify.com/track/7g1uNYdY6HBo0JiLxkXCuH) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Baby malavida LIVE \(Live\)](https://open.spotify.com/album/2pn2SaY6E6i5lNaWkTimgm) | 4:24 | 2025-06-12 |  |
@@ -417,6 +419,7 @@
 | [Bleed Electric \#Music \#NewMusic \#Viral](https://open.spotify.com/track/65SAHnmXzL7zwON3YqvTMQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:14 | 2025-09-15 |  |
 | [Bless the Morning Train](https://open.spotify.com/track/4ZMJoKSQdonpU8UT2Gwr0d) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Bless the Morning Train](https://open.spotify.com/album/1jGZQCB0ldwwsXisZYUDDC) | 3:15 | 2026-04-22 |  |
 | [Blew her brains](https://open.spotify.com/track/3n1UlHcdqJ5EhrWIAHaL6C) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:52 | 2026-01-17 |  |
+| [Bliżej w stronę słońca](https://open.spotify.com/track/02chDc7iqeOWoDmtn76k1z) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 | 2026-09-05 |  |
 | [Blood](https://open.spotify.com/track/60yhxrLlZycz1FpfifAeJI) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Finding God Before God Finds Me](https://open.spotify.com/album/4mnWuZnKFFwQoVP3U8RI17) | 3:50 | 2025-04-09 |  |
 | [Blood & Neon](https://open.spotify.com/track/7I6NT8DCdAe5tIPitPkW3L) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 3:19 | 2025-09-12 |  |
 | [BLOOM \(Butterfly vibes\)](https://open.spotify.com/track/7KeKLiAjEzQkBTOhw9MkCX) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt), [O'Russ](https://open.spotify.com/artist/4Xv7Fbw3FIVS97LvGmYYB9), [Noel Bibì](https://open.spotify.com/artist/73b5NTnBhKQ1PrZaMzScFA) | [BLOOM \(Butterfly vibes\)](https://open.spotify.com/album/0WnFBuKYV8tK12Bf3YeGVv) | 3:29 | 2026-01-31 |  |
@@ -1777,6 +1780,7 @@
 | [Gyatt](https://open.spotify.com/track/1s229wXdCqJ6efrURPrxYj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:22 | 2025-09-17 |  |
 | [Gym y Farra](https://open.spotify.com/track/0VBJwn1pzveqZXUWQCdOLD) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Gym y Farra](https://open.spotify.com/album/5DLmphnuago9EOE4uWbHkK) | 2:08 | 2026-06-22 |  |
 | [Gymnopedie 808](https://open.spotify.com/track/71rWZ230q67GoOxcxbHFuc) | [Mauro Tudino](https://open.spotify.com/artist/1oeoZXpqKTC8Y62yrALSC9) | [Gymnopedie 808](https://open.spotify.com/album/3E84jMszdCtyVoEAL3twmv) | 2:43 | 2025-06-04 |  |
+| [Głupia Melancholia](https://open.spotify.com/track/7d53CrkoFx1LCFW3I3hfgv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Abbracci](https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51) | 3:22 | 2026-09-05 |  |
 | [Hai capito male](https://open.spotify.com/track/5W03BU7J8vzkOdHoJ4Q7xb) | [Ell](https://open.spotify.com/artist/02DsArEaXklbGbfOQeCdzN) | [Hai capito male](https://open.spotify.com/album/7D4bfcDP5mMKtU8AkRBGF7) | 3:15 | 2025-06-24 |  |
 | [Half\-Empty Soul](https://open.spotify.com/track/3itcmtHSqMpcPLcNcsbvqC) | [Bass\_Plus](https://open.spotify.com/artist/0uYsvadSSfd6FUaBB9syyb) | [Half\-Empty Soul](https://open.spotify.com/album/2Bo6gMb6cMRKnP2fh87b9U) | 3:00 | 2026-01-26 |  |
 | [Halfless Souls](https://open.spotify.com/track/4rzpcgpoOaCHCudaOfjrQl) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Halfless Souls](https://open.spotify.com/album/3Exqy2GkyiPbrUlIakn719) | 3:28 | 2025-10-07 |  |
@@ -1927,6 +1931,7 @@
 | [Hooked on Melody \(another\)](https://open.spotify.com/track/4KmqLKFJtXd2bVauFV4J9i) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 2:26 | 2025-05-31 |  |
 | [Hooligan](https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:02 | 2026-04-12 |  |
 | [Hope](https://open.spotify.com/track/1PHGQ4S3BYzVjlJzBTmA1u) | [Time To Act](https://open.spotify.com/artist/1BVpWWRehngvGon8JXiAiq), [Midnight Mastermind](https://open.spotify.com/artist/71cdh6bParEyNIpqdkzuiT), [Anza](https://open.spotify.com/artist/7mc3mMH1cDDlVDaLdmZMtE) | [Hope](https://open.spotify.com/album/6UHZnGqUt5hfVv95aWZf9F) | 2:39 | 2026-02-01 |  |
+| [Hope I Make It](https://open.spotify.com/track/4hvi9U9sqJFYJBwbQXBwT5) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Hope I Make It / Fifths 0ver Minors](https://open.spotify.com/album/1KThZgBta2GtOCTu3hevJ2) | 3:06 | 2026-09-05 |  |
 | [Hopefully...The Last Goodbye.](https://open.spotify.com/track/5106evLuvMederRfQlZUpr) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Hopefully...The Last Goodbye.](https://open.spotify.com/album/5iQCgvwhhtC3cWs8EqqJEv) | 2:14 | 2025-07-11 |  |
 | [Hora Extra](https://open.spotify.com/track/4053HFfOXn9Do320YTig0A) | [CLT S/IA](https://open.spotify.com/artist/3tDyxGelWbCsYiOa6ygWGv), [Lia Liberty](https://open.spotify.com/artist/143AjJas8i1bJCHcwcI1Sm) | [CLT \- Correndo, Lutando, Tentando](https://open.spotify.com/album/5uBU3B5F3ES12hKCGSkVvW) | 4:14 | 2026-06-10 |  |
 | [Horizon](https://open.spotify.com/track/0D4yi2JyZjA6DnPzwnKzWa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 3:03 | 2025-09-17 |  |
@@ -2526,6 +2531,7 @@
 | [Masquerade](https://open.spotify.com/track/4UOmzam7Hu6HlHbHrIx5Hg) | [TJ Kidwell](https://open.spotify.com/artist/2NsemkSjtAPqgf57Vl1tpO) | [Masquerade of Me](https://open.spotify.com/album/0vLk7TOQ6eCUQeukDt44Vv) | 3:41 | 2025-11-08 |  |
 | [Mass Apotheosis](https://open.spotify.com/track/5CfPLBptbmuYev0Q0PljIH) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [Chela](https://open.spotify.com/album/06x7CcyDoKFoiErD9vuR3F) | 7:15 | 2026-09-02 |  |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-11-24 |  |
+| [Masz prawo](https://open.spotify.com/track/0Q1ozsplWjw215gu9jMofX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 | 2026-09-05 |  |
 | [Math Is Money](https://open.spotify.com/track/4zzEIBANP1pCQQSl1yxchH) | [Lifter Puller](https://open.spotify.com/artist/5ln57CgiNtmgrZFbBWKsSK) | [Slips Backwards](https://open.spotify.com/album/24S4uwsuS1ttyHh6dJWMZh) | 3:31 | 2025-11-05 |  |
 | [Matory](https://open.spotify.com/track/39WrEUqGAXuylnOtGeVE3h) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Matory](https://open.spotify.com/album/37DeS2yQJ0UUF8tKJjdes4) | 2:31 | 2026-06-23 |  |
 | [MATRIMONI IN VISTA](https://open.spotify.com/track/7aFPWmrLGhlh30p20LWf07) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:47 | 2025-04-04 |  |

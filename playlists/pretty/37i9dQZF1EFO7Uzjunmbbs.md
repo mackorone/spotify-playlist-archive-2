@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,093 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 102 | [Outlaw Love](https://open.spotify.com/track/0WdDt6MDfrsp7kVXhyKKhv) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Outlaw Love](https://open.spotify.com/album/4NWSNWO1EfJvB8Af7Gb0nu) | 2:55 |
 | 103 | [Mixed Emotions](https://open.spotify.com/track/0JeyuSyhArti8bf31ZvTyJ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 2:40 |
 | 104 | [This Too Shall Pass](https://open.spotify.com/track/2dH6WEGWUvieo01KThGYzh) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:28 |
-| 105 | [Hail Mary](https://open.spotify.com/track/73dOyLxQtiPF7ZpE4kt4nY) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Low](https://open.spotify.com/album/6Iy0YmPlXUc30fv2Pi6J2v) | 3:32 |
-| 106 | [Better](https://open.spotify.com/track/5bJlZNPNL6BeA3h1lDYJLq) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 3:13 |
+| 105 | [Better](https://open.spotify.com/track/5bJlZNPNL6BeA3h1lDYJLq) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 3:13 |
+| 106 | [Hail Mary](https://open.spotify.com/track/73dOyLxQtiPF7ZpE4kt4nY) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Low](https://open.spotify.com/album/6Iy0YmPlXUc30fv2Pi6J2v) | 3:32 |
 | 107 | [Girl From Spring Break](https://open.spotify.com/track/3w9JsvpiblsTyikAN9mvar) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Amos](https://open.spotify.com/album/4xb3GQ3k8DQRnfqvAar0pu) | 3:20 |
 | 108 | [Crashin' The Boys' Club](https://open.spotify.com/track/78xoooOL6D3LGLoakJZJVp) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 2:56 |
 | 109 | [Hoodie](https://open.spotify.com/track/51rmbZbSxwrLGhFEsC61cT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:01 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 143 | [Something I'm Not](https://open.spotify.com/track/6HQMEEo4h1EIp8JfzwHZKQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:16 |
 | 144 | [Anywhere for You](https://open.spotify.com/track/6TORZWko3D8kIzfQ5S7uyd) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [MacKenzie Porter](https://open.spotify.com/album/7JnxsKJF4RXlmEJAUYRsFX) | 3:28 |
 | 145 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 |
-| 146 | [Identity Crisis](https://open.spotify.com/track/3589tdKDYRNbzyHLe0K6KE) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 1:52 |
-| 147 | [Shame](https://open.spotify.com/track/49bqWTHnrwfX3wZrssH8a9) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Shame](https://open.spotify.com/album/6sUcE6NEwgjQbNX2fCHMDQ) | 3:21 |
+| 146 | [Shame](https://open.spotify.com/track/49bqWTHnrwfX3wZrssH8a9) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Shame](https://open.spotify.com/album/6sUcE6NEwgjQbNX2fCHMDQ) | 3:21 |
+| 147 | [Identity Crisis](https://open.spotify.com/track/3589tdKDYRNbzyHLe0K6KE) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 1:52 |
 | 148 | [Best Part Of Me](https://open.spotify.com/track/3a3GALlXj7wi5vo9trXiGk) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:24 |
 | 149 | [Best I Never Had](https://open.spotify.com/track/6sDvIWKI7bm5gMUYN5ce22) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 3:10 |
 | 150 | [Healthy](https://open.spotify.com/track/5514WaTqkfbKCBbd0fnSzG) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:01 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Acbb6AAAAABWx0aw09E5HJG3CYq5EUXz`
+Snapshot ID: `AcbhiAAAAADi2GOXRNr9MQgxYIEsRP+B`

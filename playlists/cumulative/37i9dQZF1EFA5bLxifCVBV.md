@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-339 songs - 17 hr 42 min
+340 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Fancy Meeting You](https://open.spotify.com/track/3jZii636rrBQsii5TXVY1i) | [Blue Barron & His Orchestra](https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et), [Charlie Fisher](https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K) | [Blue Barron and His Orchestra, 1938\-41](https://open.spotify.com/album/1GDKu1oxbbdzKahCagGW88) | 2:17 | 2025-12-17 | 2026-01-25 |
 | [Fancy Meeting You](https://open.spotify.com/track/5qwXnPEyIyRY8Z3m74fwUM) | [Blue Barron & His Orchestra](https://open.spotify.com/artist/6eXuANzEDfPG5dHo69H3et), [Charlie Fisher](https://open.spotify.com/artist/33xHRggEtheyESYR6ro72K) | [The Only Star](https://open.spotify.com/album/3QqDQlb0N8lRaxxDAvgWmU) | 2:17 | 2026-01-24 | 2026-02-20 |
 | [Fancy Meeting You](https://open.spotify.com/track/77AbCwwp5SZG7GsG30YmXm) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Big Bands \- Dinner Dance Music \- 1940s Music](https://open.spotify.com/album/54EkOVKsrjLOhfch77Y6OA) | 2:17 | 2026-02-19 | 2026-08-19 |
-| [Fancy Meeting You Here \- Remastered](https://open.spotify.com/track/2qA9MNueUN13DZkFi96tU5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Fancy Meeting You Here](https://open.spotify.com/album/1XM7cZ9GPJiEuXjIuQipPj) | 2:29 | 2026-08-18 |  |
+| [Fancy Meeting You Here \- Remastered](https://open.spotify.com/track/2qA9MNueUN13DZkFi96tU5) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Fancy Meeting You Here](https://open.spotify.com/album/1XM7cZ9GPJiEuXjIuQipPj) | 2:29 | 2026-08-18 | 2026-09-06 |
+| [Fancy Meetin´ You Here](https://open.spotify.com/track/7p48AuJ72wxNOQBJtsfcnb) | [Loesser](https://open.spotify.com/artist/332iBVcDaVusr5qLGzLb2Y), [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Milestones of a Pop Legend \- Rosemary Clooney, Vol\. 5](https://open.spotify.com/album/4okKHFJmymzqo4s3tjDCi6) | 2:26 | 2026-09-05 |  |
 | [Fawncy Meetin' You](https://open.spotify.com/track/6MazCzaHO6po5ZAM8XMsF9) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Count!](https://open.spotify.com/album/7JyyVLOnNjXtMC0yIFtCa7) | 3:01 | 2024-07-24 | 2025-06-28 |
 | [Fiddle Faddle](https://open.spotify.com/track/7FXu8mphx3UbHBR1LcnoFD) | [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io) | [Fiddle And A Song](https://open.spotify.com/album/3F9LR1yUStjTdrXJqOfiUz) | 2:03 | 2024-07-24 | 2025-07-10 |
 | [Fiddle Faddle](https://open.spotify.com/track/0mIDOIIQZlcqA9xujafVZL) | [John Sloman](https://open.spotify.com/artist/46oXrgAsxd69gnFGJ14ImQ), [Malcolm Gets](https://open.spotify.com/artist/4j0BEjh7PckU3efYXd1wUG) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 1:55 | 2025-07-09 |  |

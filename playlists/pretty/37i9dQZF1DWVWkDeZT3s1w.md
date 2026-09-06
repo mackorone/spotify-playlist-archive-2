@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,312 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,328 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 68 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 |
 | 69 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 70 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |
-| 71 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
-| 72 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |
-| 73 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 |
+| 71 | [Tierra Madre](https://open.spotify.com/track/3TH2lQ9upYttcTUpr9WfDO) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO), [Reggie Stephens](https://open.spotify.com/artist/0mtOLBy0TIjoGhQXknswJ4), [One Drop Scott](https://open.spotify.com/artist/72mXNmbTgflWnosnalErzQ) | [Tierra Madre](https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv) | 4:25 |
+| 72 | [Sigo Aquí](https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV) | [Yhezid](https://open.spotify.com/artist/5oGpSYiI9nGrWQYVDECnQI) | [Sigo Aquí](https://open.spotify.com/album/0upXP4hatmm8rDYzs4bBZ3) | 3:19 |
+| 73 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |
 | 74 | [Helarte](https://open.spotify.com/track/3VwGYRjzfGkwOezZuuVk6a) | [Lirika Inverza](https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb) | [Helarte](https://open.spotify.com/album/4bParJOMVqOcoVkDM3W4QT) | 3:23 |
 | 75 | [Inmunes](https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Inmunes](https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU) | 3:14 |
 | 76 | [Shhh](https://open.spotify.com/track/44uj6Q1t6feL4qhGOBv2iW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Magic Classic](https://open.spotify.com/artist/7yH7GsoMnf3nXJW422mfzM) | [Shhh](https://open.spotify.com/album/4S6XyUxV5DrxKCNqK6gAD5) | 2:25 |

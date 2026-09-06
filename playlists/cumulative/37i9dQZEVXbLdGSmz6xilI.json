@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 199312,
       "name": "2 4",
       "url": "https://open.spotify.com/track/6r5o9yIc16ZvymXUKJQ1yy"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -5618,10 +5618,28 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 194181,
       "name": "CILU",
       "url": "https://open.spotify.com/track/2dQTfXmi5NldikBZPotZDs"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "album": {
@@ -11482,7 +11500,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 273939,
       "name": "HONGKONG1",
       "url": "https://open.spotify.com/track/6UFvSmKzCZ16fxsybf4PhE"
@@ -14928,7 +14946,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd (feat. V\u0103n)",
       "url": "https://open.spotify.com/track/2sSsy51uNPKas6x0JWr0TN"
@@ -17718,7 +17736,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -19687,6 +19705,28 @@
     },
     {
       "album": {
+        "name": "N\u01b0\u1edbc M\u1eaft Em Lau B\u1eb1ng T\u00ecnh Y\u00eau M\u1edbi",
+        "url": "https://open.spotify.com/album/6eRajwh6qfYzSlg27x6wzM"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285741,
+      "name": "N\u01b0\u1edbc M\u1eaft Em Lau B\u1eb1ng T\u00ecnh Y\u00eau M\u1edbi",
+      "url": "https://open.spotify.com/track/7J9l9ebYB3IEs5ea5J1M7a"
+    },
+    {
+      "album": {
         "name": "N\u1ea5u \u0103n cho em",
         "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
@@ -19746,7 +19786,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -20042,7 +20082,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/5ouxRyInSdRBQubu3KTd97"
@@ -22830,6 +22870,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
       "album": {
@@ -27454,7 +27512,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -29806,7 +29864,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 268376,
       "name": "Xin \u0110\u1eebng L\u1eb7ng Im",
       "url": "https://open.spotify.com/track/4CVxKSRLUxqUuj2z9vn4fS"
@@ -30536,6 +30594,24 @@
       "duration_ms": 197333,
       "name": "\u00c0 L\u00f4i",
       "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"
+    },
+    {
+      "album": {
+        "name": "\u00c1c M\u1ed9ng \u0110\u1eb9p - Chapter 3",
+        "url": "https://open.spotify.com/album/7vqf30gCHi8qAqLNWl8moa"
+      },
+      "artists": [
+        {
+          "name": "\u0110\u1ea1t G",
+          "url": "https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "\u00c1c M\u1ed9ng \u0110\u1eb9p",
+      "url": "https://open.spotify.com/track/4M0JP3vybYgPQSnIvPrRuW"
     },
     {
       "album": {

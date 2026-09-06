@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-8,947 songs - 27 day 23 hr 55 min
+8,948 songs - 27 day 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2769,6 +2769,7 @@
 | [Gratitude](https://open.spotify.com/track/3jM6y2gZBGVr87pWxSAIXw) | [Sarah Wonders](https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo) | [Gratitude](https://open.spotify.com/album/1ufxanJk2U2DjFpuVEbYr8) | 4:08 | 2025-01-17 | 2025-01-31 |
 | [Gratitude \- Live At Sound Emporium](https://open.spotify.com/track/2N3LR3xv3CdXLnen2eAXRn) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [Songs You Maybe Didn't Know I Wrote And Some You Maybe Did \(Live At Sound Emporium\)](https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu) | 7:07 | 2023-07-14 | 2023-07-28 |
 | [Gratitude and Blues](https://open.spotify.com/track/0B6FyuAXKx0EKEwORahOZC) | [Oluwadice](https://open.spotify.com/artist/5DO4rtvSgLb21ZnDvoZ5Bg) | [Gratitude and Blues](https://open.spotify.com/album/2RB2awelfxgNSsHOkb431Z) | 2:26 | 2023-12-22 | 2024-01-05 |
+| [Gratitude Mash\-up vol\. 1 \- Live](https://open.spotify.com/track/2UYZ0gJ4YMgc5Prl6efTkL) | [ZOE NATION](https://open.spotify.com/artist/5ebWGqxEpLLsASxeLa8mlJ) | [Gratitude Mash\-up vol\. 1 \(Live\)](https://open.spotify.com/album/7uSTHHaZW2j3T5SyJNUfye) | 3:21 | 2026-09-04 |  |
 | [Gratitude Medley1](https://open.spotify.com/track/49YhlU24Ug0rK80vK0lrPm) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [Gratitude Medley1](https://open.spotify.com/album/2OpPBFLZa15F9a7qHYkRG2) | 13:24 | 2025-12-26 | 2026-01-23 |
 | [Great & Mighty](https://open.spotify.com/track/49CnIEtA2IyYaSsi6OmVc6) | [Renee Pullum](https://open.spotify.com/artist/6jX5ekSzDJgziIWpxvumgt), [Renwick Duesbury](https://open.spotify.com/artist/7GyRgZVKAKXs8RZKz4Omn4) | [Great & Mighty](https://open.spotify.com/album/1VAArSez9vP1YICwCFDyiD) | 2:54 | 2023-07-21 | 2023-08-04 |
 | [Great & Mighty God](https://open.spotify.com/track/5NZ8wethR6SXuF26tRZRUW) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Great & Mighty God](https://open.spotify.com/album/1yQXdL1MWY38PpN6Pv1HVR) | 6:34 | 2025-05-02 | 2025-05-16 |

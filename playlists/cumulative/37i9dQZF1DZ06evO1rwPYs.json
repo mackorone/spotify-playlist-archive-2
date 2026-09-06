@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "Come Down To Miami (G'harah \u201cPK\u201d Degeddingseze Remix)",
+        "url": "https://open.spotify.com/album/2eH0PzDocLLTNoWOZ0wSIJ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Gharah \"Pk\" Degeddingseze",
+          "url": "https://open.spotify.com/artist/4mZsBU9TkBqU2QMJvBe8FE"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174021,
+      "name": "Come Down To Miami - Gharah \u201cPK\u201d Degeddingseze Remix",
+      "url": "https://open.spotify.com/track/3pvYEqfy4yajZ9jBozHLvy"
+    },
+    {
+      "album": {
         "name": "2En1",
         "url": "https://open.spotify.com/album/0HM5htNd3yWjExQx9BzEnM"
       },
@@ -1402,7 +1428,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 151115,
       "name": "Esperar\u00e9 - Remastered 2025",
       "url": "https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe"

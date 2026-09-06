@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Jessica Sevier
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,382 likes - 176 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,393 likes - 176 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

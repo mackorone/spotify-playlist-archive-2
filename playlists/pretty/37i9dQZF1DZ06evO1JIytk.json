@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16659,
+  "num_followers": 16660,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAAZGSYUaY7YIG/n6Mn5FMGk",
+  "snapshot_id": "apoKAAAAAAAkr8NkMIBU2P7qJabnuAKS",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Hymn For The Dead",
-      "url": "https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX"
+      "duration_ms": 163360,
+      "name": "Confessions of an Economic Hit Man - Dirty Version",
+      "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Confessions of an Economic Hit Man - Dirty Version",
-      "url": "https://open.spotify.com/track/7b7RifetHxERla9vz3GATu"
+      "duration_ms": 219240,
+      "name": "Hymn For The Dead",
+      "url": "https://open.spotify.com/track/01iUSHBgeMR1Zz23XTZzwX"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Stars And Stripes",
-      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 153991,
       "name": "Captain Anarchy",
       "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 111640,
-      "name": "Red, White & Brainwashed",
-      "url": "https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm"
+      "duration_ms": 141026,
+      "name": "You'd Do the Same",
+      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 141026,
-      "name": "You'd Do the Same",
-      "url": "https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs"
+      "duration_ms": 111640,
+      "name": "Red, White & Brainwashed",
+      "url": "https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cease Fires",
+        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 179362,
+      "name": "Kill the Rich (Re-Recorded)",
+      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 181133,
       "name": "You Make Me Sick",
       "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cease Fires",
-        "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 179362,
-      "name": "Kill the Rich (Re-Recorded)",
-      "url": "https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt"
     }
   ],
   "unique_name": "This Is Anti-Flag",

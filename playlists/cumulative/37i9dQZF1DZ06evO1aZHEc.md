@@ -4,7 +4,7 @@
 
 > This is claire rousay\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 40 min
+99 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [asking for it](https://open.spotify.com/track/7cl12xR4Jhr96p03uyRywd) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [sentiment](https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu) | 1:52 | 2026-03-04 |  |
 | [camille](https://open.spotify.com/track/3SdTbXf9Tgp4WBBdkhZ5Rj) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Never Stop Texting Me](https://open.spotify.com/album/44lPT0MSIDdzYZkqN6wZA4) | 2:35 | 2026-05-09 | 2026-07-19 |
 | [conditional love](https://open.spotify.com/track/0A9d7CLI8k9uXCOZyAy3Mc) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 2:52 | 2026-03-04 |  |
+| [cool girls go to heaven](https://open.spotify.com/track/4HkQtiWQC9VfeYZzfESHaS) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw) | [cool girls go to heaven](https://open.spotify.com/album/1LXqUMFUVsiQY9c32Wyq4F) | 3:28 | 2026-09-06 |  |
 | [Covert Services](https://open.spotify.com/track/5TNIHZ2Qz4iqL5hH9CkzLx) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Across the Horizon Vol\. 1](https://open.spotify.com/album/1Izs5b8lWF6bwSDT8PWV2G) | 5:36 | 2026-03-04 |  |
 | [Dankworld Interlude](https://open.spotify.com/track/2p4Si60Lb8BAGIjLbYuRty) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Eyeline](https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7) | 0:56 | 2026-03-04 | 2026-08-31 |
 | [Deceiver](https://open.spotify.com/track/7uYYnLks8scZzC1vA1qEjj) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Deceiver](https://open.spotify.com/album/1PZEGP9yY4nlf9Pv6mTCpN) | 3:44 | 2026-03-04 |  |
@@ -46,7 +47,7 @@
 | [hopfields](https://open.spotify.com/track/5Ye1GataIFLuEQLyk8k14u) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [no floor](https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG) | 8:16 | 2026-03-04 |  |
 | [How Sweet I Roamed](https://open.spotify.com/track/7cE6w5XdwU1wqIYbNsstRR) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 2:22 | 2026-03-04 |  |
 | [human imperfection](https://open.spotify.com/track/3dCoUgszJnAqOswWVYehwT) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq), [Gretchen Korsmo](https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C) | [quilted lament](https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa) | 3:05 | 2026-03-04 |  |
-| [i](https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 0:56 | 2026-03-04 |  |
+| [i](https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 0:56 | 2026-03-04 | 2026-09-06 |
 | [i couldn't find the light](https://open.spotify.com/track/5syBPbqWzsKM26e9YeurA5) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [a little death](https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up) | 0:54 | 2026-03-18 |  |
 | [I See A Darkness \- claire rousay Remix](https://open.spotify.com/track/4VK3vUEHDJnT9zhK5cb9CD) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [Mike Simonetti](https://open.spotify.com/artist/39DBlSB32DrnRrqM6UUUsm), [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [I See A Darkness / Perfect Kiss](https://open.spotify.com/album/0G5egGN8iPhmgmEW1IuKTd) | 4:02 | 2026-08-07 |  |
 | [ii](https://open.spotify.com/track/1bJAfv2WSHPIRur04PKy5a) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [The Bloody Lady](https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4) | 4:24 | 2026-03-14 | 2026-08-26 |

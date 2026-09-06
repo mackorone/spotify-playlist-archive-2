@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,443 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,496 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

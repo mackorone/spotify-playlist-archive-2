@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> Rebecca Black is an Anaheim star
+> Rebecca Black is an Anaheim star 🌟
 
 2,769 songs - 5 day 6 hr 56 min
 

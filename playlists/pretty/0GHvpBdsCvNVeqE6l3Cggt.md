@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 47 songs - 3 hr 1 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 43 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,11 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [Oops!](https://open.spotify.com/track/4WyQyVjkmKTfx2R5cM0utK) | [Nessa Blake](https://open.spotify.com/artist/2h0XRI0fBH4bZcTeNzVbpv) | [Oops!](https://open.spotify.com/album/6XF8BILHXtmvZKLmqWcSfR) | 2:37 |
-| 39 | [I'll Let You Go](https://open.spotify.com/track/1zCeMFUHGZli0eXTfbuM8z) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [I'll Let You Go](https://open.spotify.com/album/6Go3mjh8Z8iWAqnHPr3mMj) | 3:32 |
-| 40 | [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 |
-| 41 | [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 |
-| 42 | [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 |
-| 43 | [Boys Wear Blue](https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Boys Wear Blue](https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY) | 4:23 |
-| 44 | [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 |
-| 45 | [Hope](https://open.spotify.com/track/7eTzPRx4F8hARRbGM9YAFX) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Hope](https://open.spotify.com/album/4rvubClwvLBYoVnJOzgmZi) | 2:57 |
-| 46 | [Like I Need Water](https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Like I Need Water](https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca) | 3:03 |
-| 47 | [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 |
+| 38 | [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 |
+| 39 | [Boys Wear Blue](https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Boys Wear Blue](https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY) | 4:23 |
+| 40 | [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 |
+| 41 | [Hope](https://open.spotify.com/track/7eTzPRx4F8hARRbGM9YAFX) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Hope](https://open.spotify.com/album/4rvubClwvLBYoVnJOzgmZi) | 2:57 |
+| 42 | [Like I Need Water](https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Like I Need Water](https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca) | 3:03 |
+| 43 | [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 |
 
-Snapshot ID: `AAAkYPtgXZ8uX70BbHpzEv+9WLfwKTcE`
+Snapshot ID: `AAAkZLmsr1dHC34Ov5jIuc9X9WfYw6Es`

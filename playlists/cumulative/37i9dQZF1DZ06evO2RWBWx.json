@@ -1010,6 +1010,24 @@
       "duration_ms": 232488,
       "name": "\u9752\u8449",
       "url": "https://open.spotify.com/track/5UJzCg8xaEpC59l3agBzX7"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+        "url": "https://open.spotify.com/album/7aZZDsYbHBvOuDXjxEB8QU"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236856,
+      "name": "\u98a8\u306b\u306a\u308c\u308b\u306f\u305a",
+      "url": "https://open.spotify.com/track/3zjOOTnR1kFcS1OYVDjhob"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx"

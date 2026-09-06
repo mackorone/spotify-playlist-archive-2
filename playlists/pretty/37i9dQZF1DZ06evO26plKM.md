@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 
 > This is Glen Hansard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,724 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,728 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 26 | [Step out of the Shadows](https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Drive All Night](https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z) | 2:14 |
 | 27 | [What Happens When The Heart Just Stops \(Funkhaus Version\)](https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 4:15 |
 | 28 | [Falling Slowly](https://open.spotify.com/track/2GsPNtDbbTLnQ0nISq9MmC) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [The Cost](https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH) | 4:35 |
-| 29 | [Fake](https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Burn the Maps](https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu) | 3:59 |
+| 29 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
 | 30 | [People We Used To Be](https://open.spotify.com/track/24QW6luUG1CJEd0k7r5hhO) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 3:41 |
 | 31 | [Just to Be the One \(Funkhaus Version\)](https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 3:09 |
-| 32 | [Wedding Ring](https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 4:47 |
+| 32 | [Fake](https://open.spotify.com/track/52FnogAdCwi0NxD4sBpflo) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Burn the Maps](https://open.spotify.com/album/5UD2LodcnQAUnF1rCGmXqu) | 3:59 |
 | 33 | [Fitzcarraldo](https://open.spotify.com/track/1x651IG9goWsHgtgOFIezP) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 6:17 |
 | 34 | [Fitzcarraldo \(Funkhaus Version\)](https://open.spotify.com/track/5bgNDhKnTLFedQFTClTMx7) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 6:20 |
 | 35 | [Time Will Be The Healer](https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Between Two Shores](https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0) | 4:26 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26plKM.md) - [plain]
 | 45 | [Rise](https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [The Cost](https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH) | 3:26 |
 | 46 | [Seven Day Mile](https://open.spotify.com/track/29bmB0tllG78IewIQYwFMj) | [The Frames](https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Longitude](https://open.spotify.com/album/7ccMftz19C1aZM6ihllj2m) | 4:34 |
 | 47 | [McCormack's Wall \(Funkhaus Version\)](https://open.spotify.com/track/5IR0YWcfa8aI9WGZonDFd0) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 2 \- Transmissions West\)](https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9) | 5:28 |
-| 48 | [Didn't He Ramble \(Funkhaus Version\)](https://open.spotify.com/track/52mNViayZN6tYChVWmaX01) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 5:23 |
-| 49 | [Grace Beneath the Pines](https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 3:31 |
+| 48 | [Grace Beneath the Pines](https://open.spotify.com/track/60bZEVHMlFny9Hend37Pjm) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Didn't He Ramble](https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY) | 3:31 |
+| 49 | [Didn't He Ramble \(Funkhaus Version\)](https://open.spotify.com/track/52mNViayZN6tYChVWmaX01) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Don’t Settle \(Vol\. 1 \- Transmissions East\)](https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1) | 5:23 |
 | 50 | [Factory Street Bells](https://open.spotify.com/track/38Ucsa7LdzsD41YI5ggudF) | [The Swell Season](https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Forward](https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ) | 4:10 |
 
-Snapshot ID: `api4gAAAAABZct2Oa7RtpW+SbU8hsnBH`
+Snapshot ID: `apoKAAAAAAAXnHWmfuxcFYsMMWJQLS1c`

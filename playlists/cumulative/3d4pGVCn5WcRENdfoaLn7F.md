@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-428 songs - 1 day 1 hr 38 min
+431 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [SAVE THE GIRL](https://open.spotify.com/track/1h4pDaq8fYOkhfuiBvQRkS) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME](https://open.spotify.com/album/71Pr7vqBqubSjMDaP4DYG3) | 2:59 | 2025-11-01 | 2025-12-06 |
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 | 2026-01-05 |
 | [Say Hello to the Void for Me](https://open.spotify.com/track/4KxYDexsEwl7bKvCHdzuit) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [Bright Lights / Low Lives](https://open.spotify.com/album/5PN8glEtGnWKAbB1TtgQYv) | 4:04 | 2025-11-21 |  |
+| [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 | 2026-09-05 |  |
 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 | 2026-02-07 |  |
 | [Schön und dumm](https://open.spotify.com/track/2C1cJLs5i7whe4nxVbSHs6) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Schön und dumm](https://open.spotify.com/album/0LIfzYI7U1mP56NgLwQ7TU) | 3:52 | 2026-05-19 | 2026-06-14 |
 | [Season 2](https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu) | [Tenkila](https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0) | [Season 2](https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke) | 3:44 | 2025-12-23 | 2026-01-21 |
@@ -352,6 +353,7 @@
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-02-16 | 2026-06-11 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-05-12 | 2026-06-14 |
 | [Take Me Away](https://open.spotify.com/track/3Jzrgsy5JoxAtIMabzSmm3) | [Jess the Singing Alien](https://open.spotify.com/artist/5BWYOSAZHoy7v529BEExAq) | [Take Me Away](https://open.spotify.com/album/4KvoMVaKmmzIcBnq878TEZ) | 3:50 | 2026-01-16 | 2026-02-25 |
+| [Take the Leap](https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2) | [Belshire](https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC) | [Belshire](https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S) | 2:56 | 2026-09-05 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |
 | [The appointment \(losing an old friend\)](https://open.spotify.com/track/2swoWkWzDZYJLAcrmrXHRj) | [Trenic](https://open.spotify.com/artist/0iOR2POwyH4jIhIYw4fIMv) | [The appointment \(losing an old friend\)](https://open.spotify.com/album/2BDSjgApF5cx8uXVVVYV3R) | 6:53 | 2026-02-14 | 2026-03-05 |
 | [The Architect](https://open.spotify.com/track/1hPg5pGa9OpduItQzRW0eM) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:25 | 2026-03-28 | 2026-05-17 |
@@ -376,6 +378,7 @@
 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 | 2026-02-09 | 2026-03-05 |
 | [Tiempo](https://open.spotify.com/track/5Zn0k9u2eiNpmXsB3ifoqn) | [SATVRNO](https://open.spotify.com/artist/6NjxPRyyG0teb1WB0DGvCn) | [Tiempo](https://open.spotify.com/album/1boe137xgCDHPos7RCNFXy) | 3:41 | 2026-01-29 | 2026-02-25 |
 | [Timbre!](https://open.spotify.com/track/2bqcz0raQxahQ5TBxNkiXz) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto IV](https://open.spotify.com/album/0kQoR8s2OY2an9hSbeFdzn) | 3:36 | 2026-06-03 | 2026-08-08 |
+| [Time \- Remix 2026](https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Time \(Remix 2026\)](https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC) | 3:46 | 2026-09-06 |  |
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-01-28 |  |
 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 | 2026-01-05 |
 | [time to part\(y\)](https://open.spotify.com/track/0ZU8QOJ00sgMaUFh7YFpm5) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [time to part\(y\)](https://open.spotify.com/album/2jCGwUJdfsyBUzO3Kr0qTD) | 2:25 | 2026-01-29 | 2026-02-19 |

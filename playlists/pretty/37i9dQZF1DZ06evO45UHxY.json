@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACoNv0GmB0CR/qY6C+Xxz2Z",
+  "snapshot_id": "apoKAAAAAABvtq6jRdk4r5Bz4a4pUSr4",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gavilancillo",
-        "url": "https://open.spotify.com/album/2yCejlJ7XQ1YuMTM6LO7a8"
+        "name": "Balada del Parque Frio",
+        "url": "https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY"
       },
       "artists": [
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        },
-        {
-          "name": "3van",
-          "url": "https://open.spotify.com/artist/1SCRfB1hQex6FduWiKVQ9n"
         }
       ],
-      "duration_ms": 207500,
-      "name": "El Gavilancillo",
-      "url": "https://open.spotify.com/track/3HIsivR3t9klqDxVrS1yPn"
+      "duration_ms": 163000,
+      "name": "Balada del Parque Frio",
+      "url": "https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balada del Parque Frio",
-        "url": "https://open.spotify.com/album/5pIDCQUgI7NOfCl3HCPSZY"
+        "name": "El Gavilancillo",
+        "url": "https://open.spotify.com/album/2yCejlJ7XQ1YuMTM6LO7a8"
       },
       "artists": [
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        },
+        {
+          "name": "3van",
+          "url": "https://open.spotify.com/artist/1SCRfB1hQex6FduWiKVQ9n"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Balada del Parque Frio",
-      "url": "https://open.spotify.com/track/56dBjIziLEPZmsJAZjznBM"
+      "duration_ms": 207500,
+      "name": "El Gavilancillo",
+      "url": "https://open.spotify.com/track/3HIsivR3t9klqDxVrS1yPn"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vamos a Bailar",
         "url": "https://open.spotify.com/album/71Q38XqKyNEA0IAGpEPS9Z"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 165098,
       "name": "Vamos a Bailar",
       "url": "https://open.spotify.com/track/2cCmVHY634pSwyfBt4EdM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Banda",
         "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 157866,
       "name": "La p\u00e1lida luz",
       "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 196291,
+      "name": "D\u00f3nde Est\u00e1s Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Manicomio",
         "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 191574,
       "name": "Amor De Manicomio",
       "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100% Tropical, Vol. 6",
-        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Con la Manito Arriba",
-      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+        "name": "100% Tropical, Vol. 6",
+        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
+      "duration_ms": 199160,
+      "name": "Con la Manito Arriba",
+      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tropicalandia, Vol. II",
         "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 210653,
       "name": "Dime Lo Que Quieras",
       "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "El se\u00f1or de las canas",
+      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
     },
     {
       "added_at": null,

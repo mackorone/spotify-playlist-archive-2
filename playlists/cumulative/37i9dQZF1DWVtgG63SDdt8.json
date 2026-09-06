@@ -92973,6 +92973,24 @@
     },
     {
       "album": {
+        "name": "MATT CROCKER - in lieu of me (Vol. 2)",
+        "url": "https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361200,
+      "name": "Heart Like Heaven - in lieu of me",
+      "url": "https://open.spotify.com/track/1VUaj16xDwJ6Jox7SOqJOL"
+    },
+    {
+      "album": {
         "name": "Heart of God",
         "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
       },

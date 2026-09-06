@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "The Renaissance",
+        "url": "https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv"
+      },
+      "artists": [
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176986,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG"
+    },
+    {
+      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },

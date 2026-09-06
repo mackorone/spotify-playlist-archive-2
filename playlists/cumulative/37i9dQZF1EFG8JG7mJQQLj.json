@@ -4798,7 +4798,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 148120,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -9001,6 +9001,24 @@
     },
     {
       "album": {
+        "name": "Waking Up (International Deluxe Version)",
+        "url": "https://open.spotify.com/album/3oRJOBqBr4bnHqRDw1uEIP"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/0tgnTzjIkj8mVVEh0SNH0t"
+    },
+    {
+      "album": {
         "name": "Waking Up (Deluxe)",
         "url": "https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U"
       },
@@ -9012,7 +9030,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 224680,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1kmex5eDBvfniYJpmmIizl"

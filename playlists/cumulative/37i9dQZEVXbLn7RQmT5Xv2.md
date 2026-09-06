@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,263 songs - 3 day 2 hr 24 min
+1,264 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,7 +468,7 @@
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-11-09 | 2021-12-31 |
 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 | 2023-07-24 | 2023-07-27 |
 | [Law Kont](https://open.spotify.com/track/1CSK54xG8dPzihikUOtrle) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Law Kont](https://open.spotify.com/album/2mZZauOoioNXEuZtNBl0yk) | 3:10 | 2021-06-25 | 2021-09-07 |
-| [LAW NASYANY](https://open.spotify.com/track/2yGYedTBTlRtXzmlrXL4wi) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [LAW NASYANY](https://open.spotify.com/album/0PgOjyhg5YNV5yq4q7PRVK) | 3:05 | 2025-05-31 |  |
+| [LAW NASYANY](https://open.spotify.com/track/2yGYedTBTlRtXzmlrXL4wi) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [LAW NASYANY](https://open.spotify.com/album/0PgOjyhg5YNV5yq4q7PRVK) | 3:05 | 2025-05-31 | 2026-09-06 |
 | [Law Tigi](https://open.spotify.com/track/60zEl2cvjjtDhzF78snIYr) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 4:12 | 2026-02-08 | 2026-05-17 |
 | [LAYALINA](https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [TESH SHABAB](https://open.spotify.com/album/72kwga9yphmifAq4pErvlr) | 3:38 | 2024-06-04 | 2025-12-03 |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-02 | 2022-03-18 |
@@ -1211,6 +1211,7 @@
 | [منافقين](https://open.spotify.com/track/4seQ4caYcDPtkxykPlASYl) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [منافقين](https://open.spotify.com/album/5WCO06ShyeBkVn3He8zIP9) | 3:27 | 2021-10-04 | 2021-12-30 |
 | [منحرفين \( في حضورنا الدنيا بتتشقلب \)](https://open.spotify.com/track/0T61bGOEKCv09tvbbiXb8u) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [منحرفين \( في حضورنا الدنيا بتتشقلب \)](https://open.spotify.com/album/5b1QeLF3IBHdlAtwpn5H3M) | 3:03 | 2024-01-19 | 2024-07-16 |
 | [مهرجان اخواتى](https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Zoka](https://open.spotify.com/artist/18foZksTwFHJIDFX9mBO2H), [Shehta Karika](https://open.spotify.com/artist/5D9oikZ4ncJETBXgLhXSdv) | [مهرجان اخواتى](https://open.spotify.com/album/2kUP4HUqHWNslusZ6Ly5w4) | 2:39 | 2021-03-27\* | 2021-08-15 |
+| [مهرجان الحبس واعر](https://open.spotify.com/track/6nUZYmhiXIvUg2bVsmWLcV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مهرجان الحبس واعر](https://open.spotify.com/album/2oU9kBuWr7QpHMlRFXwOQi) | 5:40 | 2026-09-05 |  |
 | [مهرجان بنكش علي شغله \- واقف علي الامه \- خصمي ده جالي جهتي](https://open.spotify.com/track/2t0LrmYXjzK0ZeVlTcXjvN) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [مهرجان بنكش علي شغله \- واقف علي الامه \- خصمي ده جالي جهتي](https://open.spotify.com/album/3XI4eJc2nvnuOU4m9TYGyk) | 3:00 | 2024-04-10 | 2024-08-02 |
 | [مهرجان سور الجدعان](https://open.spotify.com/track/2kDMo3vCdzD5p5Z8F0lNiE) | [حوده بندق](https://open.spotify.com/artist/2WWQbtOv7LQoOSjE4u2Nzv), [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [مهرجان سور الجدعان](https://open.spotify.com/album/7uxjOr3CnA2oeWyYdSEzyk) | 3:00 | 2021-03-27\* | 2021-03-27 |
 | [مهرجان لعبالي ف دماغي ل توليت](https://open.spotify.com/track/07wHEFQwnd6donropMjBwf) | [Under Ground Scene](https://open.spotify.com/artist/7iG0yJ0vxohsXff1LtLffg) | [مهرجان لعبالي ف دماغي ل توليت](https://open.spotify.com/album/5PdZehvtQsr1jmFZStbSmf) | 1:26 | 2024-08-21 | 2024-08-25 |

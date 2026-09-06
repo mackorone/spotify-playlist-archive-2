@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,262 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,234 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 60 | [Me, Myself & Your Eyes](https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Me, Myself & Your Eyes](https://open.spotify.com/album/3dkh3H211HMotBuF2vMqVk) | 2:42 |
 | 61 | [Try](https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Try](https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp) | 2:16 |
 | 62 | [Get Off My Phone](https://open.spotify.com/track/3BPPsYTaaAluyOGf1yHEQ3) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Get Off My Phone](https://open.spotify.com/album/7LEZe6AZqeh00i89ykLNKX) | 2:48 |
-| 63 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
+| 63 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
 | 64 | [Hearts On The Run](https://open.spotify.com/track/1trMsUW2eHAnh3p5fScmks) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Hearts On The Run](https://open.spotify.com/album/3U1EZvE1sBl6PkUlgDPbka) | 3:08 |
 | 65 | [Lonely Dancers](https://open.spotify.com/track/0QctD9krtPbC8KBOK6hRfb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Lonely Dancers](https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd) | 2:29 |
 | 66 | [Run](https://open.spotify.com/track/6UNe4IwUq0fRBQIFWY7cUZ) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Run](https://open.spotify.com/album/7lQQQkjREMqUXMqQbYDnfm) | 3:27 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 69 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 |
 | 70 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 |
 | 71 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
-| 72 | [I GOT YOU \(feat\. Lauv\)](https://open.spotify.com/track/14FpkTBexkWIoquqluEymo) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/3TACk4OfT9qMdrmqGa23pl) | 3:04 |
+| 72 | [I GOT YOU \(feat\. Lauv\)](https://open.spotify.com/track/14FpkTBexkWIoquqluEymo) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/3TACk4OfT9qMdrmqGa23pl) | 3:04 |
 | 73 | [wintergreen](https://open.spotify.com/track/07W2ZbawBHH3xPRJ5eD6Ih) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [wintergreen](https://open.spotify.com/album/1RHwkiA0IUm65DvpNsoNmN) | 4:01 |
 | 74 | [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 |
 | 75 | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [\(Trust Me Now\) I'm Fine](https://open.spotify.com/album/6bfXbubGntyDwedi7dlq5N) | 3:16 |

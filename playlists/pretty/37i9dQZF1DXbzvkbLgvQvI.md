@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have made it to the top of the charts\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,474 likes - 22 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,493 likes - 22 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

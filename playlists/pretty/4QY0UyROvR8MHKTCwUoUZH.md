@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 32,657 likes - 170 songs - 9 hr 48 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 32,832 likes - 170 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

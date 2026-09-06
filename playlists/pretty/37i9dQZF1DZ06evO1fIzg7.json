@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 21107,
+  "num_followers": 21109,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAABtF046r9m5C48DV+MUU4/f",
+  "snapshot_id": "apoKAAAAAADF1Bc5zW75gnrXnccd3uqU",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2XnpW7dS9Jhf8Y0jUZzwWF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Not Giving Up On Love",
-      "url": "https://open.spotify.com/track/4H2h7b2u800wp186jLGVNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing Without You",
         "url": "https://open.spotify.com/album/4u5hIHqpNIYQeZnKaEpLnH"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 208958,
       "name": "Dancing Without You (feat. Sophie Ellis-Bextor)",
       "url": "https://open.spotify.com/track/2vggUfAlL6HqfFR3wOWrDM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2XnpW7dS9Jhf8Y0jUZzwWF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Not Giving Up On Love",
+      "url": "https://open.spotify.com/track/4H2h7b2u800wp186jLGVNO"
     },
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+        "name": "HANA (Deluxe)",
+        "url": "https://open.spotify.com/album/7qLSaa8bECEnHabElnugub"
       },
       "artists": [
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
         }
       ],
-      "duration_ms": 206734,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/2ThTvDTm6pkB0Upc8orpjz"
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANA (Deluxe)",
-        "url": "https://open.spotify.com/album/7qLSaa8bECEnHabElnugub"
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
       },
       "artists": [
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
         }
       ],
-      "duration_ms": 182799,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk"
+      "duration_ms": 206734,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2ThTvDTm6pkB0Upc8orpjz"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Faith (BBC Session)",
-        "url": "https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "True Faith - BBC Session",
-      "url": "https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 211719,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Faith (BBC Session)",
+        "url": "https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 302106,
+      "name": "True Faith - BBC Session",
+      "url": "https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 243613,
       "name": "Lost in the Sunshine",
       "url": "https://open.spotify.com/track/3RaNrjfoe9NADcR7MgG6NQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 253293,
       "name": "Breaking the Circle",
       "url": "https://open.spotify.com/track/1ik5kPJV8Xuuck5AZQ33v6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
       "duration_ms": 265186,
       "name": "Is It Any Wonder",
       "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Runaway Daydreamer",
+      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Runaway Daydreamer",
-      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Visions, Vol. 1",
         "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Wild Forever",
-      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 289906,
       "name": "Everything is Sweet",
       "url": "https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Wild Forever",
+      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
         "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
     },
     {
       "added_at": null,

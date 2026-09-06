@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,698 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,697 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 80 | [Jesús Es Navidad](https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB) | [Oveja Cosmica](https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6) | [Jesús Es Navidad](https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6) | 2:37 |
 | 81 | [El Niño del Tambor](https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r) | [Ecos](https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7), [Richard Martínez](https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1) | [El Niño del Tambor](https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b) | 3:24 |
 | 82 | [El Primer Noel](https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [El Primer Noel](https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF) | 3:10 |
-| 83 | [La Noche Que Todo Cambió](https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [La Noche Que Todo Cambió](https://open.spotify.com/album/15tJ7kXImie7xyKiaspFNv) | 3:17 |
-| 84 | [Ha Nacido el Rey](https://open.spotify.com/track/4aZIWWQKC2YFlrJIt1291N) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Daniel Vengo](https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW) | [Ha Nacido el Rey](https://open.spotify.com/album/5Uw1d36khu89kHDIQnv9NQ) | 3:35 |
+| 83 | [Ha Nacido el Rey](https://open.spotify.com/track/4aZIWWQKC2YFlrJIt1291N) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Daniel Vengo](https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW) | [Ha Nacido el Rey](https://open.spotify.com/album/5Uw1d36khu89kHDIQnv9NQ) | 3:35 |
+| 84 | [La Noche Que Todo Cambió](https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [La Noche Que Todo Cambió](https://open.spotify.com/album/15tJ7kXImie7xyKiaspFNv) | 3:17 |
 | 85 | [La Promesa](https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC) | [Juan Aponte](https://open.spotify.com/artist/0ygYfTO9oILMIWw0vEpCuJ), [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [La Promesa](https://open.spotify.com/album/7AyGwSDcRKPdiQFMC2Fbbr) | 3:34 |
 | 86 | [Prepara la Navidad](https://open.spotify.com/track/7GSsJgg2Y3o107L9ZjfmrG) | [Luna Eikar](https://open.spotify.com/artist/5eyTtFIbiF5cTHO0pGGPF2), [Ecos](https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7), [Estigma](https://open.spotify.com/artist/6mLNPR21rRe6Fd5lTuhehV), [Valentina Platin](https://open.spotify.com/artist/3frj4y1h8mFg4zXRd7D6RH) | [Prepara la Navidad](https://open.spotify.com/album/1rGvGIBo2mickwPxgGaDIt) | 2:54 |
 | 87 | [Feliz Navidad](https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Feliz Navidad](https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8) | 2:49 |

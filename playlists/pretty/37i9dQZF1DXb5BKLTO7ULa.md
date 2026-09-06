@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Bente, Miley Cyrus, Frsh & Mensa, Froukje, Douwe Bob, ADÉLA en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,375 likes - 105 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,371 likes - 105 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

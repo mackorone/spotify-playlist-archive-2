@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,191 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,204 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 84 | [De La Hoya \- En Vivo en el Luna Park](https://open.spotify.com/track/0hbrmOrw58ZraivbpAFybn) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [De La Hoya \(En Vivo en el Luna Park\)](https://open.spotify.com/album/6NH55kSLjV3SosX8HpyG0W) | 3:50 |
 | 85 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 86 | [De No Olvidar \- En Vivo](https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [De No Olvidar \(En Vivo\)](https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE) | 2:39 |
-| 87 | [Sé Vos \- En Vivo](https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx), [Claudio Marciello](https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr) | [Divididos en Argentinos Juniors \(En Vivo\)](https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP) | 4:53 |
-| 88 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
+| 87 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
+| 88 | [Sé Vos \- En Vivo](https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx), [Claudio Marciello](https://open.spotify.com/artist/4gHjWV2oalYMkHYfBCt3Lr) | [Divididos en Argentinos Juniors \(En Vivo\)](https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP) | 4:53 |
 | 89 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 |
 | 90 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
 | 91 | [Frágil \- En Vivo](https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Frágil \(En Vivo\)](https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq) | 3:20 |

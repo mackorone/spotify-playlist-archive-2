@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV?si=087f02470e9c40cb">Parisalexa</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,336 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,395 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

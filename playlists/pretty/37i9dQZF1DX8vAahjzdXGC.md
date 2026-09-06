@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rony Parulian, Yura Yunita, LISA, For Revenge, YB, Tepe, Miley Cyrus dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,484 likes - 94 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,476 likes - 94 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

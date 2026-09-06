@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Djavan
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,115 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,112 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 77 | [Será se eu vou achar?](https://open.spotify.com/track/3surQmzInpHtbsb8GEcTNg) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Será se eu vou achar?](https://open.spotify.com/album/47Z8c4qDEzvTHiwp4IRChT) | 1:52 |
 | 78 | [SEM DRAMAS](https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw) | [João Bernardo](https://open.spotify.com/artist/29g5s8mPByIGhpfpGN7VfN), [Rubinho Jacobina](https://open.spotify.com/artist/25zJD6x6MLQ0mFBHDrfpDd) | [SEM DRAMAS](https://open.spotify.com/album/0Ijd5FTZoRGfsbqsTAKDrK) | 2:54 |
 | 79 | [A Beleza De Ser](https://open.spotify.com/track/77KUT4cGoNZZwatCZii61P) | [Muca](https://open.spotify.com/artist/0B530ZeLXBaPt7AN3wHNcM), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [A Beleza De Ser](https://open.spotify.com/album/35MiCztNYMVMlVYlifBCzc) | 3:26 |
-| 80 | [PLENA](https://open.spotify.com/track/0PV2Ajb4Lo05x51bWwJFUo) | [Maíra Guedes](https://open.spotify.com/artist/6tvHdAkKWIN9ja4GCWlYMI) | [ENTRELACES](https://open.spotify.com/album/3EhMg4z2miSfE46PjRs4st) | 4:23 |
+| 80 | [Cê Tá pensando Que Eu Sou Loki?](https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9) | [Arnaldo Baptista](https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1), [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Cê Tá pensando Que Eu Sou Loki?](https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I) | 3:14 |
 
 Snapshot ID: `AAAAAPfOIDydGDUVQvZCcQ+Y0xOSUAGK`

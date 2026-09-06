@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,125 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,174 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 49 | [Adiga Adiga \- From "Ninnu Kori"](https://open.spotify.com/track/2ChLs6LH0Kc6h2f7WI2l0w) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Adiga Adiga \(From "Ninnu Kori"\)](https://open.spotify.com/album/1md4f58fUAJK3UoY1qWAVR) | 3:33 |
 | 50 | [Gala Gala Paruthunna](https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L) | [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX) | 4:33 |
 
-Snapshot ID: `AAAAAODIfrfZH0wok+IohUakRfPnKx68`
+Snapshot ID: `AAAAANVgI/SUaD8mhi4zUzaMbrHUKsRW`

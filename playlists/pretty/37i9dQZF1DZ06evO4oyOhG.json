@@ -1,12 +1,12 @@
 {
   "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
-  "num_followers": 18541,
+  "num_followers": 18537,
   "original_name": "This Is CHiCO with HoneyWorks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAC1j5oWsoHrnla04HzM0PzS",
+  "snapshot_id": "apoKAAAAAAA6dOKNyj4nIZ4o7yXqgMr1",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
-        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
-      "url": "https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ab\u30cc\u30ec\u3068\u30a6\u30eb\u30d5",
         "url": "https://open.spotify.com/album/2o1EjieggZ9VGamcRueZWT"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 249133,
       "name": "\u30ab\u30cc\u30ec",
       "url": "https://open.spotify.com/track/5umW5kLDsfpqiSkORbyVbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
+      "url": "https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
-        "url": "https://open.spotify.com/album/3Tebh3yR0Ijcu9umn4LSgx"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 273773,
-      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
-      "url": "https://open.spotify.com/track/2oqR2hCWr6OsTy1Oxq2yOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u919c\u3044\u751f\u304d\u7269",
         "url": "https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 220626,
       "name": "\u919c\u3044\u751f\u304d\u7269",
       "url": "https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/3Tebh3yR0Ijcu9umn4LSgx"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 273773,
+      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+      "url": "https://open.spotify.com/track/2oqR2hCWr6OsTy1Oxq2yOE"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
-        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "\u5e78\u305b\u3002",
-      "url": "https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
         "url": "https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 229573,
       "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
       "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "\u5e78\u305b\u3002",
+      "url": "https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c4\u30a4\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/6XM10Elj8DVFphy72Z8oAr"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb",
+      "url": "https://open.spotify.com/track/0NCm2n0WChA4NygMl3tkBR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
         "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 245306,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3",
       "url": "https://open.spotify.com/track/4fTpi0cXVxpXRAv1i38Lug"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30c4\u30a4\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/6XM10Elj8DVFphy72Z8oAr"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb",
-      "url": "https://open.spotify.com/track/0NCm2n0WChA4NygMl3tkBR"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
-        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "\u30d2\u30ed\u30a4\u30f3\u80b2\u6210\u8a08\u753b",
-      "url": "https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
         "url": "https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 90333,
       "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
       "url": "https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "\u30d2\u30ed\u30a4\u30f3\u80b2\u6210\u8a08\u753b",
+      "url": "https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
-        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
-      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV\u30b5\u30a4\u30baver.",
         "url": "https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 92575,
       "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b\u3000TV size",
       "url": "https://open.spotify.com/track/7e1N6MUiZhwlqmaRUfmEmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
+      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
     },
     {
       "added_at": null,

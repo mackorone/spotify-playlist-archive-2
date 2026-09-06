@@ -4,7 +4,7 @@
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: 新しい学校のリーダーズ
 
-5,417 songs - 13 day 6 hr 35 min
+5,418 songs - 13 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Camera](https://open.spotify.com/track/356ASHe2rEf7gBYby3hDX1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/23UkQx8aKE4IERCFuxpYL0) | 3:35 | 2025-09-12 | 2025-09-27 |
 | [Can do! Can go!](https://open.spotify.com/track/4DmDE2XGY6NZT9TxXJ1Xo5) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [SUPER HEROES](https://open.spotify.com/album/2EKusSn6GDxdPbwR1W9YWX) | 5:03 | 2025-12-05 | 2025-12-13 |
 | [Can I Get A Chee Hoo?](https://open.spotify.com/track/4YV2XVjmC88uUCrjTaRt4k) | [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Moana 2 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sfMOMBaJJyCh9HXdjrocJ) | 2:49 | 2024-12-21 | 2024-12-28 |
+| [CAN I WATCH YOU \(feat\. Pharrell Williams\)](https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:36 | 2026-09-05 |  |
 | [Can You Keep A Secret?](https://open.spotify.com/track/3ZNeHexG9hUvduqJlywq0g) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Distance](https://open.spotify.com/album/4A2UQhhGtYlsD6pMpuW4XR) | 5:08 | 2024-09-06 | 2024-11-02 |
 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 | 2026-06-19 | 2026-06-27 |
 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:15 | 2026-06-26 | 2026-07-04 |

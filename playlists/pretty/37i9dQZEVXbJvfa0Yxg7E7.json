@@ -1,15 +1,55 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 552718,
+  "num_followers": 552735,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mi42eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mi+H+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Halvt forhold",
+        "url": "https://open.spotify.com/album/5INqnHT2aeUNTHNbTZhE3F"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Halvt forhold",
+      "url": "https://open.spotify.com/track/2cTJb0FeHpTw5uhstg1pym"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "ORIO",
+          "url": "https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn"
+        }
+      ],
+      "duration_ms": 220120,
+      "name": "Somebody (feat. The Game)",
+      "url": "https://open.spotify.com/track/1CwFLsHe68fBZRzVwD0by9"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "I takt med deg (feat. Bj\u00f8rn Eidsv\u00e5g)",
         "url": "https://open.spotify.com/album/5k1bYCkpe0dSgwXNzePENq"
@@ -29,7 +69,7 @@
       "url": "https://open.spotify.com/track/0swzY7LDbkMXepuOM9GGKb"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -45,7 +85,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Kom S\u00e5 Tok F\u00e6rdiih",
         "url": "https://open.spotify.com/album/5goLpJ7iebLFLYJXO27Khh"
@@ -61,7 +101,23 @@
       "url": "https://open.spotify.com/track/5MFBAkwrYag4P6LBWtuAk5"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Roc & Wok",
+      "url": "https://open.spotify.com/track/4lbTLPJgG9fwfnyC2j9udc"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -81,7 +137,39 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 118956,
+      "name": "Fuck you pay me",
+      "url": "https://open.spotify.com/track/5sRnPfyRPmOV8ym5h1zkY7"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Drip fra Milan",
+      "url": "https://open.spotify.com/track/5BcdPDGafGKFT3Z4ggAZPS"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "H\u00e5pl\u00f8s",
         "url": "https://open.spotify.com/album/5qampg6B8BB77GrP433F6O"
@@ -101,7 +189,23 @@
       "url": "https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 164919,
+      "name": "Vi er Gucci",
+      "url": "https://open.spotify.com/track/610s2AUzZKFmPM4e1Cro67"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
         "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
@@ -129,7 +233,7 @@
       "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -145,23 +249,7 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Heimakj\u00e6r",
         "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
@@ -177,7 +265,55 @@
       "url": "https://open.spotify.com/track/7tmObcH9iG5Ncv4dYAtVc4"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 117736,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/6rAeQqtVSws5p7qec4KAgn"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Kongesangen",
+        "url": "https://open.spotify.com/album/1QBnjcOndipqfgkwBz9u3J"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 158874,
+      "name": "Kongesangen",
+      "url": "https://open.spotify.com/track/0QG4pu0vjxUsosNWgDqB3u"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Vikingblod (Norway Row Chant)",
         "url": "https://open.spotify.com/album/6U7wwnQ9GrWMj4dCvOXky1"
@@ -197,7 +333,7 @@
       "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Spill For Galleriet",
         "url": "https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb"
@@ -217,55 +353,23 @@
       "url": "https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
       },
       "artists": [
         {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+      "duration_ms": 107846,
+      "name": "Frankrike og Spania",
+      "url": "https://open.spotify.com/track/2IBnEze48Rhqy7C5VuGDuK"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Sjelen",
-        "url": "https://open.spotify.com/album/76g2psUAHym5tZCTINrtAS"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 168930,
-      "name": "Sjelen",
-      "url": "https://open.spotify.com/track/3LF6HIJIFSluSqsbLJJSS5"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/0Pkg2U6eM9f15PN9ZXefNq"
@@ -281,7 +385,87 @@
       "url": "https://open.spotify.com/track/14AJI1RloVWTh8bJe9gBPM"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Roc on Top",
+        "url": "https://open.spotify.com/album/2dV1hPIbGwZrYDKYsKlGeN"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 150139,
+      "name": "Tangier Freestyle",
+      "url": "https://open.spotify.com/track/5pCg22IuzPCFMQm69d97W6"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Heimakj\u00e6r",
+        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 195180,
+      "name": "Du og deg om da",
+      "url": "https://open.spotify.com/track/4Fgv82zo4VNvKPITQCyPFy"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Sjelen",
+        "url": "https://open.spotify.com/album/76g2psUAHym5tZCTINrtAS"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 168930,
+      "name": "Sjelen",
+      "url": "https://open.spotify.com/track/3LF6HIJIFSluSqsbLJJSS5"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
@@ -301,23 +485,7 @@
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Dr\u00f8mmen jeg vil selge",
-        "url": "https://open.spotify.com/album/5qVnxEMGTPKzskjKY7gTNv"
-      },
-      "artists": [
-        {
-          "name": "GOLF",
-          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Damn, du ser bra ut!",
-      "url": "https://open.spotify.com/track/3tnIab6xsuT8Ds8liFDwNV"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
@@ -333,39 +501,23 @@
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "Heimakj\u00e6r",
-        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+        "name": "Dr\u00f8mmen jeg vil selge",
+        "url": "https://open.spotify.com/album/5qVnxEMGTPKzskjKY7gTNv"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "GOLF",
+          "url": "https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm"
         }
       ],
-      "duration_ms": 195180,
-      "name": "Du og deg om da",
-      "url": "https://open.spotify.com/track/4Fgv82zo4VNvKPITQCyPFy"
+      "duration_ms": 193613,
+      "name": "Damn, du ser bra ut!",
+      "url": "https://open.spotify.com/track/3tnIab6xsuT8Ds8liFDwNV"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Henda mot himmelen",
         "url": "https://open.spotify.com/album/7a9nEtYAe7rqDvKuD43l0O"
@@ -381,7 +533,7 @@
       "url": "https://open.spotify.com/track/342fawASzRGGLF1oFqfhtK"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -397,39 +549,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
-        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/5hXlNBMHinSsyPP9RVnqgo"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Kids med opiater",
         "url": "https://open.spotify.com/album/7I897Ffy9uVvncjjyBfaTK"
@@ -445,23 +565,55 @@
       "url": "https://open.spotify.com/track/1iZGMTYKMaCjQ7Cp2pw89Y"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/4ek0oGBCJal4Gxz8zEnMjn"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202460,
+      "name": "Bass Persuades",
+      "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Kors p\u00e5 halsen, ti kniver i hjertet, mor og far i d\u00f8den",
+        "url": "https://open.spotify.com/album/0c4ywEXoeJD05cfV1DwKY7"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hXlNBMHinSsyPP9RVnqgo"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -477,78 +629,10 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "OVERTIME/OVERKILL VOL. 1",
-        "url": "https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 211728,
-      "name": "Paw Patrol",
-      "url": "https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Sulten 2 (Live P\u00e5 Nrk P3)",
-        "url": "https://open.spotify.com/album/31h02rfSebTXcda0sWp9lZ"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Sulten 2 - Live p\u00e5 NRK P3",
-      "url": "https://open.spotify.com/track/2jaExQmapjfEB8Y2TJPmrJ"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "OVERTIME/OVERKILL VOL. 7",
-        "url": "https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL"
-      },
-      "artists": [
-        {
-          "name": "Karpe",
-          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
-        }
-      ],
-      "duration_ms": 166862,
-      "name": "KARPE4LIFE",
-      "url": "https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Heimakj\u00e6r",
-        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
       },
       "artists": [
         {
@@ -556,12 +640,12 @@
           "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 285806,
-      "name": "Heimakj\u00e6r",
-      "url": "https://open.spotify.com/track/0mhrvFXXIzIU5Swq6yQvfS"
+      "duration_ms": 215156,
+      "name": "Fy faen du e deili",
+      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Heimakj\u00e6r",
         "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
@@ -577,7 +661,39 @@
       "url": "https://open.spotify.com/track/4kVQ33VQRcV6spMOI28e4e"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "OVERTIME/OVERKILL VOL. 1",
+        "url": "https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 211728,
+      "name": "Paw Patrol",
+      "url": "https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/2h2KURYW7u2ja9AAJstTdK"
@@ -593,39 +709,87 @@
       "url": "https://open.spotify.com/track/3YJA6qP1OMqMTfGxznhpAR"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+        "name": "OVERTIME/OVERKILL VOL. 7",
+        "url": "https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
         }
       ],
-      "duration_ms": 219924,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
+      "duration_ms": 166862,
+      "name": "KARPE4LIFE",
+      "url": "https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Verdens beste mann",
+        "url": "https://open.spotify.com/album/4y89MESa8dMA0CasvcHXzD"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Verdens beste mann",
+      "url": "https://open.spotify.com/track/0McAszXUDehKdwPGq3xaGO"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Heimakj\u00e6r",
+        "url": "https://open.spotify.com/album/4JEIx9vt8EWKVpfiLyULGD"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 285806,
+      "name": "Heimakj\u00e6r",
+      "url": "https://open.spotify.com/track/0mhrvFXXIzIU5Swq6yQvfS"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
+      "album": {
+        "name": "Sulten 2 (Live P\u00e5 Nrk P3)",
+        "url": "https://open.spotify.com/album/31h02rfSebTXcda0sWp9lZ"
+      },
+      "artists": [
+        {
+          "name": "Karpe",
+          "url": "https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Sulten 2 - Live p\u00e5 NRK P3",
+      "url": "https://open.spotify.com/track/2jaExQmapjfEB8Y2TJPmrJ"
+    },
+    {
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "In medias res",
         "url": "https://open.spotify.com/album/4bxkkziXDHnJnvPvhkkNYW"
@@ -645,26 +809,30 @@
       "url": "https://open.spotify.com/track/1R7KgD8X9lxHheHaizgHBn"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+        "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
       },
       "artists": [
         {
@@ -674,114 +842,10 @@
       ],
       "duration_ms": 189898,
       "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+      "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV"
     },
     {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Heldig",
-        "url": "https://open.spotify.com/album/4Tff2wFQjJ61rgpRI8zwvQ"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145469,
-      "name": "Heldig",
-      "url": "https://open.spotify.com/track/1k2DnlvWmjvlqVEM8vYB6r"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Fy faen du e deili",
-      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "FRI",
-        "url": "https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Fri",
-      "url": "https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
+      "added_at": "2026-09-05 13:25:38",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -795,74 +859,6 @@
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 244013,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-09-04 13:57:21",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     }
   ],
   "unique_name": "Top 50 - Norway",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The party has arrived! 🪩  Cover: Solomun
 
-[Spotify](https://open.spotify.com/user/spotify) - 966,355 likes - 200 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 966,393 likes - 200 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 199 | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Go Getta \(feat\. Nevve\)](https://open.spotify.com/album/71PJa4yS0rt03dc35dHBPy) | 2:35 |
 | 200 | [Aruna Chandra](https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4) | [Mashti](https://open.spotify.com/artist/0c2kLTUTikqUpkRjJOerzf), [Deep Dive Corp.](https://open.spotify.com/artist/2Xn8Gef5Hv2QOWYlXs2gTb), [David Devanagari](https://open.spotify.com/artist/5ht478srSMpYGDtKWMLQO3) | [Aruna Chandra](https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn) | 8:58 |
 
-Snapshot ID: `AAAAALBjx4ydNHxpM4j4x56bgGykIhL+`
+Snapshot ID: `AAAAABGDwbDkyxWIvj4IIQWlZgDlsWfG`

@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1215,
+  "num_followers": 1217,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFw0GMAMN77uTp552fBnnyc5D1dwSp",
+  "snapshot_id": "AAAFxaFrLekXxvjAFqE4F5xv6SbsIHKy",
   "tracks": [
+    {
+      "added_at": "2026-09-05 20:20:23",
+      "album": {
+        "name": "THE ANTIHUMAN",
+        "url": "https://open.spotify.com/album/44oKUMAjGrhafVoeez7ERq"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        },
+        {
+          "name": "Stephanafro",
+          "url": "https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf"
+        }
+      ],
+      "duration_ms": 230150,
+      "name": "THE ANTIHUMAN",
+      "url": "https://open.spotify.com/track/2PLUQi0nRbx5lT2ncSJYYG"
+    },
     {
       "added_at": "2026-09-04 05:17:47",
       "album": {
@@ -2767,22 +2787,6 @@
       "duration_ms": 145562,
       "name": "wanna fucking scream!!!",
       "url": "https://open.spotify.com/track/0ijhbCAMw094d8DlTzjdzx"
-    },
-    {
-      "added_at": "2026-03-05 04:42:47",
-      "album": {
-        "name": "iPop",
-        "url": "https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "iPop",
-      "url": "https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC"
     },
     {
       "added_at": "2026-03-05 04:42:47",

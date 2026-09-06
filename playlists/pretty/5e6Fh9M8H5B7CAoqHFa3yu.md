@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,594 songs - 6 day 8 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,597 songs - 6 day 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2602,5 +2602,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2592 | [Curse](https://open.spotify.com/track/1UYXrUo4FCstxVJhV4wl1k) | [Necessary Evil](https://open.spotify.com/artist/6olIVnTb0JPsX8yhx3LPzZ) | [Curse](https://open.spotify.com/album/1VKW2t9mPymX1bL9YxAKFj) | 3:46 |
 | 2593 | [Memories](https://open.spotify.com/track/5cdy8yH2YaBCDhcuXsTCCa) | [Andrea Marcucci](https://open.spotify.com/artist/5L6UJfnzZU98Fx61wESh0F) | [Postcard to the sky](https://open.spotify.com/album/4UN4Rsu5hkfH2VGaHMs0Vz) | 2:03 |
 | 2594 | [Eu não vou recuar](https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [Mentiras e Clichês](https://open.spotify.com/album/0vutxwSLdsysrh8NgnuxZX) | 3:24 |
+| 2595 | [SPACE TRUMPET](https://open.spotify.com/track/2hoTjOEWccbV7FLupcjTt9) | [GEA MASTER MUSIC](https://open.spotify.com/artist/1Vl0gfcaEnR0LjP5JJT0Cw), [Mario FURCERI](https://open.spotify.com/artist/3qsaLAJI8Rfcrsb4Yn0c9t) | [SPACE TRUMPET](https://open.spotify.com/album/1lUN9FXGsMbh1I2J6I7Z6K) | 2:40 |
+| 2596 | [In The Trap](https://open.spotify.com/track/2GLJ6ix9u9CuQk0iSHv54i) | [Yung Pager](https://open.spotify.com/artist/4GaK4K1SUk1cXNMseEkQvK) | [Things I See In The Dark](https://open.spotify.com/album/5Mjrhi3OnXbqTCEfOQu1R4) | 2:30 |
+| 2597 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
 
-Snapshot ID: `AAALFEzUXO/84b1ZtpmXHFs4mdLO5Nv7`
+Snapshot ID: `AAALFxSGejl/fMV/dvHK9VUirXtDldxl`

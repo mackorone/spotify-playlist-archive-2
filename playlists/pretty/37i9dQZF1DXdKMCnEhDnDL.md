@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes met o.a\. Samuel Welten & Russo\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor zomer aanbevelingen van Spotify!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,675 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,700 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

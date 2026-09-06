@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48800,
+  "num_followers": 48811,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAANw/Vh/FdKzZEG0XOtpbM/",
+  "snapshot_id": "apoKAAAAAACNBo3iZJj5O38QCCSxGwZ8",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALGOAT (Vol. 2 - Extension)",
-        "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
       },
       "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 157682,
-      "name": "CONSUELA (feat. Lola Indigo)",
-      "url": "https://open.spotify.com/track/42bS5n1uKqfeBVwX2gwfCs"
+      "duration_ms": 128136,
+      "name": "POBRE DIABLA - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+        "name": "SALGOAT (Vol. 2 - Extension)",
+        "url": "https://open.spotify.com/album/3HuRVPoyY1YHCjraoejc4g"
       },
       "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 128136,
-      "name": "POBRE DIABLA - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
+      "duration_ms": 157682,
+      "name": "CONSUELA (feat. Lola Indigo)",
+      "url": "https://open.spotify.com/track/42bS5n1uKqfeBVwX2gwfCs"
     },
     {
       "added_at": null,

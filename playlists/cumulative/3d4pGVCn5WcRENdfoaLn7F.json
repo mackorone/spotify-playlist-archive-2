@@ -5473,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "Scattered",
+        "url": "https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3"
+      },
+      "artists": [
+        {
+          "name": "Tess & The Details",
+          "url": "https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182811,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW"
+    },
+    {
+      "album": {
         "name": "Scenes Of Doubt",
         "url": "https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh"
       },
@@ -6277,6 +6295,24 @@
     },
     {
       "album": {
+        "name": "Belshire",
+        "url": "https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S"
+      },
+      "artists": [
+        {
+          "name": "Belshire",
+          "url": "https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176586,
+      "name": "Take the Leap",
+      "url": "https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg"
       },
@@ -6722,6 +6758,24 @@
       "duration_ms": 216913,
       "name": "Timbre!",
       "url": "https://open.spotify.com/track/2bqcz0raQxahQ5TBxNkiXz"
+    },
+    {
+      "album": {
+        "name": "Time (Remix 2026)",
+        "url": "https://open.spotify.com/album/5jDvy3Ma4jvPprn748FIxC"
+      },
+      "artists": [
+        {
+          "name": "Upwood Avenue",
+          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226161,
+      "name": "Time - Remix 2026",
+      "url": "https://open.spotify.com/track/63SCtPUyi5vAvO0lXbF1ib"
     },
     {
       "album": {

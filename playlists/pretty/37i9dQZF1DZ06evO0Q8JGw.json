@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 809826,
+  "num_followers": 809900,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAACKVg76u9/3A5ztaGFPUt/M",
+  "snapshot_id": "apoKAAAAAACq5hYRWK6oZaVX5IWGUpyn",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 206579,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
+      "duration_ms": 240906,
+      "name": "Given to Fly",
+      "url": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Given to Fly",
-      "url": "https://open.spotify.com/track/3vL9lPWBuv0ZR3c5YmdhDl"
+      "duration_ms": 206579,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
     },
     {
       "added_at": null,

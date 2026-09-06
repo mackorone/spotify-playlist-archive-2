@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205761,
+  "num_followers": 205800,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "api4gAAAAAB03MoSc+4KyV7dx7dQTu56",
+  "snapshot_id": "apoKAAAAAAC9asXe1jkm0dTOBJzOQfoI",
   "tracks": [
     {
       "added_at": null,
@@ -234,11 +234,15 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 169466,
-      "name": "Don't Make It Weird",
-      "url": "https://open.spotify.com/track/3BKT8czKVNprINS9cJoBxy"
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/4O0KzEvuPxIT0iom2QOdPO"
     },
     {
       "added_at": null,
@@ -298,15 +302,11 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/4O0KzEvuPxIT0iom2QOdPO"
+      "duration_ms": 169466,
+      "name": "Don't Make It Weird",
+      "url": "https://open.spotify.com/track/3BKT8czKVNprINS9cJoBxy"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 168186,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
+      "duration_ms": 155546,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 155546,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
+      "duration_ms": 168186,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
     },
     {
       "added_at": null,

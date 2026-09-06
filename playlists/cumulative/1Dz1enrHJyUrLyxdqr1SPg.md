@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-155 songs - 9 hr 5 min
+156 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Be You Be Free](https://open.spotify.com/track/5phf4Zxqk9FcionYenV6Yn) | [William Lovitt](https://open.spotify.com/artist/3pRnaBrTzlzx4y4jQMNmmM), [Joao Aranha](https://open.spotify.com/artist/0hG5GVevl4WdFRwYXGvU4Z) | [Be You Be Free](https://open.spotify.com/album/0JaHm1Xp4XLs0xuLNRqH4F) | 4:22 | 2025-10-06 |  |
 | [Because](https://open.spotify.com/track/280z9V1uF3p7BFlChRihFN) | [New Artist Spotlight](https://open.spotify.com/artist/1Yk912s46hRDu0aEvLG8WO) | [Because](https://open.spotify.com/album/6e647ugjUW5ZaYtULL0z77) | 2:44 | 2023-10-12 |  |
 | [Better by You](https://open.spotify.com/track/3ix8181xinNXDEGp5OISPl) | [Lightbringers](https://open.spotify.com/artist/52UxMxuSqklbokL4qlhA1u) | [Better by You](https://open.spotify.com/album/1H6z6N4irGBcP97IrP3Edy) | 3:26 | 2026-02-01 | 2026-03-25 |
+| [borderlinda](https://open.spotify.com/track/25bFm5HNIsoITlsQG1URVd) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [Danos](https://open.spotify.com/artist/6lWSNaLlIITAVNO0u76ikK), [Marvy](https://open.spotify.com/artist/5gxMLATm0iC82ZFLfXOYu5), [Subkronos](https://open.spotify.com/artist/0b21fbAWFf7T2eFKZtE3vr), [Zaratu$tra](https://open.spotify.com/artist/1MfpD66gW14yrNNdgqcCzZ) | [borderlinda](https://open.spotify.com/album/5C9snPTfbJX9gDGhtEvXxv) | 2:55 | 2026-09-05 |  |
 | [Burst \- ANNA Remix](https://open.spotify.com/track/4rX5gDjEDNj1jUWR2mq6sV) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Burst \(ANNA Remix\)](https://open.spotify.com/album/1bVcpOwHIrXjWKNouJ7ybL) | 5:43 | 2025-10-02 | 2026-02-02 |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-11-15 | 2025-12-17 |
 | [Centelha de Amor](https://open.spotify.com/track/4Zd1Eq4BdxnoUbB2s0dhXE) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq), [Aurélie Perenon](https://open.spotify.com/artist/5PlFthPPNgUrotkALMXy2f) | [Centelha de Amor](https://open.spotify.com/album/5CbGYHt9QZsQg4rgiNGRRK) | 3:10 | 2026-06-09 |  |
@@ -161,7 +162,7 @@
 | [Which Way Home](https://open.spotify.com/track/5gypSjbATM00GdWh4VoKl2) | [Simon Watt](https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx) | [Which Way Home](https://open.spotify.com/album/1IIFgNoe9XmkCVCFuIKeta) | 3:20 | 2026-09-02 |  |
 | [Wolves](https://open.spotify.com/track/3h62Tcs3q8Qmo9K9REysqQ) | [Ed Eagle](https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO) | [Wolves](https://open.spotify.com/album/0wn5DXaA0lK1AMFJG1mpa6) | 2:34 | 2024-03-25 | 2026-08-31 |
 | [You & Me](https://open.spotify.com/track/42YZUlJ7WYDUaizdQl8YNb) | [Silfredim](https://open.spotify.com/artist/6Xtosjg7neuDwse58cH35k) | [You & Me](https://open.spotify.com/album/1xrAmpcP8ioLKfu6d1SH0i) | 3:57 | 2025-01-15 | 2026-08-31 |
-| [жол \(Listen To Your Heart\)](https://open.spotify.com/track/6ojRITs2gacBxJVL7Wmm2Y) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [Zhibek](https://open.spotify.com/artist/07DqPKYvP6TaLnR5UdvlQt) | [жол \(Listen To Your Heart\)](https://open.spotify.com/album/3gcN0DZ4RHc9drJoZhQOWz) | 2:35 | 2025-10-02 |  |
+| [жол \(Listen To Your Heart\)](https://open.spotify.com/track/6ojRITs2gacBxJVL7Wmm2Y) | [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12), [Zhibek](https://open.spotify.com/artist/07DqPKYvP6TaLnR5UdvlQt) | [жол \(Listen To Your Heart\)](https://open.spotify.com/album/3gcN0DZ4RHc9drJoZhQOWz) | 2:35 | 2025-10-02 | 2026-09-06 |
 | [僕らが深淵を見つめる時](https://open.spotify.com/track/26qirU9CiQOA6Zn9TBEH8f) | [the knowlus](https://open.spotify.com/artist/70vlgJquNhdPuT4wxA4ZK0) | [Discovery Age](https://open.spotify.com/album/05ZegbnowJljzfzXxV9WOD) | 4:13 | 2025-11-15 | 2025-12-17 |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

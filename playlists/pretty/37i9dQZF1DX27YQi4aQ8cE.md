@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain]
 
 > The most calming Christmas carols.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,435 likes - 82 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,432 likes - 82 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27YQi4aQ8cE.md) - [plain]
 | 37 | [Traditional: What Child Is This](https://open.spotify.com/track/1zryOtzpix1qwxRgraBHUB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No) | [Christmas At King's](https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe) | 2:30 |
 | 38 | [Star in the South](https://open.spotify.com/track/2HxO75cQo1QyBf3rI5dz6b) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Elora Singers](https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5), [Noel Edison](https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy) | [The Mystery of Christmas](https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr) | 3:20 |
 | 39 | [Jenkins: Stella Natalis: VI\. Sleep, Child of Winter](https://open.spotify.com/track/3hU2pSOsUBtUezr6xb1NGd) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [Marylebone Camerata](https://open.spotify.com/artist/7j6XlvDkbjqvFG55DCR9yH) | [Karl Jenkins: Stella Natalis](https://open.spotify.com/album/0PVHSzFASVJFbVZ4mqlu1u) | 3:27 |
-| 40 | [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 |
+| 40 | [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 |
 | 41 | [Lute\-Book Lullaby](https://open.spotify.com/track/4b4HmjKdUMyPJAJIW5F4vk) | [Alexander L'Estrange](https://open.spotify.com/artist/2eFJSe6qUgbxf6PL8PleSv), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [Nigel Short](https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN) | [Mother and Child](https://open.spotify.com/album/4Vr0SCzTyAaoaUUCnXjQ5z) | 4:17 |
 | 42 | [An earthly tree](https://open.spotify.com/track/6AD61H8CvyRXHA6Q7VmNn3) | [William Byrd](https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z), [Bill Ives](https://open.spotify.com/artist/1ws7vS2R54XHe6xGDwu3Iy), [The Choir of Magdalen College, Oxford](https://open.spotify.com/artist/1iZZQ9LJg4rERzOzLwjkRW) | [All is calm, all is bright: Christmas Favourites](https://open.spotify.com/album/1iZ1KxdIxMKFfMTQubz4tg) | 4:41 |
 | 43 | [Coventry Carol](https://open.spotify.com/track/2NmRUcPkeOraxzVf8E3sRV) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Choirboys](https://open.spotify.com/artist/3ZtRtJV4yZOmdWjywEjNND), [Martin Neary](https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk) | [The Carols Album](https://open.spotify.com/album/3hO4MXCVnMuu85jGOnx6IH) | 3:36 |

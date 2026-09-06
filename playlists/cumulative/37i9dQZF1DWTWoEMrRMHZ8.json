@@ -5945,6 +5945,28 @@
     },
     {
       "album": {
+        "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+        "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Baptista",
+          "url": "https://open.spotify.com/artist/2REKDL7LGR2EuiQaJEZVb1"
+        },
+        {
+          "name": "Sandra S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194281,
+      "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
+      "url": "https://open.spotify.com/track/1UFqBkfCFZUMKIaF2wSAy9"
+    },
+    {
+      "album": {
         "name": "D'Ouro Brilhante",
         "url": "https://open.spotify.com/album/6IOEwWmfVCUPAuYw2miAlv"
       },
@@ -17232,7 +17254,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 263333,
       "name": "PLENA",
       "url": "https://open.spotify.com/track/0PV2Ajb4Lo05x51bWwJFUo"

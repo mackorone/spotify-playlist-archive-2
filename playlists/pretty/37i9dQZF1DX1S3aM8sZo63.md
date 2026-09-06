@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > Así como lo pediste, ponte cursi con las canciones más románticas\. Joss Favela en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,866 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,778 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 117 | [Te Quiero Así](https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Vencedor](https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe) | 2:51 |
 | 118 | [Un Día Especial](https://open.spotify.com/track/77nflbzz9pU6CbwU316WQB) | [Banda La Tunera](https://open.spotify.com/artist/3Gm7OsNtRLLuJNGbsm3X1W) | [Un Día Especial](https://open.spotify.com/album/5cZaT2UGdSFJw3VeZ5JpHE) | 2:52 |
 | 119 | [Quédate conmigo esta noche](https://open.spotify.com/track/4avtdDHWHv8NVuY5fOJn7e) | [Los Alvarado](https://open.spotify.com/artist/4GfywMlztnQFR7cmCqCigT) | [Corazones de Amor](https://open.spotify.com/album/1wl8ZMdTUdx0f2XtcwaeTn) | 3:33 |
-| 120 | [Simbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
-| 121 | [Ranchero Enamorado](https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Nacimos Pa' Ser Historia](https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z) | 2:57 |
+| 120 | [Ranchero Enamorado](https://open.spotify.com/track/4wQCG04ViRJEzTK8BQIvTQ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Nacimos Pa' Ser Historia](https://open.spotify.com/album/2ugVjmD8o9P4Gyn4mfVF8z) | 2:57 |
+| 121 | [Simbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
 | 122 | [Romántico Incurable](https://open.spotify.com/track/2Fau1qHNJKLCKHQdxxWZkI) | [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Romántico Incurable](https://open.spotify.com/album/7KhdmbkTi55OpeFPSLNQCH) | 3:25 |
 | 123 | [Hecha Pa' Mí](https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mí](https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF) | 3:15 |
 | 124 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |

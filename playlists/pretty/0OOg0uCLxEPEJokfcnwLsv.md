@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,274 likes - 72 songs - 4 hr 17 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,279 likes - 76 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 70 | [Hold On](https://open.spotify.com/track/1HSmYf0HuCsL2pwxvfFMsT) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Hold On](https://open.spotify.com/album/6ahhFqtnECetFvpPD1J2E5) | 2:30 |
 | 71 | [Give Me a Break](https://open.spotify.com/track/55kskxis0fWDhYoCbIWYDo) | [LIGHTNING GUSTO](https://open.spotify.com/artist/3pb57MwbWCOuP4GXMq2ngs) | [Give Me a Break](https://open.spotify.com/album/7LPBeqTDtBKfYsdpyYOF7E) | 4:16 |
 | 72 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 |
+| 73 | [Scattered](https://open.spotify.com/track/0tL3QRkN69SWIk70D4O6JW) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Scattered](https://open.spotify.com/album/5Ld4XkfMwIrsqcgZSvJPb3) | 3:02 |
+| 74 | [Daddy's Gone Disco](https://open.spotify.com/track/7BZ8YBm77VL9zypVjmal1C) | [Things We Built](https://open.spotify.com/artist/6nR593jw3f16T3dZ6r5naC) | [Daddy's Gone Disco](https://open.spotify.com/album/28r190G1W5ObFumX3uwrn3) | 4:24 |
+| 75 | [Falling to the Ground](https://open.spotify.com/track/75jXRd8mzVECXIOtCvbyg8) | [Skags](https://open.spotify.com/artist/3C0AhBs8F5zmWqpbSgi8ux) | [Falling to the Ground](https://open.spotify.com/album/5VxYxFcTOmQklzSyd6suRf) | 5:41 |
+| 76 | [Take a Bow](https://open.spotify.com/track/4ND8DEQp5Ea3Ynl5g93pbO) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:46 |
 
-Snapshot ID: `AAAG7sv6mBv+n6c6YlmapXR7jvbsz1Ol`
+Snapshot ID: `AAAG8sQONL2nntx4HlRGtsakyVgX1ZwU`

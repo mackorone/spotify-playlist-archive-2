@@ -5311,6 +5311,36 @@
     },
     {
       "album": {
+        "name": "APROVEITAR",
+        "url": "https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "VISIONARE",
+          "url": "https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156992,
+      "name": "APROVEITAR",
+      "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
+    },
+    {
+      "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
       },
@@ -14568,7 +14598,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 125607,
       "name": "DEN PERIMENO",
       "url": "https://open.spotify.com/track/1nIWRMn3K3uhzoQMHUCO56"
@@ -29907,6 +29937,28 @@
     },
     {
       "album": {
+        "name": "KILLING SPREE",
+        "url": "https://open.spotify.com/album/2wVVFpNqKrpO0icBGSDmE2"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "mi368",
+          "url": "https://open.spotify.com/artist/5WpPX5v61a9sDy6lXDkQiK"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109179,
+      "name": "KILLING SPREE",
+      "url": "https://open.spotify.com/track/3aKTKJIsov1jUMM7yLJNCc"
+    },
+    {
+      "album": {
         "name": "Kilo",
         "url": "https://open.spotify.com/album/1kijBe1jER0mwzk4H8LDXm"
       },
@@ -32690,7 +32742,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 213120,
       "name": "LETE LETE",
       "url": "https://open.spotify.com/track/6wNjJ10ZAdbyp5LzhOPsEh"
@@ -43963,6 +44015,24 @@
     },
     {
       "album": {
+        "name": "Pagkosmia Mera Tou Psefti",
+        "url": "https://open.spotify.com/album/3U8IZ1XAqeGgZN4a3HMHbT"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165239,
+      "name": "Pagkosmia Mera Tou Psefti",
+      "url": "https://open.spotify.com/track/0ZDl7l9iD4fidIBIkjQrl9"
+    },
+    {
+      "album": {
         "name": "Millennials",
         "url": "https://open.spotify.com/album/6rD5QiewGfJamw4x7vlDbc"
       },
@@ -51651,6 +51721,32 @@
     },
     {
       "album": {
+        "name": "Septemvris",
+        "url": "https://open.spotify.com/album/0Q2NqyFl31uiuYDRXJ4fo2"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Koraki",
+          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
+        },
+        {
+          "name": "Sativa",
+          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+        }
+      ],
+      "date_added": "2026-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170434,
+      "name": "Septemvris",
+      "url": "https://open.spotify.com/track/3Y0YYhDOFz5QfPB5EhTPLc"
+    },
+    {
+      "album": {
         "name": "SERBIAN FREESTYLE",
         "url": "https://open.spotify.com/album/3olkfjArml6atN7UtnoyCj"
       },
@@ -51996,7 +52092,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 133287,
       "name": "SHOWTIME",
       "url": "https://open.spotify.com/track/7y5vrGkdMOZYah82pzwNoc"
@@ -58752,7 +58848,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-06",
       "duration_ms": 147614,
       "name": "TO KANA EGW",
       "url": "https://open.spotify.com/track/4nMv3MoLXJaDzu6cU4TrTx"

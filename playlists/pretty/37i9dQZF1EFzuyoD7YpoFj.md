@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 388 songs - 19 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 388 songs - 19 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 72 | [Kix](https://open.spotify.com/track/6s4nIOzHT88J33ISCDaT5n) | [The Real Tuesday Weld](https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2) | [The London Book Of The Dead](https://open.spotify.com/album/70HZhEQ9ugOvQURLwWjE3c) | 3:00 |
 | 73 | [The Laziest Gal In Town](https://open.spotify.com/track/6ANXBK3HVFEnBjw0UqjrwH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Broadway\-Blues\-Ballads](https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J) | 2:16 |
 | 74 | [Come To The Supermarket \(In Old Peking\)](https://open.spotify.com/track/2ow3kvWNcnOf3DrPppaCzL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 1:55 |
-| 75 | [Now You Has Jazz](https://open.spotify.com/track/777WXO13DfNM1OOittSk3k) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Bing In Dixieland](https://open.spotify.com/album/2JTF56lSwuyv6BiMXumawL) | 3:41 |
+| 75 | [Now You Has Jazz](https://open.spotify.com/track/3KK0Wyaxhi4SwTSL8vrNiD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Bing In Dixieland](https://open.spotify.com/album/1ZCljzvTaBOB92AUbvPFt6) | 3:41 |
 | 76 | [Who Wants To Be A Millionaire](https://open.spotify.com/track/6OMMZBlodSQh14cyBxSNZ3) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Celeste Holm](https://open.spotify.com/artist/6hDtmqaHJfVhDj48VTtWeb) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:07 |
 | 77 | [Give Him The Ooh\-La\-La](https://open.spotify.com/track/0ghtS4w1pSxPrlpCoLrXhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:41 |
 | 78 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 132 | [Solid Old Man](https://open.spotify.com/track/6sfeBXA7aVlE6xv2zmBVT2) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [Djangologie Vol8 / 1937 \- 1938](https://open.spotify.com/album/4NyzXq4mgVy0XJZMBei6Nb) | 3:03 |
 | 133 | [High Heeled Shoes](https://open.spotify.com/track/0MVu6AEIq4AxfiiXHaTLpo) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:20 |
 | 134 | [Kiss Me, Kate](https://open.spotify.com/track/26opGuN3ZdAVST2RRqWio2) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:54 |
-| 135 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
-| 136 | [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 |
+| 135 | [Only Another Boy And Girl](https://open.spotify.com/track/2h9JNdBkcpqA4FOO1Wb8cG) | [Benny Goodman](https://open.spotify.com/artist/6jrpiwzsuxDlBQwrwdjQPI) | [Grandes del Jazz](https://open.spotify.com/album/6BOf6MCKDP2ZmjU7SuVndm) | 2:59 |
+| 136 | [Why Don't We Try Staying Home?](https://open.spotify.com/track/7EQzuOEoDBH5hP6UYAeY1B) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [Easy To Love: The Songs Of Cole Porter](https://open.spotify.com/album/3NnFEdQ57OGL55VSFa045Q) | 4:26 |
 | 137 | [After You](https://open.spotify.com/track/7eAutsdYIf4BfDk8xlDeIX) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Merrill At Midnight](https://open.spotify.com/album/0mjrxHCEFCY9EbXJNnh6D9) | 3:04 |
 | 138 | [The Cocktail Party](https://open.spotify.com/track/6xTtj1qK9RhyrdcHHNlYDl) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:26 |
 | 139 | [I've Come To Wive It Wealthily In Padua](https://open.spotify.com/track/5T0i46U2lhpQwSwpS5tagh) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 2:09 |
@@ -397,4 +397,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 387 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 388 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Acbb/AAAAADcSS1T8f/HwlqHmbdq7dFS`
+Snapshot ID: `AcbhnAAAAACiubRANWwWYQ7BQmBEtHUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Angus & Julia Stone, Miley Cyrus, Nemzzz, Travis Scott, ADELA, Drax Project + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,839 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,830 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
