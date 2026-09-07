@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Bahadır Tatlıöz
 
-726 songs - 1 day 12 hr 54 min
+727 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 | 2025-07-18 |
 | [Görmeyeli](https://open.spotify.com/track/3kUWBHDjX87A7TcqlazzaB) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/0Y1iRff0MBlxV8v8RdcFxL) | 3:00 | 2025-10-23 | 2025-11-06 |
 | [Göz Nazına Hayran](https://open.spotify.com/track/6rmZTCqenih3PIhK32TCjB) | [Bahadır Sağlam](https://open.spotify.com/artist/60MyIKYA3yY1lGNroaZIgT) | [Göz Nazına Hayran](https://open.spotify.com/album/7qBriuCCLNHCiUU7RojjWX) | 3:10 | 2026-09-03 |  |
-| [Gözlerimde Duman](https://open.spotify.com/track/74e7Bi3qKrfOK5MeSpoiBd) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Gözlerimde Duman](https://open.spotify.com/album/5cf6wDVgGZAucMHHAxAfSY) | 2:21 | 2026-08-06 |  |
+| [Gözlerimde Duman](https://open.spotify.com/track/74e7Bi3qKrfOK5MeSpoiBd) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Gözlerimde Duman](https://open.spotify.com/album/5cf6wDVgGZAucMHHAxAfSY) | 2:21 | 2026-08-06 | 2026-09-07 |
 | [Gözlerin Lazım](https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70) | [Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg), [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Gözlerin Lazım](https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9) | 2:59 | 2026-05-22 | 2026-06-26 |
 | [Gözlerin Mi Kör](https://open.spotify.com/track/1V2arQmSShZEVzUUJ9Dadb) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Gözlerin Mi Kör](https://open.spotify.com/album/5i3RBmhxERr8nlQxXu8cuz) | 2:20 | 2026-08-06 |  |
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
@@ -350,6 +350,7 @@
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 | 2026-01-30 |
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 | 2024-07-12 |
 | [İnsafsız](https://open.spotify.com/track/1P7WHzVwySxV7alzZbNanc) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [İnsafsız](https://open.spotify.com/album/2FpsZbGaNQv6l04ILFNbLn) | 2:55 | 2026-07-30 |  |
+| [İnsan](https://open.spotify.com/track/58QAd5xwlF1UdXTnTkLEKr) | [Sancak](https://open.spotify.com/artist/3IiSjfHNSsynS08uC6w9u3) | [İnsan](https://open.spotify.com/album/65pvwSCbcA14zDrSr7K00V) | 3:33 | 2026-09-03 |  |
 | [İnsan Bir Kez Sever](https://open.spotify.com/track/0lSNpLC0AkrAOrrKyOEPrN) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [İnsan Bir Kez Sever](https://open.spotify.com/album/3nhg03tCneUsiGg4gD6Rhe) | 2:03 | 2025-10-23 | 2025-11-30 |
 | [İSTANBUL](https://open.spotify.com/track/6xOhxdZoXtXedXeMghzcO5) | [İlyas Yalçıntaş](https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M), [Ayten Rasul](https://open.spotify.com/artist/784g9MQOlPNaCUJgJvsS0M) | [İSTANBUL](https://open.spotify.com/album/1YYXkpcSXnC11Ahah3VRNB) | 3:16 | 2026-07-02 | 2026-07-24 |
 | [İstanbul](https://open.spotify.com/track/26PKuN6hIn3O1zK7aF59CS) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [İstanbul](https://open.spotify.com/album/2ZgbgDLVJtHOEcGVpeVhf3) | 2:40 | 2026-03-05 | 2026-04-03 |

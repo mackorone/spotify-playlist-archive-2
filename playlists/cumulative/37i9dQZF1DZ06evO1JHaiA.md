@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 49 min
+91 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,11 +49,12 @@
 | [I Hope That We Can Be Together Soon \- Live](https://open.spotify.com/track/3lOtLeKb5DSyOROzldhUTz) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 4:48 | 2022-05-25 | 2026-04-14 |
 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 | 2022-05-25 |  |
 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 | 2022-05-25 |  |
-| [I'm Calling](https://open.spotify.com/track/3RjcNNuyAWYXmrulaD21CF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Rare Doo Wop, Vol\. 4](https://open.spotify.com/album/5VP0K1yc9SneXKF6KAnZd3) | 2:20 | 2022-05-25 |  |
+| [I'm Calling](https://open.spotify.com/track/3RjcNNuyAWYXmrulaD21CF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Rare Doo Wop, Vol\. 4](https://open.spotify.com/album/5VP0K1yc9SneXKF6KAnZd3) | 2:20 | 2022-05-25 | 2026-09-07 |
 | [I'm Glad Your're My Girl](https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:45 | 2022-05-28 | 2026-09-01 |
 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 | 2022-08-07 |  |
 | [If You Don't Know Me By Now \- Live](https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:44 | 2022-05-26 | 2026-05-31 |
 | [It Must Be Love](https://open.spotify.com/track/1zBKJIhcErReXXjAW1YWrY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 | 2022-06-19 | 2025-07-19 |
+| [I’m Calling](https://open.spotify.com/track/7xF23dRKwrqSyqY6EYCOFF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Calling](https://open.spotify.com/album/00qfRHWJHUDbACVn7H373W) | 2:18 | 2026-09-07 |  |
 | [I’m Sold on You](https://open.spotify.com/track/7lGyHxdp14qdveB9CSuGUx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Sold on You](https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5) | 2:03 | 2026-08-31 |  |
 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 | 2022-05-26 | 2024-04-28 |
 | [Jack Be Nimble \- Alternate Version](https://open.spotify.com/track/1tNdYOP8DaMx3lmqjQnmWI) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:55 | 2025-07-11 | 2025-12-04 |

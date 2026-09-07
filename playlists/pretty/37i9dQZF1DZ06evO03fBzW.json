@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122642,
+  "num_followers": 122651,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABMyK456yx82+Qnfm0yKE8q",
+  "snapshot_id": "aptbgAAAAAAMpbeFTkuZlb3X8YDYtIwu",
   "tracks": [
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
+      "duration_ms": 269666,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL"
+      "duration_ms": 228840,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
       "duration_ms": 45640,
       "name": "BND",
       "url": "https://open.spotify.com/track/67zScJlCZAhJsIMCYyDSbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/6ODiIJASdmYZwoyhLhUz7c"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        },
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/58ulODLlgkcE9I4z5B5vrG"
     },
     {
       "added_at": null,

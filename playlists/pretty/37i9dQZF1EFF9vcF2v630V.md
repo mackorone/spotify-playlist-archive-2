@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 16 | [Wonderland](https://open.spotify.com/track/2nLS48VLLSsZTw2e4bVJ8o) | [Roxen](https://open.spotify.com/artist/6KCxe5mJlHDJlKEXbNFLsP), [Alexander Rybak](https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM) | [Wonderland](https://open.spotify.com/album/282XaxNiNZggEVcTusGRTt) | 2:50 |
 | 17 | [Looking To Love](https://open.spotify.com/track/4FsYQpa38VDIUFdYqU0EYu) | [Nick Talos](https://open.spotify.com/artist/5pCzC0BOLY2MpqYr1qksg2), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Looking To Love](https://open.spotify.com/album/2zCt9h73d9uznlQSibu6Qh) | 3:20 |
 | 18 | [Honey](https://open.spotify.com/track/4T3nfbJ0G6uwNOdhygapfu) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 3:21 |
-| 19 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 |
-| 20 | [I Will Fight](https://open.spotify.com/track/0X1bdT5WEYL2wtAvNDsbt9) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:58 |
+| 19 | [I Will Fight](https://open.spotify.com/track/0X1bdT5WEYL2wtAvNDsbt9) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:58 |
+| 20 | [Birthday Suit](https://open.spotify.com/track/41DBopd0o6IX2N8sjTE0AJ) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:56 |
 | 21 | [Million Miles](https://open.spotify.com/track/1Y7GyVbTNyIVBJr25hmVxm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:28 |
 | 22 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
 | 23 | [Deeper](https://open.spotify.com/track/5jjrkICQClyeRDLb3Ua9yy) | [Holly Rey](https://open.spotify.com/artist/2teot2ghPZBwv4qpVBpE0B) | [Deeper](https://open.spotify.com/album/5Y0RHd4r6F4Yu24fZplDxi) | 5:12 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 76 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 | 77 | [Lose Your Love](https://open.spotify.com/track/1ZcoivP306CXMsTrraieyl) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Lose Your Love](https://open.spotify.com/album/36h0O23tuHkodL6puWYbII) | 2:39 |
 
-Snapshot ID: `AcbhiAAAAACXpwTO/vITtWOw8Zp6eb2f`
+Snapshot ID: `AcbnKAAAAACNqwIqBfw24anEVpQSxmp/`

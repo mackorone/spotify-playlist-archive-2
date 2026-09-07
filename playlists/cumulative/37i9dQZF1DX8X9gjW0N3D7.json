@@ -3481,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+    },
+    {
+      "album": {
         "name": "Huby boy",
         "url": "https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN"
       },
@@ -10616,7 +10634,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 202493,
       "name": "verres fum\u00e9s",
       "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"

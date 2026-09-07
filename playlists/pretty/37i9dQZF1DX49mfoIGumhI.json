@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 284595,
+  "num_followers": 284689,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -171,8 +171,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -427,26 +427,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 389560,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 389560,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/6FYc1CMNHZYfJeN9h0N7xR"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Te Regalo el Corazon",
+      "url": "https://open.spotify.com/track/6aUDFm5EBgpKJnzzIosTla"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/6FYc1CMNHZYfJeN9h0N7xR"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Te Regalo el Corazon",
-      "url": "https://open.spotify.com/track/6aUDFm5EBgpKJnzzIosTla"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "2 Generaciones de Salsa",
+        "url": "https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 310831,
+      "name": "El Baile del Suavecito",
+      "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 313533,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "2 Generaciones de Salsa",
-        "url": "https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        },
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 310831,
-      "name": "El Baile del Suavecito",
-      "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 317573,
       "name": "Caradura",
       "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2024-07-11 00:51:42",

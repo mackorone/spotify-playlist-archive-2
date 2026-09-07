@@ -6,7 +6,7 @@
     "name": "enilsounds",
     "url": "https://open.spotify.com/user/enilsounds"
   },
-  "snapshot_id": "AABjtpNLhW7zoIDYQX7McXAHVz6oYd0z",
+  "snapshot_id": "AABjwa5bQfdAOBq1eBH5jWJ1bbcWDTlC",
   "tracks": [
     {
       "added_at": "2026-08-21 11:52:39",
@@ -25,20 +25,44 @@
       "url": "https://open.spotify.com/track/79yxkSM5D7qDqgPmePLdwt"
     },
     {
-      "added_at": "2026-09-03 19:14:07",
+      "added_at": "2026-09-06 15:47:12",
       "album": {
-        "name": "Course of the River II",
-        "url": "https://open.spotify.com/album/2tFdBog1x4Kla6Nvgj3NvX"
+        "name": "All You Gotta Do",
+        "url": "https://open.spotify.com/album/6Q018bYSyWncxumV3rtsKR"
       },
       "artists": [
         {
-          "name": "Paul Vens & Friends",
-          "url": "https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0"
+          "name": "Rose Finn",
+          "url": "https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz"
+        },
+        {
+          "name": "John Marcangelo",
+          "url": "https://open.spotify.com/artist/5E0C5ReMoqVNLro0dk6DJA"
+        },
+        {
+          "name": "Tom Tyson",
+          "url": "https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV"
         }
       ],
-      "duration_ms": 260798,
-      "name": "Course of the River II",
-      "url": "https://open.spotify.com/track/1Ym7uKRF82D9igPwtV3ciA"
+      "duration_ms": 191533,
+      "name": "All You Gotta Do",
+      "url": "https://open.spotify.com/track/4ww7cwczyHSTRag9sBhrU5"
+    },
+    {
+      "added_at": "2026-09-06 15:52:51",
+      "album": {
+        "name": "Swan Song",
+        "url": "https://open.spotify.com/album/14fIqvkGWIYQPfZ3omx8Fo"
+      },
+      "artists": [
+        {
+          "name": "Valeryan",
+          "url": "https://open.spotify.com/artist/4dBnn8oYs431SPtflMrIaj"
+        }
+      ],
+      "duration_ms": 263454,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/1ISCNU8HMf4JM2kprnOjHt"
     },
     {
       "added_at": "2026-09-05 19:08:38",
@@ -73,6 +97,22 @@
       "url": "https://open.spotify.com/track/25bFm5HNIsoITlsQG1URVd"
     },
     {
+      "added_at": "2025-08-21 21:49:12",
+      "album": {
+        "name": "My Weary Heart",
+        "url": "https://open.spotify.com/album/18UwIqxfWSZhb08S8erIRq"
+      },
+      "artists": [
+        {
+          "name": "ENILSounds",
+          "url": "https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF"
+        }
+      ],
+      "duration_ms": 239911,
+      "name": "My Weary Heart",
+      "url": "https://open.spotify.com/track/0afp9RSQvTz1IWyD0bT9JL"
+    },
+    {
       "added_at": "2026-06-09 16:45:41",
       "album": {
         "name": "Centelha de Amor",
@@ -95,6 +135,22 @@
       "duration_ms": 190120,
       "name": "Centelha de Amor",
       "url": "https://open.spotify.com/track/4Zd1Eq4BdxnoUbB2s0dhXE"
+    },
+    {
+      "added_at": "2026-09-03 19:14:07",
+      "album": {
+        "name": "Course of the River II",
+        "url": "https://open.spotify.com/album/2tFdBog1x4Kla6Nvgj3NvX"
+      },
+      "artists": [
+        {
+          "name": "Paul Vens & Friends",
+          "url": "https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0"
+        }
+      ],
+      "duration_ms": 260798,
+      "name": "Course of the River II",
+      "url": "https://open.spotify.com/track/1Ym7uKRF82D9igPwtV3ciA"
     },
     {
       "added_at": "2026-09-02 14:56:19",
@@ -179,22 +235,6 @@
       "duration_ms": 107500,
       "name": "Dobi dobi",
       "url": "https://open.spotify.com/track/7qr0TOXdVYCmRBaptThuzq"
-    },
-    {
-      "added_at": "2025-08-21 21:49:12",
-      "album": {
-        "name": "My Weary Heart",
-        "url": "https://open.spotify.com/album/18UwIqxfWSZhb08S8erIRq"
-      },
-      "artists": [
-        {
-          "name": "ENILSounds",
-          "url": "https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF"
-        }
-      ],
-      "duration_ms": 239911,
-      "name": "My Weary Heart",
-      "url": "https://open.spotify.com/track/0afp9RSQvTz1IWyD0bT9JL"
     },
     {
       "added_at": "2026-06-15 05:38:48",
@@ -475,26 +515,6 @@
       "duration_ms": 197112,
       "name": "Ogbe",
       "url": "https://open.spotify.com/track/1lDt2ZkQORKmv8bKfnbosM"
-    },
-    {
-      "added_at": "2024-08-25 09:30:15",
-      "album": {
-        "name": "Which Way Do We Go Joe",
-        "url": "https://open.spotify.com/album/6MX0RKmyvnO8bXyFaAFVwv"
-      },
-      "artists": [
-        {
-          "name": "Rose Finn",
-          "url": "https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz"
-        },
-        {
-          "name": "Tom Tyson",
-          "url": "https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV"
-        }
-      ],
-      "duration_ms": 216647,
-      "name": "Which Way Do We Go Joe",
-      "url": "https://open.spotify.com/track/6dERKxXSWO7O8B3T3Iceaa"
     },
     {
       "added_at": "2023-10-12 16:25:42",
@@ -899,22 +919,6 @@
       "duration_ms": 164073,
       "name": "Because",
       "url": "https://open.spotify.com/track/280z9V1uF3p7BFlChRihFN"
-    },
-    {
-      "added_at": "2025-09-25 19:05:57",
-      "album": {
-        "name": "Don't Look Back (Lady in Red)",
-        "url": "https://open.spotify.com/album/5V1w8PZTjLENJVxfA3YJ3R"
-      },
-      "artists": [
-        {
-          "name": "Valeryan",
-          "url": "https://open.spotify.com/artist/4dBnn8oYs431SPtflMrIaj"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Don't Look Back (Lady in Red)",
-      "url": "https://open.spotify.com/track/4Cl1LWsdknU69QMP3PIKey"
     },
     {
       "added_at": "2025-10-24 15:40:49",

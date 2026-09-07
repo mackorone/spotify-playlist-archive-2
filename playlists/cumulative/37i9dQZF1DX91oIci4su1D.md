@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,364 songs - 3 day 9 hr 7 min
+1,365 songs - 3 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Dream Away](https://open.spotify.com/track/0QcSnjh3tDwi9lFOa7y6SF) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [Angel City](https://open.spotify.com/artist/7cwm843vv3YM0XvGAf5zgL) | [Dream Away](https://open.spotify.com/album/67fkPyrZNLbXLu0KO6wcfo) | 3:18 | 2025-06-06 | 2025-09-20 |
 | [dreamcore](https://open.spotify.com/track/5mCDSnNX4wXDxCwtHBRysH) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [dreamcore](https://open.spotify.com/album/59P9rAUO9S4VUuZRPgpCCx) | 2:55 | 2022-04-01 | 2023-04-09 |
 | [Dreaming \(A Dreamstate Anthem\)](https://open.spotify.com/track/4YH13bozgyBTiEgWClIK8P) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd) | [Dreaming \(A Dreamstate Anthem\)](https://open.spotify.com/album/5KSVhMnQJ2wXYmnf8jNyZe) | 3:00 | 2024-11-15 | 2025-11-23 |
-| [Drifting](https://open.spotify.com/track/7DL2F1dGikZMWsoBmjkNni) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 3:42 | 2026-06-11 |  |
+| [Drifting](https://open.spotify.com/track/7DL2F1dGikZMWsoBmjkNni) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 3:42 | 2026-06-11 | 2026-09-07 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2026-06-18 |  |
 | [Drifting Away \- Alessandra Roncone Remix](https://open.spotify.com/track/7uSKWtYTHXp9U2iGFYREdY) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [Alessandra Roncone](https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p), [Skye](https://open.spotify.com/artist/5EGvmmeqeNWBYpgwK5coPT) | [Drifting Away \(Alessandra Roncone Remix\)](https://open.spotify.com/album/2wjrOvsSmXe7femHT9aH5V) | 4:06 | 2024-05-10 | 2025-05-17 |
 | [Dubai](https://open.spotify.com/track/4ztHw0kosQU4WymQf7SItU) | [Yoel Lewis](https://open.spotify.com/artist/3NL4BIiZNFgeCkiVCRitKP) | [Dubai](https://open.spotify.com/album/7s7vZ146G2Asz0iT0zVH5K) | 2:58 | 2022-01-28 | 2023-02-25 |
@@ -665,6 +665,7 @@
 | [Leave a Little Love \- Club Mix](https://open.spotify.com/track/7vW1njtiA0lFgHRrurMIKc) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave a Little Love \(Club Mix\)](https://open.spotify.com/album/0Nqfemx6roJ0N0x2GUhFNZ) | 2:53 | 2021-12-17 | 2022-02-26 |
 | [Leave You There](https://open.spotify.com/track/0E6kDdBWx45Oc6HFTEv9b4) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Lasada](https://open.spotify.com/artist/036waz4w9csK4GHayAXNmR) | [Leave You There](https://open.spotify.com/album/63vySaHTvV4kL76sQ9jA1i) | 3:42 | 2024-08-23 | 2025-05-03 |
 | [Leaving Me](https://open.spotify.com/track/2cWThQIhPFGJNNXdXZsL6N) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Leaving Me](https://open.spotify.com/album/1rIhyDY2W0S3CHq9y64g1p) | 3:20 | 2023-09-08 | 2025-03-22 |
+| [Leaving On](https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Leaving On](https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR) | 3:40 | 2026-09-04 |  |
 | [Les Etoiles](https://open.spotify.com/track/0OAllrym4XCje0r2SPEYTk) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m), [Frank Spector](https://open.spotify.com/artist/1LlWF34CT7pudW0sFZpsuG) | [Les Etoiles](https://open.spotify.com/album/6kTPIdXZG5QqebmBckLz5s) | 3:05 | 2023-06-30 | 2024-06-26 |
 | [Let Go](https://open.spotify.com/track/4cRysbsSV8hwNcbD44r0rE) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Let Go](https://open.spotify.com/album/0UTLMtGykn3zILn2iZayjx) | 3:29 | 2023-03-17 | 2024-02-17 |
 | [Let It Be For Love](https://open.spotify.com/track/4oCWAv1wVeJ3Wk3irk8e5o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JAI RYU](https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh) | [Breathe](https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku) | 3:22 | 2025-06-27 | 2025-09-20 |

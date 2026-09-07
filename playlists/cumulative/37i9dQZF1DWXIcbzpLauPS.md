@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: NOVELISTS
 
-1,671 songs - 4 day 5 hr 22 min
+1,674 songs - 4 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,7 +414,7 @@
 | [Demons Looming Over You](https://open.spotify.com/track/74uycdRYq807l6utYSbJ0H) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [Demons Looming Over You](https://open.spotify.com/album/5P9DD9kBmupLv8l7SvmILA) | 4:28 | 2022-04-22 | 2022-07-01 |
 | [Demonz in Paris](https://open.spotify.com/track/0XkW9sBjJumOFXMHqbYuih) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [Demonz in Paris](https://open.spotify.com/album/34VKekWFisWRsOQVGNzOCF) | 3:34 | 2021-12-17 | 2022-04-02 |
 | [DENIAL](https://open.spotify.com/track/1CD1nPQZfclZTzbEjy5PkU) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [DENIAL](https://open.spotify.com/album/6ELFIMa34IPv08f6s1iuNj) | 3:25 | 2026-03-10 | 2026-05-26 |
-| [descend.exe](https://open.spotify.com/track/17vpRUpOQH1qg2fsQb8xjI) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Life is just a temporary plan](https://open.spotify.com/album/7eGZUsc8lP01trlXWBZpfA) | 2:47 | 2025-12-12 |  |
+| [descend.exe](https://open.spotify.com/track/17vpRUpOQH1qg2fsQb8xjI) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Life is just a temporary plan](https://open.spotify.com/album/7eGZUsc8lP01trlXWBZpfA) | 2:47 | 2025-12-12 | 2026-09-07 |
 | [Desolate Specter](https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo) | [Desolate Specter](https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf) | 3:12 | 2022-07-13 | 2022-07-16 |
 | [Desolation](https://open.spotify.com/track/3ZD0qLiUdLVn1eWDfDhaq2) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Desolation](https://open.spotify.com/album/0iVToj9ECjMRQXrqHJFWj9) | 4:05 | 2023-06-30 | 2023-11-28 |
 | [DESTINY](https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [DESTINY](https://open.spotify.com/album/6szs4Ng6wO7Hu48kHET1xL) | 3:00 | 2021-12-17 | 2022-04-02 |
@@ -740,6 +740,7 @@
 | [Hunting Season](https://open.spotify.com/track/0NCvhkLffy3suyYgXITOzP) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Hunting Season](https://open.spotify.com/album/0WYaIyXVinvlnZvQlCNvB6) | 3:18 | 2022-04-01 | 2022-07-23 |
 | [Hush](https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:37 | 2022-01-21 | 2022-03-18 |
 | [Hymn Of Decay](https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Hymn Of Decay](https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K) | 4:52 | 2024-05-10 | 2024-06-17 |
+| [Hymns of a Calcified Warpath](https://open.spotify.com/track/1owZL8t2fZqG6l4D65fgM9) | [Judiciary](https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3) | [Stalagmite Angels](https://open.spotify.com/album/6SqWXrnAsjLhUXynBXnmtd) | 4:35 | 2026-09-04 |  |
 | [I Am A Cursed One](https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED \(The Complete Edition\)](https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE) | 3:21 | 2025-06-06 | 2026-01-31 |
 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 | 2025-01-31 |  |
 | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/track/7wWWl81H2Tr3Ix3yPIOl6P) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [I Brought You My Soul \(Your World Brought Me Despair\)](https://open.spotify.com/album/4PcfDY2qPj6JzBVJYyiWqd) | 3:14 | 2025-03-14 |  |
@@ -1217,6 +1218,7 @@
 | [Sandman](https://open.spotify.com/track/5w0e7sRMMTKgJphpfr11oF) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Sandman](https://open.spotify.com/album/0AQpexEpqOXWsGeKBmnb9F) | 3:42 | 2024-10-18 | 2024-12-19 |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Satanic Panic](https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG) | 3:19 | 2022-07-13 | 2022-07-23 |
+| [Save Me](https://open.spotify.com/track/5310bRLzARarjcY3GpXfvr) | [Out Of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Save Me](https://open.spotify.com/album/0qUgZN6fQmHyv1U0EeIGga) | 3:36 | 2026-09-04 |  |
 | [Say It To My Face](https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Say It To My Face](https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f) | 3:08 | 2024-11-08 | 2026-01-31 |
 | [Say So](https://open.spotify.com/track/02kPZAxrFGPvlpGLUG9BgY) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Say So](https://open.spotify.com/album/6rHtASj6N3WhxXMoEmoblr) | 3:03 | 2026-06-16 | 2026-09-05 |
 | [Say When](https://open.spotify.com/track/449VbLIfrGbdvfznyFndxj) | [The Tony Danza Tapdance Extravaganza](https://open.spotify.com/artist/5DUbYWy2wL1vifFB8hyO74) | [Say When](https://open.spotify.com/album/218JHtpZ6JkFFc695CfMbv) | 4:10 | 2026-03-10 | 2026-09-05 |
@@ -1247,7 +1249,7 @@
 | [Shapeshifter](https://open.spotify.com/track/5iIsClVGHkiXNum4RBo0d5) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Shapeshifter](https://open.spotify.com/album/7ITUQA21n3ru9Nxej4pHrk) | 3:05 | 2024-11-22 | 2025-01-18 |
 | [Shimmer](https://open.spotify.com/track/5fuq9zEt8fMmwz66Ks9wrU) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [Shimmer](https://open.spotify.com/album/69tKJT4Z6ddrF9uOFuJH9G) | 3:46 | 2022-06-17 | 2022-07-27 |
 | [Show Me Your God](https://open.spotify.com/track/0qE46rBnn5oz96RaAfnZHv) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/6NNVcyPL17qA1ehI4ZgLnm) | 3:37 | 2022-12-02 | 2023-02-18 |
-| [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 | 2025-04-25 |  |
+| [Sidewinder](https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Sidewinder](https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o) | 3:59 | 2025-04-25 | 2026-09-07 |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-10 | 2024-07-13 |
 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 | 2022-06-10 | 2024-12-19 |
 | [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 | 2025-05-23 | 2025-08-16 |
@@ -1540,7 +1542,7 @@
 | [Uncontrolled](https://open.spotify.com/track/4Cpsa0GfBpGJiwD6kPbhj5) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Uncontrolled](https://open.spotify.com/album/4rL4tRslXGvAqylCnz4srE) | 3:43 | 2024-09-20 | 2025-04-27 |
 | [under your skin](https://open.spotify.com/track/2rBbRERHIt7Mn7mpz4HC4h) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [under your skin](https://open.spotify.com/album/0tqVAQUdpTqHiMZzSAC5O1) | 3:35 | 2025-12-12 |  |
 | [Underrated](https://open.spotify.com/track/0GOyA0rySAzlatVK569o6V) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Underrated](https://open.spotify.com/album/1aL2qEsGMIWlw1fcwzPkFe) | 3:04 | 2024-05-10 | 2024-12-19 |
-| [Undone](https://open.spotify.com/track/6FlHcq0ud7sbWS4cIPajY1) | [Out Of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Undone](https://open.spotify.com/album/4mEtOSZsk3vPO0o4ljql4v) | 2:48 | 2026-04-17 |  |
+| [Undone](https://open.spotify.com/track/6FlHcq0ud7sbWS4cIPajY1) | [Out Of Vision](https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58) | [Undone](https://open.spotify.com/album/4mEtOSZsk3vPO0o4ljql4v) | 2:48 | 2026-04-17 | 2026-09-07 |
 | [Unforgivable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-10 | 2024-07-13 |
 | [UNGØD](https://open.spotify.com/track/42a6jv8vPZSdldRDalkGfT) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [UNGØD](https://open.spotify.com/album/350e8e4wldgOMcThEOffvj) | 3:47 | 2024-03-08 | 2024-06-05 |
 | [Unholy](https://open.spotify.com/track/1QposYqMrnrYKWRUqQT1WW) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Unholy](https://open.spotify.com/album/2Bezp0tXu6vUeMwtMJ1G9w) | 2:35 | 2022-11-04 | 2023-01-21 |
@@ -1643,6 +1645,7 @@
 | [Wildfires](https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Wildfires](https://open.spotify.com/album/4SjnWy1dRE4laBw4qAerMf) | 3:24 | 2024-08-30 | 2024-09-09 |
 | [Wish You The Worst](https://open.spotify.com/track/5bP9loKqIou1QjTpjBD4x7) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Wish You The Worst](https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9) | 3:06 | 2025-08-15 | 2026-01-31 |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
+| [Witchking](https://open.spotify.com/track/3EhCsKqajVZiCWy291hJg4) | [Hollow Pact](https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn) | [Witchking](https://open.spotify.com/album/1BzxUBFVNQsHaHstRAZAPJ) | 2:51 | 2026-09-04 |  |
 | [Wither](https://open.spotify.com/track/0djLamzAIwucyBaTzVyUHp) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [SEVEN.](https://open.spotify.com/album/7JeN1aczcGqtq4TZ5ljZm9) | 2:31 | 2025-06-30 | 2026-02-03 |
 | [Wither](https://open.spotify.com/track/5IR1hB9IiBPRKCiUdUKVR1) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Wither](https://open.spotify.com/album/5Utv642B3OwMrMy80GD7dp) | 5:01 | 2025-10-24 | 2026-01-17 |
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2024-01-23 |

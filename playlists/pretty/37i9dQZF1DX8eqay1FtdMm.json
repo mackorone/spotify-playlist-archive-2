@@ -43,22 +43,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "IM HERO 2",
-        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
-      },
-      "artists": [
-        {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Eternal Moment",
-      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Love, Maybe (A Business Proposal OST Special Track)",
         "url": "https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 185000,
       "name": "Love, Maybe",
       "url": "https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "IM HERO 2",
+        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Eternal Moment",
+      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Story Of Two Years",
-        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "\ub108\ub97c \uc704\ud574",
-      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Story Of Two Years",
+        "url": "https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Panorama : The Best of TAEYEON",
-        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173407,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 266292,
       "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 173407,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -651,22 +651,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
       "artists": [
         {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 244669,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -687,18 +683,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Become More Beautiful",
-        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Become More Beautiful",
-      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1wUuOFIZvsHQbtWAKzpwaW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215000,
       "name": "Always",
       "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "I Miss You So Much",
         "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
@@ -955,54 +971,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "Close your eyes",
-        "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
-      },
-      "artists": [
-        {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Close your eyes",
-      "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "BMK voKal Audio Liner",
-        "url": "https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8"
-        }
-      ],
-      "duration_ms": 3874,
-      "name": "BMK - v o K a l (KR)",
-      "url": "https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -1023,6 +991,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "BMK voKal Audio Liner",
+        "url": "https://open.spotify.com/album/0rBEpmN0dcwK0ClyKTsRgv"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/4TQmlKDkEmPTGjO16THya8"
+        }
+      ],
+      "duration_ms": 3874,
+      "name": "BMK - v o K a l (KR)",
+      "url": "https://open.spotify.com/track/4am0xob1HUamJ3T3TcIAe3"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "\uc815\uc778 Jung In from Andromeda",
         "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 202946,
       "name": "\ubbf8\uc6cc\uc694 I Hate You",
       "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Close your eyes",
+        "url": "https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Close your eyes",
+      "url": "https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
-        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 196953,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 223214,
       "name": "Love Is Ugly (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "With You (from Sold Out On You (Original Soundtrack) part 5)",
+        "url": "https://open.spotify.com/album/7rSG8qogZHS0vUk251fSRi"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 196953,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/78kjGxSfPU6YV5Rjej6Ebt"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -1195,6 +1179,54 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+      },
+      "artists": [
+        {
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+        }
+      ],
+      "duration_ms": 273773,
+      "name": "Spring day goes",
+      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Not a Dream",
+        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Not a Dream",
+      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1231,34 +1263,18 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Not a Dream",
-        "url": "https://open.spotify.com/album/35h7rXLmdDVgNOhN9Zo8t2"
+        "name": "To live",
+        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
       "artists": [
         {
-          "name": "Song Sohee",
-          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+          "name": "SoonSoonHee",
+          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Not a Dream",
-      "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
-      },
-      "artists": [
-        {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
-        }
-      ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+      "duration_ms": 231520,
+      "name": "To live",
+      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1275,22 +1291,6 @@
       "duration_ms": 179000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2oqZ4QuvbLyNwZ5H9FzzW1"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "To live",
-        "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
-      },
-      "artists": [
-        {
-          "name": "SoonSoonHee",
-          "url": "https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "To live",
-      "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Walk through the rain",
-        "url": "https://open.spotify.com/album/4Bf0fX2sBnNtN8GeQx6p23"
-      },
-      "artists": [
-        {
-          "name": "Lee Ye Joon",
-          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Walk through the rain",
-      "url": "https://open.spotify.com/track/668TPlB2MKEFE4r3BrdKPA"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Walk through the rain",
+        "url": "https://open.spotify.com/album/4Bf0fX2sBnNtN8GeQx6p23"
+      },
+      "artists": [
+        {
+          "name": "Lee Ye Joon",
+          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Walk through the rain",
+      "url": "https://open.spotify.com/track/668TPlB2MKEFE4r3BrdKPA"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Haze",
-        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
-      },
-      "artists": [
-        {
-          "name": "slowly",
-          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
-        }
-      ],
-      "duration_ms": 198547,
-      "name": "Haze",
-      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "SUZUME",
         "url": "https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx"
       },
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
+      },
+      "artists": [
+        {
+          "name": "slowly",
+          "url": "https://open.spotify.com/artist/4nlhwoVtGxBhaNia2znZg0"
+        }
+      ],
+      "duration_ms": 198547,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1543,38 +1559,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
     },
     {
       "added_at": "2026-08-12 09:39:19",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "My Dearest (Original Television Soundtrack), Pt.5",
-        "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
-      },
-      "artists": [
-        {
-          "name": "YANG YO SEOP",
-          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Unforgettable Love",
-      "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
-    },
-    {
-      "added_at": "2026-08-12 09:39:19",
-      "album": {
         "name": "Like Yesterday",
         "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2026-08-12 09:39:19",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB"
+        "name": "My Dearest (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli"
       },
       "artists": [
         {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+          "name": "YANG YO SEOP",
+          "url": "https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV"
+      "duration_ms": 222013,
+      "name": "Unforgettable Love",
+      "url": "https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8"
+    },
+    {
+      "added_at": "2026-08-12 09:39:19",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
     },
     {
       "added_at": "2026-08-12 09:39:19",

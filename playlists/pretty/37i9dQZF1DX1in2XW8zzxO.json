@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 105223,
+  "num_followers": 105259,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxP5NgAT1QUF5EKhzl3vp6owRSo",
+  "snapshot_id": "AAAAAH7VNzBrQ0jboEY9dw6flU0e6iQT",
   "tracks": [
     {
       "added_at": "2026-08-28 15:18:19",
@@ -547,6 +547,34 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
+        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        }
+      ],
+      "duration_ms": 381768,
+      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
+    },
+    {
+      "added_at": "2026-08-28 15:18:19",
+      "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
       },
@@ -579,30 +607,30 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
-        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
+        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
       },
       "artists": [
         {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
         },
         {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "Tumelo_za",
-          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
         },
         {
-          "name": "Tyrone Dee",
-          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         }
       ],
-      "duration_ms": 381768,
-      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
+      "duration_ms": 350309,
+      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
     },
     {
       "added_at": "2026-08-28 15:18:19",
@@ -647,34 +675,6 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
-        "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/0uNAWv8SfWOd9vIJ3QwzcH"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 350309,
-      "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
-    },
-    {
-      "added_at": "2026-08-28 15:18:19",
-      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -711,30 +711,6 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
-        "name": "Thanda (Tshwala) 10.0",
-        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
-      },
-      "artists": [
-        {
-          "name": "Bukzin Keyz",
-          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
-        },
-        {
-          "name": "Loony Q",
-          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
-        },
-        {
-          "name": "Senzo02",
-          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
-        }
-      ],
-      "duration_ms": 271737,
-      "name": "Thanda (Tshwala) 10.0",
-      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
-    },
-    {
-      "added_at": "2026-08-28 15:18:19",
-      "album": {
         "name": "Makhelwane",
         "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
       },
@@ -759,6 +735,30 @@
       "duration_ms": 328096,
       "name": "Keneilwe (feat. Dalom Kids)",
       "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
+    },
+    {
+      "added_at": "2026-08-28 15:18:19",
+      "album": {
+        "name": "Thanda (Tshwala) 10.0",
+        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Loony Q",
+          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        }
+      ],
+      "duration_ms": 271737,
+      "name": "Thanda (Tshwala) 10.0",
+      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
     },
     {
       "added_at": "2026-08-28 15:18:19",
@@ -839,6 +839,26 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
+        "name": "Ka Valungu",
+        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
+      },
+      "artists": [
+        {
+          "name": "Tebza De DJ",
+          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
+        },
+        {
+          "name": "DJ Nomza The King",
+          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
+        }
+      ],
+      "duration_ms": 300302,
+      "name": "Ka Valungu",
+      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
+    },
+    {
+      "added_at": "2026-08-28 15:18:19",
+      "album": {
         "name": "A Collision of Two Worlds 2.0",
         "url": "https://open.spotify.com/album/5xxVPhhZdchKa9Gs136bvR"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 203893,
       "name": "A Collision of Two Worlds 2.0",
       "url": "https://open.spotify.com/track/5B7CN5EWwW5mo07wAymrLB"
-    },
-    {
-      "added_at": "2026-08-28 15:18:19",
-      "album": {
-        "name": "Ka Valungu",
-        "url": "https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU"
-      },
-      "artists": [
-        {
-          "name": "Tebza De DJ",
-          "url": "https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez"
-        },
-        {
-          "name": "DJ Nomza The King",
-          "url": "https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie"
-        }
-      ],
-      "duration_ms": 300302,
-      "name": "Ka Valungu",
-      "url": "https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT"
     },
     {
       "added_at": "2026-08-28 15:18:19",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-28 15:18:19",
       "album": {
-        "name": "The Legacy EP King of Barcadi",
-        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
-      },
-      "artists": [
-        {
-          "name": "Enny Man Da Guitar",
-          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
-        }
-      ],
-      "duration_ms": 290041,
-      "name": "6 foot 7 Foot - Remix",
-      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
-    },
-    {
-      "added_at": "2026-08-28 15:18:19",
-      "album": {
         "name": "I Feel Nice",
         "url": "https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"
+    },
+    {
+      "added_at": "2026-08-28 15:18:19",
+      "album": {
+        "name": "The Legacy EP King of Barcadi",
+        "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
+      },
+      "artists": [
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        }
+      ],
+      "duration_ms": 290041,
+      "name": "6 foot 7 Foot - Remix",
+      "url": "https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy"
     },
     {
       "added_at": "2026-08-28 15:18:19",

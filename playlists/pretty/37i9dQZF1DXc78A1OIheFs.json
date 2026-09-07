@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIAtJYq5NBLxLYigcXwSfca6f1GW",
+  "snapshot_id": "AAAAADm6Z94MJ0dc3tIMt8khtTpY/PyI",
   "tracks": [
     {
       "added_at": "2026-08-27 14:00:26",
@@ -147,18 +147,18 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Hate My Guts",
-        "url": "https://open.spotify.com/album/1Zv5VHbH8Zwtk6Sqb9dZkn"
+        "name": "ALL MINE",
+        "url": "https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD"
       },
       "artists": [
         {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+          "name": "whatsaheart",
+          "url": "https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV"
         }
       ],
-      "duration_ms": 150407,
-      "name": "Hate My Guts",
-      "url": "https://open.spotify.com/track/0pVALDYiQjzXxzW99TC4Id"
+      "duration_ms": 158611,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "ALL MINE",
-        "url": "https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD"
+        "name": "Hate My Guts",
+        "url": "https://open.spotify.com/album/1Zv5VHbH8Zwtk6Sqb9dZkn"
       },
       "artists": [
         {
-          "name": "whatsaheart",
-          "url": "https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV"
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
         }
       ],
-      "duration_ms": 158611,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8"
+      "duration_ms": 150407,
+      "name": "Hate My Guts",
+      "url": "https://open.spotify.com/track/0pVALDYiQjzXxzW99TC4Id"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 225682,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "PRETTY GYAL",
-        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        }
-      ],
-      "duration_ms": 218134,
-      "name": "PRETTY GYAL",
-      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "PLEASER",
         "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 165925,
       "name": "PLEASER",
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Beautiful Mess",
-        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Tip Of My Tongue",
-      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "halftime oranges",
         "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
+        "name": "Beautiful Mess",
+        "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Tip Of My Tongue",
+      "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -631,22 +647,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/38k8b1MCCGb1zv7dFnlbOY"
-      },
-      "artists": [
-        {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4SQIvGBo1nkD5P1M3eb3Np"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 232615,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
-        "name": "The//Glow",
-        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -707,6 +691,22 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "The//Glow",
+        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
-      },
-      "artists": [
-        {
-          "name": "SIX60",
-          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
-        }
-      ],
-      "duration_ms": 164070,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "duration_ms": 164070,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "Heavy Meadow",
-        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Lean Into The Hill",
-      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
-    },
-    {
-      "added_at": "2026-08-27 14:00:26",
-      "album": {
         "name": "You Already Know",
         "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 186747,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
+    },
+    {
+      "added_at": "2026-08-27 14:00:26",
+      "album": {
+        "name": "Heavy Meadow",
+        "url": "https://open.spotify.com/album/1MYepGZb30Prv8rd9paIRL"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Lean Into The Hill",
+      "url": "https://open.spotify.com/track/6vYO7UphrLGyCuQUs9621A"
     },
     {
       "added_at": "2026-08-27 14:00:26",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-08-27 14:00:26",
       "album": {
-        "name": "me > you",
-        "url": "https://open.spotify.com/album/1kZzG0qQSy63IoyUhR8t9u"
+        "name": "Metal",
+        "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
       },
       "artists": [
         {
-          "name": "Imani-J",
-          "url": "https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 160946,
-      "name": "me > you",
-      "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
+      "duration_ms": 283253,
+      "name": "Metal",
+      "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
     },
     {
       "added_at": "2026-08-27 14:00:26",

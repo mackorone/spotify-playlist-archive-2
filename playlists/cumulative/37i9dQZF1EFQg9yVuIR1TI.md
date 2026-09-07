@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-81 songs - 3 hr 46 min
+82 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,10 @@
 | [Seesaw](https://open.spotify.com/track/2tvOWBMAkzmVYjMZZwdB5j) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:03 | 2024-07-26 |  |
 | [Seesaw Ballet](https://open.spotify.com/track/0Da4VZcS0e7qOL1HSVmG0v) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 0:42 | 2024-07-26 |  |
 | [Shake, Rattle & Roll](https://open.spotify.com/track/2Wsg5tP0RsNf6O4HLwvpq6) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Flip, Flop And Fly 1951\-1955](https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0) | 2:59 | 2025-12-06 | 2025-12-08 |
+| [Silent Night](https://open.spotify.com/track/0nXn0SUs0tltQODYyNbqcc) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:36 | 2026-09-06 |  |
 | [Silent Night](https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Swinging On A Star](https://open.spotify.com/album/64daTHvMlxupBzyGKJyb7g) | 2:36 | 2024-07-26 | 2026-02-14 |
 | [Silent Night \- Remastered](https://open.spotify.com/track/1gjBcw4TFnVl2GyLoAD8q8) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Old Classic Christmas Songs \(Remastered\)](https://open.spotify.com/album/11wSR3IfNrsnaINIqVdodt) | 2:27 | 2026-02-13 | 2026-08-19 |
-| [Silent Night, Holy Night](https://open.spotify.com/track/0XV3NDgpZBo05KkRwDyvUM) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby Gold: No\. 1 Hits Plus](https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ) | 2:38 | 2026-08-18 |  |
+| [Silent Night, Holy Night](https://open.spotify.com/track/0XV3NDgpZBo05KkRwDyvUM) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby Gold: No\. 1 Hits Plus](https://open.spotify.com/album/6bRoG6Q8T63QFmiuJPwnLJ) | 2:38 | 2026-08-18 | 2026-09-07 |
 | [Sometime When You're Lonely](https://open.spotify.com/track/0nO2UPVWaY3LA7BS8ALOzj) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Moments Like This](https://open.spotify.com/album/0ChWx4OomdNWCp0TiR6s9S) | 2:41 | 2024-07-26 |  |
 | [Spanglish](https://open.spotify.com/track/2VkzviVLzqGGJ2iPyYX0XK) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:10 | 2024-07-26 |  |
 | [Subway](https://open.spotify.com/track/1KWINi0Qleahal6922tD3J) | [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi) | [Sweet Charity \(2007 London Studio Cast\)](https://open.spotify.com/album/5PKMwKCyfhSzjvy3APMFhZ) | 2:06 | 2024-07-26 | 2025-03-20 |

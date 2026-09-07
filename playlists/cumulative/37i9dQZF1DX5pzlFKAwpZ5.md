@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-413 songs - 1 day 5 hr 41 min
+414 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 | 2026-09-02 |
 | [A Dream Floating Like a Goldfish](https://open.spotify.com/track/3U1ec2jSAJzZMDOO5nRMsI) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [A Dream Floating Like a Goldfish](https://open.spotify.com/album/1E9415IbHBoQ52mdZ4w5F5) | 2:08 | 2026-03-25 | 2026-04-16 |
-| [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 |  |
+| [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 | 2026-09-07 |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 | 2024-03-07 | 2025-01-25 |
@@ -254,6 +254,7 @@
 | [ORIGIN OF HUM](https://open.spotify.com/track/3dhASweBAUqoalCaROi97S) | [Exportion](https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q) | [Resonance Warfront](https://open.spotify.com/album/7tSDHpx85d1jquRuro8aQG) | 4:26 | 2026-06-26 |  |
 | [PALE](https://open.spotify.com/track/4QSh8hKevYk4HAsy6Db0fD) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [PALE](https://open.spotify.com/album/1HVXQw4eQIMJAgrEhaIg9l) | 2:53 | 2026-05-30 | 2026-07-09 |
 | [Pathos](https://open.spotify.com/track/4Cz27Bi0z3yI3pXEFXlffY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [RAN PARK](https://open.spotify.com/artist/2LcpnnKtegPLs0WJaQPdqK) | [Pathos](https://open.spotify.com/album/5u3LYb5RaoB07WrAte6OI8) | 5:05 | 2025-06-27 | 2025-12-13 |
+| [Phase Bloom](https://open.spotify.com/track/04lrTruV5SL6BsBQMj95xq) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Phase Bloom](https://open.spotify.com/album/2iBNTMIHPo3mkJkSEQNR8D) | 6:04 | 2026-08-30 |  |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-12-20 |  |
 | [Placement Of The Drops](https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC) | [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR) | [Tribute to Ryuichi Sakamoto "Micro Ambient Music" Vol\. 5](https://open.spotify.com/album/7wuCniFaJn59eglfVdqdZo) | 6:02 | 2025-02-11 |  |
 | [Planet](https://open.spotify.com/track/33gZGbCutucohDi5fkTUsq) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Planet](https://open.spotify.com/album/1xoFs7J2CsodEOhBEUM3tE) | 3:25 | 2025-01-13 |  |
@@ -295,7 +296,7 @@
 | [Sen](https://open.spotify.com/track/6Dx6G9i7t0OzSCRr6lUV7p) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Depthscape](https://open.spotify.com/album/2O9pHcHjZhM1ij6FsnXhDK) | 10:16 | 2022-01-07 |  |
 | [sensory](https://open.spotify.com/track/5s55CnaMZgC7RRzZkUbAPC) | [gen asai](https://open.spotify.com/artist/4s1ecdG6K20lrCOSkqf7BR) | [saunagood](https://open.spotify.com/album/0iNaYKXcXqLvGuRP5w3BYl) | 4:33 | 2022-01-07 | 2026-03-10 |
 | [SERENE](https://open.spotify.com/track/2HJSIyXM8ToAcWSrAEGSFP) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [SERENE](https://open.spotify.com/album/4zkfNH7buXzUYwBF8Fi1x5) | 1:36 | 2026-05-12 | 2026-07-18 |
-| [Setsurei](https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG) | [Tokyo Bedroom Orchestra](https://open.spotify.com/artist/6H68wWhNdzqOsJseTU5Nxr) | [Tsuioku](https://open.spotify.com/album/6BzDJ1MYLVmBDTYZTpmOGF) | 2:26 | 2026-07-18 |  |
+| [Setsurei](https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG) | [Tokyo Bedroom Orchestra](https://open.spotify.com/artist/6H68wWhNdzqOsJseTU5Nxr) | [Tsuioku](https://open.spotify.com/album/6BzDJ1MYLVmBDTYZTpmOGF) | 2:26 | 2026-07-18 | 2026-09-07 |
 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 | 2025-07-03 |  |
 | [Shaded Navy](https://open.spotify.com/track/0ssU0CAQUDiqhPTG1iNCHo) | [Shaded Navy](https://open.spotify.com/artist/3uMPx1jmWJ2rvzrLgrsX4T), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Shaded Navy](https://open.spotify.com/album/4lAwEpCkSyoyCQO7yO5F9l) | 3:12 | 2023-01-06 | 2025-04-06 |
 | [shibuya](https://open.spotify.com/track/2cKWlY2DGnPMT5ZOWPpm1T) | [Masayuki Ishii](https://open.spotify.com/artist/4GxXuTsoHfRRqhpYzxJ7zN), [Naohisa Taniguchi](https://open.spotify.com/artist/6J1WlaCpbUL1sak8JPlIVL) | [shibuya](https://open.spotify.com/album/5r8pTArU0UdC1K5PSPqX2x) | 4:24 | 2025-03-21 | 2025-07-04 |
@@ -338,7 +339,7 @@
 | [The buzz of the forest](https://open.spotify.com/track/7INHRFTJ8ZrXjomdjYjadN) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Relieving anxiety and healing a good night's sleep recommended by mental trainers \- Music that connects with nature \-](https://open.spotify.com/album/0UcMdGC8UJwzGcHXfX8PG5) | 5:12 | 2022-07-22 | 2024-04-19 |
 | [The buzz of the forest \- Remaster](https://open.spotify.com/track/42a6hlKyKTHf9bqtP9C3kg) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [Healing music for Deep sleep](https://open.spotify.com/album/2GRhflYTCsUmzrCvvReaXU) | 5:07 | 2022-10-15 | 2022-11-13 |
 | [The Goldfish](https://open.spotify.com/track/4ctQ2nQO1IqWsTE0tpXzWX) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [The Goldfish](https://open.spotify.com/album/1lVOLpPJ69jxkeKcnQKaT7) | 4:45 | 2022-11-11 | 2023-08-19 |
-| [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 | 2022-01-07 | 2026-08-31 |
+| [The Horizon \- Sphontik Mix](https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ) | [Sinner DC](https://open.spotify.com/artist/5p2pns1DJ2vLnXidUv7y1E), [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [Ambient Mixes](https://open.spotify.com/album/2QWN34iKAqrq7QSUTESSgN) | 4:35 | 2022-01-07 |  |
 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 | 2022-01-07 |  |
 | [The Spider's Thread](https://open.spotify.com/track/45okZJHya7HLzEi0zvRaDI) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [A Halo of Light One Day](https://open.spotify.com/album/2erifYmBD16kWNRjYipk1x) | 5:29 | 2022-07-22 | 2024-04-19 |
 | [The Taste Blends in](https://open.spotify.com/track/08JSkuAqcWuqX2QHgCxcnG) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Life Album](https://open.spotify.com/album/7bykpXTTFEZze1sWZ0ikpu) | 3:15 | 2022-01-07 |  |

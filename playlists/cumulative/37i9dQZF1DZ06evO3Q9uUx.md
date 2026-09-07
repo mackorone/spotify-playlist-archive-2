@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-159 songs - 7 hr 30 min
+160 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [WE ON GO](https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WE ON GO](https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX) | 2:48 | 2025-05-07 |  |
 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LtqBgvHGsaSjYw9NmLkky) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/album/6rSg4kAa27P4cnk6bmZuyi) | 3:15 | 2026-03-03 | 2026-07-08 |
 | [WE ON GO II \(feat\. Denzel Curry\)](https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 3:15 | 2025-10-12 |  |
-| [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L) | 2:45 | 2026-03-29 |  |
+| [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/track/2wDKkCGz1JQfMaLgkERmcv) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:45 | 2026-09-07 |  |
+| [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [WE ON GO III \(feat\. TiaCorine\)](https://open.spotify.com/album/7anCPgsODKsvaQqozZq00L) | 2:45 | 2026-03-29 | 2026-09-07 |
 | [Whip It](https://open.spotify.com/track/1JWGPqQK0xxoiYG24S5Eo2) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Whip It](https://open.spotify.com/album/64RCa96sS1px5qoRTy3z1t) | 3:33 | 2022-10-28 | 2023-10-11 |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2022-10-28 |  |
 | [X6 \(feat\. BIA\)](https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Italiano](https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl) | 2:54 | 2022-10-28 |  |

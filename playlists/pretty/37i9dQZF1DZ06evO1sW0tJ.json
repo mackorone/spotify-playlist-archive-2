@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 2121,
+  "num_followers": 2129,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAAOEHtmwCvtd/0DPgNR/avg",
+  "snapshot_id": "aptbgAAAAADnXXphGFWqv8BQe2X7n3sq",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Magdalena Hoffmann",
-          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
-      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Sonata in G Minor",
         "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 311782,
       "name": "Piano Sonata in G Minor: IV. Rondo",
       "url": "https://open.spotify.com/track/2MshRat6MLpcgBDJ1JuYN3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C. Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+        "url": "https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Magdalena Hoffmann",
+          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
+        }
+      ],
+      "duration_ms": 318213,
+      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto (Version for Harp)",
+      "url": "https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq"
     },
     {
       "added_at": null,
@@ -163,6 +163,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Regency",
+        "url": "https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l"
+      },
+      "artists": [
+        {
+          "name": "Dominik Johnson",
+          "url": "https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5"
+        },
+        {
+          "name": "Daniela Kosinova",
+          "url": "https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Romanze: from Piano Concerto in A Minor Op.7",
+      "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
         "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
       },
@@ -203,30 +227,6 @@
       "duration_ms": 207000,
       "name": "3 Romances, Op. 11: I. Andante",
       "url": "https://open.spotify.com/track/4AkbwbgCeXMiwte4Hr2cQN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regency",
-        "url": "https://open.spotify.com/album/1g4Lw05FtjonIIylTggh8l"
-      },
-      "artists": [
-        {
-          "name": "Dominik Johnson",
-          "url": "https://open.spotify.com/artist/7KLlPFabGUj3JxWj6JbfG5"
-        },
-        {
-          "name": "Daniela Kosinova",
-          "url": "https://open.spotify.com/artist/3bH1p2Sa2lBOnWXeov6DoW"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Romanze: from Piano Concerto in A Minor Op.7",
-      "url": "https://open.spotify.com/track/6rQdxlTHnxZAfxnIZwrVBb"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
-        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Dartington Piano Trio",
-          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 51486,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 1",
       "url": "https://open.spotify.com/track/4vdYhdbjUvExe0zKS7PVp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
+        "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dartington Piano Trio",
+          "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
-        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Martin Malto",
-          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
-        }
-      ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
-      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Sonata in G Minor",
         "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
@@ -703,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quatre Pi\u00e8ces fugitives, Op. 15 (Nr 1 Larghetto)",
+        "url": "https://open.spotify.com/album/27nuasQV8GloG3AWhhYWsl"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Martin Malto",
+          "url": "https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX"
+        }
+      ],
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives, Op. 15 - Nr 1 Larghetto",
+      "url": "https://open.spotify.com/track/7M69Cbc3KVNd5m3Z1wvJVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 60147,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 5",
       "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 737973,
-      "name": "Variations op.20",
-      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 120213,
       "name": "6 Lieder aus Jucunde, Op. 23: No. 6, O Lust (Arr. Rouger for Choir and Piano)",
       "url": "https://open.spotify.com/track/78pAwGip8ioQhMVzDOqycP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 737973,
+      "name": "Variations op.20",
+      "url": "https://open.spotify.com/track/2uspxzx6IIEmDrqu2FVNl2"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schumann: Piano Music",
-        "url": "https://open.spotify.com/album/175EN19vEKYeqkqbJiEjEd"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Cristina Ortiz",
-          "url": "https://open.spotify.com/artist/36BgOKslOMQpqjTGn9wSuY"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Scherzo No. 2 in C Minor, Op. 14",
-      "url": "https://open.spotify.com/track/39sNEadUvdDg5cHQBVDm36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...wo die Zitronen bl\u00fchn",
         "url": "https://open.spotify.com/album/7aJHFPy7ULfY3prEatAK3t"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 146426,
       "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
       "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schumann: Piano Music",
+        "url": "https://open.spotify.com/album/175EN19vEKYeqkqbJiEjEd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Cristina Ortiz",
+          "url": "https://open.spotify.com/artist/36BgOKslOMQpqjTGn9wSuY"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Scherzo No. 2 in C Minor, Op. 14",
+      "url": "https://open.spotify.com/track/39sNEadUvdDg5cHQBVDm36"
     },
     {
       "added_at": null,

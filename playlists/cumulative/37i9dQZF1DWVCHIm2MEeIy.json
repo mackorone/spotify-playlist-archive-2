@@ -468,7 +468,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 181874,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7nboixHsDQbJkHHjz72pIY"
@@ -1846,6 +1846,24 @@
       "duration_ms": 358346,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/3HeYxSIsNJCFVmB8PdJCDX"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/1W6Udx3d7DUMUqPpyJkYmT"
     },
     {
       "album": {
@@ -10640,7 +10658,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
@@ -13820,7 +13838,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 224442,
       "name": "Waitin'",
       "url": "https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg"

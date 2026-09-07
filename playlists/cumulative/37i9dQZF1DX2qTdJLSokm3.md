@@ -4,7 +4,7 @@
 
 > <a href="https://webtoon.onelink.me/u70y/Spotify1">화산귀환</a>의 공식 플레이리스트입니다\. 나와 음악 취향이 닮은 캐릭터 커버를 만나보세요\. 당신의 캐릭터는 어떤 캐릭터인가요?
 
-54 songs - 3 hr 3 min
+55 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [As Flowers Bloom and Fall](https://open.spotify.com/track/7LCWDYmsmIhe9KZiB57CVR) | [Jo Seung Woo](https://open.spotify.com/artist/5Msp3jgTyvIgAbhCQIun0e) | [As Flowers Bloom and Fall](https://open.spotify.com/album/4f2ONlcbBUFaPnbPEGl4au) | 3:36 | 2026-04-19 |  |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2026-04-19 |  |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2026-04-19 |  |
-| [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 | 2026-04-19 |  |
+| [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 | 2026-04-19 | 2026-09-07 |
 | [Beginning](https://open.spotify.com/track/5QiiVDbT977XFhjbQziVXO) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [To The Island](https://open.spotify.com/album/516ZTGaG52wadRwN0ww5f2) | 2:41 | 2026-04-19 |  |
 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 | 2026-04-19 | 2026-05-14 |
 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 | 2026-04-19 |  |
@@ -54,6 +54,7 @@
 | [The Moon and Sixpence](https://open.spotify.com/track/5oudDwupzSbUnu4D7PXj8k) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Light & Shade chapter.2](https://open.spotify.com/album/3VMZhTgZW2ugrTgj7FydgI) | 4:06 | 2026-04-19 |  |
 | [The Moon during the Day](https://open.spotify.com/track/56EoRqQgi2YlcFEWViIJS1) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [The Moon during the Day](https://open.spotify.com/album/7igpote7lWjZttqMjB51gT) | 3:48 | 2026-04-19 |  |
 | [The Red Knot](https://open.spotify.com/track/4p0aRX6U77LV48n0tWvYoV) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Ahn Ye Eun](https://open.spotify.com/album/5ttMuBVsDu4z4LZ1O7VC1u) | 4:30 | 2026-04-19 |  |
+| [Turn The Lights Off](https://open.spotify.com/track/6ouaFbSkK136LinzuwUxT0) | [H:dn](https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH) | [Turn The Lights Off](https://open.spotify.com/album/28BPIqT3AAN3qLq7MY6ryF) | 2:24 | 2026-04-19 |  |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2026-04-19 |  |
 | [Youngjeonggeori](https://open.spotify.com/track/1gMihU5Kw9TzsNFuoXofxp) | [ADG7](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Ak Dan Gwang Chil](https://open.spotify.com/album/1OpCM8OYtaH2lot332ON3o) | 5:10 | 2026-04-19 |  |
 | [마지막 칼춤 \(feat\. KOONTA\)](https://open.spotify.com/track/6A7nel1s9i1ZrPYWFmnvWu) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Webtoon 'Return of the Blossoming Blade' Part\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0NUYLmzla5DQbL3tOML8Ll) | 3:27 | 2026-04-19 |  |

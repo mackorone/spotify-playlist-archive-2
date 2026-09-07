@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,790 songs - 10 day 18 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,821 songs - 10 day 20 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4798,5 +4798,36 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4788 | [Głupia Melancholia](https://open.spotify.com/track/7d53CrkoFx1LCFW3I3hfgv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Abbracci](https://open.spotify.com/album/7M87tHN3WAxwB7TxEXCV51) | 3:22 |
 | 4789 | [Bliżej w stronę słońca](https://open.spotify.com/track/02chDc7iqeOWoDmtn76k1z) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 |
 | 4790 | [Masz prawo](https://open.spotify.com/track/0Q1ozsplWjw215gu9jMofX) | [DJAR3K](https://open.spotify.com/artist/5ALUe1gls6ACDZjlmpFRo8) | [House nad Wisłą](https://open.spotify.com/album/3TSAV0CDkGyEWmgU9JBLhX) | 5:39 |
+| 4791 | [Zühre](https://open.spotify.com/track/0jaM0dmcZmoqxlspXYfFix) | [Kaan Duman](https://open.spotify.com/artist/61cyIu7It7X2sI5hQGmGPN) | [Yavaş Yavaş](https://open.spotify.com/album/1hMIiEqCIRYa4Cwv85uBH4) | 2:33 |
+| 4792 | [The First Breath](https://open.spotify.com/track/5x8FHdqV1xyXP3jmvrBGNb) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 5:30 |
+| 4793 | [Rare Jewel](https://open.spotify.com/track/0Ny0qesFu4mdfFCSdFfk5X) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:52 |
+| 4794 | [The Clockwork Stone](https://open.spotify.com/track/7gIilCVS2ELuWmPplKRzEW) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:08 |
+| 4795 | [Wellspring of the Heart](https://open.spotify.com/track/22GeQQiV8kDDoW29tYXZVU) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:26 |
+| 4796 | [Chasing the Wind](https://open.spotify.com/track/3Nk3ypMWAnqUgajis5vfsi) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 2:31 |
+| 4797 | [Under the Sun](https://open.spotify.com/track/1bmKDVJr0rZlIp89eILQjU) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:19 |
+| 4798 | [The Silver Cord](https://open.spotify.com/track/0eXmMRG8ZqIsecXkrnER2P) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:38 |
+| 4799 | [Paths of Peace](https://open.spotify.com/track/0ncLXuinHQYXHkJAvGDLdn) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:13 |
+| 4800 | [Seven Times Rising](https://open.spotify.com/track/28tQoNYxL0OJqfJJnbudAQ) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:37 |
+| 4801 | [The Eternity Seed](https://open.spotify.com/track/4MpAJCCG8nqYQVoDBeiHaq) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:33 |
+| 4802 | [The Tongue of Life](https://open.spotify.com/track/1v1yFR2jLIXZdwsL2WXKuW) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:22 |
+| 4803 | [The Gift of Toil](https://open.spotify.com/track/4sds2eqG0qtfR78ESwp0bb) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:41 |
+| 4804 | [Wisdom’s Outcry](https://open.spotify.com/track/51WnSJPjkrxby0ioRbY2Rk) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:41 |
+| 4805 | [The Fear of the Beginning](https://open.spotify.com/track/2jvbwciWBcf9Y3gwQ2SrOc) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:09 |
+| 4806 | [The End of the Matter](https://open.spotify.com/track/4up26Dik2WxTtrkge2SF1j) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:17 |
+| 4807 | [The First Breath \(fomo mode\)](https://open.spotify.com/track/6BZwYua2OQyjUdrw8DLRur) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:13 |
+| 4808 | [Rare Jewel \(fomo mode\)](https://open.spotify.com/track/36y6VxuzwGKkeN2EE17Cys) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:44 |
+| 4809 | [The Clockwork Stone \(fomo mode\)](https://open.spotify.com/track/1YQDexgffasdPy7dIcA3KT) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:43 |
+| 4810 | [Wellspring of the Heart \(fomo mode\)](https://open.spotify.com/track/6GDckzYgj8ywmfadjzyMPR) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:54 |
+| 4811 | [Chasing the Wind \(fomo mode\)](https://open.spotify.com/track/5SAwfrEO2ovm7okVehXgv3) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 2:43 |
+| 4812 | [Under the Sun \(fomo mode\)](https://open.spotify.com/track/3h4xSAl4Zz0kIDboxkdVDz) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:46 |
+| 4813 | [The Silver Cord \(fomo mode\)](https://open.spotify.com/track/6WhNNf3BldSk8R1fP9sHKS) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 5:19 |
+| 4814 | [Paths of Peace \(fomo mode\)](https://open.spotify.com/track/6Yfq3iYs0TOzunZjDPkjEQ) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:24 |
+| 4815 | [Seven Times Rising \(fomo mode\)](https://open.spotify.com/track/6letT9XAesk2LIewoUedP0) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:04 |
+| 4816 | [The Eternity Seed \(fomo mode\)](https://open.spotify.com/track/6ZkgMlGqSLUlkEYWcTma8T) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:37 |
+| 4817 | [The Tongue of Life \(fomo mode\)](https://open.spotify.com/track/02r5D5rexaEKffKme4oN4r) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:29 |
+| 4818 | [The Gift of Toil \(fomo mode\)](https://open.spotify.com/track/25RVfjlJNnANpwDlyuZZHT) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:04 |
+| 4819 | [Wisdom’s Outcry \(fomo mode\)](https://open.spotify.com/track/2NQsFY60lHPfMdklEa4Nfs) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:38 |
+| 4820 | [The Fear of the Beginning \(fomo mode\)](https://open.spotify.com/track/3OQ2nKsBNiNOAkJU7dujCv) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:21 |
+| 4821 | [The End of the Matter \(fomo mode\)](https://open.spotify.com/track/6xRnFAGsTr67K2MD0ENgEa) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:13 |
 
-Snapshot ID: `AAAJ98Z2/Vr66upPMje0Eoxk59FnyU2y`
+Snapshot ID: `AAAJ+ZkRgjTprPcCEnyMeFriZcoPHh/V`

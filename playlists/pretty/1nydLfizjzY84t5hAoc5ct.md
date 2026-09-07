@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 ### [Off Axis Gigs \. com](https://open.spotify.com/playlist/1nydLfizjzY84t5hAoc5ct)
 
-> OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
+> OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,425 likes - 175 songs - 9 hr 49 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,424 likes - 175 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 174 | [Magic Mirror Crystal Clear](https://open.spotify.com/track/2k5FL0TjxXKUpRernxzGPu) | [Irene Shapes](https://open.spotify.com/artist/3P3ikBWtAD1LMvnIXiZ9UB) | [Magic Mirror Crystal Clear](https://open.spotify.com/album/6duFgGVXnuzFwqnjrKEzAL) | 3:34 |
 | 175 | [Adrenaline](https://open.spotify.com/track/1WKbmWcGNQy70jpX3KthEM) | [Lydike](https://open.spotify.com/artist/5pfQvVGF8XX7d1hwJ1CGzh) | [Madly In Love](https://open.spotify.com/album/2xNqGlxvnfq1JMlAlTLzLu) | 4:02 |
 
-Snapshot ID: `AACDuHL4oEO7Wjc0I+ujNWRBWc9hE1Qm`
+Snapshot ID: `AACDum9eB/wWdSGRCsFDljCsNsiTrgf6`

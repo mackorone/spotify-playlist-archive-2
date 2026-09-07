@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,469 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,473 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 19 | [Kandisa](https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 7:40 |
 | 20 | [Latthay Di Chaadar](https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Latthay Di Chaadar \- Single](https://open.spotify.com/album/2gGa9X08pMWC5FNB9ShgG8) | 3:35 |
 | 21 | [Purvayi \(feat\. Papon\)](https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7) | 5:10 |
-| 22 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
+| 22 | [Champawa Ki Kaliyan](https://open.spotify.com/track/3XgeGTP5TkrG9fx6ZHvqzx) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Jeewan Ram](https://open.spotify.com/artist/5XGkMDglkTz91R4hhoskbH), [Sayo Komada](https://open.spotify.com/artist/7uTHyccBpjdKgB7LJUpKhh) | [Champawa Ki Kaliyan](https://open.spotify.com/album/5f7PmACBwkDwxkh2pxEDZw) | 3:36 |
 | 23 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
 | 24 | [Ma Rewa](https://open.spotify.com/track/7uFmDBVg8GgP7WohbiG3ci) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 6:38 |
 | 25 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
 | 26 | [Sadho Re](https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA) | [Agnee](https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9) | 4:11 |
-| 27 | [Champawa Ki Kaliyan](https://open.spotify.com/track/3XgeGTP5TkrG9fx6ZHvqzx) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Jeewan Ram](https://open.spotify.com/artist/5XGkMDglkTz91R4hhoskbH), [Sayo Komada](https://open.spotify.com/artist/7uTHyccBpjdKgB7LJUpKhh) | [Champawa Ki Kaliyan](https://open.spotify.com/album/5f7PmACBwkDwxkh2pxEDZw) | 3:36 |
+| 27 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 28 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 |
 | 29 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
 | 30 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |

@@ -1,6 +1,6 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: PARTYNEXTDOOR",
-  "num_followers": 5015,
+  "num_followers": 5031,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
@@ -1761,22 +1761,6 @@
       "url": "https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL"
     },
     {
-      "added_at": "2026-04-10 06:38:13",
-      "album": {
-        "name": "Obvious",
-        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186009,
-      "name": "Obvious",
-      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Alter Ego",
@@ -1795,6 +1779,22 @@
       "duration_ms": 172846,
       "name": "When I'm With You (feat. Tyla)",
       "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
+    },
+    {
+      "added_at": "2026-04-10 06:38:13",
+      "album": {
+        "name": "Obvious",
+        "url": "https://open.spotify.com/album/7xW3wSUjBg7PaeQOVpgvVv"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186009,
+      "name": "Obvious",
+      "url": "https://open.spotify.com/track/7xSS8JxxHbQRjH5TNBw36H"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2013,22 +2013,6 @@
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
     },
     {
-      "added_at": "2026-08-14 05:19:04",
-      "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
-    },
-    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "Whatever's Clever!",
@@ -2067,6 +2051,22 @@
       "duration_ms": 171789,
       "name": "Can't Explain It (with Girlfriend)",
       "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
+    },
+    {
+      "added_at": "2026-08-14 05:19:04",
+      "album": {
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2145,26 +2145,6 @@
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
-      "added_at": "2026-06-12 06:16:48",
-      "album": {
-        "name": "A LITTLE VENGEANCE",
-        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "DUSTY (with Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Morayo",
@@ -2203,6 +2183,26 @@
       "duration_ms": 151520,
       "name": "One Call Away (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
+    },
+    {
+      "added_at": "2026-06-12 06:16:48",
+      "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "DUSTY (with Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -2261,22 +2261,6 @@
       "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
-    },
-    {
       "added_at": "2025-10-17 05:35:16",
       "album": {
         "name": "SAN ANDREAS",
@@ -2291,6 +2275,22 @@
       "duration_ms": 120000,
       "name": "SAN ANDREAS",
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
+    },
+    {
+      "added_at": "2025-11-14 11:13:06",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": "2026-06-19 08:47:29",
@@ -2321,22 +2321,6 @@
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
     },
     {
-      "added_at": "2026-05-15 06:10:26",
-      "album": {
-        "name": "What's Done Is Done",
-        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 173022,
-      "name": "What's Done Is Done",
-      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
-    },
-    {
       "added_at": "2026-08-21 05:20:05",
       "album": {
         "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
@@ -2355,6 +2339,22 @@
       "duration_ms": 240000,
       "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
       "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
+    },
+    {
+      "added_at": "2026-05-15 06:10:26",
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
     },
     {
       "added_at": "2025-08-22 10:10:54",
@@ -2377,22 +2377,6 @@
       "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 136260,
-      "name": "Sink In",
-      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
-    },
-    {
       "added_at": "2026-02-01 02:45:05",
       "album": {
         "name": "Gas Station Love (remix)",
@@ -2411,6 +2395,22 @@
       "duration_ms": 245100,
       "name": "Gas Station Love - remix",
       "url": "https://open.spotify.com/track/43uvpEvaYB3jxp6TqIwzON"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab"
     },
     {
       "added_at": "2025-10-17 05:35:16",
@@ -2529,22 +2529,6 @@
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
-      "added_at": "2026-06-12 06:16:48",
-      "album": {
-        "name": "FIRE BURNIN' THRU THE RAIN",
-        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "FIRE BURNIN' THRU THE RAIN",
-      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
-    },
-    {
       "added_at": "2025-05-30 04:19:50",
       "album": {
         "name": "Oh Lala",
@@ -2563,6 +2547,22 @@
       "duration_ms": 230031,
       "name": "Oh Lala",
       "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
+    },
+    {
+      "added_at": "2026-06-12 06:16:48",
+      "album": {
+        "name": "FIRE BURNIN' THRU THE RAIN",
+        "url": "https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "FIRE BURNIN' THRU THE RAIN",
+      "url": "https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD"
     },
     {
       "added_at": "2025-09-12 19:24:29",
@@ -2617,6 +2617,22 @@
       "url": "https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g"
     },
     {
+      "added_at": "2025-06-06 05:47:14",
+      "album": {
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
+    },
+    {
       "added_at": "2026-07-24 04:43:12",
       "album": {
         "name": "DREAMS ON THE PASSENGER SEAT",
@@ -2649,22 +2665,6 @@
       "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
-      "added_at": "2025-06-06 05:47:14",
-      "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
       "added_at": "2025-11-07 06:39:38",
       "album": {
         "name": "Smoke n Drank",
@@ -2679,22 +2679,6 @@
       "duration_ms": 151133,
       "name": "Smoke n Drank",
       "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
-    },
-    {
-      "added_at": "2026-03-20 04:41:58",
-      "album": {
-        "name": "LUVAGIRL",
-        "url": "https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 160574,
-      "name": "LUVAGIRL",
-      "url": "https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2717,24 +2701,36 @@
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
     },
     {
-      "added_at": "2025-10-10 07:15:28",
+      "added_at": "2026-03-20 04:41:58",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+        "name": "LUVAGIRL",
+        "url": "https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 160574,
+      "name": "LUVAGIRL",
+      "url": "https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG"
+    },
+    {
+      "added_at": "2025-07-25 09:34:46",
+      "album": {
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        }
+      ],
+      "duration_ms": 136845,
+      "name": "sos",
+      "url": "https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w"
     }
   ],
   "unique_name": "Channel-X",

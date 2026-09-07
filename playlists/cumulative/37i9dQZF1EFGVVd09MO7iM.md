@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,037 songs - 2 day 17 hr 40 min
+1,038 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,8 @@
 | [Smile](https://open.spotify.com/track/1CtBWfrEodNcQNebJXK7lG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:46 | 2024-09-12 |  |
 | [So Ambitious](https://open.spotify.com/track/0Oi1wJRbRy3ZP5phE9kNMC) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:12 | 2024-01-29 |  |
 | [So Good](https://open.spotify.com/track/7wSgOKGffpFf3EZz1mDLkJ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Miss Little Havana \(Latin America/Iberia Version\)](https://open.spotify.com/album/42GRzHxjVcoWr5jdNRkS9u) | 3:16 | 2024-06-20 | 2024-06-22 |
-| [So Hot](https://open.spotify.com/track/4yoabe3QGptxp735vqWHY0) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [So Hot](https://open.spotify.com/album/5JD0x3VbSxXvGKF8TVJ7pB) | 2:31 | 2026-08-28 |  |
+| [So Hot](https://open.spotify.com/track/48THJ5COWI6t8VzmpIzkMA) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [We Want Bass](https://open.spotify.com/album/4aXFpQRlFuW6bE8Fyq5ML7) | 2:31 | 2026-09-06 |  |
+| [So Hot](https://open.spotify.com/track/4yoabe3QGptxp735vqWHY0) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [So Hot](https://open.spotify.com/album/5JD0x3VbSxXvGKF8TVJ7pB) | 2:31 | 2026-08-28 | 2026-09-07 |
 | [So Many Pros](https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:06 | 2024-01-29 |  |
 | [So Many Pros](https://open.spotify.com/track/4IKe8LUX0pIre0iE86X7yb) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [So Many Pros \(Video\)](https://open.spotify.com/album/2Qq5zptRXJcjlvG9YwyCMi) | 4:32 | 2024-01-30 | 2024-02-01 |
 | [Sociopath \(feat\. Kash Doll\)](https://open.spotify.com/track/4xR7m33ECxSjY1nXyWmAx0) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Sociopath](https://open.spotify.com/album/3v452sweoHYSYqZ3oVOM7c) | 2:42 | 2024-06-20 |  |

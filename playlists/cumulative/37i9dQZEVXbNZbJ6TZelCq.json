@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -11506,7 +11524,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -17732,7 +17750,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 213437,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1TwnWP6wrWAMHjgrNSfwHx"
@@ -33405,6 +33423,24 @@
     },
     {
       "album": {
+        "name": "ON NOTHING",
+        "url": "https://open.spotify.com/album/2ZtR9H0A07rWrkXTV0rNg2"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123087,
+      "name": "ON NOTHING",
+      "url": "https://open.spotify.com/track/0EfkB8iQhNxfXCjrKVdms5"
+    },
+    {
+      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -35410,7 +35446,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 198837,
       "name": "Peter Parker - Balkanic Version",
       "url": "https://open.spotify.com/track/2j6msyUIiJMUgbcoWdXMZB"
@@ -37740,7 +37776,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 197730,
       "name": "Ramai talent",
       "url": "https://open.spotify.com/track/4TDbfzHz8qOg1GWtaQVt4y"
@@ -39676,7 +39712,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 173793,
       "name": "SA TE PUP",
       "url": "https://open.spotify.com/track/3dKNqxTNbM58WbgwHeodDn"
@@ -47488,7 +47524,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
@@ -49012,7 +49048,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 151448,
       "name": "Uneori",
       "url": "https://open.spotify.com/track/5QiaV79p5avdlQj03zQCul"

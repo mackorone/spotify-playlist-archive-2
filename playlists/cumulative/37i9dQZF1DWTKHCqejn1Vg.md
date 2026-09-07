@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-344 songs - 18 hr 37 min
+345 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [EASY \(feat\. ELO\)](https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [EASY \(feat\. ELO\)](https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z) | 2:45 | 2022-07-04 | 2023-03-10 |
 | [emoji](https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [emoji](https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE) | 3:39 | 2026-03-13 | 2026-06-30 |
 | [En'dorphin](https://open.spotify.com/track/6JHOV4M8QrVvXdvR1oD5nD) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [En'dorphin](https://open.spotify.com/album/4V2dqsCsbT3Ikfn3uEjj7k) | 2:38 | 2022-05-03 | 2022-07-28 |
-| [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 | 2026-01-22 |  |
+| [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 | 2026-01-22 | 2026-09-07 |
 | [Essential](https://open.spotify.com/track/3H0nxyYFpzMPXGu8JdOS39) | [doe.cent](https://open.spotify.com/artist/2ieO2aPGMErvmiNGBHsQqG) | [Essential](https://open.spotify.com/album/7fRY3ap1PANqSM1bhbfCQI) | 2:56 | 2022-05-03 | 2022-07-14 |
 | [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 | 2025-09-30 | 2026-06-30 |
 | [Evident](https://open.spotify.com/track/7Ctwov7S030TIYIYfx4tm7) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [COCONA](https://open.spotify.com/artist/5UukZH6jYHqTwLSSWGj7FN) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:37 | 2023-02-14 | 2023-02-23 |
@@ -123,6 +123,7 @@
 | [Get Over Me](https://open.spotify.com/track/3Bt8QgyF1ScD26tb5zXybD) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Prism Heart](https://open.spotify.com/album/7Fnc3mYvWZMkiwmftIPi0F) | 2:02 | 2025-09-30 | 2026-01-23 |
 | [Get That Money](https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:13 | 2022-05-03 | 2022-07-27 |
 | [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 | 2022-07-08 | 2024-04-19 |
+| [GIRLFRIEND \(feat\. CAMO\)](https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO) | [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [METAMORPHOSIS](https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4) | 3:06 | 2026-09-03 |  |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 | 2022-11-23 |
 | [Goddamn](https://open.spotify.com/track/607eyydbnlF3XKaMKpbmBh) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:05 | 2022-05-03 | 2022-07-19 |
 | [Golden Time](https://open.spotify.com/track/6RYMQoaFCfmgZPOZbMiEYM) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:39 | 2022-05-03 | 2022-07-22 |

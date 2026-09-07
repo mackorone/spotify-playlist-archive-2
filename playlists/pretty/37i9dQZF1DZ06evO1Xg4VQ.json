@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 74324,
+  "num_followers": 74330,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABwLghqAtKI5KrnRB4voTYt",
+  "snapshot_id": "aptbgAAAAADgv69g3qx64mA6Dd8YU/XE",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 166973,
       "name": "Tu Voz (with Lila Downs)",
       "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
     },
     {
       "added_at": null,
@@ -979,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk"
+        "name": "\u00bfCu\u00e1ndo Nos Vemos?",
+        "url": "https://open.spotify.com/album/0dBDGTV21XafpJU2Uc0hET"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         },
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 290864,
-      "name": "Cambias Mi Mundo",
-      "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
+      "duration_ms": 266854,
+      "name": "\u00bfCu\u00e1ndo Nos Vemos?",
+      "url": "https://open.spotify.com/track/5uxC2ED41ci4o0D0SIlzxA"
     },
     {
       "added_at": null,

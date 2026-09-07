@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3261,
+  "num_followers": 3266,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABC2zL1Uw9M6Ix5YBD6M67x",
+  "snapshot_id": "aptbgAAAAACRBmJCL4anxwWth0bLRyuu",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
+        "name": "20 Questions",
+        "url": "https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210893,
-      "name": "Small Town Scandal",
-      "url": "https://open.spotify.com/track/6HDN6dR62FhfxT9vhlXqfR"
+      "duration_ms": 179226,
+      "name": "20 Questions",
+      "url": "https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Questions",
-        "url": "https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG"
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 179226,
-      "name": "20 Questions",
-      "url": "https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN"
+      "duration_ms": 210893,
+      "name": "Small Town Scandal",
+      "url": "https://open.spotify.com/track/6HDN6dR62FhfxT9vhlXqfR"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen of Hearts",
-        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
+        "name": "Ashley",
+        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 164000,
-      "name": "All Girls Go to Heaven",
-      "url": "https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7"
+      "duration_ms": 168813,
+      "name": "Ashley",
+      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ashley",
-        "url": "https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA"
+        "name": "Queen of Hearts",
+        "url": "https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 168813,
-      "name": "Ashley",
-      "url": "https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL"
+      "duration_ms": 164000,
+      "name": "All Girls Go to Heaven",
+      "url": "https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7"
     },
     {
       "added_at": null,

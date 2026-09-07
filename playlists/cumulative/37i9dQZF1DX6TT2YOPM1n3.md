@@ -4,7 +4,7 @@
 
 > Apne mulk ki homegrown hits 🎶 Cover: Hamza Malik
 
-343 songs - 23 hr 22 min
+344 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Agency](https://open.spotify.com/track/5ZCHWdMgsdoo78m9prkhOR) | [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Agency](https://open.spotify.com/album/6EqgIQxjWv71HrjuBLmMBU) | 4:31 | 2023-05-04 | 2024-04-27 |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2023-05-04 | 2025-03-29 |
 | [Alfaaz](https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9), [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Alfaaz](https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax) | 3:04 | 2026-08-21 |  |
-| [Alif](https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Alif](https://open.spotify.com/album/2KUzNELLaCZrTUuDzd1Gtd) | 3:22 | 2026-07-08 |  |
+| [Alif](https://open.spotify.com/track/1IjVbXiyU4MVXWa2Gtkzxv) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [Alif](https://open.spotify.com/album/2KUzNELLaCZrTUuDzd1Gtd) | 3:22 | 2026-07-08 | 2026-09-07 |
 | [Amplifier](https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Amplifier](https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ) | 3:52 | 2023-05-04 | 2024-04-27 |
 | [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 | 2024-04-19 |
 | [ANDAAZ E BAYAN](https://open.spotify.com/track/4b2ZcyejM0nAQi7Cye5Atf) | [Triplethreats](https://open.spotify.com/artist/4C4YTl2LuFcnICCvZo6eTy), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [ANDAAZ E BAYAN](https://open.spotify.com/album/686Wynn3CFh1L9bX60Dxpi) | 4:08 | 2025-10-18 | 2025-12-03 |
@@ -88,6 +88,7 @@
 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 | 2023-12-21 | 2024-12-20 |
 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2023-05-04 | 2023-11-30 |
 | [Dil Sukoon](https://open.spotify.com/track/7vT0ZQiKD7R2KfJT31VxbF) | [Third Fret](https://open.spotify.com/artist/5zAOSBpwzxlqolVhmCtTYH), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Dil Sukoon](https://open.spotify.com/album/6zppagbNxEA4P6S7KyoVum) | 4:08 | 2026-07-08 |  |
+| [Dil \| Coke Studio Nu.WAV](https://open.spotify.com/track/5qZZiU7CqeLFUPL8afsiSd) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Zoha Waseem](https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Dil \| Coke Studio Nu.WAV](https://open.spotify.com/album/2UuTBgTE0qg0DhE7xyrUcZ) | 3:06 | 2026-09-06 |  |
 | [dilrubaa](https://open.spotify.com/track/1PfOAYwjTSYCskgSGdRfQw) | [Wali Bakhat Warraich](https://open.spotify.com/artist/0CyRAEk8Qp6zicASWIKPLo) | [dilrubaa](https://open.spotify.com/album/7soQBh3lLNgnLkb3FPskkB) | 2:08 | 2023-12-21 | 2024-04-27 |
 | [Distant](https://open.spotify.com/track/7Lw9zeFHaxoSUwAcCtGCP1) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe) | [Distant](https://open.spotify.com/album/0KRHD8UKvY8S3Z9NUiyymx) | 3:00 | 2025-09-17 | 2025-10-04 |
 | [Dont Mind](https://open.spotify.com/track/4Tol72m7hzEseRnsDc3SWw) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Rap Demon](https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok) | [Dont Mind](https://open.spotify.com/album/2RYxxTiEz84BdXyFT5LrSp) | 3:14 | 2023-11-29 | 2023-12-22 |

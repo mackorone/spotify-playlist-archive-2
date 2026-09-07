@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,436 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 20 | [Worth It](https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Jawan](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 4:54 |
 | 21 | [U.S.A.](https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Bryson Camper](https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax), [Harmonious Gospel Choir](https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv) | [Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular \(Original Soundtrack\)](https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs) | 2:42 |
 | 22 | [RAIN DOWN ON ME \(feat\. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore\)](https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 3:48 |
-| 23 | [G.U.T.S\. \(God's Up To Something\)](https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [G.U.T.S\. \(God's Up To Something\)](https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R) | 1:30 |
-| 24 | [I Choose You \(Live\)](https://open.spotify.com/track/057URVa7OFE47yCgI57mcf) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:07 |
-| 25 | [Now Here \(feat\. Kierra Sheard\)](https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Things of Heaven](https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU) | 5:38 |
+| 23 | [I Choose You \(Live\)](https://open.spotify.com/track/057URVa7OFE47yCgI57mcf) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:07 |
+| 24 | [Now Here \(feat\. Kierra Sheard\)](https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Things of Heaven](https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU) | 5:38 |
+| 25 | [G.U.T.S\. \(God's Up To Something\)](https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [G.U.T.S\. \(God's Up To Something\)](https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R) | 1:30 |
 | 26 | [Flaws](https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 3:04 |
 | 27 | [We Need You](https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:58 |
 | 28 | [You Are \- Live](https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 49 | [Paid It All](https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [SORRY, I CHANGED \(AGAIN\)](https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK) | 3:16 |
 | 50 | [The Jungle](https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:15 |
 
-Snapshot ID: `apoKAAAAAABFKlYq2B7m9b6m51dX0OMW`
+Snapshot ID: `aptbgAAAAABsb+5NEopu8poFkPPkYgXN`

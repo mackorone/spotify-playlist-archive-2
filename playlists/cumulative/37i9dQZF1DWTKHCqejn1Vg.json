@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 164026,
       "name": "ERYKAH BADU (Feat. CAMO)",
       "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
@@ -2284,6 +2284,28 @@
       "duration_ms": 193882,
       "name": "Get That Money",
       "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "GIRLFRIEND (feat. CAMO)",
+      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
     },
     {
       "album": {

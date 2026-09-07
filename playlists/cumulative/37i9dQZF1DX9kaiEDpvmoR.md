@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-616 songs - 1 day 12 hr 28 min
+617 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Andetag \(Man måste leva nu\)](https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2) | [Milly](https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j) | [Andetag \(Man måste leva nu\)](https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o) | 3:35 | 2025-05-22 | 2026-02-13 |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
 | [Anita \- Live](https://open.spotify.com/track/1cAvfCoezYrOW8ajxl5wVO) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Sliperiet Sessions \(Live\)](https://open.spotify.com/album/2tcTCKeOyGH9psxxoQrvGe) | 4:35 | 2025-11-06 | 2026-02-27 |
-| [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C) | 3:35 | 2026-07-16 |  |
+| [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C) | 3:35 | 2026-07-16 | 2026-09-07 |
 | [Ansiktenas mystik](https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Frostvikskören](https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA) | [Ansiktenas mystik](https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ) | 3:20 | 2025-04-24 | 2025-06-20 |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-14 |
 | [Arg och frustrerad](https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Arg och frustrerad](https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn) | 3:29 | 2026-05-14 |  |
@@ -69,6 +69,7 @@
 | [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 | 2025-12-17 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 | 2026-02-13 |
 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-07-02 |  |
+| [Borderline](https://open.spotify.com/track/5EQHQ0F7pcog3RKgu38IIp) | [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Borderline](https://open.spotify.com/album/6f5Tud1MiF43PSymYrnBsW) | 2:46 | 2026-09-03 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
 | [Bra för dig](https://open.spotify.com/track/0uSBYTlQw9tR6H2HzcUXji) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0), [Karin Wistrand](https://open.spotify.com/artist/6LHbFvsdTSwsk5Tn4O7PNB) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA) | 4:07 | 2025-01-02 | 2025-05-09 |

@@ -7069,6 +7069,36 @@
     },
     {
       "album": {
+        "name": "Natural Blues (TECIE)",
+        "url": "https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Jacob Lusk",
+          "url": "https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Natural Blues (TECIE)",
+      "url": "https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea"
+    },
+    {
+      "album": {
         "name": "Never Ever",
         "url": "https://open.spotify.com/album/19mWO6N3Aho1cJe5P29oBQ"
       },
@@ -7932,7 +7962,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 199575,
       "name": "Rhythm Of The House",
       "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"

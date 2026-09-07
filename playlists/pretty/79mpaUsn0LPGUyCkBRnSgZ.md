@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 777 songs - 2 day 2 hr 4 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 778 songs - 2 day 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -785,5 +785,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 775 | [Middle of Nowhere](https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:36 |
 | 776 | [Junkie In The Sun](https://open.spotify.com/track/2sJEw4to3z7kW0Q82OsuI9) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Junkie in The Sun](https://open.spotify.com/album/1z2jPthJpowfvopTcmCJnw) | 3:46 |
 | 777 | [THE NEW SUBLIME](https://open.spotify.com/track/5G5PVQTylw22ClQKIlXpto) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:43 |
+| 778 | [Titties Bounce](https://open.spotify.com/track/6ZmDVwGBoXf7gzFjHWnSvx) | [Gravy Train!!!!](https://open.spotify.com/artist/43q75UPPaYM6brcFIdeH2P) | [Hello Doctor](https://open.spotify.com/album/3kyBl8DuRg2o6Xv8I2KEyb) | 2:50 |
 
-Snapshot ID: `AAAJi13H/vg6epLOIN97REHVQmf8lgXw`
+Snapshot ID: `AAAJjJbekKraAQ/BV2IPl9DegjucaJqk`

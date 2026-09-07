@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: D'Angelo",
-  "num_followers": 3880892,
+  "num_followers": 3881041,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
       "artists": [
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
         }
       ],
-      "duration_ms": 291666,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
       "artists": [
         {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
         }
       ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+      "duration_ms": 291666,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Candy Rain",
         "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 260066,
       "name": "Every Little Thing I Do",
       "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/5FR54UnizyI8pE5E9Zb0Dt"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Release Some Tension",
-        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Do You Wanna Ride?",
@@ -979,6 +963,22 @@
       "duration_ms": 253613,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Release Some Tension",
+        "url": "https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "702",
         "url": "https://open.spotify.com/album/6PELMehRtCwGXXyFS0fLKR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 166693,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
-      "added_at": "2022-07-28 15:25:39",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "The Boy Is Mine",
@@ -1227,6 +1211,22 @@
       "duration_ms": 250173,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
+    },
+    {
+      "added_at": "2022-07-28 15:25:39",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
     },
     {
       "added_at": "2022-09-16 08:12:46",

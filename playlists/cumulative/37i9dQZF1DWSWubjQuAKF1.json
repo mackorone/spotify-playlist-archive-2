@@ -6799,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "KID",
+        "url": "https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220762,
+      "name": "KID",
+      "url": "https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb"
+    },
+    {
+      "album": {
         "name": "Kiedy jeste\u015b",
         "url": "https://open.spotify.com/album/5h2Z4crCXk6N2vqJO8NUxn"
       },
@@ -6810,7 +6828,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 169272,
       "name": "Kiedy jeste\u015b",
       "url": "https://open.spotify.com/track/3oIah1APUdIWNAnfeneenc"
@@ -10121,6 +10139,24 @@
     },
     {
       "album": {
+        "name": "Nie umiem kocha\u0107",
+        "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190879,
+      "name": "Nie umiem kocha\u0107",
+      "url": "https://open.spotify.com/track/11bRjv4HeXGINazFrkOdh4"
+    },
+    {
+      "album": {
         "name": "Nie zawsze wszystko",
         "url": "https://open.spotify.com/album/6hCqUNPQDp25b85hGQ7ixM"
       },
@@ -11292,7 +11328,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 209820,
       "name": "Over-",
       "url": "https://open.spotify.com/track/0mmAXzeTlOlFJgnKCMtRDl"
@@ -11990,6 +12026,24 @@
       "duration_ms": 157258,
       "name": "Po co tyle m\u00f3wi\u0107",
       "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
+    },
+    {
+      "album": {
+        "name": "Po drugiej stronie szk\u0142a",
+        "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Po drugiej stronie szk\u0142a",
+      "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
     },
     {
       "album": {
@@ -17772,7 +17826,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 191102,
       "name": "Zaloty",
       "url": "https://open.spotify.com/track/7e07gvdtoAR9f1SD5Tzgsq"

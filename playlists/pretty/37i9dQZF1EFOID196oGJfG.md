@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 13 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 |
 | 14 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
 | 15 | [Stare](https://open.spotify.com/track/3qJolzSTXB91zil3ZXwspT) | [Rory Adams](https://open.spotify.com/artist/5nf5lJ3cik78BBntVGecWx) | [Stare](https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1) | 3:24 |
-| 16 | [Til You're Ready](https://open.spotify.com/track/3wLlzPPBUJ7ThhmWD4l4gg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Til You're Ready](https://open.spotify.com/album/79rKnowuMb3EDJJ061glp3) | 2:58 |
-| 17 | [Angel](https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Angel](https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32) | 2:27 |
+| 16 | [Angel](https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Angel](https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32) | 2:27 |
+| 17 | [Til You're Ready](https://open.spotify.com/track/3wLlzPPBUJ7ThhmWD4l4gg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Til You're Ready](https://open.spotify.com/album/79rKnowuMb3EDJJ061glp3) | 2:58 |
 | 18 | [Ease Up](https://open.spotify.com/track/3qEAjqlxlh0L8Xvd1LNj4M) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Black Out \- The 1st Mini Album](https://open.spotify.com/album/2QjGuxIooOrv113vp3PAwf) | 2:50 |
 | 19 | [body](https://open.spotify.com/track/6Vei3kKN9pPMpBZ9kgF1w8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [body](https://open.spotify.com/album/1Ys8zFS9GLkPWlTnVX0n7b) | 3:51 |
 | 20 | [ferrari](https://open.spotify.com/track/1MGxxrE534VUAYOiWaWwR2) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:45 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 41 | [Spit It Out](https://open.spotify.com/track/4fmsiOsBZyez2ifpSQ8kLR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Between The Lines](https://open.spotify.com/album/5h7N7CY3WjH0WdgaYdMu6Q) | 2:30 |
 | 42 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcbhiAAAAADQFFY2FcV8E0hJWkaQ0KKR`
+Snapshot ID: `AcbnKAAAAAD6jzlgIGrDy1Lc8Drpex9g`

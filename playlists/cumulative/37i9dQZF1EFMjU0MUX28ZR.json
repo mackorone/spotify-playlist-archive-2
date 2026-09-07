@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "I Know Too Much",
+        "url": "https://open.spotify.com/album/6wj6EqEV4sywgzZ4O7NeST"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198971,
+      "name": "Black Prada Dress",
+      "url": "https://open.spotify.com/track/18nLytFe3KuUp8BOyAAXy8"
+    },
+    {
+      "album": {
         "name": "Black Prada Dress",
         "url": "https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 199966,
       "name": "Black Prada Dress",
       "url": "https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH"
@@ -1862,6 +1880,24 @@
     {
       "album": {
         "name": "Butterflies In My Head",
+        "url": "https://open.spotify.com/album/74luwDXlGZxoWauo9xccVn"
+      },
+      "artists": [
+        {
+          "name": "Mark Diamond",
+          "url": "https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182715,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/0pdy9TNHfsWpSI0eXp2VPh"
+    },
+    {
+      "album": {
+        "name": "Butterflies In My Head",
         "url": "https://open.spotify.com/album/1DcD0mOAi4jv2TxOyiXloH"
       },
       "artists": [
@@ -1872,7 +1908,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 182715,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/2dnnrWEZDm9QB3b4DVK4Pr"

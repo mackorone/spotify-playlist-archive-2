@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 269225,
+  "num_followers": 269241,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACppOfzO29fkdIqSLqrT3JF",
+  "snapshot_id": "aptbgAAAAABJaka8BfwhVVZc6e0wqpDF",
   "tracks": [
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "With That (feat. Duke)",
+      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 188440,
       "name": "Slam the Door",
       "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/0wVlws1JGleYZSVRWjj9B7"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "With That (feat. Duke)",
-      "url": "https://open.spotify.com/track/6o4nVtywF4F75RkOcDxrtd"
     },
     {
       "added_at": null,

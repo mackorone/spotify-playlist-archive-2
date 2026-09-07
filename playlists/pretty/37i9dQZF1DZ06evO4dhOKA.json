@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70945,
+  "num_followers": 70959,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACc+/ymJRNTpEMupzUXNsIf",
+  "snapshot_id": "aptbgAAAAACAEVue5tyuVifB2ljAnU8+",
   "tracks": [
     {
       "added_at": null,
@@ -68,17 +68,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 196822,
-      "name": "Los Dos Amigos - En Vivo Desde El Domo Care",
-      "url": "https://open.spotify.com/track/0TulgteBidfTl6b9LfoVr0"
+      "duration_ms": 157624,
+      "name": "Aguanta Coraz\u00f3n - En Vivo Desde El Domo Care",
+      "url": "https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ"
     },
     {
       "added_at": null,
@@ -115,18 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Mi Borrachera",
-      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+      "duration_ms": 155908,
+      "name": "Que la Dejen Ir al Baile Sola",
+      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
     },
     {
       "added_at": null,
@@ -140,17 +144,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         }
       ],
-      "duration_ms": 157624,
-      "name": "Aguanta Coraz\u00f3n - En Vivo Desde El Domo Care",
-      "url": "https://open.spotify.com/track/1ZEQbmzZqV0KIxEh15zzjQ"
+      "duration_ms": 196822,
+      "name": "Los Dos Amigos - En Vivo Desde El Domo Care",
+      "url": "https://open.spotify.com/track/0TulgteBidfTl6b9LfoVr0"
     },
     {
       "added_at": null,
@@ -187,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 155908,
-      "name": "Que la Dejen Ir al Baile Sola",
-      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 235260,
       "name": "El Rey De Mil Coronas - En Vivo",
       "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 198976,
       "name": "El Preso De Nuevo Le\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 188042,
       "name": "Playa Sola - En Vivo",
       "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bajo Mil Llaves",
-        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
     },
     {
       "added_at": null,

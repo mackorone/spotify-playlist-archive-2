@@ -2485,6 +2485,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Sabrosa",
+        "url": "https://open.spotify.com/album/6Kh5EYSIB783vwt90QZ1ZO"
+      },
+      "artists": [
+        {
+          "name": "La Ihuana Mary",
+          "url": "https://open.spotify.com/artist/5EVrykuinQxxYmRvttSMT5"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198213,
+      "name": "Esa Guacha",
+      "url": "https://open.spotify.com/track/0sl11kbj8nhAUCvKJqzJWX"
+    },
+    {
+      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -2610,7 +2628,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 131853,
       "name": "FERNANDITO",
       "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
@@ -6224,7 +6242,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 269113,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
@@ -6682,6 +6700,24 @@
       "duration_ms": 186436,
       "name": "Te Fuiste De Gira",
       "url": "https://open.spotify.com/track/1hiIFZciaCbhgCvwxHGT7P"
+    },
+    {
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "date_added": "2026-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140866,
+      "name": "Te Invito a Bailar",
+      "url": "https://open.spotify.com/track/5DDiufzTHaZAFuL0PQni2d"
     },
     {
       "album": {

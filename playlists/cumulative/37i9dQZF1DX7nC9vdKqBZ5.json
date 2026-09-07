@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+    },
+    {
+      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 221106,
       "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"

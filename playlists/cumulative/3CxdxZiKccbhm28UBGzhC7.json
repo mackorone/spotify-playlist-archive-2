@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243933,
+      "name": "If You Got The Money",
+      "url": "https://open.spotify.com/track/5XbX2Wud5JmdRBtqWMLhoB"
+    },
+    {
+      "album": {
         "name": "For Crying Out Loud (Deluxe)",
         "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
@@ -1530,6 +1548,24 @@
       "duration_ms": 205746,
       "name": "My Propeller",
       "url": "https://open.spotify.com/track/2hmHlBM0kPBm17Y7nVIW9f"
+    },
+    {
+      "album": {
+        "name": "We Are Your Friends",
+        "url": "https://open.spotify.com/album/3wBmAxRSkxbWqBZ57Ujogs"
+      },
+      "artists": [
+        {
+          "name": "Simian",
+          "url": "https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202693,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/0hFGU12tOymm3D8WXiWhEl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Paige Plaisance
 
-282 songs - 16 hr 33 min
+283 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-07-05 |  |
 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 | 2021-11-12 |  |
 | [The Last Tear](https://open.spotify.com/track/1dUQUX4jRmE8PROZ4Xw49C) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Lately](https://open.spotify.com/album/1azugHkoKRDBfIsCac10z9) | 3:31 | 2022-02-18 | 2025-07-10 |
-| [The Last To Know](https://open.spotify.com/track/65965vBWT1mhOGat6GodGa) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [Havin' A Talk](https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP) | 3:26 | 2026-02-06 |  |
+| [The Last To Know](https://open.spotify.com/track/65965vBWT1mhOGat6GodGa) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [Havin' A Talk](https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP) | 3:26 | 2026-02-06 | 2026-09-07 |
 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 | 2023-06-09 |  |
 | [The Story](https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7) | 4:17 | 2022-04-01 | 2024-04-19 |
 | [The Story](https://open.spotify.com/track/1XYD3qY6OrSvTcsAas6vWT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Story](https://open.spotify.com/album/0DK5IHPN9VNzADJ0vgf9BK) | 4:17 | 2021-11-12 | 2022-07-29 |
@@ -264,6 +264,7 @@
 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 | 2021-11-12 |  |
 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 | 2021-11-12 |  |
 | [Tumbleweeds and Chewing Gum](https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tumbleweeds and Chewing Gum](https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl) | 2:39 | 2026-03-06 |  |
+| [Turn This Thing Around](https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Country Is Dead](https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN) | 3:36 | 2026-09-04 |  |
 | [Under You](https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9) | [Andrew Sa](https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07) | [Under You](https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86) | 3:48 | 2026-04-17 |  |
 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 | 2021-11-12 | 2026-03-07 |
 | [Walkin' After Midnight](https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:34 | 2022-04-01 | 2024-04-19 |

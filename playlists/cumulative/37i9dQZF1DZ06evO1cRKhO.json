@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 510360,
       "name": "\"Let It Be So\"",
       "url": "https://open.spotify.com/track/51u9k9WrdKeq453UivoW9G"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 570506,
       "name": "\"Let Me Not Be Mad\"",
       "url": "https://open.spotify.com/track/48hBDJxqoQfWZAc3vEBF1w"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 204698,
       "name": "Arc Hive",
       "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 128973,
       "name": "Fantastic Increments",
       "url": "https://open.spotify.com/track/1iqeU4xp8Qq8B6BC32kVan"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 235800,
       "name": "Fed Back 2",
       "url": "https://open.spotify.com/track/5EL8kwk54XmX03SOYEJmc3"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 130933,
       "name": "Mass Action",
       "url": "https://open.spotify.com/track/4NEL3xHrHuN5ctwyg2ovvb"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 2018160,
       "name": "Mind Bog",
       "url": "https://open.spotify.com/track/3kZm6sinhvCCvLE77gYa5l"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 243840,
       "name": "Morphotropic",
       "url": "https://open.spotify.com/track/6lOzGJLSRY374dHqBpIEWU"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 282813,
       "name": "Photonic Dance",
       "url": "https://open.spotify.com/track/0dtNZJou6NptVMtC4DFsyn"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 635413,
       "name": "Procession",
       "url": "https://open.spotify.com/track/07UUzMNgw4G1z7e9Vwv20C"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Sirens of Titan",
       "url": "https://open.spotify.com/track/6xD4CD2VXU8eueuUZzNpU3"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 591826,
       "name": "The Shadow of the Phoenix",
       "url": "https://open.spotify.com/track/1HnV9fd6aAlX9WHKqiEJv6"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 306040,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/35IB6jqgvQyjWst1ot9lDd"

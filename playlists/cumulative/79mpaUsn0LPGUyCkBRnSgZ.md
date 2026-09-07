@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,213 songs - 3 day 6 hr 16 min
+1,214 songs - 3 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [Time Back](https://open.spotify.com/track/1gvNe9yDWcTZ4B3LlcrkSV) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 2:11 | 2023-04-30 | 2023-05-03 |
 | [Time Travelin' \(A Tribute To Fela\)](https://open.spotify.com/track/2AaB2ZDeJXu6j4Csos4gZH) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 6:37 | 2022-01-06 |  |
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |
+| [Titties Bounce](https://open.spotify.com/track/6ZmDVwGBoXf7gzFjHWnSvx) | [Gravy Train!!!!](https://open.spotify.com/artist/43q75UPPaYM6brcFIdeH2P) | [Hello Doctor](https://open.spotify.com/album/3kyBl8DuRg2o6Xv8I2KEyb) | 2:50 | 2026-09-07 |  |
 | [TNT](https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 7:33 | 2024-01-31 |  |
 | [To All The Girls](https://open.spotify.com/track/7JSHs5GH7pq5moVo8wu1I6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 1:29 | 2024-01-03 |  |
 | [Tom Violence](https://open.spotify.com/track/0IqY07yVeGSFXyIlHGqjyE) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Evol](https://open.spotify.com/album/5Bf5U1Zw9gsJh6bWaM2VY2) | 3:05 | 2025-12-31 | 2026-01-02 |

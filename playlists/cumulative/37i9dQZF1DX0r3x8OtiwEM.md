@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-805 songs - 3 day 2 hr 29 min
+806 songs - 3 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Keep Control \- ARTBAT Remix](https://open.spotify.com/track/5RRW8mTdeutSNYSmV4om5C) | [Sono](https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Keep Control \(ARTBAT Remix\)](https://open.spotify.com/album/7sbZ5EN4zQ8F6d8ElD3cRi) | 8:03 | 2020-06-12 | 2020-06-29 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-18 | 2025-04-05 |
 | [Keep Love Waiting](https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [BLINK](https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF) | 3:57 | 2025-10-17 |  |
+| [Keep Up](https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Keep Up](https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k) | 2:38 | 2026-09-04 |  |
 | [Kenger](https://open.spotify.com/track/6naCXLqx0qvSnYWkrbioFm) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Kenger](https://open.spotify.com/album/3sQxzAKNFiFq7NSSTnMzKL) | 5:40 | 2021-08-03 | 2022-07-29 |
 | [Kien](https://open.spotify.com/track/3zTMjnrwEZbt3wT7APGenr) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Kien](https://open.spotify.com/album/23ZJdt14Cx0K0Kdh8rAGUS) | 4:14 | 2025-08-01 | 2025-09-26 |
 | [Kinesphere](https://open.spotify.com/track/0JktQvQRsWSwzVPsIFNnBd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Coco Nancy](https://open.spotify.com/artist/6UdrfJ5hsqDUsANqLtQ42b) | [Kinesphere](https://open.spotify.com/album/34riHamtey94DLboN3bmo4) | 3:34 | 2026-03-09 | 2026-04-30 |
@@ -574,7 +575,7 @@
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2019-09-13 | 2020-06-07 |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2023-01-13 | 2023-02-23 |
 | [Return to Oz \- ARTBAT Remix](https://open.spotify.com/track/1HHxzXIdk5XJrG8TJHEWq5) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Return to Oz \(ARTBAT Remix\)](https://open.spotify.com/album/2S56TQxiApLBKaPD24xoUB) | 8:00 | 2019-08-06\* | 2020-01-04 |
-| [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 | 2026-07-10 |  |
+| [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 | 2026-07-10 | 2026-09-07 |
 | [Revelations \- Dub Mix](https://open.spotify.com/track/3OEq4bTpC8lakFEwQhKhGa) | [Stan Kolev](https://open.spotify.com/artist/6MzHMxgYcbj6ue5w9pbNp9), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [Revelations](https://open.spotify.com/album/3qmNkcdFtEfqfMVS7oaEvw) | 7:32 | 2019-09-06 | 2020-01-04 |
 | [Revived](https://open.spotify.com/track/20LhXKgCy3ymdrPwwx27AY) | [IRA \(GER\)](https://open.spotify.com/artist/0Cw433VO1ZEaD8Jmq5lZwk) | [Revived](https://open.spotify.com/album/5T712jvqP0OB6e8GMHErCD) | 6:09 | 2021-06-24 | 2022-07-22 |
 | [Rhy](https://open.spotify.com/track/21kTLPrFYH8KuxdJvmvYXK) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Rhy](https://open.spotify.com/album/1LhOlDYuQtBpIffK1DT7Mm) | 7:20 | 2019-11-10 | 2020-10-21 |

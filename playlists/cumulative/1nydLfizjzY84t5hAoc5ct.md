@@ -2,7 +2,7 @@
 
 ### [Off Axis Gigs \. com](https://open.spotify.com/playlist/1nydLfizjzY84t5hAoc5ct)
 
-> OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
+> OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop  \| NO autotune, AI or instrumental
 
 450 songs - 1 day 3 hr 9 min
 

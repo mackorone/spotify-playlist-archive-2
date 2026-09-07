@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 128048,
+  "num_followers": 128101,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Cumbia Villera",
-        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
       "artists": [
         {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 218680,
-      "name": "Pibe Cantina",
-      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
         }
       ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+      "duration_ms": 218680,
+      "name": "Pibe Cantina",
+      "url": "https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 224352,
-      "name": "Su Florcita",
-      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+      "duration_ms": 224352,
+      "name": "Su Florcita",
+      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -455,6 +439,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 195644,
-      "name": "Y Dime",
-      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 187546,
       "name": "Yo Me Enamore",
       "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 195644,
+      "name": "Y Dime",
+      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -535,34 +535,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "La Lata",
-        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
         }
       ],
-      "duration_ms": 244653,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+      "duration_ms": 181254,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -583,18 +567,34 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "La Lata",
+        "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Explicale",
-      "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Explicale",
+      "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Te Mueve",
+        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
+      },
+      "artists": [
+        {
+          "name": "Garras de Amor",
+          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 231000,
       "name": "Tomare Para Olvidar",
       "url": "https://open.spotify.com/track/6jIgkj63qs0teCYQ1EB2se"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Te Mueve",
-        "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
-      },
-      "artists": [
-        {
-          "name": "Garras de Amor",
-          "url": "https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Caprichito",
-      "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "90 Retro Style",
-        "url": "https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Digan Lo Que Digan",
         "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 174889,
       "name": "Ritmo Sabroso",
       "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "90 Retro Style",
+        "url": "https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0zbd8A9zWSd0JtBVyn44Ge"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Mariposa Del Dolor",
-        "url": "https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        },
-        {
-          "name": "ILag Keins",
-          "url": "https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y"
-        }
-      ],
-      "duration_ms": 253070,
-      "name": "Mariposa Del Dolor",
-      "url": "https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Sigue La Cumbia",
         "url": "https://open.spotify.com/album/0IPyzHUYM7ZQTrC7p5WTNx"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 166586,
       "name": "Sigue La Cumbia",
       "url": "https://open.spotify.com/track/0sUz6Aj7VGvrWo8q6g2T7C"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Mariposa Del Dolor",
+        "url": "https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "ILag Keins",
+          "url": "https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y"
+        }
+      ],
+      "duration_ms": 253070,
+      "name": "Mariposa Del Dolor",
+      "url": "https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Pregonero",
-        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
-      },
-      "artists": [
-        {
-          "name": "Banda Conmoci\u00f3n",
-          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Flor de Cumbi\u00f3n",
-      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Soy Cumbia",
         "url": "https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 267789,
       "name": "Tu Sangre En Mi cuerpo Feat. Domi",
       "url": "https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Pregonero",
+        "url": "https://open.spotify.com/album/44vJ4lHPNZmfZ09TJ4Q1Hd"
+      },
+      "artists": [
+        {
+          "name": "Banda Conmoci\u00f3n",
+          "url": "https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Flor de Cumbi\u00f3n",
+      "url": "https://open.spotify.com/track/1iw2aoN9vgmzHw0acRFvAZ"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Canci\u00f3n Bonita",
+        "url": "https://open.spotify.com/album/5s39l4jmnbhrqztnag434s"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 227563,
+      "name": "Canci\u00f3n Bonita",
+      "url": "https://open.spotify.com/track/5eURzSME8gvf8DEYqNXBz2"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Sigo Enamorado de Ti",
         "url": "https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 467185,
       "name": "Megamix",
       "url": "https://open.spotify.com/track/4IaTGBLqlOee3S98dm4Zxx"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Canci\u00f3n Bonita",
-        "url": "https://open.spotify.com/album/5s39l4jmnbhrqztnag434s"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 227563,
-      "name": "Canci\u00f3n Bonita",
-      "url": "https://open.spotify.com/track/5eURzSME8gvf8DEYqNXBz2"
     },
     {
       "added_at": "2026-09-04 18:44:34",

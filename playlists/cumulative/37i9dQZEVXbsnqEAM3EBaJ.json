@@ -266,7 +266,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 360986,
       "name": "...And We Shall Sing",
       "url": "https://open.spotify.com/track/0a8HyNMvaH2LAnLS5QJo6f"
@@ -7513,6 +7513,24 @@
     },
     {
       "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/2ByL7jWAuDqb07RXuf2Ivv"
+      },
+      "artists": [
+        {
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/2BupBRJwKdAEdkmBfSLYDx"
+    },
+    {
+      "album": {
         "name": "Beautiful Love",
         "url": "https://open.spotify.com/album/3TULJQsXwyF3h6K1F2VDnc"
       },
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 210373,
       "name": "Beautiful Love",
       "url": "https://open.spotify.com/track/58SM8GoeArGdh9xNqicg3G"
@@ -18160,7 +18178,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 350826,
       "name": "Echo Of You",
       "url": "https://open.spotify.com/track/18olbSSzP7rlDmlu3vUSPG"
@@ -18832,7 +18850,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 208997,
       "name": "El Crack - Ac\u00fastica",
       "url": "https://open.spotify.com/track/4E3EKFoYpFkwvvxlpo2BNY"
@@ -20376,6 +20394,28 @@
       "duration_ms": 167663,
       "name": "Esto Es El Campo",
       "url": "https://open.spotify.com/track/53m9KsBzgo5FeHWfXVAnHI"
+    },
+    {
+      "album": {
+        "name": "Esto Si Es Punk Rock",
+        "url": "https://open.spotify.com/album/2y7Ol1Gr3YtL5ETyN3piLF"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        },
+        {
+          "name": "Trotsky Vengar\u00e1n",
+          "url": "https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63027,
+      "name": "Esto Si Es Punk Rock",
+      "url": "https://open.spotify.com/track/3o7FmXzpfgt25KDlDBb2Ga"
     },
     {
       "album": {
@@ -30262,7 +30302,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 346840,
       "name": "I Was the Sword",
       "url": "https://open.spotify.com/track/0qazxP5gIyWm77OeKaRSii"
@@ -33772,7 +33812,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 297130,
       "name": "JUEGO",
       "url": "https://open.spotify.com/track/4zbQpTeAY9mfJcTQUhDFnY"
@@ -35438,7 +35478,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 354906,
       "name": "La petite fille de la mer - Remastered",
       "url": "https://open.spotify.com/track/4IjT9gw9d1LhlzqwePKzsz"
@@ -36628,6 +36668,32 @@
       "duration_ms": 652620,
       "name": "Leonore Overture No. 3, Op. 72a (Arr. Solo Piano by Ritter) - Welte-Mignon 3130",
       "url": "https://open.spotify.com/track/2DxholBrFO9r4fChQefYwk"
+    },
+    {
+      "album": {
+        "name": "\"A Palette of Preludes: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/2hQ8nSYynmWpvSzet5awnv"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Les Sylphides: 1. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/00MwZmkUUtmeaIkOoDiy7Z"
     },
     {
       "album": {
@@ -40356,10 +40422,32 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 441750,
       "name": "Maneater - RITUAL Version",
       "url": "https://open.spotify.com/track/1euS7qZQFzj6nXjhwm6dRs"
+    },
+    {
+      "album": {
+        "name": "Loose (Deluxe 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0W8jDIstZaShcBkmKOShU4"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Adam Tendler",
+          "url": "https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441750,
+      "name": "Maneater - RITUAL Version",
+      "url": "https://open.spotify.com/track/3eahngz9qo82oxYHUdzKop"
     },
     {
       "album": {
@@ -41814,7 +41902,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 164496,
       "name": "Minuet of the Marble Hall",
       "url": "https://open.spotify.com/track/4sAFP603qIW6FQXdlMkywc"
@@ -42320,6 +42408,28 @@
       "duration_ms": 249037,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6ZIH0zSf83nqyuIQbzE1nq"
+    },
+    {
+      "album": {
+        "name": "Nocturne & Reflections",
+        "url": "https://open.spotify.com/album/5Jo2mM79wa3JEB5WSYXlYq"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179208,
+      "name": "Moon Over Quiet Water",
+      "url": "https://open.spotify.com/track/79YCAwUEmGamYQ3Ruou9xJ"
     },
     {
       "album": {
@@ -45076,7 +45186,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 384613,
       "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
       "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
@@ -47780,7 +47890,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 233631,
       "name": "Pacto",
       "url": "https://open.spotify.com/track/6icxCzvzaNLHonxjGE3KCf"
@@ -51268,6 +51378,28 @@
       "duration_ms": 224000,
       "name": "Quiz\u00e1s con Qui\u00e9n - En Vivo",
       "url": "https://open.spotify.com/track/0DUTpp3LNSBQ4TJl4ol2Ns"
+    },
+    {
+      "album": {
+        "name": "QUI\u00c9N DETIENE ESTE AMOR",
+        "url": "https://open.spotify.com/album/1BzOzkFwU94aU4kLCidHW3"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        },
+        {
+          "name": "Catalina Plaza",
+          "url": "https://open.spotify.com/artist/4b1iZ5sKC7DIouorlj6OxO"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267392,
+      "name": "QUI\u00c9N DETIENE ESTE AMOR",
+      "url": "https://open.spotify.com/track/0nnODvVKcqenHIfCWjgN3M"
     },
     {
       "album": {
@@ -63506,7 +63638,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 188880,
       "name": "The Amber Nocturne",
       "url": "https://open.spotify.com/track/6WDijVZSFLAo5qpFlOmUsv"
@@ -64894,7 +65026,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 335013,
       "name": "The Last Generation",
       "url": "https://open.spotify.com/track/03igeUdBEdN5wrj3vww9Mq"
@@ -71258,7 +71390,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 420500,
       "name": "Veha",
       "url": "https://open.spotify.com/track/1bUS3mpCdYooZy3whov58j"
@@ -71410,7 +71542,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 172416,
       "name": "Venetian Poetry",
       "url": "https://open.spotify.com/track/2vF7agIlFXyMz0UKOpZxWc"
@@ -76832,7 +76964,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 156737,
       "name": "\u00c1ngel de Nicho",
       "url": "https://open.spotify.com/track/3pq9yH2TTd05JYomwZE4z1"
@@ -77060,7 +77192,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 109573,
       "name": "\u041f\u0415\u0421\u041d\u042f \u0420\u0410\u0417\u0411\u041e\u0419\u041d\u0418\u041a\u041e\u0412",
       "url": "https://open.spotify.com/track/2EMtBCwFzH3R3nGdwynqIY"

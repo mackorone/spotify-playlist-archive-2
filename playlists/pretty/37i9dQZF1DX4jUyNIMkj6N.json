@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 224546,
+  "num_followers": 224569,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "The Arms Of You",
-        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 170302,
-      "name": "The Arms Of You",
-      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
-    },
-    {
-      "added_at": "2026-09-03 22:01:42",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 263880,
       "name": "fare thee well",
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2026-09-03 22:01:42",
+      "album": {
+        "name": "The Arms Of You",
+        "url": "https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 170302,
+      "name": "The Arms Of You",
+      "url": "https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 243520,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
+      "duration_ms": 251140,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -747,18 +747,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+      "duration_ms": 243520,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/5wU6jk9kxYzFGUpeE6T2Q5"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ"
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 251140,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz"
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -879,18 +879,22 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "Backside",
-        "url": "https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04"
+        "name": "A Fire Test",
+        "url": "https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob"
       },
       "artists": [
         {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        },
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Backside",
-      "url": "https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux"
+      "duration_ms": 195254,
+      "name": "A Fire Test",
+      "url": "https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD"
     },
     {
       "added_at": "2026-09-03 22:01:42",
@@ -911,22 +915,18 @@
     {
       "added_at": "2026-09-03 22:01:42",
       "album": {
-        "name": "A Fire Test",
-        "url": "https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob"
+        "name": "Backside",
+        "url": "https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        },
-        {
-          "name": "Lawrence Rothman",
-          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
         }
       ],
-      "duration_ms": 195254,
-      "name": "A Fire Test",
-      "url": "https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD"
+      "duration_ms": 147000,
+      "name": "Backside",
+      "url": "https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux"
     },
     {
       "added_at": "2026-09-03 22:01:42",

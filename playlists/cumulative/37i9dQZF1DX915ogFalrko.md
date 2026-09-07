@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-263 songs - 15 hr 20 min
+264 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Clueless \(feat\. Aly & AJ\)](https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Tunnel Vision](https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL) | 3:28 | 2026-04-30 | 2026-06-17 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
-| [Compaction](https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO) | 2:54 | 2026-07-23 |  |
+| [Compaction](https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO) | 2:54 | 2026-07-23 | 2026-09-07 |
 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 | 2025-07-18 |  |
 | [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 | 2025-12-09 |
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-25 | 2025-08-02 |
@@ -188,6 +188,7 @@
 | [revolver](https://open.spotify.com/track/0ZsmQPfjB6s5PTTC8OJiGx) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [revolver](https://open.spotify.com/album/0znbpnfnE9qDPWEBngkKIw) | 3:44 | 2026-07-02 | 2026-07-17 |
 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 | 2026-02-19 | 2026-05-22 |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2025-07-18 |  |
+| [San Francisco](https://open.spotify.com/track/4zVQlddW37DnjsycBBysgr) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [San Francisco](https://open.spotify.com/album/3mjRgtKH9XR8X4cJUkDpt4) | 3:51 | 2026-09-04 |  |
 | [Save a Little Love for Me](https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Forward](https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC) | 3:32 | 2025-07-18 |  |
 | [Shala\-Lala\-La](https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT) | [Waldeck](https://open.spotify.com/artist/6596yDTd94cIC3dlBptxDH), [la Heidi](https://open.spotify.com/artist/5uaGhmrko7vQ43FKH1V1KT) | [Gran Paradiso](https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM) | 3:15 | 2025-07-18 |  |
 | [She's My Religion](https://open.spotify.com/track/4Roi9Mr7xgXkdSjpbdgCl4) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [She's My Religion](https://open.spotify.com/album/17iEQhSfY6US3IGhzLoEVG) | 4:00 | 2026-06-26 | 2026-07-25 |

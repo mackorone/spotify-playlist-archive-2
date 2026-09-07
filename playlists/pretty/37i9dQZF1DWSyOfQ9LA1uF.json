@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 81327,
+  "num_followers": 81323,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/2y70M2PR4IabZgN1wxttNx"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 198019,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/24YW8RhBjRCX7fOWt3YlVR"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 465333,
-      "name": "Paris (Aeroplane Remix)",
-      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Cross",
         "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Fancy Footwork",
-        "url": "https://open.spotify.com/album/2y70M2PR4IabZgN1wxttNx"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
       "artists": [
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 198019,
-      "name": "Fancy Footwork",
-      "url": "https://open.spotify.com/track/24YW8RhBjRCX7fOWt3YlVR"
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     }
   ],
   "unique_name": "Bloghouse",

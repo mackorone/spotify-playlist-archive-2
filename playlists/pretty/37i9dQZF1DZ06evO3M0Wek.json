@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 117023,
+  "num_followers": 117032,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAD158QyV9BAJAtMrumxP2Tt",
+  "snapshot_id": "aptbgAAAAADjFa2lEp++Ie/miLDPR0tc",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 287633,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0Y5ydBoqvKvwWJoY3hLsrX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gereg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 349270,
       "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
       "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 287633,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/0Y5ydBoqvKvwWJoY3hLsrX"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 222010,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 230903,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/5PoYmKGOgfakgnYkc85TVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 222010,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,

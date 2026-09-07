@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170426,
+  "num_followers": 170424,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Goin' Platinum!",
+        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 157093,
+      "name": "Medicine Woman",
+      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Goin' Platinum!",
-        "url": "https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 157093,
-      "name": "Medicine Woman",
-      "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Beyond The Bloodhounds",
-        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -707,6 +691,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Beyond The Bloodhounds",
+        "url": "https://open.spotify.com/album/3N5acrSXdpjx4GBwvvHQv8"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/7gCQxWpBtMg2tpEdqGUQa8"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Witness",
         "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 174640,
       "name": "Money Is King",
       "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Capitalist Blues",
         "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 225999,
       "name": "Rosey",
       "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 278355,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 278355,
-      "name": "The Morning Song",
-      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Banjo Babes",
-        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Blonde On The Tracks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 276576,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Banjo Babes",
+        "url": "https://open.spotify.com/album/25TyUIdw1xvhgYtTdDNndb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/4qWfC3YqUVlJSOpyOvqBU0"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Dressed in Roses",
-        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
-      },
-      "artists": [
-        {
-          "name": "Barbaro",
-          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Barbaro",
-      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Dressed in Roses",
+        "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
+      },
+      "artists": [
+        {
+          "name": "Barbaro",
+          "url": "https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Barbaro",
+      "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Spinning Plates",
         "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 166324,
       "name": "Spinning Plates",
       "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Songs Of",
-        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
-      },
-      "artists": [
-        {
-          "name": "Spencer Burton",
-          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Unmistakable Love",
-      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Dig",
         "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 275800,
       "name": "Myth",
       "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Songs Of",
+        "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Unmistakable Love",
+      "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
-      },
-      "artists": [
-        {
-          "name": "Olivia Chaney",
-          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 234826,
       "name": "Avalon (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Chaney",
+          "url": "https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
-      },
-      "artists": [
-        {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Ocean",
         "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 201294,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Pacific Northwest Bound",
+        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
+      },
+      "artists": [
+        {
+          "name": "Mike McKenna Jr.",
+          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Pacific Northwest Bound",
+      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
     },
     {
       "added_at": "2025-09-02 20:08:27",

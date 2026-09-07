@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-444 songs - 1 day 2 hr 2 min
+445 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [כמה גלגולים](https://open.spotify.com/track/0a30fLlsqLCirDq21oU9s5) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy) | [כמה גלגולים](https://open.spotify.com/album/1YXshQbQ29qhPkbgYuAgCj) | 2:45 | 2026-02-19 | 2026-03-27 |
 | [כמה יופי יש](https://open.spotify.com/track/6vYwxSKsDKE6GZQugBxmDG) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [כמה יופי יש](https://open.spotify.com/album/0VkPzoyQx30S58HkI7Mi8l) | 3:54 | 2025-08-21 | 2025-11-21 |
 | [כמו אז](https://open.spotify.com/track/35eARrBYVR4CLhTVBosn7e) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [כמו אז](https://open.spotify.com/album/2Dx2dyMlFlZJ1HQJtIFYaf) | 3:53 | 2024-12-05 | 2024-12-13 |
+| [כמו הדובים](https://open.spotify.com/track/1q0GlKlKUZsY7q69T5L6vz) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמו הדובים](https://open.spotify.com/album/6wHWOEHQsSGTzJnOHOjq3y) | 3:47 | 2026-09-03 |  |
 | [כמעט וכאילו](https://open.spotify.com/track/4Pv9IHO3mgrVFT2USdZGan) | [Mashina](https://open.spotify.com/artist/7iE2GZiF0xVFzlA2E93m3g) | [כמעט וכאילו](https://open.spotify.com/album/2NV2v2cOtEWOSeyqkXJVff) | 4:46 | 2026-06-04 | 2026-07-22 |
 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 | 2024-06-27 | 2025-03-21 |
 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 | 2024-09-05 | 2026-06-16 |
@@ -448,7 +449,7 @@
 | [תנסה אותי](https://open.spotify.com/track/6zHk0CzxyM9vyuKJSeKbBT) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Maor Cohen](https://open.spotify.com/artist/2vPzfdWIYB3zCD8qEIvMM0) | [תנסה אותי](https://open.spotify.com/album/24MMejHpkKGdST4gZNt5Gk) | 3:14 | 2025-03-13 | 2025-05-07 |
 | [תעתועים](https://open.spotify.com/track/6yZkd86vz9mJKBfynHN5J8) | [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi) | [תעתועים](https://open.spotify.com/album/7EYGJdoN4OZb5J3Juphyc3) | 2:48 | 2025-11-20 | 2026-01-16 |
 | [תפאורות](https://open.spotify.com/track/4lErySIzc6Wwx1rSdoZltT) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [לחיות](https://open.spotify.com/album/11fzVHTGDe6WFJGbr0Ou6y) | 2:48 | 2025-03-20 | 2025-06-27 |
-| [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 | 2026-05-14 |  |
+| [תפילה](https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [Uri Brauner Kinrot](https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9) | [תפילה](https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u) | 3:30 | 2026-05-14 | 2026-09-07 |
 | [תשאירי לי מקום לחבק אותך](https://open.spotify.com/track/0efR0PG8ZOC3QUEgb2IzOJ) | [הפטריקים](https://open.spotify.com/artist/6irbMiDvIPppnbTQXxERJ6), [Dudy Levy](https://open.spotify.com/artist/6BXPyhT8Ue5Trc1Q315PRm), [Avtipus](https://open.spotify.com/artist/10433bygPHRVadT4zxQjd4), [Liron Amram](https://open.spotify.com/artist/0ytNoXYE3P3AAZ8vRjBQzQ) | [תשאירי לי מקום לחבק אותך](https://open.spotify.com/album/5hsEldPOetSLjMba2WSBZa) | 3:22 | 2026-01-29 | 2026-05-01 |
 | [תתאחדי](https://open.spotify.com/track/10bW1r6MdbylURmiXNcuc0) | [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [אור נשבר](https://open.spotify.com/album/3NLycHYZFz1RHH7z8XvjUW) | 3:59 | 2026-08-20 |  |
 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 | 2024-10-10 | 2026-01-18 |

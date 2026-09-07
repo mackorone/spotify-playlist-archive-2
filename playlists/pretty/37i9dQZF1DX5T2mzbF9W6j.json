@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113014,
+  "num_followers": 113010,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
+        "name": "tylko kochaj mnie",
+        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
+      },
+      "artists": [
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 161342,
+      "name": "tylko kochaj mnie",
+      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
         "name": "Talk To Me, Zara",
         "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
-        "name": "tylko kochaj mnie",
-        "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
-      },
-      "artists": [
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "tylko kochaj mnie",
-      "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Gotham",
-        "url": "https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU"
-      },
-      "artists": [
-        {
-          "name": "MECNER",
-          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
-        }
-      ],
-      "duration_ms": 175364,
-      "name": "Gotham",
-      "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
         "name": "Cztery pory roku",
         "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190822,
       "name": "Zoo - z filmu \"Zwierzogr\u00f3d 2\"",
       "url": "https://open.spotify.com/track/1W6AFHYh0GZpiu40atnpaS"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU"
+      },
+      "artists": [
+        {
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+        }
+      ],
+      "duration_ms": 175364,
+      "name": "Gotham",
+      "url": "https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe"
     },
     {
       "added_at": "2026-08-14 07:39:41",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-14 07:39:41",
       "album": {
-        "name": "Don't Say That",
-        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 210048,
-      "name": "Don't Say That",
-      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
-    },
-    {
-      "added_at": "2026-08-14 07:39:41",
-      "album": {
         "name": "Primabalerina",
         "url": "https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 187712,
       "name": "Primabalerina",
       "url": "https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu"
+    },
+    {
+      "added_at": "2026-08-14 07:39:41",
+      "album": {
+        "name": "Don't Say That",
+        "url": "https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 210048,
+      "name": "Don't Say That",
+      "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
     },
     {
       "added_at": "2026-08-14 07:39:41",

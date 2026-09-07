@@ -2445,6 +2445,32 @@
     },
     {
       "album": {
+        "name": "Banjaare (Following the Sun)",
+        "url": "https://open.spotify.com/album/1J6GU8VNYO3luUsiV4IWQE"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "NEEKA",
+          "url": "https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Banjaare (Following the Sun)",
+      "url": "https://open.spotify.com/track/1LMfAnVIyTfqBJ4F7fRx0Y"
+    },
+    {
+      "album": {
         "name": "Banna Re",
         "url": "https://open.spotify.com/album/2rcVvnOMtXfzOmhLBm4UzI"
       },
@@ -4392,7 +4418,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 257454,
       "name": "Cold Showers",
       "url": "https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1"
@@ -5082,6 +5108,28 @@
       "duration_ms": 210058,
       "name": "Dheeme Dheeme 2.0",
       "url": "https://open.spotify.com/track/2UxqZdAonmz7QXzZvWub9U"
+    },
+    {
+      "album": {
+        "name": "Dheemee Dheemee Aanch",
+        "url": "https://open.spotify.com/album/5OPDZLqrD9bnjdOpGlASCd"
+      },
+      "artists": [
+        {
+          "name": "Sultana Nooran",
+          "url": "https://open.spotify.com/artist/3eGOrawJUSt0rdW3ifPeNG"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188534,
+      "name": "Dheemee Dheemee Aanch",
+      "url": "https://open.spotify.com/track/2Wza06ozQoCGJYrU6jnTko"
     },
     {
       "album": {
@@ -9530,7 +9578,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 170890,
       "name": "Jaane Bhi Do",
       "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
@@ -10704,7 +10752,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 170223,
       "name": "Jo Koi Pooche",
       "url": "https://open.spotify.com/track/3wzl1dUmYWoOrgqgElh2oF"
@@ -13112,6 +13160,40 @@
       "duration_ms": 201097,
       "name": "Maahi Ve",
       "url": "https://open.spotify.com/track/4xnSTH8bB6PgVGyN92q08j"
+    },
+    {
+      "album": {
+        "name": "Maahiya (From \"The Revolutionaries\")",
+        "url": "https://open.spotify.com/album/5SXyUdo0PMZrA1J6ask7Gz"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "TUSHAR JOSHI",
+          "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Lavraj",
+          "url": "https://open.spotify.com/artist/4ogsLEXdDFAMN7bt3WneXw"
+        },
+        {
+          "name": "Gaurab Chakraborty",
+          "url": "https://open.spotify.com/artist/2AMJOzoTt6YKg5B23WInDb"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247130,
+      "name": "Maahiya (From \"The Revolutionaries\")",
+      "url": "https://open.spotify.com/track/4TK29ZgYaCsCHmGba8fUjR"
     },
     {
       "album": {
@@ -18763,6 +18845,36 @@
     },
     {
       "album": {
+        "name": "Saawariya",
+        "url": "https://open.spotify.com/album/1Yu0RJA69EDlritNKIIT0y"
+      },
+      "artists": [
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        },
+        {
+          "name": "Sreejith Narayanan",
+          "url": "https://open.spotify.com/artist/0nxuDKhoH67MydnBwt3xnE"
+        },
+        {
+          "name": "Bosco Martis",
+          "url": "https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3"
+        },
+        {
+          "name": "Payal Vijay Shetty",
+          "url": "https://open.spotify.com/artist/46nUUbDbwadsTg76XxHY2v"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163103,
+      "name": "Saawariya",
+      "url": "https://open.spotify.com/track/0OiueeGi8QW0OyujRRenl8"
+    },
+    {
+      "album": {
         "name": "In Case We Forget",
         "url": "https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3"
       },
@@ -21364,7 +21476,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 198116,
       "name": "Tere Intezaar Mein",
       "url": "https://open.spotify.com/track/1gbH3sysJqFp7MoPhuu9l9"

@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Brothers. The essential tracks, all in one playlist.",
-  "num_followers": 421713,
+  "num_followers": 421784,
   "original_name": "This Is Jonas Brothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACKNc0Ps5gmLRBDaoIT4eiW",
+  "snapshot_id": "aptbgAAAAABXmd2H5G867xxV4lPoLvku",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jonas Brothers",
-        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "That's Just The Way We Roll",
-      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jonas Brothers",
+        "url": "https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "That's Just The Way We Roll",
+      "url": "https://open.spotify.com/track/69BLkDWJcRYqzje2qdr6PC"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 169061,
-      "name": "Montana Sky",
-      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 183284,
       "name": "I Can\u2019t Lose",
       "url": "https://open.spotify.com/track/4zU91gu5GRDKMuEbd8623Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 169061,
+      "name": "Montana Sky",
+      "url": "https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greetings From Your Hometown",
+        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 203923,
+      "name": "Mirror to the Sky",
+      "url": "https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strong Enough",
         "url": "https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 149284,
       "name": "Strong Enough (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greetings From Your Hometown",
-        "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 203923,
-      "name": "Mirror to the Sky",
-      "url": "https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Healing (Shattered Heart)",
+      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 190413,
       "name": "Still In Love With You",
       "url": "https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Healing (Shattered Heart)",
-      "url": "https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 176373,
-      "name": "BB Good",
-      "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
+      "duration_ms": 173920,
+      "name": "Video Girl",
+      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
     },
     {
       "added_at": null,
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 173920,
-      "name": "Video Girl",
-      "url": "https://open.spotify.com/track/6NuG3fTW1m74oLJvsyhZ6l"
+      "duration_ms": 176373,
+      "name": "BB Good",
+      "url": "https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX"
     }
   ],
   "unique_name": "This Is Jonas Brothers",

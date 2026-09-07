@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3891851,
+  "num_followers": 3891692,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "Spirit Bird",
         "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 248571,
       "name": "Spirit Bird",
       "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 237938,
       "name": "Keep Love Waiting",
       "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 204761,
       "name": "Body",
       "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1331,6 +1331,22 @@
       "duration_ms": 199636,
       "name": "Of Joy",
       "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1359,22 +1375,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        }
+      ],
+      "duration_ms": 265250,
+      "name": "drops of oil",
+      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
         "name": "Sun & Rain",
         "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
       },
@@ -1435,30 +1451,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "feeling something",
-        "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "feeling something",
-      "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -1475,6 +1467,26 @@
       "duration_ms": 258409,
       "name": "Closer",
       "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1503,22 +1515,26 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+        "name": "feeling something",
+        "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         },
         {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
         }
       ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+      "duration_ms": 256000,
+      "name": "feeling something",
+      "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1539,22 +1555,6 @@
       "duration_ms": 268560,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/65XobPwmYWts99hE2UFSA3"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/25v8BAk8pokWmaNJUDOPCD"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        }
-      ],
-      "duration_ms": 265250,
-      "name": "drops of oil",
-      "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 248000,
       "name": "Hours",
       "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 273442,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
@@ -1803,26 +1823,6 @@
     {
       "added_at": "2026-09-04 04:01:02",
       "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 273442,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1855,30 +1855,6 @@
       "duration_ms": 257608,
       "name": "My Reflection",
       "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2026-09-04 04:01:02",
-      "album": {
-        "name": "Screen",
-        "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
-      },
-      "artists": [
-        {
-          "name": "Calcou",
-          "url": "https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc"
-        },
-        {
-          "name": "Jody Wisternoff",
-          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
-        },
-        {
-          "name": "James Grant",
-          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
-        }
-      ],
-      "duration_ms": 246147,
-      "name": "Screen",
-      "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
     },
     {
       "added_at": "2026-09-04 04:01:02",
@@ -1947,6 +1923,30 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
+    },
+    {
+      "added_at": "2026-09-04 04:01:02",
+      "album": {
+        "name": "Screen",
+        "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
+      },
+      "artists": [
+        {
+          "name": "Calcou",
+          "url": "https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc"
+        },
+        {
+          "name": "Jody Wisternoff",
+          "url": "https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL"
+        },
+        {
+          "name": "James Grant",
+          "url": "https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7"
+        }
+      ],
+      "duration_ms": 246147,
+      "name": "Screen",
+      "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
     },
     {
       "added_at": "2026-09-04 04:01:02",

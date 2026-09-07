@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 150865,
       "name": "El Problema (2020)",
       "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
@@ -5322,6 +5322,28 @@
       "duration_ms": 125555,
       "name": "QSV",
       "url": "https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG"
+    },
+    {
+      "album": {
+        "name": "Quien Me Mand\u00f3?",
+        "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204925,
+      "name": "Quien Me Mand\u00f3?",
+      "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 126338,
+  "num_followers": 126348,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACcPmPQr8RYCth5VO4WTEk7",
+  "snapshot_id": "aptbgAAAAAA3eswZguskn6IcdkBjqxSt",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Does That Blue Moon Ever Shine On You",
-      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clancy's Tavern",
         "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 206640,
       "name": "Beers Ago",
       "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Does That Blue Moon Ever Shine On You",
+      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 243706,
       "name": "Weed With Willie - Live",
       "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "If I Was Jesus",
-      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Ain't No Thang",
-      "url": "https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q"
+      "duration_ms": 224800,
+      "name": "If I Was Jesus",
+      "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Ain't No Thang",
+      "url": "https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q"
     },
     {
       "added_at": null,

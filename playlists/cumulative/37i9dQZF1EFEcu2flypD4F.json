@@ -3926,10 +3926,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 170000,
       "name": "Knock You Out",
       "url": "https://open.spotify.com/track/1iNPlFDLDGjnJZbt11SU1e"
+    },
+    {
+      "album": {
+        "name": "Knock You Out",
+        "url": "https://open.spotify.com/album/7fPSfSI4ScdfqFTRBxvVsn"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Knock You Out",
+      "url": "https://open.spotify.com/track/7l3Gx6bLUnimg6SMsclAsh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 324964,
+  "num_followers": 324941,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Sandstorm",
+      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Sandstorm",
-      "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -839,6 +839,26 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "REHAB",
         "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 173056,
       "name": "The Glen - Levi Heron Edit",
       "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "My Place",
-        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 159615,
-      "name": "My Place",
-      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "NOW IT'S GONE",
-        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        }
-      ],
-      "duration_ms": 143184,
-      "name": "NOW IT'S GONE",
-      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 156398,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "R 2 ME",
-        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "R 2 ME",
-      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "You Don't Own Me (feat. RAHH)",
         "url": "https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 170694,
       "name": "You Don't Own Me (feat. RAHH)",
       "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "R 2 ME",
+        "url": "https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "R 2 ME",
+      "url": "https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Lifting",
         "url": "https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 177730,
       "name": "Back to the 305",
       "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/775zzjQA4YeBggn3uGddac"
+      },
+      "artists": [
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Come With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3qLhHLgFCvq6YEzqZhCPEd"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/775zzjQA4YeBggn3uGddac"
-      },
-      "artists": [
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Come With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/3qLhHLgFCvq6YEzqZhCPEd"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Don\u2019t Go (Don\u2019t Leave)",
+        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Don\u2019t Go (Don\u2019t Leave)",
+      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Afters",
         "url": "https://open.spotify.com/album/1ijY6TU6pZ8AtvwnWnLip1"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 124545,
       "name": "Afters",
       "url": "https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Don\u2019t Go (Don\u2019t Leave)",
-        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Don\u2019t Go (Don\u2019t Leave)",
-      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Rhythm Of The House",
+        "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "duration_ms": 199575,
+      "name": "Rhythm Of The House",
+      "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 157341,
       "name": "Devotion (Sweetest Emotion)",
       "url": "https://open.spotify.com/track/6ffejqaHW8eatoka1sntka"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Rhythm Of The House",
-        "url": "https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp"
-      },
-      "artists": [
-        {
-          "name": "Alex Culross",
-          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
-        },
-        {
-          "name": "Ejeca",
-          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
-        }
-      ],
-      "duration_ms": 199575,
-      "name": "Rhythm Of The House",
-      "url": "https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 152561,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-08-20 23:00:30",

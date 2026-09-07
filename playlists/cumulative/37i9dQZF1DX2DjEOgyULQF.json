@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 137892,
       "name": "528 Hz Energy Flow",
       "url": "https://open.spotify.com/track/4Mu9YDxpVfpaBw6np0B3hZ"
@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Dreamer's Lagoon",
+        "url": "https://open.spotify.com/album/0lUTIBDFnQAtBaK24GrjgR"
+      },
+      "artists": [
+        {
+          "name": "Infinity Drifter",
+          "url": "https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214218,
+      "name": "Dreamer's Lagoon",
+      "url": "https://open.spotify.com/track/2ThXAQ9aRCJEBi3uwL6szQ"
+    },
+    {
+      "album": {
         "name": "Dreaming in Ripples",
         "url": "https://open.spotify.com/album/2leD4uGfAO7gG3BIQczYh4"
       },
@@ -2224,6 +2242,24 @@
       "duration_ms": 190248,
       "name": "Eiren Vale",
       "url": "https://open.spotify.com/track/4A2frSnLQt5qQXsuVoeN3z"
+    },
+    {
+      "album": {
+        "name": "Elaris Chamber",
+        "url": "https://open.spotify.com/album/6COS15PkIDR1lmM5kAIqk7"
+      },
+      "artists": [
+        {
+          "name": "Elysian Woods",
+          "url": "https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Elaris Chamber",
+      "url": "https://open.spotify.com/track/1nML2XPvklMVRCOh1mY2RB"
     },
     {
       "album": {
@@ -3520,7 +3556,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 129230,
       "name": "Glistening Creek",
       "url": "https://open.spotify.com/track/73GSYyBnRXNq5ZO0dhqzKF"
@@ -8410,7 +8446,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 178000,
       "name": "Uisge",
       "url": "https://open.spotify.com/track/3DU2zNpNXhEljFIX2yUytB"
@@ -8580,6 +8616,24 @@
       "duration_ms": 157200,
       "name": "Verdancy",
       "url": "https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ"
+    },
+    {
+      "album": {
+        "name": "Verdancy",
+        "url": "https://open.spotify.com/album/1Vh7HFcpnuNw9W4vtlf8TP"
+      },
+      "artists": [
+        {
+          "name": "Low Haven",
+          "url": "https://open.spotify.com/artist/2gOPRaTiQtGHndW2IXxtXC"
+        }
+      ],
+      "date_added": "2026-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Verdancy",
+      "url": "https://open.spotify.com/track/3NMYC2DpS5LE25LlhEZoaV"
     },
     {
       "album": {

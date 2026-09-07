@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke & Zaan Sonnekus",
-  "num_followers": 28417,
+  "num_followers": 28428,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
       },
       "artists": [
         {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
         }
       ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Stadig",
         "url": "https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+      },
+      "artists": [
+        {
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+        }
+      ],
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -495,26 +495,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "F all ur Friends",
-        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
       "artists": [
         {
-          "name": "RJ Pasin",
-          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
-        },
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        },
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
         }
       ],
-      "duration_ms": 139428,
-      "name": "F all ur Friends",
-      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -539,18 +531,26 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "KLEUR",
-        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+        "name": "F all ur Friends",
+        "url": "https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV"
       },
       "artists": [
         {
-          "name": "MOEGOE",
-          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+          "name": "RJ Pasin",
+          "url": "https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0"
+        },
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        },
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 201420,
-      "name": "KLEUR",
-      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+      "duration_ms": 139428,
+      "name": "F all ur Friends",
+      "url": "https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Delete You.",
-        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 188459,
-      "name": "Delete You.",
-      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Delete You.",
+        "url": "https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 188459,
+      "name": "Delete You.",
+      "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Stellies (feat. Rooksein)",
         "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
+      },
+      "artists": [
+        {
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
+        }
+      ],
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Bangkinners",
-        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "Bangkinners",
-      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Berge",
-        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 255722,
-      "name": "Berge",
-      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
         "name": "Ultimate Zoid",
         "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Berge",
+        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 255722,
+      "name": "Berge",
+      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
       "added_at": "2026-08-27 22:01:29",

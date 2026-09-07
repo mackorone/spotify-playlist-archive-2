@@ -2573,6 +2573,32 @@
     },
     {
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/2c72F412Ti9YsdL35NVb8a"
+      },
+      "artists": [
+        {
+          "name": "LDVC",
+          "url": "https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f"
+        },
+        {
+          "name": "Polux",
+          "url": "https://open.spotify.com/artist/7xlYnInKi4qbUURqPRabJg"
+        },
+        {
+          "name": "VARUS",
+          "url": "https://open.spotify.com/artist/5JmN6YBwhOEAgyfcNmpYwF"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/0bKiB6VQEnHUDpDXD7y2RN"
+    },
+    {
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/1Wx5ZNgeAhzGnFFPoPKneT"
       },
@@ -3286,7 +3312,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 156923,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/1sGWDDWP8GZsVi88T8I92q"
@@ -10848,7 +10874,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 142222,
       "name": "Gravity Between Us",
       "url": "https://open.spotify.com/track/2JMM6QCQ0iKqKItav0FPv0"
@@ -22324,10 +22350,32 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 147540,
       "name": "Peace",
       "url": "https://open.spotify.com/track/6VE0207fSX9EYwClssdZlh"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/0bSr69DfFxpDdYXcWQOmcG"
+      },
+      "artists": [
+        {
+          "name": "Kaley",
+          "url": "https://open.spotify.com/artist/5ioRU3OGYb8O0rPw0PNxiN"
+        },
+        {
+          "name": "LYON",
+          "url": "https://open.spotify.com/artist/0ISD6xTAMU5iIDsuKz7uoq"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168813,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6miGViFKUlK4IELeFHhFDi"
     },
     {
       "album": {
@@ -26631,6 +26679,28 @@
     },
     {
       "album": {
+        "name": "Stuck In the Middle With You",
+        "url": "https://open.spotify.com/album/0PLIdJ4iqYLko96i2BJIjK"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "Menza",
+          "url": "https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Stuck In the Middle With You",
+      "url": "https://open.spotify.com/track/0bxwR4TqpmJ1JcUqol2zqq"
+    },
+    {
+      "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
       },
@@ -29434,7 +29504,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 208529,
       "name": "To The Moon & Back",
       "url": "https://open.spotify.com/track/6r8wTpoZ7cQ1ardXmtu80A"

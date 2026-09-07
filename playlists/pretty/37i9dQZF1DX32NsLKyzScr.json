@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2588136,
+  "num_followers": 2588045,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "WannaCry",
-        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        },
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 219367,
-      "name": "WannaCry",
-      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
         "name": "In This Bih'",
         "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 210923,
       "name": "In This Bih'",
       "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -867,6 +867,34 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
+        "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+        "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+      "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
         "name": "Don't Lose Your Head",
         "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
       },
@@ -907,6 +935,22 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1175,6 +1219,30 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
         "name": "Is It Over Now?",
         "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
       },
@@ -1343,26 +1411,18 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "Don't Want Your Love (R\u00d8Z Remix)",
-        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Don't Want Your Love - R\u00d8Z Remix",
-      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
+      "duration_ms": 257571,
+      "name": "drift away",
+      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1403,6 +1463,30 @@
       "duration_ms": 220439,
       "name": "On My Own (Feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Don't Want Your Love (R\u00d8Z Remix)",
+        "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Don't Want Your Love - R\u00d8Z Remix",
+      "url": "https://open.spotify.com/track/15kZV9MznawyHrCeExDXcj"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1487,26 +1571,6 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
         "name": "Enjoy the Silence (Don Diablo Version)",
         "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
       },
@@ -1551,6 +1615,26 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
       },
@@ -1563,6 +1647,22 @@
       "duration_ms": 163664,
       "name": "Freak",
       "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
+      },
+      "artists": [
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1583,22 +1683,6 @@
       "duration_ms": 184615,
       "name": "The Realm",
       "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO"
-      },
-      "artists": [
-        {
-          "name": "Laherte",
-          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1651,30 +1735,6 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        }
-      ],
-      "duration_ms": 213953,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
         "name": "Beg You",
         "url": "https://open.spotify.com/album/7yfXmXMG09j5gVj5rY2nAp"
       },
@@ -1695,6 +1755,30 @@
       "duration_ms": 213562,
       "name": "Beg You",
       "url": "https://open.spotify.com/track/1bhtpg4vd53nh4duQh19rb"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1yFzaDx3ibycTAZqUQHJMh"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 213953,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4FRuekKdW64dsRJXzzVOLy"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1759,26 +1843,6 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "Welcome 2 Miami",
-        "url": "https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
-        }
-      ],
-      "duration_ms": 192923,
-      "name": "Welcome 2 Miami",
-      "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
         "name": "High On A Feeling",
         "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
@@ -1799,6 +1863,26 @@
       "duration_ms": 211535,
       "name": "High On A Feeling",
       "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Welcome 2 Miami",
+        "url": "https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "Welcome 2 Miami",
+      "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -1855,6 +1939,30 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
+        "name": "Dark Darker",
+        "url": "https://open.spotify.com/album/6z3GWVJaAqYQj2WhqcAwpl"
+      },
+      "artists": [
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Y do I",
+          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
+        },
+        {
+          "name": "Wennink",
+          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Dark Darker",
+      "url": "https://open.spotify.com/track/7hMrm2fpw48sjOFZbzbT05"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
         "name": "Identity",
         "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
       },
@@ -1887,30 +1995,6 @@
       "duration_ms": 306500,
       "name": "It's Chemical",
       "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "Dark Darker",
-        "url": "https://open.spotify.com/album/6z3GWVJaAqYQj2WhqcAwpl"
-      },
-      "artists": [
-        {
-          "name": "Henri Bergmann",
-          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
-        },
-        {
-          "name": "Y do I",
-          "url": "https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex"
-        },
-        {
-          "name": "Wennink",
-          "url": "https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Dark Darker",
-      "url": "https://open.spotify.com/track/7hMrm2fpw48sjOFZbzbT05"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -2019,90 +2103,6 @@
     {
       "added_at": "2026-09-04 04:01:48",
       "album": {
-        "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
-        "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
-      "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "Just A Little Bit More",
-        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 214038,
-      "name": "Just A Little Bit More",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "AURA",
-        "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 257571,
-      "name": "drift away",
-      "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
@@ -2123,6 +2123,26 @@
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
+    },
+    {
+      "added_at": "2026-09-04 04:01:48",
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
     },
     {
       "added_at": "2026-09-04 04:01:48",
@@ -2179,26 +2199,6 @@
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
-    },
-    {
-      "added_at": "2026-09-04 04:01:48",
-      "album": {
-        "name": "Aria",
-        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
     }
   ],
   "unique_name": "Power Hour",

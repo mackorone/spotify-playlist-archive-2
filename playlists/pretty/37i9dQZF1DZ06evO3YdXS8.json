@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 644973,
+  "num_followers": 644989,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABmMS3EaGjLshbDhSB9W1HO",
+  "snapshot_id": "aptbgAAAAACYEJ3x82xKEkTEPqV25h69",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Techno Cumbia 2012",
-      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
+      "duration_ms": 292792,
+      "name": "IRREEMPLAZABLE (COMO LA FLOR) (feat. Selena)",
+      "url": "https://open.spotify.com/track/1nOXyslmAm5yNd247Y5tnw"
     },
     {
       "added_at": null,
@@ -283,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live-The Last Concert",
-        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
       },
       "artists": [
         {
@@ -292,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Si Una Vez - Live",
-      "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
+      "duration_ms": 194960,
+      "name": "Techno Cumbia 2012",
+      "url": "https://open.spotify.com/track/4dsxlK3ju4g1g15Z7PM6XX"
     },
     {
       "added_at": null,
@@ -315,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeros \u00c9xitos",
-        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+        "name": "Live-The Last Concert",
+        "url": "https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt"
       },
       "artists": [
         {
@@ -324,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 229306,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC"
+      "duration_ms": 205400,
+      "name": "Si Una Vez - Live",
+      "url": "https://open.spotify.com/track/2GFC4Zo3Qz1AF2cmVZkxZh"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
       "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 292792,
-      "name": "IRREEMPLAZABLE (COMO LA FLOR) (feat. Selena)",
-      "url": "https://open.spotify.com/track/1nOXyslmAm5yNd247Y5tnw"
+      "duration_ms": 229306,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC"
     },
     {
       "added_at": null,

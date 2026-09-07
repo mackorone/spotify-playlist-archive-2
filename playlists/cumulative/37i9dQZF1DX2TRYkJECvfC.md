@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-715 songs - 2 day 10 hr 25 min
+716 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Never Change](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Change](https://open.spotify.com/album/28DnS842lod3ntK4UA7g27) | 3:15 | 2025-09-05 |  |
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-24 | 2024-07-13 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 | 2025-08-30 |
-| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 |  |
+| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 | 2026-09-07 |
 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 | 2026-02-20 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
 | [Night Walking](https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Night Walking](https://open.spotify.com/album/0TTwI6HXox5rTmgxKUp3tE) | 2:49 | 2026-02-27 |  |
@@ -625,6 +625,7 @@
 | [Tears](https://open.spotify.com/track/5KYdRygDWQcWoFeo6dOBRY) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/3BwTQp1wRmL4B7WkXkwvzd) | 8:47 | 2023-11-17 | 2024-04-19 |
 | [The Crown](https://open.spotify.com/track/76rmPDUCuf6IDdYMzDMURR) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [The Crown](https://open.spotify.com/album/4aKmGcRsqb2ENQEMsQO1Ys) | 3:04 | 2025-08-29 | 2026-05-23 |
 | [The Hard Way](https://open.spotify.com/track/2LxFLV3dgQe6Uda8hsxa85) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [The Hard Way](https://open.spotify.com/album/5m2Q3oK9YWukiHXI378NDy) | 3:04 | 2026-05-15 | 2026-08-23 |
+| [The Ladder](https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [The Ladder](https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs) | 4:09 | 2026-09-04 |  |
 | [The Lights \- HANA Remix](https://open.spotify.com/track/7bwi46wM1XxbR6iGNfFFWV) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [The Lights \(HANA Remix\)](https://open.spotify.com/album/2ciw6n34rRHIFd7GvUEhRc) | 3:08 | 2025-09-05 |  |
 | [The Melody \- Henrik Schwarz Remix](https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Francesco Tristano](https://open.spotify.com/artist/19CMctG8DNWO0rHPE98ujj), [Les Siècles](https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds), [François\-Xavier Roth](https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [The Melody \(Henrik Schwarz Remix\)](https://open.spotify.com/album/3PwiGONOF33KuHMmCmyUxM) | 7:41 | 2021-12-08 | 2024-04-13 |
 | [the mirror](https://open.spotify.com/track/00i5lwTpbdEq3Cp9m3oB88) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [the mirror](https://open.spotify.com/album/1TEjpHuMWHgpxmE1MPzCFX) | 8:54 | 2021-12-08 | 2022-11-21 |

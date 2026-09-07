@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-808 songs - 1 day 18 hr 47 min
+810 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-17 | 2026-01-24 |
 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2026-01-23 |  |
 | [Eyes Swim](https://open.spotify.com/track/4vqNs74ZjF5cLorW6SQnXW) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Eyes Swim](https://open.spotify.com/album/1qgL7DqLwyBFd3OjEpDZuN) | 2:33 | 2025-09-25 | 2025-12-20 |
-| [F.A.F.O](https://open.spotify.com/track/0NdOu1PqAB9rJDwBFmfyIk) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [F.A.F.O](https://open.spotify.com/album/1bPg0dovsBDl8Ul1C9DPP5) | 2:26 | 2026-06-17 |  |
+| [F.A.F.O](https://open.spotify.com/track/0NdOu1PqAB9rJDwBFmfyIk) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [F.A.F.O](https://open.spotify.com/album/1bPg0dovsBDl8Ul1C9DPP5) | 2:26 | 2026-06-17 | 2026-09-07 |
 | [Fake A Smile](https://open.spotify.com/track/7B6ata8SMJdggnltO9WjZj) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Fake A Smile](https://open.spotify.com/album/5hpGaHvvgknKfNrQa1jakh) | 3:39 | 2024-11-21 | 2025-03-21 |
 | [Fall Asleep](https://open.spotify.com/track/4NHaWaro8WSRoYJVpU7joq) | [Tristan Cole Boltman](https://open.spotify.com/artist/1gzoSdXYXUh5v1j8qB9QOv) | [Fall Asleep](https://open.spotify.com/album/5RxmvLXckds8tQARMaQtXS) | 2:37 | 2024-08-15 | 2024-08-30 |
 | [fall into place](https://open.spotify.com/track/2sFHw6ZJaxqL56CuOtXqAt) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [oh haven](https://open.spotify.com/artist/454F3LMjDK0L51zDLsQDMe) | [fall into place](https://open.spotify.com/album/52yws9V4uJtcfwg98W8fap) | 1:57 | 2024-08-23 | 2024-08-30 |
@@ -405,6 +405,7 @@
 | [Liar](https://open.spotify.com/track/2lWgENmedXJTX1NEAugxuJ) | [Erin Elliot](https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1) | [Liar](https://open.spotify.com/album/02kIBm2xpaplAqBJTOyQAH) | 3:15 | 2025-05-22 | 2025-05-30 |
 | [Life Of The Faaji](https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji Xtra](https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb) | 2:29 | 2026-05-08 |  |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-06-27 | 2024-07-12 |
+| [Lighthouse](https://open.spotify.com/track/0e7gzyPH40qnJWJzCt7qOX) | [Lyra K](https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86) | [Seasons](https://open.spotify.com/album/0hjPhlvKTwUFXvphvv9LBG) | 3:12 | 2026-09-03 |  |
 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 | 2025-08-21 | 2025-10-04 |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-29 | 2025-06-21 |
 | [Little Boy Ego](https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Little Boy Ego](https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ) | 2:20 | 2024-08-09 | 2025-01-31 |
@@ -483,7 +484,7 @@
 | [MY EVERYTHING](https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [PARADISE LOST](https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9) | 3:16 | 2026-03-20 |  |
 | [My Hallelujah](https://open.spotify.com/track/1Dd3Id44SgNl259jeJGSQ6) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [My Hallelujah](https://open.spotify.com/album/1xe4bQw3TDN3sFzTD4nrcL) | 2:59 | 2026-04-23 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2026-01-23 |  |
-| [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 |  |
+| [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 | 2026-09-07 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2026-01-24 |
 | [Nauseous](https://open.spotify.com/track/0u1jUuJRzQfsfukx9Jvc9G) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 3:43 | 2025-08-21 | 2025-09-27 |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |
@@ -795,6 +796,7 @@
 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 | 2024-11-07 | 2024-11-16 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-08-03 |
 | [Work It Out](https://open.spotify.com/track/2N7FFLLDXZup2T6f7V7X6a) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Work It Out](https://open.spotify.com/album/5BnPWKiyjmHrEfgr0t2ryg) | 2:50 | 2025-02-06 | 2025-03-14 |
+| [Work Like That](https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Not My Circus](https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ) | 2:51 | 2026-09-03 |  |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-12-05 | 2025-01-31 |
 | [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2025-04-10 | 2025-04-25 |
 | [Written](https://open.spotify.com/track/1G8iJbYCHs5GmUqdCy0vh4) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [Written](https://open.spotify.com/album/6Tugfz5Byo1qKuQjdVOHhp) | 3:13 | 2026-04-16 | 2026-07-04 |

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Asteria
 
-476 songs - 1 day 2 hr 12 min
+477 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Faaslay](https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x) | [Miracle Mangal](https://open.spotify.com/artist/2V1XXUtkW6Xr9pUSqoggfI), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Wali Aleem](https://open.spotify.com/artist/4yAZWHrBK6G6d7gOzJJqlF) | [MM005](https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF) | 4:29 | 2021-12-06 | 2023-03-13 |
 | [Faaslay \- Remix](https://open.spotify.com/track/099JXAMdwkWBjnDgDiuk1v) | [akhun](https://open.spotify.com/artist/4tAMpFETLv3ry3ZI9n3a14), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Faaslay \(Remix\)](https://open.spotify.com/album/1ZFcH3H2dIcfCnvxA9Cg1w) | 4:20 | 2023-04-07 | 2023-11-18 |
 | [Falsafa](https://open.spotify.com/track/4CIAStL9Mq6KjDvcNBEnjR) | [SHERRY](https://open.spotify.com/artist/2jBLgixVIe3718HCpO4kE0) | [Falsafa](https://open.spotify.com/album/0QsiW9vIJliYFhG4ShM1MS) | 2:32 | 2025-02-26 | 2025-05-19 |
-| [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2022-06-16 |  |
+| [Faltu Pyar](https://open.spotify.com/track/1yFryDjhXXIIaJA1dKqrab) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Faltu Pyar](https://open.spotify.com/album/5DfIEUN6BSCNEETICvOQtm) | 3:41 | 2022-06-16 | 2026-09-07 |
 | [Fan](https://open.spotify.com/track/3oSsS8p33sZzx4cug3MOn0) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Fan](https://open.spotify.com/album/1QJKJSrjPk2E1lguFleUyk) | 3:30 | 2025-10-03 |  |
 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 | 2022-11-30 |  |
 | [Faryaad](https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Faryaad](https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z) | 4:45 | 2021-12-06 | 2023-02-13 |
@@ -227,6 +227,7 @@
 | [Khayal](https://open.spotify.com/track/2AHlAZJS2tTnhDqqlIm6O3) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Cookie](https://open.spotify.com/album/5JkjCmyossmwy8kL2FRxgP) | 3:06 | 2023-09-15 | 2024-12-13 |
 | [Khirki](https://open.spotify.com/track/0I4ViThIJrFKDWvKclQcv5) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Khirki](https://open.spotify.com/album/0jHoXjcxySVoXdDkY0NXjw) | 3:27 | 2024-10-18 | 2025-11-08 |
 | [Kho Gaye](https://open.spotify.com/track/29ZFd9OvfK5IHUgn9gWJbF) | [Shayan Fatani](https://open.spotify.com/artist/6ALIDmAST5XPoCSoxWCzwq), [Mishal Shafi](https://open.spotify.com/artist/2D5YZ7yVsVe2fzoB9osYt9), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Kho Gaye](https://open.spotify.com/album/6yVEeoy0fgTCHeaTvucbVU) | 3:40 | 2025-02-26 | 2025-09-10 |
+| [KHOJ](https://open.spotify.com/track/6pbykTXdtHPoibzJJ8d4FE) | [Ahsan Naseem](https://open.spotify.com/artist/1feaMTBMVOuvDJPoJnyy0H) | [KHOJ](https://open.spotify.com/album/2eWiXbxMnXMBIReJNFmbx8) | 3:47 | 2026-09-06 |  |
 | [Khushboo](https://open.spotify.com/track/3c3GiH4agOLLtZazX7czYh) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Parveen Shakir](https://open.spotify.com/artist/4sSaA096BL94U4rkcqK4Jc) | [Khushboo](https://open.spotify.com/album/493fKLr1Pe5JeupPQTxiSL) | 3:45 | 2026-03-20 |  |
 | [Khushbu](https://open.spotify.com/track/3vKIFR23DPK4lyzqxZOa01) | [RFB](https://open.spotify.com/artist/6xWVbaQjA2OO1ejFPyKhjp) | [Khushbu](https://open.spotify.com/album/23PwR2OGh9FecmW32AVmOa) | 3:26 | 2021-12-06 | 2022-09-06 |
 | [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 | 2024-12-13 |

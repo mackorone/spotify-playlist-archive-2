@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 150866,
       "name": "A Fleeting Place",
       "url": "https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A"
@@ -4561,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "Phase Bloom",
+        "url": "https://open.spotify.com/album/2iBNTMIHPo3mkJkSEQNR8D"
+      },
+      "artists": [
+        {
+          "name": "HAL ca",
+          "url": "https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm"
+        }
+      ],
+      "date_added": "2026-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364800,
+      "name": "Phase Bloom",
+      "url": "https://open.spotify.com/track/04lrTruV5SL6BsBQMj95xq"
+    },
+    {
+      "album": {
         "name": "Pierrepont",
         "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
       },
@@ -5358,7 +5376,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 146400,
       "name": "Setsurei",
       "url": "https://open.spotify.com/track/72G1ra72WWayqf4W9jUstG"
@@ -6148,7 +6166,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 275813,
       "name": "The Horizon - Sphontik Mix",
       "url": "https://open.spotify.com/track/3fqNfyRgCE2O16iDIqmSIQ"

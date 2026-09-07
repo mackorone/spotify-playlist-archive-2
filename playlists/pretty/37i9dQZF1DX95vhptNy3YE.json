@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443246,
+  "num_followers": 443306,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "Pagodyando",
+        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
+      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "Fuso",
         "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 114645,
       "name": "Fuso",
       "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "Pagodyando",
-        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
-      },
-      "artists": [
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
-        }
-      ],
-      "duration_ms": 301760,
-      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
-      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "\u00c9 Demais",
+        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "\u00c9 Demais",
+      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 221706,
       "name": "Pente 270!",
       "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "\u00c9 Demais",
-        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "\u00c9 Demais",
-      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 169137,
-      "name": "SALTO 15",
-      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
         "name": "Quando Voc\u00ea Ligou",
         "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 189268,
       "name": "Quando Voc\u00ea Ligou",
       "url": "https://open.spotify.com/track/2kbSMgvj7H2cqnDXvDAfZS"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 169137,
+      "name": "SALTO 15",
+      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -895,18 +895,22 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
-        "name": "Quem Ama Cuida",
-        "url": "https://open.spotify.com/album/2J2H91zaQyASh8pn7wHITL"
+        "name": "Os Pagodes Que a Gente Gosta, Vol. 3 (Pt. 1) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/4oi2zmGerpieJeZQoBgNUc"
       },
       "artists": [
         {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
         }
       ],
-      "duration_ms": 106017,
-      "name": "Quem Ama Cuida",
-      "url": "https://open.spotify.com/track/2sA4gKbzxAnwDYiBu4JjwN"
+      "duration_ms": 221739,
+      "name": "Playlist / Combinado - Ao Vivo",
+      "url": "https://open.spotify.com/track/35SQSBJadIMuzgY5fXDpUP"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -931,26 +935,6 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
-        "name": "Os Pagodes Que a Gente Gosta, Vol. 3 (Pt. 1) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/4oi2zmGerpieJeZQoBgNUc"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        },
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "Playlist / Combinado - Ao Vivo",
-      "url": "https://open.spotify.com/track/35SQSBJadIMuzgY5fXDpUP"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
         "name": "SIX.",
         "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 117954,
       "name": "No Meu Club",
       "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
+        "name": "Quem Ama Cuida",
+        "url": "https://open.spotify.com/album/2J2H91zaQyASh8pn7wHITL"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 106017,
+      "name": "Quem Ama Cuida",
+      "url": "https://open.spotify.com/track/2sA4gKbzxAnwDYiBu4JjwN"
     },
     {
       "added_at": "2026-09-01 20:28:48",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2026-09-01 20:28:48",
       "album": {
+        "name": "MINA QUENTE",
+        "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "duration_ms": 151889,
+      "name": "MINA QUENTE",
+      "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
+    },
+    {
+      "added_at": "2026-09-01 20:28:48",
+      "album": {
         "name": "2X (Os Caras da Rua) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4ouHiCMczVoB3r7rCkzBl2"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 179669,
       "name": "2X (Os Caras da Rua) - Ao Vivo",
       "url": "https://open.spotify.com/track/0vb4oGpelS1gR3A8MSIcPR"
-    },
-    {
-      "added_at": "2026-09-01 20:28:48",
-      "album": {
-        "name": "MINA QUENTE",
-        "url": "https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        },
-        {
-          "name": "Bruce Slim Beats",
-          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
-        }
-      ],
-      "duration_ms": 151889,
-      "name": "MINA QUENTE",
-      "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
     },
     {
       "added_at": "2026-09-01 20:28:48",

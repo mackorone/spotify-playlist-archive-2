@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nasty C & Tellaman,  Beyoncé, Simmy,  Nemzzz & Travis Scott and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,221 likes - 69 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,248 likes - 69 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-576 songs - 1 day 8 hr 43 min
+580 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Didsbury Dozen](https://open.spotify.com/track/5ze0tk0ZLfW2vBAuabcNsV) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Didsbury Dozen](https://open.spotify.com/album/6b1TM8wYvhk08kXdn2JZ9e) | 3:59 | 2026-06-26 | 2026-08-08 |
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-07-21 |  |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 | 2026-01-05 |
+| [DND](https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS) | [Mila Sidhu](https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk) | [DND](https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT) | 2:41 | 2026-09-06 |  |
 | [Do It Again?](https://open.spotify.com/track/0Awhj0KTKBSgsXNeNmWs6d) | [Jason Patel](https://open.spotify.com/artist/5UmwsM87WwV6YfTQuIvPUc) | [Do It Again?](https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu) | 2:31 | 2026-03-15 | 2026-05-26 |
 | [Do you like it that way](https://open.spotify.com/track/1znJonSXmxeTYceBuMgrix) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Do you like it that way](https://open.spotify.com/album/59YCENlsKrzYGrvRN5weKC) | 4:29 | 2026-08-15 |  |
 | [do you think about us?](https://open.spotify.com/track/4w8aURQyqUbnlOjNG6dLa3) | [Tapeweather](https://open.spotify.com/artist/7bB7CFWjPlDD8fZKUMwg2w) | [do you think about us?](https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2) | 2:37 | 2025-11-08 | 2025-12-01 |
@@ -210,6 +211,7 @@
 | [Gold Bars](https://open.spotify.com/track/7tOKyNunKElBFGIzrDyvoc) | [Highway Jay](https://open.spotify.com/artist/5DiKeSa0Wrr5ShwTSbIRjR) | [Curse of Johnny](https://open.spotify.com/album/3aA8uKDqT07y98S5Ic7nXR) | 2:24 | 2026-05-11 | 2026-06-14 |
 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 | 2026-03-05 | 2026-05-26 |
 | [Good Things](https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6) | [Belonging](https://open.spotify.com/artist/35Hu3Q5BlAlQgUDH3jATl7) | [Good Things](https://open.spotify.com/album/2ljaFGrgIpGVt04MXHP3IH) | 2:16 | 2025-11-22 | 2026-01-05 |
+| [Goodbye](https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Goodbye](https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE) | 2:52 | 2026-09-06 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-24 | 2026-01-15 |
 | [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 | 2026-04-22 | 2026-05-26 |
 | [Great Escape](https://open.spotify.com/track/1Qk1TypCuztmSRnPucphnq) | [Ignatius Reilly](https://open.spotify.com/artist/5EvmRBc82fhLAJla8bdCt3) | [Superstitions Fade](https://open.spotify.com/album/6q7sbsq8GVQTzrk4LujFkm) | 5:29 | 2025-11-08 | 2025-12-01 |
@@ -345,6 +347,7 @@
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 | 2026-01-05 |
 | [Move Back \- 2015](https://open.spotify.com/track/4ZsgVgiwqYlmbKuK5GvQ54) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Move Back \(2015\)](https://open.spotify.com/album/645DrsLpWLnDvZvVdlncQD) | 3:18 | 2026-09-03 |  |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-04-17 | 2026-05-26 |
+| [Mr.Sun](https://open.spotify.com/track/1E07RRFqexoSkhgHGxNnFE) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr.Sun](https://open.spotify.com/album/4rfPrJpXlulatmgpjygzwp) | 2:49 | 2026-09-06 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-01-01 | 2026-01-25 |
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 | 2026-03-03 |
@@ -454,6 +457,7 @@
 | [Special Request](https://open.spotify.com/track/32S5hZP2vnB2Lw49ZkZhvb) | [Kool Breed](https://open.spotify.com/artist/4Ul0KjB1HMg6ozrWCZOc28) | [Special Request Tape](https://open.spotify.com/album/6s4mnxf3T0QNppxWnwwAyQ) | 4:24 | 2026-05-19 | 2026-06-14 |
 | [Spell On Me](https://open.spotify.com/track/1dU5H0mipa2uHxMOPVRSBr) | [Visiion](https://open.spotify.com/artist/1iGd2vsZFEL1h6APTFqSKC) | [Spell On Me](https://open.spotify.com/album/5cmBf5CAACoNL4ZfKrbKAr) | 1:53 | 2026-05-19 | 2026-06-14 |
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-11-30 | 2026-01-05 |
+| [Stained](https://open.spotify.com/track/7Hj7UgsBlX8leTucrQt8w5) | [HD Petique](https://open.spotify.com/artist/7t3GzjYuYF41Xh00Duo1LX) | [Stained](https://open.spotify.com/album/1i9KIgz3vYE2Oz3FdYVu8w) | 4:12 | 2026-09-06 |  |
 | [Stars Align](https://open.spotify.com/track/4FhPpakes0g6M04Vi4O8Kc) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stars Align](https://open.spotify.com/album/25js2Ko44rO4pOvU5nfr0S) | 3:36 | 2025-11-17 | 2026-01-05 |
 | [Stereo Romance](https://open.spotify.com/track/1V9vDOFT9l98U0hYW0zq2B) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Stereo Romance](https://open.spotify.com/album/4aj1EEu1FouN8DkCQixHLH) | 4:00 | 2025-11-24 | 2026-01-05 |
 | [Strikes and Gutters](https://open.spotify.com/track/246n8eYDfouFsf2wlQtmak) | [The Vinyl Grace](https://open.spotify.com/artist/26m7m0souJ0eZNP9LOrSIr) | [Strikes and Gutters](https://open.spotify.com/album/1GKaKdKf6ZPMuHJMXZ933R) | 5:32 | 2025-11-08 | 2025-12-01 |

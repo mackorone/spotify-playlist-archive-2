@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 40 min 42 sec
+[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 40 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
-| 2 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
-| 3 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
-| 4 | [Holdin' on to Yesterday](https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 4:16 |
-| 5 | [Minute by Minute](https://open.spotify.com/track/37oLDb3119IdKSIFQmSGRj) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:26 |
-| 6 | [Alone And Forsaken](https://open.spotify.com/track/5zFgBVbfMdfo6kCKm5hD6t) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Original Singles Collection \. \. \. Plus](https://open.spotify.com/album/2ofo3NZKdLxM3SBspKmXfV) | 2:01 |
-| 7 | [Latyrx](https://open.spotify.com/track/5EeqJeriXLswxQJhZYVnsC) | [Latyrx](https://open.spotify.com/artist/23hdcMBvWnhwTIWRKLLEvo) | [Latyrx \(Deluxe Edition\)](https://open.spotify.com/album/59HUrpebJcCxeYq3LOLQfs) | 5:47 |
-| 8 | [Lightning's Girl](https://open.spotify.com/track/7olHg8x8GvMJAcRzOLHK5e) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:56 |
-| 9 | [Catchin' The Vibe](https://open.spotify.com/track/6kQjb5Vcg0FHDmb4jjNlLY) | [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Yessir Whatever](https://open.spotify.com/album/6jnkEgtcxePHtbay62bota) | 2:43 |
-| 10 | [Ava Adore](https://open.spotify.com/track/6bVB2MGR7LcotAIB1vfpw6) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(Super Deluxe\)](https://open.spotify.com/album/7ysKTnHt4ve0MvIWm3vPdz) | 4:30 |
-| 11 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
+| 1 | [mi buena suerte.](https://open.spotify.com/track/6xVXJynT4L6aPmbI6Rzw5M) | [feel trip.](https://open.spotify.com/artist/7ysdcHcrr06qQJ1BL0dKVU) | [mi buena suerte.](https://open.spotify.com/album/0qgibElFaYsMONahPwuRGk) | 2:49 |
+| 2 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
+| 3 | [All Praises](https://open.spotify.com/track/0Q3G86CBqustfeTzfVGafa) | [Kashmere Stage Band](https://open.spotify.com/artist/5IlWFdNUgNdNDs50YtHoNf) | [Texas Thunder Soul 1968\-1974](https://open.spotify.com/album/4bn5ct5jEmBPnlmYvYGJFP) | 6:37 |
+| 4 | [Always See Your Face](https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Four Sail \(Expanded Edition\)](https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs) | 3:29 |
+| 5 | [Carousel](https://open.spotify.com/track/5AFqUTOMJ6bjH5YxpVfQfX) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Bloodless](https://open.spotify.com/album/37mwvUCrctINwVYeayXa7h) | 3:27 |
+| 6 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
+| 7 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 |
+| 8 | [Moving to New York](https://open.spotify.com/track/5YHhxbtAAkOiIXqNBfYjZU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:30 |
+| 9 | [If I Had You](https://open.spotify.com/track/1tx7llBKmFG4jCbfoc50YN) | [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1) | [Small Groups: 1941\-1945](https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4) | 3:01 |
+| 10 | [I Can Hear Music](https://open.spotify.com/track/1hcMfYTsRTC4hIKbfosxjz) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:37 |
+| 11 | [Backslide](https://open.spotify.com/track/1ejKld1cB8i55QVVB8TbwW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:53 |
 
-Snapshot ID: `AAAMASbGax2plkBccvianpOK6/NszpaB`
+Snapshot ID: `AAAMF2t0IcMdxxuutRVRQVuF4RU1LVjb`

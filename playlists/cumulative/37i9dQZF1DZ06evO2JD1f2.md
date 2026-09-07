@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-178 songs - 7 hr 56 min
+179 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-07 | 2025-07-14 |
 | [Taught Different](https://open.spotify.com/track/4lIfzjd5r3KuGMIxVWUHqs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 3:19 | 2026-08-28 |  |
 | [THE BIGGEST](https://open.spotify.com/track/7Fr5xo3GHRrJ1Q5kacxrGv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:15 | 2023-08-21 | 2023-09-19 |
-| [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 |  |
+| [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 | 2026-09-07 |
 | [THE ONE & ONLY](https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:19 | 2023-03-19 |  |
 | [The Realest \(feat\. Jeezy\)](https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:15 | 2022-10-28 |  |
 | [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 | 2024-12-27 |
@@ -185,6 +185,7 @@
 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-08-25 | 2024-01-28 |
 | [YA DIGG \(feat\. EST SkiMike\)](https://open.spotify.com/track/6JknNJZvYjuuzAbdgIsOrg) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST SkiMike](https://open.spotify.com/artist/0mTO44C2BfHj0YR2Qv4WAq) | [YA DIGG \(feat\. EST SkiMike\)](https://open.spotify.com/album/5smTyvHpobgvjAzmhgjlbh) | 2:48 | 2026-08-30 |  |
 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 | 2026-01-19 | 2026-03-20 |
+| [YOU KNOW IT \(feat\. 86Snot, EST Spit & EST4Nikk\)](https://open.spotify.com/track/1u2i7Zyqqtq0vYfy7LCzzL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [86Snot](https://open.spotify.com/artist/33r9SSemYHAwoctcOhrjo4), [EST Spit](https://open.spotify.com/artist/4KJiEOXEoqkJeLXIB44oB5), [EST4Nikk](https://open.spotify.com/artist/3rjdIIEDPhMmunSuMi7v9a) | [YA DIGG \(feat\. EST SkiMike\)](https://open.spotify.com/album/5smTyvHpobgvjAzmhgjlbh) | 2:04 | 2026-09-07 |  |
 | [Young Shiners](https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:35 | 2025-08-24 |  |
 
 \*This playlist was first scraped on 2022-10-29. Prior content cannot be recovered.

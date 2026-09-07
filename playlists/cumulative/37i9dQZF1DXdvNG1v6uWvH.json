@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 158172,
       "name": "4Surely",
       "url": "https://open.spotify.com/track/5DcG5SuIo4A4REFjNbIpYA"
@@ -38370,6 +38370,24 @@
       "duration_ms": 176242,
       "name": "clich\u00e9 - Jonas Brothers remix",
       "url": "https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
     },
     {
       "album": {
@@ -75994,7 +76012,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 239412,
       "name": "Garfield",
       "url": "https://open.spotify.com/track/4Bs03GthrME8AXpjtv9L8q"
@@ -118378,7 +118396,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 244482,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/0Ips33gQFgMbm0ipaWkpcb"
@@ -154064,7 +154082,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 193880,
       "name": "Opal",
       "url": "https://open.spotify.com/track/1duSkneKHeYsMnAupzTlIx"
@@ -167462,7 +167480,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 185026,
       "name": "Reign",
       "url": "https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm"
@@ -174933,6 +174951,24 @@
     },
     {
       "album": {
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "album": {
         "name": "Sax For Breakfast",
         "url": "https://open.spotify.com/album/6mywW38UfiwzOGHZKh967f"
       },
@@ -179124,7 +179160,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 150933,
       "name": "shg",
       "url": "https://open.spotify.com/track/3joFQakfyBFzhZqLc7gqxb"
@@ -212444,7 +212480,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 289468,
       "name": "Toi",
       "url": "https://open.spotify.com/track/5cBkJueWCq7NiW4DVD1UUK"
@@ -217994,7 +218030,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 161435,
       "name": "UNDERDOG",
       "url": "https://open.spotify.com/track/1dn48FVftFXf8sQmIwXThh"

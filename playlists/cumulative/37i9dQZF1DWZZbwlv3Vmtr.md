@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,223 songs - 1 day 23 hr 0 min
+1,224 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [After meal](https://open.spotify.com/track/2YM708xoJMb7ZV3cGl9dMx) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [Coffee Stand](https://open.spotify.com/album/4T8kEchzLMpyPlHzrqMRbZ) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 | 2022-04-15 | 2025-07-10 |
 | [Agata](https://open.spotify.com/track/2Hkv4yCIOCqYBKyTNqrs4f) | [Hayde Kole](https://open.spotify.com/artist/7mSzxAVpwd2cUa2llhsdwd) | [Agata](https://open.spotify.com/album/401am1vvW0SAIsfqTokvT2) | 2:00 | 2024-03-22 | 2024-06-23 |
+| [Airen](https://open.spotify.com/track/4Ekma2XsSu0szIvicDUtTw) | [Yasumi](https://open.spotify.com/artist/34l34Oez7Yh2TuELTDmNKZ) | [Airen](https://open.spotify.com/album/5sA9x2IuM64PuRUEFnHmyc) | 2:03 | 2026-09-04 |  |
 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-06 | 2023-12-15 |
 | [Alicia](https://open.spotify.com/track/6AnCrCwqMrMvAUlDjb2pLq) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [Alicia](https://open.spotify.com/album/3EKrndHJAeEkQdLkaVqcvR) | 2:15 | 2022-04-15 | 2023-12-08 |
 | [all in time](https://open.spotify.com/track/5DBdIkRVzbRuJyT9ZlUz3b) | [Isaac Wheadon](https://open.spotify.com/artist/3JdtFl0iWwZTNO5ul5nP5e) | [all in time](https://open.spotify.com/album/4pWWQ94GJBYcTh02Etoint) | 4:25 | 2022-10-28 | 2023-09-22 |
@@ -1013,7 +1014,7 @@
 | [Summer Daze](https://open.spotify.com/track/4Aku5uWx2GLoaNKgAvqq3h) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Summer Daze](https://open.spotify.com/album/5zZqkyoW0wwl4JqE2nVaT9) | 2:28 | 2022-04-15 | 2022-08-19 |
 | [Summer Moon](https://open.spotify.com/track/6p57PjYMUPMczkO2VdqrTs) | [CARLO](https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0) | [Summer Moon](https://open.spotify.com/album/4VXQDT2GLzVjatBJVaACsT) | 2:30 | 2024-07-12 | 2024-12-21 |
 | [Summer Soul](https://open.spotify.com/track/2N4cy1qVpWs4FV625FcVJG) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Summer Soul](https://open.spotify.com/album/0xchkEyuHD2rvQmUO55l2a) | 2:16 | 2023-01-06 | 2025-12-20 |
-| [Summerbreak](https://open.spotify.com/track/61BZYQebepBYfcVBuHgsV2) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Summerbreak](https://open.spotify.com/album/1O8HeSaZ46um1b8JnHTCjj) | 2:44 | 2026-09-04 |  |
+| [Summerbreak](https://open.spotify.com/track/61BZYQebepBYfcVBuHgsV2) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Summerbreak](https://open.spotify.com/album/1O8HeSaZ46um1b8JnHTCjj) | 2:44 | 2026-09-04 | 2026-09-07 |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-04-15 | 2022-04-22 |
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |
 | [sundae](https://open.spotify.com/track/0HNMvZOh9b4toznwdK4GyI) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [sundae](https://open.spotify.com/album/67WiTaUSsFCfci8XUlQmgm) | 2:50 | 2025-09-04 | 2025-09-21 |

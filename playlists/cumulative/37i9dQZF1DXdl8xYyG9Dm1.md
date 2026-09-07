@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-453 songs - 23 hr 14 min
+454 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Is'pantsula \(feat\. Papta Mancane\)](https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Papta Mancane](https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D) | [Speak N Vrostaan](https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1) | 4:42 | 2022-12-02 | 2023-09-15 |
 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 | 2026-08-21 |  |
 | [ISLAND GIRLS](https://open.spotify.com/track/1FXaBqoI5KFH8uR8UBiGI9) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [OUT OF SIGHT \- OUT OF MIND: VOLUME 1](https://open.spotify.com/album/3SI2TRyo5q8NwyfIZEy6ZP) | 2:52 | 2026-06-12 |  |
-| [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 | 2025-11-04 |  |
+| [Italawa](https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Italawa](https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn) | 2:52 | 2025-11-04 | 2026-09-07 |
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2021-10-14 | 2024-07-27 |
 | [James Bond \(With Harley\)](https://open.spotify.com/track/3BOP1rsMQA0q5QV5obyNG2) | [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [James Bond \(With Harley\)](https://open.spotify.com/album/0ZjPpZefOqsc9v26PZa4cg) | 2:41 | 2024-01-05 | 2024-05-09 |
 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 | 2024-01-12 | 2025-02-13 |
@@ -332,6 +332,7 @@
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 | 2021-10-14 | 2023-11-11 |
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 | 2022-03-08 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/0KKF3byU8SS4cW3z1XfvLp) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Feels Like Home](https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB) | 2:43 | 2024-07-05 | 2025-04-01 |
+| [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 | 2026-09-04 |  |
 | [Prada](https://open.spotify.com/track/2DQ8VLRmHPn3QOx2xjlAQw) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Khuli Chana](https://open.spotify.com/artist/4f2hVqzqXvQdVaC35D8sAc) | [Prada](https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5) | 2:55 | 2023-01-19 | 2023-10-13 |
 | [Press 2](https://open.spotify.com/track/3zLOIvEldB1gIquM8FFqRm) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Press 2](https://open.spotify.com/album/4PKJyjI7pt0EpHKjFodziL) | 4:26 | 2025-03-31 | 2025-04-04 |
 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 | 2025-11-07 |  |

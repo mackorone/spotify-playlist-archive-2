@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-713 songs - 1 day 20 hr 25 min
+719 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 | 2026-07-30 | 2026-08-15 |
 | [Amer](https://open.spotify.com/track/3xOjr3Wu2IOqnhK3v6xIrc) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:20 | 2026-02-24 | 2026-03-18 |
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
+| [Amor à beira\-mar](https://open.spotify.com/track/4Wt6Rqu8Jignaau0U6MGth) | [Zeo Hettes](https://open.spotify.com/artist/5sgQCBSCf5KzI2AN5Iupot) | [Amor à beira\-mar](https://open.spotify.com/album/0YKJeiPBR2EzGcabyZz0U7) | 2:56 | 2026-09-06 |  |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 | 2026-04-21 |
 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 | 2025-12-31 | 2026-03-18 |
 | [Andando Sin Prisa](https://open.spotify.com/track/7F14FNeb1lWPxNHXTkJvjk) | [El Sueño de Vákner](https://open.spotify.com/artist/7fWvpRmhgfH4IJpeXain5l) | [Andando Sin Prisa](https://open.spotify.com/album/5RCbfhmxo8NhkWQJZsIApe) | 4:28 | 2026-04-05 | 2026-04-21 |
@@ -62,6 +63,7 @@
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-02-22 | 2026-03-18 |
 | [Bad Omens](https://open.spotify.com/track/6avpcNvUmrYvdX0egVyjeU) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [Bad Omens](https://open.spotify.com/album/0uIbKWU808kXMrY9KJLRSD) | 3:53 | 2026-04-23 | 2026-06-25 |
 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 | 2025-12-16 | 2026-04-21 |
+| [BADASS\-GIRL](https://open.spotify.com/track/102FBAQ7ZoDSxxAEPnT9Nt) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [BADASS\-GIRL](https://open.spotify.com/album/1zj1pe14y73hucU7DuFHyg) | 2:53 | 2026-09-06 |  |
 | [Badclown](https://open.spotify.com/track/5kWwICLRj4mSYYcAlxus8v) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 4:36 | 2025-09-21 | 2025-11-28 |
 | [Barroom Brawl on a Friday Night](https://open.spotify.com/track/4Yblk5pDY4rZaWTyocDsWW) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:54 | 2026-03-30 | 2026-04-21 |
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-04-15 | 2026-06-25 |
@@ -145,6 +147,7 @@
 | [Cut the Music](https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU) | [Evan Rotella](https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS) | [Cut the Music](https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv) | 4:06 | 2025-11-22 | 2025-12-17 |
 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 | 2026-01-03 | 2026-03-18 |
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-17 | 2025-12-17 |
+| [Dancing all night](https://open.spotify.com/track/34irYhqyfolUmYwup3fqHk) | [Star Crystal](https://open.spotify.com/artist/0heeideNtetIRa4LIz2kO5) | [Revival of Glam](https://open.spotify.com/album/5Trqh4Qg12C5FqjyXDe1s0) | 4:36 | 2026-09-06 |  |
 | [Dandelion](https://open.spotify.com/track/3PHi0kUawFptkqvvKhhMb6) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [Dark Skies](https://open.spotify.com/album/2f1rOpD32zEodoeo2a9B3d) | 3:10 | 2025-11-08 | 2025-12-17 |
 | [Dans l'ombre des heures](https://open.spotify.com/track/6siro0UcA1DAOiHGxpMYCb) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Dans l'ombre des heures](https://open.spotify.com/album/69LAwjnFepT1M6CKhXd4KK) | 2:52 | 2026-04-23 | 2026-06-25 |
 | [Dark Days](https://open.spotify.com/track/3oiCerWvwdIlHTND7tswor) | [Jack Biilmann](https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX) | [Dark Days](https://open.spotify.com/album/2q5KW0Gr7oOsnBU3adcj3A) | 4:10 | 2026-08-13 |  |
@@ -191,6 +194,7 @@
 | [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 | 2026-06-10 | 2026-06-25 |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 | 2026-09-02 |  |
+| [Em Meio ao Caos](https://open.spotify.com/track/6zsMTcx0wMe6qRvKw9IJGT) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Em Meio ao Caos](https://open.spotify.com/album/2OFUSAfeqtlraXQF8h2vsC) | 3:44 | 2026-09-06 |  |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |
 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-04-26 | 2026-05-26 |
@@ -213,6 +217,7 @@
 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 | 2026-06-09 | 2026-06-25 |
 | [Fallin' Up](https://open.spotify.com/track/6K0AByZlnuW2t9iuV4ntBg) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [New West](https://open.spotify.com/album/7iwcTjYekrnEr3CM1J8TIS) | 3:11 | 2025-12-04 | 2025-12-17 |
 | [Far away in another time](https://open.spotify.com/track/7eUZTaIlGgBYQhpdPiiggy) | [the unknown artist](https://open.spotify.com/artist/3vmtXEWcazX7rZ6pj84lNs) | [Far away in another time](https://open.spotify.com/album/7dPYSzzRbIAwTuQNZRZZbk) | 2:54 | 2026-03-14 | 2026-07-12 |
+| [Farmarock](https://open.spotify.com/track/3GbzPD6uyOqS8cP4GiqdjV) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc) | [Farmarock](https://open.spotify.com/album/5amwfzHfVIE8MgFKR0wW77) | 4:38 | 2026-09-06 |  |
 | [Fastlane](https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T) | [Amani Burnham](https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD) | [Fastlane](https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH) | 3:18 | 2026-09-04 |  |
 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 | 2026-03-03 | 2026-07-12 |
 | [Final Descent](https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI) | [KuF](https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj) | [Chapter 1](https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj) | 5:16 | 2026-05-28 | 2026-06-18 |
@@ -582,6 +587,7 @@
 | [Starstruck](https://open.spotify.com/track/4BYasiV8oVyX8DHPtV0CMi) | [Victor Drux](https://open.spotify.com/artist/1aeuM7g2UuAoj07k1CC71h) | [Starstruck](https://open.spotify.com/album/0tiHXl3ywnPyCaooQNfgst) | 3:41 | 2026-07-08 | 2026-08-10 |
 | [Stay](https://open.spotify.com/track/5ih4AstOk7fxbPIDJZ45pi) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 5:25 | 2026-07-14 | 2026-08-01 |
 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 | 2026-04-30 | 2026-05-26 |
+| [Stay With Me](https://open.spotify.com/track/1wRnOV1763A7YlB42Pvfpn) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Stay With Me](https://open.spotify.com/album/6isa4PolhfUDnsWuKMSeBP) | 2:25 | 2026-09-06 |  |
 | [Step By Step](https://open.spotify.com/track/4PxUH42cgwnWMVG4Wgri18) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Step By Step](https://open.spotify.com/album/3cec3xCfuMviPNoBTta7Qv) | 3:43 | 2026-05-25 | 2026-06-18 |
 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 | 2026-04-21 |
 | [Still Wearing the Ring](https://open.spotify.com/track/2XNl2KSoD0tNlTghYp8hK6) | [Hakuten](https://open.spotify.com/artist/38xM2PuRgJ0CKk9vTzHoG7) | [Death Bound Heart](https://open.spotify.com/album/3LfOyNG8IwFZiV6SF1FUVT) | 4:49 | 2026-01-05 | 2026-03-18 |

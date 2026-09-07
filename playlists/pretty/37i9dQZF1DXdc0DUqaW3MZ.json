@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377578,
+  "num_followers": 377596,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -435,34 +435,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "I Want Your Love",
-        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 153050,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
@@ -479,6 +451,26 @@
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Come Back Tomorrow",
+        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        }
+      ],
+      "duration_ms": 202017,
+      "name": "Come Back Tomorrow",
+      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -503,22 +495,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Come Back Tomorrow",
-        "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
       },
       "artists": [
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
         },
         {
-          "name": "LYMA",
-          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
         }
       ],
-      "duration_ms": 202017,
-      "name": "Come Back Tomorrow",
-      "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -835,6 +835,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "Piece Of Me",
+        "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        },
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Piece Of Me",
+      "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
       },
@@ -851,34 +875,6 @@
       "duration_ms": 222534,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
-      },
-      "artists": [
-        {
-          "name": "Braxe + Falcon",
-          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
-        },
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        },
-        {
-          "name": "Alan Braxe",
-          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
-        },
-        {
-          "name": "DJ Falcon",
-          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
-        }
-      ],
-      "duration_ms": 233196,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -907,26 +903,30 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Piece Of Me",
-        "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
       "artists": [
         {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
         },
         {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         },
         {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
         }
       ],
-      "duration_ms": 189651,
-      "name": "Piece Of Me",
-      "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+      "duration_ms": 233196,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
-        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 230064,
-      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
-      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Been A Minute...",
         "url": "https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 189947,
       "name": "Been A Minute...",
       "url": "https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
+        "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 230064,
+      "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
+      "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "APRIL",
         "url": "https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS"
       },
@@ -1371,42 +1391,22 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
       "artists": [
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "Found a Love",
-        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "The Voices of Epoch",
-          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
-        }
-      ],
-      "duration_ms": 235149,
-      "name": "Found a Love",
-      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     }
   ],
   "unique_name": "Soultronic",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 162355,
+  "num_followers": 162408,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Un Gran Dia",
-        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
-      },
-      "artists": [
-        {
-          "name": "Dani Senay",
-          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Un Gran Dia",
-      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 170614,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Un Gran Dia",
+        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
+      },
+      "artists": [
+        {
+          "name": "Dani Senay",
+          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Un Gran Dia",
+      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Mqb",
         "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "NOVUS",
         "url": "https://open.spotify.com/album/26Dv1GG4Ar8Ag1TvfmpdiY"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 218138,
       "name": "Novus",
       "url": "https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Malvavisco",
-        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
-      },
-      "artists": [
-        {
-          "name": "Tati",
-          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
-        },
-        {
-          "name": "Frank Miami",
-          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
-        }
-      ],
-      "duration_ms": 189148,
-      "name": "Malvavisco",
-      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -607,18 +587,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "If You Let Go",
-        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
+        "name": "Malvavisco",
+        "url": "https://open.spotify.com/album/4l1bIMtFmIl3yWLlPgNXVR"
       },
       "artists": [
         {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+          "name": "Tati",
+          "url": "https://open.spotify.com/artist/6PeWKrXDceXYWr8RySGo1v"
+        },
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
         }
       ],
-      "duration_ms": 156101,
-      "name": "If You Let Go",
-      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
+      "duration_ms": 189148,
+      "name": "Malvavisco",
+      "url": "https://open.spotify.com/track/0Q49ICvuifgC078lmxdeih"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -639,6 +623,22 @@
       "duration_ms": 183389,
       "name": "Bailo Contigo",
       "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "If You Let Go",
+        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 156101,
+      "name": "If You Let Go",
+      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 194380,
-      "name": "Corazon Cerrado",
-      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 185210,
       "name": "Lo M\u00edo Es Tuyo",
       "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Buenas Vibras",
-        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        }
-      ],
-      "duration_ms": 188624,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -787,6 +755,38 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Buenas Vibras",
+        "url": "https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        }
+      ],
+      "duration_ms": 188624,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Para Mi Familia",
         "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
       },
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+        "name": "Para Arriba",
+        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
+      "duration_ms": 217090,
+      "name": "Para Arriba",
+      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -843,38 +843,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Para Arriba",
-        "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
       "artists": [
         {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 217090,
-      "name": "Para Arriba",
-      "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Prepararse para la Buena",
-        "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
-      },
-      "artists": [
-        {
-          "name": "Germ\u00e1n Barcel\u00f3",
-          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
-        },
-        {
-          "name": "Alex Batista",
-          "url": "https://open.spotify.com/artist/0swJn1dnQPnsuPOGvwjOFx"
-        }
-      ],
-      "duration_ms": 176437,
-      "name": "Prepararse para la Buena",
-      "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -895,6 +875,26 @@
       "duration_ms": 210000,
       "name": "Perfecto Amor",
       "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Prepararse para la Buena",
+        "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Barcel\u00f3",
+          "url": "https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ"
+        },
+        {
+          "name": "Alex Batista",
+          "url": "https://open.spotify.com/artist/0swJn1dnQPnsuPOGvwjOFx"
+        }
+      ],
+      "duration_ms": 176437,
+      "name": "Prepararse para la Buena",
+      "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1075,38 +1075,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Cubana",
-        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
       },
       "artists": [
         {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        },
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Cubana",
-      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Viene Alegr\u00eda",
-        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 165611,
-      "name": "Viene Alegr\u00eda",
-      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
       "artists": [
         {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
         }
       ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
+      "duration_ms": 186750,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1159,26 +1143,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        },
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1195,6 +1159,42 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Viene Alegr\u00eda",
+        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 165611,
+      "name": "Viene Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
+      },
+      "artists": [
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Pero Tengo a Cristo (Remix)",
         "url": "https://open.spotify.com/album/2KueafqItELNjYDLcojc9I"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 221350,
       "name": "Pero Tengo a Cristo - Remix",
       "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
-      },
-      "artists": [
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Llegaron Los Cristianos",
-        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Cristo Cambia",
-      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/6DZLO5Wp0JSFkpRdx3IL4B"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 164117,
       "name": "OMW",
       "url": "https://open.spotify.com/track/4NNmICAifT9UDArpQAfuph"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Llegaron Los Cristianos",
+        "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Cristo Cambia",
+      "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Momento",
-        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "closefriend",
         "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 188108,
       "name": "closefriend",
       "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
       "added_at": "2026-08-01 02:46:09",

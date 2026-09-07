@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65865,
+  "num_followers": 65867,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
-        }
-      ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "La Danza de Helmut",
         "url": "https://open.spotify.com/album/6Kks2IU2J1pb2nZ6sCpjck"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238039,
       "name": "La Danza de Helmut",
       "url": "https://open.spotify.com/track/3XIuXL9FZBfoQe0KK7tdqc"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+        }
+      ],
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2026-09-04 06:00:34",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-09-04 06:00:34",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
-      },
-      "artists": [
-        {
-          "name": "Cha/Co Project",
-          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
-        }
-      ],
-      "duration_ms": 384415,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
-    },
-    {
-      "added_at": "2026-09-04 06:00:34",
-      "album": {
         "name": "La Instituci\u00f3n Te Reclama",
         "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 349008,
       "name": "Entronque",
       "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
+    },
+    {
+      "added_at": "2026-09-04 06:00:34",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
     },
     {
       "added_at": "2026-09-04 06:00:34",

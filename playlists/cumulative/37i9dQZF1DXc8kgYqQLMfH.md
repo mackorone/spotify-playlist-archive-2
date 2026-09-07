@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,340 songs - 2 day 3 hr 15 min
+1,341 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-09-07 |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -214,6 +214,7 @@
 | [Clouds](https://open.spotify.com/track/6lvcW2TWmHkV9DUSR55uXs) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5), [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Clouds](https://open.spotify.com/album/2FNg9YwxmrHVMbr3aL4HBJ) | 2:08 | 2022-09-02 | 2023-10-06 |
 | [Clouds Over Home](https://open.spotify.com/track/08mhnIcSfaTzgW1tdUKT3i) | [Slow Koi](https://open.spotify.com/artist/5PaBNnPSqIT1c3JH9D0W1D) | [Clouds Over Home](https://open.spotify.com/album/4isnPZhAmXE0TAE7lmkMsP) | 2:12 | 2026-02-20 |  |
 | [Cloudy Haze](https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh) | [Rein Dayz](https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI) | [Cloudy Haze](https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl) | 2:16 | 2023-12-22 | 2026-08-21 |
+| [cloudycalm](https://open.spotify.com/track/0JJfO3qTZdcNuuOgwuzke9) | [hushpapi](https://open.spotify.com/artist/7wNCIjvREOe3XzXiykYwOU) | [cloudycalm](https://open.spotify.com/album/5pZmI3bAl2J4izs9gtNnPi) | 2:17 | 2026-09-04 |  |
 | [coconut](https://open.spotify.com/track/4VLf2JAtJmzHaKvA8mOlmu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [coconut](https://open.spotify.com/album/1uqMqtvFq5jns7j9kZPvKd) | 2:50 | 2024-02-23 | 2025-07-16 |
 | [Coffee Break](https://open.spotify.com/track/2iQ7zLgkFg5oz9GszNqKad) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [Coffee Break](https://open.spotify.com/album/1jd8sYTu2nql0HNKUoRwWF) | 2:19 | 2022-10-15 | 2025-07-16 |
 | [Cold Breeze](https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Cold Breeze](https://open.spotify.com/album/6hTlSMabr9DBUhUfDdQoeO) | 2:25 | 2022-10-28 | 2023-09-26 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAC9D/LrRNuX6WsXbEBBzvU9",
+  "snapshot_id": "aptbgAAAAADD5UJnaW8p4wLKb4ec8gsY",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6 & Fantasie, Op. 17",
-        "url": "https://open.spotify.com/album/4BYqUEEXraeCs8Y4OqrzBm"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 17, Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/7azbxrt9Wi0ra1qFfcCUOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -491,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6 & Fantasie, Op. 17",
+        "url": "https://open.spotify.com/album/4BYqUEEXraeCs8Y4OqrzBm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 17, Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/7azbxrt9Wi0ra1qFfcCUOR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Dream Album: Piano Bonbons",
         "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 121853,
       "name": "Gypsy Melodies, B. 104: IV. Songs My Mother Taught Me (Arr. Hough)",
       "url": "https://open.spotify.com/track/04ikXqr1xGdSyRo3kCBr93"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chaminade: Les sylvains, Op. 60",
-        "url": "https://open.spotify.com/album/0SxfV2lTnlKN0ZznvVa7tB"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile Chaminade",
-          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Les sylvains, Op. 60",
-      "url": "https://open.spotify.com/track/4WsXp6fVboRE5XW0VyYSgJ"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 525173,
       "name": "II. Larghetto",
       "url": "https://open.spotify.com/track/4LwBt2pAOdVIv541oeEeOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chaminade: Les sylvains, Op. 60",
+        "url": "https://open.spotify.com/album/0SxfV2lTnlKN0ZznvVa7tB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Les sylvains, Op. 60",
+      "url": "https://open.spotify.com/track/4WsXp6fVboRE5XW0VyYSgJ"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 129946,
-      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
-      "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -651,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refreshing Classics",
-        "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
       },
       "artists": [
         {
-          "name": "Moritz Moszkowski",
-          "url": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 117600,
-      "name": "Moszkowski: 6 Klavierst\u00fccke, Op. 15: No. 1, Serenata",
-      "url": "https://open.spotify.com/track/0tol2GiNJ5qJA8m52hscNb"
+      "duration_ms": 129946,
+      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
     },
     {
       "added_at": null,
@@ -687,6 +667,26 @@
       "duration_ms": 290173,
       "name": "Levitzki: The Enchanted Nymph",
       "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Refreshing Classics",
+        "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
+      },
+      "artists": [
+        {
+          "name": "Moritz Moszkowski",
+          "url": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "Moszkowski: 6 Klavierst\u00fccke, Op. 15: No. 1, Serenata",
+      "url": "https://open.spotify.com/track/0tol2GiNJ5qJA8m52hscNb"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
-        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 98200,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
-      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refreshing Classics",
         "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 127346,
       "name": "Britten: Holiday Diary, Op. 5: I. Early Morning Bathe",
       "url": "https://open.spotify.com/track/1WwljRnNW2V5gFGbiC1ZW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"The Last Tea of Summer: Classical Masterpieces\"",
+        "url": "https://open.spotify.com/album/63y1jOyJJA89Vu89AxcUqd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 98200,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 3, Intermezzo in C Major",
+      "url": "https://open.spotify.com/track/0rWjXuHg81ukk4eI14ggTP"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Dream Album: Piano Bonbons",
-        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 137106,
-      "name": "Blow the Wind Southerly (Arr. Hough)",
-      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beethoven: Piano Concertos Nos. 1-5",
         "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen Hough's Dream Album: Piano Bonbons",
+        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 137106,
+      "name": "Blow the Wind Southerly (Arr. Hough)",
+      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 194000,
       "name": "Mary Poppins Suite (Arr. Hough for Piano): II. Feed the Birds",
       "url": "https://open.spotify.com/track/6S47mS9cHp3gvOmRjZwGW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
-        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
-      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
     },
     {
       "added_at": null,
@@ -1023,6 +1003,26 @@
       "duration_ms": 56933,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
       "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brahms: The Final Piano Pieces, Op. 116-119",
+        "url": "https://open.spotify.com/album/0zecLuGhn3F4Fne4ruUjxl"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Intermezzos, Op. 117: No. 2 in B-Flat Minor. Andante non troppo e con molto espressione",
+      "url": "https://open.spotify.com/track/22AR0LumFEGmDhjH7j0vlc"
     },
     {
       "added_at": null,

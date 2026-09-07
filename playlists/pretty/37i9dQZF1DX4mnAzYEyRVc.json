@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 72808,
+  "num_followers": 72831,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Fight the Good Fight",
-        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "She's Kerosene",
-      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "The Return of El Santo",
         "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Fight the Good Fight",
+        "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
+      },
+      "artists": [
+        {
+          "name": "The Interrupters",
+          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "She's Kerosene",
+      "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Bersinar",
-        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
-      },
-      "artists": [
-        {
-          "name": "Shaggydog",
-          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
-        }
-      ],
-      "duration_ms": 225047,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Alles gl\u00e4nzt",
         "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 196699,
       "name": "Komm mit aufs Boot",
       "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Bersinar",
+        "url": "https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn"
+      },
+      "artists": [
+        {
+          "name": "Shaggydog",
+          "url": "https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r"
+        }
+      ],
+      "duration_ms": 225047,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "STAY YOUNG STAY PUNK",
+        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+      },
+      "artists": [
+        {
+          "name": "FIVE STATE DRIVE",
+          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "STAY YOUNG STAY PUNK",
+      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -999,34 +1015,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "STAY YOUNG STAY PUNK",
-        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+        "name": "Balkan Boys",
+        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
       },
       "artists": [
         {
-          "name": "FIVE STATE DRIVE",
-          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+          "name": "Dubioza kolektiv",
+          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
         }
       ],
-      "duration_ms": 123000,
-      "name": "STAY YOUNG STAY PUNK",
-      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+      "duration_ms": 124580,
+      "name": "Balkan Boys",
+      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1047,18 +1047,34 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Balkan Boys",
-        "url": "https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0"
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
       "artists": [
         {
-          "name": "Dubioza kolektiv",
-          "url": "https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY"
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
         }
       ],
-      "duration_ms": 124580,
-      "name": "Balkan Boys",
-      "url": "https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF"
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "The Story So Far...",
+        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
+      },
+      "artists": [
+        {
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1087,22 +1103,6 @@
       "duration_ms": 219216,
       "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
       "url": "https://open.spotify.com/track/65PmhK4bAAqQm7LYovOM5X"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "The Story So Far...",
-        "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 199565,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182000,
       "name": "Lo Que T\u00fa Me Das - Gracias",
       "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1547,22 +1531,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Return Of The Ugly",
         "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
@@ -1579,18 +1547,34 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Si Oh !",
-        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
       },
       "artists": [
         {
-          "name": "Los Tres Puntos",
-          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
         }
       ],
-      "duration_ms": 151013,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1611,6 +1595,22 @@
       "duration_ms": 280293,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Si Oh !",
+        "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Puntos",
+          "url": "https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Yes It's True",
-        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
+        "name": "Pancho",
+        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
       },
       "artists": [
         {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
         }
       ],
-      "duration_ms": 243615,
-      "name": "Yes It's True",
-      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
+      "duration_ms": 161818,
+      "name": "Pancho",
+      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
     }
   ],
   "unique_name": "Ska Around The Globe",

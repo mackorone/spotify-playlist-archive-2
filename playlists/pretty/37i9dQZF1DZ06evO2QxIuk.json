@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375886,
+  "num_followers": 375909,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACc0MSncEpQxVzM9hJ5AZYt",
+  "snapshot_id": "aptbgAAAAABcXVwCo43XxxntsnL9Oxe/",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 43168,
+      "name": "In the Marketplace (Interlude)",
+      "url": "https://open.spotify.com/track/5sz00JY0sDJHdK6R2x3BRM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 308444,
-      "name": "Be Ever Wonderful",
-      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 308444,
+      "name": "Be Ever Wonderful",
+      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 265867,
       "name": "Star",
       "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 324635,
-      "name": "I'll Write a Song for You",
-      "url": "https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 245390,
-      "name": "And Love Goes On",
-      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 191408,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
+      "duration_ms": 324635,
+      "name": "I'll Write a Song for You",
+      "url": "https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 245390,
+      "name": "And Love Goes On",
+      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 395905,
+      "name": "All About Love (First Impression)",
+      "url": "https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 467733,
       "name": "Show Me the Way (feat. Raphael Saadiq)",
       "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 395905,
-      "name": "All About Love (First Impression)",
-      "url": "https://open.spotify.com/track/0G00ZDkQ8a80JOhQHtWPOs"
     },
     {
       "added_at": null,

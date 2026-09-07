@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 205090,
       "name": "#NOMUSICNOLIFE",
       "url": "https://open.spotify.com/track/3oHF7XlJs4Ce4xTF5RSbBy"
@@ -3444,7 +3444,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 164551,
       "name": "Dearly",
       "url": "https://open.spotify.com/track/7rMTAP5pnzMYAqlaL2gLA1"
@@ -6755,6 +6755,24 @@
     },
     {
       "album": {
+        "name": "Hiljaisuus",
+        "url": "https://open.spotify.com/album/46embklLqA4N58C8PBkRvI"
+      },
+      "artists": [
+        {
+          "name": "Kastehelmi",
+          "url": "https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "Hiljaisuus",
+      "url": "https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn"
+    },
+    {
+      "album": {
         "name": "Hitaammin hautaan",
         "url": "https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7"
       },
@@ -8158,7 +8176,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 201750,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/0Q74OEKSkZYIYqX8sMF05i"
@@ -9094,6 +9112,32 @@
       "duration_ms": 234880,
       "name": "Kaiken arvoinen",
       "url": "https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1"
+    },
+    {
+      "album": {
+        "name": "Kaikki k\u00e4\u00e4ntyy",
+        "url": "https://open.spotify.com/album/2VBHyZRJQwZP0rlaWSE5PB"
+      },
+      "artists": [
+        {
+          "name": "HYRYSYSY",
+          "url": "https://open.spotify.com/artist/4iV4diBjgL2goSde1Vz00H"
+        },
+        {
+          "name": "Orvokki",
+          "url": "https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e"
+        },
+        {
+          "name": "mc vatkain",
+          "url": "https://open.spotify.com/artist/3S5Upi9G1QoUGz4T6qp0qP"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "Kaikki k\u00e4\u00e4ntyy",
+      "url": "https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE"
     },
     {
       "album": {
@@ -18737,6 +18781,24 @@
     },
     {
       "album": {
+        "name": "Tuskasta Taidetta",
+        "url": "https://open.spotify.com/album/2P6IMeL9dhFld17Zck7L48"
+      },
+      "artists": [
+        {
+          "name": "Jemina",
+          "url": "https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Sisko en tahdo j\u00e4\u00e4d\u00e4",
+      "url": "https://open.spotify.com/track/0OlqM65MBZXycYwXCWHDaE"
+    },
+    {
+      "album": {
         "name": "Sista G\u00e5ng",
         "url": "https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6"
       },
@@ -20326,6 +20388,24 @@
       "duration_ms": 209484,
       "name": "Taivaisiin - Vain el\u00e4m\u00e4\u00e4 kausi 15",
       "url": "https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF"
+    },
+    {
+      "album": {
+        "name": "Takas",
+        "url": "https://open.spotify.com/album/3VXQHpCWPkH8p43fw3Xsza"
+      },
+      "artists": [
+        {
+          "name": "JAVE",
+          "url": "https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149143,
+      "name": "Takas",
+      "url": "https://open.spotify.com/track/1hIEcmeuHYzPeCOjtxSQ0T"
     },
     {
       "album": {
@@ -22928,7 +23008,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 204187,
       "name": "Vie mut kotiin",
       "url": "https://open.spotify.com/track/2T8KoKgZfr4toQB7HMxVRU"

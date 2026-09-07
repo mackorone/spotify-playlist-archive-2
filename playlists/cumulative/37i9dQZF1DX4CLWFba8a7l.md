@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Jem Cassar\-Daley
 
-738 songs - 1 day 17 hr 17 min
+740 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-16 | 2025-05-31 |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-11 | 2025-01-11 |
 | [Alter Ego](https://open.spotify.com/track/43nOsmlhrByj1QtPYjFtN2) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Alter Ego](https://open.spotify.com/album/6wWJpVkHxBcK2bagL8q2po) | 3:14 | 2025-01-23 | 2025-01-31 |
-| [always](https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [g00se](https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi) | 2:54 | 2026-08-14 |  |
+| [always](https://open.spotify.com/track/2lTmsSA87P0VgUhFEwvBTQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [g00se](https://open.spotify.com/album/2sjAetVEPuQSfO3HqbT3gi) | 2:54 | 2026-08-14 | 2026-09-07 |
 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 | 2024-12-22 |
 | [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 | 2025-12-11 | 2026-05-13 |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2024-05-31 | 2025-01-25 |
@@ -649,6 +649,7 @@
 | [The Here And Now](https://open.spotify.com/track/3gdWjWd3pXvtIijQrNWjto) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [The Here And Now](https://open.spotify.com/album/2YGkpwEZmg17X10TH6gJxl) | 3:46 | 2025-04-08 | 2025-04-18 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-05-22 | 2025-08-03 |
 | [The Long Road](https://open.spotify.com/track/1tQ4HWy7mZwHoValxwQD76) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [The Long Road](https://open.spotify.com/album/5kaT5I1IWXC0wzd1cFZtt5) | 3:47 | 2025-04-08 | 2025-04-18 |
+| [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/track/4cU5HrOrG8nz95VcnVQ2YD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [The Only One \(feat\. Christine and the Queens\)](https://open.spotify.com/album/7ipyPxOUmpmSucbeEjxaPO) | 4:11 | 2026-09-03 |  |
 | [The Other Side \(feat\. Gordi\)](https://open.spotify.com/track/7qamM6CMbIDWh0o6XYiLdY) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [The Other Side](https://open.spotify.com/album/73IHBuG4978drite6milKs) | 3:49 | 2025-05-15 | 2025-05-23 |
 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 | 2025-10-09 | 2026-07-10 |
 | [The Start](https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc) | 3:16 | 2026-09-03 |  |
@@ -683,7 +684,7 @@
 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-05-29 | 2025-10-10 |
 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 | 2025-09-01 | 2025-09-05 |
 | [Tsunami](https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Half Moon Bay](https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP) | 3:09 | 2025-07-03 | 2025-07-11 |
-| [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 | 2026-04-09 |  |
+| [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 | 2026-04-09 | 2026-09-07 |
 | [TUNDRA](https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [Hylander](https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4) | [Vol.1 Learning In Public](https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H) | 3:19 | 2025-04-08 | 2025-09-05 |
 | [Two Feet & A Heartbeat](https://open.spotify.com/track/6usSjDLorJNv7yzSOKz94p) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [WHAT NOW?](https://open.spotify.com/album/65R2GmV5GViuywAOfbB0Dj) | 2:44 | 2026-04-09 | 2026-04-17 |
 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 | 2025-05-08 | 2025-05-16 |
@@ -727,6 +728,7 @@
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3vqQPsvr1WR0m1HpOD6i4o) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Wish I Didn't Miss You](https://open.spotify.com/album/4IN8fa6mzYiH5thvRRCrr9) | 2:52 | 2025-09-01 | 2025-09-05 |
 | [Wish I Had a Friend](https://open.spotify.com/track/7ruMeQQkscgQGCtDG5XNIL) | [Hevenshe](https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft) | [Wish I Had a Friend](https://open.spotify.com/album/1MU0xzR8rBE14mcEIHGa3Z) | 4:53 | 2025-01-30 | 2025-02-07 |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-01-09 | 2026-03-04 |
+| [Without You](https://open.spotify.com/track/4kwpYZxSMhp8sETJ77csWc) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Without You](https://open.spotify.com/album/3w0DTk4Sbocn0So22geTLR) | 4:05 | 2026-09-03 |  |
 | [WONDERFUL](https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY](https://open.spotify.com/album/1XCxwBhOgN3o8E6YSkWZk2) | 3:22 | 2025-11-06 | 2025-11-14 |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-05-31 | 2024-09-17 |
 | [Work Out Fine](https://open.spotify.com/track/2GL3ureNXlitWxKzCelq5A) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Work Out Fine](https://open.spotify.com/album/1UadDRX1FV1jBjUGUrXk1u) | 2:12 | 2026-01-29 | 2026-02-06 |

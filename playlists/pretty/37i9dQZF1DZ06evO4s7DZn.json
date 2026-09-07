@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAAXGL+YZRQ9ewarS7BM+7ao",
+  "snapshot_id": "aptbgAAAAADBogHxsVsw/b9uPuBlRy3v",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 187768,
-      "name": "La Danza del Coyote",
-      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
+      "duration_ms": 158928,
+      "name": "Medias Negras",
+      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 158928,
-      "name": "Medias Negras",
-      "url": "https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR"
+      "duration_ms": 187768,
+      "name": "La Danza del Coyote",
+      "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 217186,
-      "name": "Hoja en Blanco",
-      "url": "https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN"
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 203103,
-      "name": "La Guitarra de Lolo",
-      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+      "duration_ms": 217186,
+      "name": "Hoja en Blanco",
+      "url": "https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Ranchero",
-        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Amor Ranchero",
-      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Carne Y Hueso",
         "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 156013,
       "name": "La Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Ranchero",
+        "url": "https://open.spotify.com/album/1pszmlW7YAKxiRMT8XHUky"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/4CS7Isl8iZDOIk3h15Go1q"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Mi Amor Bendito",
-      "url": "https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 181276,
-      "name": "El Brinquito de la Perra Ro\u00f1osa",
-      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
+      "duration_ms": 184653,
+      "name": "Mi Amor Bendito",
+      "url": "https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 157760,
       "name": "No Hay Vacante",
       "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Oh Gran Dios",
-      "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas Del Corazon",
         "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 207640,
       "name": "Como Esos Amantes",
       "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Oh Gran Dios",
+      "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1o Donde Andaras",
         "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 156090,
       "name": "Cari\u00f1o Donde Andaras",
       "url": "https://open.spotify.com/track/0imGUZ1umFUKrzv8kPNWfK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
     },
     {
       "added_at": null,

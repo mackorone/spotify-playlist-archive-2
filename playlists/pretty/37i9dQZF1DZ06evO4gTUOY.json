@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4137363,
+  "num_followers": 4137521,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAAvPBuifqAk4+A8LIMeAyBp",
+  "snapshot_id": "aptbgAAAAAABj0spKLn9qfGtbIDZMuCN",
   "tracks": [
     {
       "added_at": null,
@@ -703,18 +703,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
       },
       "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 281320,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
+      "duration_ms": 357920,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
     },
     {
       "added_at": null,
@@ -743,30 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa"
       },
       "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
         {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 357920,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
+      "duration_ms": 281320,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD"
     },
     {
       "added_at": null,

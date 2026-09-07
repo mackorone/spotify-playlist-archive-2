@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-220 songs - 12 hr 20 min
+221 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [dtf](https://open.spotify.com/track/75VGtAHWNDycxHnK5j2mBT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 2:48 | 2026-05-19 |  |
 | [Dumber](https://open.spotify.com/track/74TqdcqLHGDAJ9xnmWCMFF) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Dumber](https://open.spotify.com/album/117DyJhEs1TkpAsughPA4n) | 3:30 | 2026-05-19 |  |
 | [End Like This](https://open.spotify.com/track/2XQ9qspv08LdIeEONum55C) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 2:53 | 2026-05-19 |  |
+| [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 | 2026-09-06 |  |
 | [Everybody Gonna Talk](https://open.spotify.com/track/18HjTiUz8CapH4BFB0Jrwz) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:09 | 2026-05-19 |  |
 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 | 2026-05-19 |  |
 | [Fake It](https://open.spotify.com/track/3fhSaHj4Wo2yopQcMtupDI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:06 | 2026-05-19 |  |

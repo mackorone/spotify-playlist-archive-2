@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 422902,
+  "num_followers": 422815,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Made In Studio",
-        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Bruto Memo",
         "url": "https://open.spotify.com/album/6M8mrol16Mcmf3xaG78mI2"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 184064,
       "name": "Bruto Memo",
       "url": "https://open.spotify.com/track/6yONKq2REQrijkNS6E5GhT"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Made In Studio",
+        "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "C\u00ea Acredita",
-        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 170517,
-      "name": "C\u00ea Acredita",
-      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1043,18 +1039,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+        "name": "C\u00ea Acredita",
+        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+      "duration_ms": 170517,
+      "name": "C\u00ea Acredita",
+      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 163450,
       "name": "Rapariga N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Mundo de Ilus\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Mundo de Ilus\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "O Embaixador - The Legacy (Ao Vivo)",
         "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Guias Dvd 2018",
-        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
         }
       ],
-      "duration_ms": 163946,
-      "name": "Cora\u00e7\u00e3o Infectado",
-      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1335,6 +1319,22 @@
       "duration_ms": 161529,
       "name": "Se Eu Te Procurar",
       "url": "https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Guias Dvd 2018",
+        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Cora\u00e7\u00e3o Infectado",
+      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Quem Foi Que Soprou - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Juramento do Dedinho",
         "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 164808,
       "name": "Juramento do Dedinho",
       "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Quem Foi Que Soprou - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Alguns Defeitos",
-        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "Alguns Defeitos",
-      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1643,26 +1643,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "My Baby",
-        "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
+        "name": "Se \u00e9 pra Gente Ficar (feat. Wesley Safad\u00e3o)",
+        "url": "https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
         },
         {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Furac\u00e3o Love",
-          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         }
       ],
-      "duration_ms": 146424,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
+      "duration_ms": 176236,
+      "name": "Se \u00e9 pra Gente Ficar (feat. Wesley Safad\u00e3o)",
+      "url": "https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1707,22 +1703,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Se \u00e9 pra Gente Ficar (feat. Wesley Safad\u00e3o)",
-        "url": "https://open.spotify.com/album/708cNliAxiocHBCsFZCbIy"
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
       "artists": [
         {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Furac\u00e3o Love",
+          "url": "https://open.spotify.com/artist/35udcF82bFL8EzsDlWWcsr"
         }
       ],
-      "duration_ms": 176236,
-      "name": "Se \u00e9 pra Gente Ficar (feat. Wesley Safad\u00e3o)",
-      "url": "https://open.spotify.com/track/6X5jBkAFu7HE3jigdoVW3r"
+      "duration_ms": 146424,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
     },
     {
       "added_at": "2026-01-16 03:03:24",

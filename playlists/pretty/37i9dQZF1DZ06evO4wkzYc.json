@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 199427,
+  "num_followers": 199496,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACVumRs1J4382Rpt19tKonZ",
+  "snapshot_id": "aptbgAAAAAC5bddpzNFGcMgjw9Pa173C",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Amor Por Ti (En Vivo)",
         "url": "https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 239695,
       "name": "Mi Amor Por Ti - En Vivo",
       "url": "https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147609,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 189016,
+  "num_followers": 189027,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Completamente Sold Out",
-        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
       "artists": [
         {
-          "name": "Thegiornalisti",
-          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
-        },
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 216386,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -119,18 +115,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+        "name": "Completamente Sold Out",
+        "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Thegiornalisti",
+          "url": "https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+      "duration_ms": 216386,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -423,6 +423,26 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Canzoni",
+        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
+      },
+      "artists": [
+        {
+          "name": "Mietta",
+          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
+        },
+        {
+          "name": "Amedeo Minghi",
+          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Vattene amore (feat. Amedeo Minghi)",
+      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Buoni O Cattivi (Remastered 2017)",
         "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
       },
@@ -435,6 +455,38 @@
       "duration_ms": 209093,
       "name": "E...",
       "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cari Amori Miei",
+        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
+      },
+      "artists": [
+        {
+          "name": "Gianni Togni",
+          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
+        }
+      ],
+      "duration_ms": 287466,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Non Avere Paura",
+        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
+      },
+      "artists": [
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Non Avere Paura",
+      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -459,54 +511,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Canzoni",
-        "url": "https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs"
+        "name": "Amami",
+        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
       },
       "artists": [
         {
-          "name": "Mietta",
-          "url": "https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP"
-        },
-        {
-          "name": "Amedeo Minghi",
-          "url": "https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ"
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
         }
       ],
-      "duration_ms": 241440,
-      "name": "Vattene amore (feat. Amedeo Minghi)",
-      "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Non Avere Paura",
-        "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Paradiso",
-          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
-        }
-      ],
-      "duration_ms": 247478,
-      "name": "Non Avere Paura",
-      "url": "https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Cari Amori Miei",
-        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
-      },
-      "artists": [
-        {
-          "name": "Gianni Togni",
-          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
-        }
-      ],
-      "duration_ms": 287466,
-      "name": "Giulia",
-      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
+      "duration_ms": 235121,
+      "name": "La notte",
+      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -523,22 +539,6 @@
       "duration_ms": 251533,
       "name": "Perdere l'amore",
       "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Amami",
-        "url": "https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ"
-      },
-      "artists": [
-        {
-          "name": "Arisa",
-          "url": "https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K"
-        }
-      ],
-      "duration_ms": 235121,
-      "name": "La notte",
-      "url": "https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Le Vibrazioni",
+        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
+      },
+      "artists": [
+        {
+          "name": "Le Vibrazioni",
+          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Dedicato A Te",
+      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Guasto D'Amore",
         "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 200080,
       "name": "Guasto D'Amore",
       "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Le Vibrazioni",
-        "url": "https://open.spotify.com/album/0aKZ5rJLPjbCBolkFrWEy5"
-      },
-      "artists": [
-        {
-          "name": "Le Vibrazioni",
-          "url": "https://open.spotify.com/artist/3J3PdLj6v1uAs1mWKpzZbX"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Dedicato A Te",
-      "url": "https://open.spotify.com/track/4DxU9yKktJVQXhcLxjh67j"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Bagus",
         "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Lucio Battisti",
-        "url": "https://open.spotify.com/album/6L6jMyEspy4a4B2V3Jafn7"
-      },
-      "artists": [
-        {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
-        }
-      ],
-      "duration_ms": 190634,
-      "name": "Un'avventura",
-      "url": "https://open.spotify.com/track/7B09xj4jnG1763TWkVxazM"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Diari Aperti",
         "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
@@ -971,6 +955,38 @@
       "duration_ms": 239693,
       "name": "Anche Fragile",
       "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Nessuno Vuole Essere Robin",
+      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Lucio Battisti",
+        "url": "https://open.spotify.com/album/6L6jMyEspy4a4B2V3Jafn7"
+      },
+      "artists": [
+        {
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+        }
+      ],
+      "duration_ms": 190634,
+      "name": "Un'avventura",
+      "url": "https://open.spotify.com/track/7B09xj4jnG1763TWkVxazM"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -995,34 +1011,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+        "name": "MATERIA (PELLE)",
+        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
       },
       "artists": [
         {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
         }
       ],
-      "duration_ms": 284480,
-      "name": "Nessuno Vuole Essere Robin",
-      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Appena prima di partire",
-        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
-      },
-      "artists": [
-        {
-          "name": "Zero Assoluto",
-          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
-        }
-      ],
-      "duration_ms": 223053,
-      "name": "Svegliarsi la mattina",
-      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "MATERIA (PELLE)",
-        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
+        "name": "Appena prima di partire",
+        "url": "https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB"
       },
       "artists": [
         {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+          "name": "Zero Assoluto",
+          "url": "https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe"
         }
       ],
-      "duration_ms": 225652,
-      "name": "Due Vite",
-      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
+      "duration_ms": 223053,
+      "name": "Svegliarsi la mattina",
+      "url": "https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "it.pop",
         "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 228986,
       "name": "Oggi Sono Io",
       "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Zero Gravity",
-        "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "D'improvviso",
-      "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "La Descrizione Di Un Attimo",
         "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
       },
@@ -1267,18 +1251,34 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Alba",
-        "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Lorenzo Fragola",
+          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
         }
       ],
-      "duration_ms": 209657,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
+      "duration_ms": 209400,
+      "name": "D'improvviso",
+      "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 209657,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Nome e cognome [Remastered Version]",
         "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 263173,
       "name": "L'amore conta",
       "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "L'ultima notte",
-        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "L'ultima notte",
-      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Truman (Sanremo Edition)",
+        "url": "https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+        },
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Senza farlo apposta",
+      "url": "https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 253733,
       "name": "Come Nelle Favole",
       "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Il primo amore",
-        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Yanomi",
-          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "Il primo amore",
-      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Truman (Sanremo Edition)",
-        "url": "https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW"
+        "name": "Il primo amore",
+        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
       },
       "artists": [
         {
-          "name": "Shade",
-          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
         },
         {
-          "name": "Federica Carta",
-          "url": "https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE"
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Senza farlo apposta",
-      "url": "https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF"
+      "duration_ms": 201974,
+      "name": "Il primo amore",
+      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Mina (2001 Remaster)",
+        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Grande, grande, grande - 2001 Remaster",
+      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "La Vasca",
         "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Mina (2001 Remaster)",
-        "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Grande, grande, grande - 2001 Remaster",
-      "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Tu No",
         "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 217640,
       "name": "Il mio giorno pi\u00f9 bello nel mondo",
       "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Il Primo Bacio Sulla Luna",
+        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Le Sei E Ventisei",
+      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1615,22 +1631,6 @@
       "duration_ms": 282720,
       "name": "Senza Parole",
       "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Il Primo Bacio Sulla Luna",
-        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Le Sei E Ventisei",
-      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2026-04-21 16:02:40",

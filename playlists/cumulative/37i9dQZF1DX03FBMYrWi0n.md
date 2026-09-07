@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Alex Henry Foster
 
-655 songs - 1 day 13 hr 4 min
+656 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Holiday Lights](https://open.spotify.com/track/2NHbN0nzXfdydrt7hxCDMD) | [Ctznshp](https://open.spotify.com/artist/5uBCRspN4binVeq2cdyy8G) | [Lost Loves \(A Collection of Rarities\)](https://open.spotify.com/album/1QEqprHAlnhYiFgLzYcSdk) | 4:18 | 2025-12-05 | 2025-12-19 |
 | [Homesick](https://open.spotify.com/track/3XRqYhWxKdArkEunQwzBfK) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Homesick](https://open.spotify.com/album/6KnywI6lBE2r7a4MsPPXCn) | 2:28 | 2026-04-03 | 2026-06-27 |
 | [Homme\-rat](https://open.spotify.com/track/4paKkuLXTrn7zsAAzv1Agv) | [PasMort](https://open.spotify.com/artist/2uTrwIsXDbJ4b1JRwTzt6o) | [Lutter contre l'intelligence](https://open.spotify.com/album/6oOD3s3oPTU9I4X1QVW8cl) | 1:40 | 2026-03-27 | 2026-07-04 |
-| [Hook IV](https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Du soleil dans l’oeil](https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe) | 4:17 | 2026-09-01 |  |
+| [Hook IV](https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Du soleil dans l’oeil](https://open.spotify.com/album/4WaP4xIVuZcUhJM2yXCdIe) | 4:17 | 2026-09-01 | 2026-09-07 |
 | [Horizon](https://open.spotify.com/track/3ao8wMlUZGKmhIaSMQH7Gg) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Horizon](https://open.spotify.com/album/6qyufe7RrSL90YJQ5El132) | 3:03 | 2023-02-10 | 2025-10-11 |
 | [I Forget What I Remembered](https://open.spotify.com/track/2wQqhsoOk1KdJl2UUfYIP7) | [Thus Owls](https://open.spotify.com/artist/49i2hfrmEL0nNp8WZvXyT9) | [Who Would Hold You If The Sky Betrayed Us?](https://open.spotify.com/album/0MudGJonYWCr5S8NfwDKIl) | 6:52 | 2023-02-10 | 2023-02-23 |
 | [I Got A Pill](https://open.spotify.com/track/1YZOcsvVSsp1lwOr9KaSxS) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [I Got A Pill](https://open.spotify.com/album/1K5KVqfWsvPizNr2J6RHhA) | 2:50 | 2026-07-24 |  |
@@ -359,6 +359,7 @@
 | [LIKE ME LIKE THAT](https://open.spotify.com/track/04uBUXTAYNMUVr61CEakiq) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [GO BIG OR GO HOME](https://open.spotify.com/album/1QdUJ9LPNwQXCIgeCs7HKf) | 2:33 | 2025-12-12 | 2026-02-07 |
 | [Lisbonne](https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Éther](https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A) | 4:15 | 2026-09-01 |  |
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-04-07 |
+| [Living Light](https://open.spotify.com/track/0nzwzVPFrPRswVFYh5nGD6) | [Plus!](https://open.spotify.com/artist/4T3kfNwk72BFFtDhfCONnW) | [Living Light](https://open.spotify.com/album/3EPWOMRIcIkxkyUIKGFCjC) | 3:33 | 2026-09-04 |  |
 | [LO](https://open.spotify.com/track/2KWwluiKtSS8qtWiLlWALH) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [CAM / LO](https://open.spotify.com/album/2qmBgWtRXyUYPQSbgHbj2T) | 3:36 | 2026-01-16 | 2026-04-04 |
 | [longue nuit / grande maison](https://open.spotify.com/track/3FHuKUUy0hu791gD9cDnGE) | [hôte](https://open.spotify.com/artist/2TN2ejUvw00uSbRc6GV6ev) | [longue nuit / grande maison](https://open.spotify.com/album/36wJyDURMA22nGnkNy4Pg9) | 4:19 | 2025-06-13 | 2026-01-17 |
 | [Lovers by Chance](https://open.spotify.com/track/4S2aSsWfdCnZBtZ61u2RBM) | [Brothel in Belize](https://open.spotify.com/artist/09mAnJyOUyAGCo42qyKBHH) | [Lovers by Chance](https://open.spotify.com/album/6Tvfj2BF4azAR89JBT2YzZ) | 2:06 | 2026-05-15 | 2026-06-20 |

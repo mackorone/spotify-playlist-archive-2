@@ -10863,6 +10863,28 @@
     },
     {
       "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        },
+        {
+          "name": "Alex Reade",
+          "url": "https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "From A Distance (feat. Alex Reade)",
+      "url": "https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0"
+    },
+    {
+      "album": {
         "name": "from me to u (feat. Poppy)",
         "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
       },
@@ -12346,7 +12368,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
@@ -12690,7 +12712,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 210229,
       "name": "Headway - DLX",
       "url": "https://open.spotify.com/track/6U7ZgjHjoVD1pCRRkFb2rT"
@@ -16414,6 +16436,24 @@
       "duration_ms": 177316,
       "name": "Lately",
       "url": "https://open.spotify.com/track/0AC1yTsq1EwkiGTr7x1c1W"
+    },
+    {
+      "album": {
+        "name": "Lay Cold",
+        "url": "https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx"
+      },
+      "artists": [
+        {
+          "name": "Overgrown",
+          "url": "https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220705,
+      "name": "Lay Cold",
+      "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
     },
     {
       "album": {

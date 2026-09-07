@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 51821,
+  "num_followers": 51834,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Lux Prima",
+        "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
+      },
+      "artists": [
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Turn The Light",
+      "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Outer Peace",
         "url": "https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 192695,
       "name": "On the Luna",
       "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Lux Prima",
-        "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
-      },
-      "artists": [
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Turn The Light",
-      "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 190763,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 264525,
       "name": "Running",
       "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 190763,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg"
     },
     {
       "added_at": "2022-09-16 04:53:36",

@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1030372,
+  "num_followers": 1030246,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "King of Sweden",
         "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 251733,
       "name": "King of Sweden",
       "url": "https://open.spotify.com/track/3UBUSMQXobHQMXkKsv9dgy"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Toni",
-        "url": "https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Toni",
-      "url": "https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "The Music",
         "url": "https://open.spotify.com/album/7AGI3bMM4IkVK8HmCedIaZ"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 293346,
       "name": "Take The Long Road And Walk It",
       "url": "https://open.spotify.com/track/2R3PlaE5R66NhyTEqwryDj"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Toni",
+        "url": "https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 274613,
+      "name": "Toni",
+      "url": "https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
     },
     {
       "added_at": "2024-07-12 17:56:50",

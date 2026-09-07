@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 190610,
+  "num_followers": 190642,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+    },
+    {
+      "added_at": "2026-02-13 06:00:00",
+      "album": {
         "name": "La Caponera (M\u00fasica de la Serie Original \u201cEl Gallo de Oro\u201d)",
         "url": "https://open.spotify.com/album/4muQXYTMJaQtFMtzJJ9DFD"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 169489,
       "name": "Jardinera (Caponera) - Musica de la Serie Original \"El Gallo de Oro\" (Versi\u00f3n Dueto)",
       "url": "https://open.spotify.com/track/0kkQsruogh3vbVkxKVye9D"
-    },
-    {
-      "added_at": "2026-02-13 06:00:00",
-      "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2026-02-13 06:00:00",

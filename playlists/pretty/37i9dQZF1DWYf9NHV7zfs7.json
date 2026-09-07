@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Juliana Gattas",
-  "num_followers": 77767,
+  "num_followers": 77792,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Cabildo y Juramento",
-        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "Quiero Que Me Llames",
-      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "un mech\u00f3n de pelo",
         "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 203114,
       "name": "buenos aires",
       "url": "https://open.spotify.com/track/3eNenN5eoBwMRNPkmoyk81"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Cabildo y Juramento",
+        "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "Quiero Que Me Llames",
+      "url": "https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "QUEREME",
-        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "QUEREME",
-      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 197000,
       "name": "19 (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "QUEREME",
+        "url": "https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "QUEREME",
+      "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Besos en pausa",
-        "url": "https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG"
-      },
-      "artists": [
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 157578,
-      "name": "Besos en pausa",
-      "url": "https://open.spotify.com/track/14rUg64n9LylOGofuNOufj"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Por Ese Hombre",
         "url": "https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 259136,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Besos en pausa",
+        "url": "https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG"
+      },
+      "artists": [
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 157578,
+      "name": "Besos en pausa",
+      "url": "https://open.spotify.com/track/14rUg64n9LylOGofuNOufj"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "ESCENAS",
-        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
         }
       ],
-      "duration_ms": 185026,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
+      "duration_ms": 205053,
+      "name": "Maldita Noche",
+      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
+        "name": "ESCENAS",
+        "url": "https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 193246,
       "name": "A\u00f1os Luz",
       "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
-      },
-      "artists": [
-        {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Maldita Noche",
-      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
         "name": "ESO Y M\u00c1S",
         "url": "https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 147712,
       "name": "ESO Y M\u00c1S",
       "url": "https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
-        "name": "Mujer & Ego",
-        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
     },
     {
       "added_at": "2026-07-31 03:00:07",

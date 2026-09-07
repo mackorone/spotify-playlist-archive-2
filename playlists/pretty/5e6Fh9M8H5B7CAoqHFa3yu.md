@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,597 songs - 6 day 8 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,607 songs - 6 day 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2605,5 +2605,15 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2595 | [SPACE TRUMPET](https://open.spotify.com/track/2hoTjOEWccbV7FLupcjTt9) | [GEA MASTER MUSIC](https://open.spotify.com/artist/1Vl0gfcaEnR0LjP5JJT0Cw), [Mario FURCERI](https://open.spotify.com/artist/3qsaLAJI8Rfcrsb4Yn0c9t) | [SPACE TRUMPET](https://open.spotify.com/album/1lUN9FXGsMbh1I2J6I7Z6K) | 2:40 |
 | 2596 | [In The Trap](https://open.spotify.com/track/2GLJ6ix9u9CuQk0iSHv54i) | [Yung Pager](https://open.spotify.com/artist/4GaK4K1SUk1cXNMseEkQvK) | [Things I See In The Dark](https://open.spotify.com/album/5Mjrhi3OnXbqTCEfOQu1R4) | 2:30 |
 | 2597 | [Into The Light](https://open.spotify.com/track/4XXJ6FatlWmezqQiv8u6KG) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Into The Light](https://open.spotify.com/album/4Zxntf7XGEkNtTvXcIc3dd) | 3:31 |
+| 2598 | [¿Quién Eres?](https://open.spotify.com/track/14pTqy54XLo0FBtsHqrVRI) | [Niah Hack](https://open.spotify.com/artist/05Noxl8liCtdmSZaGA4j0y) | [¿Quién Eres?](https://open.spotify.com/album/6Utgz9sArqPTleX5ibB7ZN) | 2:23 |
+| 2599 | [HEAVEN'S IN YOUR EYES](https://open.spotify.com/track/3CQ9PXfZXPQTwxRZsnOYoZ) | [LOVE POWER](https://open.spotify.com/artist/7HcJAjZ2GXEmWyV1pTgTC3) | [OILED](https://open.spotify.com/album/2ckqvC7a8fVAHvO2WcJ1mb) | 2:58 |
+| 2600 | [On Mine](https://open.spotify.com/track/1e4cscBCr2jSn2etp9fUvj) | [Atossa](https://open.spotify.com/artist/2k1zRozo0VCPb7h3jcqCje) | [On Mine](https://open.spotify.com/album/5Hb0lu9rkl24JapCulcLNj) | 3:29 |
+| 2601 | [aquart](https://open.spotify.com/track/3oXxg6iMGXQuNOXewqgKia) | [Kwaiwon](https://open.spotify.com/artist/7AjMEXU9E9HzriL8YN3Puk) | [Old TV](https://open.spotify.com/album/3q7XjVfV5W9fQHzY8XClFK) | 1:59 |
+| 2602 | [quick fade](https://open.spotify.com/track/1QJ3ZjdC6aSJKwl5EWzFs9) | [Peachy65](https://open.spotify.com/artist/7usiADm7h9rX81pHDm23mv) | [Chromedome](https://open.spotify.com/album/6ZopW805yBL4gJDsl6w7ZX) | 2:13 |
+| 2603 | [stuck](https://open.spotify.com/track/400k1Tx6nOzB6L8sPbEQY1) | [Sardlok](https://open.spotify.com/artist/59k90WLL5Q4uqQY6v4cfeH) | [Sardlok](https://open.spotify.com/album/4gCgN04XcgIQ4F11ONZrb5) | 2:38 |
+| 2604 | [up the alley](https://open.spotify.com/track/7bWT1dhxrqRiLbbzg2xbxf) | [Kwaiwon](https://open.spotify.com/artist/7AjMEXU9E9HzriL8YN3Puk), [Elizabeth LOFI Records](https://open.spotify.com/artist/2VZyMqeaVFARdku5elszsX) | [donut](https://open.spotify.com/album/0PjzXJVFO5UHHujM9GLQvk) | 2:01 |
+| 2605 | [Not Afraid](https://open.spotify.com/track/5lN1nCo3Dkc0u3w7iSjrKG) | [Agnes Celine](https://open.spotify.com/artist/6uePh8Ha0MleP4yaBuw7lH) | [Not Afraid](https://open.spotify.com/album/2N9euaP7tZO7ztV7hlMhJP) | 2:02 |
+| 2606 | [tiny island](https://open.spotify.com/track/4XvijlGVIFCR16B3ZH9u90) | [Kwaiwon](https://open.spotify.com/artist/7AjMEXU9E9HzriL8YN3Puk) | [tiny island](https://open.spotify.com/album/4Ns9mcPTXJ7kqlg80SYEbd) | 1:39 |
+| 2607 | [tranquil](https://open.spotify.com/track/6MsZlMRkU4uBSWBH7WDaOK) | [frost nova](https://open.spotify.com/artist/5i1EACMINlQwRWbgp8Qb5Y) | [pruina](https://open.spotify.com/album/12cm1rxD7RTkul4gT8zdHj) | 2:03 |
 
-Snapshot ID: `AAALFxSGejl/fMV/dvHK9VUirXtDldxl`
+Snapshot ID: `AAALIQpfcrI4SUYGLqF4iawWlUl3803P`

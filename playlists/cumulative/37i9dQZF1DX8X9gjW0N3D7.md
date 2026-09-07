@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: oui merci
 
-597 songs - 1 day 9 hr 27 min
+598 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Hirondelle](https://open.spotify.com/track/07u2B4PIbpqUdB15kqf7eo) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Hirondelle](https://open.spotify.com/album/1iPQItze8nNwmUasepxcCK) | 4:29 | 2026-01-16 | 2026-03-07 |
 | [Homme à la mer](https://open.spotify.com/track/6dkBRC3Xfo8pNDAuPaqQzi) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Triste Automne](https://open.spotify.com/album/7z2KX7uY8aWRYEbNhvL4nJ) | 2:25 | 2025-10-17 | 2025-11-22 |
 | [Hope/Home](https://open.spotify.com/track/2JPx92xJ8ezddJz4gueCZO) | [Jason Zerafa](https://open.spotify.com/artist/3c8FUhue0FjCKhbRQo5w9t) | [Hope/Home](https://open.spotify.com/album/7Ax0kBAQxqp6w3mQmeD1EE) | 4:15 | 2026-03-13 | 2026-05-02 |
+| [how about you](https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [how about you](https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl) | 2:48 | 2026-09-04 |  |
 | [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 | 2024-06-28 | 2024-08-17 |
 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 | 2026-07-17 |  |
 | [I don't wanna meet boys](https://open.spotify.com/track/7ogBlS3xCvXZchU1xsc4yU) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I don't wanna meet boys](https://open.spotify.com/album/6uc0vJdX0Gx3WPpdJ976G8) | 2:55 | 2026-05-29 | 2026-07-18 |
@@ -574,7 +575,7 @@
 | [Uummati Attanarsimat \(Heart of Glass\)](https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Inuktitut](https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2) | 3:58 | 2026-07-17 |  |
 | [Varieties of Quiet](https://open.spotify.com/track/0K1J0oXAxshzqqVbwstqJS) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Varieties of Quiet](https://open.spotify.com/album/1r13eOyzUK90Qxip9o7GvY) | 3:51 | 2026-02-20 | 2026-05-09 |
 | [Vendredi](https://open.spotify.com/track/1hN1IWffJhyz5zWY9SqEev) | [Gabriel Desjardins](https://open.spotify.com/artist/6qnTBolPgwqC1ylnpQMnjK), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Vendredi](https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa) | 3:06 | 2026-01-30 | 2026-03-21 |
-| [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 | 2026-06-19 |  |
+| [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 | 2026-06-19 | 2026-09-07 |
 | [Ville](https://open.spotify.com/track/1LEuLVZ3jzXuMqO35Zrnlq) | [Vincent Appelby](https://open.spotify.com/artist/17fj6giCERZTjNptKA9BZY) | [Nocturne](https://open.spotify.com/album/1GGqEpssTMppq3LPZYUSdd) | 5:08 | 2026-01-09 | 2026-03-07 |
 | [Vol à l'étalage](https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Présence d'esprit](https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl) | 3:28 | 2024-06-28 | 2025-02-15 |
 | [Volcan](https://open.spotify.com/track/3vjYyj1gX366reLyUQmktz) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Les choses qui nous liaient](https://open.spotify.com/album/1U0LS6f7ZbiDsv9l3pjQco) | 3:12 | 2026-04-22 |  |

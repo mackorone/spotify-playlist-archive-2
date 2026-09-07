@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXUlnZtDvV4s>Malcolm Todd</a>, <a href=spotify:playlist:37i9dQZF1EIVSVBvHzTcKt>Tame Impala</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYUrLnXLnv8n>F3miii</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a>, <a href=spotify:playlist:37i9dQZF1EIVyWVIFafx7W>Dave</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 210400,
       "name": "4Me 4Me",
       "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 229319,
       "name": "Better",
       "url": "https://open.spotify.com/track/2OpBganfGk2GVdSlRdxzaX"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 237800,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 125217,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6EK3aQONb1VBRaVCoxwuKo"
@@ -4278,7 +4278,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-20",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
@@ -5620,7 +5620,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -8166,7 +8166,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 214000,
       "name": "HELL",
       "url": "https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq"
@@ -8849,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Perception EP",
+        "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202474,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+    },
+    {
+      "album": {
         "name": "hypocritical (feat. starfall)",
         "url": "https://open.spotify.com/album/4HpSaThVXe2TDz2uALVXaC"
       },
@@ -8864,7 +8882,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 177455,
       "name": "hypocritical (feat. starfall)",
       "url": "https://open.spotify.com/track/6KkVYJfUpNjRvRWeNXOnQB"
@@ -8970,7 +8988,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 199884,
       "name": "I CHOSE YOU - A COLORS SHOW",
       "url": "https://open.spotify.com/track/72ldJyZrLBMFHs9WP7xFdI"
@@ -11718,7 +11736,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 302070,
       "name": "Lost on You - Live at Harvard and Stone",
       "url": "https://open.spotify.com/track/62PikS8HBJULVrhVHQcPiC"
@@ -13230,7 +13248,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 176500,
       "name": "Mystery Girl",
       "url": "https://open.spotify.com/track/4EBQ9JamSD7TPpNAtfBhwi"
@@ -13856,7 +13874,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
@@ -14556,7 +14574,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 185363,
       "name": "options",
       "url": "https://open.spotify.com/track/3D89uQ84ZbwOIfu1mUwek5"
@@ -14679,6 +14697,24 @@
     },
     {
       "album": {
+        "name": "Neurotica",
+        "url": "https://open.spotify.com/album/0jQmX0M1Cj52iwlfwxhuNR"
+      },
+      "artists": [
+        {
+          "name": "Schur",
+          "url": "https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175419,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/4sFmzvart11BTqjMw87jEk"
+    },
+    {
+      "album": {
         "name": "Heligoland",
         "url": "https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt"
       },
@@ -14780,7 +14816,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
@@ -15524,7 +15560,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -15634,7 +15670,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 181694,
       "name": "Recognize",
       "url": "https://open.spotify.com/track/2i7GLdXNYuIOfqopWWIjVF"
@@ -18722,7 +18758,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 189093,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
@@ -19114,7 +19150,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Sweet Release",
       "url": "https://open.spotify.com/track/3e0mTdrvtD4jlzwlSGUBXB"
@@ -20136,7 +20172,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 141562,
       "name": "The Race",
       "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
@@ -21950,7 +21986,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
@@ -22928,7 +22964,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 138303,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3coWMNYxTTZutHpYObRZY7"

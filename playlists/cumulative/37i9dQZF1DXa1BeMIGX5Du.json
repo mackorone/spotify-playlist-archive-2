@@ -5123,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Midnight Footsteps",
+        "url": "https://open.spotify.com/album/2zR9EyieqX8sYYJqPYKtOy"
+      },
+      "artists": [
+        {
+          "name": "East of Indigo",
+          "url": "https://open.spotify.com/artist/3FFF05AP4ymKxFgQCLlvIg"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197845,
+      "name": "Midnight Footsteps",
+      "url": "https://open.spotify.com/track/2QTPmbudoXW3U8uraJg23v"
+    },
+    {
+      "album": {
         "name": "Millionaire",
         "url": "https://open.spotify.com/album/2gegr5szM44sz4HQwkbHVO"
       },
@@ -5990,7 +6008,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 177818,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/4tqHf5fTWCKXTOTP427cac"
@@ -8053,6 +8071,24 @@
     },
     {
       "album": {
+        "name": "tired eyes",
+        "url": "https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221441,
+      "name": "tired eyes",
+      "url": "https://open.spotify.com/track/01KdnakFsRqKyGAQBhH4kB"
+    },
+    {
+      "album": {
         "name": "To The Sea",
         "url": "https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN"
       },
@@ -8700,7 +8736,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 250000,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ"

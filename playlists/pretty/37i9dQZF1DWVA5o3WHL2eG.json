@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: badm\u00f3mzjay",
-  "num_followers": 51097,
+  "num_followers": 51149,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Ich hoffe du hast Angst",
-        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 150822,
-      "name": "Ich hoffe du hast Angst",
-      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "2MG",
         "url": "https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "Ich hoffe du hast Angst",
+        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 150822,
+      "name": "Ich hoffe du hast Angst",
+      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "OAKBERRY",
         "url": "https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7"
       },
@@ -307,42 +307,6 @@
       "duration_ms": 111600,
       "name": "OAKBERRY",
       "url": "https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "mr. rush",
-        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
-      },
-      "artists": [
-        {
-          "name": "lovehead",
-          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "mr. rush",
-      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "Annabella",
-        "url": "https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq"
-      },
-      "artists": [
-        {
-          "name": "Laura Larsson",
-          "url": "https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV"
-        },
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 146282,
-      "name": "Annabella",
-      "url": "https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -367,6 +331,42 @@
       "duration_ms": 130331,
       "name": "kahs l\u00e0 bas",
       "url": "https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Annabella",
+        "url": "https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq"
+      },
+      "artists": [
+        {
+          "name": "Laura Larsson",
+          "url": "https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV"
+        },
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "duration_ms": 146282,
+      "name": "Annabella",
+      "url": "https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "mr. rush",
+        "url": "https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "duration_ms": 144827,
+      "name": "mr. rush",
+      "url": "https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
+        "name": "Little Silver",
+        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Little Silver",
+      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
         "name": "Kiba Korn",
         "url": "https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I"
       },
@@ -579,34 +595,18 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Little Silver",
-        "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
+        "name": "TEST",
+        "url": "https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84"
       },
       "artists": [
         {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+          "name": "YENVI",
+          "url": "https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a"
         }
       ],
-      "duration_ms": 206315,
-      "name": "Little Silver",
-      "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "love of my life",
-        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "love of my life",
-      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
+      "duration_ms": 161250,
+      "name": "TEST",
+      "url": "https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -623,6 +623,22 @@
       "duration_ms": 204520,
       "name": "Don't Mess With Me",
       "url": "https://open.spotify.com/track/5UyDmtepxmd3K8cOTEqlr0"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "love of my life",
+        "url": "https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "love of my life",
+      "url": "https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -655,22 +671,6 @@
       "duration_ms": 182000,
       "name": "dumme sachen f\u00fchlen",
       "url": "https://open.spotify.com/track/43mXV44eY3gcupq3x2eoYB"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
-        "name": "TEST",
-        "url": "https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84"
-      },
-      "artists": [
-        {
-          "name": "YENVI",
-          "url": "https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "TEST",
-      "url": "https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Lazy",
-        "url": "https://open.spotify.com/album/4mOKUmDMj3Nla9Re7vAJo4"
-      },
-      "artists": [
-        {
-          "name": "Frida Darko",
-          "url": "https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn"
-        }
-      ],
-      "duration_ms": 296129,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/6o3Gkh1ADRpdJ426MISje7"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "DIVA CLUB",
         "url": "https://open.spotify.com/album/1qkc6VY7VlrJen8mBcfKbu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 248950,
       "name": "DIVA CLUB",
       "url": "https://open.spotify.com/track/4Sb1E7Z2bAigEjtGQNSK1o"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Lazy",
+        "url": "https://open.spotify.com/album/4mOKUmDMj3Nla9Re7vAJo4"
+      },
+      "artists": [
+        {
+          "name": "Frida Darko",
+          "url": "https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn"
+        }
+      ],
+      "duration_ms": 296129,
+      "name": "Lazy",
+      "url": "https://open.spotify.com/track/6o3Gkh1ADRpdJ426MISje7"
     },
     {
       "added_at": "2026-09-01 22:00:08",

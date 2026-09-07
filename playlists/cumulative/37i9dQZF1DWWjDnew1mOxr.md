@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Jamie T
 
-493 songs - 1 day 3 hr 53 min
+494 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 | 2024-02-23 | 2026-05-01 |
 | [City Streets](https://open.spotify.com/track/6zcW5iHtkhBEuzpTLEit16) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [City Streets](https://open.spotify.com/album/3ewmrFdukMuucc1geA1IRk) | 3:26 | 2024-02-23 | 2025-10-11 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-05-31 | 2024-09-22 |
+| [Come and Get It](https://open.spotify.com/track/0YjJkyVMtfPI97zXMtBkhT) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Come and Get It](https://open.spotify.com/album/6kiJkmIRW8eI5YXp1E4cy3) | 2:40 | 2026-08-28 |  |
 | [Come Over](https://open.spotify.com/track/18ZevcdeL1RTvZ17JXJpO3) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/19Q2mYMVQ6hRZRBcmb27jw) | 3:26 | 2023-02-24 | 2023-06-10 |
 | [Come Over](https://open.spotify.com/track/3fyIwr5p1pZ4uPpUrGETLN) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Come Over](https://open.spotify.com/album/6UzUGO9oaMhbekhTHgsw2Q) | 3:26 | 2023-07-28 | 2023-09-20 |
 | [Coming of Age](https://open.spotify.com/track/0jnPGD9FIVHa5SsM9upOr0) | [the north](https://open.spotify.com/artist/2DOGRYfLhyYwjyBNeYIM6v) | [Coming of Age](https://open.spotify.com/album/2zDS01VT4oGDTJELj9pYD9) | 3:01 | 2026-03-27 | 2026-08-10 |
@@ -306,7 +307,7 @@
 | [Meltdown](https://open.spotify.com/track/1kBWtNscDEzmyqfa0bc3Q8) | [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Meltdown](https://open.spotify.com/album/5hasWVR5EqXDagzKwixcad) | 2:52 | 2025-06-06 | 2025-06-16 |
 | [Memories](https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Memories](https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr) | 2:48 | 2026-08-20 |  |
 | [MESSED UP KIDS](https://open.spotify.com/track/5WyEcYikAbxOcNW4TSvVgP) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [MESSED UP KIDS](https://open.spotify.com/album/403yzeLnFgqPP27o8Y8l0L) | 2:57 | 2023-07-28 | 2024-05-15 |
-| [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 | 2026-03-27 |  |
+| [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 | 2026-03-27 | 2026-09-07 |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-05-31 |  |
 | [Millionaires](https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 3:00 | 2024-02-23 | 2026-08-28 |
 | [Money](https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV) | [Fuzzy Sun](https://open.spotify.com/artist/40uK7RAJlyEALdLWZ1qNmb) | [Money](https://open.spotify.com/album/19F6Ai9NloBmTqrhcz9N0M) | 3:30 | 2023-01-10 | 2023-04-19 |

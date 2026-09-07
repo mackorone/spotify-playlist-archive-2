@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-403 songs - 1 day 2 hr 59 min
+404 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Sciophobia](https://open.spotify.com/track/0dhK1evthUOmcbXHZ783j6) | [DDRCK](https://open.spotify.com/artist/31Ovy6zggvwVys7H4pfauU), [CDRC](https://open.spotify.com/artist/5zt6G9G28RL3JmkiUiNZCY) | [Sciophobia](https://open.spotify.com/album/3mB37O4ILbfEqwAn8HbE1H) | 4:38 | 2024-04-09 | 2024-11-27 |
 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 | 2025-11-21 |  |
 | [Self Command \- Radio Edit](https://open.spotify.com/track/2DKmB466iecPl7kMnrfa4i) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Self Command](https://open.spotify.com/album/1AFzsjPNA1cxjLvVF2Oq2f) | 3:18 | 2025-02-20 | 2025-06-20 |
-| [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 |  |
+| [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 | 2024-10-24 | 2026-09-07 |
 | [Shadow Man](https://open.spotify.com/track/1HQ4pTykHMsV0KLJt0eJIk) | [ARENCI](https://open.spotify.com/artist/6flaiu7aIHXBsmy6ntI6PQ), [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Shadow Man](https://open.spotify.com/album/78bCe5Ms70ueQhdt3H1V1U) | 5:00 | 2024-04-09 | 2024-05-23 |
 | [Shadows Come Alive](https://open.spotify.com/track/6QZCslOxp8ARvtHNsoNdxg) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Shadows Come Alive](https://open.spotify.com/album/62nVzVAdTHPY2nwGwRGt0L) | 2:59 | 2024-11-29 | 2025-05-04 |
 | [Shake That Bunda](https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Shake That Bunda](https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL) | 2:40 | 2026-02-13 | 2026-04-24 |
@@ -392,6 +392,7 @@
 | [Unaccepted Complex](https://open.spotify.com/track/7x9FOsf8u8hKP33uuANICq) | [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |
 | [Underneath The Strobelights](https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Underneath The Strobelights \(Exhale VA005\)](https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90) | 4:40 | 2024-07-26 | 2025-10-06 |
 | [Unleash The Radical](https://open.spotify.com/track/2OUMwV66DZ1sXkTW2S38p6) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Unleash The Radical](https://open.spotify.com/album/2lTKoROAtpjvEf1kztIGeT) | 3:12 | 2026-01-16 | 2026-03-21 |
+| [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 | 2026-09-04 |  |
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Venom](https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [INNERGATE RECORDS](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Venom](https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt) | 6:51 | 2024-08-13 | 2025-02-02 |
 | [Violence](https://open.spotify.com/track/6TBZKterLaIPKrP9Ba8vMX) | [Luciid](https://open.spotify.com/artist/3YMs2NjzmU8oc5muj4LxgL) | [Violence](https://open.spotify.com/album/6irJKp8KMfBRBSn31417yd) | 4:48 | 2024-11-08 | 2025-03-10 |

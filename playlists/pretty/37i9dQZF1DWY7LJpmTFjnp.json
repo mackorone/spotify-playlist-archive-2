@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Los Aut\u00e9nticos Decadentes y Los Caligaris en portada. ",
-  "num_followers": 959100,
+  "num_followers": 958984,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -163,8 +163,8 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Luz De Dia",
-      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
+      "duration_ms": 161440,
+      "name": "La Muralla Verde",
+      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -247,8 +247,8 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 161440,
-      "name": "La Muralla Verde",
-      "url": "https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu"
+      "duration_ms": 268866,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/6TqXieeBcZZHyaO14hQpKx"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Arriba La L",
-        "url": "https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT"
-      },
-      "artists": [
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 223076,
-      "name": "Arriba La L",
-      "url": "https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "EV+",
         "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 185969,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 223076,
+      "name": "Arriba La L",
+      "url": "https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "duration_ms": 238758,
+      "name": "Pa Mis Carnales",
+      "url": "https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Arriba La L",
-        "url": "https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL"
-      },
-      "artists": [
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        }
-      ],
-      "duration_ms": 238758,
-      "name": "Pa Mis Carnales",
-      "url": "https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "Nunca Quise Irme",
+        "url": "https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "duration_ms": 208714,
+      "name": "Nunca Quise Irme",
+      "url": "https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "Vivir As\u00ed Es Morir de Amor",
         "url": "https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 262066,
       "name": "Ojos Claros, Labios Rosas",
       "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
-        "name": "Nunca Quise Irme",
-        "url": "https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0"
-      },
-      "artists": [
-        {
-          "name": "Ladrones",
-          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
-        },
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        }
-      ],
-      "duration_ms": 208714,
-      "name": "Nunca Quise Irme",
-      "url": "https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
         "name": "Caligaris S\u00ed",
         "url": "https://open.spotify.com/album/0pofzzqSiZiKMRKEQN03VA"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 195328,
       "name": "Viento a tu favor",
       "url": "https://open.spotify.com/track/1ccyIJaHqG4Gf3eb9VkfNk"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
-        "name": "!!Puro Macanazo!!",
-        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     },
     {
       "added_at": "2026-09-04 06:00:37",

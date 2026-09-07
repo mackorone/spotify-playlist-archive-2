@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,046 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,031 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 9 | [Mariposa Y Sol](https://open.spotify.com/track/5laCdDysZ44czBosf4F10W) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 3:26 |
 | 10 | [Paranoia](https://open.spotify.com/track/3fteNuQG0KtROKx1Egd5NT) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:00 |
 | 11 | [Cuándo empezaré a vivir](https://open.spotify.com/track/01U7QYOVuLq4awzs5Z7z4s) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Disney Princesas: Canciones de las Princesas](https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0) | 2:28 |
-| 12 | [Azul Como El Cielo](https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:36 |
-| 13 | [Nada](https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cali Y El Dandee: Fiesta](https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb) | 2:54 |
+| 12 | [Nada](https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cali Y El Dandee: Fiesta](https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb) | 2:54 |
+| 13 | [Azul Como El Cielo](https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Amy La Niña De La Mochila Azul Vol.1](https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw) | 3:36 |
 | 14 | [Peek A Boo](https://open.spotify.com/track/39qhci9cs0XEdU4KcmTBpK) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 2:54 |
 | 15 | [Idiota](https://open.spotify.com/track/1cxbYGx8hYGY7JuxcseqKf) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Canta Con Morat](https://open.spotify.com/album/3ZPCDjEmiEkeq0QoRQoNcH) | 3:04 |
 | 16 | [Quiero, Quiero](https://open.spotify.com/track/1x9JnlRBGxftp0okw81go2) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Las Divinas](https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY), [Las Populares](https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX), [Los Klasicos](https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq), [Los Basikos](https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2) | [Atrévete A Soñar](https://open.spotify.com/album/571Z1f9GtauZi0OmKUyPu6) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
 | 50 | [El Cielo En Brazos De Papá](https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:07 |
 
-Snapshot ID: `apoKAAAAAAA/PmCKEcAT9M9uLim0BP8/`
+Snapshot ID: `aptbgAAAAADNPe5gRKuzJKXOFBEWNRga`

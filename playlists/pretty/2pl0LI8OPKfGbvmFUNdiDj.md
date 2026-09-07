@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,153 likes - 54 songs - 3 hr 5 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,169 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 52 | [Benin Bronzes](https://open.spotify.com/track/2dwLrxELqNBFVodNlxql6O) | [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [Apollo](https://open.spotify.com/artist/1Xekx07ApF1lKAwg0mTDbD), [Aztek the Barfly](https://open.spotify.com/artist/6d6GPSiiygZYDLIWvvShYn), [Wild Pigeon](https://open.spotify.com/artist/0G3nXIEv0YYLKXWxRJCjlB) | [Treasury](https://open.spotify.com/album/1xe2M2YGICc4QaWeFVOT6k) | 2:58 |
 | 53 | [AMOR](https://open.spotify.com/track/2HuEpjdJgxogG2llkbwoon) | [NatStar](https://open.spotify.com/artist/4CoERlRqP61DsVAksrSXLb) | [BLK MIRROR \- EP2](https://open.spotify.com/album/7wYpv08d2WqLZKuNeJ5XKk) | 3:06 |
 | 54 | [Move Back \- 2015](https://open.spotify.com/track/4ZsgVgiwqYlmbKuK5GvQ54) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Move Back \(2015\)](https://open.spotify.com/album/645DrsLpWLnDvZvVdlncQD) | 3:18 |
+| 55 | [Stained](https://open.spotify.com/track/7Hj7UgsBlX8leTucrQt8w5) | [HD Petique](https://open.spotify.com/artist/7t3GzjYuYF41Xh00Duo1LX) | [Stained](https://open.spotify.com/album/1i9KIgz3vYE2Oz3FdYVu8w) | 4:12 |
+| 56 | [Mr.Sun](https://open.spotify.com/track/1E07RRFqexoSkhgHGxNnFE) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr.Sun](https://open.spotify.com/album/4rfPrJpXlulatmgpjygzwp) | 2:49 |
+| 57 | [Goodbye](https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Goodbye](https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE) | 2:52 |
+| 58 | [DND](https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS) | [Mila Sidhu](https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk) | [DND](https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT) | 2:41 |
 
-Snapshot ID: `AAAEWBCEt8f99VSM/S8eRRil1I21hmup`
+Snapshot ID: `AAAEXAAO4jaNIzJUBolvh53nhR1w8RBF`

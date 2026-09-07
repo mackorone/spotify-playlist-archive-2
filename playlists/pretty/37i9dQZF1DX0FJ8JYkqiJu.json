@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416838,
+  "num_followers": 416843,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
-      },
-      "artists": [
-        {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 331935,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -563,22 +583,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+        "name": "Sleepyhead 2025",
+        "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
         },
         {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 331935,
-      "name": "The Deep",
-      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+      "duration_ms": 245713,
+      "name": "Sleepyhead 2025",
+      "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -603,22 +623,18 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Sleepyhead 2025",
-        "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
       },
       "artists": [
         {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        },
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 245713,
-      "name": "Sleepyhead 2025",
-      "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -655,22 +671,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/5NUzHrq6GfY8gbix8VIu0h"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 206777,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/5bx1aS5zltF4dNAgKidK4Z"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 195812,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 205270,
       "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "A Different Path",
-        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
-      },
-      "artists": [
-        {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
-        },
-        {
-          "name": "Trippynova",
-          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "A Different Path",
-      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1271,6 +1251,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Visage 5 (Floating)",
         "url": "https://open.spotify.com/album/7epHm3vYUTyuIjMj0HuU02"
       },
@@ -1283,6 +1283,26 @@
       "duration_ms": 293333,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Save My Soul",
+        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1307,26 +1327,6 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Save My Soul",
-        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
     },
     {
       "added_at": "2026-06-02 14:00:24",

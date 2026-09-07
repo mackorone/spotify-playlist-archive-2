@@ -1,6 +1,6 @@
 {
   "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Trixie Mattel",
-  "num_followers": 23392,
+  "num_followers": 23402,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-09-04 04:03:27",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
         "name": "RAIN",
         "url": "https://open.spotify.com/album/6lm5tf9xL9t37Uz1jsthZV"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 216400,
       "name": "RAIN",
       "url": "https://open.spotify.com/track/04TlEj0Fhxnq4qbc560fnh"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "added_at": "2026-09-04 04:03:27",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-09-04 04:03:27",
       "album": {
-        "name": "PEYOTE",
-        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 187438,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
         "name": "Dancing On The Wall",
         "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 230573,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "added_at": "2026-09-04 04:03:27",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-04 04:03:27",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
         "name": "Now I've Got A Lot You Know",
         "url": "https://open.spotify.com/album/1aCqkBhJIJGzvhDIx5PuQu"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-09-04 04:03:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-09-04 04:03:27",
       "album": {
-        "name": "CANINES",
-        "url": "https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "mon ch\u00e9ri\u2026",
-      "url": "https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/7BnlbgZHEuZJ7LwgzPMDfB"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 213000,
       "name": "August",
       "url": "https://open.spotify.com/track/0tyEv1QWVG3be1geQDqkD0"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "CANINES",
+        "url": "https://open.spotify.com/album/7jRVnXlOfv9qoj5nM4OBOC"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "mon ch\u00e9ri\u2026",
+      "url": "https://open.spotify.com/track/4BWRbNcTnJpHL47hlY8Ntl"
     },
     {
       "added_at": "2026-09-04 04:03:27",
@@ -515,90 +515,6 @@
     {
       "added_at": "2026-09-04 04:03:27",
       "album": {
-        "name": "I Don't Know How But They Found Me...Again!",
-        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 229911,
-      "name": "God Has A Hitman",
-      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
-        "name": "Kind",
-        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 247372,
-      "name": "Kind",
-      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
-        "name": "no one's son",
-        "url": "https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 206198,
-      "name": "no one's son",
-      "url": "https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
-        "name": "Hell's Belles",
-        "url": "https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hell's Belles",
-      "url": "https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
-        "name": "ADAM",
-        "url": "https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370"
-      },
-      "artists": [
-        {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
-        }
-      ],
-      "duration_ms": 188617,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY"
-    },
-    {
-      "added_at": "2026-09-04 04:03:27",
-      "album": {
         "name": "Wet Cement",
         "url": "https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn"
       },
@@ -627,6 +543,90 @@
       "duration_ms": 162140,
       "name": "PINK CIGARETTE",
       "url": "https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "I Don't Know How But They Found Me...Again!",
+        "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 229911,
+      "name": "God Has A Hitman",
+      "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "no one's son",
+        "url": "https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 206198,
+      "name": "no one's son",
+      "url": "https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "ADAM",
+        "url": "https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 188617,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "Hell's Belles",
+        "url": "https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hell's Belles",
+      "url": "https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi"
+    },
+    {
+      "added_at": "2026-09-04 04:03:27",
+      "album": {
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
     },
     {
       "added_at": "2026-09-04 04:03:27",

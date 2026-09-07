@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 371334,
+  "num_followers": 371317,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
+        "name": "Mad At Fire",
+        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 231532,
+      "name": "Mad At Fire",
+      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
         "name": "Need it Bad (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 187096,
       "name": "Need it Bad (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
-        "name": "Mad At Fire",
-        "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 231532,
-      "name": "Mad At Fire",
-      "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
     },
     {
       "added_at": "2026-04-09 11:21:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-04-09 11:21:32",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA"
-      },
-      "artists": [
-        {
-          "name": "CROOKS INC.",
-          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa"
-    },
-    {
-      "added_at": "2026-04-09 11:21:32",
-      "album": {
         "name": "Only Mine",
         "url": "https://open.spotify.com/album/7rSvl5GQvprf8k0s6xQGVa"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 179268,
       "name": "Only Mine",
       "url": "https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq"
+    },
+    {
+      "added_at": "2026-04-09 11:21:32",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA"
+      },
+      "artists": [
+        {
+          "name": "CROOKS INC.",
+          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa"
     },
     {
       "added_at": "2026-04-09 11:21:32",

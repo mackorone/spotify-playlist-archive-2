@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 José Madero
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,249 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,225 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 42 | [Efecto Placebo](https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Efecto Placebo](https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J) | 2:16 |
 | 43 | [Love Rears Its Ugly Head \- Live](https://open.spotify.com/track/3bZylaWs6MfEZ8lDr4UTEB) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Love Rears Its Ugly Head \(Live\)](https://open.spotify.com/album/6Ozi1OOOV1xQon7aA3YTyv) | 4:07 |
 | 44 | [Playa Satán](https://open.spotify.com/track/7nwVwtb1OrEu3xjSdCO0dv) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Playa Satán](https://open.spotify.com/album/3RHh8zFXEHRLHfpPWJGzZB) | 2:40 |
-| 45 | [Tarot](https://open.spotify.com/track/3lSXL4LbtL6Lz60z1weBb1) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Tarot](https://open.spotify.com/album/7dLR6cvf7QYXK7H0PHkzlB) | 4:43 |
+| 45 | [Tarot](https://open.spotify.com/track/3lSXL4LbtL6Lz60z1weBb1) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Tarot](https://open.spotify.com/album/7dLR6cvf7QYXK7H0PHkzlB) | 4:44 |
 | 46 | [Recuerdos](https://open.spotify.com/track/4pJt3v1NV188WzlLLW1xCo) | [Brebaje Extraño](https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ) | [Recuerdos](https://open.spotify.com/album/1cDnhx0tzMbBIPG1CEfjlJ) | 3:54 |
 | 47 | [Los Buenos No Somos Más](https://open.spotify.com/track/2wBzy66iA2ZlBUrbrsF7xt) | [Los Provos](https://open.spotify.com/artist/0iaGZ8Wf9hGm3DMnsXrWUJ), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Los Buenos No Somos Más](https://open.spotify.com/album/6PhwISrEy1R43J31z5uPXe) | 4:18 |
 | 48 | [Naranana](https://open.spotify.com/track/4bdpZmA2ieurMQhn0zVwor) | [Silverio](https://open.spotify.com/artist/1Du4cMgDEKryT08bQdMqpV) | [Naranana](https://open.spotify.com/album/4t1GSrJdV1PUYkArAq3rBx) | 3:51 |

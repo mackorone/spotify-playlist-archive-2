@@ -15477,6 +15477,24 @@
     },
     {
       "album": {
+        "name": "Music Set Her Free",
+        "url": "https://open.spotify.com/album/03kawM8TTVWppnhFwrQtFz"
+      },
+      "artists": [
+        {
+          "name": "A J Green UK",
+          "url": "https://open.spotify.com/artist/0ZXLZz84ItG70ThGRNJpcm"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254626,
+      "name": "Music Set Her Free",
+      "url": "https://open.spotify.com/track/3e9wXMK634KnIwOgZUQ3eU"
+    },
+    {
+      "album": {
         "name": "Mute The Crowds",
         "url": "https://open.spotify.com/album/4PwUHfvDmg5coCATtbUUeo"
       },
@@ -27536,6 +27554,24 @@
       "duration_ms": 244040,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/5t6Cpwz4c71H4f2NItFBCb"
+      },
+      "artists": [
+        {
+          "name": "DreamParia",
+          "url": "https://open.spotify.com/artist/1CwTMmr3Z8ydNGTnOw5VSI"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170618,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6"
     },
     {
       "album": {

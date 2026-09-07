@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,266 songs - 2 day 17 hr 59 min
+1,267 songs - 2 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-05-30 |
 | [ACCELERATION](https://open.spotify.com/track/6rNAaJAYB3P9aHKdHmzr4P) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [ACCELERATION](https://open.spotify.com/album/6ExgHkQczbskQxCIqxsV4W) | 2:29 | 2026-01-09 | 2026-02-18 |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 | 2024-07-27 |
-| [ADHD](https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [LILLA](https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA) | 2:56 | 2026-08-13 |  |
+| [ADHD](https://open.spotify.com/track/3KeL0bKLO1mlkQsTJ6H1oj) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [LILLA](https://open.spotify.com/album/3NxQsReEqYKsD1vanJhFGA) | 2:56 | 2026-08-13 | 2026-09-07 |
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-11-21 | 2025-02-23 |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-11 |
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2024-08-09 | 2024-11-15 |
@@ -188,7 +188,7 @@
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-17 | 2025-09-10 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-04-01 |
 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 | 2025-02-24 | 2025-04-18 |
-| [Circadian Rhythm](https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr) | [SKAI](https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd) | [Circadian Rhythm](https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE) | 2:24 | 2026-08-28 | 2026-09-04 |
+| [Circadian Rhythm](https://open.spotify.com/track/6TQt2aEZgmZ5sohBxCENLr) | [SKAI](https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd) | [Circadian Rhythm](https://open.spotify.com/album/4nGjKy7qB1XfMP214ZK2gE) | 2:24 | 2026-08-28 |  |
 | [CIRKLER \(feat\. wicky\)](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 2:46 | 2026-08-06 |  |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-24 | 2025-01-25 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-05-22 |
@@ -1000,6 +1000,7 @@
 | [Snerle](https://open.spotify.com/track/5zzjqcGj2Q1LTBJVmjtbd5) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Ved du jeg en snerle](https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm) | 2:30 | 2026-04-09 | 2026-04-18 |
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-07-01 | 2024-07-27 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 | 2026-01-02 |
+| [SO GOOD](https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SO GOOD](https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl) | 3:42 | 2026-09-03 |  |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-31 | 2024-08-25 |
 | [So What \(feat\. milo\)](https://open.spotify.com/track/3iar0tVgdzwpvQechUtUsz) | [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [So What \(feat\. milo\)](https://open.spotify.com/album/5LAWhv2Tz0NiVXUMqyH53e) | 2:28 | 2024-11-07 | 2024-11-15 |
 | [Solrige Dage](https://open.spotify.com/track/06lB0pKFVgJbiiPiPHk2J8) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Solrige Dage](https://open.spotify.com/album/00h0m8cnd3ac4c0Gy9R3ul) | 2:47 | 2025-07-31 | 2025-08-08 |
@@ -1199,7 +1200,7 @@
 | [Virkeligheden](https://open.spotify.com/track/0clh0Q9TpJI8HTP29VDg3F) | [hun\_sagde](https://open.spotify.com/artist/0zMmcG54r60Jk7aiLb4DlB) | [Til Mit Efterår](https://open.spotify.com/album/7IzaD6xvzLsPzzCusVqC8X) | 2:54 | 2025-10-02 | 2025-10-17 |
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-28 | 2025-10-17 |
 | [Voksen](https://open.spotify.com/track/53jXRnb1DFknbia3gyuvnD) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Tændstikmand](https://open.spotify.com/album/2ziEeRnhEpkyou0mL0EYLF) | 2:31 | 2025-09-25 | 2025-10-10 |
-| [Vær dig selv](https://open.spotify.com/track/4ldNmxq83FHrijnyVjzkcS) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 3:33 | 2026-08-28 |  |
+| [Vær dig selv](https://open.spotify.com/track/4ldNmxq83FHrijnyVjzkcS) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 3:33 | 2026-08-28 | 2026-09-07 |
 | [Værd At Vente På \(feat\. Katinka\)](https://open.spotify.com/track/5P7hfOTc287LCc5VESuHu9) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ), [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Værd At Vente På \(feat\. Katinka\)](https://open.spotify.com/album/63AA0p3YCKIvun4EM4sd2U) | 3:17 | 2026-05-28 | 2026-06-05 |
 | [Værelse 15](https://open.spotify.com/track/5daL4YeoOHtrEbvi7xiYMW) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [Værelse 15](https://open.spotify.com/album/0xpvyWn9bwc3RdZo46jfla) | 2:52 | 2026-05-28 | 2026-06-05 |
 | [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-01-10 | 2025-04-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 617254,
+  "num_followers": 617480,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAADoy9a1jPfkAe1sFS9KNRjX",
+  "snapshot_id": "aptbgAAAAAA+1S+lPVNNH1qJY1v9vg0L",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR PROPIO",
-        "url": "https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172485,
-      "name": "AMOR PROPIO",
-      "url": "https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "911 (En Vivo)",
         "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 175424,
       "name": "911 - En Vivo",
       "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7JWBVCc97jLfUJ17TCUWHK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/3y91ILcWUknMxicHWFzvhd"
     },
     {
       "added_at": null,

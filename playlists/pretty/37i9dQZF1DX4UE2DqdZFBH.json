@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 57520,
+  "num_followers": 57534,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,26 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Divine Melodies - The Greatest Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        },
+        {
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
+        }
+      ],
+      "duration_ms": 346920,
+      "name": "Govind Bolo, Shri Krishna Govind - Instrumental",
+      "url": "https://open.spotify.com/track/51PKSVnXdhOKA9JD1Hs2UU"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Bhagyada Lakshmi Baramma (Instrumental) - Single",
         "url": "https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 316553,
       "name": "Moham",
       "url": "https://open.spotify.com/track/4PfJiqveZXLbVBFtjs0x49"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Divine Melodies - The Greatest Devotional Instrumentals",
-        "url": "https://open.spotify.com/album/2U2atbhUFumw0Q1ZIJXVMb"
-      },
-      "artists": [
-        {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
-        },
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 346920,
-      "name": "Govind Bolo, Shri Krishna Govind - Instrumental",
-      "url": "https://open.spotify.com/track/51PKSVnXdhOKA9JD1Hs2UU"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Krishna's Flute - Devotional Instrumentals",
+        "url": "https://open.spotify.com/album/48vj2VtppnRR5KeNxmYjA1"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        },
+        {
+          "name": "Sai Madhukar",
+          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
+        }
+      ],
+      "duration_ms": 385253,
+      "name": "Krishna Nee Begane Baro - Instrumental",
+      "url": "https://open.spotify.com/track/1QJixYwyE09rwszSsKvmXE"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Namaste",
         "url": "https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi"
       },
@@ -175,26 +195,6 @@
       "duration_ms": 426413,
       "name": "Bowling For Peace",
       "url": "https://open.spotify.com/track/7AkQooU3Nmt0TpXMAdTqiH"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Krishna's Flute - Devotional Instrumentals",
-        "url": "https://open.spotify.com/album/48vj2VtppnRR5KeNxmYjA1"
-      },
-      "artists": [
-        {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
-        },
-        {
-          "name": "Sai Madhukar",
-          "url": "https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT"
-        }
-      ],
-      "duration_ms": 385253,
-      "name": "Krishna Nee Begane Baro - Instrumental",
-      "url": "https://open.spotify.com/track/1QJixYwyE09rwszSsKvmXE"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
+      },
+      "artists": [
+        {
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
+        },
+        {
+          "name": "Anjna Swaminathan",
+          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
+        }
+      ],
+      "duration_ms": 249063,
+      "name": "Peregrination (feat. Anjna Swaminathan)",
+      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Gandhi - Mantras Of Compassion",
         "url": "https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Of Agency and Abstraction",
-        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
-      },
-      "artists": [
-        {
-          "name": "Rajna Swaminathan",
-          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
-        },
-        {
-          "name": "Anjna Swaminathan",
-          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
-        }
-      ],
-      "duration_ms": 249063,
-      "name": "Peregrination (feat. Anjna Swaminathan)",
-      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "The Emerging",
         "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "J'ai Fame",
-        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
-      },
-      "artists": [
-        {
-          "name": "Leprofici",
-          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
-        }
-      ],
-      "duration_ms": 213718,
-      "name": "La Lune (Prelude)",
-      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Imperfect Things",
         "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "J'ai Fame",
+        "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
+      },
+      "artists": [
+        {
+          "name": "Leprofici",
+          "url": "https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "La Lune (Prelude)",
+      "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Live at Gray Spark Audio",
         "url": "https://open.spotify.com/album/3cjjBxqy2u5qaEoNHgSn3g"
       },
@@ -1023,38 +1023,6 @@
       "duration_ms": 300132,
       "name": "A Mother's Lullaby - Live",
       "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "The Emerging",
-        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
-      },
-      "artists": [
-        {
-          "name": "Sutej Singh",
-          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "The Comeback Trail",
-      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Wavelengths",
-        "url": "https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05"
-      },
-      "artists": [
-        {
-          "name": "Submarine in Space",
-          "url": "https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR"
-        }
-      ],
-      "duration_ms": 461310,
-      "name": "Take Off",
-      "url": "https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1087,6 +1055,54 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
+        "name": "Wavelengths",
+        "url": "https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05"
+      },
+      "artists": [
+        {
+          "name": "Submarine in Space",
+          "url": "https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR"
+        }
+      ],
+      "duration_ms": 461310,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "The Comeback Trail",
+      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Hindsight Is 2020",
+        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
+      },
+      "artists": [
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "duration_ms": 177531,
+      "name": "Hey 2020",
+      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
         "name": "Electric Ganesha Land",
         "url": "https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 226493,
       "name": "Indra's Necklace",
       "url": "https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Offering at Dawn",
+      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1139,18 +1171,18 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Hindsight Is 2020",
-        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
       },
       "artists": [
         {
-          "name": "Blackstratblues",
-          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+          "name": "Avik Ganguly",
+          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 177531,
-      "name": "Hey 2020",
-      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
+      "duration_ms": 215722,
+      "name": "Mind In Wonderland",
+      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1195,38 +1227,6 @@
       "duration_ms": 328285,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
-      },
-      "artists": [
-        {
-          "name": "Avik Ganguly",
-          "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
-        }
-      ],
-      "duration_ms": 215722,
-      "name": "Mind In Wonderland",
-      "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
-        "name": "Across the River",
-        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
-      },
-      "artists": [
-        {
-          "name": "Eashwar Subramanian",
-          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Offering at Dawn",
-      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1283,8 +1283,8 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "My Journey with Ebony & Ivory",
-        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
+        "name": "Emotive Conversation",
+        "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
       },
       "artists": [
         {
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 183637,
-      "name": "Mon Kharaper Bristi",
-      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
+      "duration_ms": 172888,
+      "name": "Emotive Conversation",
+      "url": "https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1311,6 +1311,22 @@
       "duration_ms": 296275,
       "name": "Monsoon Melodies",
       "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
+    },
+    {
+      "added_at": "2026-02-10 09:33:25",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+      },
+      "artists": [
+        {
+          "name": "The Gap",
+          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
     },
     {
       "added_at": "2026-02-10 09:33:25",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
-      },
-      "artists": [
-        {
-          "name": "The Gap",
-          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
-        }
-      ],
-      "duration_ms": 173388,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
-    },
-    {
-      "added_at": "2026-02-10 09:33:25",
-      "album": {
         "name": "Back to One",
         "url": "https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28"
       },
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2026-02-10 09:33:25",
       "album": {
-        "name": "Emotive Conversation",
-        "url": "https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1"
+        "name": "My Journey with Ebony & Ivory",
+        "url": "https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks"
         }
       ],
-      "duration_ms": 172888,
-      "name": "Emotive Conversation",
-      "url": "https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP"
+      "duration_ms": 183637,
+      "name": "Mon Kharaper Bristi",
+      "url": "https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7"
     },
     {
       "added_at": "2026-02-10 09:33:25",

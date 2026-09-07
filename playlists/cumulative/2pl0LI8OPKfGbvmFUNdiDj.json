@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/3nPv3E0eHGEIDebTMjypuT"
+      },
+      "artists": [
+        {
+          "name": "Mila Sidhu",
+          "url": "https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161470,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/5uCY4Ic97K8b9iZsTri6OS"
+    },
+    {
+      "album": {
         "name": "Do It Again?",
         "url": "https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu"
       },
@@ -3782,6 +3800,24 @@
       "duration_ms": 136090,
       "name": "Good Things",
       "url": "https://open.spotify.com/track/71dSBF6OYZXAgttZUkU1R6"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/6ngXvbiqCMNswvzOCN2GiE"
+      },
+      "artists": [
+        {
+          "name": "Taylor D",
+          "url": "https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS"
     },
     {
       "album": {
@@ -6259,6 +6295,28 @@
     },
     {
       "album": {
+        "name": "Mr.Sun",
+        "url": "https://open.spotify.com/album/4rfPrJpXlulatmgpjygzwp"
+      },
+      "artists": [
+        {
+          "name": "John Da Lemon",
+          "url": "https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE"
+        },
+        {
+          "name": "Skiii",
+          "url": "https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Mr.Sun",
+      "url": "https://open.spotify.com/track/1E07RRFqexoSkhgHGxNnFE"
+    },
+    {
+      "album": {
         "name": "My Body Says",
         "url": "https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE"
       },
@@ -8258,6 +8316,24 @@
       "duration_ms": 321097,
       "name": "Split",
       "url": "https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT"
+    },
+    {
+      "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/1i9KIgz3vYE2Oz3FdYVu8w"
+      },
+      "artists": [
+        {
+          "name": "HD Petique",
+          "url": "https://open.spotify.com/artist/7t3GzjYuYF41Xh00Duo1LX"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252589,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/7Hj7UgsBlX8leTucrQt8w5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-592 songs - 1 day 7 hr 31 min
+593 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [poppers](https://open.spotify.com/track/2vDBSXOoJ5mvpwlyZH6YgK) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:13 | 2024-08-15 |  |
 | [PORTALS](https://open.spotify.com/track/00qDZLnqTA6OYeOgzQk8Ov) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [PORTALS](https://open.spotify.com/album/6ZZnDwBtObfjv3duWG8oi7) | 2:42 | 2026-06-06 |  |
 | [Post Con Depression](https://open.spotify.com/track/792HtdR735wSrdaAUTQDRB) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Post Con Depression](https://open.spotify.com/album/0xlIXbuTc89uJiu9hqEVrW) | 3:04 | 2025-05-09 |  |
+| [post con obsession](https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [post con obsession](https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4) | 2:05 | 2026-09-06 |  |
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
 | [PREY](https://open.spotify.com/track/5TuDbn9gFxM8HZRHCdMOXT) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PREY](https://open.spotify.com/album/63GY1hMoq8g2EGO5MVJhLA) | 2:32 | 2025-11-01 |  |
 | [PROJECTILE LAUNCH](https://open.spotify.com/track/71TlkO6CxSBWcXm7MBmEat) | [Mors\_Music](https://open.spotify.com/artist/3aWX7ntPXrI48elX854Iap) | [PROJECTILE LAUNCH](https://open.spotify.com/album/5HlSeKL7wAYZCOqvx8RQmZ) | 1:43 | 2026-02-06 |  |

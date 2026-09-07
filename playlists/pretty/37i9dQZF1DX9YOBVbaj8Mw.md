@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,438 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,440 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 51 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
 | 52 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |
 | 53 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
-| 54 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
-| 55 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
+| 54 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
+| 55 | [Chaga](https://open.spotify.com/track/3JQQzsgNruVfkfWmLpynLg) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzyby](https://open.spotify.com/album/7zg0n8RqanuD3eldxRimfO) | 2:54 |
 | 56 | [Memento Amoris](https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08) | [Kury](https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9) | [Uno Lovis Party](https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4) | 3:22 |
 | 57 | [Wolny jak Liść](https://open.spotify.com/track/6QBNU5ZuYlfBNgmC9K4xRZ) | [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG) | [Druga Furioza \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/1r1T3xlUtnE4hrpJdwFOjT) | 1:45 |
 | 58 | [W Życiu Bywa Jak W Piosence](https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO) | [Warszawska Orkiestra Sentymentalna](https://open.spotify.com/artist/287kPG6g5bOowVT6Ehz5c8), [Noam Zylberberg](https://open.spotify.com/artist/05HoQZvlX0l9QyrFHBmpl7) | [Oranżowy Świt](https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr) | 3:23 |
-| 59 | [Chwilowy układ wszystkiego](https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A) | [Product May Contain](https://open.spotify.com/artist/0EBHXfugPyQpEBjZn68FrI) | [Playgrounds](https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa) | 5:56 |
-| 60 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
+| 59 | [An Empty Grave Is Just A Hole In The Ground](https://open.spotify.com/track/3m2SXOi3m1ArkPS1naFlu3) | [Hostia](https://open.spotify.com/artist/1oM790LNK44Js7LOQJKSzy) | [Razorblade Psalm](https://open.spotify.com/album/2XtgKamCicOquv0c0uIrTV) | 1:36 |
+| 60 | [Chwilowy układ wszystkiego](https://open.spotify.com/track/5ML73U95xmY6cgjtZoiy4A) | [Product May Contain](https://open.spotify.com/artist/0EBHXfugPyQpEBjZn68FrI) | [Playgrounds](https://open.spotify.com/album/158tD0asiM3tHH6K8EXzJa) | 5:56 |
 | 61 | [Sycylia](https://open.spotify.com/track/6sg2gRg0NvxAVSYcttwnDY) | [Variete](https://open.spotify.com/artist/4Ql0QYFmhiCSiwy3Konrti) | [Sieć Indry](https://open.spotify.com/album/0SyKIJwrswed74mceZkmnG) | 4:11 |
 | 62 | [Pamiętam twoje oczy](https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk) | [Warszawskie Combo Taneczne](https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk) | [Pamiętam twoje oczy](https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx) | 3:01 |
 | 63 | [Song Without Words](https://open.spotify.com/track/3jy4CgcQrdkju4htINevNG) | [Bartek Wąsik](https://open.spotify.com/artist/0ciNlHAkUTkFrV92LGRDDo) | [Pianorizon](https://open.spotify.com/album/3wAHEPL9ZlVZ1ru4jUtHa1) | 2:45 |

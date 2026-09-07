@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 15972,
+  "num_followers": 15988,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAD/3XBR+o5Vpx0ym6rLTLSw",
+  "snapshot_id": "aptbgAAAAACIMimIFhQzrp0tBZm+t1E6",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 156826,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LVRS PARADISE (SIDE A)",
         "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 244000,
       "name": "You're Stuck",
       "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 68174,
+      "name": "Intro (Landmine)",
+      "url": "https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 68174,
-      "name": "Intro (Landmine)",
-      "url": "https://open.spotify.com/track/0LxTBLGeMgCTJZvcX8rI4c"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161211,
-      "name": "24/48",
-      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
+      "duration_ms": 141000,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/33LzALMkQ2EmCnCoKS8K6w"
     }
   ],
   "unique_name": "This Is Odeal",

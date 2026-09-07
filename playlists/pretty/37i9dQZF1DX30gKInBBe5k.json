@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212020,
+  "num_followers": 212026,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+        "name": "Down Colorful Hill",
+        "url": "https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt"
       },
       "artists": [
         {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+          "name": "Red House Painters",
+          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
         }
       ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
+      "duration_ms": 589440,
+      "name": "Medicine Bottle",
+      "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Down Colorful Hill",
-        "url": "https://open.spotify.com/album/31toyxx4NeSixf47lJBNbt"
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
       },
       "artists": [
         {
-          "name": "Red House Painters",
-          "url": "https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe"
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
         }
       ],
-      "duration_ms": 589440,
-      "name": "Medicine Bottle",
-      "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD"
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Summer Sun",
-        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Today Is the Day",
-      "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "talking to flowers",
         "url": "https://open.spotify.com/album/3hvoe7LxHmqZ2TlTvMxObi"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 123047,
       "name": "talking to flowers",
       "url": "https://open.spotify.com/track/4iSLT1H9AP6UHAXuPnQPMN"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Today Is the Day",
+      "url": "https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Things We Lost in the Fire",
-        "url": "https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Dinosaur Act",
-      "url": "https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Reaching For Indigo",
         "url": "https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 446986,
       "name": "Black Fly",
       "url": "https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Things We Lost in the Fire",
+        "url": "https://open.spotify.com/album/71I6DvVoUfYmszlwb6is18"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Dinosaur Act",
+      "url": "https://open.spotify.com/track/2WIbRYwd9pu45IHaQuWVnN"
     },
     {
       "added_at": "2025-08-07 23:00:59",

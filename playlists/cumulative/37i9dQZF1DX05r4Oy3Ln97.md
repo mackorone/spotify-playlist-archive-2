@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-532 songs - 1 day 4 hr 16 min
+533 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 | 2024-09-20 | 2026-03-14 |
 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-03 |  |
 | [Nanana!](https://open.spotify.com/track/38oMTlrjQtVexRPEGDzcgd) | [Edmofo](https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ) | [Nanana!](https://open.spotify.com/album/56cw2xCvU4kgA5CJQs5AE0) | 2:42 | 2023-05-12 | 2023-05-27 |
+| [Natural Blues \(TECIE\)](https://open.spotify.com/track/0xlV1hm5IHNzw5bUaGh1Ea) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Natural Blues \(TECIE\)](https://open.spotify.com/album/4h6tmjBOUtmMaULZOeKDK7) | 4:12 | 2026-08-21 |  |
 | [Never Ever](https://open.spotify.com/track/5w9I2F2fzgqkeQ2xQDMlsz) | [Robert Burian](https://open.spotify.com/artist/64FzaTBI1Z4TZXlhrihUDg) | [Never Ever](https://open.spotify.com/album/19mWO6N3Aho1cJe5P29oBQ) | 3:40 | 2023-01-24 | 2023-03-11 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2025-06-02 |  |
 | [Never Going Home](https://open.spotify.com/track/2fuWIFyY452wmNOoT32EB8) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 2:49 | 2022-03-25 | 2023-09-01 |
@@ -376,7 +377,7 @@
 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 | 2024-07-09 | 2025-07-07 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-03-31 |  |
 | [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 | 2025-05-30 | 2025-06-03 |
-| [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 | 2026-07-10 |  |
+| [Rhythm Of The House](https://open.spotify.com/track/3S7PIQ273n5Yx7e6d6n2Jj) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD), [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Rhythm Of The House](https://open.spotify.com/album/7s0F9LpKdKc1dzdOh4MqHp) | 3:19 | 2026-07-10 | 2026-09-07 |
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-06-07 | 2024-06-12 |
 | [Right Now](https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:11 | 2023-09-15 | 2023-09-30 |
 | [Riptide](https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Riptide](https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P) | 2:34 | 2022-04-29 | 2025-03-22 |

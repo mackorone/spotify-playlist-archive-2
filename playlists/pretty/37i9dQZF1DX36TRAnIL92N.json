@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 505243,
+  "num_followers": 505397,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-09-04 04:01:51",
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "added_at": "2026-09-04 04:01:51",
+      "album": {
         "name": "Bounce Back (Sped Up)",
         "url": "https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 135000,
       "name": "Bounce Back - Sped Up",
       "url": "https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA"
-    },
-    {
-      "added_at": "2026-09-04 04:01:51",
-      "album": {
-        "name": "Sturm und Drang",
-        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 224698,
-      "name": "Pain in my Heart",
-      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
     },
     {
       "added_at": "2026-09-04 04:01:51",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-09-04 04:01:51",
       "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
-    },
-    {
-      "added_at": "2026-09-04 04:01:51",
-      "album": {
         "name": "Amor EP",
         "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 372293,
       "name": "Amor (feat. CERES)",
       "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "added_at": "2026-09-04 04:01:51",
+      "album": {
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
     },
     {
       "added_at": "2026-09-04 04:01:51",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-04 04:01:51",
       "album": {
+        "name": "La Vida Loca",
+        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "La Vida Loca",
+      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
+    },
+    {
+      "added_at": "2026-09-04 04:01:51",
+      "album": {
         "name": "Coming In Heavy",
         "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
-    },
-    {
-      "added_at": "2026-09-04 04:01:51",
-      "album": {
-        "name": "La Vida Loca",
-        "url": "https://open.spotify.com/album/1aFM7DwLHZEsqTTyBF0aaj"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "La Vida Loca",
-      "url": "https://open.spotify.com/track/7G3YyjDSgzQ5qETgyyn2s9"
     },
     {
       "added_at": "2026-09-04 04:01:51",
@@ -955,18 +955,22 @@
     {
       "added_at": "2026-09-04 04:01:51",
       "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+        "name": "Charlotte de Witte",
+        "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
         }
       ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
+      "duration_ms": 423244,
+      "name": "The Heads That Know (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa"
     }
   ],
   "unique_name": "Techno Workout",

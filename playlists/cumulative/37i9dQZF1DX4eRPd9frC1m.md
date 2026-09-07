@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-499 songs - 1 day 2 hr 30 min
+500 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2022-01-07 | 2023-08-18 |
 | [NO LOVE](https://open.spotify.com/track/3x9RokAqos6LqGni4E0TyB) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [NO LOVE](https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h) | 3:22 | 2021-11-19 | 2022-10-09 |
 | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Gold](https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H) | [No Stoppin \(feat\. GOLD\)](https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J) | 2:40 | 2021-11-19 | 2022-09-09 |
+| [Nobody Can Stop Richard Finger \- Levity Remix](https://open.spotify.com/track/6p0UeENf3kkdW6Gxwp4erX) | [Richard Finger](https://open.spotify.com/artist/6RpTSnRCbiGgArzdMeklj7), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Nobody Can Stop Richard Finger \(Levity Remix\)](https://open.spotify.com/album/4w6TSi3TrLdwbhIQpeKhp8) | 3:15 | 2026-09-04 |  |
 | [NOSEBLEED](https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [NOSEBLEED](https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz) | 3:46 | 2022-01-07 | 2022-08-18 |
 | [Obey No More](https://open.spotify.com/track/2hcXoiKBlf3eq9bsWyy8bh) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Obey No More](https://open.spotify.com/album/0YyFy6qKL8uTQgbynJUGLp) | 4:06 | 2021-11-19 | 2022-01-08 |
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2023-01-06 | 2025-03-02 |
@@ -407,7 +408,7 @@
 | [Smoke](https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27), [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Smoke](https://open.spotify.com/album/5NZawJNAy7ntRWNKlArhOe) | 2:30 | 2026-05-01 |  |
 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-09 | 2025-06-08 |
 | [So Far](https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Nonsens](https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi) | [So Far](https://open.spotify.com/album/6mn4tGxbZ1hcL4S8pfj0l5) | 2:51 | 2021-11-19 | 2022-01-08 |
-| [SO HYPE](https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6) | [MAXARKA](https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv) | [SO HYPE](https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp) | 2:55 | 2026-07-31 |  |
+| [SO HYPE](https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6) | [MAXARKA](https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv) | [SO HYPE](https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp) | 2:55 | 2026-07-31 | 2026-09-07 |
 | [Soma](https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:24 | 2026-06-12 |  |
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-31 |  |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |

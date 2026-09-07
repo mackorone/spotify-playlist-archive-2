@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205800,
+  "num_followers": 205830,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAC9asXe1jkm0dTOBJzOQfoI",
+  "snapshot_id": "aptbgAAAAAB8GqNe+v2R2XHBvF3WQpSu",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Up In the Clouds",
-      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
+      "duration_ms": 155546,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 155546,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
+      "duration_ms": 168186,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 243466,
-      "name": "El Scorcho",
-      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
+      "duration_ms": 227733,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 168186,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/29gJUkai1ShO9meBwYaMFF"
+      "duration_ms": 219560,
+      "name": "Up In the Clouds",
+      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
+      "duration_ms": 243466,
+      "name": "El Scorcho",
+      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
     },
     {
       "added_at": null,

@@ -463,6 +463,22 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
         "name": "Baby Blue / When It Comes To Loving You",
         "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
         "name": "Viva L\u2019Amor",
         "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 181800,
       "name": "Viva L\u2019Amor",
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Who's That Calling?",
-      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -719,38 +719,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "My Mess",
-        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My Mess",
-      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
-        "name": "Halvfullt sprucket glas",
-        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Halvfullt sprucket glas",
-      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
         "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
       },
@@ -771,6 +739,22 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
         "name": "H\u00f6gsbo Riviera",
         "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 228561,
       "name": "G\u00f6teborg",
       "url": "https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Halvfullt sprucket glas",
+        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Halvfullt sprucket glas",
+      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "RUSHEN TAR ALDRIG SLUT",
-        "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
-      },
-      "artists": [
-        {
-          "name": "Malik Dalasi",
-          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
-        }
-      ],
-      "duration_ms": 125539,
-      "name": "VEM VET?",
-      "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "Where Strippers Go To Die",
         "url": "https://open.spotify.com/album/7bPDCZBcPNWH1aUTRA1edf"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 163560,
       "name": "Fuck ditt liv",
       "url": "https://open.spotify.com/track/53goqbb9AgYdeUgH9y60h1"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "RUSHEN TAR ALDRIG SLUT",
+        "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
+      },
+      "artists": [
+        {
+          "name": "Malik Dalasi",
+          "url": "https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc"
+        }
+      ],
+      "duration_ms": 125539,
+      "name": "VEM VET?",
+      "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Jack & Coke",
-        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Jack & Coke",
-      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
+      "duration_ms": 210292,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Dansa med mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
+        "name": "Jack & Coke",
+        "url": "https://open.spotify.com/album/6DCsB2yLcHvzdolCVqAJpQ"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 210292,
-      "name": "Dansa med mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
+      "duration_ms": 169687,
+      "name": "Jack & Coke",
+      "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Faller s\u00e5 l\u00e4tt",
-        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
-      },
-      "artists": [
-        {
-          "name": "Melwin Wid",
-          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
-        }
-      ],
-      "duration_ms": 155322,
-      "name": "Faller s\u00e5 l\u00e4tt",
-      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 200666,
       "name": "Love is for Losers",
       "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Faller s\u00e5 l\u00e4tt",
+        "url": "https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj"
+      },
+      "artists": [
+        {
+          "name": "Melwin Wid",
+          "url": "https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb"
+        }
+      ],
+      "duration_ms": 155322,
+      "name": "Faller s\u00e5 l\u00e4tt",
+      "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
     },
     {
       "added_at": "2026-08-27 22:00:32",

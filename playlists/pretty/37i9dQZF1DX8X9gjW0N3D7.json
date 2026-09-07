@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: oui merci",
-  "num_followers": 70696,
+  "num_followers": 70698,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "ENCORE ENCORE",
-        "url": "https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae"
-      },
-      "artists": [
-        {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "ENCORE ENCORE",
-      "url": "https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Natalie (40 Seasons Later)",
         "url": "https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 332293,
       "name": "Natalie (40 Seasons Later)",
       "url": "https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "ENCORE ENCORE",
+        "url": "https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "ENCORE ENCORE",
+      "url": "https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
-        "url": "https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi"
-      },
-      "artists": [
-        {
-          "name": "GreenWoodz",
-          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "OLI",
-      "url": "https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Si les bateaux",
         "url": "https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK"
       },
@@ -807,6 +791,54 @@
       "duration_ms": 193493,
       "name": "Si les bateaux",
       "url": "https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "how about you",
+        "url": "https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 168484,
+      "name": "how about you",
+      "url": "https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
+        "url": "https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "OLI",
+      "url": "https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -839,22 +871,6 @@
       "duration_ms": 227352,
       "name": "memory hoarder",
       "url": "https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Laughter (Bouquet Version)",
-        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 221245,
-      "name": "Laughter - Bouquet Version",
-      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Gold in California",
-        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 214752,
-      "name": "Gold in California",
-      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "Oiseaux de Paradis",
         "url": "https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt"
       },
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "If Time '26",
-        "url": "https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6"
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
       },
       "artists": [
         {
-          "name": "Hansom \u0112li",
-          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 192466,
-      "name": "If Time \u201926",
-      "url": "https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE"
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1003,6 +1003,22 @@
       "duration_ms": 134213,
       "name": "Qu'est-ce que je viens faire ici ?",
       "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
+        "name": "If Time '26",
+        "url": "https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "If Time \u201926",
+      "url": "https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "L'amour enterr\u00e9 vivant",
-        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
-      },
-      "artists": [
-        {
-          "name": "La Bronze",
-          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "L'amour enterr\u00e9 vivant",
-      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
         "name": "L'enfant",
         "url": "https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY"
       },
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "L'amour enterr\u00e9 vivant",
+        "url": "https://open.spotify.com/album/5ekkubyVd7tTSxPm2IH4Lb"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "L'amour enterr\u00e9 vivant",
+      "url": "https://open.spotify.com/track/57VJ4a3IiP8y8L8wHYOseK"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Isabella",
         "url": "https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Luka Ferraro",
+          "url": "https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp"
         }
       ],
-      "duration_ms": 189945,
-      "name": "Comme un b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
+      "duration_ms": 174666,
+      "name": "FACELIFT!",
+      "url": "https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
-        "name": "Pilot",
-        "url": "https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz"
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
       },
       "artists": [
         {
-          "name": "Luka Ferraro",
-          "url": "https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 174666,
-      "name": "FACELIFT!",
-      "url": "https://open.spotify.com/track/4LGWguFl4Hf8k9bPyb5JW5"
+      "duration_ms": 189945,
+      "name": "Comme un b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
     },
     {
       "added_at": "2026-09-04 04:03:17",
@@ -1187,6 +1203,22 @@
     {
       "added_at": "2026-09-04 04:03:17",
       "album": {
+        "name": "Todas mis amigas",
+        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
+    },
+    {
+      "added_at": "2026-09-04 04:03:17",
+      "album": {
         "name": "Ma Chance",
         "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
       },
@@ -1219,38 +1251,6 @@
       "duration_ms": 198000,
       "name": "Corps (feat. Lou-Adriane Cassidy)",
       "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "Todas mis amigas",
-        "url": "https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Todas mis amigas",
-      "url": "https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq"
-    },
-    {
-      "added_at": "2026-09-04 04:03:17",
-      "album": {
-        "name": "les nuits sont blanches",
-        "url": "https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi"
-      },
-      "artists": [
-        {
-          "name": "mirani coelho",
-          "url": "https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "verres fum\u00e9s",
-      "url": "https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

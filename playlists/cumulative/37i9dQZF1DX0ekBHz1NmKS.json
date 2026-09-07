@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "BLOND",
+        "url": "https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE"
+      },
+      "artists": [
+        {
+          "name": "jalda",
+          "url": "https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174727,
+      "name": "ANIME MIG",
+      "url": "https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet"
+    },
+    {
+      "album": {
         "name": "Ansvar (feat. Eye N'I)",
         "url": "https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc"
       },
@@ -9516,7 +9534,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 182746,
       "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
       "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
@@ -10854,7 +10872,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 217266,
       "name": "Ett \u00e5r - Bonus Track",
       "url": "https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7"
@@ -40728,6 +40746,24 @@
       "duration_ms": 188889,
       "name": "Vegas Nights",
       "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
+    },
+    {
+      "album": {
+        "name": "Vem du \u00e4n \u00e4r",
+        "url": "https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF"
+      },
+      "artists": [
+        {
+          "name": "Keisha",
+          "url": "https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175686,
+      "name": "Vem du \u00e4n \u00e4r",
+      "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"
     },
     {
       "album": {

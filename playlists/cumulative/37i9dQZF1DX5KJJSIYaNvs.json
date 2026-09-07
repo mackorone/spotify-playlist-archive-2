@@ -12859,6 +12859,28 @@
     },
     {
       "album": {
+        "name": "Rasiya",
+        "url": "https://open.spotify.com/album/63EXgdl9expV6sju79VzQm"
+      },
+      "artists": [
+        {
+          "name": "tav",
+          "url": "https://open.spotify.com/artist/0vBZXvMTqOaXp3oKnrpvoy"
+        },
+        {
+          "name": "Adrita",
+          "url": "https://open.spotify.com/artist/4ehEdwiTCKxm3pZ4WM4P0e"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182781,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/6Xuecs5a5jW5WC82zi5U58"
+    },
+    {
+      "album": {
         "name": "Rasiya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88"
       },
@@ -16896,7 +16918,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 205087,
       "name": "Yeh Kaisi Raat",
       "url": "https://open.spotify.com/track/7jV1IQyHNpu1n7MNkTgmB2"

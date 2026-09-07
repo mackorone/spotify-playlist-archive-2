@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1031358,
+  "num_followers": 1031503,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+    },
+    {
+      "added_at": "2026-08-21 12:27:25",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
-    },
-    {
-      "added_at": "2026-08-21 12:27:25",
-      "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-08-21 12:27:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
-      "added_at": "2026-08-21 12:27:25",
-      "album": {
         "name": "Lipstick",
         "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
       },
@@ -1347,6 +1331,30 @@
       "duration_ms": 181500,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
+    },
+    {
+      "added_at": "2026-08-21 12:27:25",
+      "album": {
+        "name": "Toca Toca",
+        "url": "https://open.spotify.com/album/1ectv01q8m2iZNm7p5hiaO"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+        },
+        {
+          "name": "Fly Project",
+          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Toca Toca",
+      "url": "https://open.spotify.com/track/1B27a06OAQx7CS46plr5pU"
     },
     {
       "added_at": "2026-08-21 12:27:25",
@@ -1375,26 +1383,18 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
-        "name": "Toca Toca",
-        "url": "https://open.spotify.com/album/1ectv01q8m2iZNm7p5hiaO"
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Morry",
-          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
-        },
-        {
-          "name": "Fly Project",
-          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
         }
       ],
-      "duration_ms": 158709,
-      "name": "Toca Toca",
-      "url": "https://open.spotify.com/track/1B27a06OAQx7CS46plr5pU"
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2026-08-21 12:27:25",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
-        "name": "CHICA 305",
-        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 188085,
-      "name": "CHICA 305",
-      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
-    },
-    {
-      "added_at": "2026-08-21 12:27:25",
-      "album": {
         "name": "Dame Un Grrr (Provi Remix)",
         "url": "https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 120000,
       "name": "Dame Un Grrr - Provi Remix Radio Edit",
       "url": "https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L"
+    },
+    {
+      "added_at": "2026-08-21 12:27:25",
+      "album": {
+        "name": "CHICA 305",
+        "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188085,
+      "name": "CHICA 305",
+      "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
     },
     {
       "added_at": "2026-08-21 12:27:25",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/4HUhOVgq3iJM2awJQtpAoW"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 232734,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
+    },
+    {
+      "added_at": "2026-08-21 12:27:25",
+      "album": {
         "name": "Horny",
         "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
       },
@@ -1967,18 +1983,18 @@
     {
       "added_at": "2026-08-21 12:27:25",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/4HUhOVgq3iJM2awJQtpAoW"
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 232734,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-08-21 12:27:25",
@@ -1995,22 +2011,6 @@
       "duration_ms": 150476,
       "name": "La Samba",
       "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
-    },
-    {
-      "added_at": "2026-08-21 12:27:25",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
     },
     {
       "added_at": "2026-08-21 12:27:25",

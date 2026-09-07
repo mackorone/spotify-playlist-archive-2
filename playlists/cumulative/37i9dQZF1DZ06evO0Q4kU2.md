@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 26 min
+100 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Pearls of Time](https://open.spotify.com/track/7D4qBKAGTlN5uEOUiAlcnK) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Abyss](https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa) | 1:37 | 2026-01-15 | 2026-03-11 |
 | [Permafrost I](https://open.spotify.com/track/2uRdQvuJA24yvOQxc2I5PI) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:18 | 2025-08-29 | 2026-01-15 |
 | [Permafrost II](https://open.spotify.com/track/0ezup8npToPujZFJQNg6rL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:00 | 2025-08-26 | 2025-10-30 |
-| [Seyo And Min\-Su](https://open.spotify.com/track/2LuYVg7ob9Z2RoXh0XSe2s) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Prosecution \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X) | 1:53 | 2026-09-05 |  |
+| [Seyo And Min\-Su](https://open.spotify.com/track/2LuYVg7ob9Z2RoXh0XSe2s) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Prosecution \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X) | 1:53 | 2026-09-05 | 2026-09-07 |
 | [Somnía](https://open.spotify.com/track/16CJHOcR0iksFRellAVvs1) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 1:32 | 2025-03-04 | 2026-08-26 |
 | [Staircase Sonata \- Orchestral Works Version](https://open.spotify.com/track/32Brjv8Q9forZaMZQnrRKr) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 2:47 | 2025-03-04 |  |
 | [Staka I](https://open.spotify.com/track/1MmCFK1NzEzTC7sihOspqw) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO) | [Solon Islandus \(Complete Works\)](https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65) | 1:52 | 2025-03-04 | 2025-08-26 |
@@ -86,6 +86,7 @@
 | [The Drifter](https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 2:48 | 2025-05-10 | 2025-09-24 |
 | [The Drifter](https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Drifter](https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU) | 2:48 | 2025-03-04 |  |
 | [The Farewell \- Voiceless](https://open.spotify.com/track/7tuh2HILuGXDhscDsNPb1r) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 3:31 | 2026-04-25 | 2026-05-07 |
+| [The Lake \- Piano Reprise](https://open.spotify.com/track/36EqrgUEVwkg3vCiczVPv5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Prosecution \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7IWpGK5mGaME8bg9QmR77X) | 2:43 | 2026-09-07 |  |
 | [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 | 2025-03-04 |  |
 | [The Long Sleep](https://open.spotify.com/track/6p6N15HCxFO1NFIQryu2j9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Abyss](https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa) | 2:35 | 2026-01-15 | 2026-02-03 |
 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 | 2025-03-04 | 2025-04-09 |

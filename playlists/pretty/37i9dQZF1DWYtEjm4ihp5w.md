@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: 7liwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,333 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,443 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:52 |
+| 1 | [Jamaican](https://open.spotify.com/track/3YqxmbZW7LLyt7ZG0WlMCK) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Jamaican](https://open.spotify.com/album/4NaZZ5lcaDevJRlSwkwYEh) | 2:53 |
 | 2 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
 | 3 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
 | 4 | [FOTO](https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [FOTO](https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me) | 2:10 |

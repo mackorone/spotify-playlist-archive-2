@@ -7849,6 +7849,24 @@
     },
     {
       "album": {
+        "name": "post con obsession",
+        "url": "https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125090,
+      "name": "post con obsession",
+      "url": "https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2"
+    },
+    {
+      "album": {
         "name": "Pretty Life",
         "url": "https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE"
       },

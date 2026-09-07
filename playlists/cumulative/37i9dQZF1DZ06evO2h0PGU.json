@@ -982,7 +982,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 203746,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/6ElTU01KPyBpBkhQnDpQux"
@@ -1440,6 +1440,24 @@
       "duration_ms": 220866,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/7yfaoUFL0pWXigmBqSDPld"
+    },
+    {
+      "album": {
+        "name": "Hidden in Pieces: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/57AesRy2gRkEOe65F6GzoG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249746,
+      "name": "Warrior - Live at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7LmTkCp8eyN3yphDffRsCp"
     },
     {
       "album": {

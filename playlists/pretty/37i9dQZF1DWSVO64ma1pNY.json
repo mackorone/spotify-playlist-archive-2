@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 304127,
+  "num_followers": 304131,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 164866,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
+        "name": "Dropout Boogie",
+        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
       "artists": [
         {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 253306,
-      "name": "Rusted From the Rain",
-      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
+      "duration_ms": 164866,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -303,6 +287,22 @@
       "duration_ms": 222453,
       "name": "Re-Education (Through Labor)",
       "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Rusted From the Rain",
+      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sci-Fi Crimes",
-        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Jars",
-      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 230219,
       "name": "Supersoaker",
       "url": "https://open.spotify.com/track/4cQIbDqCZrHknxlDUjRHZ0"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Sci-Fi Crimes",
+        "url": "https://open.spotify.com/album/4yo38BbmUi80kZOqHlRhNH"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Jars",
+      "url": "https://open.spotify.com/track/0CD1Hybzpwc9Av6iRI2xjr"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
       "artists": [
         {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 169977,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Fail You",
-        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1419,18 +1403,34 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Two Toned // She Said",
-        "url": "https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B"
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
       "artists": [
         {
-          "name": "Deadshowws",
-          "url": "https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 226889,
-      "name": "Two Toned",
-      "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Money (Hope Ain\u2019t Gone)",
+        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 246139,
+      "name": "Money (Hope Ain\u2019t Gone)",
+      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money (Hope Ain\u2019t Gone)",
-        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+        "name": "Two Toned // She Said",
+        "url": "https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Deadshowws",
+          "url": "https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU"
         }
       ],
-      "duration_ms": 246139,
-      "name": "Money (Hope Ain\u2019t Gone)",
-      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+      "duration_ms": 226889,
+      "name": "Two Toned",
+      "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 176805,
-      "name": "Cave In",
-      "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 224838,
       "name": "Hole",
       "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 176805,
+      "name": "Cave In",
+      "url": "https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "All These Countless Nights (Reworked - Deluxe Version)",
-        "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Havana",
-          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Cassiopeia - Bonus Track",
-      "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 211046,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "All These Countless Nights (Reworked - Deluxe Version)",
+        "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Havana",
+          "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Cassiopeia - Bonus Track",
+      "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
     }
   ],
   "unique_name": "Anger Management",

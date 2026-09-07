@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 118 songs - 7 hr 1 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 116 | [Your Silence Is Deadly](https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q) | [Linda Imperial](https://open.spotify.com/artist/0ulH2qWVGdDxSNcCzj4hgA) | [Your Silence Is Deadly](https://open.spotify.com/album/2XcJhbHfWGlAZDPxhNUTHZ) | 3:28 |
 | 117 | [The Forest Song \- A Cappella Version](https://open.spotify.com/track/2oEEGGspJgXus3vxjDWqxI) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Sand](https://open.spotify.com/album/3QNg4LrouXljZ0u6SjyWIo) | 3:31 |
 | 118 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 |
+| 119 | [Music Set Her Free](https://open.spotify.com/track/3e9wXMK634KnIwOgZUQ3eU) | [A J Green UK](https://open.spotify.com/artist/0ZXLZz84ItG70ThGRNJpcm) | [Music Set Her Free](https://open.spotify.com/album/03kawM8TTVWppnhFwrQtFz) | 4:14 |
+| 120 | [Your Eyes](https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6) | [DreamParia](https://open.spotify.com/artist/1CwTMmr3Z8ydNGTnOw5VSI) | [Your Eyes](https://open.spotify.com/album/5t6Cpwz4c71H4f2NItFBCb) | 2:50 |
 
-Snapshot ID: `AAAXoven0n7jF0Ssz6PMTXibEbKEBd0Z`
+Snapshot ID: `AAAXpAVyXS5L2OCsXeUXuDY4lIskPKO5`

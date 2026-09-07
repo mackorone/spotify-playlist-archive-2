@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,953 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,954 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 27 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 |
 | 28 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 |
 | 29 | [A Lover's Concerto](https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:14 |
-| 30 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
-| 31 | [You've Been Untrue](https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:42 |
+| 30 | [You've Been Untrue](https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:42 |
+| 31 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
 | 32 | [For the Love I Gave to You](https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 5:00 |
 | 33 | [Enemies](https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:58 |
-| 34 | [Too Late](https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 2:36 |
-| 35 | [He Don't Really Love You](https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:24 |
+| 34 | [He Don't Really Love You](https://open.spotify.com/track/7vLulg0d9DreZngW3SsPvz) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:24 |
+| 35 | [Too Late](https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 2:36 |
 | 36 | [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 |
 | 37 | [You'll Get Enough](https://open.spotify.com/track/1ymwGUQASmibQznKLokoha) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [You'll Get Enough / Don't Leave Me](https://open.spotify.com/album/5MHFNla5ukhyIFeha527Db) | 2:21 |
 | 38 | [Love Won't Let Me Wait](https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 49 | [Lost Without You](https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 3:02 |
 | 50 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
 
-Snapshot ID: `apoKAAAAAAAuRzjB7PN741sWK/PSzRw3`
+Snapshot ID: `aptbgAAAAACyFu7wy+Rm4QSAAin1MkEo`

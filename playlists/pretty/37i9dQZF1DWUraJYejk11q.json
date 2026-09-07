@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469928,
+  "num_followers": 469939,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "DATA (Instrumental)",
+        "url": "https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 180103,
+      "name": "VOLVER - instrumental",
+      "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "sunn O)))",
         "url": "https://open.spotify.com/album/1grbT4stwprQnmPMxshbbI"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 852266,
       "name": "Butch's Guns",
       "url": "https://open.spotify.com/track/7BExxkLUBUDD6h2Je2FpTJ"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "Tahara",
-        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 213850,
-      "name": "Tahara",
-      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "DATA (Instrumental)",
-        "url": "https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR"
+        "name": "Tahara",
+        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 180103,
-      "name": "VOLVER - instrumental",
-      "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+      "duration_ms": 213850,
+      "name": "Tahara",
+      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Worms on Acid",
         "url": "https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 150000,
       "name": "Worms on Acid",
       "url": "https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Dostrotime",
-        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 379006,
-      "name": "Wendorlan - Original Mix",
-      "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "drames rurals",
         "url": "https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "Dostrotime",
+        "url": "https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 379006,
+      "name": "Wendorlan - Original Mix",
+      "url": "https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "As Fallen Leaves",
         "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 299558,
       "name": "Don't Know What You Are Thinking",
       "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "Planta Dance",
         "url": "https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 186000,
       "name": "Planta Dance",
       "url": "https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "Us, In Between The Blinded",
-        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
-      },
-      "artists": [
-        {
-          "name": "Unblinded Society",
-          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
-        }
-      ],
-      "duration_ms": 157646,
-      "name": "Virtual Forrest",
-      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+        "name": "Us, In Between The Blinded",
+        "url": "https://open.spotify.com/album/7ELe8nQQmrAL484iZPrOGT"
       },
       "artists": [
         {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+          "name": "Unblinded Society",
+          "url": "https://open.spotify.com/artist/67ChYxCfp5Wz2CEazh7Xcp"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+      "duration_ms": 157646,
+      "name": "Virtual Forrest",
+      "url": "https://open.spotify.com/track/6PpJalnvzcDyktxXalhaU4"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -727,6 +711,22 @@
       "duration_ms": 285000,
       "name": "Zan",
       "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2026-05-01 00:15:05",

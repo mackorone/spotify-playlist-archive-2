@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 209712,
       "name": "(how could i be)honest?",
       "url": "https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D"
@@ -6642,7 +6642,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 209764,
       "name": "kimagure",
       "url": "https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e"
@@ -24997,6 +24997,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/43VFHCMHiaQM6Vk1JTkdtr"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222747,
+      "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u3001\u50d5\u304c\u8003\u3048\u305f\u3053\u3068",
+      "url": "https://open.spotify.com/track/4f0swjS3zCqcaue7MpYyrN"
+    },
+    {
+      "album": {
         "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
         "url": "https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL"
       },
@@ -30676,7 +30694,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 274333,
       "name": "\u9ce5",
       "url": "https://open.spotify.com/track/5rNM0UFvVV5O8sfEPxTb6R"

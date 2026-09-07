@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Anne Wilson
 
-1,523 songs - 3 day 21 hr 24 min
+1,524 songs - 3 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,7 +782,7 @@
 | [Let The Church Sing](https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Let The Church Sing](https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx) | 2:56 | 2025-03-21 | 2025-06-07 |
 | [Let The Church Sing](https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Let The Church Sing](https://open.spotify.com/album/0MeSS7BlmQYdx0vRXWUnpn) | 3:16 | 2025-09-14 | 2025-10-07 |
 | [Let the light shine in](https://open.spotify.com/track/3SIu52NmPiho1jFjoWn7ST) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Let the light shine in](https://open.spotify.com/album/0EOCubgXZCeMXMcPIgLP6W) | 3:08 | 2025-08-04 | 2025-10-07 |
-| [Let Them See You](https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Weeks Revival](https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE) | 3:56 | 2026-08-21 |  |
+| [Let Them See You](https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Weeks Revival](https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE) | 3:56 | 2026-08-21 | 2026-09-07 |
 | [Let's Build A House](https://open.spotify.com/track/6rDA22IVMyv0t2knSa4ROE) | [Good Weather Forecast](https://open.spotify.com/artist/4HkAv0IL2kiVIC4CylhUer), [Real Life Guys](https://open.spotify.com/artist/7seL1mF4LajINchp4Ax5s5) | [Let's Build A House](https://open.spotify.com/album/2YBFk3aM0OTxompx4kXmYJ) | 2:09 | 2024-08-09 | 2024-11-30 |
 | [Let's Hope Again](https://open.spotify.com/track/6hHuoltYpCPEbwerV3ROEV) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Songs from the Valley](https://open.spotify.com/album/0QjeghvE34mmEBpby2n4Lf) | 3:46 | 2025-10-20 | 2025-12-06 |
 | [Letters To Heaven](https://open.spotify.com/track/3yetakf9ED4buJVMTTh9pU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Letters To Heaven](https://open.spotify.com/album/65znZ3ee5OJ7YDaT9SAXRT) | 4:13 | 2025-12-06 | 2026-01-18 |
@@ -1162,6 +1162,7 @@
 | [So I Will](https://open.spotify.com/track/1y8j6Hyfqh40PmOYLP5t0O) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [So I Will](https://open.spotify.com/album/6OzbK3ftX8bKyXOneFelWr) | 5:31 | 2024-10-11 | 2025-03-22 |
 | [So Long](https://open.spotify.com/track/52S5VLf6JiFrUs37hBi9ON) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [So Long](https://open.spotify.com/album/4nsCdTSjQU0FLmfO0uQhd5) | 2:51 | 2026-05-01 | 2026-07-04 |
 | [So Long Sad Songs](https://open.spotify.com/track/05qqJOOLE3tfnEOTP67j8U) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [So Long Sad Songs](https://open.spotify.com/album/7mU9YGfE049DBQYQTiefuG) | 3:05 | 2026-02-07 | 2026-03-22 |
+| [So So Good](https://open.spotify.com/track/2WMPGYQQjxKVB0DfmiVFMi) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Walls \(Part One\)](https://open.spotify.com/album/5ybiXYTTeGg32Grlh4p17k) | 4:23 | 2026-08-21 |  |
 | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Somebody Tell That Girl \(feat\. Anne Wilson\)](https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS) | 3:30 | 2022-05-27 | 2022-10-30 |
 | [Somebody's Praying](https://open.spotify.com/track/0gWKRPauuXB3en8wTQO0DP) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV) | [Better Days](https://open.spotify.com/album/1tvFyWMz2bIxPyibowrQnY) | 3:35 | 2025-10-06 | 2025-11-16 |
 | [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 | 2026-07-03 | 2026-07-18 |

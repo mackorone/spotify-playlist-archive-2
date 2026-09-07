@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 20 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 |
 | 21 | [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 |
 | 22 | [hair down](https://open.spotify.com/track/5VsqyVi1rbl1zppQ3hXYWG) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:29 |
-| 23 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 |
-| 24 | [Invoice \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 2:24 |
+| 23 | [Invoice \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/063nJW2YbI0LBZLrO6qwDG) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 2:24 |
+| 24 | [Zorba](https://open.spotify.com/track/3tzL8exhBLU5ZD724djHZs) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Aletheia](https://open.spotify.com/album/2FT4zvCc1vD2JdW8usqezZ) | 2:16 |
 | 25 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 |
 | 26 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
 | 27 | [Hard To Get](https://open.spotify.com/track/76EsDQYBWuwOSh8BBf8fIT) | [KUN](https://open.spotify.com/artist/4SfFh31iZGOER3ajjaeior) | [Hard To Get](https://open.spotify.com/album/11lQK5t31grTuIBjhCyL47) | 2:39 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
 | 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcbhdAAAAAD8euuiAYLmK5Bb6HmLb6fY`
+Snapshot ID: `AcbnFAAAAAD+FaR6D2GEL+uxElANUzB2`

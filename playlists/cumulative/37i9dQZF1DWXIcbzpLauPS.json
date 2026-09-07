@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 167830,
       "name": "descend.exe",
       "url": "https://open.spotify.com/track/17vpRUpOQH1qg2fsQb8xjI"
@@ -13738,6 +13738,24 @@
       "duration_ms": 292789,
       "name": "Hymn Of Decay",
       "url": "https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR"
+    },
+    {
+      "album": {
+        "name": "Stalagmite Angels",
+        "url": "https://open.spotify.com/album/6SqWXrnAsjLhUXynBXnmtd"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "Hymns of a Calcified Warpath",
+      "url": "https://open.spotify.com/track/1owZL8t2fZqG6l4D65fgM9"
     },
     {
       "album": {
@@ -22731,6 +22749,24 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/0qUgZN6fQmHyv1U0EeIGga"
+      },
+      "artists": [
+        {
+          "name": "Out Of Vision",
+          "url": "https://open.spotify.com/artist/1SmSfOk3hocpRXSS4Azn58"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5310bRLzARarjcY3GpXfvr"
+    },
+    {
+      "album": {
         "name": "Say It To My Face",
         "url": "https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f"
       },
@@ -23314,7 +23350,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 239682,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
@@ -28812,7 +28848,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 168474,
       "name": "Undone",
       "url": "https://open.spotify.com/track/6FlHcq0ud7sbWS4cIPajY1"
@@ -30724,6 +30760,24 @@
       "duration_ms": 250000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH"
+    },
+    {
+      "album": {
+        "name": "Witchking",
+        "url": "https://open.spotify.com/album/1BzxUBFVNQsHaHstRAZAPJ"
+      },
+      "artists": [
+        {
+          "name": "Hollow Pact",
+          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171509,
+      "name": "Witchking",
+      "url": "https://open.spotify.com/track/3EhCsKqajVZiCWy291hJg4"
     },
     {
       "album": {

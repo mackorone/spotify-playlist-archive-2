@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 99657,
+  "num_followers": 99670,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 199703,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
         "name": "The Very Best Of Ram Jam",
         "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 257786,
       "name": "Jealous Guy - Remastered 2010",
       "url": "https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Xanadu - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Xanadu",
-      "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Xanadu - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Xanadu",
+      "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 354240,
       "name": "Spacer",
       "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Outside Society",
-        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 209893,
       "name": "Sugar Baby Love",
       "url": "https://open.spotify.com/track/294ii3rwz6bTJ2XMn5BDu0"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Outside Society",
+        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Gloria: In Excelsis Deo",
-      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Capitol Gold: The Best Of Minnie Riperton",
         "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 248533,
       "name": "Living in America",
       "url": "https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Gloria: In Excelsis Deo",
+      "url": "https://open.spotify.com/track/272Z4tzaSMMcgrZ0R494S2"
     },
     {
       "added_at": "2024-03-26 13:49:34",

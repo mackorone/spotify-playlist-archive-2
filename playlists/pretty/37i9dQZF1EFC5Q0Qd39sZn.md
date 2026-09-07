@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,786 likes - 588 songs - 1 day 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,790 likes - 588 songs - 1 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -323,8 +323,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 313 | [Can't Fight the Moonlight](https://open.spotify.com/track/1oXQL2AMxAW90Td53z6Zp5) | [CHVRT H!TS](https://open.spotify.com/artist/3Q9m56PRztC7MN9fx3u8yP) | [THE BEST HITS OF THE 00S, VOL\. I](https://open.spotify.com/album/4BjdneVDpIFBwynll2z39B) | 3:39 |
 | 314 | [Quem é Você \(Love Will Lead You Back\)](https://open.spotify.com/track/6Tct6Qc9dX5aaworN2PagM) | [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra!](https://open.spotify.com/album/5fdk0rqJUipKX8EVprxIGQ) | 4:29 |
 | 315 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
-| 316 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
-| 317 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
+| 316 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
+| 317 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
 | 318 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
 | 319 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
 | 320 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 |
@@ -507,8 +507,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 497 | [Sempre Estarei Ai](https://open.spotify.com/track/4xMUHevynslj3eQ94Blpj9) | [Edilson Maia](https://open.spotify.com/artist/7IzGAGiDnAL0ivcZPquZew) | [Abra O Coração](https://open.spotify.com/album/6SgosvbIxHuasBJKe1ff6I) | 4:33 |
 | 498 | [You Didn't Have to Hurt Me](https://open.spotify.com/track/3yWKP4fPa26IKOh4N3q2bP) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:04 |
 | 499 | [You Are My Home](https://open.spotify.com/track/6wopFHSnx7QXkMwpjhoRGN) | [Drivin Sneakers](https://open.spotify.com/artist/3CnWUiFLF9ctJW79n1SJkw) | [Throat of My Angel](https://open.spotify.com/album/2kFolRlik7x6gTx6YiM3m5) | 4:58 |
-| 500 | [Bitches Gotta Get Paid](https://open.spotify.com/track/4CiUatiN7HTtqRb9LjmOQ0) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:33 |
-| 501 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
+| 500 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
+| 501 | [Bitches Gotta Get Paid](https://open.spotify.com/track/4CiUatiN7HTtqRb9LjmOQ0) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 3:33 |
 | 502 | [Love Found Me](https://open.spotify.com/track/4Hr7JlMioKQK8SFjT4l5ea) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Bad Girls](https://open.spotify.com/album/6U8lKtn8JrqnUsnE3tTP6r) | 4:39 |
 | 503 | [Spanish Guitar](https://open.spotify.com/track/78xZmv0VetvNAslUqlggdx) | [Ultra Band](https://open.spotify.com/artist/4EcDwU1AjqKHYuytqo9DJ6) | [Essência Feminina Internacional](https://open.spotify.com/album/4PwuhuWIirjtB4voJXG8ew) | 4:46 |
 | 504 | [Call Me Gone](https://open.spotify.com/track/4Wr8j1mSchNGwN2AS2P6Qr) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:46 |
@@ -597,4 +597,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 587 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 588 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcbhnAAAAACszqBoLQhol4Pe9HDC+IRC`
+Snapshot ID: `AcbnAAAAAADl5oPydoAHTSiAZxcQZaUX`

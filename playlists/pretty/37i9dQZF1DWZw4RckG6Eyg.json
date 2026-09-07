@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2025 that we can't get enough of. Cover: she's green",
-  "num_followers": 47208,
+  "num_followers": 47220,
   "original_name": "Indie Editors' Hyperfixations of 2025 ",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Andalucia",
-        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 222869,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189905,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 222869,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Skins",
+        "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
+      },
+      "artists": [
+        {
+          "name": "The Orchestra (For Now)",
+          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Dealerz",
         "url": "https://open.spotify.com/album/3gT4OeIXlqJZ9xrhXlR1OT"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 166344,
       "name": "Dealerz",
       "url": "https://open.spotify.com/track/5wCYpFI6oW9BejmzlBiXIs"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Skins",
-        "url": "https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu"
-      },
-      "artists": [
-        {
-          "name": "The Orchestra (For Now)",
-          "url": "https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Unarchiver",
-        "url": "https://open.spotify.com/album/5B27SeekEZmvH9qP7YE5w7"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Unarchiver",
-      "url": "https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Souls x Mates",
         "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Switcheroo",
-        "url": "https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap"
+        "name": "Unarchiver",
+        "url": "https://open.spotify.com/album/5B27SeekEZmvH9qP7YE5w7"
       },
       "artists": [
         {
-          "name": "Gelli Haha",
-          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
         }
       ],
-      "duration_ms": 212267,
-      "name": "Bounce House",
-      "url": "https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt"
+      "duration_ms": 295026,
+      "name": "Unarchiver",
+      "url": "https://open.spotify.com/track/1vow5hm6PQGE4K4UTRY8jX"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Switcheroo",
+        "url": "https://open.spotify.com/album/6DK5lxaaj74XkZmPIvAXap"
+      },
+      "artists": [
+        {
+          "name": "Gelli Haha",
+          "url": "https://open.spotify.com/artist/4O0acxqHYUQGGMqOICiSeI"
+        }
+      ],
+      "duration_ms": 212267,
+      "name": "Bounce House",
+      "url": "https://open.spotify.com/track/0pfH12vOqokHreQwW5fItt"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "my most saddest song",
         "url": "https://open.spotify.com/album/1qA8wi6ghcJzanpAaz2VUj"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "POOR CHOICES",
-        "url": "https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE"
-      },
-      "artists": [
-        {
-          "name": "skuzland",
-          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
-        }
-      ],
-      "duration_ms": 204782,
-      "name": "POOR CHOICES",
-      "url": "https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 202336,
       "name": "Baby You're Lying",
       "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "POOR CHOICES",
+        "url": "https://open.spotify.com/album/7i6ANs380kdGplpLHBuxBE"
+      },
+      "artists": [
+        {
+          "name": "skuzland",
+          "url": "https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp"
+        }
+      ],
+      "duration_ms": 204782,
+      "name": "POOR CHOICES",
+      "url": "https://open.spotify.com/track/5hLmbpWtuvhkzCosigqOHa"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "into a pretty room",
-        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
-      },
-      "artists": [
-        {
-          "name": "lots of hands",
-          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "barnyard",
-      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
         "name": "Stone Femmes",
         "url": "https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc"
       },
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+        "name": "into a pretty room",
+        "url": "https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC"
       },
       "artists": [
         {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        },
-        {
-          "name": "Leith Sye Towers",
-          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
+          "name": "lots of hands",
+          "url": "https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9"
         }
       ],
-      "duration_ms": 202415,
-      "name": "Verrans Corner",
-      "url": "https://open.spotify.com/track/5d252aEyyIxG9CI2v9anKK"
+      "duration_ms": 244653,
+      "name": "barnyard",
+      "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Leith Sye Towers",
+          "url": "https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq"
+        }
+      ],
+      "duration_ms": 202415,
+      "name": "Verrans Corner",
+      "url": "https://open.spotify.com/track/5d252aEyyIxG9CI2v9anKK"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 197113,
       "name": "Door",
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "LEECHES",
-        "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
-      },
-      "artists": [
-        {
-          "name": "Ledbyher",
-          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "LEECHES",
-      "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1499,6 +1483,22 @@
       "duration_ms": 202353,
       "name": "Cat & Mouse",
       "url": "https://open.spotify.com/track/5BY2y6OduBlcXbgCGOwPF5"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "LEECHES",
+        "url": "https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT"
+      },
+      "artists": [
+        {
+          "name": "Ledbyher",
+          "url": "https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "LEECHES",
+      "url": "https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx"
     },
     {
       "added_at": "2025-12-03 12:16:12",
@@ -1603,6 +1603,38 @@
     {
       "added_at": "2025-12-03 12:16:12",
       "album": {
+        "name": "Jetplane",
+        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 156824,
+      "name": "Jetplane",
+      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
+        "name": "POST HEAVEN",
+        "url": "https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"
+    },
+    {
+      "added_at": "2025-12-03 12:16:12",
+      "album": {
         "name": "Cradle The Pain",
         "url": "https://open.spotify.com/album/7vpQiPMi8SmOEGwEjBCP4C"
       },
@@ -1631,38 +1663,6 @@
       "duration_ms": 196216,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "POST HEAVEN",
-        "url": "https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"
-    },
-    {
-      "added_at": "2025-12-03 12:16:12",
-      "album": {
-        "name": "Jetplane",
-        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 156824,
-      "name": "Jetplane",
-      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
     }
   ],
   "unique_name": "Indie Editors' Hyperfixations of 2025 ",

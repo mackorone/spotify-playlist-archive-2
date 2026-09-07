@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-106 songs - 8 hr 2 min
+107 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel) | 3:56 | 2024-01-07 | 2026-02-28 |
 | [Amazing Grace](https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 4:12 | 2023-05-12 |  |
 | [Another Days Journey](https://open.spotify.com/track/3fyzeuKbcxC2iBST96BD59) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:06 | 2023-05-30 | 2023-06-03 |
-| [Armor of God](https://open.spotify.com/track/35M9UvbyULULR64hWIshXL) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:05 | 2025-03-23 |  |
+| [Armor of God](https://open.spotify.com/track/35M9UvbyULULR64hWIshXL) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:05 | 2025-03-23 | 2026-09-07 |
 | [Blessed Assurance](https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:50 | 2023-05-12 |  |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 | 2023-08-04 |
 | [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:57 | 2023-08-03 |  |
@@ -77,6 +77,7 @@
 | [No Charge](https://open.spotify.com/track/4IDCskwVlaT9tfBkGxtn2B) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Treasures](https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh) | 3:17 | 2026-08-26 | 2026-08-27 |
 | [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 | 2023-05-12 |  |
 | [One More Battle to Fight](https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:54 | 2023-05-12 | 2023-05-18 |
+| [Over and Over](https://open.spotify.com/track/4D2B0g6vcTWSrVLKIojBuq) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Tammy Caesar](https://open.spotify.com/artist/1Lu6LDR0EkfZi4L06O73RC) | [Over and Over](https://open.spotify.com/album/2uaSPer8kMZY6iX3wJDr7Q) | 3:53 | 2026-09-07 |  |
 | [Patiently Waiting \- Live](https://open.spotify.com/track/6hu6gpqsoTOSZMyIah8Zr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...He Will Come](https://open.spotify.com/album/5a9DMGSMyl2Kq4GISbQQgp) | 5:28 | 2024-07-20 | 2025-02-05 |
 | [Peace In the Midst of the Storm \- Live](https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 4:52 | 2025-02-05 |  |
 | [People Get Ready](https://open.spotify.com/track/1JDDFqfa3CdRdShmA9Lr0E) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:04 | 2023-05-12 | 2023-05-31 |

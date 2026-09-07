@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,509 songs - 15 day 4 hr 13 min
+6,512 songs - 15 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1669,6 +1669,7 @@
 | [El Amor](https://open.spotify.com/track/3LMaJmM5V3WXulHzHKQKu2) | [Jairo](https://open.spotify.com/artist/5Ph1Nqcdxfjg1Mm6JmQquF) | [GOSHEN](https://open.spotify.com/album/28frUdb3qDYzp4EzMLnOaZ) | 3:07 | 2022-11-18 | 2022-12-10 |
 | [El Camino](https://open.spotify.com/track/6rJvhx5erQPu7mogQIfqeC) | [Milo Gege](https://open.spotify.com/artist/6eieMZUwXVzoWHhVIQnYsW) | [El Camino](https://open.spotify.com/album/61Yvzu0ty5dIPNnmE8ZIIa) | 4:11 | 2024-12-23 | 2025-01-04 |
 | [El Efectivo](https://open.spotify.com/track/2GvMgNyf7dTKvs82xLRzsm) | [Axell Vi](https://open.spotify.com/artist/0mp4hhZGTs9UADnWGoXRCJ) | [El Efectivo](https://open.spotify.com/album/4kw3OLTzF70nrOJOAHC8bX) | 3:04 | 2024-03-11 | 2024-03-23 |
+| [EL KE TE ALOKA](https://open.spotify.com/track/7jwTH2T4t0wBpSLrdkXOBi) | [elsince94bb](https://open.spotify.com/artist/2HZBhjlZlL3abDpjkkokHE) | [EL KE TE ALOKA](https://open.spotify.com/album/75cwP8ze1ZpUVeYUnv5D14) | 2:16 | 2026-09-06 |  |
 | [El Malo](https://open.spotify.com/track/0lRM1nECi5pj7sutFfoQw2) | [DJ Luxx](https://open.spotify.com/artist/5ZQqNlhkPXKvfxQuHcttj6) | [El Malo](https://open.spotify.com/album/0SqLlRdUCc1Im7BGqn9X19) | 3:03 | 2024-11-25 | 2024-12-08 |
 | [El Negro Sabroso \(Banda\)](https://open.spotify.com/track/3DFsxiMt0LbVIS77ZFdgUC) | [Lios Choko](https://open.spotify.com/artist/0VRmGGMsCYaO7vgvWFLEkP) | [El Negro Sabroso \(Banda\)](https://open.spotify.com/album/6fR2B2cNt2L5DF8bBpv9Fz) | 3:55 | 2024-01-20 | 2024-02-01 |
 | [El Regreso](https://open.spotify.com/track/4phmdDvyLVIk4pTLVEdpHm) | [Ruta 68](https://open.spotify.com/artist/5R9CnRiJRks4CvcMCbgbwm) | [El Regreso](https://open.spotify.com/album/76L6W0JFLaresrGGkDWFD9) | 3:13 | 2026-08-29 |  |
@@ -3413,7 +3414,7 @@
 | [Love Patrol \- Extended Version](https://open.spotify.com/track/2oT7yjx5O9wS4fcY0zryF2) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Love Patrol](https://open.spotify.com/album/33B9eVBEEC812ztMI4ow4H) | 4:09 | 2026-08-27 |  |
 | [Love Reservoir](https://open.spotify.com/track/0ckzBpHyjOxCwgE67V5goB) | [Frenchie](https://open.spotify.com/artist/11RwEPDXg0xuxLmfontXCJ), [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Love Reservoir](https://open.spotify.com/album/6rEJeZWAqsnQ7AoZw29Lz3) | 4:04 | 2024-11-07 | 2024-11-21 |
 | [Love Run Cold](https://open.spotify.com/track/1E6uCU9deWbhsGRmLivXyi) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Love Run Cold](https://open.spotify.com/album/00lrUUGcr5HJyneI9I5CxD) | 4:18 | 2025-05-04 | 2025-05-15 |
-| [Love Story](https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh) | [JoiStaRR](https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN) | [Love Story](https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY) | 3:36 | 2024-06-22 | 2026-09-02 |
+| [Love Story](https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh) | [JoiStaRR](https://open.spotify.com/artist/1IqGEfjh8ScdSV8jaHzHxN) | [Love Story](https://open.spotify.com/album/7hxnN9L47HBsqFGpUZ1SyY) | 3:36 | 2024-06-22 |  |
 | [Love Takes Time](https://open.spotify.com/track/2ZFFCleIGb9a7sUe7wmJnO) | [Trevious](https://open.spotify.com/artist/2IsNkAtiS5MtqcOa1EFHZV), [Alexis Branch](https://open.spotify.com/artist/5gj32cR6y0FvOFiLY1R1qC) | [Special Delivery](https://open.spotify.com/album/583tJiSiBT4NluruEWXKqM) | 4:00 | 2020-03-09 | 2020-04-04 |
 | [Love Therapy](https://open.spotify.com/track/0uquBY5npv7rPcrQuJSIgu) | [Kei Taylor](https://open.spotify.com/artist/32sD3Ad4v0ty1Ykx3vL66Q) | [9pm: No Longer Dreaming](https://open.spotify.com/album/6MZ9mXRiH0bUHkDgn5A5dj) | 3:06 | 2023-02-24 | 2023-03-20 |
 | [Love Too Many](https://open.spotify.com/track/0uFwNJkSULbtYqGuCp29VF) | [Elikem Gh](https://open.spotify.com/artist/5F68EWKf2XrEyTCve1LHEp) | [Love Too Many](https://open.spotify.com/album/2Mw3B2HRaVaY3q6rgelH31) | 2:35 | 2026-06-06 | 2026-06-18 |
@@ -4143,6 +4144,7 @@
 | [Only Come Out At Night](https://open.spotify.com/track/01NKyb2mQgcQ6zyU3lQjB6) | [A War In August](https://open.spotify.com/artist/6vDWu3PTMg11CembIpK1ur) | [Only Come Out At Night](https://open.spotify.com/album/4rt2VbHGLAsjqFVBXH8nTy) | 3:39 | 2025-05-07 | 2025-05-19 |
 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 | 2023-07-20 |  |
 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 | 2020-11-17 | 2020-12-02 |
+| [Only Love Me](https://open.spotify.com/track/7J5yxzx5WXoqeu2hVtLMKp) | [Paige Somerville](https://open.spotify.com/artist/6bjnHLfTbPN6DrEAqC3LW6) | [Only Love Me](https://open.spotify.com/album/7DBcXT5RWjsrXsjhZ4pgv1) | 3:40 | 2026-09-06 |  |
 | [Only One](https://open.spotify.com/track/11g4ZLlSgjwNPrlyBhhK5G) | [Blue Sails](https://open.spotify.com/artist/7K8pOBXISyUXE08MVIlt4O) | [Only One](https://open.spotify.com/album/4AcbBkKvqpHJvBwcW7A6Rn) | 4:48 | 2021-01-15 | 2021-01-30 |
 | [Only One \(Dr Fazz Remix\)](https://open.spotify.com/track/3R1Q802GR7MlAe0bHI7Qgb) | [Patrizia](https://open.spotify.com/artist/6pS7d2jzdv4aVYjGCVNpfm) | [Only One \(Dr Fazz Remix\)](https://open.spotify.com/album/1A1LNjc2VmRirDuHg9VLPp) | 5:13 | 2024-07-30 | 2024-08-11 |
 | [only the beginning](https://open.spotify.com/track/2GoCmpyyMy9A794jxEWDs3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [only the beginning](https://open.spotify.com/album/6dADrYm5dkxm9dyX4wnbza) | 3:55 | 2024-05-05 | 2024-05-19 |
@@ -6377,6 +6379,7 @@
 | [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 | 2024-10-21 |
 | [Worth It](https://open.spotify.com/track/5WUimXXg0VCx2HhhRk5hnX) | [The Fantasy Exchange](https://open.spotify.com/artist/6tLYl2lVuJWyAoglaNd9eL), [Nick Hagelin](https://open.spotify.com/artist/4uzUAkAnJ15k3cBrI8Op9W), [tilde](https://open.spotify.com/artist/2cSdQ45t0UV2O2y527yKox), [Kell](https://open.spotify.com/artist/1IjifYOYo6VDWn4St9OM29) | [Worth It](https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ) | 3:35 | 2022-09-21 | 2022-10-09 |
 | [Worth Your While](https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Worth Your While](https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe) | 3:18 | 2023-04-20 | 2023-05-09 |
+| [WORTHY](https://open.spotify.com/track/736Exifc4KeExwj3XZmZgI) | [ALONZO](https://open.spotify.com/artist/49FXPSGg5vTSNpvyNpOoRG) | [WORTHY](https://open.spotify.com/album/3sy1lPlJmalZn8WZXNyKGb) | 3:37 | 2026-09-06 |  |
 | [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 | 2025-08-24 | 2025-09-05 |
 | [Worthy](https://open.spotify.com/track/2osmujeHiS4OlPSOnHR5Hp) | [Rina Chanel](https://open.spotify.com/artist/3Vxlbac46VEnaZ360knkHu) | [Worthy](https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI) | 4:50 | 2020-12-09 | 2021-01-02 |
 | [Would You Stop Loving Me](https://open.spotify.com/track/7x1X6BsAZf5EC81hheT3Ro) | [Matthew Carter](https://open.spotify.com/artist/0SN2AUrCuJIdliVkrds7Po) | [Trip Hop Fun](https://open.spotify.com/album/5UmrBkAg1mVP7e54wbawMs) | 2:47 | 2025-05-17 | 2025-06-01 |

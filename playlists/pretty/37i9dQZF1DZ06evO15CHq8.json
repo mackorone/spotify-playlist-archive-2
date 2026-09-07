@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 679999,
+  "num_followers": 680042,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAADKZBOeAOWaXGGc7dF0+lF6",
+  "snapshot_id": "aptbgAAAAADMAys2+5UIUugBRT8TdknY",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 144242,
-      "name": "Drugs/Hoes/Money/Etc.",
-      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THY WILL BE DONE",
         "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
       },
@@ -367,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+        "name": "7th or St. Tammany",
+        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
       },
       "artists": [
         {
@@ -376,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 145635,
-      "name": "Mount Sinai",
-      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
+      "duration_ms": 144242,
+      "name": "Drugs/Hoes/Money/Etc.",
+      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
     },
     {
       "added_at": null,
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 178131,
-      "name": "Ugliest",
-      "url": "https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS"
+      "duration_ms": 145635,
+      "name": "Mount Sinai",
+      "url": "https://open.spotify.com/track/5vyR3lTiw4zz8B4PvnAO4c"
     },
     {
       "added_at": null,
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 123468,
-      "name": "2nd Hand",
-      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
+      "duration_ms": 178131,
+      "name": "Ugliest",
+      "url": "https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 130500,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 123468,
+      "name": "2nd Hand",
+      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
     },
     {
       "added_at": null,

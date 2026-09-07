@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1617920,
+  "num_followers": 1617982,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Science (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
+        "name": "Lioness (Argy Remix)",
+        "url": "https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Science (feat. Stevie Appleton) - Radio Edit",
-      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
+      "duration_ms": 187500,
+      "name": "Lioness - Argy Remix",
+      "url": "https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -715,26 +719,22 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Lioness (Argy Remix)",
-        "url": "https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr"
+        "name": "Science (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/0JExrixTBrKhdEzTrvRIUO"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Lioness - Argy Remix",
-      "url": "https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl"
+      "duration_ms": 212000,
+      "name": "Science (feat. Stevie Appleton) - Radio Edit",
+      "url": "https://open.spotify.com/track/0KZ47s9X43VaErZicJHrny"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
         "name": "undux",
         "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 212000,
       "name": "obvious",
       "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc"
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 213965,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1187,18 +1183,22 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+      "duration_ms": 213965,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1463,26 +1463,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Machine",
-        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
         },
         {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
         },
         {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1531,50 +1531,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Beg You",
-        "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio"
       },
       "artists": [
         {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         },
         {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
         },
         {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Beg You",
-      "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "High On A Feeling",
-        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
-      },
-      "artists": [
-        {
-          "name": "Layla Benitez",
-          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
-        },
-        {
-          "name": "FR3ADY",
-          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
-        },
-        {
-          "name": "JULIANNA",
-          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
-        }
-      ],
-      "duration_ms": 211535,
-      "name": "High On A Feeling",
-      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+      "duration_ms": 153230,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1599,18 +1575,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+        "name": "Beg You",
+        "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
       },
       "artists": [
         {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
         }
       ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
+      "duration_ms": 211875,
+      "name": "Beg You",
+      "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1647,6 +1631,22 @@
       "duration_ms": 168904,
       "name": "Sirius",
       "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1819,46 +1819,18 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Luv 4 U EP",
-        "url": "https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "SEIZMIC",
-          "url": "https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd"
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
         }
       ],
-      "duration_ms": 327619,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+      "duration_ms": 225048,
+      "name": "VEINS",
+      "url": "https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1887,18 +1859,46 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A"
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
       "artists": [
         {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
         }
       ],
-      "duration_ms": 225048,
-      "name": "VEINS",
-      "url": "https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8"
+      "duration_ms": 197272,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
+        "name": "Luv 4 U EP",
+        "url": "https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "SEIZMIC",
+          "url": "https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd"
+        }
+      ],
+      "duration_ms": 327619,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "duration_ms": 257641,
+      "name": "million angels",
+      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 190471,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "SYNCHRONICITY",
-        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 257641,
-      "name": "million angels",
-      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
     },
     {
       "added_at": "2026-09-04 04:01:13",

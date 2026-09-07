@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-133 songs - 6 hr 57 min
+134 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Pegate](https://open.spotify.com/track/3wmfO0mDUmLCxMuUoR5Ldu) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:45 | 2025-03-26 | 2025-04-02 |
 | [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 | 2024-08-07 |
 | [Pegate](https://open.spotify.com/track/4lIGs3YtSyB99WuOh4OLIq) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:45 | 2025-10-14 | 2026-08-28 |
-| [Pegate](https://open.spotify.com/track/5KB6iSVcgMfEMp05Z0iwn8) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:45 | 2026-08-03 |  |
+| [Pegate](https://open.spotify.com/track/5KB6iSVcgMfEMp05Z0iwn8) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:45 | 2026-08-03 | 2026-09-07 |
 | [Pilita](https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6izvyhwMROBRGRZewggfra) | 2:58 | 2025-06-03 | 2025-12-15 |
 | [Pilita](https://open.spotify.com/track/5piUgE2U1yqAADrkUb6oFM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6W0MM8aD5jKmefxReDfxIk) | 2:58 | 2024-06-19 | 2024-08-07 |
 | [Pilita \- Remix](https://open.spotify.com/track/5EIjKDRZ6IZkNtaBvMOi9P) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(Remix\)](https://open.spotify.com/album/4AxaZrNKROnjlgwtBUWKaD) | 3:06 | 2025-04-09 | 2025-06-03 |
@@ -118,6 +118,7 @@
 | [Sense](https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:36 | 2024-07-12 | 2025-05-22 |
 | [Sense](https://open.spotify.com/track/4gmypDnA21tw6dLXFutNn5) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:36 | 2026-03-23 | 2026-08-29 |
 | [Si estoy contigo](https://open.spotify.com/track/0NXbFGO2dDZoarxny3GE1h) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Si estoy contigo](https://open.spotify.com/album/3h5wlOLNHcI3K2FYMJFxXx) | 3:11 | 2024-06-19 | 2024-07-17 |
+| [Si Estoy Contigo](https://open.spotify.com/track/2HvA61OpqYXUilu8IqAo72) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 3:32 | 2026-09-07 |  |
 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2wYbPVYt2C7GKSTDCCKnHm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:32 | 2025-06-14 |  |
 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/0cyZvSOWFTyE80QXNNraTy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 3:32 | 2025-05-31 | 2025-06-14 |
 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:36 | 2024-07-17 | 2025-05-31 |

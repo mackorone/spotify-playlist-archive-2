@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-31",
+      "date_removed": null,
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "ANYMORE 1.0",
+        "url": "https://open.spotify.com/album/0ewEi6ZoqPalEdScQSq8Di"
+      },
+      "artists": [
+        {
+          "name": "Madame Scarlett",
+          "url": "https://open.spotify.com/artist/3iU0jTGS7Uk8R944IWiAB1"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132310,
+      "name": "ANYMORE 1.0",
+      "url": "https://open.spotify.com/track/5knj4p29ewaqFLHGcguK1c"
+    },
+    {
+      "album": {
         "name": "ARE YOU NASTY?",
         "url": "https://open.spotify.com/album/1F5259EHWHtboIVSg00Qcf"
       },
@@ -788,7 +810,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 181777,
       "name": "BEAR YOUR FANGS",
       "url": "https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G"
@@ -952,7 +974,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 117931,
       "name": "BOARD GAME",
       "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 109594,
       "name": "choke it out!",
       "url": "https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 173000,
       "name": "Choker",
       "url": "https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1"
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 204403,
       "name": "DON'T CALL ME @ THE CLUB",
       "url": "https://open.spotify.com/track/2PXv2TL20SdUSZRiv2GhEU"
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 185403,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
@@ -2988,7 +3010,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 168099,
       "name": "I WAS SCARED OF U LOL",
       "url": "https://open.spotify.com/track/6fIyzpKCXtgpeR5YJY9jAq"
@@ -3054,7 +3076,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 278700,
       "name": "i'm down",
       "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
@@ -3130,7 +3152,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -3268,7 +3290,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 120052,
       "name": "indecision - kittydog remix!!",
       "url": "https://open.spotify.com/track/0VZGHTNfeQ1bPYxcg7rH6Y"
@@ -3714,7 +3736,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3808,7 +3830,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 193885,
       "name": "Like It Never Happened",
       "url": "https://open.spotify.com/track/7CuugUWtJwr1KroazE3l1n"
@@ -4652,7 +4674,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 182624,
       "name": "outcast",
       "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
@@ -5130,7 +5152,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5228,7 +5250,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Quit While You're Ahead",
       "url": "https://open.spotify.com/track/4mFw7zUabimfD1c58wleuZ"
@@ -5766,7 +5788,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 248000,
       "name": "Stay true",
       "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
@@ -6414,7 +6436,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 249692,
       "name": "UNDER THE MOON",
       "url": "https://open.spotify.com/track/4x6N95mRNVrJmzvAwAPIhW"

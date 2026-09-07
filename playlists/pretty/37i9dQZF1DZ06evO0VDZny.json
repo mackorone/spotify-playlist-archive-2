@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 520421,
+  "num_followers": 520721,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACxon6lHIA2b5eKNEmDtzRJ",
+  "snapshot_id": "aptbgAAAAACK94Rscw3MjaP6AEN/qZPo",
   "tracks": [
     {
       "added_at": null,
@@ -808,33 +808,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Kanisan",
-          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
         }
       ],
-      "duration_ms": 188288,
-      "name": "in_the_dark.ech",
-      "url": "https://open.spotify.com/track/78mP1BhsKkinyPyFK0whIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo-files",
-        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
-        }
-      ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 201468,
+      "name": "DiE4u.sysrsk",
+      "url": "https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt"
     },
     {
       "added_at": null,
@@ -872,13 +852,33 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "HM Surf",
-          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 201468,
-      "name": "DiE4u.sysrsk",
-      "url": "https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt"
+      "duration_ms": 218993,
+      "name": "DOOMED.errX",
+      "url": "https://open.spotify.com/track/6veSof7cuSd7lh43upiltK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo-files",
+        "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+        }
+      ],
+      "duration_ms": 290201,
+      "name": "(U)topia.drm",
+      "url": "https://open.spotify.com/track/2FL4io3YitOqpZPOZp17By"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

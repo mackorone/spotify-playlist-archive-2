@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-644 songs - 1 day 14 hr 15 min
+645 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Horoscope](https://open.spotify.com/track/0EIiyuu3CJsaxDQa7ErM1w) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Dear Vancouver / Cher Montréal](https://open.spotify.com/album/2H4s2ePccwQL6sj6oT5XaT) | 4:02 | 2023-11-10 | 2024-03-11 |
 | [Horoscope](https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Horoscope / Cher Montréal](https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9) | 4:02 | 2023-10-06 | 2023-11-23 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-09-26 |
+| [how about you](https://open.spotify.com/track/4fT8g8gOjuESajNpgHESDU) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [how about you](https://open.spotify.com/album/0LKNZWKYoMpgkyEhxUVxWl) | 2:48 | 2026-09-04 |  |
 | [Hôtel W](https://open.spotify.com/track/1m4j2CTdFInGzB9LhUx3ST) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Hôtel W](https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD) | 3:08 | 2021-01-03\* | 2021-01-27 |
 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 | 2024-05-17 |  |
 | [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 | 2025-12-11 |
@@ -628,7 +629,7 @@
 | [Where We Belong](https://open.spotify.com/track/4L9DijwYJ2PvqthNHUEkCE) | [a\-ron songs](https://open.spotify.com/artist/2SZ54u0MjmVUb0TXMZbpc5) | [Where We Belong](https://open.spotify.com/album/0NezjgTpBYmbtHcee8j9fy) | 3:45 | 2026-02-06 | 2026-06-13 |
 | [Wicked Game](https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl) | [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH), [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Wicked Game](https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t) | 3:58 | 2026-06-12 | 2026-08-10 |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
-| [Win of the Century](https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh) | [Aidan Rex](https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9) | [Win of the Century](https://open.spotify.com/album/791e4R93yIduaysv9IRthG) | 2:52 | 2026-08-28 |  |
+| [Win of the Century](https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh) | [Aidan Rex](https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9) | [Win of the Century](https://open.spotify.com/album/791e4R93yIduaysv9IRthG) | 2:52 | 2026-08-28 | 2026-09-07 |
 | [Wish You Well](https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ) | [Cath Darbouze](https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV) | [Wish You Well](https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID) | 3:27 | 2025-11-07 | 2026-05-05 |
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2021-10-03 | 2025-03-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,176 likes - 102 songs - 5 hr 20 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,174 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,5 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 98 | [Where Love Lives \- MK Remix](https://open.spotify.com/track/1PklFCtCsOBrsP8DYYZeW8) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Where Love Lives \(MK Remix\)](https://open.spotify.com/album/40Kvzh94VVqWi8xzCFaWN7) | 2:27 |
 | 99 | [Nights Like These \(with Rag'n'Bone Man\)](https://open.spotify.com/track/4UQRLiHGpLcQt5O1TyBCie) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [RUDIM3NTAL](https://open.spotify.com/album/4jcfyx9nXciFXqyh5zHQ20) | 3:27 |
 | 100 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
-| 101 | [Kick The Nation](https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Kick The Nation](https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X) | 2:03 |
-| 102 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
 
-Snapshot ID: `AAARcXzZ0Do0gQd3tYmZDtpHOJHYPsj6`
+Snapshot ID: `AAARcjD+OSVPeleYZ8xTf7BrvPZMEwgw`

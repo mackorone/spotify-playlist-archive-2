@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,136 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 |
 | 2 | [\(We'll Be\) United](https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:49 |
-| 3 | [Come Home Soon](https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Sound of Philadelphia Soul](https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb) | 2:11 |
-| 4 | [Come Home Soon](https://open.spotify.com/track/45X6sLFd4CC7hZYmbkvRxl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Come Home Soon](https://open.spotify.com/album/5G1FG9OEFV5SoJTXql9QB3) | 2:12 |
+| 3 | [Come Home Soon](https://open.spotify.com/track/45X6sLFd4CC7hZYmbkvRxl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Come Home Soon](https://open.spotify.com/album/5G1FG9OEFV5SoJTXql9QB3) | 2:12 |
+| 4 | [Come Home Soon](https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Sound of Philadelphia Soul](https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb) | 2:11 |
 | 5 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:00 |
 | 6 | [Together](https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:57 |
 | 7 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 9 | [Friends No More](https://open.spotify.com/track/2o3WT6RdrJcjRcXzLYfiMg) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:59 |
 | 10 | [A Love That's Real](https://open.spotify.com/track/79qtqjD96u81j1cgGk0tGM) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:55 |
 | 11 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 |
-| 12 | [I'm Calling](https://open.spotify.com/track/3RjcNNuyAWYXmrulaD21CF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Rare Doo Wop, Vol\. 4](https://open.spotify.com/album/5VP0K1yc9SneXKF6KAnZd3) | 2:20 |
+| 12 | [I’m Calling](https://open.spotify.com/track/7xF23dRKwrqSyqY6EYCOFF) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Calling](https://open.spotify.com/album/00qfRHWJHUDbACVn7H373W) | 2:18 |
 | 13 | [\(Love Is Like A\) Baseball Game](https://open.spotify.com/track/4Lg5z4lC7u1GPSeYvHPPi6) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:48 |
 | 14 | [Gonna Be Strong](https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:46 |
 | 15 | [Memories are Here to Stay](https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:17 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 36 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 |
 | 37 | [Gloria](https://open.spotify.com/track/1YRGkekv3wu6cn5RcTio6t) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:28 |
 | 38 | [Tender \(Was The Love We Knew\)](https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:41 |
-| 39 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
+| 39 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 |
 | 40 | [I’m Sold on You](https://open.spotify.com/track/7lGyHxdp14qdveB9CSuGUx) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [I’m Sold on You](https://open.spotify.com/album/2NcbspIsbWVrNmJBDaNlP5) | 2:03 |
-| 41 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
+| 41 | [Just to Be](https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:19 |
 | 42 | [I Didn't Know](https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:46 |
-| 43 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 |
+| 43 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
 | 44 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 45 | [Just to Be](https://open.spotify.com/track/0UzMNUO5s1YBIfeobxBN3R) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/1CVQxatqRY5So32JciECld) | 2:19 |
-| 46 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
+| 45 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
+| 46 | [\(YOU'D BETTER\) CHECK YOURSELF \- Live At The Nixon Theatre 1967](https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Jimmy Bishop On Stage Live At The Nixon Theatre](https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx) | 3:58 |
 | 47 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
-| 48 | [\(YOU'D BETTER\) CHECK YOURSELF \- Live At The Nixon Theatre 1967](https://open.spotify.com/track/1AMMycsPmSN3ncaT7Pz9CJ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Jimmy Bishop On Stage Live At The Nixon Theatre](https://open.spotify.com/album/3UiOnIyrrjMwACY2xq86Nx) | 3:58 |
+| 48 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
 | 49 | [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 |
 | 50 | [A DEVIL WITH AN ANGELS SMILE](https://open.spotify.com/track/2u1LuyxuQ4gJZvsk9tsK23) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [ザ・イントゥルーダーズ・アー・トゥゲザー](https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa) | 3:02 |
 
-Snapshot ID: `apoKAAAAAACENIeJl3oaMuoam+Fupq2F`
+Snapshot ID: `aptbgAAAAABQf0EbHOaEgkrN2eg9s8V9`

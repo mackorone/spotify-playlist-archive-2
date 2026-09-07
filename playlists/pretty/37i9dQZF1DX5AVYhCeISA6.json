@@ -1,6 +1,6 @@
 {
   "description": "KAROL G nos inspira \ud83c\udf3c",
-  "num_followers": 615046,
+  "num_followers": 615006,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
         "name": "Minifalda",
         "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 178946,
       "name": "Minifalda",
       "url": "https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt"
     },
     {
       "added_at": "2025-12-10 17:18:06",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
-        "name": "La Chain",
-        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 139518,
-      "name": "La Chain",
-      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158373,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": "2025-12-10 17:18:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-10 17:18:06",
       "album": {
-        "name": "Otro Huev\u00f3n",
-        "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Otro Huev\u00f3n",
-      "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
-    },
-    {
-      "added_at": "2025-12-10 17:18:06",
-      "album": {
         "name": "un mech\u00f3n de pelo",
         "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 172909,
       "name": "bien",
       "url": "https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482"
+    },
+    {
+      "added_at": "2025-12-10 17:18:06",
+      "album": {
+        "name": "Otro Huev\u00f3n",
+        "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Otro Huev\u00f3n",
+      "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
     },
     {
       "added_at": "2025-12-10 17:18:06",

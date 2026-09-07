@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 267467,
+  "num_followers": 267504,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Ricky Martin MTV Unplugged",
-        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
+        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
+        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Chambao",
-          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
-        },
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 247866,
-      "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+      "duration_ms": 197533,
+      "name": "As\u00ed Era Ella - Primera Fila - Live Version",
+      "url": "https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -399,18 +391,26 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Cristian Castro En Primera Fila - D\u00eda 1",
-        "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
+        "name": "Ricky Martin MTV Unplugged",
+        "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        },
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         }
       ],
-      "duration_ms": 197533,
-      "name": "As\u00ed Era Ella - Primera Fila - Live Version",
-      "url": "https://open.spotify.com/track/2eqn7Q34pcc3X1h1Ra68dm"
+      "duration_ms": 247866,
+      "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Tour Terral (Tres noches en Las Ventas)",
         "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 297205,
       "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
       "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 203346,
       "name": "La Duda (Primera fila) - En Vivo",
       "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 277640,
+      "name": "Qu\u00e9 Ser\u00e1 de Ti - Como Vai Voce (Live Version)",
+      "url": "https://open.spotify.com/track/26eGXAycoJtHYZuKXuki3Z"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Franco De Vita Vuelve en Primera Fila",
         "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 250960,
       "name": "Te Pienso Sin Querer (feat. Gloria Trevi) - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 277640,
-      "name": "Qu\u00e9 Ser\u00e1 de Ti - Como Vai Voce (Live Version)",
-      "url": "https://open.spotify.com/track/26eGXAycoJtHYZuKXuki3Z"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
       },
@@ -727,18 +747,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "La Guzm\u00e1n en Primera Fila",
-        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 224866,
-      "name": "Yo Te Esperaba - Primera Fila [En Vivo]",
-      "url": "https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR"
+      "duration_ms": 249360,
+      "name": "El Pr\u00f3ximo Viernes - Live Version",
+      "url": "https://open.spotify.com/track/3ug4KguxOFtVOpq2zDY6uh"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -755,22 +775,6 @@
       "duration_ms": 234040,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "El Pr\u00f3ximo Viernes - Live Version",
-      "url": "https://open.spotify.com/track/3ug4KguxOFtVOpq2zDY6uh"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -795,22 +799,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+        "name": "La Guzm\u00e1n en Primera Fila",
+        "url": "https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
-      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+      "duration_ms": 224866,
+      "name": "Yo Te Esperaba - Primera Fila [En Vivo]",
+      "url": "https://open.spotify.com/track/3YT6mjbJ2VL7wBI95LDzNR"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -827,6 +827,22 @@
       "duration_ms": 257773,
       "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
       "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+      },
+      "artists": [
+        {
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
+      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
-      },
-      "artists": [
-        {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
-      "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -891,18 +891,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+        "name": "Ha-Ash \"En Vivo\"",
+        "url": "https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 271106,
-      "name": "Mariposa Traicionera - En Vivo",
-      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
+      "duration_ms": 329797,
+      "name": "Si T\u00fa No Vuelves (feat. Miguel Bos\u00e9) - En Vivo",
+      "url": "https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy"
     }
   ],
   "unique_name": "Vivo de Pop",

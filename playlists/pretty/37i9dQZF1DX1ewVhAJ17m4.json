@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604471,
+  "num_followers": 604457,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 206867,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "I Think I've Heard This Before",
         "url": "https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 152624,
       "name": "Twice",
       "url": "https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 206867,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1091,38 +1091,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 218583,
-      "name": "Under My Sweater",
-      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Burst & Decay (Volume III)",
         "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 218583,
+      "name": "Under My Sweater",
+      "url": "https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "INMYFEELINGS",
         "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 212464,
       "name": "INMYFEELINGS",
       "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Circulate",
         "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 159537,
       "name": "Circulate",
       "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",

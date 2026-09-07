@@ -559,22 +559,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Just For Me",
-      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "One Church",
         "url": "https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 399400,
       "name": "They Didn't Know",
       "url": "https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Just For Me",
+      "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Psalms, Hymns & Spiritual Songs",
+        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 341120,
+      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
+      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Cross Music",
         "url": "https://open.spotify.com/album/3z24Ma8w7dD4WkQ67D7o57"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Psalms, Hymns & Spiritual Songs",
-        "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 341120,
-      "name": "Blood Medley (Part 3) - I Know It Was The Blood",
-      "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Then Sings My Soul",
-        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 337440,
-      "name": "He Didn't Have To Do It",
-      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Then Sings My Soul",
+        "url": "https://open.spotify.com/album/6iisYpnZhqiG0YV27QjJo9"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 337440,
+      "name": "He Didn't Have To Do It",
+      "url": "https://open.spotify.com/track/78qrs0P8o0u1MketFZ6YsV"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+      },
+      "artists": [
+        {
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+        }
+      ],
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Beginnings",
         "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
       },
       "artists": [
         {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
         }
       ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
-      },
-      "artists": [
-        {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Sing A Nu Song",
         "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Another Chapter, Psalms 51",
-        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
-      },
-      "artists": [
-        {
-          "name": "Parkes Stewart",
-          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
-        }
-      ],
-      "duration_ms": 356179,
-      "name": "He Loves Me",
-      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Live In Detroit (Live)",
         "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 450840,
       "name": "Cherish The Cross",
       "url": "https://open.spotify.com/track/7BranHqbktqdiojkd0r07A"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Another Chapter, Psalms 51",
+        "url": "https://open.spotify.com/album/6GjsgwwG6Bp1t6rTXwQ6x5"
+      },
+      "artists": [
+        {
+          "name": "Parkes Stewart",
+          "url": "https://open.spotify.com/artist/3OpTYiTC0KK2TGgej8FbFh"
+        }
+      ],
+      "duration_ms": 356179,
+      "name": "He Loves Me",
+      "url": "https://open.spotify.com/track/3PAbgmt3d00mfWqz4duX13"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1355,6 +1355,34 @@
       "duration_ms": 322952,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1GVoAvmKWwKJUPCvPh3oC5"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "duration_ms": 603749,
+      "name": "The Blood Is Still The Blood",
+      "url": "https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1543,34 +1571,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1GVoAvmKWwKJUPCvPh3oC5"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        },
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        }
-      ],
-      "duration_ms": 603749,
-      "name": "The Blood Is Still The Blood",
-      "url": "https://open.spotify.com/track/65Jdm8GrXA8JuNYSgw3YQb"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "The Cry: A Live Worship Experience",
         "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
-      },
-      "artists": [
-        {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
-        }
-      ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Classics Vol. 1",
+        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Jesus Is the Answer",
+      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Classics Vol. 1",
-        "url": "https://open.spotify.com/album/6XLI4B9L9q2wL9oUKLqzrE"
-      },
-      "artists": [
-        {
-          "name": "Andrae Crouch",
-          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Jesus Is the Answer",
-      "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
     },
     {
       "added_at": "2026-04-04 06:06:32",

@@ -1,6 +1,6 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 107130,
+  "num_followers": 107138,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 268822,
-      "name": "Staying Still",
-      "url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW"
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -287,18 +287,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 160244,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+      "duration_ms": 268822,
+      "name": "Staying Still",
+      "url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 168733,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Happiness Anytime: Part 2",
         "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178702,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
         "name": "Surf Hat",
         "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 261747,
       "name": "Going Shopping",
       "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Such Jubilee",
-        "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Old Ties and Companions",
-      "url": "https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "I Must Be Dreaming",
         "url": "https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 226915,
       "name": "Tea Time",
       "url": "https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Such Jubilee",
+        "url": "https://open.spotify.com/album/3hwYI0XK165g3EOCedgOMZ"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Old Ties and Companions",
+      "url": "https://open.spotify.com/track/6n7Aj8Ok0kyktLxFjcUreo"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "When I Get Drunk (I Want You Boy)",
-        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "When I Get Drunk (I Want You Boy)",
-      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 289080,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
         "name": "Call On Me",
         "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 244500,
       "name": "Everybody Scream",
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "INFINITE LOVE",
+        "url": "https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "INFINITE LOVE",
+      "url": "https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -983,18 +999,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Fire From The Hip",
-        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
+        "name": "Something In The Way",
+        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
       },
       "artists": [
         {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 204052,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
+      "duration_ms": 302592,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Something In The Way",
-        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
+        "name": "Fire From The Hip",
+        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
         }
       ],
-      "duration_ms": 302592,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
+      "duration_ms": 204052,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -1059,22 +1075,6 @@
       "duration_ms": 179342,
       "name": "maple brown",
       "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
-        "name": "INFINITE LOVE",
-        "url": "https://open.spotify.com/album/0R37xsPjId1TbU0MJZTxoH"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "INFINITE LOVE",
-      "url": "https://open.spotify.com/track/5woqXixPJYLecFUWDcqjn5"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Surf Hat",
-        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
-      },
-      "artists": [
-        {
-          "name": "Surf Hat",
-          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
-        }
-      ],
-      "duration_ms": 253148,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
         }
       ],
-      "duration_ms": 277580,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
+      "duration_ms": 253148,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/0vhle5cdnSADMEScmkYd32"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -1207,6 +1191,22 @@
       "duration_ms": 195773,
       "name": "Big Wheel",
       "url": "https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 277580,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
     },
     {
       "added_at": "2026-08-28 01:24:57",

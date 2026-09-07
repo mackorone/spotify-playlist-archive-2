@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 461150,
+  "num_followers": 461176,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "This Could Be Texas",
         "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 281663,
       "name": "Mastermind Specialism",
       "url": "https://open.spotify.com/track/3l15uHUQYJJjtKOvOec5Xc"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Hazards",
+        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 199496,
+      "name": "Dead Girls",
+      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Piggy",
-        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Turn Off The Noise",
-      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Piggy",
+        "url": "https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Turn Off The Noise",
+      "url": "https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Spelling",
-        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
-      },
-      "artists": [
-        {
-          "name": "Lola Leon",
-          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
-        }
-      ],
-      "duration_ms": 241133,
-      "name": "Spelling",
-      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Treat Her Strangely",
         "url": "https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH"
       },
@@ -1231,18 +1215,34 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Tape V",
-        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
+        "name": "Spelling",
+        "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
       "artists": [
         {
-          "name": "Daniel Spaleniak",
-          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
+          "name": "Lola Leon",
+          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
         }
       ],
-      "duration_ms": 177801,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
+      "duration_ms": 241133,
+      "name": "Spelling",
+      "url": "https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+        "name": "Tape V",
+        "url": "https://open.spotify.com/album/24t3OdqKwiz0ePiBCBsScw"
       },
       "artists": [
         {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+          "name": "Daniel Spaleniak",
+          "url": "https://open.spotify.com/artist/2OnWZezIAII3VLBCxG5gQs"
         }
       ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+      "duration_ms": 177801,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/3mD05E4WmEnVCC8bQgpQEd"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Whole Lotta Nothing",
         "url": "https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Ecstasy Homosexuality",
-        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
       },
       "artists": [
         {
-          "name": "The Irrepressibles",
-          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 240335,
-      "name": "Ecstasy Homosexuality - Radio Edit",
-      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1435,6 +1419,22 @@
       "duration_ms": 160204,
       "name": "Abandon",
       "url": "https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Ecstasy Homosexuality",
+        "url": "https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        }
+      ],
+      "duration_ms": 240335,
+      "name": "Ecstasy Homosexuality - Radio Edit",
+      "url": "https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 231242,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Covered In Hether",
         "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 191860,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 231242,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Within a Dream",
-        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
-      },
-      "artists": [
-        {
-          "name": "White Flowers",
-          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
-        }
-      ],
-      "duration_ms": 233556,
-      "name": "Blue May",
-      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "I Don't Know",
         "url": "https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 330880,
       "name": "Alps",
       "url": "https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Within a Dream",
+        "url": "https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "duration_ms": 233556,
+      "name": "Blue May",
+      "url": "https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Head of the Love Club",
         "url": "https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 175500,
       "name": "Little Vampire",
       "url": "https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2026-02-19 15:33:55",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 300056,
+  "num_followers": 300055,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAD2tb9V9uhm+9Vwa78qRPLd",
+  "snapshot_id": "aptbgAAAAAA3RoYVSR8h7/pniAJZYexB",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 187053,
-      "name": "Instead of Here",
-      "url": "https://open.spotify.com/track/1QD7a9ciI9Am84WGZeEtHh"
+      "duration_ms": 168440,
+      "name": "Cats",
+      "url": "https://open.spotify.com/track/6CAb8TuA5yvfXoNWCUZdgh"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 109431,
-      "name": "Fireproof",
-      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+      "duration_ms": 144250,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 168440,
-      "name": "Cats",
-      "url": "https://open.spotify.com/track/6CAb8TuA5yvfXoNWCUZdgh"
+      "duration_ms": 187053,
+      "name": "Instead of Here",
+      "url": "https://open.spotify.com/track/1QD7a9ciI9Am84WGZeEtHh"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -584,25 +600,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 144250,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "I Don't Like My Mind",
-      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
+      "duration_ms": 114277,
+      "name": "Strawberry Blond",
+      "url": "https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 114277,
-      "name": "Strawberry Blond",
-      "url": "https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+      "duration_ms": 145026,
+      "name": "I Don't Like My Mind",
+      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -712,9 +728,25 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 185070,
-      "name": "Because Dreaming Costs Money, My Dear",
-      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
+      "duration_ms": 190218,
+      "name": "Square",
+      "url": "https://open.spotify.com/track/64u6Y9b4sRGREmG4a6PX9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 158617,
+      "name": "Working for the Knife",
+      "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
     },
     {
       "added_at": null,
@@ -744,25 +776,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 158617,
-      "name": "Working for the Knife",
-      "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 190218,
-      "name": "Square",
-      "url": "https://open.spotify.com/track/64u6Y9b4sRGREmG4a6PX9E"
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 168480,
       "name": "The Frost",
       "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "Stay Soft",
-      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "New morning mercies. \u2600\ufe0f",
-  "num_followers": 125147,
+  "num_followers": 125172,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Hallelujah Feeling",
-        "url": "https://open.spotify.com/album/2dTbnuV1z5Nk5W8oaWPK3S"
+        "name": "Gonna Be Good",
+        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
       },
       "artists": [
         {
-          "name": "Caleb & John",
-          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 187056,
-      "name": "Hallelujah Feeling",
-      "url": "https://open.spotify.com/track/5Gyg9RufRKGzTtzafw2bK6"
+      "duration_ms": 183213,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -219,18 +219,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Gonna Be Good",
-        "url": "https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g"
+        "name": "Hallelujah Feeling",
+        "url": "https://open.spotify.com/album/2dTbnuV1z5Nk5W8oaWPK3S"
       },
       "artists": [
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
         }
       ],
-      "duration_ms": 183213,
-      "name": "Gonna Be Good",
-      "url": "https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U"
+      "duration_ms": 187056,
+      "name": "Hallelujah Feeling",
+      "url": "https://open.spotify.com/track/5Gyg9RufRKGzTtzafw2bK6"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "Be Glad (Live)",
-        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 533500,
-      "name": "Be Glad - Live",
-      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "YES BE YES",
         "url": "https://open.spotify.com/album/61bZIMzzqIpNzkDgHmnQGj"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 165619,
       "name": "YES BE YES",
       "url": "https://open.spotify.com/track/3InQ4YRFxbpi3wKYuQWxKU"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "Be Glad (Live)",
+        "url": "https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 533500,
+      "name": "Be Glad - Live",
+      "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -727,6 +727,30 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Rise My Soul, The Lord Is Risen",
+        "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
+      },
+      "artists": [
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 200415,
+      "name": "Rise My Soul, The Lord Is Risen",
+      "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Happy Song",
         "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 267933,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Rise My Soul, The Lord Is Risen",
-        "url": "https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl"
-      },
-      "artists": [
-        {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
-        },
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        },
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 200415,
-      "name": "Rise My Soul, The Lord Is Risen",
-      "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "alright <3",
         "url": "https://open.spotify.com/album/4vn8PhGIvol3OtMPriOFiq"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 228074,
       "name": "alright <3",
       "url": "https://open.spotify.com/track/3B3UXCixeVlTOyJS0dkMi9"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 126764,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Shine On Me",
         "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 187894,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 126764,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "honeydew (praise the Lord)",
-        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "honeydew (praise the Lord)",
-      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "All Eyes On You",
         "url": "https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 289946,
       "name": "All Eyes On You",
       "url": "https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "honeydew (praise the Lord)",
+        "url": "https://open.spotify.com/album/6ESF33a58FmO9nlaTLyOYz"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "honeydew (praise the Lord)",
+      "url": "https://open.spotify.com/track/4jFxBBeTJtvQSKMcdrCDPV"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "GOOD THING",
-        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 153770,
-      "name": "GOOD THING",
-      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
         "name": "So Blessed",
         "url": "https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt"
       },
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
-        "name": "THIS IS THE DAY",
-        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+        "name": "GOOD THING",
+        "url": "https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7"
       },
       "artists": [
         {
-          "name": "Vintage Worship",
-          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
-        },
-        {
-          "name": "Joshua Seller",
-          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
         }
       ],
-      "duration_ms": 224081,
-      "name": "THIS IS THE DAY",
-      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
+      "duration_ms": 153770,
+      "name": "GOOD THING",
+      "url": "https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1219,6 +1199,26 @@
       "duration_ms": 254000,
       "name": "awakening",
       "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
+        "name": "THIS IS THE DAY",
+        "url": "https://open.spotify.com/album/7KKCTcSzQTJMlmeP0C43T7"
+      },
+      "artists": [
+        {
+          "name": "Vintage Worship",
+          "url": "https://open.spotify.com/artist/0qUuZVm9ly1AlsuZyYMQwp"
+        },
+        {
+          "name": "Joshua Seller",
+          "url": "https://open.spotify.com/artist/0hMcMrkgNgJC7oO82fZsli"
+        }
+      ],
+      "duration_ms": 224081,
+      "name": "THIS IS THE DAY",
+      "url": "https://open.spotify.com/track/15ZHJggxSsnjk3CbQH0SCd"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
+      },
+      "artists": [
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "Makes My Day",
         "url": "https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 295882,
       "name": "Makes My Day",
       "url": "https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3"
-      },
-      "artists": [
-        {
-          "name": "Dillon Chase",
-          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su"
     },
     {
       "added_at": "2026-07-29 15:45:01",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-07-29 15:45:01",
       "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
+      },
+      "artists": [
+        {
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
+    },
+    {
+      "added_at": "2026-07-29 15:45:01",
+      "album": {
         "name": "WAKE UP",
         "url": "https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 150198,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ"
-    },
-    {
-      "added_at": "2026-07-29 15:45:01",
-      "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs"
-      },
-      "artists": [
-        {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Surrounded",
-      "url": "https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA"
     },
     {
       "added_at": "2026-07-29 15:45:01",

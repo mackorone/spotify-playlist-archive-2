@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 83521,
+  "num_followers": 83528,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 587133,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
-      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
+      "duration_ms": 680200,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
+      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
-      "duration_ms": 680200,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
-      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
+      "duration_ms": 587133,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
+      "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
-        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Pavel Haas Quartet",
-          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
-        }
-      ],
-      "duration_ms": 642333,
-      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
-      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
         "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
       },
@@ -667,8 +647,8 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Bruch & Dvorak Violin Concertos",
-        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
+        "name": "Dvo\u0159\u00e1k: String Quartets Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/1DkQ0bddfB6GipbyL1DpvM"
       },
       "artists": [
         {
@@ -676,21 +656,13 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Julia Fischer",
-          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
         }
       ],
-      "duration_ms": 611453,
-      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
-      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
+      "duration_ms": 642333,
+      "name": "String Quartet No. 13 in G Major, Op. 106, B. 192: IV. Finale. Andante sostenuto - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/58UGcmPEL1BGmDwkaZsBwH"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -723,6 +695,34 @@
       "duration_ms": 724986,
       "name": "Cello Concerto in B Minor, Op. 104, B. 191: III. Finale (Allegro moderato)",
       "url": "https://open.spotify.com/track/0ygz2fsLGI8OxWoPkprr6D"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Bruch & Dvorak Violin Concertos",
+        "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 611453,
+      "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
+      "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
     },
     {
       "added_at": "2025-12-22 11:34:49",
@@ -867,30 +867,6 @@
     {
       "added_at": "2025-12-22 11:34:49",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
-        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Luzerner Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
-        },
-        {
-          "name": "James Gaffigan",
-          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
-        }
-      ],
-      "duration_ms": 288680,
-      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
-      "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
-    },
-    {
-      "added_at": "2025-12-22 11:34:49",
-      "album": {
         "name": "Tchaikovsky: Serenade For Strings / Dvor\u00e1k: Serenade For Strings",
         "url": "https://open.spotify.com/album/2lf78D4V5E0khuU33D3qVZ"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 296000,
       "name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
       "url": "https://open.spotify.com/track/4Uk5HBXrc3bo5q0d2uqnhk"
+    },
+    {
+      "added_at": "2025-12-22 11:34:49",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
+        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        },
+        {
+          "name": "James Gaffigan",
+          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
+        }
+      ],
+      "duration_ms": 288680,
+      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: I. Andante con moto",
+      "url": "https://open.spotify.com/track/2jwG0ipR11UNSI9XUzusQ0"
     },
     {
       "added_at": "2025-12-22 11:34:49",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 108090,
+  "num_followers": 108098,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 179000,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -763,54 +763,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2wOU5oe6u4X5TOr6THpoRL"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "\u00bfDonde Andar\u00e1s? - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5PK96HD0YYz6IgLg4e7fRn"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -831,6 +783,38 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
         "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
       },
@@ -843,6 +827,42 @@
       "duration_ms": 249576,
       "name": "Coritos Medley 2.0",
       "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Favor y Gracia",
+        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 224156,
+      "name": "Esta Fiesta",
+      "url": "https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2wOU5oe6u4X5TOr6THpoRL"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "\u00bfDonde Andar\u00e1s? - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5PK96HD0YYz6IgLg4e7fRn"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -875,26 +895,6 @@
       "duration_ms": 257385,
       "name": "Van God",
       "url": "https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Favor y Gracia",
-        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 224156,
-      "name": "Esta Fiesta",
-      "url": "https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Alegria Latina",
-        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
-      },
-      "artists": [
-        {
-          "name": "Yan Rymond",
-          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Entre Familia",
         "url": "https://open.spotify.com/album/5AA6llt0xgT2wPXcrW5DyO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 200105,
       "name": "Demasiado Amor - Salsa",
       "url": "https://open.spotify.com/track/2xX5LxxeVvyUVZQZ6E664S"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Alegria Latina",
+        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
+      },
+      "artists": [
+        {
+          "name": "Yan Rymond",
+          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Mec\u00e1nico",
-        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Mec\u00e1nico",
-      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Lleg\u00f3 el Culto (Remix)",
         "url": "https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Mec\u00e1nico",
+        "url": "https://open.spotify.com/album/2VDjp95mLNDABNI9G2NNkU"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Mec\u00e1nico",
+      "url": "https://open.spotify.com/track/76KXw6LImaUZKAn6YPceNq"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Salvame",
         "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 185528,
       "name": "Nada Sin Ti",
       "url": "https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Abr\u00e1zame M\u00e1s",
-        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Abr\u00e1zame M\u00e1s",
-      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1215,6 +1199,22 @@
       "duration_ms": 268613,
       "name": "Sinceridad",
       "url": "https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Abr\u00e1zame M\u00e1s",
+        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Abr\u00e1zame M\u00e1s",
+      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 270807,
       "name": "NAZARENO",
       "url": "https://open.spotify.com/track/1zw8W2e8YV0fRj5cUbjc6c"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "SOL",
         "url": "https://open.spotify.com/album/05XeZ32oWQ7sBFZRCkWSOr"
       },
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Agarra La Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
       },
       "artists": [
         {
-          "name": "Banda Punto de Encuentro",
-          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
-        },
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
         }
       ],
-      "duration_ms": 191447,
-      "name": "Agarra La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1563,6 +1543,26 @@
       "duration_ms": 161000,
       "name": "Me Dejo Llevar",
       "url": "https://open.spotify.com/track/02GImCAVTR7qOfzBpT7qIj"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Agarra La Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto de Encuentro",
+          "url": "https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn"
+        },
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 191447,
+      "name": "Agarra La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1619,22 +1619,6 @@
       "duration_ms": 207965,
       "name": "Te Entrego Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/7J4irmLEusLkjIZJWOign4"
       },
@@ -1727,26 +1727,6 @@
       "duration_ms": 211000,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/58EYT5eV7H7VL46V9O2TNM"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Eternamente Te Amo",
-        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
-      },
-      "artists": [
-        {
-          "name": "Jafet",
-          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
-        },
-        {
-          "name": "Melody Joyce",
-          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
-        }
-      ],
-      "duration_ms": 261461,
-      "name": "Eternamente Te Amo",
-      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1783,18 +1763,42 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+        "name": "Eternamente Te Amo",
+        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
       },
       "artists": [
         {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+          "name": "Jafet",
+          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
+        },
+        {
+          "name": "Melody Joyce",
+          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
         }
       ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+      "duration_ms": 261461,
+      "name": "Eternamente Te Amo",
+      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Absoluto",
+        "url": "https://open.spotify.com/album/4PllLhV4CKScbqcYqffkov"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mansur",
+          "url": "https://open.spotify.com/artist/36iawkpOrs8yq35WUwSWua"
+        },
+        {
+          "name": "Kevin L\u00f3pez",
+          "url": "https://open.spotify.com/artist/3Dg16IGa1fCJ91x0JFlnD1"
+        }
+      ],
+      "duration_ms": 287524,
+      "name": "Absoluto",
+      "url": "https://open.spotify.com/track/5utdSmqXGbCLDIus7U82DD"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

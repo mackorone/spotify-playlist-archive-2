@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 180 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 180 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 60 | [Geister der Vergangenheit](https://open.spotify.com/track/6KKeuIQEgsNT9yNu1WMmT5) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Die Eiskönigin 2 \(Deutscher Original Film\-Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD) | 2:58 |
 | 61 | [Starting Now Mashup](https://open.spotify.com/track/5NzRlnzIOAfosJmSSoVpz4) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Magic Reimagined \(Japan Edition\)](https://open.spotify.com/album/7cP3WtGF6GER9WA7BKkFiI) | 2:24 |
 | 62 | [When Everything Falls Apart \- From "Frozen: The Broadway Musical" / Outtake](https://open.spotify.com/track/6KB2dM5MHzzBLXuK9PXQiN) | [Greg Hildreth](https://open.spotify.com/artist/76LoBRItQSLQ270jKMoYz8), [Jelani Alladin](https://open.spotify.com/artist/4xKyZx66xlcBGoRBhgEXxB), [Patti Murin](https://open.spotify.com/artist/4wWuKGRcPwVaItabLxnObP) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 3:58 |
-| 63 | [The Avenue Q Theme](https://open.spotify.com/track/1M7JX3R6act2G1GhOCocCN) | [Avenue Q Ensemble](https://open.spotify.com/artist/2aZ8QbXjfBQR1glWwIQQTc) | [Avenue Q \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0qikoI7Lgl9pp9KrxepBB3) | 1:02 |
-| 64 | [Zu weit gegangen](https://open.spotify.com/track/1AeT98btXmpikRPlb45fLG) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Die Eiskönigin 2 \(Deutscher Original Film\-Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD) | 3:43 |
+| 63 | [Zu weit gegangen](https://open.spotify.com/track/1AeT98btXmpikRPlb45fLG) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Die Eiskönigin 2 \(Deutscher Original Film\-Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/5CP1NmBBc7h88ypESIJdqD) | 3:43 |
+| 64 | [The Avenue Q Theme](https://open.spotify.com/track/1M7JX3R6act2G1GhOCocCN) | [Avenue Q Ensemble](https://open.spotify.com/artist/2aZ8QbXjfBQR1glWwIQQTc) | [Avenue Q \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0qikoI7Lgl9pp9KrxepBB3) | 1:02 |
 | 65 | [More Than Just the Spare \- Outtake](https://open.spotify.com/track/01CJDcOSteNT93CgfgsajY) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:25 |
 | 66 | [Vuelie / Let the Sun Shine On \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/1gKBH5jwZxRAZ7HBb22rO1) | [Original Broadway Cast of Frozen](https://open.spotify.com/artist/6aOlzketCXmixrHCtNmX8j) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 4:34 |
 | 67 | [A Very Important Thing To Do](https://open.spotify.com/track/4rMAysL3aY1MLABcvudHo3) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [Winnie the Pooh](https://open.spotify.com/album/38lqlFkYKpEa3LgDQtqVdo) | 0:47 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 179 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 | 180 | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 |
 
-Snapshot ID: `AcbhiAAAAACcbB4H3RSVngYGXhliZq1Y`
+Snapshot ID: `AcbnKAAAAACg0/OHc9JKSspfdK9rznpm`

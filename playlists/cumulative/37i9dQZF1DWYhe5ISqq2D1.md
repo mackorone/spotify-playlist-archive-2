@@ -4,11 +4,11 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover:映秀。Eisyu
 
-1,692 songs - 4 day 9 hr 56 min
+1,693 songs - 4 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 |  |
+| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 | 2026-09-07 |
 | [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-08 | 2025-07-16 |
 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 | 2026-02-24 |  |
 | [0821\_a](https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Nisshoku Natsuko 15th Anniversary BEST \- Fly\-by2024\-](https://open.spotify.com/album/7gmE43E3l6qPzX5muaklAK) | 5:39 | 2024-09-17 | 2024-10-02 |
@@ -371,7 +371,7 @@
 | [Kanjosen](https://open.spotify.com/track/11DftyWHTW6I98qXKCILTV) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Kanjosen](https://open.spotify.com/album/7sMDPBdQCV1TltX7y9gsjC) | 3:39 | 2025-04-22 | 2025-05-07 |
 | [Kanpaisanka](https://open.spotify.com/track/28IX7SJRKlrJk4TRzL2pAX) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Kanpaisanka](https://open.spotify.com/album/2RRtOWnJHF9JIXgOKf8hJl) | 4:12 | 2026-03-31 | 2026-04-08 |
 | [KARAOKE](https://open.spotify.com/track/2Q69G1nCkz3R3JGY0OYc7b) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [KARAOKE](https://open.spotify.com/album/5jqjB9lSKz9cJSE84oafvC) | 2:59 | 2026-02-11 | 2026-02-18 |
-| [kimagure](https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [kimagure](https://open.spotify.com/album/4TP7lvpRDEPXlx2vTwuch4) | 3:29 | 2026-05-26 |  |
+| [kimagure](https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [kimagure](https://open.spotify.com/album/4TP7lvpRDEPXlx2vTwuch4) | 3:29 | 2026-05-26 | 2026-09-07 |
 | [Kimi ga shinde yurei ni nattara](https://open.spotify.com/track/5I095zmfdH5K6ELupbsOdb) | [Rinko](https://open.spotify.com/artist/08h4SANQwNBM8NfO7qKxnP) | [Kimi ga shinde yurei ni nattara](https://open.spotify.com/album/62JlUgGZS12TrDnTILxFHW) | 3:32 | 2025-08-05 | 2025-08-13 |
 | [Kimi Janakya Dame Mitai \- 2026](https://open.spotify.com/track/3Uw9nRb3x6wJWADZIvR8di) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Ningen](https://open.spotify.com/album/6l8xCjL7Pn4FX7vc6Ghpq3) | 3:58 | 2026-02-24 | 2026-03-04 |
 | [Kimi to hoshi ni negaiwo](https://open.spotify.com/track/1YNGY9DVqenMZZsAjEO5OM) | [Kanau Matsumura](https://open.spotify.com/artist/03dBLURxQxZxLkYKteHBEN) | [Kimi to hoshi ni negaiwo](https://open.spotify.com/album/4dmO08gScb9b729ymQ50b7) | 4:30 | 2025-04-22 | 2025-04-30 |
@@ -1380,6 +1380,7 @@
 | [幸せ](https://open.spotify.com/track/2j2UcUqQtQU4egBQtlb9Ku) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [幸せ](https://open.spotify.com/album/5YGS9k8ai8uymJklq9mR0o) | 5:13 | 2024-07-02 | 2024-12-25 |
 | [幸せってなに？](https://open.spotify.com/track/1lpo19jyZjlOAV5EJfsOsO) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [幸せってなに？](https://open.spotify.com/album/6jxZUmvZamQLbDxfCMOYLw) | 4:17 | 2025-10-08 | 2025-10-22 |
 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 | 2025-01-14 | 2025-07-16 |
+| [幸せについて、僕が考えたこと](https://open.spotify.com/track/4f0swjS3zCqcaue7MpYyrN) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/43VFHCMHiaQM6Vk1JTkdtr) | 3:42 | 2026-09-01 |  |
 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-14 | 2025-12-03 |
 | [幸せの色](https://open.spotify.com/track/1juaA8WMJ43w0LlFdRcewf) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [幸せの色](https://open.spotify.com/album/2H4TS8jql9CaCrJ1kZ8sVz) | 4:13 | 2026-01-14 | 2026-06-24 |
 | [幻をこえて](https://open.spotify.com/track/2Okm21riL9NVZ4RC1RfjeN) | [三島想平](https://open.spotify.com/artist/0GLRCsXgRM6koTrrZupCns) | [plan B \(Deluxe Edition\)](https://open.spotify.com/album/1u0WFwE56H1mdl74CEHKzC) | 4:39 | 2026-06-02 | 2026-06-10 |
@@ -1692,7 +1693,7 @@
 | [魔物](https://open.spotify.com/track/0La25VvFmScw81ci5LQZDz) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [魔物](https://open.spotify.com/album/1oRXT2W5H0140AxpcfZBkW) | 3:52 | 2026-06-23 | 2026-07-01 |
 | [魚服記](https://open.spotify.com/track/3LYWRJZPlQibvqehe5TOkC) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [変身のレシピ](https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk) | 6:07 | 2024-12-10 | 2025-01-15 |
 | [鱗\(うろこ\)](https://open.spotify.com/track/4IubwxgmXeZtDtYjTaT9gN) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [コントラスト](https://open.spotify.com/album/3zQQfkeOgbjCwjA2585J0P) | 5:24 | 2024-07-02 | 2024-12-25 |
-| [鳥](https://open.spotify.com/track/5rNM0UFvVV5O8sfEPxTb6R) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [鳥](https://open.spotify.com/album/1MPfuBv4jzqkpsRQzojdH3) | 4:34 | 2026-08-25 | 2026-09-02 |
+| [鳥](https://open.spotify.com/track/5rNM0UFvVV5O8sfEPxTb6R) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [鳥](https://open.spotify.com/album/1MPfuBv4jzqkpsRQzojdH3) | 4:34 | 2026-08-25 |  |
 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-20 | 2026-03-17 |
 | [黄色信号](https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [黄色信号](https://open.spotify.com/album/1eAFQT1Id9vkiVyT8SKK03) | 3:31 | 2025-04-08 | 2025-12-03 |
 | [黎明](https://open.spotify.com/track/36v3B79ss1tFka4Ca5P2Gn) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [15th ANNIVERSARY BEST「自由悟然」](https://open.spotify.com/album/6ldzfyP9XrQEvrNxJFPFY8) | 5:01 | 2025-12-09 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39033,
+  "num_followers": 39044,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,42 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+      },
+      "artists": [
+        {
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Kajwa",
         "url": "https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0"
       },
@@ -591,42 +627,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Halgi Original Mix 2021",
-        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
-      },
-      "artists": [
-        {
-          "name": "Dj Sagar Barshi",
-          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Halgi Original Mix 2021",
-      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
       },
@@ -643,26 +643,6 @@
       "duration_ms": 198490,
       "name": "Srivalli Marathi Version",
       "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Masuta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Shinde",
-          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
-        },
-        {
-          "name": "Aboli Girhe",
-          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
-        }
-      ],
-      "duration_ms": 282315,
-      "name": "Waju De Waju De",
-      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -691,6 +671,42 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Masuta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7E3XLVltCf7eMary3NfP6a"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        },
+        {
+          "name": "Aboli Girhe",
+          "url": "https://open.spotify.com/artist/6tbViLBT9hGVqMQkZ3bjNM"
+        }
+      ],
+      "duration_ms": 282315,
+      "name": "Waju De Waju De",
+      "url": "https://open.spotify.com/track/2o3h99qfosCWao0s8KblPd"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Luckdown Be Positive",
+        "url": "https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ"
+      },
+      "artists": [
+        {
+          "name": "Maithili Panse-Joshi",
+          "url": "https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf"
+        }
+      ],
+      "duration_ms": 205814,
+      "name": "Attaracha Faya",
+      "url": "https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Luckdown Be Positive",
-        "url": "https://open.spotify.com/album/6c8ho7Qu44e0OUthXsdXiJ"
-      },
-      "artists": [
-        {
-          "name": "Maithili Panse-Joshi",
-          "url": "https://open.spotify.com/artist/2hP1VuPCm078aYFBG0okxf"
-        }
-      ],
-      "duration_ms": 205814,
-      "name": "Attaracha Faya",
-      "url": "https://open.spotify.com/track/7uh4DZJlZBPTYRSP3NXqre"
     },
     {
       "added_at": "2026-08-04 09:03:36",

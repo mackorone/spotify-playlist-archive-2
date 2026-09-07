@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Scottyolorin
 
-1,169 songs - 2 day 8 hr 2 min
+1,170 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,7 +662,7 @@
 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-03-13 | 2026-07-31 |
 | [Missy Mami](https://open.spotify.com/track/1e6T6rIfgNv80ekHaA9J19) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Missy Mami](https://open.spotify.com/album/6AHL6fisPdk6tQe4lZDBEK) | 2:40 | 2023-04-27 | 2023-05-26 |
 | [moccasins](https://open.spotify.com/track/5a14LjwlzD0DD86WkjkYI4) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [moccasins](https://open.spotify.com/album/4wO69tZeMudvacH8NTwlrP) | 1:48 | 2026-05-08 | 2026-06-19 |
-| [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 | 2026-04-24 |  |
+| [Modern man](https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Modern Fantasy](https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy) | 3:32 | 2026-04-24 | 2026-09-07 |
 | [Money & Laughter](https://open.spotify.com/track/0rcz74mV0d1ERhaQPQxJnx) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Money & Laughter](https://open.spotify.com/album/3ZSA6jbvKDGxYFuD5YBCYQ) | 2:31 | 2021-07-09 | 2022-04-29 |
 | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196) | 2:37 | 2026-07-03 |  |
 | [Money Prayer](https://open.spotify.com/track/5resIjFpN4mv5LokChHwiR) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Tha Gawd \- Side A](https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6) | 2:49 | 2024-05-03 | 2024-11-22 |
@@ -1054,6 +1054,7 @@
 | [throw me around](https://open.spotify.com/track/6cg84w6nHcEbdhhipXCj18) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Inçi](https://open.spotify.com/artist/3yzxQXs6v4ifwl2NTtWbZu) | [throw me around](https://open.spotify.com/album/3Iw2t0bZUFHg2tTKkXOFRe) | 2:18 | 2025-03-21 | 2025-08-27 |
 | [Thunderstorm in Surulere](https://open.spotify.com/track/12Od62g1NMxn0J8RN8XWph) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [The Lagos Panic](https://open.spotify.com/artist/3dNMFM4VVHFHZd3yo1SpCG) | [Thunderstorm in Surulere](https://open.spotify.com/album/5E8VZdEfbbWgkTX7y8kf1C) | 3:03 | 2022-03-11 | 2022-04-29 |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-03-12 |
+| [Tight Rope](https://open.spotify.com/track/3Oy3IKaPLnx896sd7oiF1w) | [Quest ott](https://open.spotify.com/artist/4x1YCCrjVHd5jAs02esbNJ), [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Tight Rope](https://open.spotify.com/album/2ZeOk9yRVQfQ7actJcV5Jt) | 3:14 | 2026-09-04 |  |
 | [Tighter](https://open.spotify.com/track/2WRnCb0v84HQ8ZzGavDrXX) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Tighter](https://open.spotify.com/album/2bVycA3gdEqU51o5rILZUI) | 3:30 | 2023-10-13 | 2024-03-01 |
 | [Time Difference](https://open.spotify.com/track/0oAMtDXJSvTmXKTo6xCyMQ) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Azanti](https://open.spotify.com/album/0osb2qW3DZLhHLwxBjLwAk) | 2:57 | 2021-09-24 | 2022-05-06 |
 | [Time Heals](https://open.spotify.com/track/3fVLvjQZZyZRiancZ6dzUv) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [This Feels Like An Interlude](https://open.spotify.com/album/2EVREJV515efDWzMrMbb7I) | 1:41 | 2025-05-30 | 2025-10-12 |

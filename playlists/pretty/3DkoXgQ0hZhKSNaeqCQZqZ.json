@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFxaFrLekXxvjAFqE4F5xv6SbsIHKy",
+  "snapshot_id": "AAAFxv3QDR2OT6SU7/ed7rc3o/Q2c/dT",
   "tracks": [
+    {
+      "added_at": "2026-09-06 08:59:27",
+      "album": {
+        "name": "post con obsession",
+        "url": "https://open.spotify.com/album/6EOzJWPNRqT9AvnAngqhP4"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "post con obsession",
+      "url": "https://open.spotify.com/track/2oPuDRsK3pujbRTHwZjqP2"
+    },
     {
       "added_at": "2026-09-05 20:20:23",
       "album": {

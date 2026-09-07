@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-417 songs - 23 hr 51 min
+418 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Fly With Us](https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0) | 4:08 | 2022-04-15 | 2023-07-14 |
 | [Fly With Us](https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Fly With Us](https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny) | 4:08 | 2023-04-04 | 2023-12-22 |
 | [Forever](https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Forever](https://open.spotify.com/album/6YAbxrNP039ENGg0ixwfG0) | 4:27 | 2022-04-15 | 2023-06-01 |
+| [Foxtrot Oscar](https://open.spotify.com/track/1BgZyTf26WaeUMeDtBspC2) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [We Want Bass](https://open.spotify.com/album/4aXFpQRlFuW6bE8Fyq5ML7) | 2:34 | 2026-09-03 |  |
 | [Free](https://open.spotify.com/track/2C0IvokSio8N7UyHwuB638) | [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9), [Nasser UK](https://open.spotify.com/artist/0OKtqx9di2GqRpRqA3eFpD), [Valor](https://open.spotify.com/artist/2hdUuoqJUD7RXiGBNhEeUL) | [Free](https://open.spotify.com/album/0TU1txO73cwnDnDc2a9twG) | 3:07 | 2023-08-10 | 2026-01-16 |
 | [Friday Nights \(efan Remix\)](https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX), [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT) | [Friday Nights \(efan Remix\)](https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6) | 3:26 | 2024-01-05 | 2025-10-03 |
 | [Front to Back](https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Front to Back](https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3) | 2:27 | 2024-05-17 | 2026-01-16 |
@@ -178,7 +179,7 @@
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-22 | 2026-01-16 |
 | [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 | 2025-10-02 | 2026-04-17 |
 | [I Got You](https://open.spotify.com/track/2FlLzsxCF8eHG7Ghoz58Eg) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [KTE](https://open.spotify.com/artist/38MTgSJ7hMFifr3sbiRPGJ) | [I Got You](https://open.spotify.com/album/0aetWgoztOAmY5oayMqb87) | 3:24 | 2022-05-13 | 2022-07-12 |
-| [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 | 2026-01-16 |  |
+| [I Just Want U](https://open.spotify.com/track/5B8uSlQlHH8XTQLrK4hJDk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [I Just Want U](https://open.spotify.com/album/0cT99LxUk6j20kOlTurhnD) | 3:28 | 2026-01-16 | 2026-09-07 |
 | [I need to know](https://open.spotify.com/track/2mc817QLOMfEGZG2rlQsy3) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [I need to know](https://open.spotify.com/album/4dvap2kLDTcRL4NI8etXwd) | 2:18 | 2025-01-30 | 2026-06-10 |
 | [I Only Smoke When I Drink \- Badger Remix](https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 2:11 | 2025-01-16 | 2026-01-16 |
 | [I Wanna Feel](https://open.spotify.com/track/12ZH1XMqc7f9bGbVKawv47) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [I Wanna Feel](https://open.spotify.com/album/21JGUmeznYAUfMYEzcmehG) | 2:04 | 2025-07-24 |  |

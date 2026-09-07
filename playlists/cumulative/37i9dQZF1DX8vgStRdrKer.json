@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 401000,
       "name": "El Gibbor",
       "url": "https://open.spotify.com/track/15basiVIAqFSSITtAiS1tQ"
@@ -4776,6 +4776,24 @@
       "duration_ms": 324375,
       "name": "Follow the Lamb",
       "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
+    },
+    {
+      "album": {
+        "name": "Forever & Ever",
+        "url": "https://open.spotify.com/album/1brmXrElmre0uBMLz44Fcy"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219565,
+      "name": "Forever & Ever",
+      "url": "https://open.spotify.com/track/4NrQORdtSQFup9vMr2JlGV"
     },
     {
       "album": {
@@ -7574,7 +7592,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 429536,
       "name": "Ifeoma - Live",
       "url": "https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq"
@@ -11546,7 +11564,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 490655,
       "name": "Nyame Banbofo (God the Protector)",
       "url": "https://open.spotify.com/track/36rSop2sGVqDg3ueSHb8pI"

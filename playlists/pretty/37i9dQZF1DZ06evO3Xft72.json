@@ -1,12 +1,12 @@
 {
   "description": "This is Def Leppard. The essential tracks, all in one playlist.",
-  "num_followers": 292968,
+  "num_followers": 292997,
   "original_name": "This Is Def Leppard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABbnLq1Ouof0oRVGR5yEjw2",
+  "snapshot_id": "aptbgAAAAACDmSGFxAYevoVybEPORLpq",
   "tracks": [
     {
       "added_at": null,
@@ -544,41 +544,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 183200,
-      "name": "Switch 625",
-      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 255624,
-      "name": "Make Love Like A Man",
-      "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamond Star Halos",
-        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
+      "duration_ms": 206550,
+      "name": "High 'N' Dry (Saturday Night)",
+      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/0frtdZ0KWaYQJGvPvsS6YO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 255624,
+      "name": "Make Love Like A Man",
+      "url": "https://open.spotify.com/track/4kmsbka0IvuC1x4GdK3FcH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 206550,
-      "name": "High 'N' Dry (Saturday Night)",
-      "url": "https://open.spotify.com/track/7CZYW6EnHdzOjZROlXeWyi"
+      "duration_ms": 183200,
+      "name": "Switch 625",
+      "url": "https://open.spotify.com/track/1lwW3ovgmnRIfqHnX1ghgU"
     },
     {
       "added_at": null,

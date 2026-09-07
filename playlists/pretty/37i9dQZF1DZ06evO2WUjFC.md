@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WUjFC.md) - [plain]
 | 39 | [Cupido Loco](https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW) | [grupo linea sierreña](https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri), [Impresionantes De Sinaloa](https://open.spotify.com/artist/2kvwWTIotgzIb7HmZrOVUG), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Cupido Loco](https://open.spotify.com/album/4cGbwXhx9SVsZvvjnuaGQg) | 2:13 |
 | 40 | [CATALOGADO](https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [CATALOGADO](https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB) | 2:07 |
 | 41 | [Mami \- En Vivo](https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:05 |
-| 42 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
-| 43 | [HARLEY DAVIDSON](https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:12 |
+| 42 | [HARLEY DAVIDSON](https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:12 |
+| 43 | [Ya Están Cantando Los Gallos \(Live\)](https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 6:02 |
 | 44 | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Llegadores](https://open.spotify.com/artist/2lhN8TPwOos3I4qeGuc9B2), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [Mi Ranchito \(En Vivo\)](https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf) | 4:41 |
-| 45 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 |
-| 46 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 |
-| 47 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 |
+| 45 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 |
+| 46 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 |
+| 47 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 |
 | 48 | [LA CAPITAL](https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [LA CAPITAL](https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T) | 3:30 |
 | 49 | [Somos Hombres O Payasos](https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8) | [Linea Activada](https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Y Ahí Vamos](https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu) | 2:35 |
-| 50 | [Mujer Mujer \(Live\)](https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:18 |
+| 50 | [DE MÉXICO SOY](https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:59 |
 
-Snapshot ID: `apoKAAAAAACZOlq6odRW49+NQhLAJvaK`
+Snapshot ID: `aptbgAAAAAA6T9gv7XiiKMAMVPgCLDgT`

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12870,
+  "num_followers": 12871,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
-      },
-      "artists": [
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "You Are Spring",
-      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "You Are Spring",
+      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 173124,
       "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-07-03 07:31:26",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
-        "name": "Raindrop",
-        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
-      },
-      "artists": [
-        {
-          "name": "HYUN SEO",
-          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Raindrop",
-      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 202546,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
+        "name": "Raindrop",
+        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
     },
     {
       "added_at": "2026-07-03 07:31:26",

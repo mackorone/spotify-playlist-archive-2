@@ -8997,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243493,
+      "name": "The House of the Rising Sun",
+      "url": "https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL"
+    },
+    {
+      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM"
       },

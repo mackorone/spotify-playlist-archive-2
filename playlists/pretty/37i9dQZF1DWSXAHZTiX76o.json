@@ -1,6 +1,6 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 344273,
+  "num_followers": 344258,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Se me pas\u00f3 llamarte, mam\u00e1",
         "url": "https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 160000,
       "name": "Porquer\u00eda",
       "url": "https://open.spotify.com/track/4zUjrwurtASSlrtMQJFvO6"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
     },
     {
       "added_at": "2025-12-03 13:14:43",

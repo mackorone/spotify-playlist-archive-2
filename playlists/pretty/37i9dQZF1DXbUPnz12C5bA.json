@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 228869,
+  "num_followers": 228997,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Una Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
         "name": "Los 3 Amigos",
         "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Nace Del Alma",
-        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
+        "name": "Versi\u00f3n Original",
+        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
       },
       "artists": [
         {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 285640,
-      "name": "Una Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
+      "duration_ms": 266573,
+      "name": "Me Tiraste Al Mar",
+      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -819,6 +819,42 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
+        "name": "El Pap\u00e1 De Los Amores",
+        "url": "https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl"
+      },
+      "artists": [
+        {
+          "name": "Peter Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL"
+        },
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "El Pap\u00e1 de los Amores",
+      "url": "https://open.spotify.com/track/1oeEXETl1l4PoJiJnH6rzL"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
@@ -831,42 +867,6 @@
       "duration_ms": 246506,
       "name": "Busca Un Confidente",
       "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "Vallenatos Bonitos Bonitos",
-        "url": "https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn"
-      },
-      "artists": [
-        {
-          "name": "Erick Escobar Nayo Quintero Y La Decision Vallenata",
-          "url": "https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO"
-        }
-      ],
-      "duration_ms": 293008,
-      "name": "Si Puedes Perdonarme",
-      "url": "https://open.spotify.com/track/0K115zwBwmlKMx5iXcO2df"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
-      },
-      "artists": [
-        {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
-        },
-        {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
-        }
-      ],
-      "duration_ms": 238892,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx"
     },
     {
       "added_at": "2026-05-04 04:59:11",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Vallenatos Bonitos Bonitos",
+        "url": "https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Erick Escobar Nayo Quintero Y La Decision Vallenata",
+          "url": "https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Que No Me Faltes Tu",
-      "url": "https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44"
+      "duration_ms": 293008,
+      "name": "Si Puedes Perdonarme",
+      "url": "https://open.spotify.com/track/0K115zwBwmlKMx5iXcO2df"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

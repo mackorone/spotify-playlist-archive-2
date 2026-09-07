@@ -1,5 +1,5 @@
 {
-  "description": "With Yeat, Cuo Zay, Autumn! and more",
+  "description": "With Favo, Yeat, Cuo Zay and more",
   "num_followers": 1,
   "original_name": "Taewitdak Radio",
   "owner": {
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alignment",
+        "url": "https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        }
+      ],
+      "duration_ms": 101122,
+      "name": "passion",
+      "url": "https://open.spotify.com/track/4VxjqioRNX95lLuNeakxEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "!?",
         "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
       },
@@ -75,26 +91,6 @@
       "duration_ms": 125267,
       "name": "sick",
       "url": "https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter 3: First Year Rich",
-        "url": "https://open.spotify.com/album/0qZ4wJeitgvAZeb7cvfOXd"
-      },
-      "artists": [
-        {
-          "name": "Zelgin Jackson",
-          "url": "https://open.spotify.com/artist/2XL3zqK7k2Opyp5g5bjWlG"
-        },
-        {
-          "name": "BC.Nate",
-          "url": "https://open.spotify.com/artist/7AVYKWzGyhNKuSSawPxpUF"
-        }
-      ],
-      "duration_ms": 89977,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/5GchzUEKx2uvvny89RmHhx"
     },
     {
       "added_at": null,
@@ -131,34 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRIVE BYE",
-        "url": "https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm"
+        "name": "Chapter 3: First Year Rich",
+        "url": "https://open.spotify.com/album/0qZ4wJeitgvAZeb7cvfOXd"
       },
       "artists": [
         {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
-        }
-      ],
-      "duration_ms": 122723,
-      "name": "DRIVE BYE",
-      "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alignment",
-        "url": "https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1"
-      },
-      "artists": [
+          "name": "Zelgin Jackson",
+          "url": "https://open.spotify.com/artist/2XL3zqK7k2Opyp5g5bjWlG"
+        },
         {
-          "name": "Favo",
-          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+          "name": "BC.Nate",
+          "url": "https://open.spotify.com/artist/7AVYKWzGyhNKuSSawPxpUF"
         }
       ],
-      "duration_ms": 101122,
-      "name": "passion",
-      "url": "https://open.spotify.com/track/4VxjqioRNX95lLuNeakxEz"
+      "duration_ms": 89977,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/5GchzUEKx2uvvny89RmHhx"
     },
     {
       "added_at": null,
@@ -179,18 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aliv\u00eb",
-        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
+        "name": "DRIVE BYE",
+        "url": "https://open.spotify.com/album/19fAAO4PeRKrgvYDfmxtbm"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
         }
       ],
-      "duration_ms": 153208,
-      "name": "WAR 1",
-      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
+      "duration_ms": 122723,
+      "name": "DRIVE BYE",
+      "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
     },
     {
       "added_at": null,
@@ -211,18 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Militia",
-        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
+        "name": "Aliv\u00eb",
+        "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
       },
       "artists": [
         {
-          "name": "999 WRLD",
-          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 110221,
-      "name": "Militia",
-      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
+      "duration_ms": 153208,
+      "name": "WAR 1",
+      "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
     },
     {
       "added_at": null,
@@ -243,18 +227,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
       "artists": [
         {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+          "name": "999 WRLD",
+          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
         }
       ],
-      "duration_ms": 149508,
-      "name": "Switchin Sides",
-      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+      "duration_ms": 110221,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alignment",
+        "url": "https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        }
+      ],
+      "duration_ms": 118072,
+      "name": "watch my breath",
+      "url": "https://open.spotify.com/track/3UeJcKhVVb4oDhulXivodv"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPERNOVA.",
+        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
+      },
+      "artists": [
+        {
+          "name": "KA$HDAMI",
+          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Switchin Sides",
+      "url": "https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pain No Gain",
         "url": "https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 190856,
       "name": "Full Of Them Drugs",
       "url": "https://open.spotify.com/track/1gGuQsf0rPBJEk05Rjhnn7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOSIS",
-        "url": "https://open.spotify.com/album/5tH9bzf3AslI52jFaPmdFG"
-      },
-      "artists": [
-        {
-          "name": "K!no",
-          "url": "https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "INTELLIGENT",
-      "url": "https://open.spotify.com/track/0e49QvEBEc03vo0As3Wk7i"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOSIS",
+        "url": "https://open.spotify.com/album/5tH9bzf3AslI52jFaPmdFG"
+      },
+      "artists": [
+        {
+          "name": "K!no",
+          "url": "https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "INTELLIGENT",
+      "url": "https://open.spotify.com/track/0e49QvEBEc03vo0As3Wk7i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
       },
@@ -339,38 +355,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "slur",
-        "url": "https://open.spotify.com/album/0zqPRw7HpKTTzh3HovZX6u"
+        "name": "FlatHead",
+        "url": "https://open.spotify.com/album/0eNAXrokLyT2nx1kHFHmSF"
       },
       "artists": [
         {
-          "name": "Konto",
-          "url": "https://open.spotify.com/artist/1tGzMgkoDGrFiIYyshal4R"
+          "name": "JuggFitz",
+          "url": "https://open.spotify.com/artist/7g4CMvDRkof7s728woEVSq"
         },
         {
-          "name": "imylia",
-          "url": "https://open.spotify.com/artist/3yEpoErVGLX6Q12Y5RTEde"
-        }
-      ],
-      "duration_ms": 105743,
-      "name": "slur",
-      "url": "https://open.spotify.com/track/71kF9Pw7KFfNsAqXGD6NQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alignment",
-        "url": "https://open.spotify.com/album/0atrSqUdYaPhqqtKWmaAl1"
-      },
-      "artists": [
+          "name": "Hood Rese",
+          "url": "https://open.spotify.com/artist/4spw9fWeBuZAmGBmFbH1J4"
+        },
         {
-          "name": "Favo",
-          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+          "name": "SYDAU",
+          "url": "https://open.spotify.com/artist/0BhubHNNhQw3UqcmuQdtLp"
         }
       ],
-      "duration_ms": 118072,
-      "name": "watch my breath",
-      "url": "https://open.spotify.com/track/3UeJcKhVVb4oDhulXivodv"
+      "duration_ms": 90649,
+      "name": "FlatHead",
+      "url": "https://open.spotify.com/track/4w5lUNhEm1t1y4Ghpr0lxf"
     },
     {
       "added_at": null,
@@ -419,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronehl Season, VOL 1",
-        "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
+        "name": "slur",
+        "url": "https://open.spotify.com/album/0zqPRw7HpKTTzh3HovZX6u"
       },
       "artists": [
         {
-          "name": "ronehl",
-          "url": "https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY"
+          "name": "Konto",
+          "url": "https://open.spotify.com/artist/1tGzMgkoDGrFiIYyshal4R"
+        },
+        {
+          "name": "imylia",
+          "url": "https://open.spotify.com/artist/3yEpoErVGLX6Q12Y5RTEde"
         }
       ],
-      "duration_ms": 131664,
-      "name": "Life Sentences",
-      "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
+      "duration_ms": 105743,
+      "name": "slur",
+      "url": "https://open.spotify.com/track/71kF9Pw7KFfNsAqXGD6NQA"
     },
     {
       "added_at": null,
@@ -451,50 +459,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLING B\u00d8I EP 2: H\u00d8STED BY DJ H\u00d8LIDAY",
-        "url": "https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "diamond*",
-          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 120316,
-      "name": "SICK\u00d6",
-      "url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Love Freaks",
-        "url": "https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu"
+        "name": "POMPEII // UTILITY",
+        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
       },
       "artists": [
         {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Niontay",
+          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
         }
       ],
-      "duration_ms": 101198,
-      "name": "I Love Freaks",
-      "url": "https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6"
+      "duration_ms": 133500,
+      "name": "F.E.A.R. - feat. Niontay",
+      "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+        "name": "Ronehl Season, VOL 1",
+        "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
       },
       "artists": [
         {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+          "name": "ronehl",
+          "url": "https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Pub Sub",
-      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+      "duration_ms": 131664,
+      "name": "Life Sentences",
+      "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
     },
     {
       "added_at": null,
@@ -515,6 +531,22 @@
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLING B\u00d8I EP 2: H\u00d8STED BY DJ H\u00d8LIDAY",
+        "url": "https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79"
+      },
+      "artists": [
+        {
+          "name": "diamond*",
+          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+        }
+      ],
+      "duration_ms": 120316,
+      "name": "SICK\u00d6",
+      "url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
     },
     {
       "added_at": null,
@@ -551,34 +583,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
+        "name": "I Love Freaks",
+        "url": "https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu"
       },
       "artists": [
         {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
         }
       ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+      "duration_ms": 101198,
+      "name": "I Love Freaks",
+      "url": "https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
       },
       "artists": [
         {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
         }
       ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+      "duration_ms": 194594,
+      "name": "Pub Sub",
+      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mike In What",
+        "url": "https://open.spotify.com/album/2GgHhGR9f5QGUw4lnSyYfe"
+      },
+      "artists": [
+        {
+          "name": "Hood Radio",
+          "url": "https://open.spotify.com/artist/6hvER802DD3HhaYobfVdSZ"
+        },
+        {
+          "name": "reemknock",
+          "url": "https://open.spotify.com/artist/1WBHMVEqVPbT2755BkU1YH"
+        }
+      ],
+      "duration_ms": 115937,
+      "name": "Mike In What",
+      "url": "https://open.spotify.com/track/7oXKwqPb8ew1CTX5kFrcUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALL HOGGIN",
+        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
+      },
+      "artists": [
+        {
+          "name": "Shadstackzz",
+          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
+        }
+      ],
+      "duration_ms": 108946,
+      "name": "Leave the state",
+      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
     },
     {
       "added_at": null,
@@ -631,78 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALL HOGGIN",
-        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
-      },
-      "artists": [
-        {
-          "name": "Shadstackzz",
-          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
-        }
-      ],
-      "duration_ms": 108946,
-      "name": "Leave the state",
-      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Price I Pay",
-        "url": "https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS"
-      },
-      "artists": [
-        {
-          "name": "C Choppa",
-          "url": "https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Price I Pay",
-      "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POMPEII // UTILITY",
-        "url": "https://open.spotify.com/album/3RoyVaZOzBSTfo6jm4dvSR"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "F.E.A.R. - feat. Niontay",
-      "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Till i make a difference",
-        "url": "https://open.spotify.com/album/2KMmEDBbSxgnDdpD3VaHkY"
-      },
-      "artists": [
-        {
-          "name": "SeaWicked",
-          "url": "https://open.spotify.com/artist/24M5JwSGVpiQhLQv86ky46"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "Till i make a difference",
-      "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boy (with Young Thug)",
         "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
       },
@@ -723,6 +719,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Price I Pay",
+        "url": "https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS"
+      },
+      "artists": [
+        {
+          "name": "C Choppa",
+          "url": "https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Price I Pay",
+      "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+      },
+      "artists": [
+        {
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+        }
+      ],
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -739,66 +767,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
+        "name": "The Bank Is Open",
+        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
       },
       "artists": [
         {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+          "name": "Nb Bankz",
+          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
         }
       ],
-      "duration_ms": 123211,
-      "name": "YOUTUBE",
-      "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
+      "duration_ms": 138017,
+      "name": "P!NK GUN",
+      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+        "name": "Till i make a difference",
+        "url": "https://open.spotify.com/album/2KMmEDBbSxgnDdpD3VaHkY"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+          "name": "SeaWicked",
+          "url": "https://open.spotify.com/artist/24M5JwSGVpiQhLQv86ky46"
         }
       ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FERRARI",
-        "url": "https://open.spotify.com/album/70mqGISBIev77sQBoNRVq3"
-      },
-      "artists": [
-        {
-          "name": "diamond*",
-          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "FERRARI",
-      "url": "https://open.spotify.com/track/4FOO0xTI6dXRRHJ8CCtAl6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ION WANNA TALK",
-        "url": "https://open.spotify.com/album/6sYy7eUNViW0EL57516MkN"
-      },
-      "artists": [
-        {
-          "name": "Hoodricch Q",
-          "url": "https://open.spotify.com/artist/4GZ5qqDALSTyLLXpjhpWtZ"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "THINKING OUT LOUD",
-      "url": "https://open.spotify.com/track/2LLh8oB38o4mOAMwnZFjHU"
+      "duration_ms": 126647,
+      "name": "Till i make a difference",
+      "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"
     },
     {
       "added_at": null,
@@ -835,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ION WANNA TALK",
+        "url": "https://open.spotify.com/album/6sYy7eUNViW0EL57516MkN"
+      },
+      "artists": [
+        {
+          "name": "Hoodricch Q",
+          "url": "https://open.spotify.com/artist/4GZ5qqDALSTyLLXpjhpWtZ"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "THINKING OUT LOUD",
+      "url": "https://open.spotify.com/track/2LLh8oB38o4mOAMwnZFjHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": ">Music",
         "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
       },
@@ -851,18 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disagree",
-        "url": "https://open.spotify.com/album/670icObNVMYesRcjmyXdT2"
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/5vUSDrTKzuAmrW5fB8ZPy1"
       },
       "artists": [
         {
-          "name": "Duwap Kaine",
-          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
         }
       ],
-      "duration_ms": 136045,
-      "name": "Disagree",
-      "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
+      "duration_ms": 123211,
+      "name": "YOUTUBE",
+      "url": "https://open.spotify.com/track/7JFZXCelZMzyjmnolSBv53"
     }
   ],
   "unique_name": "Taewitdak Radio",

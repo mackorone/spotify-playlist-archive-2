@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 760 likes - 103 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 762 likes - 103 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 52 | [Walk In The Country](https://open.spotify.com/track/7FJMIplxMvLO4hPsfISQ8q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 2:58 |
 | 53 | [Say Something](https://open.spotify.com/track/61FUzJLSseC54gCw6pBqDr) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:57 |
 | 54 | [Soul Food](https://open.spotify.com/track/3aU7v3C5l6IBVkxGNfhqyU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:36 |
-| 55 | [Georgia Woods](https://open.spotify.com/track/0TIk4vk0T7yQrlmvVBK74y) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:17 |
-| 56 | [We Go Back \(ft\. Michael McDonald\)](https://open.spotify.com/track/3fgXSl6jqncaLZVO8WNPX5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [flow state](https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask) | 3:30 |
+| 55 | [We Go Back \(ft\. Michael McDonald\)](https://open.spotify.com/track/3fgXSl6jqncaLZVO8WNPX5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [flow state](https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask) | 3:30 |
+| 56 | [Georgia Woods](https://open.spotify.com/track/0TIk4vk0T7yQrlmvVBK74y) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:17 |
 | 57 | [Eu Quero Sempre Mais](https://open.spotify.com/track/5IVoRMwHAjjcwb3UFPX0CH) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [Eu Quero Sempre Mais](https://open.spotify.com/album/1EXUzzT8SmmU5nCD3ajq70) | 3:45 |
 | 58 | [You're Not Alone Tonight](https://open.spotify.com/track/5dv6muRACFr2La8vGZgMcY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:31 |
 | 59 | [Better Than I Am](https://open.spotify.com/track/4WRJRM32R7GGlsVxlv30pm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 4:31 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 102 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 103 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcbhiAAAAAAko/7mkbdHLdeugDmY6ovt`
+Snapshot ID: `AcbnKAAAAABr/0Od1DPTzQ8iM5i7cM6h`

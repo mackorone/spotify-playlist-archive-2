@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 127763,
+  "num_followers": 127767,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
+        "name": "Viernes De Pe\u00f1a",
+        "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
       },
       "artists": [
         {
-          "name": "Flou",
-          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
+          "name": "Marcelo Gabriel",
+          "url": "https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf"
+        },
+        {
+          "name": "Sol Codas",
+          "url": "https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
+      "duration_ms": 203911,
+      "name": "Viernes De Pe\u00f1a",
+      "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -863,22 +867,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Viernes De Pe\u00f1a",
-        "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S"
       },
       "artists": [
         {
-          "name": "Marcelo Gabriel",
-          "url": "https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf"
-        },
-        {
-          "name": "Sol Codas",
-          "url": "https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt"
+          "name": "Flou",
+          "url": "https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk"
         }
       ],
-      "duration_ms": 203911,
-      "name": "Viernes De Pe\u00f1a",
-      "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
+      "duration_ms": 198840,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

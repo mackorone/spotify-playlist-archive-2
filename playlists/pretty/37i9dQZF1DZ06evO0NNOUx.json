@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 215216,
+  "num_followers": 215325,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACh938F49GNRAxJggX/SvuO",
+  "snapshot_id": "aptbgAAAAACmRA2IH1CNQZJcwQwFUGQQ",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
       },
       "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 144568,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 144568,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -707,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ROCK",
-        "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 168058,
-      "name": "THE ROCK",
-      "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
+      "duration_ms": 146613,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+        "name": "THE ROCK",
+        "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 146613,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+      "duration_ms": 168058,
+      "name": "THE ROCK",
+      "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
       "duration_ms": 140813,
       "name": "KEEP IT SIMPLE",
       "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 155067,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
     },
     {
       "added_at": null,
@@ -811,26 +831,6 @@
       "duration_ms": 151905,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 155067,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
     },
     {
       "added_at": null,

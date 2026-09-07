@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298761,
+  "num_followers": 1298795,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "This Guy's In Love",
+        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "I've Got a Crush On You",
+      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Got You on My Mind",
         "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 182508,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "This Guy's In Love",
-        "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "I've Got a Crush On You",
-      "url": "https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 284133,
-      "name": "I'm Old Fashioned",
-      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -383,18 +367,18 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "French Fries & Champagne",
-        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
       "artists": [
         {
-          "name": "The Hot Sardines",
-          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 141640,
-      "name": "Sweet Pea",
-      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
+      "duration_ms": 284133,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -411,6 +395,22 @@
       "duration_ms": 233990,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "French Fries & Champagne",
+        "url": "https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv"
+      },
+      "artists": [
+        {
+          "name": "The Hot Sardines",
+          "url": "https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy"
+        }
+      ],
+      "duration_ms": 141640,
+      "name": "Sweet Pea",
+      "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Sings The Rodgers & Hart Songbook",
-        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Catching Tales",
         "url": "https://open.spotify.com/album/1QP3oxvk5vSyubgBWwJCTe"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 186225,
       "name": "Dream a Little Dream of Me",
       "url": "https://open.spotify.com/track/0fVhDykD0OZ7pIytVEKQyF"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "Sings The Rodgers & Hart Songbook",
+        "url": "https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Date With A Dream",
+        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
+      },
+      "artists": [
+        {
+          "name": "Malene Mortensen",
+          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
+        }
+      ],
+      "duration_ms": 252081,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "The Silver Lining - The Songs of Jerome Kern",
         "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 278901,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Date With A Dream",
-        "url": "https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO"
-      },
-      "artists": [
-        {
-          "name": "Malene Mortensen",
-          "url": "https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2"
-        }
-      ],
-      "duration_ms": 252081,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
-        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        },
-        {
-          "name": "Iiro Rantala",
-          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
-        }
-      ],
-      "duration_ms": 331141,
-      "name": "As Time Goes By",
-      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Meet Me at the Movies (feat. Iiro Rantala)",
+        "url": "https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        },
+        {
+          "name": "Iiro Rantala",
+          "url": "https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL"
+        }
+      ],
+      "duration_ms": 331141,
+      "name": "As Time Goes By",
+      "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "Stella Cole (Extended Version)",
         "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
-      },
-      "artists": [
-        {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "True Love: A Celebration Of Cole Porter",
         "url": "https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 209040,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "On Holiday",
-        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8s Fenger",
-          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
         "name": "Here's To You - Songs For Shirley Horn",
         "url": "https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 301533,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
+        "name": "On Holiday",
+        "url": "https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8s Fenger",
+          "url": "https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Love & the Lack Thereof",
-        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
         }
       ],
-      "duration_ms": 373946,
-      "name": "Then I'll Be Tired of You",
-      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
+      "duration_ms": 178426,
+      "name": "People Will Say We're In Love",
+      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
-        "name": "Come Closer",
-        "url": "https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39"
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
         }
       ],
-      "duration_ms": 178426,
-      "name": "People Will Say We're In Love",
-      "url": "https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij"
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
     },
     {
       "added_at": "2026-07-03 08:18:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 95526,
+  "num_followers": 95548,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAACqECw6ICVBP1Qd/LqJBJc2",
+  "snapshot_id": "aptbgAAAAADSI3VKAFWEtShm/ATQKzT+",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202088,
-      "name": "Cursi De +",
-      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204666,
       "name": "Ni Freud Ni Tu Mama",
       "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202088,
+      "name": "Cursi De +",
+      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Voy a Esperar (feat. Belinda)",
-        "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Te Voy a Esperar (feat. Belinda)",
-      "url": "https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 149720,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Voy a Esperar (feat. Belinda)",
+        "url": "https://open.spotify.com/album/7FNuyd1Gm4pPEr9XVkhvF5"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Te Voy a Esperar (feat. Belinda)",
+      "url": "https://open.spotify.com/track/1Px4jqDnQFulhG7Dl3nK0C"
     },
     {
       "added_at": null,
@@ -1103,26 +1103,6 @@
       "duration_ms": 246506,
       "name": "Amigas Cheetahs",
       "url": "https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     }
   ],
   "unique_name": "This Is Belinda",

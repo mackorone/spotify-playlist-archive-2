@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,533 likes - 1,770 songs - 4 day 3 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,540 likes - 1,770 songs - 4 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,9 +222,9 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 212 | [As Above, So Below](https://open.spotify.com/track/0VVnrydIDvvzUpAFcfNvHr) | [otsyuda](https://open.spotify.com/artist/73qQtCkSZE3wze4wlUi5OA) | [Fin](https://open.spotify.com/album/4FVV0juILcTrMWEqMkF927) | 3:36 |
 | 213 | [Here Comes](https://open.spotify.com/track/34qh5xCkQP1MeXbSnCVGKx) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Souvenir](https://open.spotify.com/album/0fBKd44aWIWmuZYRozc0Sy) | 3:40 |
 | 214 | [cherry coke](https://open.spotify.com/track/0oce4dQchR5xjR43OGXHoN) | [prisms](https://open.spotify.com/artist/4jkvw4BX42bsV5iIGQuqGB) | [cherry coke](https://open.spotify.com/album/0KqmOPNLlOXYzLDfj8R1P6) | 2:28 |
-| 215 | [Lost Signal](https://open.spotify.com/track/2I597clj5PJWixyMR47HRi) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Lost Signal](https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ) | 2:33 |
-| 216 | [Seventeen](https://open.spotify.com/track/1vA0EQ1G4iXlU6KjU2NGuC) | [Trimmo](https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW) | [Arizona](https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z) | 1:51 |
-| 217 | [Anymore](https://open.spotify.com/track/1CQRMCbwmsqK7OPx39E2Ig) | [Spun Mellow](https://open.spotify.com/artist/5XjAtljOcJIzYoefDXRUxQ) | [Afterimage](https://open.spotify.com/album/2z08TB815kaAiyKkEYZcZV) | 4:00 |
+| 215 | [Seventeen](https://open.spotify.com/track/1vA0EQ1G4iXlU6KjU2NGuC) | [Trimmo](https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW) | [Arizona](https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z) | 1:51 |
+| 216 | [Anymore](https://open.spotify.com/track/1CQRMCbwmsqK7OPx39E2Ig) | [Spun Mellow](https://open.spotify.com/artist/5XjAtljOcJIzYoefDXRUxQ) | [Afterimage](https://open.spotify.com/album/2z08TB815kaAiyKkEYZcZV) | 4:00 |
+| 217 | [Lost Signal](https://open.spotify.com/track/2I597clj5PJWixyMR47HRi) | [Internet Cafe](https://open.spotify.com/artist/53k5QCjTcDkWtbltJLSIq6) | [Lost Signal](https://open.spotify.com/album/5kThtU5Z2FvPVAvjA0opCQ) | 2:33 |
 | 218 | [Bontempi Pop 3](https://open.spotify.com/track/1XUo3P5GEURYFPVdEOgOq2) | [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD) | [A Violent Power](https://open.spotify.com/album/5epPTKP7hb3B300dTKBs0l) | 3:15 |
 | 219 | [Cherry Sunday](https://open.spotify.com/track/69bBOCJcig4O4IcAUN8Ynp) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Mask Lady and Late Night Girl](https://open.spotify.com/album/6JZGUjizoZ1yNA2wOEDNoh) | 2:28 |
 | 220 | [Birdman Rally](https://open.spotify.com/track/6p0UXizhUvk8AaOSmMNmbX) | [Billiam](https://open.spotify.com/artist/0JhlLn0n971eKUlSavlYMh) | [Birdman Rally](https://open.spotify.com/album/4yTx9N2LSofKeBFHVg8lw5) | 1:41 |
@@ -1779,4 +1779,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1769 | [Lifeloose](https://open.spotify.com/track/3zUJcgFg0tspBiRlVRijv6) | [Lifeloose](https://open.spotify.com/artist/0vaeDzewhDalyyjU2dzgMG) | [Lifeloose](https://open.spotify.com/album/6vViE9AAjxWXb3CRyvtANS) | 3:16 |
 | 1770 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABXa/tmJaYfF2QqUMBits9dMNShyI7n`
+Snapshot ID: `AABXbDdxLSogRxcArjoBM3ML9uGKd9pG`

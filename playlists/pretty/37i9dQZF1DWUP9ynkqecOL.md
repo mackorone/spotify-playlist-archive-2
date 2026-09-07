@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,598 likes - 27 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,599 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
 | 2 | [Me Tocó Perder](https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:50 |
 | 3 | [Un Montón de Estrellas](https://open.spotify.com/track/3eClp96lC5b2IKQZW4XMBR) | [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2) | [Un Montón de Estrellas](https://open.spotify.com/album/5MHb24RCpqg5ekjMGGi2wG) | 3:24 |
-| 4 | [+ Zambas Románticas: Zamba y Acuarela / Después de tantos años / Difícil / Fabulas de Amor](https://open.spotify.com/track/3oCZKNEbBvwbHwSULtRZH6) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [+ Zambas Románticas: Zamba y Acuarela / Después de tantos años / Difícil / Fabulas de Amor](https://open.spotify.com/album/46sM20vxSGlvW9BQklh6b4) | 7:18 |
-| 5 | [Ni Una Sola Palabra](https://open.spotify.com/track/1qCfOZFOcZCHF6d3wxIHgS) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Ni Una Sola Palabra](https://open.spotify.com/album/19RFziCPrvqOvLQmdxdS8x) | 3:30 |
+| 4 | [Ni Una Sola Palabra](https://open.spotify.com/track/1qCfOZFOcZCHF6d3wxIHgS) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Ni Una Sola Palabra](https://open.spotify.com/album/19RFziCPrvqOvLQmdxdS8x) | 3:30 |
+| 5 | [+ Zambas Románticas: Zamba y Acuarela / Después de tantos años / Difícil / Fabulas de Amor](https://open.spotify.com/track/3oCZKNEbBvwbHwSULtRZH6) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS) | [+ Zambas Románticas: Zamba y Acuarela / Después de tantos años / Difícil / Fabulas de Amor](https://open.spotify.com/album/46sM20vxSGlvW9BQklh6b4) | 7:18 |
 | 6 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 |
 | 7 | [Lindo Adorno pa' Mi Apero](https://open.spotify.com/track/4npFYHVY3BKkVvdF9VDDUD) | [Esto es ¡FA!](https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn), [Mex Urtizberea](https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI), [Radamel](https://open.spotify.com/artist/3vohGR9Ee8zkl7UpgPLGT9) | [FAlklore Vol\. 2](https://open.spotify.com/album/0hukQey7qPa49oSVhu5kIv) | 3:27 |
 | 8 | [MI CHINA](https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [MI CHINA](https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM) | 2:07 |
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 20 | [Quién va a cantar](https://open.spotify.com/track/0rJFZjUamurKu7Y6jdBQx1) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr) | [Quién va a cantar](https://open.spotify.com/album/4XtW6stHkJaRAOEMYh5N7w) | 2:47 |
 | 21 | [RENACIMIENTO](https://open.spotify.com/track/4qzVmx1h523oiyF9SjYTBr) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 1:21 |
 | 22 | [Madrina](https://open.spotify.com/track/2Rff0KNafA07AtSntxWT8F) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Maggie Cullen](https://open.spotify.com/artist/2ohOPQIexaf9bhfF3FAF3t) | [Los Algarrobos](https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ) | 1:43 |
-| 23 | [La Montaña](https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [La Montaña](https://open.spotify.com/album/1BllJboePDL5uY0fORETQO) | 4:05 |
+| 23 | [Ay, Carnaval](https://open.spotify.com/track/162q1URorZHEYvW3vfFjcR) | [Maggie Cullen](https://open.spotify.com/artist/2ohOPQIexaf9bhfF3FAF3t), [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Ay, Carnaval](https://open.spotify.com/album/1iEQzIqtH0zkl5wgWy0dpN) | 3:01 |
 | 24 | [Tu Misterioso Alguien](https://open.spotify.com/track/05NIrKmFsRW2beYsVWALMy) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Tu Misterioso Alguien](https://open.spotify.com/album/2bGGtY1wTxX54ELhGzFP91) | 3:24 |
 | 25 | [Neuquén Trabun Mapu](https://open.spotify.com/track/2LkldxIcPcK4875w5hW8pa) | [Pilar Gough](https://open.spotify.com/artist/4IEFqhF5DzMLIQqrTrmojr), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Neuquén Trabun Mapu](https://open.spotify.com/album/4cYt0z0WZHXEBZHN7DgC37) | 2:30 |
-| 26 | [Ay, Carnaval](https://open.spotify.com/track/162q1URorZHEYvW3vfFjcR) | [Maggie Cullen](https://open.spotify.com/artist/2ohOPQIexaf9bhfF3FAF3t), [Pachi Herrera](https://open.spotify.com/artist/6dwTZmpwSlHawmTFTe5fRV) | [Ay, Carnaval](https://open.spotify.com/album/1iEQzIqtH0zkl5wgWy0dpN) | 3:01 |
+| 26 | [La Montaña](https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [La Montaña](https://open.spotify.com/album/1BllJboePDL5uY0fORETQO) | 4:05 |
 | 27 | [YO SOY EL DUEÑO](https://open.spotify.com/track/6T1menSISCCZis7XIR90pb) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [YO SOY EL DUEÑO](https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN) | 2:14 |
 
 Snapshot ID: `AAAAAPL5D1w4Vq3jwCXKsTSTkXoavrMy`

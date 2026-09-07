@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Temsu Clover",
-  "num_followers": 200929,
+  "num_followers": 201024,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
         "name": "Main Tera Deewana",
         "url": "https://open.spotify.com/album/0TcdNjQLDOyagOMsbqIx66"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 220414,
       "name": "Main Tera Deewana",
       "url": "https://open.spotify.com/track/1fKbX7xTqivTfyapb01Iht"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "added_at": "2026-09-04 13:25:44",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
-        "name": "Better With You (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
-      },
-      "artists": [
-        {
-          "name": "Kushagra",
-          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
-        },
-        {
-          "name": "Ansh4sure",
-          "url": "https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA"
-        }
-      ],
-      "duration_ms": 174065,
-      "name": "Better With You (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
         "name": "Uljhan",
         "url": "https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 134139,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
+        "name": "Better With You (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Ansh4sure",
+          "url": "https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "Better With You (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c"
     },
     {
       "added_at": "2026-09-04 13:25:44",
@@ -783,6 +783,26 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
+        "name": "Main Khadya",
+        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
+      },
+      "artists": [
+        {
+          "name": "Naveen Chaudhary",
+          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
+        },
+        {
+          "name": "Heer",
+          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Main Khadya",
+      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
         "name": "Aas",
         "url": "https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
-        "name": "Main Khadya",
-        "url": "https://open.spotify.com/album/2mzaueuvI1r4fRrwJEUdX4"
-      },
-      "artists": [
-        {
-          "name": "Naveen Chaudhary",
-          "url": "https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB"
-        },
-        {
-          "name": "Heer",
-          "url": "https://open.spotify.com/artist/0Z9plG3hnIsXMiAukUIh1l"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Main Khadya",
-      "url": "https://open.spotify.com/track/0qcTfoV2aVjbajiDNzWkZJ"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
         "name": "Dil Se",
         "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
       },
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
+        "name": "Patang (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
+      },
+      "artists": [
+        {
+          "name": "Abeer Chopra",
+          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
+        },
+        {
+          "name": "Arav Dhawan",
+          "url": "https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3"
+        }
+      ],
+      "duration_ms": 178222,
+      "name": "Patang (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
         "name": "Haal-e-Dil",
         "url": "https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 141716,
       "name": "Piya",
       "url": "https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
-        "name": "Patang (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
-      },
-      "artists": [
-        {
-          "name": "Abeer Chopra",
-          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
-        },
-        {
-          "name": "Arav Dhawan",
-          "url": "https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3"
-        }
-      ],
-      "duration_ms": 178222,
-      "name": "Patang (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
     },
     {
       "added_at": "2026-09-04 13:25:44",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "duration_ms": 172352,
+      "name": "Dariya",
+      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
         "name": "Le Jaa",
         "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 154015,
       "name": "Le Jaa",
       "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t"
-      },
-      "artists": [
-        {
-          "name": "Himonshu Parikh",
-          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
-        }
-      ],
-      "duration_ms": 172352,
-      "name": "Dariya",
-      "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
     },
     {
       "added_at": "2026-09-04 13:25:44",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
-        "name": "Vaakkath",
-        "url": "https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW"
-      },
-      "artists": [
-        {
-          "name": "Haniya Nafisa",
-          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
-        },
-        {
-          "name": "Zail",
-          "url": "https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R"
-        }
-      ],
-      "duration_ms": 183071,
-      "name": "Thirinjin",
-      "url": "https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
         "name": "Jaan Se Zyada",
         "url": "https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 173597,
       "name": "Jaan Se Zyada",
       "url": "https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
+        "name": "Vaakkath",
+        "url": "https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW"
+      },
+      "artists": [
+        {
+          "name": "Haniya Nafisa",
+          "url": "https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0"
+        },
+        {
+          "name": "Zail",
+          "url": "https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R"
+        }
+      ],
+      "duration_ms": 183071,
+      "name": "Thirinjin",
+      "url": "https://open.spotify.com/track/7xks8vdAWuKzoh8xHJLntX"
     },
     {
       "added_at": "2026-09-04 13:25:44",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-09-04 13:25:44",
       "album": {
+        "name": "Tu hi hai",
+        "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Aggrwal",
+          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
+        }
+      ],
+      "duration_ms": 187959,
+      "name": "Tu hi hai",
+      "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
+    },
+    {
+      "added_at": "2026-09-04 13:25:44",
+      "album": {
         "name": "Kehndi Hai",
         "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
-    },
-    {
-      "added_at": "2026-09-04 13:25:44",
-      "album": {
-        "name": "Tu hi hai",
-        "url": "https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ"
-      },
-      "artists": [
-        {
-          "name": "Twinkle Aggrwal",
-          "url": "https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG"
-        }
-      ],
-      "duration_ms": 187959,
-      "name": "Tu hi hai",
-      "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
     },
     {
       "added_at": "2026-09-04 13:25:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 18924,
+  "num_followers": 18935,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAAO6CrWKNRCWRumE4i2yt1U",
+  "snapshot_id": "aptbgAAAAADznzCeGZciCJE2a/CpUsoI",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
+        "name": "Skido (with Olamide)",
+        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
       },
       "artists": [
         {
-          "name": "S high",
-          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
         }
       ],
-      "duration_ms": 206821,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
+      "duration_ms": 166375,
+      "name": "Skido (with Olamide)",
+      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
     },
     {
       "added_at": null,
@@ -671,22 +667,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skido (with Olamide)",
-        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "S high",
+          "url": "https://open.spotify.com/artist/1C0amI9hInKEqXOrJsc6lp"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166375,
-      "name": "Skido (with Olamide)",
-      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
+      "duration_ms": 206821,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
     },
     {
       "added_at": null,
@@ -842,15 +842,11 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 217302,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,
@@ -918,11 +914,15 @@
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
+      "duration_ms": 217302,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
     },
     {
       "added_at": null,

@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Every Minute Of It",
+        "url": "https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208286,
+      "name": "Every Minute Of It",
+      "url": "https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V"
+    },
+    {
+      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
       },

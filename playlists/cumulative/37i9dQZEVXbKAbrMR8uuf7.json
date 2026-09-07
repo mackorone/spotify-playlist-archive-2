@@ -6130,7 +6130,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 244000,
       "name": "CAPCANA COCOA",
       "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
@@ -17000,6 +17000,36 @@
     {
       "album": {
         "name": "GOZALO QUE TU MARIDO ESTA PRESO (REMIX)",
+        "url": "https://open.spotify.com/album/6ma11YUwJhN7NvEtAKqHwl"
+      },
+      "artists": [
+        {
+          "name": "Zelcok Kp",
+          "url": "https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr"
+        },
+        {
+          "name": "Luis Malave",
+          "url": "https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2"
+        },
+        {
+          "name": "J-Lit",
+          "url": "https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v"
+        },
+        {
+          "name": "Kiddy Fount",
+          "url": "https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "GOZALO QUE TU MARIDO ESTA PRESO - REMIX",
+      "url": "https://open.spotify.com/track/2H5T8qaX8kbZImOkPNsA53"
+    },
+    {
+      "album": {
+        "name": "GOZALO QUE TU MARIDO ESTA PRESO (REMIX)",
         "url": "https://open.spotify.com/album/5zR0OGxVRFzMXf4P3Ey37d"
       },
       "artists": [
@@ -18252,7 +18282,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 166265,
       "name": "HOMBRE",
       "url": "https://open.spotify.com/track/0aAK0G8pJpYdl21gJpqt1h"
@@ -24862,7 +24892,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 126367,
       "name": "Malvada Se Cree",
       "url": "https://open.spotify.com/track/1daPFVPnbfG0JV9fA49jqk"
@@ -30566,7 +30596,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 133669,
       "name": "Pa Tripea",
       "url": "https://open.spotify.com/track/1CFvTAWrMV8qayjz5pyYkQ"
@@ -33650,7 +33680,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 240195,
       "name": "PPC",
       "url": "https://open.spotify.com/track/30ga1gIdpg6M6ZshWo7YgC"
@@ -36908,7 +36938,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 97113,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/5oJA5EvbxaBPbum2FX11MC"
@@ -47146,6 +47176,24 @@
       "duration_ms": 264727,
       "name": "Ya Me Enter\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/4zqAuyPZKQCxG6c6SBiXDv"
+    },
+    {
+      "album": {
+        "name": "Live Concert",
+        "url": "https://open.spotify.com/album/0yr8S95Ig8NCJuQJd3URn9"
+      },
+      "artists": [
+        {
+          "name": "Dalvin La Melodia",
+          "url": "https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ"
+        }
+      ],
+      "date_added": "2026-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262058,
+      "name": "Ya Me Enter\u00e9 - Live",
+      "url": "https://open.spotify.com/track/6fIseBtp274Jl2s6pjugWG"
     },
     {
       "album": {

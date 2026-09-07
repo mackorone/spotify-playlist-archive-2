@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-138 songs - 8 hr 1 min
+139 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Júpiter \- Ao Vivo](https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter \(Ao Vivo\)](https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf) | 2:16 | 2024-03-18 |  |
 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 | 2024-08-02 |  |
 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 | 2023-10-13 |  |
+| [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 | 2026-09-04 |  |
 | [Mande um Sinal \- Acústico](https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Mande um Sinal \(Acústico\)](https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq) | 3:58 | 2024-07-12 |  |
 | [Me Diz](https://open.spotify.com/track/10lmdxhXzNHFUPL3spPCvf) | [Ariane Villa Lobos](https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz) | [Me Diz](https://open.spotify.com/album/0mkif5b8SW3koODDQbwN9l) | 3:26 | 2023-10-13 | 2024-04-19 |
 | [Me Diz](https://open.spotify.com/track/6PdMs1R7JSYy2Xlh4EP4P1) | [Ariane Villa Lobos](https://open.spotify.com/artist/4qBpmZnoissevo5OnTp5Uz) | [Me Diz](https://open.spotify.com/album/5CpvvfYzoepNsuO6gtl85B) | 3:26 | 2024-03-18 | 2026-05-29 |
@@ -132,7 +133,7 @@
 | [Todas as Janelas](https://open.spotify.com/track/6BO1F7s14ZehAecywx99G6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Saideira Acústico Sessions](https://open.spotify.com/album/25dOkXZ3uEjF6lamqU3qRC) | 4:27 | 2023-10-13 | 2024-07-13 |
 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 | 2023-10-13 |  |
 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 | 2023-10-13 |  |
-| [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 | 2024-03-18 |  |
+| [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 | 2024-03-18 | 2026-09-07 |
 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/4Z8nVx6G8nEpbhVjMqtiIz) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Todas as Praias \(Axé\) \[Acústico\]](https://open.spotify.com/album/1hMWfs6C6zkDkGmc4lGIUF) | 3:41 | 2023-10-13 | 2024-04-19 |
 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 | 2023-10-13 |  |
 | [Um Anjo do Céu \- Acústico](https://open.spotify.com/track/5d3LxGIJLPmFR7pvPUJuzd) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Um Anjo do Céu \(Acústico\)](https://open.spotify.com/album/6dV3mqwoIdACcrzyD8BdIi) | 2:22 | 2023-10-13 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Tyla",
-  "num_followers": 6747,
+  "num_followers": 6745,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 294193,
       "name": "Golden Burning Sun",
       "url": "https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "Fort",
-        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Fort",
-      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
         "name": "Love Is for Suckers",
         "url": "https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 181028,
       "name": "Love Is for Suckers",
       "url": "https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC"
     },
     {
       "added_at": "2026-09-03 23:59:11",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
+        "name": "Not My Circus",
+        "url": "https://open.spotify.com/album/6F9WM2OjOvU8nwJ4N0fajZ"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Work Like That",
+      "url": "https://open.spotify.com/track/09JHbZsHQQv9RzpicIuSYr"
+    },
+    {
+      "added_at": "2026-09-03 23:59:11",
+      "album": {
         "name": "Untimely Disclosure",
         "url": "https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq"
       },
@@ -1323,24 +1339,8 @@
     {
       "added_at": "2026-09-03 23:59:11",
       "album": {
-        "name": "My Sweet Lullaby",
-        "url": "https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5"
-      },
-      "artists": [
-        {
-          "name": "Anacy",
-          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
-        }
-      ],
-      "duration_ms": 205677,
-      "name": "My Sweet Lullaby",
-      "url": "https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4"
-    },
-    {
-      "added_at": "2026-09-03 23:59:11",
-      "album": {
-        "name": "F.A.F.O",
-        "url": "https://open.spotify.com/album/1bPg0dovsBDl8Ul1C9DPP5"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0hjPhlvKTwUFXvphvv9LBG"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86"
         }
       ],
-      "duration_ms": 146440,
-      "name": "F.A.F.O",
-      "url": "https://open.spotify.com/track/0NdOu1PqAB9rJDwBFmfyIk"
+      "duration_ms": 192266,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/0e7gzyPH40qnJWJzCt7qOX"
     }
   ],
   "unique_name": "pop fm",

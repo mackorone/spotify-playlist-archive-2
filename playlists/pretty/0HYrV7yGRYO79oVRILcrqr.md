@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,884 likes - 100 songs - 6 hr 34 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,888 likes - 106 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 98 | [Spark](https://open.spotify.com/track/39QWoXuLCF0CLpIJacmNEJ) | [Behnam Zandieh](https://open.spotify.com/artist/6ozQpNxAqGVq4zSV8L1QCt), [Mohammad Ali Teimouri](https://open.spotify.com/artist/0SUHCSWRUzXxf9JFquUDPI), [Dara Teymoorifar](https://open.spotify.com/artist/6TLuzZkNkv98VJvJsbgMmJ) | [Jazzromad](https://open.spotify.com/album/5PWENPKLacCrmeTssVZMlu) | 4:53 |
 | 99 | [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 |
 | 100 | [Fria Pero Quema](https://open.spotify.com/track/3QlVCOzSv1eMq99lhTxFP0) | [Mr Brey](https://open.spotify.com/artist/6oOAP9o5Hqmtzffr6OyQ9y) | [Fria Pero Quema](https://open.spotify.com/album/4NuiGgK6hMFLDeF6AraUM3) | 2:56 |
+| 101 | [Em Meio ao Caos](https://open.spotify.com/track/6zsMTcx0wMe6qRvKw9IJGT) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Em Meio ao Caos](https://open.spotify.com/album/2OFUSAfeqtlraXQF8h2vsC) | 3:44 |
+| 102 | [Amor à beira\-mar](https://open.spotify.com/track/4Wt6Rqu8Jignaau0U6MGth) | [Zeo Hettes](https://open.spotify.com/artist/5sgQCBSCf5KzI2AN5Iupot) | [Amor à beira\-mar](https://open.spotify.com/album/0YKJeiPBR2EzGcabyZz0U7) | 2:56 |
+| 103 | [BADASS\-GIRL](https://open.spotify.com/track/102FBAQ7ZoDSxxAEPnT9Nt) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [BADASS\-GIRL](https://open.spotify.com/album/1zj1pe14y73hucU7DuFHyg) | 2:53 |
+| 104 | [Farmarock](https://open.spotify.com/track/3GbzPD6uyOqS8cP4GiqdjV) | [Mardita](https://open.spotify.com/artist/1QFIZ0lOZciTNlDBJcIdJc) | [Farmarock](https://open.spotify.com/album/5amwfzHfVIE8MgFKR0wW77) | 4:38 |
+| 105 | [Dancing all night](https://open.spotify.com/track/34irYhqyfolUmYwup3fqHk) | [Star Crystal](https://open.spotify.com/artist/0heeideNtetIRa4LIz2kO5) | [Revival of Glam](https://open.spotify.com/album/5Trqh4Qg12C5FqjyXDe1s0) | 4:36 |
+| 106 | [Stay With Me](https://open.spotify.com/track/1wRnOV1763A7YlB42Pvfpn) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [Stay With Me](https://open.spotify.com/album/6isa4PolhfUDnsWuKMSeBP) | 2:25 |
 
-Snapshot ID: `AAAMX2rljMagvYOe5ZippaYMOK3rs97R`
+Snapshot ID: `AAAMZbyLzeRXmgvCE+5QMn4zJTnNl4O6`

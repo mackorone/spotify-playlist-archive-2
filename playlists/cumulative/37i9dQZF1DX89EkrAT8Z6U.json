@@ -1665,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Sword & Sorcery",
+        "url": "https://open.spotify.com/album/1rkKP96HMoC6T9lDp7gNK4"
+      },
+      "artists": [
+        {
+          "name": "Rustage",
+          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+        },
+        {
+          "name": "McGwire",
+          "url": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Devil's Luck",
+      "url": "https://open.spotify.com/track/0LcUDd9Pz0qSC1Tn09G4kn"
+    },
+    {
+      "album": {
         "name": "Diamond Drift",
         "url": "https://open.spotify.com/album/5VyIU7SbhV84fyOYsIT8KD"
       },
@@ -5444,7 +5466,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 171140,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/2zkTK9vKqjNkLp4SOzpSXc"

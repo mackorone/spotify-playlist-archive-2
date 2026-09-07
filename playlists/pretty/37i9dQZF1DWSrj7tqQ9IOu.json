@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Haute & Freddy",
-  "num_followers": 401505,
+  "num_followers": 401500,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Ao\u00fbt 2026",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "7563",
-        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 243302,
-      "name": "7563",
-      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "Happiness Anytime: Part 2",
         "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 178702,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "ON MY BIRTHDAY",
-        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 135549,
-      "name": "Fast and Furious",
-      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "How Much",
         "url": "https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF"
       },
@@ -199,6 +183,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "ON MY BIRTHDAY",
+        "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 135549,
+      "name": "Fast and Furious",
+      "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "STARLIFE",
         "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
@@ -211,6 +211,38 @@
       "duration_ms": 149605,
       "name": "FYNE",
       "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "DJ Creole Princess",
+          "url": "https://open.spotify.com/artist/0xcW77kyXGtKikkJJKjnAX"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Joi",
+          "url": "https://open.spotify.com/artist/465zsHFUjQH4sQPdHIbqIf"
+        }
+      ],
+      "duration_ms": 262574,
+      "name": "I Just Play A Part - feat. DJ Creole Princess, Westside Gunn, Joi",
+      "url": "https://open.spotify.com/track/6sQXBtFI3ouCLocFLWnBaS"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -251,38 +283,6 @@
       "duration_ms": 175720,
       "name": "I Cry in Front of Paintings",
       "url": "https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "DJ Creole Princess",
-          "url": "https://open.spotify.com/artist/0xcW77kyXGtKikkJJKjnAX"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Joi",
-          "url": "https://open.spotify.com/artist/465zsHFUjQH4sQPdHIbqIf"
-        }
-      ],
-      "duration_ms": 262574,
-      "name": "I Just Play A Part - feat. DJ Creole Princess, Westside Gunn, Joi",
-      "url": "https://open.spotify.com/track/6sQXBtFI3ouCLocFLWnBaS"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -335,18 +335,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+        "name": "Traces (feat. SDM)",
+        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 146165,
-      "name": "SHEGE",
-      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
+      "duration_ms": 194919,
+      "name": "Traces (feat. SDM)",
+      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -367,22 +371,18 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Traces (feat. SDM)",
-        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
       "artists": [
         {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 194919,
-      "name": "Traces (feat. SDM)",
-      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
+      "duration_ms": 146165,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "DO YOU SEE ME?",
         "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
       },
@@ -423,18 +439,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
+      "duration_ms": 166480,
+      "name": "LIGHT DESIGN: OKLOU VERSION",
+      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -483,26 +503,6 @@
       "duration_ms": 240000,
       "name": "Two Roads",
       "url": "https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "LIGHT DESIGN: OKLOU VERSION",
-      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
     },
     {
       "added_at": "2026-08-31 22:00:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Par le vide",
-        "url": "https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw"
-      },
-      "artists": [
-        {
-          "name": "Dynamite Shakers",
-          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Par le vide",
-      "url": "https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "le premier amour de mon premier amour",
         "url": "https://open.spotify.com/album/0JofKYbuB3KXDwtTpRN72y"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 159724,
       "name": "le premier amour de mon premier amour",
       "url": "https://open.spotify.com/track/0aC2QOoK7pcjyXWq76ze8T"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "Par le vide",
+        "url": "https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw"
+      },
+      "artists": [
+        {
+          "name": "Dynamite Shakers",
+          "url": "https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Par le vide",
+      "url": "https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc"
     },
     {
       "added_at": "2026-08-31 22:00:22",

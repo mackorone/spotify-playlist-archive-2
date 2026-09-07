@@ -8192,7 +8192,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 404032,
       "name": "NGF",
       "url": "https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU"
@@ -12228,6 +12228,24 @@
       "duration_ms": 184320,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/2LxFLV3dgQe6Uda8hsxa85"
+    },
+    {
+      "album": {
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
     },
     {
       "album": {

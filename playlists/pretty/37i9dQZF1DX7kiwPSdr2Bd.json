@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Fabiana Sinfr\u00f4nio",
-  "num_followers": 370346,
+  "num_followers": 370351,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Ovelhinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 276453,
       "name": "Ovelhinha (Ao Vivo)",
       "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Santo Pra Sempre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 338625,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Santo Pra Sempre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Em Todo Tempo",
-        "url": "https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        }
-      ],
-      "duration_ms": 360709,
-      "name": "Em Todo Tempo",
-      "url": "https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
         "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 223640,
       "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
       "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Em Todo Tempo",
+        "url": "https://open.spotify.com/album/1j6lyZyzjIAKn4B6xhNpUu"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 360709,
+      "name": "Em Todo Tempo",
+      "url": "https://open.spotify.com/track/3uz5amJdM3nDuhEeypgMVH"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Vem Fluir (Fall Like Rain)",
+        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 387779,
+      "name": "Vem Fluir (Fall Like Rain)",
+      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Cora\u00e7\u00e3o Valente (Ao Vivo)",
         "url": "https://open.spotify.com/album/0uUbBvXPDtSXPBQMscajl7"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 328001,
       "name": "Nada Pode Calar Um Adorador (Ao Vivo)",
       "url": "https://open.spotify.com/track/4ZDc1aKX8ldalXDH98i9ef"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Vem Fluir (Fall Like Rain)",
-        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 387779,
-      "name": "Vem Fluir (Fall Like Rain)",
-      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
     },
     {
       "added_at": "2026-08-07 14:18:25",

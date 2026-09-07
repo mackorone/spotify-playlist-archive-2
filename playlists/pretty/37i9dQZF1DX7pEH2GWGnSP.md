@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,262 likes - 133 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,296 likes - 133 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

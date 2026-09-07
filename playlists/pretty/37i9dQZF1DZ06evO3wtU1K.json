@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37749,
+  "num_followers": 37757,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAAAdoMecYiP2GXBUqC9s60c9",
+  "snapshot_id": "aptbgAAAAABH9JbNLmLUYyDd/8cgWgM8",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
+        "name": "All Authority (LIVE)",
+        "url": "https://open.spotify.com/album/5kYO5bBkw7crmqnI2feBXn"
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Woman Evolve Worship",
+          "url": "https://open.spotify.com/artist/3WBfPh9zlMVP06nhky0VYN"
         },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 222169,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
+      "duration_ms": 552287,
+      "name": "All Authority - LIVE",
+      "url": "https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R"
     },
     {
       "added_at": null,
@@ -183,22 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Authority (LIVE)",
-        "url": "https://open.spotify.com/album/5kYO5bBkw7crmqnI2feBXn"
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh"
       },
       "artists": [
         {
-          "name": "Woman Evolve Worship",
-          "url": "https://open.spotify.com/artist/3WBfPh9zlMVP06nhky0VYN"
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 552287,
-      "name": "All Authority - LIVE",
-      "url": "https://open.spotify.com/track/7sr8oiWn2rhtA2rj06J89R"
+      "duration_ms": 222169,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 396198,
-      "name": "Never Gave Up - Live",
-      "url": "https://open.spotify.com/track/68JQwcmadxmbL9F7EaQ7dq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Maverick Way - EP",
         "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 556673,
       "name": "More Than Able (feat. Tasha Cobbs Leonard , Chandler Moore, Naomi Raine)",
       "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 396198,
+      "name": "Never Gave Up - Live",
+      "url": "https://open.spotify.com/track/68JQwcmadxmbL9F7EaQ7dq"
     },
     {
       "added_at": null,

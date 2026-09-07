@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 332787,
+  "num_followers": 332827,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAABl6uxOgxFdJ5fJDgC2nwXT",
+  "snapshot_id": "aptbgAAAAAB/DvhHoz66Bmb4KuXzGLM7",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 216799,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comatose",
         "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 226506,
       "name": "Those Nights",
       "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 216799,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
     },
     {
       "added_at": null,

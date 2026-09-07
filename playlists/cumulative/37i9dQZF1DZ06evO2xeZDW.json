@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 116693,
       "name": "A New Deal",
       "url": "https://open.spotify.com/track/6ddWWAGUgZPBmi6Ezakha1"
@@ -756,6 +756,24 @@
       "duration_ms": 156466,
       "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
       "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
+    },
+    {
+      "album": {
+        "name": "Ratatouille (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50706,
+      "name": "Souped Up",
+      "url": "https://open.spotify.com/track/1ObCM8mvOZ0O1RvNNvcHdI"
     },
     {
       "album": {

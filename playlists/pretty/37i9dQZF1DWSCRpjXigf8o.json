@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88637,
+  "num_followers": 88624,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,30 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
+      },
+      "artists": [
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        },
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "duration_ms": 204119,
+      "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u97f3\u30bf\u30a4\u30e0",
         "url": "https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 202184,
       "name": "\u3070\u3089\u3070\u3089",
       "url": "https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
-      },
-      "artists": [
-        {
-          "name": "idom",
-          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
-        },
-        {
-          "name": "peko",
-          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
-        },
-        {
-          "name": "Mamiko Suzuki",
-          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
-        }
-      ],
-      "duration_ms": 204119,
-      "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "LIGHTHOUSE",
         "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187666,
       "name": "\u706f\u53f0 (Live Session)",
       "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 169172,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Call It A Day",
         "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 176986,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
-      },
-      "artists": [
-        {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
-        }
-      ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -987,22 +987,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Fall Into You",
-        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
         }
       ],
-      "duration_ms": 168658,
-      "name": "Fall Into You",
-      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1027,6 +1023,26 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
       },
@@ -1039,6 +1055,22 @@
       "duration_ms": 248000,
       "name": "Apple",
       "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "added_at": "2026-05-21 15:00:24",
@@ -1059,38 +1091,6 @@
       "duration_ms": 216996,
       "name": "la misma piedra",
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 169172,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1125,6 +1125,26 @@
       "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Silent Storm",
+        "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 206030,
+      "name": "Bloom feat. KIKI",
+      "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
+    },
+    {
       "added_at": "2026-07-09 15:00:41",
       "album": {
         "name": "The other day,",
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Silent Storm",
-        "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
-        }
-      ],
-      "duration_ms": 206030,
-      "name": "Bloom feat. KIKI",
-      "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "FIVE",
         "url": "https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 211855,
       "name": "FIVE",
       "url": "https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU"
-    },
-    {
-      "added_at": "2026-07-16 15:00:53",
-      "album": {
-        "name": "You are Silence",
-        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
-      },
-      "artists": [
-        {
-          "name": "maya ongaku",
-          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "You are Silence",
-      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1229,20 +1213,20 @@
       "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
     },
     {
-      "added_at": "2026-02-19 15:16:11",
+      "added_at": "2026-07-16 15:00:53",
       "album": {
-        "name": "Pools of Colour",
-        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+        "name": "You are Silence",
+        "url": "https://open.spotify.com/album/2XjTbGD9FlSWwJoq9Vectt"
       },
       "artists": [
         {
-          "name": "junodream",
-          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
         }
       ],
-      "duration_ms": 228398,
-      "name": "Pools of Colour",
-      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
+      "duration_ms": 361000,
+      "name": "You are Silence",
+      "url": "https://open.spotify.com/track/3uATgIuBlJVWRKTm6gWXOq"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1259,6 +1243,22 @@
       "duration_ms": 162000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Pools of Colour",
+        "url": "https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "duration_ms": 228398,
+      "name": "Pools of Colour",
+      "url": "https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u9f13\u52d5",
         "url": "https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 161720,
       "name": "\u9f13\u52d5",
       "url": "https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "pineapple bun",
+        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "pineapple bun",
+      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u541b\u306f\u8a00\u3046\u304b\u306a",
         "url": "https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 195600,
       "name": "Place Your Hands",
       "url": "https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "pineapple bun",
-        "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
-      },
-      "artists": [
-        {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "pineapple bun",
-      "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
     },
     {
       "added_at": "2026-02-19 15:16:11",

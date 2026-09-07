@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 44778,
+  "num_followers": 44819,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,22 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Haaye Sohniye",
-        "url": "https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN"
+        "name": "Rangrez",
+        "url": "https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo"
       },
       "artists": [
         {
-          "name": "Hans Raj Hans",
-          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+          "name": "Prem & Hardeep",
+          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
+        },
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
         }
       ],
-      "duration_ms": 309826,
-      "name": "Rehan De Rehan De",
-      "url": "https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39"
+      "duration_ms": 295800,
+      "name": "Zikr Tera",
+      "url": "https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -115,22 +119,18 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Rangrez",
-        "url": "https://open.spotify.com/album/74PHaQYpw3BdgQXbq3SYDo"
+        "name": "Haaye Sohniye",
+        "url": "https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN"
       },
       "artists": [
         {
-          "name": "Prem & Hardeep",
-          "url": "https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P"
-        },
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Zikr Tera",
-      "url": "https://open.spotify.com/track/5kl9GaHyI35Hr62DuSxbk5"
+      "duration_ms": 309826,
+      "name": "Rehan De Rehan De",
+      "url": "https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -167,38 +167,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "The Best of Hans Raj Hans",
-        "url": "https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK"
-      },
-      "artists": [
-        {
-          "name": "Hans Raj Hans",
-          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
-        }
-      ],
-      "duration_ms": 532800,
-      "name": "Duma Dum Mast Qalandar",
-      "url": "https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 404170,
-      "name": "Rutba",
-      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "KHED ISHQE DI",
         "url": "https://open.spotify.com/album/2DB1lIB9Eorc4Mw1T60GzT"
       },
@@ -219,6 +187,38 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "duration_ms": 404170,
+      "name": "Rutba",
+      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "The Best of Hans Raj Hans",
+        "url": "https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK"
+      },
+      "artists": [
+        {
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+        }
+      ],
+      "duration_ms": 532800,
+      "name": "Duma Dum Mast Qalandar",
+      "url": "https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
       },
@@ -235,6 +235,34 @@
       "duration_ms": 351108,
       "name": "Ik Tu Hi Tu Hi (Mehfil Mix)",
       "url": "https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
+        "url": "https://open.spotify.com/album/38z25IqJscmjWtolWYlhlG"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
+        }
+      ],
+      "duration_ms": 209516,
+      "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
+      "url": "https://open.spotify.com/track/6fCkK7jPK7le0ijFcAGWW6"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -267,30 +295,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Mahiya Tere Vekan Nu",
-        "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
-      },
-      "artists": [
-        {
-          "name": "Aakash G",
-          "url": "https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh"
-        },
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0"
-        },
-        {
-          "name": "Sharry Shayar",
-          "url": "https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8"
-        }
-      ],
-      "duration_ms": 221379,
-      "name": "Mahiya Tere Vekan Nu",
-      "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Jaiye Sajana - Recreated",
         "url": "https://open.spotify.com/album/1b1dQ1elQ1jCxIFllzHDJX"
       },
@@ -315,6 +319,30 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Mahiya Tere Vekan Nu",
+        "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
+      },
+      "artists": [
+        {
+          "name": "Aakash G",
+          "url": "https://open.spotify.com/artist/5TeEeCl306oJtM8cz43GPh"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0"
+        },
+        {
+          "name": "Sharry Shayar",
+          "url": "https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "Mahiya Tere Vekan Nu",
+      "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "Pinjar",
         "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
       },
@@ -335,6 +363,26 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Ranjhe",
+        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
+      },
+      "artists": [
+        {
+          "name": "Hassrat",
+          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
+        },
+        {
+          "name": "HARJINDER JOHAL",
+          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
+        }
+      ],
+      "duration_ms": 206895,
+      "name": "Ranjhe",
+      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "Nit Khair Manga",
         "url": "https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b"
       },
@@ -351,6 +399,26 @@
       "duration_ms": 141600,
       "name": "Nit Khair Manga",
       "url": "https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Nargis Fakhri",
+          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
+        }
+      ],
+      "duration_ms": 310658,
+      "name": "Tere Vaastey",
+      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -399,46 +467,6 @@
       "duration_ms": 284487,
       "name": "Flowers Of the Same Tree",
       "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Seasons of Sartaaj",
-        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Nargis Fakhri",
-          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
-        }
-      ],
-      "duration_ms": 310658,
-      "name": "Tere Vaastey",
-      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Ranjhe",
-        "url": "https://open.spotify.com/album/621WK57f3crB5uwts4Xrnt"
-      },
-      "artists": [
-        {
-          "name": "Hassrat",
-          "url": "https://open.spotify.com/artist/2RIF6c1ug6C9JPSzxQxcvQ"
-        },
-        {
-          "name": "HARJINDER JOHAL",
-          "url": "https://open.spotify.com/artist/6rTNFKpNmtlsg5l3k3hopY"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Ranjhe",
-      "url": "https://open.spotify.com/track/6PR7WNRadxuysmBNcjxr4d"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -603,34 +631,6 @@
       "duration_ms": 418333,
       "name": "Uthan Wale Lai Jaange",
       "url": "https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
-        "url": "https://open.spotify.com/album/38z25IqJscmjWtolWYlhlG"
-      },
-      "artists": [
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Gippy Grewal",
-          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
-        },
-        {
-          "name": "Happy Raikoti",
-          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
-        },
-        {
-          "name": "Kulshan Sandhu",
-          "url": "https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap"
-        }
-      ],
-      "duration_ms": 209516,
-      "name": "Dil Udeya (From \"Singh Vs Kaur 2\")",
-      "url": "https://open.spotify.com/track/6fCkK7jPK7le0ijFcAGWW6"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Meriyaan Udaasiyann",
+        "url": "https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k"
+      },
+      "artists": [
+        {
+          "name": "Hans Raj Hans",
+          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
+        }
+      ],
+      "duration_ms": 645097,
+      "name": "Meriyaan Udaasiyann",
+      "url": "https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "Ek Anokhi Dulhan Saavi",
         "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 306000,
       "name": "Jaan Na Jaan - Male Version",
       "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Meriyaan Udaasiyann",
-        "url": "https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k"
-      },
-      "artists": [
-        {
-          "name": "Hans Raj Hans",
-          "url": "https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X"
-        }
-      ],
-      "duration_ms": 645097,
-      "name": "Meriyaan Udaasiyann",
-      "url": "https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD"
     },
     {
       "added_at": "2026-09-03 17:28:17",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,349 songs - 5 day 1 hr 48 min
+2,351 songs - 5 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-28 | 2023-09-21 |
 | [Angel Eyes](https://open.spotify.com/track/1egdYRbCxQuKL9KEbAkUNm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Angel Eyes](https://open.spotify.com/album/3mw9YndQ85eJ1lT3poL29W) | 3:27 | 2025-08-14 | 2025-09-26 |
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
+| [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 | 2026-09-03 |  |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
 | [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:05 | 2024-09-26 | 2025-01-24 |
 | [Antikens Under](https://open.spotify.com/track/0NjXIUaR5epf2jmOOUV5fD) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Antikens Under](https://open.spotify.com/album/4JZT3spMaO9JZv83nr3hfy) | 4:05 | 2024-10-24 | 2025-01-10 |
@@ -516,7 +517,7 @@
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2025-03-14 |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
-| [Där hela världen väntar](https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Där hela världen väntar](https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC) | 3:02 | 2026-02-05 |  |
+| [Där hela världen väntar](https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Där hela världen väntar](https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC) | 3:02 | 2026-02-05 | 2026-09-07 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |
 | [Då är det inte jag](https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Då är det inte jag](https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV) | 3:27 | 2024-11-14 | 2025-02-01 |
 | [Dålig teve](https://open.spotify.com/track/1MRBWzBJkmj7hhsIoWP2kx) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dålig teve](https://open.spotify.com/album/5Jtg0DVZ0hIBlaMkm3oxAc) | 3:39 | 2025-10-02 | 2026-02-13 |
@@ -587,7 +588,7 @@
 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 | 2025-03-27 | 2025-07-04 |
 | [Ett silverhjärtas sista slag](https://open.spotify.com/track/0aQtLsd9tlZZvOzWJvwDS6) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Tom Goren](https://open.spotify.com/artist/5UFbFMAL2ERkRDUurGOyQJ) | [Ett silverhjärtas sista slag](https://open.spotify.com/album/6SdycG80NCL5vcnCOMbWS8) | 3:39 | 2024-03-07 | 2024-04-17 |
 | [Ett varv till](https://open.spotify.com/track/3QIcx4ASUFPNnJLdzMEy0D) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Ett varv till](https://open.spotify.com/album/0VDVseaKn0Lq8D2zKz0V00) | 2:57 | 2026-01-22 | 2026-04-21 |
-| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 |  |
+| [Ett år \- Bonus Track](https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA \(Deluxe\)](https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh) | 3:37 | 2026-02-26 | 2026-09-07 |
 | [Ettor och nollor](https://open.spotify.com/track/32C06bOmyNPPW1kER79Q8e) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Pandemi, Palestina & Heartache](https://open.spotify.com/album/6lIra1LwEsGHs827ruYdwP) | 3:46 | 2025-02-14 | 2025-05-30 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-02 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
@@ -2185,6 +2186,7 @@
 | [Vaskar mina tårar](https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Vaskar mina tårar](https://open.spotify.com/album/2UR8C8nPqhQ1W7t1ti5TAn) | 2:56 | 2021-12-16 | 2022-02-13 |
 | [Vattenfast maskara](https://open.spotify.com/track/4mUcCiwzgHl6PgYt1AsDF4) | [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Vattenfast maskara](https://open.spotify.com/album/0rtgvXiMJh6mGluRT9Kre4) | 3:07 | 2021-12-16 | 2022-04-02 |
 | [Vegas Nights](https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Vegas Nights](https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5) | 3:08 | 2025-04-10 | 2025-09-05 |
+| [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 | 2026-09-03 |  |
 | [Vem e som dig](https://open.spotify.com/track/4HTTgU6ie4dlEKiTgQB4lh) | [Willow](https://open.spotify.com/artist/428NWvJtmUtdxSWImz3ysv) | [Vem e som dig](https://open.spotify.com/album/5AbH2M5AMN87mjy7oWKLae) | 2:48 | 2024-02-29 | 2024-04-19 |
 | [Vem fan är Murphy?](https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:33 | 2025-03-28 | 2025-07-04 |
 | [Vem tänder stjärnorna](https://open.spotify.com/track/2diLUHXEzYePMVM7PW3ouE) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Vem tänder stjärnorna](https://open.spotify.com/album/2TIWuudsbu8Uv3pzWOuOk7) | 4:04 | 2026-06-05 |  |

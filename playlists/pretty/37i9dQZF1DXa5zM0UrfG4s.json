@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118228,
+  "num_followers": 118227,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
         "name": "E45",
         "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 136285,
       "name": "E45",
       "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+      },
+      "artists": [
+        {
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Varmt",
-        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 127950,
-      "name": "Varmt",
-      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
       },
@@ -471,42 +455,18 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Hjem med dej",
-        "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
+        "name": "Varmt",
+        "url": "https://open.spotify.com/album/48N7GYYLw9yU3PwdJeMVUW"
       },
       "artists": [
         {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 187832,
-      "name": "Hjem med dej",
-      "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
-        "name": "Naboen",
-        "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 142295,
-      "name": "Naboen",
-      "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
+      "duration_ms": 127950,
+      "name": "Varmt",
+      "url": "https://open.spotify.com/track/2inXtsjX3V451FOIYUL6UQ"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -535,6 +495,46 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
+        "name": "Naboen",
+        "url": "https://open.spotify.com/album/0V83AYZQaHZLyc8Ej57Den"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 142295,
+      "name": "Naboen",
+      "url": "https://open.spotify.com/track/43Fe7HmRD4htXBxcRfBMzS"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
+        "name": "Hjem med dej",
+        "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 187832,
+      "name": "Hjem med dej",
+      "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
         "name": "Promiski\u00f8s (PM)",
         "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 153882,
       "name": "Promiski\u00f8s (PM)",
       "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
+        "name": "Cowboyhatten",
+        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
+      },
+      "artists": [
+        {
+          "name": "ZadeKing",
+          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Cowboyhatten",
+      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -579,26 +599,6 @@
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
-        "name": "Cowboyhatten",
-        "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
-      },
-      "artists": [
-        {
-          "name": "ZadeKing",
-          "url": "https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw"
-        },
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Cowboyhatten",
-      "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "St\u00f8gg melodi",
-        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "St\u00f8gg melodi",
-      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
         "name": "Livet Slik Det Var (feat. Madel\u00e9ne)",
         "url": "https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+        "name": "St\u00f8gg melodi",
+        "url": "https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+      "duration_ms": 141750,
+      "name": "St\u00f8gg melodi",
+      "url": "https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -851,6 +835,22 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
         "name": "Dans med meg",
         "url": "https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Ein song som finst",
-        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Ein song som finst",
-      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
         "name": "Besseggen",
         "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 165612,
       "name": "Besseggen",
       "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
+        "name": "Ein song som finst",
+        "url": "https://open.spotify.com/album/193cVUqldOQIoSFxsEJe0L"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Ein song som finst",
+      "url": "https://open.spotify.com/track/3VUA4aLcTe0hIibzbzZ26z"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Sunshine (Cigarettes & Cheap Wine)",
-        "url": "https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU"
+        "name": "Kveldssang til bonden",
+        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
       },
       "artists": [
         {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
         }
       ],
-      "duration_ms": 169827,
-      "name": "Sunshine - Cigarettes & Cheap Wine",
-      "url": "https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf"
+      "duration_ms": 173163,
+      "name": "Kveldssang til bonden",
+      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Alt for Norge",
-        "url": "https://open.spotify.com/album/0NYaHC8iCvZ8iCbpdC9xLj"
+        "name": "Singel til jeg d\u00f8r",
+        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
       },
       "artists": [
         {
@@ -1160,41 +1160,25 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Alt for Norge",
-      "url": "https://open.spotify.com/track/2uKYghzaxzNWhJ3s3vbb2C"
+      "duration_ms": 142620,
+      "name": "Singel til jeg d\u00f8r",
+      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
     },
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Kveldssang til bonden",
-        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
+        "name": "Sunshine (Cigarettes & Cheap Wine)",
+        "url": "https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU"
       },
       "artists": [
         {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
         }
       ],
-      "duration_ms": 173163,
-      "name": "Kveldssang til bonden",
-      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
-    },
-    {
-      "added_at": "2026-09-03 22:01:38",
-      "album": {
-        "name": "Ingenting kan stoppe oss",
-        "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 197282,
-      "name": "Ingenting kan stoppe oss",
-      "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
+      "duration_ms": 169827,
+      "name": "Sunshine - Cigarettes & Cheap Wine",
+      "url": "https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf"
     },
     {
       "added_at": "2026-09-03 22:01:38",
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
+        "name": "Ingenting kan stoppe oss",
+        "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 197282,
+      "name": "Ingenting kan stoppe oss",
+      "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
+    },
+    {
+      "added_at": "2026-09-03 22:01:38",
+      "album": {
         "name": "Bara vara med dig",
         "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2026-09-03 22:01:38",
       "album": {
-        "name": "Singel til jeg d\u00f8r",
-        "url": "https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f"
+        "name": "Alt for Norge",
+        "url": "https://open.spotify.com/album/0NYaHC8iCvZ8iCbpdC9xLj"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 142620,
-      "name": "Singel til jeg d\u00f8r",
-      "url": "https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF"
+      "duration_ms": 168888,
+      "name": "Alt for Norge",
+      "url": "https://open.spotify.com/track/2uKYghzaxzNWhJ3s3vbb2C"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

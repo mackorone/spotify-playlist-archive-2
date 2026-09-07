@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 66659,
+  "num_followers": 66681,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "apoKAAAAAADguj43kOKSfFICsuJWd1kk",
+  "snapshot_id": "aptbgAAAAAAiD7g7EdEPLTHb+eq+5sj4",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then Christ Came (feat. Phil Wickham)",
-        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        },
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 235921,
-      "name": "Then Christ Came (feat. Phil Wickham)",
-      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worthy of My Song (Worthy of It All)",
         "url": "https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Then Christ Came (feat. Phil Wickham)",
+        "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 235921,
+      "name": "Then Christ Came (feat. Phil Wickham)",
+      "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear Has No Power",
         "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 257266,
       "name": "Fear Has No Power",
       "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
     },
     {
       "added_at": null,

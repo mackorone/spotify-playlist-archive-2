@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,467 songs - 3 day 13 hr 26 min
+1,469 songs - 3 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [Mr Thunder \- Remastered 2023](https://open.spotify.com/track/0E1zeBDwwmvdWBGtCEbKgd) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:40 | 2023-11-16 | 2025-11-29 |
 | [Mungkin Mungkinkan](https://open.spotify.com/track/6fZWyNAtgPxaDz8smQ5OD0) | [Vendaz](https://open.spotify.com/artist/2yBdZ8lKzqEK1LcOlRxAwE), [Varenza Maurelya](https://open.spotify.com/artist/19J31EsEi89taAxSQ1JtZo) | [Mungkin Mungkinkan](https://open.spotify.com/album/1GvxjFP6QUPZOkkvSMiNEJ) | 4:14 | 2026-07-31 | 2026-08-30 |
 | [Musafir](https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5) | [Baawe](https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC), [Akshat Kamavisdar](https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB) | [Musafir](https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX) | 3:02 | 2026-02-03 | 2026-03-07 |
+| [Music Set Her Free](https://open.spotify.com/track/3e9wXMK634KnIwOgZUQ3eU) | [A J Green UK](https://open.spotify.com/artist/0ZXLZz84ItG70ThGRNJpcm) | [Music Set Her Free](https://open.spotify.com/album/03kawM8TTVWppnhFwrQtFz) | 4:14 | 2026-09-06 |  |
 | [Mute The Crowds](https://open.spotify.com/track/6tMAIkS40UonUjzI1AeIi6) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Mute The Crowds](https://open.spotify.com/album/4PwUHfvDmg5coCATtbUUeo) | 4:14 | 2026-08-15 |  |
 | [My Apartment Mirror](https://open.spotify.com/track/5cdp7w6A89Svd88GPu4lUA) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:59 | 2026-05-23 | 2026-07-03 |
 | [my bad](https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm) | [frderyk](https://open.spotify.com/artist/0k839yxBiRvXEkxubBP1LL), [sylenthell](https://open.spotify.com/artist/4epE4ACXZZkbGDL97HKsvX), [Ar!n](https://open.spotify.com/artist/4W0GJARpgQOAjfbaxLQODl) | [XD](https://open.spotify.com/album/3VITONpFw08wyFI7flouGN) | 1:53 | 2026-03-06 | 2026-04-12 |
@@ -1455,6 +1456,7 @@
 | [You're Leaving](https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Andrea Pullone](https://open.spotify.com/artist/5qu2na5lSZrhmvL8OtvUks), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N) | [You're Leaving](https://open.spotify.com/album/4q1tPf6cWNrKRPAMKa70WD) | 3:47 | 2025-10-23 | 2026-07-19 |
 | [You're On Fire](https://open.spotify.com/track/6YibqNgzTou7LdCBrflhAs) | [Ali Rice](https://open.spotify.com/artist/3mlAU99Yc2sacEsfSII1dS) | [You're On Fire](https://open.spotify.com/album/30QoW8bs3hZzTZgYzJEipx) | 3:55 | 2026-03-22 | 2026-04-22 |
 | [You've Changed](https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2) | [You've Changed](https://open.spotify.com/album/3Znjs81cIbbQKjJFd3yh0n) | 4:04 | 2026-03-06 | 2026-07-19 |
+| [Your Eyes](https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6) | [DreamParia](https://open.spotify.com/artist/1CwTMmr3Z8ydNGTnOw5VSI) | [Your Eyes](https://open.spotify.com/album/5t6Cpwz4c71H4f2NItFBCb) | 2:50 | 2026-09-06 |  |
 | [Your Side \(feat\. Elaskia\)](https://open.spotify.com/track/0jkehRAMta65tVTpDyWGDi) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Your Side \(feat\. Elaskia\)](https://open.spotify.com/album/5kOrh8DFflJtcOWbp0MZHi) | 2:42 | 2026-04-27 | 2026-06-05 |
 | [Your Silence Is Deadly](https://open.spotify.com/track/3ohK0x2FlMSCHSyepX4h0Q) | [Linda Imperial](https://open.spotify.com/artist/0ulH2qWVGdDxSNcCzj4hgA) | [Your Silence Is Deadly](https://open.spotify.com/album/2XcJhbHfWGlAZDPxhNUTHZ) | 3:28 | 2026-09-04 |  |
 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 | 2025-11-26 | 2026-01-05 |

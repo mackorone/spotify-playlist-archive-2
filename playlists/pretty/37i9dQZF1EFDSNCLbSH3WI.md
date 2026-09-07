@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365 likes - 164 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 374 likes - 164 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 140 | [Played Me](https://open.spotify.com/track/4G78cLI7es3u3NLu9pIOfH) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:20 |
 | 141 | [GONE \(feat\. KIRBY\)](https://open.spotify.com/track/6VnzFlhf19vmBlrIDin9y3) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:53 |
 | 142 | [Sew Me Back Together](https://open.spotify.com/track/3GXhjB9dxqEwYqBH9GnDOp) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:17 |
-| 143 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
-| 144 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 143 | [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 144 | [DECEIVED](https://open.spotify.com/track/7Lzaeenk97uEdQltVzGPm6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:40 |
 | 145 | [Stay for a While](https://open.spotify.com/track/04cnZuf2GVxH3NGW2DuPEV) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Figure 8](https://open.spotify.com/album/2J0AovsavMduSxHHLNB5Fu) | 3:32 |
 | 146 | [YKWYA](https://open.spotify.com/track/6yZSaVJuUaTSk07dJsyA7I) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 4:24 |
 | 147 | [Colonize](https://open.spotify.com/track/2dsnRzDX6BprwJSeml0FqY) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Colonize](https://open.spotify.com/album/5VXcZnepZ0dpLCWFundnrW) | 3:03 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 163 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 164 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcbhnAAAAADF0Dcr+aXldoZ1DSydf3Bq`
+Snapshot ID: `AcbnAAAAAABIxFvt8kzdfkhIpA76VJi1`

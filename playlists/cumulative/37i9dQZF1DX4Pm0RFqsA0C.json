@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "1st",
+        "url": "https://open.spotify.com/album/3k5Rs2oHKTx698cOOmf9Sc"
+      },
+      "artists": [
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "Confession (\uace0\ubc31)",
+      "url": "https://open.spotify.com/track/6fOXtwKTjeoIVJ6IgCKQr9"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf"
       },
@@ -2222,7 +2240,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-07",
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1043527,
+  "num_followers": 1043934,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -639,8 +639,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Es Para Ti",
-        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 232693,
-      "name": "Est\u00e1s Que Te Pelas",
-      "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Tequilero",
-        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 190506,
-      "name": "La Troca Del Mo\u00f1o Negro",
-      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -703,24 +703,24 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+        "name": "El Tequilero",
+        "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
         }
       ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
+      "duration_ms": 190506,
+      "name": "La Troca Del Mo\u00f1o Negro",
+      "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
     },
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+        "name": "Es Para Ti",
+        "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 232693,
+      "name": "Est\u00e1s Que Te Pelas",
+      "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "El Rey De Mil Coronas",
+      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 201691,
       "name": "Mi Complemento",
       "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "20 Memorias Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "El Rey De Mil Coronas",
-      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "En Vivo Desde Monterrey",
-        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Que Me Lleve El Diablo - En Vivo",
-      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Desde Hoy",
         "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 181893,
       "name": "Desde Hoy",
       "url": "https://open.spotify.com/track/7i2quJtt4WoI5yE91Cqi7R"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "En Vivo Desde Monterrey",
+        "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Que Me Lleve El Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Con Experiencia Y Juventud",
-        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 161671,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Mundo De Amor",
         "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 155066,
       "name": "Tus Verdades",
       "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Con Experiencia Y Juventud",
+        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 161671,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "30 Primeros Exitos",
-        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
+        "name": "15 Exitos De Lorenzo De Monteclaro",
+        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
       },
       "artists": [
         {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
+          "name": "Lorenzo De Monteclaro",
+          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
         }
       ],
-      "duration_ms": 195093,
-      "name": "La Rubia Y La Morena",
-      "url": "https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON"
+      "duration_ms": 153160,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "15 Exitos De Lorenzo De Monteclaro",
-        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
       },
       "artists": [
         {
-          "name": "Lorenzo De Monteclaro",
-          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
         }
       ],
-      "duration_ms": 153160,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
+      "duration_ms": 195093,
+      "name": "La Rubia Y La Morena",
+      "url": "https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 146280,
-      "name": "Que Tristeza Me Acompa\u00f1a",
-      "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 146280,
+      "name": "Que Tristeza Me Acompa\u00f1a",
+      "url": "https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Hasta la Miel Amarga",
-      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 170973,
       "name": "Abeja Re\u00edna",
       "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Hasta la Miel Amarga",
+      "url": "https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Te Sigo Amando",
         "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 215200,
       "name": "No Hay Problema",
       "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
+        "name": "No Te Convensas",
+        "url": "https://open.spotify.com/album/6vK6bxa8LS9QqBueUPnjnS"
       },
       "artists": [
         {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+          "name": "Los Marineros del Norte",
+          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Chiquilla cari\u00f1osa",
-      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
+      "duration_ms": 173493,
+      "name": "Las Isabeles",
+      "url": "https://open.spotify.com/track/66V7uPOp571UEBWflNElWd"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "No Te Convensas",
-        "url": "https://open.spotify.com/album/6vK6bxa8LS9QqBueUPnjnS"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
       },
       "artists": [
         {
-          "name": "Los Marineros del Norte",
-          "url": "https://open.spotify.com/artist/2meziLJDOGbviBEKWRHXwt"
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Las Isabeles",
-      "url": "https://open.spotify.com/track/66V7uPOp571UEBWflNElWd"
+      "duration_ms": 195226,
+      "name": "Chiquilla cari\u00f1osa",
+      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/6TTawNx5UtHUUC7lClddgo"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Pasadita",
+      "url": "https://open.spotify.com/track/1Bbrlqr2RMNQBgcBMMWAi3"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Alma Enamorada",
         "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
       },
@@ -2019,22 +2035,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/6TTawNx5UtHUUC7lClddgo"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables Del Norte",
-          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Pasadita",
-      "url": "https://open.spotify.com/track/1Bbrlqr2RMNQBgcBMMWAi3"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Norte\u00f1o, Vol. 2",
         "url": "https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R"
       },
@@ -2047,6 +2047,22 @@
       "duration_ms": 153785,
       "name": "Caricatura",
       "url": "https://open.spotify.com/track/6VYBAVZUIuUUZbRHEX4mqj"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "15 Grandes Exitos, Vol. 2",
+        "url": "https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv"
+      },
+      "artists": [
+        {
+          "name": "La Migra",
+          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Celos De Ti",
+      "url": "https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -2079,22 +2095,6 @@
       "duration_ms": 151053,
       "name": "Una Noche Me Embriague",
       "url": "https://open.spotify.com/track/3bpxsSIvnez9vF3CZv2evO"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "15 Grandes Exitos, Vol. 2",
-        "url": "https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv"
-      },
-      "artists": [
-        {
-          "name": "La Migra",
-          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Celos De Ti",
-      "url": "https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3379,24 +3379,24 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Otro Mundo",
-        "url": "https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 177066,
-      "name": "Parece Que No",
-      "url": "https://open.spotify.com/track/6pg0hTLPDTAbzFFivQd5xe"
+      "duration_ms": 148840,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/4YdOW4F4jKqUuNExlF9mgj"
     },
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Amor A La Ligera",
-        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
+        "name": "Jard\u00edn Del Amor",
+        "url": "https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M"
       },
       "artists": [
         {
@@ -3404,9 +3404,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 147373,
-      "name": "Que La Dejen Ir Al Baile",
-      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
+      "duration_ms": 214040,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3427,18 +3427,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+        "name": "Otro Mundo",
+        "url": "https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ"
       },
       "artists": [
         {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 148840,
-      "name": "La Chuparrosa",
-      "url": "https://open.spotify.com/track/4YdOW4F4jKqUuNExlF9mgj"
+      "duration_ms": 177066,
+      "name": "Parece Que No",
+      "url": "https://open.spotify.com/track/6pg0hTLPDTAbzFFivQd5xe"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3479,8 +3479,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Jard\u00edn Del Amor",
-        "url": "https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M"
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
       },
       "artists": [
         {
@@ -3488,9 +3488,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 214040,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9"
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": "2026-03-10 01:04:29",

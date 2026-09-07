@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Kasabian
 
-2,281 songs - 5 day 12 hr 57 min
+2,282 songs - 5 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 | 2026-04-02 | 2026-07-03 |
 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 | 2023-06-01 | 2023-07-21 |
 | [Gangstalker](https://open.spotify.com/track/6C0qKH9p82UgaubxH7R9nn) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Gangstalker](https://open.spotify.com/album/2kjHcBgQxQ0bvUlJVOz5g0) | 2:34 | 2026-05-28 | 2026-06-26 |
-| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 |  |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-06 | 2026-09-07 |
 | [Gary](https://open.spotify.com/track/1CFk4BcEroLNW1TfAUGWoj) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Gary](https://open.spotify.com/album/6eHAQLByMCpvqTBh0tDcC4) | 2:30 | 2024-06-06 | 2024-06-21 |
 | [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-07-30 | 2026-08-10 |
 | [gauche](https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [gauche](https://open.spotify.com/album/6ymHFX28InwLHNnEgY7EGh) | 2:56 | 2023-10-19 | 2023-10-27 |
@@ -1748,6 +1748,7 @@
 | [Skyworks](https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 4:20 | 2026-06-18 | 2026-06-26 |
 | [Slaughterhouse 2 \(feat\. Chris Motionless\)](https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 3:03 | 2024-05-09 | 2025-02-04 |
 | [Sleep In It](https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Sleep In It](https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v) | 2:59 | 2026-06-26 | 2026-07-03 |
+| [Sleepwalker](https://open.spotify.com/track/0qFmjpNGhjaxp789YQ7zMb) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Blood Of Your Empire](https://open.spotify.com/album/4RZYD8Q0pCPCs2cuW4CK4k) | 3:48 | 2026-09-03 |  |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-03-16 | 2023-04-14 |
 | [Sliced by a Fingernail](https://open.spotify.com/track/5gSmH3RJTOLqQwxRhzBZIg) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Sliced by a Fingernail](https://open.spotify.com/album/2C5iuOZxurGiklNlB2PSG1) | 4:08 | 2026-04-02 | 2026-04-10 |
 | [Slowly Turning Blue](https://open.spotify.com/track/4YqENY598REOECia70REDu) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU) | [Slowly Turning Blue](https://open.spotify.com/album/4KUu1oPJyk1JRDPrBiVDHw) | 3:42 | 2026-06-18 | 2026-06-26 |

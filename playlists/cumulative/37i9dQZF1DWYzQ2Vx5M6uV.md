@@ -4,7 +4,7 @@
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Luister La Voz & Manuel Turizo
 
-353 songs - 17 hr 45 min
+354 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-09-20 | 2025-06-07 |
 | [Eclipse Lunar](https://open.spotify.com/track/3Liew5UzQGzXWfjiwX5B4F) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Eclipse Lunar](https://open.spotify.com/album/1ctvqsXCBr04r5wmnSt8xn) | 3:13 | 2022-09-06 | 2023-04-06 |
 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 | 2025-08-22 |  |
-| [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 | 2025-05-30 |  |
+| [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 | 2025-05-30 | 2026-09-07 |
 | [EMDDMV](https://open.spotify.com/track/7iR2INATAqjNsevyTqojre) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [EMDDMV](https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV) | 2:52 | 2024-09-20 | 2024-10-07 |
 | [EN EL MOMENTO](https://open.spotify.com/track/4oRZXIY18vpKC7bB0CrCY4) | [Veronica Pichardo](https://open.spotify.com/artist/2pJzbbdclqku9nUuKXQQjQ), [Ethan Morris](https://open.spotify.com/artist/5bV2xk8geXdbZJvNVPprmD) | [EN EL MOMENTO](https://open.spotify.com/album/66SZ21oncuE4M7b1GyBlOS) | 2:36 | 2026-01-16 | 2026-05-06 |
 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 | 2025-07-11 |  |
@@ -252,6 +252,7 @@
 | [PUERTO ESCONDIDO](https://open.spotify.com/track/60v76pgmo7qSx0sgz0HzOc) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLANES DE MEDIANOCHE](https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX) | 3:28 | 2024-09-20 | 2025-06-07 |
 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 | 2025-09-26 |  |
 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 | 2025-02-28 | 2025-08-23 |
+| [Quien Me Mandó?](https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Quien Me Mandó?](https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l) | 3:24 | 2026-09-04 |  |
 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 | 2025-08-22 |  |
 | [quédate](https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:56 | 2025-06-06 |  |
 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 | 2025-12-05 |  |

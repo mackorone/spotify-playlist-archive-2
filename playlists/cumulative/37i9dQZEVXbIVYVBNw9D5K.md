@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,647 songs - 3 day 10 hr 40 min
+1,648 songs - 3 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-05-23 | 2021-06-01 |
 | [Dâr\-ı Dünya](https://open.spotify.com/track/4RJY7X7EgYVKYv0Fp1XJ3z) | [Cem Yıldız](https://open.spotify.com/artist/3SASCp3Mzy7lT50cZn11yr) | [Dâr\-ı Dünya](https://open.spotify.com/album/49bsD7RqEltdlrSSfFpbYC) | 3:36 | 2025-04-25 | 2025-05-22 |
 | [Dön Ne Olur](https://open.spotify.com/track/6WDSYMvcKN2AsEXJ9U5xsG) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Dön Ne Olur](https://open.spotify.com/album/4fXbwXl9agxf4EWkLZZlqy) | 4:59 | 2024-01-02 | 2024-01-17 |
+| [Döndüm](https://open.spotify.com/track/2pc1hu3tfc90Ito191MM9J) | [Bora Duran](https://open.spotify.com/artist/0W0qg2fjQVk63h44Zdn4hI) | [Döndüm](https://open.spotify.com/album/5gvjfCHsGMDwQBIXpPiOGI) | 3:25 | 2026-09-06 |  |
 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 | 2025-05-24 | 2025-05-26 |
 | [Dönsen Bile](https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM) | [Ferdi Özbeğen](https://open.spotify.com/artist/2bZXmEbQuj9XcGwgyIGuit) | [Sizin Seçtikleriniz](https://open.spotify.com/album/0yKVpD5ogZgldbE67yY7Yp) | 3:23 | 2024-12-13 | 2025-12-19 |
 | [Düldül](https://open.spotify.com/track/6kbIemHzAcnM60eHdrUI4u) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:25 | 2023-11-08 | 2024-04-14 |
@@ -605,7 +606,7 @@
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |
 | [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-28 | 2025-06-30 |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 | 2024-09-22 |
-| [Geri Ver](https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:49 | 2026-02-21 |  |
+| [Geri Ver](https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:49 | 2026-02-21 | 2026-09-07 |
 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 | 2025-11-15 | 2026-02-22 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2022-12-17 | 2022-12-25 |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
@@ -913,7 +914,7 @@
 | [KISASA KISAS](https://open.spotify.com/track/1cZxbvFejxE6vIotQAy5Wc) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [KISASA KISAS](https://open.spotify.com/album/2AmjFQINqTZyZY60kpfhhq) | 3:20 | 2021-06-06 | 2021-06-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2021-07-11 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-13 | 2021-06-27 |
-| [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 | 2026-07-11 | 2026-09-06 |
+| [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 | 2026-07-11 |  |
 | [KİMSELER DUYMASIN](https://open.spotify.com/track/65nCHefqExYMQaPjg36qhI) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [BARIŞ](https://open.spotify.com/album/3KuhwFOdVZ8ufC3klz1X5y) | 2:48 | 2025-09-10 | 2025-11-19 |
 | [Komşu Kızı](https://open.spotify.com/track/6ZxGlGoJp1eDntOalUNZT6) | [Gripin](https://open.spotify.com/artist/3Z814BstLaKbLqKHXsht8O) | [M.S\. 05.03.2010](https://open.spotify.com/album/4JxdNiKwULAXrbTOh84jCf) | 3:37 | 2025-11-18 | 2025-12-01 |
 | [KONSEY](https://open.spotify.com/track/2DDpNQhaJIuGJH3BYK6fYg) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [KONSEY](https://open.spotify.com/album/0zK8oweUTB0PqFvwLc1ljf) | 2:12 | 2026-03-28 | 2026-04-01 |
@@ -1131,7 +1132,7 @@
 | [Olacak Gibi Değil](https://open.spotify.com/track/0TWf33C7t2ljNcTJ8VoQ8v) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [RUH HASSASI](https://open.spotify.com/album/2s8crPj9fbE1ErzejEj1gE) | 3:09 | 2026-04-25 | 2026-05-03 |
 | [Olacak Gibi Değil](https://open.spotify.com/track/69aA1OBOJiyhysEIc0KBw0) | [Ersay Üner](https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB) | [Olacak Gibi Değil](https://open.spotify.com/album/61qpQymIvcAuM8s5zIsguo) | 3:09 | 2026-04-15 | 2026-04-26 |
 | [Olamam İflah](https://open.spotify.com/track/2PW6hfd7Dhz5Eo3voCCdXr) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:18 | 2021-05-30 | 2021-06-28 |
-| [Oldu Olanlar \- Sago K 2022 Remix](https://open.spotify.com/track/6uJHn8HeSrglMQSZ7stMIB) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:16 | 2026-09-04 |  |
+| [Oldu Olanlar \- Sago K 2022 Remix](https://open.spotify.com/track/6uJHn8HeSrglMQSZ7stMIB) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:16 | 2026-09-04 | 2026-09-07 |
 | [Olmazlara İnat](https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Olmazlara İnat](https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg) | 2:49 | 2022-05-25 | 2023-03-04 |
 | [Olmazlara Vuruluyorum](https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Duygu Edis](https://open.spotify.com/artist/7KOQluNA9CHVas8jMOYzWS) | [Olmazlara Vuruluyorum](https://open.spotify.com/album/7s59Zs0B1Xsi801oREenpo) | 3:37 | 2024-08-17 | 2026-05-16 |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2023-08-24 | 2023-12-01 |
