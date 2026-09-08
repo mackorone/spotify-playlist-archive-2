@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 412 songs - 21 hr 28 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 413 songs - 21 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -420,5 +420,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 410 | [Alta Rotação](https://open.spotify.com/track/1lG27Q90rY4LdimFOoNKhz) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [Pindorama](https://open.spotify.com/album/6vsv76JvrLRiRPed7Cq400) | 1:42 |
 | 411 | [Work It](https://open.spotify.com/track/4BzouO8SJUHpMiE5mvM2cv) | [Tony Blame](https://open.spotify.com/artist/0bDNPyUJPuO1AXKNTDU2Xc), [Cbass](https://open.spotify.com/artist/2i3goSd4yk5j3dfc17rjlC) | [Work It](https://open.spotify.com/album/7Il9crNJ3w0KRBao1o0KlV) | 3:04 |
 | 412 | [keep fighting.](https://open.spotify.com/track/4uL6oI3AO44iliHKJpmSCP) | [Dope TAF](https://open.spotify.com/artist/0njQcTmqICaNvb34iaO8tz), [southpaw](https://open.spotify.com/artist/57X6NKq2ZyeJAIlAlNRItD) | [rap playground.](https://open.spotify.com/album/1AvdVwPkulfNyZDaQaypFs) | 2:13 |
+| 413 | [Namo Namah](https://open.spotify.com/track/0WGaRD7H5ye7whDFybKDQW) | [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Namo Namah](https://open.spotify.com/album/36jNf7EBVCH7k4yghegjgh) | 2:44 |
 
-Snapshot ID: `AAAetSKA3VrpeZW+m1WqKaNSRykz8Joj`
+Snapshot ID: `AAAetpemoZFBfs0drdaf4vJfVhLr0Mbs`

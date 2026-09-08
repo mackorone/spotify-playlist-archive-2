@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16605,
+  "num_followers": 16604,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAADR5x2u1NTKmGfb1+Gnqelj",
+  "snapshot_id": "apytAAAAAABlMN3fWS9LatV1bFpyJId6",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 226975,
+      "name": "Love Season",
+      "url": "https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 217270,
       "name": "Sunshine Girl (feat. Peetah Morgan)",
       "url": "https://open.spotify.com/track/30VpZG4IyarKAcb92M6Sw9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 226975,
-      "name": "Love Season",
-      "url": "https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Lifetime Lover",
+      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Ever",
         "url": "https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 282052,
       "name": "If I Ever",
       "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230086,
-      "name": "Lifetime Lover",
-      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/3HSY4eryeaRI8LojkUKjqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hear Me Roar",
         "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 231920,
       "name": "Ganja Farmer",
       "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202479,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/3HSY4eryeaRI8LojkUKjqM"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 222447,
+      "name": "Until One Day",
+      "url": "https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 222447,
-      "name": "Until One Day",
-      "url": "https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/4QONpmE4WJ8KkeaADeZI1i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hear Me Roar",
         "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 268654,
       "name": "Aye Ok",
       "url": "https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/4QONpmE4WJ8KkeaADeZI1i"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 213530,
+      "name": "Here I Am (with Fiji)",
+      "url": "https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -479,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 213530,
-      "name": "Here I Am (with Fiji)",
-      "url": "https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indigenous Life",
         "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 227555,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma",
         "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 202650,
       "name": "Uma",
       "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Audio",
         "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235684,
       "name": "My Audio",
       "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
     },
     {
       "added_at": null,
@@ -739,34 +739,6 @@
       "duration_ms": 221666,
       "name": "Good Cry (feat. Chaka Demus)",
       "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natural Vibration (Hawaiian Version)",
-        "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
-      },
-      "artists": [
-        {
-          "name": "Irie Love",
-          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
-        {
-          "name": "Gappy Ranks",
-          "url": "https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Natural Vibration (Hawaiian Version)",
-      "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
     },
     {
       "added_at": null,
@@ -815,6 +787,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Natural Vibration (Hawaiian Version)",
+        "url": "https://open.spotify.com/album/6oM449ilpSbesrHmOxWx0B"
+      },
+      "artists": [
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "Gappy Ranks",
+          "url": "https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Natural Vibration (Hawaiian Version)",
+      "url": "https://open.spotify.com/track/1irrn7c9q33lajtfvmN0eX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/06IOHmRGlqKmHWXd3cKOKl"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 210070,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/6lwJuS0Jk7x0L5TEAjlNeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,

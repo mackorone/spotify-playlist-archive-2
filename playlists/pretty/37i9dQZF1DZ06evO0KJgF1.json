@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 51631,
+  "num_followers": 51644,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAACPWe7xthYSQbuYbGcyrmED",
+  "snapshot_id": "apytAAAAAABL0xlNWbh6hTujFu2EOMwy",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 364200,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/3OTGIMpePnTxxjigPJW2eA"
+      "duration_ms": 221466,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3lM9UdOYvDIs5PSY8aBEl2"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 221466,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3lM9UdOYvDIs5PSY8aBEl2"
+      "duration_ms": 364200,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/3OTGIMpePnTxxjigPJW2eA"
     },
     {
       "added_at": null,

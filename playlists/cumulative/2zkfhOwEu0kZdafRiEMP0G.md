@@ -4,7 +4,7 @@
 
 > 
 
-142 songs - 9 hr 54 min
+143 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dive In](https://open.spotify.com/track/6LhGzSZlIGxZpyIXXZn9ZV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:52 | 2026-03-30 |  |
 | [DREAMCATCHER](https://open.spotify.com/track/37lsYieRthT9tMgprcmfiG) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [HORIZONS](https://open.spotify.com/album/0tJI0EBOHEcxov6V1ddIo7) | 4:53 | 2026-03-30 |  |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2025-12-27 | 2026-01-26 |
+| [Dreiton](https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK) | 8:17 | 2026-09-07 |  |
 | [El Tango De Roxanne](https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Danny Burstein](https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v), [Ricky Rojas](https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ), [Sahr Ngaujah](https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz), [Jacqueline B\. Arnold](https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl), [Holly James](https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa), [Jeigh Madjus](https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:37 | 2026-01-08 | 2026-01-22 |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-13 |  |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2026-03-30 | 2026-04-03 |

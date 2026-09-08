@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nemzzz, Miley Cyrus, Paris Paloma, MK and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,667 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,591 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 82 | [Love Me Again](https://open.spotify.com/track/2EvCLlQh8f4fjMdWEkEZ2G) | [Mel Raeburn](https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj) | [Love Me Again](https://open.spotify.com/album/3tM9meND4nK2EEld8VA9uK) | 3:28 |
 | 83 | [Every Version Of You](https://open.spotify.com/track/6locM4uEtYPLfjhNF1jqBV) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Every Version Of You](https://open.spotify.com/album/2uH1HBFQ3fDBysaJCqEyjf) | 4:03 |
 | 84 | [saysomething \(bite\)](https://open.spotify.com/track/4wE4dYWfANThsgaMCawMxu) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [saysomething \(bite\)](https://open.spotify.com/album/3sFipt905VqFVSuvsYhsxt) | 4:20 |
-| 85 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 3:02 |
+| 85 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 2:58 |
 | 86 | [LONDON STATE OF MIND](https://open.spotify.com/track/7xYa76UjWNFoHOteD513k7) | [N4T](https://open.spotify.com/artist/2Uc4HHnkMv5xuC4QIZFTpz) | [LONDON STATE OF MIND](https://open.spotify.com/album/4fEU1kx3p4YOnPazeeZls9) | 4:23 |
 | 87 | [Tether](https://open.spotify.com/track/63epe2CMeLpdaEVH4Y1N8r) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Tether](https://open.spotify.com/album/241oUn1Mds2zmtaVUFatpj) | 4:05 |
 | 88 | [I Get Noise](https://open.spotify.com/track/1w4jnhl5bxSu9yutCSedvQ) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Half\-Told Tales](https://open.spotify.com/album/12dPsO3WXjHBvZnG7Czr1u) | 3:23 |

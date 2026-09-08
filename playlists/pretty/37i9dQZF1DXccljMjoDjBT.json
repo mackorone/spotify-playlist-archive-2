@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 367846,
+  "num_followers": 367911,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Living In A Fantasy",
-        "url": "https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "More Than I Can Say - Remastered",
-      "url": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Cool Night",
         "url": "https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 218826,
       "name": "Cool Night",
       "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Living In A Fantasy",
+        "url": "https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "More Than I Can Say - Remastered",
+      "url": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
       "artists": [
         {
-          "name": "David Pack",
-          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
         }
       ],
-      "duration_ms": 284186,
-      "name": "That Girl Is Gone",
-      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
+      "duration_ms": 264680,
+      "name": "Once In a Lifetime",
+      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -776,25 +776,25 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo"
       },
       "artists": [
         {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+          "name": "David Pack",
+          "url": "https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl"
         }
       ],
-      "duration_ms": 264680,
-      "name": "Once In a Lifetime",
-      "url": "https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE"
+      "duration_ms": 284186,
+      "name": "That Girl Is Gone",
+      "url": "https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "I Found Somebody",
-      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Desert Moon",
         "url": "https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 368800,
       "name": "Desert Moon",
       "url": "https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "I Found Somebody",
+      "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
     },
     {
       "added_at": "2023-03-30 14:38:10",

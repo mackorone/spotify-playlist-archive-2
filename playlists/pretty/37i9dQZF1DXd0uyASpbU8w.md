@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Nasty C & Tellaman,  Beyoncé, Simmy,  Nemzzz & Travis Scott and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,248 likes - 69 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,289 likes - 69 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Tastebud](https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Tastebud](https://open.spotify.com/album/7EHiopdM9NogJSOcnZ1CAx) | 4:20 |
 | 69 | [Suntanning \(For Blacks\)](https://open.spotify.com/track/1qnWaCB4boCBrRcIDvzFvZ) | [Zwonaka](https://open.spotify.com/artist/5oD2IgsstX9I592DVC5gQi) | [Suntanning \(For Blacks\)](https://open.spotify.com/album/0VQZg2Fv5rJtB2HwV77b0i) | 3:09 |
 
-Snapshot ID: `AAAAAFCUbuypQpGw+aD45WgpIoD6xeU6`
+Snapshot ID: `AAAAAHsAa5HOxcrznkaAU0DVTXWJTlsu`

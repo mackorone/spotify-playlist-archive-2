@@ -6285,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2NJLSgE4AjTLWLYttUO9eH"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4LcRWVwssJplhR4CZAYW5m"
+    },
+    {
+      "album": {
         "name": "Bhovamania",
         "url": "https://open.spotify.com/album/3NZ40t7bNeRXtfQDXC0yqv"
       },
@@ -6770,7 +6788,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 208140,
       "name": "Fatherless Daughters",
       "url": "https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls"
@@ -7226,7 +7244,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 167177,
       "name": "Found You",
       "url": "https://open.spotify.com/track/6hYLdVRkP4qmFGrYMJYFPK"
@@ -18320,6 +18338,24 @@
       "duration_ms": 251999,
       "name": "Say It To Yourself",
       "url": "https://open.spotify.com/track/5XJYqaSOlo3kkIBcuVdzNo"
+    },
+    {
+      "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
     },
     {
       "album": {

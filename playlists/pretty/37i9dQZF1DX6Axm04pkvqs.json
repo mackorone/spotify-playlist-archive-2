@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 84063,
+  "num_followers": 84129,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "In His Presence, Vol. 2",
+        "url": "https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP"
+      },
+      "artists": [
+        {
+          "name": "Dr Paul Enenche",
+          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
+        }
+      ],
+      "duration_ms": 527200,
+      "name": "There Is a Place",
+      "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Apostolos (Sounds of Transition)",
         "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 428507,
       "name": "Holy Ghost (Live)",
       "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "In His Presence, Vol. 2",
-        "url": "https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP"
-      },
-      "artists": [
-        {
-          "name": "Dr Paul Enenche",
-          "url": "https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i"
-        }
-      ],
-      "duration_ms": 527200,
-      "name": "There Is a Place",
-      "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Deep Wells",
-        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
-      },
-      "artists": [
-        {
-          "name": "Patience Adjei",
-          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Elohim Adonai (Live)",
-      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "The Zamar Experience",
         "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 564250,
       "name": "Intense Spontaneous Worship",
       "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Deep Wells",
+        "url": "https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z"
+      },
+      "artists": [
+        {
+          "name": "Patience Adjei",
+          "url": "https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Elohim Adonai (Live)",
+      "url": "https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1K5rXNAbWyOhDpNXFK9Hd1"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
-      "album": {
-        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
-        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 393053,
-      "name": "In This Place - Live At Carnival City, 2024",
-      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Kingdom Now",
@@ -1183,6 +1167,22 @@
       "duration_ms": 731294,
       "name": "Song of Angels",
       "url": "https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc"
+    },
+    {
+      "added_at": "2025-03-07 00:01:32",
+      "album": {
+        "name": "In This Place/Liyabasebenzela (Live At Carnival City, 2024)",
+        "url": "https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 393053,
+      "name": "In This Place - Live At Carnival City, 2024",
+      "url": "https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON"
     },
     {
       "added_at": "2025-03-07 00:01:32",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Worship Chant",
-        "url": "https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        }
-      ],
-      "duration_ms": 104687,
-      "name": "Worship Chant",
-      "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Song of Angels (Live)",
         "url": "https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 737208,
       "name": "Song of Angels (Live)",
       "url": "https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Worship Chant",
+        "url": "https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        }
+      ],
+      "duration_ms": 104687,
+      "name": "Worship Chant",
+      "url": "https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE"
     },
     {
       "added_at": "2025-02-21 00:01:28",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/7LZmlyEeqZMjHVRhV5RGt0"
     },
     {
-      "added_at": "2025-10-24 00:01:24",
-      "album": {
-        "name": "Son Of David (Church Arise) [Live]",
-        "url": "https://open.spotify.com/album/3PZb44kLHxQch71daNPWLL"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 924924,
-      "name": "Son Of David (Church Arise) - Live",
-      "url": "https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "The Birth of Revival",
@@ -1359,6 +1343,22 @@
       "duration_ms": 809693,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "Son Of David (Church Arise) [Live]",
+        "url": "https://open.spotify.com/album/3PZb44kLHxQch71daNPWLL"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 924924,
+      "name": "Son Of David (Church Arise) - Live",
+      "url": "https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG"
     },
     {
       "added_at": "2024-07-26 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 491016,
+  "num_followers": 491093,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAAAHPmVVC7Ts2xDKnfczVNYS",
+  "snapshot_id": "apytAAAAAADPiHIB2XfyRhcxjVWOa1jI",
   "tracks": [
     {
       "added_at": null,
@@ -454,11 +454,15 @@
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 159068,
-      "name": "She Loves the Rain",
-      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
     },
     {
       "added_at": null,
@@ -522,15 +526,11 @@
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+      "duration_ms": 159068,
+      "name": "She Loves the Rain",
+      "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
     },
     {
       "added_at": null,

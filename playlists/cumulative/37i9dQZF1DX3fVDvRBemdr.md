@@ -2,7 +2,7 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollands & Volkspop\. Cover: Samantha Steenwijk <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
+> De nieuwste Hollands & Volkspop\. Cover: Samantha Steenwijk
 
 785 songs - 1 day 13 hr 33 min
 

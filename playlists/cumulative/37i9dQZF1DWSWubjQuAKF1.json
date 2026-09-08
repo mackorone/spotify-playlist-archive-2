@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 185015,
       "name": "Francuskie poca\u0142unki",
       "url": "https://open.spotify.com/track/6y23ZdgplPyXUaF44n9pBJ"
@@ -7086,6 +7086,24 @@
       "duration_ms": 196237,
       "name": "Korony drzew",
       "url": "https://open.spotify.com/track/2TPyB6p0P5bfIDGHgnw5aZ"
+    },
+    {
+      "album": {
+        "name": "Korzenie",
+        "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194887,
+      "name": "Korzenie",
+      "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
     },
     {
       "album": {

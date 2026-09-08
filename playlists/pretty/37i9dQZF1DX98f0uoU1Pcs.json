@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295366,
+  "num_followers": 295365,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Black Paint",
-        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Black Paint",
-      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "New Self",
         "url": "https://open.spotify.com/album/29iBRlzAcmRmKRvw7onM0j"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 157946,
       "name": "New Self",
       "url": "https://open.spotify.com/track/3sG9piWq8U1TELm4aGDZgq"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Black Paint",
+        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Black Paint",
+      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
-      },
-      "artists": [
-        {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
-        }
-      ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cowards",
         "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 231677,
       "name": "Building 650",
       "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 221412,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Attempted Martyr",
         "url": "https://open.spotify.com/album/5rllu0aAZBaCZsllQTzYTm"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 227537,
       "name": "Body Meat",
       "url": "https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
     },
     {
       "added_at": "2026-07-17 17:28:38",

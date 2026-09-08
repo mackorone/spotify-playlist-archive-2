@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-461 songs - 1 day 5 hr 43 min
+462 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dancing On My Own](https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee) | 3:59 | 2024-11-15 | 2025-03-28 |
 | [DANGEROUS \(So Dare Me\)](https://open.spotify.com/track/1OZ9eQn7mSVQaKCKEzx5n2) | [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [DANGEROUS \(So Dare Me\)](https://open.spotify.com/album/7aHwznZ9zCFXvpTthz2BqH) | 2:57 | 2026-02-13 | 2026-02-27 |
 | [Daydreaming \- Sgt Slick Remix](https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l), [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Daydreaming \(Sgt Slick Remix\)](https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6) | 3:04 | 2024-06-14 | 2024-06-23 |
-| [Deal With Love](https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Deal With Love](https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8) | 4:32 | 2024-05-24 |  |
+| [Deal With Love](https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Deal With Love](https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8) | 4:32 | 2024-05-24 | 2026-09-08 |
 | [Debt](https://open.spotify.com/track/3B6pwtFXjVHCcDtL2NyK6j) | [Schur](https://open.spotify.com/artist/0lidIulPhPCS2cN4qDatt7) | [Debt](https://open.spotify.com/album/7g2l64DSx7bpZSJllHbcO6) | 2:19 | 2024-06-14 | 2024-08-08 |
 | [Deep Sexy Acid](https://open.spotify.com/track/7p1cat0EBRnvYD1UNLfq3N) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Deep Sexy Acid](https://open.spotify.com/album/7aekza15meYmEZlzeiqfd5) | 4:01 | 2024-04-19 | 2024-06-03 |
 | [Desire](https://open.spotify.com/track/3Gn4tklv1fPb6UpCPivw60) | [Froman](https://open.spotify.com/artist/2XmYUy3NJHRuT3hBb8IS76) | [Desire](https://open.spotify.com/album/6ZeIMMCUmFekpbfVlvHpXz) | 3:50 | 2021-07-24 | 2023-05-20 |
@@ -435,6 +435,7 @@
 | [Unholy Delights](https://open.spotify.com/track/1K7CGcnQpclZiuUtFGXo4o) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Unholy Delights](https://open.spotify.com/album/2EgnK1VNU4wv952DUhvwPO) | 3:08 | 2023-10-27 | 2024-03-31 |
 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-13 | 2025-06-20 |
 | [Velvet Avenue](https://open.spotify.com/track/18QNbwbYp3ueBhvuaogkF6) | [Supernova](https://open.spotify.com/artist/1vpJBCwcAMbetCwtn2KPEG) | [The Night Trip](https://open.spotify.com/album/3VZvOCAB238uicvonx2U95) | 3:26 | 2026-01-09 |  |
+| [Velvet Seas \- Ray Mang Remix Short](https://open.spotify.com/track/6EHU5HEN4XZ3Z9M77AN0Px) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Velvet Seas Remixed](https://open.spotify.com/album/6nvCRrz1vIjUYkFRo2TdiO) | 4:20 | 2026-09-04 |  |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 | 2025-09-27 |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2023-05-19 | 2026-05-16 |
 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 | 2025-11-14 |  |

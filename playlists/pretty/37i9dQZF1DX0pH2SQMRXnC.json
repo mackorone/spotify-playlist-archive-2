@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1562695,
+  "num_followers": 1562822,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
+        "name": "FCK DAT!",
+        "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
+      },
+      "artists": [
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        }
+      ],
+      "duration_ms": 167378,
+      "name": "FCK DAT!",
+      "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
-        "name": "FCK DAT!",
-        "url": "https://open.spotify.com/album/7cohOKDaKi7YCtrZVuHL62"
-      },
-      "artists": [
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Kronos",
-          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
-        }
-      ],
-      "duration_ms": 167378,
-      "name": "FCK DAT!",
-      "url": "https://open.spotify.com/track/5nvs5WItsAmnmnWqWfwTWJ"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
+        "name": "YEAH",
+        "url": "https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "YEAH",
+      "url": "https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
         "name": "Open Sesame (Abracadabra) [D-Block & S-te-Fan Remix]",
         "url": "https://open.spotify.com/album/4tvLHYk5GK6R8FTFr8w9Jq"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 182709,
       "name": "Open Sesame (Abracadabra) - D-Block & S-te-Fan Remix",
       "url": "https://open.spotify.com/track/50Sc0h3OULBSUjBir1X0K3"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
-        "name": "YEAH",
-        "url": "https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        },
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "YEAH",
-      "url": "https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "Dancing In The Moonlight",
-        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 183483,
-      "name": "Dancing In The Moonlight",
-      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
         "name": "Burning Down",
         "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 176000,
       "name": "It Must Have Been Love (feat. Charla K)",
       "url": "https://open.spotify.com/track/4xZcO6Kb9LikXY6OBT0WWF"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2RWjVCZNKRJKRNuOrgefhl"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 183483,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/4AXfDNJb3U35WuhXoAOoOa"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2199,22 +2199,18 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
-        "url": "https://open.spotify.com/album/78QmadtrN5axEatsJPecBR"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "Diss Reaction",
-          "url": "https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6"
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
-      "url": "https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja"
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2243,18 +2239,22 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+        "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+        "url": "https://open.spotify.com/album/78QmadtrN5axEatsJPecBR"
       },
       "artists": [
         {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Diss Reaction",
+          "url": "https://open.spotify.com/artist/7fZ9A0D8CDfKcC3dHVfFB6"
         }
       ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+      "duration_ms": 159000,
+      "name": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+      "url": "https://open.spotify.com/track/7LaudOZfVVX4K8pIpzyRja"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
-      },
-      "artists": [
-        {
-          "name": "Vertile",
-          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
-        }
-      ],
-      "duration_ms": 295741,
-      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
-      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
+        "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6xlEt6dy8ERoQLN6q7u999"
+      },
+      "artists": [
+        {
+          "name": "Vertile",
+          "url": "https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH"
+        }
+      ],
+      "duration_ms": 295741,
+      "name": "Where Legends Rise (Defqon.1 2025 Anthem)",
+      "url": "https://open.spotify.com/track/2ELEWmYpYWOIkZSMu9pkHW"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "END GAME",
-        "url": "https://open.spotify.com/album/4LJt78HX3uRldlJiHoh6FD"
-      },
-      "artists": [
-        {
-          "name": "Testarossa",
-          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "END GAME",
-      "url": "https://open.spotify.com/track/0Hk1FbpJChxbFcPdIWCy07"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
         "name": "FACE 2 FACE",
         "url": "https://open.spotify.com/album/1y0fetRabv8tGvn4mCrJUf"
       },
@@ -2371,26 +2355,18 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr"
+        "name": "END GAME",
+        "url": "https://open.spotify.com/album/4LJt78HX3uRldlJiHoh6FD"
       },
       "artists": [
         {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
-        },
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+          "name": "Testarossa",
+          "url": "https://open.spotify.com/artist/4KbAy4AFLnr2NmvkkuPejW"
         }
       ],
-      "duration_ms": 162580,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
+      "duration_ms": 267000,
+      "name": "END GAME",
+      "url": "https://open.spotify.com/track/0Hk1FbpJChxbFcPdIWCy07"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2415,6 +2391,30 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/0UtkG7bUYmbOr11CJhdbrr"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1d8lzlVNqR6kcYCnsfeaHC"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z"
-      },
-      "artists": [
-        {
-          "name": "Galactixx",
-          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
         "name": "Blow Up The Speakers (Again)",
         "url": "https://open.spotify.com/album/7mzcAAE2fCST82z8NGVrY4"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 208657,
       "name": "Blow Up The Speakers (Again)",
       "url": "https://open.spotify.com/track/4TMKgsfeO2pH5jNSJtwUKK"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
+        "name": "When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/5GgQfoLvbTHqcd5I7M8Y3z"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/0RC6fZqJiHWqTgwS5YfqBn"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2695,6 +2695,22 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
         "name": "Love Generation",
         "url": "https://open.spotify.com/album/0ctgLGBpK2eLGlg1Fsm2hP"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 144750,
       "name": "Up, Down, Left, Right",
       "url": "https://open.spotify.com/track/2fUWH5VjaLgfi6yAPtpKO7"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
     },
     {
       "added_at": "2026-08-24 11:40:38",
@@ -2919,26 +2919,6 @@
     {
       "added_at": "2026-08-24 11:40:38",
       "album": {
-        "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
-        "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        },
-        {
-          "name": "Phuture Noize",
-          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
-      "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
-    },
-    {
-      "added_at": "2026-08-24 11:40:38",
-      "album": {
         "name": "World On Fire",
         "url": "https://open.spotify.com/album/0hip6zVMbgqrbtyobAOuay"
       },
@@ -2955,6 +2935,26 @@
       "duration_ms": 217303,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/0ZMadpivvZrK3q88POgTpX"
+    },
+    {
+      "added_at": "2026-08-24 11:40:38",
+      "album": {
+        "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
+        "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
+      "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
     },
     {
       "added_at": "2026-08-24 11:40:38",

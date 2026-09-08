@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios en portada.",
-  "num_followers": 531813,
+  "num_followers": 531822,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
+        "name": "Pero Me Da\u00f1aste",
+        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 214805,
+      "name": "Pero Me Da\u00f1aste",
+      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
         "name": "La Madrugada",
         "url": "https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Pero Me Da\u00f1aste",
-        "url": "https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ"
-      },
-      "artists": [
-        {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
-        }
-      ],
-      "duration_ms": 214805,
-      "name": "Pero Me Da\u00f1aste",
-      "url": "https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Qu\u00e9 Mal",
         "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 175105,
       "name": "Qu\u00e9 Mal",
       "url": "https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Cartera Llena",
+        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "duration_ms": 170573,
+      "name": "Cartera Llena",
+      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -751,22 +767,6 @@
       "duration_ms": 163669,
       "name": "La Pen\u00ednsula",
       "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
-        "name": "Cartera Llena",
-        "url": "https://open.spotify.com/album/65jEOUenUxbkiSWHIQQe8l"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        }
-      ],
-      "duration_ms": 170573,
-      "name": "Cartera Llena",
-      "url": "https://open.spotify.com/track/2k3iQGrWNuStofUwJPkHwj"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Mi Sue\u00f1o",
-        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Primer Grado",
-          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "El Proximo Viernes",
         "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 198073,
       "name": "El Proximo Viernes",
       "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Mi Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Primer Grado",
+          "url": "https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Dos Pa\u2019 Llevar",
-        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Dos Pa\u2019 Llevar",
-      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "Terco Y Que",
         "url": "https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 142586,
       "name": "Terco Y Que",
       "url": "https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Dos Pa\u2019 Llevar",
+        "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Dos Pa\u2019 Llevar",
+      "url": "https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Cosas Del Amor - Live",
-      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
         "name": "ASUNTOS PENDIENTES",
         "url": "https://open.spotify.com/album/2qVp2WXlNuG4bqyrRkfCb6"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 182413,
       "name": "ASUNTOS PENDIENTES",
       "url": "https://open.spotify.com/track/1H1A2GBAln4ThLSV2HcW5u"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
+      },
+      "artists": [
+        {
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
+        }
+      ],
+      "duration_ms": 183562,
+      "name": "Cosas Del Amor - Live",
+      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
+        "name": "Tokio",
+        "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        }
+      ],
+      "duration_ms": 140145,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
+    },
+    {
+      "added_at": "2026-09-04 14:48:12",
+      "album": {
         "name": "Pa' D\u00f3nde",
         "url": "https://open.spotify.com/album/59EYpnVskaEs2RuFjwZ4fq"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2026-09-04 14:48:12",
       "album": {
-        "name": "Tokio",
-        "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN"
       },
       "artists": [
         {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
         }
       ],
-      "duration_ms": 140145,
-      "name": "Tokio",
-      "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
+      "duration_ms": 182692,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm"
     },
     {
       "added_at": "2026-09-04 14:48:12",
@@ -1283,22 +1299,6 @@
       "duration_ms": 157500,
       "name": "La Bolsita",
       "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
-    },
-    {
-      "added_at": "2026-09-04 14:48:12",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Relincho",
-          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm"
     },
     {
       "added_at": "2026-09-04 14:48:12",

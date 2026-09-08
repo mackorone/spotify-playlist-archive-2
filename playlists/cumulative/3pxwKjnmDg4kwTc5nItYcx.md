@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-913 songs - 2 day 1 hr 7 min
+915 songs - 2 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 | 2022-03-18 | 2025-08-27 |
 | [Bad Tattoo](https://open.spotify.com/track/79VJHtRYfW6UQ2drtnozV0) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Bad Tattoo](https://open.spotify.com/album/3gKSl42Qz9Kwv9LKyPffrx) | 3:14 | 2021-01-23 | 2025-08-27 |
 | [Balance](https://open.spotify.com/track/21ZErdd3e2W8EunBqaQ9PY) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Halfway to Paradise](https://open.spotify.com/album/0OQBLaenHVf9O9KpY1NNtI) | 3:33 | 2024-10-03 | 2025-08-27 |
+| [Ballet Pumps](https://open.spotify.com/track/3iAua4ZysTvqch8Uyt3lZ4) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Ballet Pumps](https://open.spotify.com/album/4FYcvhBdw8iyAwAhXfyDnv) | 3:18 | 2026-09-07 |  |
 | [Ballroom Bop](https://open.spotify.com/track/2N2cB0q7KoZIix3hUGsJ05) | [Kedus](https://open.spotify.com/artist/0WfDryAa4KJEh74yamg5Jx) | [Ballroom Bop](https://open.spotify.com/album/2PPB081sKZPjhVakuQmpzE) | 2:07 | 2022-05-13 | 2025-08-27 |
 | [Be Alone](https://open.spotify.com/track/7e7RHOQUTfEhNzJ7wkWaXP) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Two Sides](https://open.spotify.com/album/5DBpggyo5rvfmJMv1eOrT9) | 4:07 | 2020-12-04 | 2025-07-17 |
 | [Be Alright](https://open.spotify.com/track/2H4gf1wLxvYreMj1jcaN0k) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/1mRtVjwGgBvLiaJhPGHZ8M) | 3:16 | 2019-08-27\* | 2019-11-11 |
@@ -282,6 +283,7 @@
 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 | 2022-10-21 | 2025-07-17 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-11 | 2025-07-17 |
 | [FUCK U FINN](https://open.spotify.com/track/7gEqK9jcxNF6CdbTDWd1PM) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw) | [FUCK U FINN](https://open.spotify.com/album/69unu2hbjnHQ06Ypes8pm8) | 4:05 | 2022-08-19 | 2025-08-27 |
+| [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 | 2026-09-07 |  |
 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 | 2021-05-08 | 2025-07-17 |
 | [Future Kids](https://open.spotify.com/track/5Cy20icxvxt8EnB2pIdVxf) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Future Kids](https://open.spotify.com/album/2aAF4bnWU9rrbK8mw70TGl) | 3:11 | 2021-02-12 | 2025-07-17 |
 | [Gentle With Me](https://open.spotify.com/track/2iimoY1Q4wE44jI34e9AlG) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Gentle With Me](https://open.spotify.com/album/6gJhfjZD2IL95yULmbPjU5) | 3:42 | 2025-08-27 |  |

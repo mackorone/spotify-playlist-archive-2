@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 384500,
       "name": "6minutes",
       "url": "https://open.spotify.com/track/0bLWnQPASZZvZbB4CyrWQk"
@@ -584,10 +584,32 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 236417,
       "name": "An Angel",
       "url": "https://open.spotify.com/track/401zJRvqzguSmxVGh3vCnr"
+    },
+    {
+      "album": {
+        "name": "Angel Wings (Qrion Remix)",
+        "url": "https://open.spotify.com/album/2DVl7kVpQhE8uVUStNnk1p"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275476,
+      "name": "Angel Wings - Qrion Remix",
+      "url": "https://open.spotify.com/track/154grs1zYGDLwcXiXtAmc3"
     },
     {
       "album": {
@@ -1897,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Chroma Falls",
+        "url": "https://open.spotify.com/album/7xFvajkCcd6tCA8SEDCiim"
+      },
+      "artists": [
+        {
+          "name": "Marley Carroll",
+          "url": "https://open.spotify.com/artist/4mjVQFIgNetwBWatbQROKq"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336208,
+      "name": "Chroma Falls",
+      "url": "https://open.spotify.com/track/4XJ742ZQbZIIbU5fyyFEDU"
+    },
+    {
+      "album": {
         "name": "Circle of Light (Dosem Remix)",
         "url": "https://open.spotify.com/album/6NU2WbGP0JAe68cEsjOwz7"
       },
@@ -2584,7 +2624,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 187434,
       "name": "DNCR",
       "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
@@ -4289,6 +4329,28 @@
     },
     {
       "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/7kcSVy4v1cgjxWSxVMMzFn"
+      },
+      "artists": [
+        {
+          "name": "Jon Gurd",
+          "url": "https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251136,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/3UvvXtJqRdCgV4ziVMRKXE"
+    },
+    {
+      "album": {
         "name": "Four Tet Is My Godmother",
         "url": "https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP"
       },
@@ -5393,6 +5455,28 @@
     },
     {
       "album": {
+        "name": "House of Wh0 (Remixes)",
+        "url": "https://open.spotify.com/album/2XTe39SvXVcefQKpXk5LHE"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Alexander Som",
+          "url": "https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "House of Wh0 - Alexander Som Remix",
+      "url": "https://open.spotify.com/track/7Bq8cua4Oi3fY6l0TUvtaq"
+    },
+    {
+      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/67Fig18sgK6uebGB6CaNw5"
       },
@@ -6447,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "Una Noche Mas... Latina",
+        "url": "https://open.spotify.com/album/5uuTX9Y0LDFLX3h2xejxIB"
+      },
+      "artists": [
+        {
+          "name": "Santos",
+          "url": "https://open.spotify.com/artist/015cuNHD8iLVsprLD4ZA4H"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369893,
+      "name": "Ke Dolor",
+      "url": "https://open.spotify.com/track/1M1G0Rn41zMDemgzmlH5ES"
+    },
+    {
+      "album": {
         "name": "Keep On Moving Up",
         "url": "https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX"
       },
@@ -6568,6 +6670,24 @@
       "duration_ms": 360474,
       "name": "Know Me - Original Mix",
       "url": "https://open.spotify.com/track/5Z3efQv6xoarVRhRUV7Vr6"
+    },
+    {
+      "album": {
+        "name": "Global Underground #25: Deep Dish - Toronto",
+        "url": "https://open.spotify.com/album/78m21i0M73kiVthYp7ifK4"
+      },
+      "artists": [
+        {
+          "name": "Paul Rogers",
+          "url": "https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568828,
+      "name": "Krafty",
+      "url": "https://open.spotify.com/track/28Ki5eWLxtrv2bLzLPqaCe"
     },
     {
       "album": {
@@ -8442,7 +8562,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 168750,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/2oTtk4Sc41FH52ZXcSXKr8"
@@ -9016,6 +9136,24 @@
       "duration_ms": 368075,
       "name": "Poignant Letters - Extended",
       "url": "https://open.spotify.com/track/4ETaeFSEd8sVzFUQQZ2hF0"
+    },
+    {
+      "album": {
+        "name": "Pontap\u00e9 (2013 Remake)",
+        "url": "https://open.spotify.com/album/6EU2YzsRIw0b4PU6zsYNmw"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410460,
+      "name": "Pontap\u00e9 Remake 2013",
+      "url": "https://open.spotify.com/track/0G9ypvuPiJbxd5uMudDKst"
     },
     {
       "album": {
@@ -9770,7 +9908,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 173017,
       "name": "RVN (Raven)",
       "url": "https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L"
@@ -11360,7 +11498,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
@@ -11480,7 +11618,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 249960,
       "name": "The Castle",
       "url": "https://open.spotify.com/track/1MxoFKYEmCHoQpCRpaWaui"
@@ -11884,7 +12022,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
@@ -12366,6 +12504,28 @@
       "duration_ms": 204596,
       "name": "Two Steppin",
       "url": "https://open.spotify.com/track/13V98gOrC6MeBU2w7MUkdH"
+    },
+    {
+      "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "TS Graye",
+          "url": "https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196415,
+      "name": "U Can't Come Home",
+      "url": "https://open.spotify.com/track/0egCgWQcOEeqqsZQozmyNc"
     },
     {
       "album": {

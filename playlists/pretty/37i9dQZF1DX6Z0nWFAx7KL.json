@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168002,
+  "num_followers": 167990,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -479,30 +479,6 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Sun In The Cold",
-        "url": "https://open.spotify.com/album/4FTwEjOp3Y6J1D0zQPhM3g"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "LOWEN",
-          "url": "https://open.spotify.com/artist/1Otld2dXsrd1KlFeqWzd0f"
-        },
-        {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
-        }
-      ],
-      "duration_ms": 144761,
-      "name": "Sun In The Cold",
-      "url": "https://open.spotify.com/track/4UINrzSXtc1blrnqo00Atj"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/7Jq86ZKuOyQSRTEI0UzAhe"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 208500,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/61C23J1jduYNQVe69XBupp"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
+        "name": "Sun In The Cold",
+        "url": "https://open.spotify.com/album/4FTwEjOp3Y6J1D0zQPhM3g"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "LOWEN",
+          "url": "https://open.spotify.com/artist/1Otld2dXsrd1KlFeqWzd0f"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "Sun In The Cold",
+      "url": "https://open.spotify.com/track/4UINrzSXtc1blrnqo00Atj"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "chameleon",
+          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
+        }
+      ],
+      "duration_ms": 133565,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Living At The Sea",
         "url": "https://open.spotify.com/album/04IUqDkRPLFBpE9vKqOzxE"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 152195,
       "name": "Living At The Sea",
       "url": "https://open.spotify.com/track/5LI1FAgKgyU8vmziFY9XhX"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "chameleon",
-          "url": "https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB"
-        }
-      ],
-      "duration_ms": 133565,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+    },
+    {
+      "added_at": "2026-06-08 07:23:44",
+      "album": {
         "name": "Eyes All Over Mine",
         "url": "https://open.spotify.com/album/2sin8txJflst7fhouxDKy6"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 152943,
       "name": "Eyes All Over Mine",
       "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
-    },
-    {
-      "added_at": "2026-06-08 07:23:44",
-      "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
-      },
-      "artists": [
-        {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
     },
     {
       "added_at": "2026-06-08 07:23:44",
@@ -1207,22 +1207,22 @@
     {
       "added_at": "2026-06-08 07:23:44",
       "album": {
-        "name": "Wait No More",
-        "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Shoby",
+          "url": "https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT"
         },
         {
-          "name": "Lost Ways",
-          "url": "https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu"
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/0BNQCaSPM57wT2UsaoiyCC"
+      "duration_ms": 180000,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S"
     }
   ],
   "unique_name": "Chill Dance",

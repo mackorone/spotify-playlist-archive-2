@@ -1,12 +1,12 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Green Day",
-  "num_followers": 1494,
+  "num_followers": 1493,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAICKSDKaJb5qISG6atd3h42aQiktJS",
+  "snapshot_id": "AAAICjEVEmi2hBwWMZIFVmDXLwGqxOeM",
   "tracks": [
     {
       "added_at": "2026-09-01 06:04:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-01 06:04:10",
       "album": {
-        "name": "Endemic Intelligence in Multiple Dimensions",
-        "url": "https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg"
-      },
-      "artists": [
-        {
-          "name": "Brad Cox",
-          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
-        }
-      ],
-      "duration_ms": 187716,
-      "name": "Kickin' Stones",
-      "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"
-    },
-    {
-      "added_at": "2026-09-01 06:04:10",
-      "album": {
         "name": "GODSPEED",
         "url": "https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 141906,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ"
+    },
+    {
+      "added_at": "2026-09-07 05:40:32",
+      "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/3fPv17mfPlCY901H71DGIW"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 263068,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/6lGiMmgJjLXJumyEgzYl7r"
     },
     {
       "added_at": "2026-09-01 06:04:10",

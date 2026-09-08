@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 154782,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "Bandh Rehne Do",
+        "url": "https://open.spotify.com/album/3WcjrakaB1ydCOPcwiL69i"
+      },
+      "artists": [
+        {
+          "name": "Maanaav Podaar",
+          "url": "https://open.spotify.com/artist/2kdZPMR6ce9gMCDShQefzj"
+        },
+        {
+          "name": "Anushka Banerjee",
+          "url": "https://open.spotify.com/artist/4nsc8mxWFbSDqaFZaORfD7"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Bandh Rehne Do",
+      "url": "https://open.spotify.com/track/5g2fLolamjIaDpq3PLBX8m"
+    },
+    {
+      "album": {
         "name": "Bandhu 2.0 (From \"Cocktail 2\")",
         "url": "https://open.spotify.com/album/5830mF41OEgnX3twGqEzSL"
       },
@@ -4280,7 +4302,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 210295,
       "name": "Chinaron Se",
       "url": "https://open.spotify.com/track/61Ech8oWWxwB1acs2Z9hD0"
@@ -5640,7 +5662,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 213187,
       "name": "Dil Ki Yaari",
       "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
@@ -6146,7 +6168,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 163695,
       "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
@@ -10575,6 +10597,36 @@
     },
     {
       "album": {
+        "name": "Jhoomo (From \"Don't Be Shy\")",
+        "url": "https://open.spotify.com/album/0ieS4eWlP1JGyCZNFjqyB8"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        },
+        {
+          "name": "Devansh Vaidya",
+          "url": "https://open.spotify.com/artist/6ceevqtF0Ig1RozxJZarDJ"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192037,
+      "name": "Jhoomo (From \"Don't Be Shy\")",
+      "url": "https://open.spotify.com/track/0IoR3De5p7h74bPxK3AwQS"
+    },
+    {
+      "album": {
         "name": "Jiya",
         "url": "https://open.spotify.com/album/5jbylBl96YBPRaW22QJf1F"
       },
@@ -11286,6 +11338,36 @@
       "duration_ms": 144950,
       "name": "Kahaniyan 2.0",
       "url": "https://open.spotify.com/track/7ycXqzYYhXZmcvTSk2VHYK"
+    },
+    {
+      "album": {
+        "name": "Kaho Toh (From \"Prem Keetanu\")",
+        "url": "https://open.spotify.com/album/71yDpLqmRBdWoKl1u8oESG"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Annkur R Pathakk",
+          "url": "https://open.spotify.com/artist/52qnwlT8n9v57lj1Q1cK3J"
+        },
+        {
+          "name": "Sachin Urmtosh",
+          "url": "https://open.spotify.com/artist/1mU6MSjhzEgsJBjEIWbUy3"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "Kaho Toh - From \"Prem Keetanu\"",
+      "url": "https://open.spotify.com/track/3L9Ajvs1x5xQfuapoVAZOm"
     },
     {
       "album": {
@@ -19314,6 +19396,36 @@
       "duration_ms": 238195,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/6mfV9MW0BYTiNBFGpdZvwN"
+    },
+    {
+      "album": {
+        "name": "Samjho Na (From \"The Vvaan\")",
+        "url": "https://open.spotify.com/album/4dDpesDlsId7FLZ9rQ17tp"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "Samjho Na - From \"The Vvaan\"",
+      "url": "https://open.spotify.com/track/1yQZfjUeKWs31AYV2IxN0V"
     },
     {
       "album": {

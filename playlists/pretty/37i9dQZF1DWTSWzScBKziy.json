@@ -1,6 +1,6 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Anne Wilson",
-  "num_followers": 438955,
+  "num_followers": 439063,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matt Janney",
+          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
+        }
+      ],
+      "duration_ms": 280250,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "BE STRONG",
         "url": "https://open.spotify.com/album/1krVVL98txGTPcegmfpM2A"
       },
@@ -395,26 +415,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/3oSat95vsq91VBgBcIsD3m"
-      },
-      "artists": [
-        {
-          "name": "Gateway Worship",
-          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
-        },
-        {
-          "name": "Matt Janney",
-          "url": "https://open.spotify.com/artist/1t1YmoXy1AheMm0jxpNriI"
-        }
-      ],
-      "duration_ms": 280250,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/3L9POMCQ3fFTStxzHchZrV"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "WANNA SING",
         "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Lover Of My Life (I Need You)",
-        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
-      },
-      "artists": [
-        {
-          "name": "Charles Weems",
-          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
-        }
-      ],
-      "duration_ms": 247094,
-      "name": "Lover Of My Life (I Need You)",
-      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/4gjgt5M1Z3BYrZGzB83ok3"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 594825,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6l2Ol93k1yCbTWvEBKDaJW"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Lover Of My Life (I Need You)",
+        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "duration_ms": 247094,
+      "name": "Lover Of My Life (I Need You)",
+      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Ain't On Me",
+        "url": "https://open.spotify.com/album/4XcYQmAR9XMtRZjZLjU4yl"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 193940,
+      "name": "Ain't On Me",
+      "url": "https://open.spotify.com/track/1tqGq7XfvHUHIizkL7otAD"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "ABBA HOLD",
         "url": "https://open.spotify.com/album/7bi5pRpZkXddPaGJY9F7Wy"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 179200,
       "name": "ABBA HOLD",
       "url": "https://open.spotify.com/track/5Ru7cdFXXtyKXIfzAGDvfJ"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Ain't On Me",
-        "url": "https://open.spotify.com/album/4XcYQmAR9XMtRZjZLjU4yl"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 193940,
-      "name": "Ain't On Me",
-      "url": "https://open.spotify.com/track/1tqGq7XfvHUHIizkL7otAD"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "King Of Heaven",
+        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 237715,
+      "name": "King Of Heaven",
+      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "YOU CAN ALWAYS COME BACK HOME",
         "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 231901,
       "name": "YOU CAN ALWAYS COME BACK HOME",
       "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "King Of Heaven",
-        "url": "https://open.spotify.com/album/2Yd4ffqW6EeHqG2U3kl4Sx"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 237715,
-      "name": "King Of Heaven",
-      "url": "https://open.spotify.com/track/7HDXr0iDy4w7TVnOCWxmxi"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -619,26 +619,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
-      },
-      "artists": [
-        {
-          "name": "Carly Ann Taylor",
-          "url": "https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 213278,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "What Can I Say But Thank You (Live)",
         "url": "https://open.spotify.com/album/2ysN25wbsarf5xTUwkgXbS"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 359723,
       "name": "What Can I Say But Thank You - Live",
       "url": "https://open.spotify.com/track/5BxcFUyiqA7hbCQVI0UMvN"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
+      },
+      "artists": [
+        {
+          "name": "Carly Ann Taylor",
+          "url": "https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 213278,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Known and Loved (Oliver's Song)",
+        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 229835,
+      "name": "Known and Loved (Oliver's Song)",
+      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "Keep Praying",
         "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 250720,
       "name": "Keep Praying",
       "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Known and Loved (Oliver's Song)",
-        "url": "https://open.spotify.com/album/4mqoOg50bFEASN19qpXyU2"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 229835,
-      "name": "Known and Loved (Oliver's Song)",
-      "url": "https://open.spotify.com/track/2a4CBfsjgda40IcEJ4yCQG"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
+        "name": "Wake Up Sleeper",
+        "url": "https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
         "name": "ascent",
         "url": "https://open.spotify.com/album/6jyCvUl8pbOWIryoBAOSWQ"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 260198,
       "name": "Only Here To Worship",
       "url": "https://open.spotify.com/track/2vwvIryT7FTxPxhxbXaj3g"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
-        "name": "Wake Up Sleeper",
-        "url": "https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "My Salvation",
-        "url": "https://open.spotify.com/album/1qfMSy6sxlci51SDef6hWz"
-      },
-      "artists": [
-        {
-          "name": "Canaan Baca",
-          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
-        }
-      ],
-      "duration_ms": 310741,
-      "name": "My Salvation",
-      "url": "https://open.spotify.com/track/1S3OPAd9dI14Rj4ri9dGKa"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "REMEMBER ME",
         "url": "https://open.spotify.com/album/4knnVaNOKU8OYLZxNDjTYY"
       },
@@ -1163,22 +1147,18 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Hidden",
-        "url": "https://open.spotify.com/album/3KUX6F4InRKo4cn0F9QFIO"
+        "name": "My Salvation",
+        "url": "https://open.spotify.com/album/1qfMSy6sxlci51SDef6hWz"
       },
       "artists": [
         {
-          "name": "Echo Harbor Worship",
-          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Canaan Baca",
+          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
         }
       ],
-      "duration_ms": 282567,
-      "name": "Hidden",
-      "url": "https://open.spotify.com/track/6n0vpKNArOOadmGT1nSNGp"
+      "duration_ms": 310741,
+      "name": "My Salvation",
+      "url": "https://open.spotify.com/track/1S3OPAd9dI14Rj4ri9dGKa"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1195,6 +1175,26 @@
       "duration_ms": 229592,
       "name": "DEAD IN THE WATER",
       "url": "https://open.spotify.com/track/7EVdKmLwyM7EaoztxoZzOU"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/3KUX6F4InRKo4cn0F9QFIO"
+      },
+      "artists": [
+        {
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 282567,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/6n0vpKNArOOadmGT1nSNGp"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Can You Tell",
-        "url": "https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H"
-      },
-      "artists": [
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        },
-        {
-          "name": "Caylie Bryant",
-          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
-        }
-      ],
-      "duration_ms": 196208,
-      "name": "Can You Tell",
-      "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
-    },
-    {
-      "added_at": "2026-08-21 09:34:27",
-      "album": {
         "name": "growing pains",
         "url": "https://open.spotify.com/album/2lRJ5ZXkcEWk27SIrksfgH"
       },
@@ -1319,18 +1299,22 @@
     {
       "added_at": "2026-08-21 09:34:27",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/5H1TIRB0hFoEwp3XJpnphM"
+        "name": "Can You Tell",
+        "url": "https://open.spotify.com/album/4y4tKRrEJQwofQGhLW7K8H"
       },
       "artists": [
         {
-          "name": "Warren Peay",
-          "url": "https://open.spotify.com/artist/4CV1cMFPuOL5ZTE4AB7GNh"
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Caylie Bryant",
+          "url": "https://open.spotify.com/artist/7kvngYXa2bVPZt0fOT2r7O"
         }
       ],
-      "duration_ms": 200097,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/2OJRpRXpMyEotrzmr1GyBD"
+      "duration_ms": 196208,
+      "name": "Can You Tell",
+      "url": "https://open.spotify.com/track/3RUd4bwwIF0hZFFwC6O0su"
     },
     {
       "added_at": "2026-08-21 09:34:27",
@@ -1347,6 +1331,22 @@
       "duration_ms": 263000,
       "name": "So So Good",
       "url": "https://open.spotify.com/track/2WMPGYQQjxKVB0DfmiVFMi"
+    },
+    {
+      "added_at": "2026-08-21 09:34:27",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/5H1TIRB0hFoEwp3XJpnphM"
+      },
+      "artists": [
+        {
+          "name": "Warren Peay",
+          "url": "https://open.spotify.com/artist/4CV1cMFPuOL5ZTE4AB7GNh"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/2OJRpRXpMyEotrzmr1GyBD"
     }
   ],
   "unique_name": "Faith Rising",

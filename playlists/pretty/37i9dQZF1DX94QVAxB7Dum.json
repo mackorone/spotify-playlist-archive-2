@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 830247,
+  "num_followers": 830326,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "The Definitive Collection (International Version)",
+        "url": "https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 313560,
+      "name": "Boogie On Reggae Woman",
+      "url": "https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Steve Wright\u2019s Sunday Love Songs\u2026 Make-Ups and Break-Ups",
         "url": "https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 152613,
       "name": "My World Is Empty Without You - Single Version (Mono)",
       "url": "https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "The Definitive Collection (International Version)",
-        "url": "https://open.spotify.com/album/5SDdZXG7vS9zFcTNkC0P9g"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 313560,
-      "name": "Boogie On Reggae Woman",
-      "url": "https://open.spotify.com/track/3KB2RvFsLM3OziKMgKWyoY"
     },
     {
       "added_at": "2024-07-02 22:47:47",

@@ -2,7 +2,7 @@
 
 ### [Oude Meezingers ❤️‍🔥](https://open.spotify.com/playlist/37i9dQZF1DXanDkFGa4syx)
 
-> ik wil terug naar toen..\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
+> ik wil terug naar toen...
 
 317 songs - 20 hr 3 min
 

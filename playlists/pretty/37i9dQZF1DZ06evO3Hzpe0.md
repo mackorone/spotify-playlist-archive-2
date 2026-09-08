@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Hzpe0.md) - [plain]
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 884 likes - 41 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 883 likes - 41 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Hzpe0.md) - [plain]
 | 17 | [I’ve Got That Boogie Fever](https://open.spotify.com/track/4hwzwno5WzERkMSGlmjp5n) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 6:14 |
 | 18 | [Smokin' Room](https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:33 |
 | 19 | [I Wanna Be With You](https://open.spotify.com/track/4ebSFxwzrgMrmoaNT1Cl61) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:30 |
-| 20 | [Milkcow's Calf Blues](https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Mauro Spina](https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx) | [Hellhound On My Trail: Songs Of Robert Johnson](https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex) | 2:24 |
+| 20 | [Thank You for Sticking Around](https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:52 |
 | 21 | [Let Me Love You 'Til Morning Comes](https://open.spotify.com/track/0u4VPsMn34E45M7Xnkaot9) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:53 |
 | 22 | [Morning Noon And Nightime](https://open.spotify.com/track/3TSokwmbHnVbiYQ0XApkb3) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:40 |
 | 23 | [Universal Girl](https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 5:13 |
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Hzpe0.md) - [plain]
 | 25 | [One More Minute](https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [One More Minute](https://open.spotify.com/album/3jndkU4mOLfouW54RprLar) | 4:41 |
 | 26 | [God Is Good](https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [God Is Good](https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z) | 4:20 |
 | 27 | [Things Ain't Always Been This Good](https://open.spotify.com/track/4AlHAYIdsSHoVBEFOiT9tT) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 3:28 |
-| 28 | [Thank You for Sticking Around](https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:52 |
+| 28 | [Milkcow's Calf Blues](https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Mauro Spina](https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx) | [Hellhound On My Trail: Songs Of Robert Johnson](https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex) | 2:24 |
 | 29 | [Don't You Need a Boy Like Me](https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Don't You Need a Boy Like Me](https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM) | 1:56 |
 | 30 | [Hold On a Little Longer](https://open.spotify.com/track/7uNmf3URsQftTLFPXo5VRM) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Hold On a Little Longer](https://open.spotify.com/album/78kWRNYPsSD4HSMBTNNiQq) | 3:21 |
 | 31 | [Spend the Night](https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 6:18 |
 | 32 | [You Times Me Plus Love](https://open.spotify.com/track/5I77aUEixy9laeC5C4cQS1) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [You Times Me Plus Love](https://open.spotify.com/album/44jRoq7XaNWNbqyuGzPFuf) | 2:24 |
-| 33 | [Saturday](https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Saturday](https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U) | 4:40 |
-| 34 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 |
-| 35 | [Bring down \- Foggy Day Mix](https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Selected Grooves, Vol\. 1 \(Special House Beats Selection\)](https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl) | 3:12 |
+| 33 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 |
+| 34 | [Bring down \- Foggy Day Mix](https://open.spotify.com/track/4rCGAWGK22AEDfiVOLflxJ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Selected Grooves, Vol\. 1 \(Special House Beats Selection\)](https://open.spotify.com/album/1bdvbSFluDFHNOtXWijZSl) | 3:12 |
+| 35 | [Saturday](https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Saturday](https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U) | 4:40 |
 | 36 | [Release Soul \- Long Island Mix](https://open.spotify.com/track/1ZkDqpq8ak5GQapv9BNJVx) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Dubbin on the Dancefloor, Vol\. 1 \(House Dubs & Deep Tracks\)](https://open.spotify.com/album/6cekweXZKnBrFkNSgsYkfm) | 3:14 |
-| 37 | [Two Timer](https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Two Timer](https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt) | 2:34 |
-| 38 | [Hot](https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:07 |
+| 37 | [Hot](https://open.spotify.com/track/2aIqulwYsfldNK9u11Bg0B) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:07 |
+| 38 | [Two Timer](https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Two Timer](https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt) | 2:34 |
 | 39 | [Classic Shit](https://open.spotify.com/track/5kHkgUWqcpSqYQ65Ei50AK) | [BANKKNOT P](https://open.spotify.com/artist/3vRcNA61txR7YLC01dUwoK), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Darryl J](https://open.spotify.com/artist/4J4HwYBtMIjXShTzt68YrR) | [Classic Shit](https://open.spotify.com/album/4XXDM8RJWsAfaKCrtdYIJ3) | 3:12 |
 | 40 | [Malaga Airport \- Night Beats Mix](https://open.spotify.com/track/3Rp5DybTxMSr6seDyuNQjo) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [House Dj Set, Vol\. 3](https://open.spotify.com/album/0J1UklpBuJzV8Aj1cJHVKP) | 3:21 |
 | 41 | [Never Got Over You](https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:05 |
 
-Snapshot ID: `aptbgAAAAABjNQwjD8vcXnJMo1VzI0OQ`
+Snapshot ID: `apytAAAAAADzyUG29uiXmBe5zwvkSQTx`

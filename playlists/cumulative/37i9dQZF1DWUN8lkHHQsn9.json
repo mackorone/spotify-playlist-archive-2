@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:2utOsBf2Kzg9lYHKSMxClB\">duszno</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:1cMwAkW75xurkmm79aLqnb\">Metrosexual</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -180,6 +180,28 @@
       "duration_ms": 123694,
       "name": "Ale u mnie te\u017c",
       "url": "https://open.spotify.com/track/6oUiphLZOezNMfCi5eIPEI"
+    },
+    {
+      "album": {
+        "name": "Aljas Bar",
+        "url": "https://open.spotify.com/album/5kPH43CQ0nWDRyTZnegKHM"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Groovy Jerry",
+          "url": "https://open.spotify.com/artist/5izZJYxrN38CSxgyYDvcEl"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "Aljas Bar",
+      "url": "https://open.spotify.com/track/6TDCY47tIdzAWBQ6vA06eY"
     },
     {
       "album": {
@@ -490,7 +512,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
@@ -686,7 +708,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 216860,
       "name": "Bolt",
       "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
@@ -1124,6 +1146,24 @@
       "duration_ms": 183296,
       "name": "Co si\u0119 sta\u0142o?",
       "url": "https://open.spotify.com/track/4kKvEmTip9K2ajYo0H7WkY"
+    },
+    {
+      "album": {
+        "name": "Cofn\u0105\u0107 czas",
+        "url": "https://open.spotify.com/album/0FZR0Sntk6igMVEyFpnGku"
+      },
+      "artists": [
+        {
+          "name": "QueenKutee",
+          "url": "https://open.spotify.com/artist/5eqHDE9r1yrBnr3kPAu96H"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Cofn\u0105\u0107 czas",
+      "url": "https://open.spotify.com/track/78Dln0Q0hJGbDVJW8QjSli"
     },
     {
       "album": {
@@ -2502,7 +2542,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 260125,
       "name": "Go Ahead",
       "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
@@ -3340,7 +3380,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 221820,
       "name": "Kot Schr\u00f6dingera",
       "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
@@ -7251,6 +7291,28 @@
     },
     {
       "album": {
+        "name": "Take The Night",
+        "url": "https://open.spotify.com/album/1ewRl9OLDGpL3aWXb1BpRy"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Drew Hall",
+          "url": "https://open.spotify.com/artist/7g719mkA8sV9Ml1SqZyh39"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Take The Night",
+      "url": "https://open.spotify.com/track/10qSdXFFxy6KPw2YYb3PBJ"
+    },
+    {
+      "album": {
         "name": "Taki jak Ty",
         "url": "https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ"
       },
@@ -7751,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173709,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/0f4w59OPJajDTRod4NCcYi"
+    },
+    {
+      "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
@@ -7916,7 +7996,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 120213,
       "name": "W aucie",
       "url": "https://open.spotify.com/track/1VlU2dRJWoyl12tQTm8l49"
@@ -7942,6 +8022,24 @@
       "duration_ms": 202494,
       "name": "W innym kolorze",
       "url": "https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM"
+    },
+    {
+      "album": {
+        "name": "W nosie",
+        "url": "https://open.spotify.com/album/6x4pt9ecf44dYXvobWxUuO"
+      },
+      "artists": [
+        {
+          "name": "POLA NUDA",
+          "url": "https://open.spotify.com/artist/5nTUVpjyqWupaDX9vZj1QD"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113461,
+      "name": "W nosie",
+      "url": "https://open.spotify.com/track/1Pwg6n2PsmIzjF40ntAzbn"
     },
     {
       "album": {

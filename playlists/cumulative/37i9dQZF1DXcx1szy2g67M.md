@@ -2,7 +2,7 @@
 
 ### [Summer 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zomer 2026 beleef je hier! <a href="spotify:presents:jouwzomerid">Doe de quiz voor jouw zomer aanbevelingen!</a>
+> Zomer 2026 beleef je hier!
 
 960 songs - 2 day 0 hr 24 min
 

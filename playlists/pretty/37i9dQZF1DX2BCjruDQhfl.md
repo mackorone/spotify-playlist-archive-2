@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 ### [Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2BCjruDQhfl)
 
-> It's giving Kaya Imani vibes\. <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
+> It's giving Kaya Imani vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,638 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,631 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 89 | [Falling 4 Ya](https://open.spotify.com/track/2yx4kObpXCCedhsLuOwTel) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Gemengde Gevoelens](https://open.spotify.com/album/3CSe0pMc9mifZMIGnfnfzK) | 3:24 |
 | 90 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 
-Snapshot ID: `AAAAAKxmr8QBrd09j0oq+dSKTZvqBb3/`
+Snapshot ID: `AAAAAFlcu5/ETwN7kbbHM1KIqyW89jjU`

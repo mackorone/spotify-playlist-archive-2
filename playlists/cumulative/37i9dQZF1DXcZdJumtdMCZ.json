@@ -3525,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "Kelambu Da",
+        "url": "https://open.spotify.com/album/2W5SZinuGvKJnAm248h3i3"
+      },
+      "artists": [
+        {
+          "name": "Tupakeys",
+          "url": "https://open.spotify.com/artist/2uPSyCP3V2c0rBGzJ6X0JL"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241094,
+      "name": "Kelambu Da",
+      "url": "https://open.spotify.com/track/4miXdCcy6nHIQczGu3cA5A"
+    },
+    {
+      "album": {
         "name": "I-Popstar Tamil | Ep 06",
         "url": "https://open.spotify.com/album/0B6ZIq0VOSosltTAlCZ68p"
       },
@@ -5535,6 +5553,36 @@
     },
     {
       "album": {
+        "name": "Pengalin Sirappu",
+        "url": "https://open.spotify.com/album/4fc9EbtpC8lNDmcyioMFuE"
+      },
+      "artists": [
+        {
+          "name": "Mc Rude",
+          "url": "https://open.spotify.com/artist/6xS34wH493ApP7EgV76461"
+        },
+        {
+          "name": "M.C. A.K.",
+          "url": "https://open.spotify.com/artist/7qA3Ujq796G1Hc35XAwlmS"
+        },
+        {
+          "name": "MC Vickey",
+          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
+        },
+        {
+          "name": "Syed Ibu",
+          "url": "https://open.spotify.com/artist/3Ulc1CCbR9CvzOdqXqgXJF"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188807,
+      "name": "Pengalin Sirappu",
+      "url": "https://open.spotify.com/track/6ESnHzcFBK5KuFTmY1eKcj"
+    },
+    {
+      "album": {
         "name": "PESARAPO",
         "url": "https://open.spotify.com/album/4HjAlXXQuuuRiSdgY2ad7K"
       },
@@ -7072,7 +7120,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 192000,
       "name": "Street Legacy",
       "url": "https://open.spotify.com/track/7DMq1u7CatXYDb8Q7NyXWr"
@@ -7866,7 +7914,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 200571,
       "name": "Thom - Original Mix",
       "url": "https://open.spotify.com/track/69K5cEJIEtw7NYbi3Cqp89"
@@ -8224,6 +8272,24 @@
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
+    },
+    {
+      "album": {
+        "name": "Vanakam Bro",
+        "url": "https://open.spotify.com/album/1B0dnCjXUw0oRPc1TTia50"
+      },
+      "artists": [
+        {
+          "name": "Black King",
+          "url": "https://open.spotify.com/artist/7mtre7fyZvAgT8sIFGkQrM"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Vanakam Bro",
+      "url": "https://open.spotify.com/track/1ht8Aj20RuS4ZKq8bL2pwR"
     },
     {
       "album": {
@@ -8588,7 +8654,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 331428,
       "name": "Wild Soul - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/31Q6uIgwjcpvJuEKnpEw5l"

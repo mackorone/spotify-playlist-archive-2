@@ -2,7 +2,7 @@
 
 ### [Cozy Felt Piano](https://open.spotify.com/playlist/37i9dQZF1DX4MB9zAGi61h)
 
-> Close Mic, Muted Strings
+> Close Mic, Muted Strings, Cozy Vibes 🍂
 
 83 songs - 3 hr 31 min
 

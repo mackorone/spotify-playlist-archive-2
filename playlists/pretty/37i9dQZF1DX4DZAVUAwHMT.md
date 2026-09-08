@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458,886 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,786 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 38 | [Juice A Jumbo Jet](https://open.spotify.com/track/3vv4bbwHPvt10Y9c1ASv2k) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Juice A Jumbo Jet](https://open.spotify.com/album/3MDvb0nm9ZuSTvNnFVmbnK) | 4:51 |
 | 39 | [Good Fortune](https://open.spotify.com/track/1wlzx2qdBH3SESjGCmScVE) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Good Fortune](https://open.spotify.com/album/2NSRxoaGY9dxPJ0f3Rpelk) | 3:07 |
 | 40 | [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 |
-| 41 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 3:02 |
+| 41 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 2:58 |
 | 42 | [It's Time](https://open.spotify.com/track/75zo79uZOzksHPyf6OX8D0) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [It's Time](https://open.spotify.com/album/4SFaTZZOEnuGRVNvhugVBg) | 4:07 |
 | 43 | [Just So You Know](https://open.spotify.com/track/0HWhKp7OS2wNPb0C4lgrOf) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [Just So You Know](https://open.spotify.com/album/7grCx86IIgfm3aAb55xrkP) | 3:41 |
 | 44 | [Afterglow](https://open.spotify.com/track/7yhMxoPBe4fFQ4bUeXAAi4) | [Mallory Knox](https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ) | [Afterglow](https://open.spotify.com/album/1INl7lZFy12JMMuWf6A9Rs) | 3:26 |

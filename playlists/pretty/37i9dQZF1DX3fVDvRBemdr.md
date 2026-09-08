@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollands & Volkspop\. Cover: Samantha Steenwijk <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
+> De nieuwste Hollands & Volkspop\. Cover: Samantha Steenwijk
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,688 likes - 105 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,720 likes - 105 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 2 | [Ons Pakken Ze Niet](https://open.spotify.com/track/0GAIzlQ5qhNvMVcCRxSoVZ) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Ons Pakken Ze Niet](https://open.spotify.com/album/6FcyAdvCd5bpBl9eUeP8fk) | 2:56 |
 | 3 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
 | 4 | [Habibi](https://open.spotify.com/track/1gGTqcwul4H5Vb5WaBR2uK) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Habibi](https://open.spotify.com/album/4slLbGJdQ7Qv7j5wGHqM66) | 2:30 |
-| 5 | [Alsof de hemel open gaat](https://open.spotify.com/track/1S7E2FLHfDOTrHBd2kgwbc) | [Jeffrey Tanis](https://open.spotify.com/artist/6m3iqVYsvXo0uVfWGSTk7Q) | [Alsof de hemel open gaat](https://open.spotify.com/album/46NQoSheTwtgVCZSNh4eOF) | 2:50 |
-| 6 | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/track/5UysfpU2WgtpUyFjW11ooB) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/album/2FzIvKYfWp6btKRE77aNuz) | 2:48 |
-| 7 | [Vloek van Barcelona](https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vloek van Barcelona](https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb) | 2:25 |
-| 8 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
-| 9 | [Moe Van De Malibu](https://open.spotify.com/track/00evU5H08oLkwEWxUpu4jO) | [Andy Van der Leek](https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu), [John Zoet](https://open.spotify.com/artist/0OV8oXXEG1zHvllmUqtzpL) | [Moe Van De Malibu](https://open.spotify.com/album/0hva22a1POQWSleIEhm9PF) | 2:23 |
+| 5 | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/track/5UysfpU2WgtpUyFjW11ooB) | [Jeroen Van Zelst](https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR) | [Ik Ga Niet Van Roosje Naar Roosje](https://open.spotify.com/album/2FzIvKYfWp6btKRE77aNuz) | 2:48 |
+| 6 | [Vloek van Barcelona](https://open.spotify.com/track/4uyFQbpIBFxWlRf3g5SDnd) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Vloek van Barcelona](https://open.spotify.com/album/2AkdWDqde887HRYN1I3kVb) | 2:25 |
+| 7 | [Ik Hoor Niks Geks](https://open.spotify.com/track/5WBCWLvkVh8kWBLxUGQd67) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Ik Hoor Niks Geks](https://open.spotify.com/album/4XgUdNLifjU902gYLlIMCw) | 2:16 |
+| 8 | [Moe Van De Malibu](https://open.spotify.com/track/00evU5H08oLkwEWxUpu4jO) | [Andy Van der Leek](https://open.spotify.com/artist/7nCWWJ31tKrrzCfDbzKvqu), [John Zoet](https://open.spotify.com/artist/0OV8oXXEG1zHvllmUqtzpL) | [Moe Van De Malibu](https://open.spotify.com/album/0hva22a1POQWSleIEhm9PF) | 2:23 |
+| 9 | [Alsof de hemel open gaat](https://open.spotify.com/track/1S7E2FLHfDOTrHBd2kgwbc) | [Jeffrey Tanis](https://open.spotify.com/artist/6m3iqVYsvXo0uVfWGSTk7Q) | [Alsof de hemel open gaat](https://open.spotify.com/album/46NQoSheTwtgVCZSNh4eOF) | 2:50 |
 | 10 | [Ik Heb Jou Niet Nodig](https://open.spotify.com/track/1rprZP3wW9p8G87SnX0Y5X) | [Youri van Arnhem](https://open.spotify.com/artist/5KLL1TYKaHF61vvOOKK0Mj) | [Ik Heb Jou Niet Nodig](https://open.spotify.com/album/0JPs9CMSNKvSFxxbpNZLbM) | 2:50 |
 | 11 | [Kroegen in de Hemel](https://open.spotify.com/track/7daRniFQ3OpZzxCmCBPuoE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Kroegen in de Hemel](https://open.spotify.com/album/0WNSIdhb8F6wZwnvNF3748) | 3:03 |
 | 12 | [Sjansen](https://open.spotify.com/track/5CFrNBn5fJymiGNUn6D5dQ) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Sjansen](https://open.spotify.com/album/4E7hhC2EOWBxo3VZ0ksOiQ) | 2:29 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 104 | [Een Mooie Chica Zoals Zij](https://open.spotify.com/track/5zrEWCqBaMcLR2hJDwwMDP) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Een Mooie Chica Zoals Zij](https://open.spotify.com/album/27w8RpSc7otfzaI7bN2krC) | 2:32 |
 | 105 | [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 |
 
-Snapshot ID: `AAAAAJKtHXwb5NarMNPvt4AlFlsido7X`
+Snapshot ID: `AAAAAPvvDcX9Hy8JU43HOwK2V9oPFW1+`

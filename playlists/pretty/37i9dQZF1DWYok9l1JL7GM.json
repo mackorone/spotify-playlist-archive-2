@@ -1,6 +1,6 @@
 {
   "description": "The south got something to say. Cover: Gucci Mane",
-  "num_followers": 590501,
+  "num_followers": 590529,
   "original_name": "Down South Classics",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Crunk Juice",
-        "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
       "artists": [
         {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
         },
         {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/5Q2iqZJMIZVSTEJWOYh4kP"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
         }
       ],
-      "duration_ms": 320186,
-      "name": "What U Gon' Do",
-      "url": "https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc"
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
     }
   ],
   "unique_name": "Down South Classics",

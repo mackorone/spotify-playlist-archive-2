@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Conoce a los 14 artistas de México Canta y a los invitados especiales que los acompañan\. 📸 La Arrolladora Banda El Limón De René Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,200 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,205 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TE RETO ESTA NOCHE](https://open.spotify.com/track/0blrZBzA23ZYGfY9bBPmf4) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [FÁTIMA CUEVAS](https://open.spotify.com/artist/1MnOwbBiOvMJtJhl5mPCV4) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:26 |
 | 2 | [SELLO DE GARANTÍA](https://open.spotify.com/track/1DFvCZA9oHDDWwTRjZXwef) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [BILHAN MORALES](https://open.spotify.com/artist/5ioRn8AFxRAqbryqQsY9u1) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:30 |
 | 3 | [AVENTANDO FLECHAS](https://open.spotify.com/track/2sLJqvkZcKsJyhntDnouB7) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [LUNA LÓPEZ](https://open.spotify.com/artist/3DPhZKKvH0yDBADRJprtSk) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:59 |
-| 4 | [MALAXITA](https://open.spotify.com/track/0aZFJN5MZGiUgcQJi9rLSb) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Belle "La Malixita"](https://open.spotify.com/artist/0p8CzDqKpyGj8lv9yllK9e) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:08 |
+| 4 | [MALIXITA](https://open.spotify.com/track/0aZFJN5MZGiUgcQJi9rLSb) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Belle "La Malixita"](https://open.spotify.com/artist/0p8CzDqKpyGj8lv9yllK9e) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:08 |
 | 5 | [LABIOS DE CEREZA](https://open.spotify.com/track/5HUvqNztSssvtTzNnE9ZyA) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [BRYAN SOTO \(CLAVE 5/7\)](https://open.spotify.com/artist/1t00RRRwsQu3zI26i61xT0) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:26 |
 | 6 | [ADIVINEN QUIEN](https://open.spotify.com/track/1GFEakLpZgXZ2HPsTfigli) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Grecia Delgado](https://open.spotify.com/artist/7rSTzimIe69drZh8LtPxI2) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 2:37 |
 | 7 | [BELLA](https://open.spotify.com/track/4WQxMH1Tu1yVXVprlASflS) | [México Canta](https://open.spotify.com/artist/1USv8rVYu5CbMNNCWQh0MC), [Emi Macias](https://open.spotify.com/artist/3k4qmQflWS96vrLhRL1xWE) | [México Canta\. Semifinal México](https://open.spotify.com/album/1osc6lKnnfWnEUssMWfeFM) | 1:55 |

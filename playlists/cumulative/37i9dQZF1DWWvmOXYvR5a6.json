@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop. (Cover: MilliMax) \ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Raf Sandou)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -5531,6 +5531,28 @@
     },
     {
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "GIRLFRIEND (feat. CAMO)",
+      "url": "https://open.spotify.com/track/1NxxbNWPEONvoKNZAac0DO"
+    },
+    {
+      "album": {
         "name": "B.O.Y. (Because Of You)",
         "url": "https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt"
       },
@@ -10162,7 +10184,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 179154,
       "name": "Ms. Mental (with TRADE L)",
       "url": "https://open.spotify.com/track/4SdpQ4YCmNxbp58QnRSDYs"
@@ -14085,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "SO GONE",
+      "url": "https://open.spotify.com/track/1h4cirMhnq1RmrP4aQbSTd"
+    },
+    {
+      "album": {
         "name": "12",
         "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
@@ -16342,7 +16382,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 242000,
       "name": "U",
       "url": "https://open.spotify.com/track/3JpcAj2SxrmZdzjnGVkjhM"

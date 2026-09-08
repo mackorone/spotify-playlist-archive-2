@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkZLmsr1dHC34Ov5jIuc9X9WfYw6Es",
+  "snapshot_id": "AAAkZeH7g9i4sIxxcvFixdqvPM1ILjHh",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -699,6 +699,22 @@
       "duration_ms": 179000,
       "name": "Wall of Time",
       "url": "https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG"
+    },
+    {
+      "added_at": "2026-09-07 07:27:53",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/3CCfpiRc24j6i7sTKXPBiD"
+      },
+      "artists": [
+        {
+          "name": "Marine Medina",
+          "url": "https://open.spotify.com/artist/7jTAbRBHYdDJDom9QDG5f1"
+        }
+      ],
+      "duration_ms": 220995,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/3ZI52bSw68jW6y08XY4WYE"
     }
   ],
   "unique_name": "Alternative Pop Archive",

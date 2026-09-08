@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Mia Morris, Sylvex and more",
+  "description": "With Mia Morris, Die Mannequin, Sylvex and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 175846,
       "name": "Animals",
       "url": "https://open.spotify.com/track/4vqhWeI7nbLxZpYBghmrbR"
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4ec1xy2oKDTfGkHJtER4mE"
+      },
+      "artists": [
+        {
+          "name": "Hands Off Gretel",
+          "url": "https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235009,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/1tvoOixGOlsN9qMMFiz83J"
+    },
+    {
+      "album": {
         "name": "NIVEA Young Music compilation",
         "url": "https://open.spotify.com/album/17G9PQh01M2hgWt61b54pw"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 223826,
       "name": "Behind These Eyes",
       "url": "https://open.spotify.com/track/0a9Vf88EBSaB7cKxvs0Nrx"
@@ -1212,7 +1230,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/7brQyMRAa0J1VfQUAauNhy"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Bite Your Kiss",
       "url": "https://open.spotify.com/track/5QsheJokkVxMHE560aBZJN"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -4040,7 +4058,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 208666,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/4kXObcVgUu9bQvgQj9pLEp"
@@ -4706,7 +4724,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 254400,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -5542,7 +5560,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 166588,
       "name": "I DONT WANT YOU",
       "url": "https://open.spotify.com/track/17VL4zOgpjUG8vL5zGpNoE"
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 211941,
       "name": "I'm Just A Girl",
       "url": "https://open.spotify.com/track/6VTMcqAaoP3yzdEQ1NShuW"
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
@@ -6036,7 +6054,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 213480,
       "name": "It's Not You - SC Radio Mix",
       "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
@@ -6350,7 +6368,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 189453,
       "name": "Kiss Your Mama!",
       "url": "https://open.spotify.com/track/7DSwyrYR8nHyVIZNsfs6ei"
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-29",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -7482,7 +7500,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -7590,7 +7608,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 187413,
       "name": "Mother Mother",
       "url": "https://open.spotify.com/track/3jboU6xVRN7HvArTydWO8v"
@@ -7644,7 +7662,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -7810,7 +7828,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 208375,
       "name": "My Size",
       "url": "https://open.spotify.com/track/5JA4gqlKDV5BeVdI6g3eEs"
@@ -8206,7 +8224,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 211291,
       "name": "Not Listening",
       "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
@@ -8480,10 +8498,28 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 245813,
       "name": "On My Way To Satisfaction",
       "url": "https://open.spotify.com/track/6MYzjML0jNffn65EWXoLAp"
+    },
+    {
+      "album": {
+        "name": "Sacred Southern Daughter",
+        "url": "https://open.spotify.com/album/1tv4gXcJo4jGS5fEgp3oDp"
+      },
+      "artists": [
+        {
+          "name": "Shelly Fairchild",
+          "url": "https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180963,
+      "name": "On The Highway",
+      "url": "https://open.spotify.com/track/3eWn15LutQT7fCQscpYbFr"
     },
     {
       "album": {
@@ -8678,7 +8714,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Only Your Love",
       "url": "https://open.spotify.com/track/0eUR9xx9XmQpXdQF1oAfiB"
@@ -8876,7 +8912,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 192334,
       "name": "Paint a Picture - Remix",
       "url": "https://open.spotify.com/track/1Mwnk5Yj0c11WaHDzCvzSt"
@@ -8984,7 +9020,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 245296,
       "name": "Party in Hell",
       "url": "https://open.spotify.com/track/4TOVRQJy5GhBpDbXV6BR8t"
@@ -9427,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "Fractured Signal",
+        "url": "https://open.spotify.com/album/1mv58iR2rrblNmCAvrmsyF"
+      },
+      "artists": [
+        {
+          "name": "Sylvex",
+          "url": "https://open.spotify.com/artist/1mw0mI6MPqsc48zSN8CVE4"
+        }
+      ],
+      "date_added": "2026-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170790,
+      "name": "Rattle the Cage",
+      "url": "https://open.spotify.com/track/6tCL3jsYQxTBHpA8u6mq9P"
+    },
+    {
+      "album": {
         "name": "Ready For It?",
         "url": "https://open.spotify.com/album/1ue0z3qYsh4vek0gxWiwAr"
       },
@@ -9438,7 +9492,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Ready For It?",
       "url": "https://open.spotify.com/track/67HareIZIiVgMqOh19yL5K"
@@ -9654,7 +9708,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 263746,
       "name": "Rock'n' Roll tonight",
       "url": "https://open.spotify.com/track/6THswMu9UxQRarm4MW2iKK"
@@ -10134,7 +10188,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -10552,7 +10606,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -10736,7 +10790,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -10988,7 +11042,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 332138,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6BqxVkHOdAaT8Ye1sY90KG"
@@ -11468,7 +11522,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 192560,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5ypKgGv59JUNgZAkomGo1V"
@@ -11990,7 +12044,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -12678,7 +12732,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

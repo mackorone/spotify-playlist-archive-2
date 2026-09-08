@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Victony",
-  "num_followers": 320779,
+  "num_followers": 320784,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "Muhammad Ali (Can't Relate)",
         "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "Boasty",
-        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Boasty",
-      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud"
+        "name": "Boasty",
+        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
         }
       ],
-      "duration_ms": 146626,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
+      "duration_ms": 194400,
+      "name": "Boasty",
+      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
     },
     {
       "added_at": "2026-08-20 23:00:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-20 23:00:27",
       "album": {
-        "name": "FAVORITE LOVER",
-        "url": "https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 148588,
-      "name": "FAVORITE LOVER",
-      "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
-    },
-    {
-      "added_at": "2026-08-20 23:00:27",
-      "album": {
         "name": "No Excuses Deluxe",
         "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 132413,
       "name": "FINE SHYT (feat. Tml Vibez)",
       "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-08-20 23:00:27",
+      "album": {
+        "name": "FAVORITE LOVER",
+        "url": "https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 148588,
+      "name": "FAVORITE LOVER",
+      "url": "https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj"
     },
     {
       "added_at": "2026-08-20 23:00:27",

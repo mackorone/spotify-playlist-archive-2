@@ -2,7 +2,7 @@
 
 ### [Hollandse Meezingers](https://open.spotify.com/playlist/37i9dQZF1DWTS9w7exPdXE)
 
-> Nederpop en Volkspop meezingers\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
+> Nederpop en Volkspop meezingers.
 
 127 songs - 6 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SWIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,949 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,947 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 16 | [One More Dance](https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [One More Dance](https://open.spotify.com/album/2SSda3QuEvaDIjaMhFEUoz) | 3:50 |
 | 17 | [Losing Control](https://open.spotify.com/track/0T7T8wnGrWKyhTUf8yWHmh) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Losing Control](https://open.spotify.com/album/3kAY3LFZDj5VyvtQWBoXpO) | 3:37 |
 | 18 | [RTC](https://open.spotify.com/track/4GP3XIxUt24p46qKM0iMV4) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk), [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek) | [RTC](https://open.spotify.com/album/5d42vL04xFFIUwdD5y4Wyc) | 3:33 |
-| 19 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:20 |
+| 19 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:18 |
 | 20 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |
 | 21 | [cascade \(I had to go\)](https://open.spotify.com/track/4VYNI4AteaW7YgQxrIvl1B) | [belac](https://open.spotify.com/artist/2kBo2Anr7eJA3hszGJMQ7D) | [cascade \(I had to go\)](https://open.spotify.com/album/6QeLbwbATTWJKFRdYkRR0H) | 3:14 |
 | 22 | [Bad Bitch](https://open.spotify.com/track/0KYLNnpsPe1cn2HJtPpvAT) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Gatano](https://open.spotify.com/artist/41EQZ8KPd5Wb9eSOavfLRd) | [Bad Bitch](https://open.spotify.com/album/0HcALYkoekvTsjRo56mzMz) | 1:40 |

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata 😈 Con nuovi brani di DrefGold, Rasty Kilo, Quest, Disme e molti altri.
 
-7,702 songs - 14 day 3 hr 11 min
+7,703 songs - 14 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5629,6 +5629,7 @@
 | [PUFF](https://open.spotify.com/track/1ZBnbjvw06EddEteUSlB0e) | [Fuckgize](https://open.spotify.com/artist/0ozkOT9TtjSuroh0f4fCvE) | [PUFF](https://open.spotify.com/album/23AnpDtE00MPQgOKKT0nwz) | 1:27 | 2025-10-09 | 2025-10-31 |
 | [PUFF PUFF](https://open.spotify.com/track/0L1rcUkyecGibap8cKOBRv) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [PUFF PUFF](https://open.spotify.com/album/3qn416aqmIxfTkPvXufTtK) | 1:54 | 2024-02-01 | 2024-02-16 |
 | [PUGLIA HUSTLA](https://open.spotify.com/track/3hz5vkrnNjNZAYxDzS9dQE) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72) | [PUGLIA HUSTLA](https://open.spotify.com/album/4PKMsKEi1tPcM2QktDwajt) | 2:10 | 2024-02-22 | 2024-03-08 |
+| [PUGNO DI FERRO \(Red Bull 64 Bars\)](https://open.spotify.com/track/1ZBUgZQjNcn367VktdxdAB) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PUGNO DI FERRO \(Red Bull 64 Bars\)](https://open.spotify.com/album/4MlSAvlzXNBHfLCyCQS2i6) | 3:11 | 2026-09-07 |  |
 | [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/track/15VGccFmGsB50LdXPLJvTr) | [Mando](https://open.spotify.com/artist/4GvngXAxZMchFmLkDaZOAc), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Pugno di soldi \(feat\. RRARI DAL TACCO\)](https://open.spotify.com/album/429jV6d8r4akIQeeyOIj4q) | 2:07 | 2023-10-19 | 2023-11-10 |
 | [Pula Ciao](https://open.spotify.com/track/0j6b6C1RjXJwqcgtQiaYv1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Pula Ciao](https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT) | 3:01 | 2022-12-09 | 2022-12-21 |
 | [Pullover](https://open.spotify.com/track/53LK3KrIa6A6jW0bpkpLQ1) | [PietroHaze](https://open.spotify.com/artist/7CtTej33uH7z0c75VrUjyV) | [Pullover](https://open.spotify.com/album/2OCDGgbV8bLUcjtpGU5TAi) | 1:45 | 2026-01-23 | 2026-02-13 |

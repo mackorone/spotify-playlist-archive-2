@@ -6,7 +6,7 @@
     "name": "kittydogcrystal",
     "url": "https://open.spotify.com/user/kittydogcrystal"
   },
-  "snapshot_id": "AAAAswOUdO9wVsUg2ISG9uNAhElK9tRn",
+  "snapshot_id": "AAAAtM2NeJmF8Q90b9ErT78Pl3Iz2VEN",
   "tracks": [
     {
       "added_at": "2026-02-07 01:09:18",
@@ -1943,6 +1943,38 @@
       "duration_ms": 103440,
       "name": "a world",
       "url": "https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq"
+    },
+    {
+      "added_at": "2026-09-07 22:34:41",
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 311718,
+      "name": "certainty",
+      "url": "https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S"
+    },
+    {
+      "added_at": "2026-09-07 22:34:41",
+      "album": {
+        "name": "certainty",
+        "url": "https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 311718,
+      "name": "certainty - Instrumental Version",
+      "url": "https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb"
     }
   ],
   "unique_name": "\ud83d\udc97kittydog songs featured playlist\ud83d\udc99",

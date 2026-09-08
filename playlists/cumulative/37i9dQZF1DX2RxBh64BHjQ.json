@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "2CRETE",
+        "url": "https://open.spotify.com/album/2TkOaLgqZaFTgMznqJiyr1"
+      },
+      "artists": [
+        {
+          "name": "Draft Day",
+          "url": "https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L"
+        },
+        {
+          "name": "Camo!",
+          "url": "https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164697,
+      "name": "2CRETE",
+      "url": "https://open.spotify.com/track/6JotdMeVrosFs4jZDmYYtQ"
+    },
+    {
+      "album": {
         "name": "2daside",
         "url": "https://open.spotify.com/album/6X2jYQCXoTvHFkrn2TIBfN"
       },
@@ -2048,7 +2070,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 114400,
       "name": "8 FEET TALL (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu"
@@ -40600,7 +40622,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 141600,
       "name": "Party At My Place",
       "url": "https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi"
@@ -45660,7 +45682,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 158531,
       "name": "Rollacoasta",
       "url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
@@ -50812,7 +50834,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 122229,
       "name": "Strange",
       "url": "https://open.spotify.com/track/1i3llF9c7xUAkztYDyTude"
@@ -58428,7 +58450,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 168064,
       "name": "WHITE SOX CAPZ",
       "url": "https://open.spotify.com/track/3NAb8JRxXaW7TvMnUX8LVM"

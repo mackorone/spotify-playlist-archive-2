@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11527,
+  "num_followers": 11530,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Leve de Feeks",
-        "url": "https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh"
+        "name": "HOE?",
+        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
       },
       "artists": [
         {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 207292,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA"
+      "duration_ms": 221291,
+      "name": "HOE?",
+      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "HOE?",
-        "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
+        "name": "Leve de Feeks",
+        "url": "https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh"
       },
       "artists": [
         {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
         }
       ],
-      "duration_ms": 221291,
-      "name": "HOE?",
-      "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
+      "duration_ms": 207292,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -679,18 +679,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+        "name": "Niemandsland",
+        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
         }
       ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+      "duration_ms": 165210,
+      "name": "Niemandsland",
+      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Niemandsland",
-        "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
       },
       "artists": [
         {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        },
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
         }
       ],
-      "duration_ms": 165210,
-      "name": "Niemandsland",
-      "url": "https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa"
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 166753,
       "name": "7 Dagen Maandag",
       "url": "https://open.spotify.com/track/72BvsmAkQSLUtov2ThX1hb"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
-      },
-      "artists": [
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        }
-      ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-28 11:50:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,821 songs - 10 day 20 hr 22 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 285 likes - 4,823 songs - 10 day 20 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4829,5 +4829,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4819 | [Wisdom’s Outcry \(fomo mode\)](https://open.spotify.com/track/2NQsFY60lHPfMdklEa4Nfs) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:38 |
 | 4820 | [The Fear of the Beginning \(fomo mode\)](https://open.spotify.com/track/3OQ2nKsBNiNOAkJU7dujCv) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:21 |
 | 4821 | [The End of the Matter \(fomo mode\)](https://open.spotify.com/track/6xRnFAGsTr67K2MD0ENgEa) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 4:13 |
+| 4822 | [Brutal Brutality](https://open.spotify.com/track/6uHQ6qHn0dudsuHtUinfob) | [LIVE THE DAY](https://open.spotify.com/artist/3gWriNK1rJ7A14oLDHghPH) | [Brutal Brutality](https://open.spotify.com/album/50q3ap7L5eSCbFKNR5z2vr) | 3:38 |
+| 4823 | [Casa Roso](https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Casa Roso](https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn) | 3:46 |
 
-Snapshot ID: `AAAJ+ZkRgjTprPcCEnyMeFriZcoPHh/V`
+Snapshot ID: `AAAJ+212aQ4oXtFRSg/TPnczDF8DiHIo`

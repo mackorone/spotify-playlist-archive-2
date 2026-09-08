@@ -2,7 +2,7 @@
 
 ### [Kroegenhits 2026](https://open.spotify.com/playlist/37i9dQZF1DWUppGmuwT9c7)
 
-> De grootste hits uit de kroeg in één playlist\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor jouw zomer aanbevelingen!</a>
+> De grootste hits uit de kroeg in één playlist.
 
 213 songs - 10 hr 6 min
 

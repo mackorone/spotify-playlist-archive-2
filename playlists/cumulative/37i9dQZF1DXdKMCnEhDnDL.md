@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes met o.a\. Samuel Welten & Russo\. <a href="spotify:presents:jouwzomerid">Doe de quiz voor zomer aanbevelingen van Spotify!</a>
+> De beste Nederlandse liedjes met o.a\. Samuel Welten & Russo.
 
 524 songs - 1 day 2 hr 33 min
 

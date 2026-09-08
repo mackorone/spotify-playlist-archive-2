@@ -1,12 +1,12 @@
 {
   "description": "Down-tempo and easy listening music. Cover: Maisie Peters",
-  "num_followers": 5543,
+  "num_followers": 5542,
   "original_name": "Low Key Pop",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAIMeKmx5A6fiJWkSGE+u+JOpesOiGj",
+  "snapshot_id": "AAAINE0PLKM/l6v0fgosiCKhrRVyGI/E",
   "tracks": [
     {
       "added_at": "2026-09-01 06:02:14",
@@ -347,6 +347,22 @@
       "duration_ms": 161782,
       "name": "I Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1"
+    },
+    {
+      "added_at": "2026-09-07 06:26:50",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 212547,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO"
     },
     {
       "added_at": "2026-09-01 06:02:14",
@@ -1615,6 +1631,22 @@
       "duration_ms": 192480,
       "name": "Just One",
       "url": "https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8"
+    },
+    {
+      "added_at": "2026-09-07 06:36:59",
+      "album": {
+        "name": "Ballet Pumps",
+        "url": "https://open.spotify.com/album/4FYcvhBdw8iyAwAhXfyDnv"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 198314,
+      "name": "Ballet Pumps",
+      "url": "https://open.spotify.com/track/3iAua4ZysTvqch8Uyt3lZ4"
     }
   ],
   "unique_name": "Low Key Pop",

@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 89 | [Ritual Machine](https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs) | [RA MAJOR](https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj), [Silvr Sage](https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf), [Suffolk](https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe) | [Ritual Machine](https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u) | 4:09 |
 | 90 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
 
-Snapshot ID: `AABjwa5bQfdAOBq1eBH5jWJ1bbcWDTlC`
+Snapshot ID: `AABjxPydrLZ1bqn3SLFJgNxsSAcNe+7M`

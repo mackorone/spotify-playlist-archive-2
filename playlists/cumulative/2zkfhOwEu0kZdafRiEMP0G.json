@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Minecraft - Volume Beta",
+        "url": "https://open.spotify.com/album/0cJydohrKIIwzRLJqZUfxK"
+      },
+      "artists": [
+        {
+          "name": "C418",
+          "url": "https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497000,
+      "name": "Dreiton",
+      "url": "https://open.spotify.com/track/79tsuz5Op5KSX58nST1BZT"
+    },
+    {
+      "album": {
         "name": "Moulin Rouge! The Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk"
       },

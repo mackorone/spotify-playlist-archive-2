@@ -8155,6 +8155,24 @@
     },
     {
       "album": {
+        "name": "Dog f\u00f6r n\u00e5gra \u00e5r sen",
+        "url": "https://open.spotify.com/album/4QpAx2VC40zhOCuLlisIEy"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214196,
+      "name": "Glaci\u00e4r",
+      "url": "https://open.spotify.com/track/7499onblkriExD7XPVEWsd"
+    },
+    {
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },

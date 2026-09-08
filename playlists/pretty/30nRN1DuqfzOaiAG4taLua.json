@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "AAAAaHzoBpIXA64ISHTtPbtSQPD4yQJ9",
+  "snapshot_id": "AAAAa5+wwnuiy9p8rS0yGWjTLa5kZC3J",
   "tracks": [
     {
       "added_at": "2023-12-14 18:50:16",
@@ -1219,6 +1219,66 @@
       "duration_ms": 224370,
       "name": "Electrify",
       "url": "https://open.spotify.com/track/04Ya6RPms2RppYRKKvxb9U"
+    },
+    {
+      "added_at": "2026-09-07 19:17:27",
+      "album": {
+        "name": "1800",
+        "url": "https://open.spotify.com/album/15SJmlfMzobIOkBAf9djSl"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "1800",
+      "url": "https://open.spotify.com/track/2zOk9axSPQeU5Dshj8GUO0"
+    },
+    {
+      "added_at": "2026-09-07 19:17:37",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1zw9EoCOn4YslsqD6rumyJ"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "G-POL",
+          "url": "https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM"
+        }
+      ],
+      "duration_ms": 166150,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/7o3m0OoVfFgBy8j1sxJwTF"
+    },
+    {
+      "added_at": "2026-09-07 19:17:59",
+      "album": {
+        "name": "Naked Girls",
+        "url": "https://open.spotify.com/album/3ZNSr8jCAX77alKC30TDFW"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Spin Off",
+          "url": "https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "Naked Girls",
+      "url": "https://open.spotify.com/track/0RO2DSeovbBIyju4b6svZp"
     }
   ],
   "unique_name": "Work From House",

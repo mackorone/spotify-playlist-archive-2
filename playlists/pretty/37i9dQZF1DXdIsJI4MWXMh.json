@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 83399,
+  "num_followers": 83459,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
+        "name": "Voy a Ser",
+        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
+      },
+      "artists": [
+        {
+          "name": "Talismanes del Ritmo y del amor",
+          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
         "name": "AMORES DE CAMPO 2",
         "url": "https://open.spotify.com/album/5xxTZuXauHpsomQvneYw9n"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 218409,
       "name": "YO TE CUIDAR\u00c9",
       "url": "https://open.spotify.com/track/1pfWuXWCfa8r6BQwBN4iit"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
-        "name": "Voy a Ser",
-        "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
-      },
-      "artists": [
-        {
-          "name": "Talismanes del Ritmo y del amor",
-          "url": "https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
+        "name": "Si Me Ven Soltero",
+        "url": "https://open.spotify.com/album/6ZVvULN3jL3oXRLHRg5zOT"
+      },
+      "artists": [
+        {
+          "name": "Koke Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/1u4gsAu037b7wFfPCI0Att"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Si Me Ven Soltero",
+      "url": "https://open.spotify.com/track/7imFTEGHAOOx91YRFx90wz"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 273066,
       "name": "Tus Mentiras",
       "url": "https://open.spotify.com/track/6hVSRMIzwSJ5jBXJyk1oKd"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
-        "name": "Si Me Ven Soltero",
-        "url": "https://open.spotify.com/album/6ZVvULN3jL3oXRLHRg5zOT"
-      },
-      "artists": [
-        {
-          "name": "Koke Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/1u4gsAu037b7wFfPCI0Att"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Si Me Ven Soltero",
-      "url": "https://open.spotify.com/track/7imFTEGHAOOx91YRFx90wz"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -635,38 +635,22 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+        "name": "Vuelve la Mezcla Perfecta",
+        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
-        }
-      ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
         },
         {
           "name": "Zona Ranchera",
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+      "duration_ms": 268053,
+      "name": "Vamos a Amarla los Dos",
+      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -691,22 +675,38 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Vuelve la Mezcla Perfecta",
-        "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
         },
         {
           "name": "Zona Ranchera",
           "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Vamos a Amarla los Dos",
-      "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
         "name": "A Trav\u00e9s del Vaso (Remix)",
         "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 239701,
       "name": "A Trav\u00e9s del Vaso - Remix",
       "url": "https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+        "name": "Todos a la Pista",
+        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
       "artists": [
         {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+          "name": "Los Hermanos Sandoval De Calbuco",
+          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
         }
       ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
+      "duration_ms": 270883,
+      "name": "Como Quisiera Poder",
+      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Todos a la Pista",
-        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
       "artists": [
         {
-          "name": "Los Hermanos Sandoval De Calbuco",
-          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
         }
       ],
-      "duration_ms": 270883,
-      "name": "Como Quisiera Poder",
-      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
+        "name": "Un Nuevo Estilo Campesino",
+        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 218023,
+      "name": "La Porotera",
+      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
         "name": "Soy Adicto a Ti",
         "url": "https://open.spotify.com/album/4tbMDw4jqlV2ENzdLz7Hid"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 262500,
       "name": "Soy Adicto a Ti",
       "url": "https://open.spotify.com/track/559VSAiv3rFTDrmkfv7nQd"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
-        "name": "Un Nuevo Estilo Campesino",
-        "url": "https://open.spotify.com/album/1O8h1QrvakmCmUDn99vwdy"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 218023,
-      "name": "La Porotera",
-      "url": "https://open.spotify.com/track/4tjQKSv3MNQ0U0zh6acZLR"
     },
     {
       "added_at": "2026-09-04 18:43:23",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-09-04 18:43:23",
       "album": {
-        "name": "Estoy Con Otro en la Cama",
-        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Estoy Con Otro en la Cama",
-      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
-    },
-    {
-      "added_at": "2026-09-04 18:43:23",
-      "album": {
         "name": "Mi Huasita Bonita",
         "url": "https://open.spotify.com/album/6sn4MZ1GU2mLsaiT488nfs"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 198775,
       "name": "Mi Huasita Bonita",
       "url": "https://open.spotify.com/track/1MPpjxb9CKfNNj5rF8KFp7"
+    },
+    {
+      "added_at": "2026-09-04 18:43:23",
+      "album": {
+        "name": "Estoy Con Otro en la Cama",
+        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
+      },
+      "artists": [
+        {
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Estoy Con Otro en la Cama",
+      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
     },
     {
       "added_at": "2026-09-04 18:43:23",

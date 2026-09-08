@@ -4,7 +4,7 @@
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,167 songs - 2 day 13 hr 20 min
+1,168 songs - 2 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Out of Love](https://open.spotify.com/track/2a7tWwfJeOmiQB0AryaKB3) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Out of Love](https://open.spotify.com/album/6iyHxcHCZ1LoNMhxz95a2s) | 2:18 | 2023-12-08 | 2024-06-07 |
 | [Out Of My League](https://open.spotify.com/track/3GrBIVQKyQZHwol46kAsOH) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Out Of My League](https://open.spotify.com/album/7pL6t36lxsiW7MT5Tmfoz1) | 2:31 | 2021-09-24 | 2021-11-26 |
 | [Out Of Touch](https://open.spotify.com/track/6Pk7Pb9ObxH1vnzVFjjdPp) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [JAVU](https://open.spotify.com/artist/1oRKE0KZFaQt3yjkEwf9p7) | [Out Of Touch](https://open.spotify.com/album/1hRqbtk55TcWcBLZKCCSq2) | 2:42 | 2022-06-17 | 2022-06-24 |
+| [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 | 2026-09-07 |  |
 | [Outta Body \- Radio Edit](https://open.spotify.com/track/5gbGJf0onTq0EINUKGn8e0) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Outta Body](https://open.spotify.com/album/5trKdS4KAJW6xUkIYR5UHv) | 2:21 | 2022-05-20 | 2022-05-28 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2023-12-08 | 2024-01-26 |
 | [Palm Beach Banga](https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Palm Beach Banga](https://open.spotify.com/album/0l5AaZ4KreU86VfsiKoyCu) | 3:53 | 2022-02-10 | 2022-05-20 |
@@ -1024,7 +1025,7 @@
 | [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-24 | 2025-03-28 |
 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 | 2025-07-11 | 2026-04-10 |
 | [The Spot](https://open.spotify.com/track/5Hay8vuY89IrPOFgz9rGrx) | [Alpha Rosa](https://open.spotify.com/artist/00NUdwW99bIh26anz76hcs) | [The Spot](https://open.spotify.com/album/5IsMZJfuVM307aHNWmFMqD) | 2:57 | 2023-02-03 | 2023-04-13 |
-| [The Team](https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Team](https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh) | 3:33 | 2026-08-21 |  |
+| [The Team](https://open.spotify.com/track/7LDsGNd6TB2xN3MFdd6WrU) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Team](https://open.spotify.com/album/1Fn5Bb6ty5IpOkhSJhaNCh) | 3:33 | 2026-08-21 | 2026-09-08 |
 | [The Way We Were \(feat\. Plested\)](https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 4:08 | 2022-11-11 | 2023-02-04 |
 | [The Weekend](https://open.spotify.com/track/4fGIvz5Yc6Xp03JNCNiE09) | [AKOSIA](https://open.spotify.com/artist/0Oe5XB0pjnOZZo8snWSHoL) | [Black Diamond](https://open.spotify.com/album/5cM7qaXIxDHlVxZBROONEV) | 3:34 | 2022-11-18 | 2022-12-16 |
 | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha!\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 | 2023-01-27 | 2023-02-10 |

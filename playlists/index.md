@@ -1,4 +1,4 @@
-## Playlists \(9321\)
+## Playlists \(9322\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -3606,7 +3606,7 @@
 - [Kwaito Classics](/playlists/pretty/37i9dQZF1DXaJxsJXPjB3v.md)
 - [Kıyı Boyu](/playlists/pretty/37i9dQZF1DX3wzU43lch6G.md)
 - [L3arke](/playlists/pretty/1Ksv8iR2uzFfLgc86m8aBi.md)
-- [LA LLISTA DE FLAIXBAC \(31/8/2026\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
+- [LA LLISTA DE FLAIXBAC \(6/9/2026\)](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md)
 - [LA PEDA](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [LATAM Soundsystem](/playlists/pretty/37i9dQZF1DX2u4EHuQcBWu.md)
 - [LATIN POP HITS 2026 \- Éxitos del Pop Latino](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md)
@@ -6681,6 +6681,7 @@
 - [This Is Evaluna Montaner](/playlists/pretty/37i9dQZF1DZ06evO2XvZn2.md)
 - [This Is Evanescence](/playlists/pretty/37i9dQZF1DZ06evO3aj2q4.md)
 - [This Is Eve](/playlists/pretty/37i9dQZF1DX2EwG4p1ArpU.md)
+- [This Is Every Time I Die](/playlists/pretty/37i9dQZF1DZ06evO0a2Bsk.md)
 - [This Is Eyshila](/playlists/pretty/37i9dQZF1DZ06evO1WNcEb.md)
 - [This Is FLO](/playlists/pretty/37i9dQZF1DZ06evO0cpICB.md)
 - [This Is FLOW](/playlists/pretty/37i9dQZF1DZ06evO22IRjV.md)

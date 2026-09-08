@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 50848,
+  "num_followers": 50891,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAADMRYgZAHS++MF7fGmvoOEQ",
+  "snapshot_id": "apytAAAAAAAJoAE6qmcg7Q94AcG/9IkV",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
       "artists": [
         {
           "name": "Turnstile",
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
         }
       ],
-      "duration_ms": 78590,
-      "name": "Blue by You",
-      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
+      "duration_ms": 166480,
+      "name": "LIGHT DESIGN: OKLOU VERSION",
+      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
           "name": "Turnstile",
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 284093,
-      "name": "LOOK OUT FOR ME: KETTAMA VERSION",
-      "url": "https://open.spotify.com/track/0eT45WSj6OD4HoSZWq6uMQ"
+      "duration_ms": 78590,
+      "name": "Blue by You",
+      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
     },
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH: VERSIONS",
+        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "LOOK OUT FOR ME: KETTAMA VERSION",
+      "url": "https://open.spotify.com/track/0eT45WSj6OD4HoSZWq6uMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nonstop Feeling",
         "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 172028,
       "name": "Fazed Out",
       "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEVER ENOUGH: VERSIONS",
-        "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        },
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "LIGHT DESIGN: OKLOU VERSION",
-      "url": "https://open.spotify.com/track/72Mduxm5q1vXtwYatvPGW2"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 89840,
-      "name": "Big Smile",
-      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 201933,
       "name": "I CARE: FAYE WEBSTER VERSION",
       "url": "https://open.spotify.com/track/2952OPwh3MiKGVN5gXR70j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 89840,
+      "name": "Big Smile",
+      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "(Lost Another) Piece of My World",
-      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER ENOUGH: VERSIONS",
         "url": "https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180386,
       "name": "CEILING: HAYLEY WILLIAMS VERSION",
       "url": "https://open.spotify.com/track/5jz3Lk4kb4dgOwIg4HLKxV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 111586,
+      "name": "(Lost Another) Piece of My World",
+      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
     },
     {
       "added_at": null,

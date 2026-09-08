@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "L'astronave",
+        "url": "https://open.spotify.com/album/6PTSGjpGigMVTxaZRW5PJ9"
+      },
+      "artists": [
+        {
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/61cpjR2zsMHAIxsIUZ72a2"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169960,
+      "name": "L'astronave",
+      "url": "https://open.spotify.com/track/3cgNF8Pa9VU6MYpPsiWcvf"
+    },
+    {
+      "album": {
         "name": "En Fin",
         "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
       },

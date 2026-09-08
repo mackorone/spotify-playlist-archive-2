@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-173 songs - 10 hr 56 min
+174 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2026-01-14 | 2026-02-07 |
 | [Kingdoms](https://open.spotify.com/track/3iJfjc0J2xJLiweVjhwhED) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 2:51 | 2026-07-22 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
+| [L'astronave](https://open.spotify.com/track/3cgNF8Pa9VU6MYpPsiWcvf) | [Andrea](https://open.spotify.com/artist/61cpjR2zsMHAIxsIUZ72a2) | [L'astronave](https://open.spotify.com/album/6PTSGjpGigMVTxaZRW5PJ9) | 2:49 | 2026-09-07 |  |
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 | 2026-05-16 |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 | 2026-05-16 |
 | [Laissez Moi Rêver](https://open.spotify.com/track/4OOOeB1cNlHIF5G9p3RX7H) | [Remy Guisset](https://open.spotify.com/artist/2sY5voT3Ysa15gScs6KpiP) | [Laissez Moi Rêver](https://open.spotify.com/album/4ao7cg9YY22fKq0ZGHYaIn) | 3:29 | 2026-08-22 |  |

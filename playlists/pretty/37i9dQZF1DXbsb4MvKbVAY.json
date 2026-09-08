@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26687,
+  "num_followers": 26685,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Sisko ja sen veli",
-        "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
-      },
-      "artists": [
-        {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        }
-      ],
-      "duration_ms": 188216,
-      "name": "Sisko ja sen veli",
-      "url": "https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 233434,
       "name": "+-0",
       "url": "https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Sisko ja sen veli",
+        "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "duration_ms": 188216,
+      "name": "Sisko ja sen veli",
+      "url": "https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Mansion Music",
-        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 183124,
-      "name": "Four Seasons",
-      "url": "https://open.spotify.com/track/02nEidsI2MiwbrSaXznrin"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 302623,
       "name": "Nightingale Lane.",
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Mansion Music",
+        "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 183124,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/02nEidsI2MiwbrSaXznrin"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "L\u00e4nsipuoli",
-        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
+        "name": "Bier over hier",
+        "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
       },
       "artists": [
         {
-          "name": "Pyrythekid",
-          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+          "name": "Katariina Juselius",
+          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
+        },
+        {
+          "name": "Teflon Brothers",
+          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
         }
       ],
-      "duration_ms": 156250,
-      "name": "L\u00e4nsipuoli",
-      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
+      "duration_ms": 179122,
+      "name": "Bier over hier",
+      "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Bier over hier",
-        "url": "https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl"
+        "name": "L\u00e4nsipuoli",
+        "url": "https://open.spotify.com/album/0RJultAynFlzZXE708nEPz"
       },
       "artists": [
         {
-          "name": "Katariina Juselius",
-          "url": "https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om"
-        },
-        {
-          "name": "Teflon Brothers",
-          "url": "https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M"
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
         }
       ],
-      "duration_ms": 179122,
-      "name": "Bier over hier",
-      "url": "https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ"
+      "duration_ms": 156250,
+      "name": "L\u00e4nsipuoli",
+      "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Kevyt ja kohtuuton",
-        "url": "https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy"
-      },
-      "artists": [
-        {
-          "name": "Ismo Alanko",
-          "url": "https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Kevyt ja kohtuuton",
-      "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Yli susta",
         "url": "https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 182977,
       "name": "Yli susta",
       "url": "https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Kevyt ja kohtuuton",
+        "url": "https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy"
+      },
+      "artists": [
+        {
+          "name": "Ismo Alanko",
+          "url": "https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Kevyt ja kohtuuton",
+      "url": "https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Hapentuhlaaja",
         "url": "https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 276520,
       "name": "Hapentuhlaaja",
       "url": "https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-05-08 04:10:15",

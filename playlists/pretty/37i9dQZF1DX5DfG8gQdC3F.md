@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Miley Cyrus, Beyoncé, Kane Brown & Shania Twain, Nemzzz, Shay Lia & KAYTRANADA, LISA, ADÉLA, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,579 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,535 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 8 | [Funeral](https://open.spotify.com/track/6LdPN8UPj0Ne9Reg6XkDyO) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Funeral](https://open.spotify.com/album/2VHfWdrPP2EgETjiaGBIY6) | 3:32 |
 | 9 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
 | 10 | [Reign](https://open.spotify.com/track/7yvzMIqwbGRMjqBriuUUmm) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Reign](https://open.spotify.com/album/0oKwuRs4cyd1fGcNSqMdb2) | 3:05 |
-| 11 | [Fizawan](https://open.spotify.com/track/1VXnqbGwI4VuzbzZBxfGlT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:53 |
+| 11 | [Fizawan](https://open.spotify.com/track/1VXnqbGwI4VuzbzZBxfGlT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [HIZZY HUNDAL](https://open.spotify.com/artist/24ITAwyfcSHMMJGzAWnKJv) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:53 |
 | 12 | [The Joker](https://open.spotify.com/track/7kuB0axEoke7a3VxPlye6s) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [The Joker](https://open.spotify.com/album/6sd9n4Olql9SvAGGx18Uvj) | 3:29 |
 | 13 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |
 | 14 | [It's Not Easy \(Falling In Love\)](https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [King of Having Fun](https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3) | 2:26 |

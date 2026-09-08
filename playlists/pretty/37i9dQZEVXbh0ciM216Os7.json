@@ -139,22 +139,6 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "If It Makes You Happy",
-        "url": "https://open.spotify.com/album/6407VIS3LMmnoEKrMjs7E1"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 255517,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/6Aso6pa4PPbt3ec409TFRh"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
         "name": "The Documentary III",
         "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 133639,
       "name": "LA Monster",
       "url": "https://open.spotify.com/track/1qm3M8J8lssVFLahS12OAE"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
+        "name": "If It Makes You Happy",
+        "url": "https://open.spotify.com/album/6407VIS3LMmnoEKrMjs7E1"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 255517,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/6Aso6pa4PPbt3ec409TFRh"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Mess",
-        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 159810,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
         "name": "DILLAGENCE II",
         "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
@@ -299,6 +283,22 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/3ySRESI8LQ6OoQfKjpxJTH"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 159810,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/5H8s6OVuZ5hJZ0RT4rpPsf"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
       },
@@ -311,30 +311,6 @@
       "duration_ms": 151671,
       "name": "Mary Jane",
       "url": "https://open.spotify.com/track/77tzOaMILSpfk1zvnBDrZ1"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 289071,
-      "name": "They Ain't You - feat. Thundercat",
-      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -371,26 +347,6 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/7eWXspfV18aZfvVRHRA1XN"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        },
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Tightrope (with Wax)",
-      "url": "https://open.spotify.com/track/18GgkLkahh1NquRxdnt0St"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
         "name": "Czarface Meets Frankie Pulitzer",
         "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
       },
@@ -415,6 +371,50 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "They Ain't You - feat. Thundercat",
+      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7eWXspfV18aZfvVRHRA1XN"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Tightrope (with Wax)",
+      "url": "https://open.spotify.com/track/18GgkLkahh1NquRxdnt0St"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
         "name": "Work Song (Antdot Remix)",
         "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
       },
@@ -431,6 +431,34 @@
       "duration_ms": 218499,
       "name": "Work Song - Antdot Remix",
       "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
+    },
+    {
+      "added_at": "2026-09-04 04:00:00",
+      "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/41U7vbBDLldKiQbwuYLV56"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        },
+        {
+          "name": "Johnny Van Zant",
+          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
+        },
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 213796,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2Cxk6od6DEVfKy5TwwDLOg"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -479,54 +507,34 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+        "name": "T\u00e4fte\u00e5 Ik",
+        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Tommy J",
+          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
         }
       ],
-      "duration_ms": 195074,
-      "name": "I Know That Man - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
+      "duration_ms": 153461,
+      "name": "T\u00e4fte\u00e5 Ik",
+      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
     },
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/41U7vbBDLldKiQbwuYLV56"
+        "name": "Not Free Money",
+        "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
       },
       "artists": [
         {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        },
-        {
-          "name": "Johnny Van Zant",
-          "url": "https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1"
-        },
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         }
       ],
-      "duration_ms": 213796,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2Cxk6od6DEVfKy5TwwDLOg"
+      "duration_ms": 182946,
+      "name": "Oxygen 2.0",
+      "url": "https://open.spotify.com/track/2mhyUXj8rMxM84HfQ8pONN"
     },
     {
       "added_at": "2026-09-04 04:00:00",
@@ -551,34 +559,26 @@
     {
       "added_at": "2026-09-04 04:00:00",
       "album": {
-        "name": "Not Free Money",
-        "url": "https://open.spotify.com/album/5gdNgqZU8jMZe21r90uJeK"
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Oxygen 2.0",
-      "url": "https://open.spotify.com/track/2mhyUXj8rMxM84HfQ8pONN"
-    },
-    {
-      "added_at": "2026-09-04 04:00:00",
-      "album": {
-        "name": "T\u00e4fte\u00e5 Ik",
-        "url": "https://open.spotify.com/album/201cytPOfVmbViVbsk0XOe"
-      },
-      "artists": [
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
         {
-          "name": "Tommy J",
-          "url": "https://open.spotify.com/artist/3xjgxBP5F0xxUr2Srjc2IO"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 153461,
-      "name": "T\u00e4fte\u00e5 Ik",
-      "url": "https://open.spotify.com/track/1MsrsXSmoo5tJOoqqwZd7e"
+      "duration_ms": 195074,
+      "name": "I Know That Man - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
     },
     {
       "added_at": "2026-09-04 04:00:00",

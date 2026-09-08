@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,751 likes - 85 songs - 5 hr 15 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 86 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 83 | [quiver with a scream](https://open.spotify.com/track/2SxsblFeKWRPVWjy51Gmdb) | [Fatbird Finch](https://open.spotify.com/artist/7yZ5D7yiDIZdp49aGOcere) | [trilogy III](https://open.spotify.com/album/3HaR4aWTZ7rkqi2Fu4xT0Z) | 3:38 |
 | 84 | [You Raise Me Up](https://open.spotify.com/track/2H9sN3ccjkpQhWkL1NR6md) | [PeterLs](https://open.spotify.com/artist/20TrfcXGJiAyUCmOwjxcP5) | [You Raise Me Up](https://open.spotify.com/album/3RNkBQWOZD24ZMGZ3Quxva) | 3:12 |
 | 85 | [One Hand on the Wheel, One on the Beer](https://open.spotify.com/track/01jbvdK0hHwyJd2FOW3Mym) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 2:09 |
+| 86 | [L'astronave](https://open.spotify.com/track/3cgNF8Pa9VU6MYpPsiWcvf) | [Andrea](https://open.spotify.com/artist/61cpjR2zsMHAIxsIUZ72a2) | [L'astronave](https://open.spotify.com/album/6PTSGjpGigMVTxaZRW5PJ9) | 2:49 |
 
-Snapshot ID: `AAAPAh+/knvA/qtswszQokmq+TMYoerx`
+Snapshot ID: `AAAPA/LloHwl3Ya9U0jvO0O323BVNYd7`

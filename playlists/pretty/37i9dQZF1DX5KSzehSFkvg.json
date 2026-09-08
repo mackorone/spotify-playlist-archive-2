@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\uddf2\ud83c\udde6 \u0623\u062d\u0633\u0646 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u063a\u0631\u0628\u064a",
-  "num_followers": 109776,
+  "num_followers": 109811,
   "original_name": "POPSTARS*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNbp5F3ZtiNpC0C5so/G1sBiCOZ",
+  "snapshot_id": "AAAAAEQ9g3KH0iXsS7d0GxsKHxP4HCF3",
   "tracks": [
     {
       "added_at": "2026-09-04 17:24:49",
@@ -111,6 +111,22 @@
     {
       "added_at": "2026-09-04 17:24:49",
       "album": {
+        "name": "KOUNI LIA",
+        "url": "https://open.spotify.com/album/4TpWITgbttzXa4Q4ytdsJy"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 167912,
+      "name": "KOUNI LIA",
+      "url": "https://open.spotify.com/track/6kqkr4273Pbwg0RDgFufUg"
+    },
+    {
+      "added_at": "2026-09-04 17:24:49",
+      "album": {
         "name": "Houwa 2",
         "url": "https://open.spotify.com/album/427UfB1VcqxF7EaQkFRAan"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 177500,
       "name": "Les Sentiments",
       "url": "https://open.spotify.com/track/71KVvbi4QzahY168VViofQ"
-    },
-    {
-      "added_at": "2026-09-04 17:24:49",
-      "album": {
-        "name": "KOUNI LIA",
-        "url": "https://open.spotify.com/album/4TpWITgbttzXa4Q4ytdsJy"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        }
-      ],
-      "duration_ms": 167912,
-      "name": "KOUNI LIA",
-      "url": "https://open.spotify.com/track/6kqkr4273Pbwg0RDgFufUg"
     },
     {
       "added_at": "2026-09-04 17:24:49",

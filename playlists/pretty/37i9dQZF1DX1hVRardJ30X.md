@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by AKRIILA, Anuel AA & Blessd,  Wisin, Chino Pacas & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,752 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,732 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
 | 18 | [Te Caigo](https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Te Caigo](https://open.spotify.com/album/5FpnVFmelMaJf61BMaDOO4) | 3:04 |
 | 19 | [0MILLAJE \(feat\. Conep, Tutu\)](https://open.spotify.com/track/0xvNmR4v5vtgPoRHeU0Vek) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [0MILLAJE \(feat\. Conep, Tutu\)](https://open.spotify.com/album/4f5FCoiM14yO3N4djO9mqt) | 3:41 |
-| 20 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
+| 20 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 21 | [No Love](https://open.spotify.com/track/7FH4gEs0RKJ2BeNRXYAuFc) | [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [No Love](https://open.spotify.com/album/4OcaqBQhyoUdnAxm4wVYSt) | 2:47 |
 | 22 | [BBY NO PARE](https://open.spotify.com/track/1f5oEv4HAsqBQ0ugsNELRM) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [BBY NO PARE](https://open.spotify.com/album/73mEoVKbs1kFP5KGsQF840) | 4:02 |
 | 23 | [Aguacero](https://open.spotify.com/track/2WVMe2FHq3L92fTGnKQnmW) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Aguacero](https://open.spotify.com/album/730PUegYRYkFx5zsyNnZ8X) | 3:15 |

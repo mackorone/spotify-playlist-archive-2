@@ -2303,6 +2303,32 @@
     },
     {
       "album": {
+        "name": "Melodies of the Old World",
+        "url": "https://open.spotify.com/album/6BffZ66oeV5PtGU8ovcWTz"
+      },
+      "artists": [
+        {
+          "name": "COB",
+          "url": "https://open.spotify.com/artist/4LZEDqcM34nLzsr21GbtB7"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178656,
+      "name": "A Walk through Autumn",
+      "url": "https://open.spotify.com/track/0V1mDoey11EZSbKkio9bzS"
+    },
+    {
+      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/6Vchu5Bbi4C0nUNSprj6lD"
       },
@@ -63638,7 +63664,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 188880,
       "name": "The Amber Nocturne",
       "url": "https://open.spotify.com/track/6WDijVZSFLAo5qpFlOmUsv"

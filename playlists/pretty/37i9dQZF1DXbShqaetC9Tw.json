@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 146227,
+  "num_followers": 146222,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-07-24 08:46:42",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW"
+    },
+    {
+      "added_at": "2026-07-24 08:46:42",
+      "album": {
         "name": "THINKING Part.2",
         "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 218813,
       "name": "Being left (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2026-07-24 08:46:42",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd"
-      },
-      "artists": [
-        {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW"
     },
     {
       "added_at": "2026-07-24 08:46:42",

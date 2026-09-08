@@ -1,12 +1,12 @@
 {
   "description": "Wekelijkse update! Cover: Amelie Lens",
-  "num_followers": 156410,
+  "num_followers": 156400,
   "original_name": "New Dance 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIXEVKMPYqHk/jTiIFJEE+1OIJI",
+  "snapshot_id": "AAAAAJZruKWFEhrEvgl5Iou6IYIULeAP",
   "tracks": [
     {
       "added_at": "2026-09-03 22:01:51",
@@ -43,6 +43,42 @@
     {
       "added_at": "2026-09-03 22:01:51",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "duration_ms": 142166,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3Ul23eh918yziF22bJkswP"
+    },
+    {
+      "added_at": "2026-09-03 22:01:51",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 203334,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
+    },
+    {
+      "added_at": "2026-09-03 22:01:51",
+      "album": {
         "name": "who tell em",
         "url": "https://open.spotify.com/album/6wo8igXRgVVHs63G1x672b"
       },
@@ -59,18 +95,30 @@
     {
       "added_at": "2026-09-03 22:01:51",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ"
+        "name": "Extatic Mind",
+        "url": "https://open.spotify.com/album/052M2bYPDhgofW5YRzHUvV"
       },
       "artists": [
         {
-          "name": "AVE",
-          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        },
+        {
+          "name": "NRG2000",
+          "url": "https://open.spotify.com/artist/6jVTGNBl4oociC25d6U4iy"
+        },
+        {
+          "name": "Matilda Funke",
+          "url": "https://open.spotify.com/artist/6v71CYN4FPYsi7LzIxzlNW"
         }
       ],
-      "duration_ms": 142166,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3Ul23eh918yziF22bJkswP"
+      "duration_ms": 191200,
+      "name": "Extatic Mind",
+      "url": "https://open.spotify.com/track/5kUv0hbPFiREGlGxfMVhzl"
     },
     {
       "added_at": "2026-09-03 22:01:51",
@@ -159,26 +207,6 @@
     {
       "added_at": "2026-09-03 22:01:51",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0iBIK5fBWz6C7rnSVFZGO0"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        }
-      ],
-      "duration_ms": 203334,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
-    },
-    {
-      "added_at": "2026-09-03 22:01:51",
-      "album": {
         "name": "Sambinha (ft. Marie So)",
         "url": "https://open.spotify.com/album/2ff3DCG35RlbCUmpjrLKwI"
       },
@@ -255,34 +283,6 @@
       "duration_ms": 179500,
       "name": "So Many Things To Say",
       "url": "https://open.spotify.com/track/2MuRnLkfFaPywVtg5Wn5jZ"
-    },
-    {
-      "added_at": "2026-09-03 22:01:51",
-      "album": {
-        "name": "Extatic Mind",
-        "url": "https://open.spotify.com/album/052M2bYPDhgofW5YRzHUvV"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        },
-        {
-          "name": "Ruben de Ronde",
-          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
-        },
-        {
-          "name": "NRG2000",
-          "url": "https://open.spotify.com/artist/6jVTGNBl4oociC25d6U4iy"
-        },
-        {
-          "name": "Matilda Funke",
-          "url": "https://open.spotify.com/artist/6v71CYN4FPYsi7LzIxzlNW"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Extatic Mind",
-      "url": "https://open.spotify.com/track/5kUv0hbPFiREGlGxfMVhzl"
     },
     {
       "added_at": "2026-09-03 22:01:51",

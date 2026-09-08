@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,921 likes - 208 songs - 11 hr 0 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,933 likes - 218 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,5 +216,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 206 | [free fall](https://open.spotify.com/track/5teBgl3rO7fdiUQlSgRxKI) | [Josi Raya](https://open.spotify.com/artist/1ZtU69sCcQklbst7mlTpgN) | [free fall](https://open.spotify.com/album/3CeIadoZ4q2lGZKrzWVuAP) | 2:55 |
 | 207 | [Your Eyes](https://open.spotify.com/track/5ydEmfU0qNFnrn8EhB0tb6) | [DreamParia](https://open.spotify.com/artist/1CwTMmr3Z8ydNGTnOw5VSI) | [Your Eyes](https://open.spotify.com/album/5t6Cpwz4c71H4f2NItFBCb) | 2:50 |
 | 208 | [phosphorium](https://open.spotify.com/track/2UQDju7O1tY1xvT0iNY39K) | [Waxstar](https://open.spotify.com/artist/5SwgOzP6r2vlpGuQeoVws0) | [dream diary ゆめにっき](https://open.spotify.com/album/4XVZGql64s9FhpnRC6WZBE) | 2:00 |
+| 209 | [Ordinary Guy](https://open.spotify.com/track/7AmYRSAWrKTmn0eJbtqXD3) | [Stefan Oli](https://open.spotify.com/artist/0VHcGj2t3lHY8chVlb3p1p) | [Ordinary Guy](https://open.spotify.com/album/5vFCRkCvRxVzKtXuLRKRaS) | 2:56 |
+| 210 | [Forest Retreat](https://open.spotify.com/track/2AE08iJEPxvbrbFfgJPKvn) | [Max Brent](https://open.spotify.com/artist/28HcPK3qm9fkG1ub39P2fG) | [Forest Retreat](https://open.spotify.com/album/6uSfX5lVWYX1IwprduRZWW) | 2:47 |
+| 211 | [Moments](https://open.spotify.com/track/2LslhpxPisBrXpnrlv6Hsx) | [Max Brent](https://open.spotify.com/artist/28HcPK3qm9fkG1ub39P2fG) | [Moments](https://open.spotify.com/album/5aHmLGvujOU79bvFez2FCe) | 4:03 |
+| 212 | [After The Storm](https://open.spotify.com/track/3ipoYl2ISgn1ZEC3ZZvbt2) | [Max Brent](https://open.spotify.com/artist/28HcPK3qm9fkG1ub39P2fG) | [After The Storm](https://open.spotify.com/album/2vnSKilWG93d54Baa5nqpQ) | 3:20 |
+| 213 | [Occam's Razor \- Single Version](https://open.spotify.com/track/05kJjhNaJOWvkJOmIoCucT) | [Nervous Wretch](https://open.spotify.com/artist/3myp041qqjtcdywZ4guChk) | [Occam's Razor](https://open.spotify.com/album/0veD7aik9YGl38OimRLICJ) | 3:11 |
+| 214 | [Addicted to you](https://open.spotify.com/track/0llLaFfUnANhjb5dnnySJa) | [Noxaerin](https://open.spotify.com/artist/5kzkJzCLHYzDnWjv2pgmKx) | [Addicted to you](https://open.spotify.com/album/4TfdZTVXlCq41o6yIHTBEj) | 3:07 |
+| 215 | [Love me like i love you](https://open.spotify.com/track/5Qu4SQqUDpdCWSMBp1WeS9) | [Noxaerin](https://open.spotify.com/artist/5kzkJzCLHYzDnWjv2pgmKx) | [Love me like i love you](https://open.spotify.com/album/3KMIcvnhTRvCCVYU03rM0I) | 3:29 |
+| 216 | [Through the pain \- Sped Up](https://open.spotify.com/track/1rhtrRLZ0uxvavmB3LGrBL) | [Eradite](https://open.spotify.com/artist/1DPT2akn5xJmSJFqvUDc2Y) | [Through the Pain](https://open.spotify.com/album/7BuL5aU9whlKqW0d2GkRZo) | 2:11 |
+| 217 | [We Could Be Something](https://open.spotify.com/track/09w6H1Ka5u3rBPxIYFSKQd) | [Finn mecury](https://open.spotify.com/artist/7FvjpXQqt28CcYllCP9Kdw) | [We Could Be Something](https://open.spotify.com/album/6ytfOdYH0Y5ZeOPZ1D83od) | 2:16 |
+| 218 | [Et pourtant \(Hallelujah\)](https://open.spotify.com/track/53UKuM7q7ufZQC1hIc8lYN) | [Tchako](https://open.spotify.com/artist/0Okq2OOfqq2H8MZvbARjbd) | [Et pourtant \(Hallelujah\)](https://open.spotify.com/album/7rrdx9cNpWiauWFo1kRMW2) | 3:26 |
 
-Snapshot ID: `AAA8AoiZCNu8uw7JGwjglSm190sB4T/j`
+Snapshot ID: `AAA8DGtG8IdbFIQGJ9bo0A8Cmd/mQb77`

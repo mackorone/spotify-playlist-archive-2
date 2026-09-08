@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc39\uae40\ud584\ucc0c\uc640 \ud568\uaed8 \uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.)",
-  "num_followers": 26445,
+  "num_followers": 26451,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Late Night Calls",
-      "url": "https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
         "name": "O_ne",
         "url": "https://open.spotify.com/album/7J2D83uEMfzBtzjDOAEcTt"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 263453,
       "name": "How's your night",
       "url": "https://open.spotify.com/track/5smRDSCWCMUY15WcYOyC5D"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Late Night Calls",
+      "url": "https://open.spotify.com/track/6Dl3R2ZTaM9XjqU1Jzt714"
     },
     {
       "added_at": "2026-07-24 08:45:19",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
-        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
-      },
-      "artists": [
-        {
-          "name": "soye",
-          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Beautiful Days",
-      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
         "name": "Autumn",
         "url": "https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 211800,
       "name": "Dawnlight",
       "url": "https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
+        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
     },
     {
       "added_at": "2026-07-24 08:45:19",

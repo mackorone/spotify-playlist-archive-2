@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Akanksha Sethi
 
-372 songs - 20 hr 29 min
+373 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Lehrein](https://open.spotify.com/track/5DtLtzTnFcbOuGU6tXPNFq) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Lehrein](https://open.spotify.com/album/1PalWzpE7UXkHv7Sf50ARX) | 2:38 | 2024-02-19 | 2024-06-12 |
 | [Maa](https://open.spotify.com/track/3x2xFh8crGsLHF6O4cYGgy) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Maa](https://open.spotify.com/album/67u4Fpuq3Pleo8tqkISkGK) | 3:35 | 2024-05-06 | 2024-06-12 |
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-04-25 | 2026-09-01 |
-| [Maheen Ishq](https://open.spotify.com/track/5Ve0eDZhTFW0rgxsYNXHn1) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Maheen Ishq](https://open.spotify.com/album/42SUCYs5tZC5H6X62L9osC) | 3:16 | 2026-09-04 |  |
+| [Maheen Ishq](https://open.spotify.com/track/5Ve0eDZhTFW0rgxsYNXHn1) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Maheen Ishq](https://open.spotify.com/album/42SUCYs5tZC5H6X62L9osC) | 3:16 | 2026-09-04 | 2026-09-08 |
 | [maikhana](https://open.spotify.com/track/6yAb3fTPNYiJFxIRbw9Uyt) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [maikhana](https://open.spotify.com/album/7JkHK1NfMiEzjS8rNs0R6E) | 3:48 | 2026-01-23 |  |
 | [Main Aur Tum](https://open.spotify.com/track/5DdwOYaO8qF9wEphjjmFM0) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Main Aur Tum \- Single](https://open.spotify.com/album/1OWIwIqD7d8dq9oRSYczJD) | 3:45 | 2023-05-02 | 2024-10-12 |
 | [Main tera ho gaya](https://open.spotify.com/track/7GA5RpFblxTwHNsB20jjSP) | [Karneast](https://open.spotify.com/artist/12W8Yfi0XLf3MDTOqBCvK9), [Riya](https://open.spotify.com/artist/0SnVVNWIVKr9HXn5GxR63Y), [Simon Vikram](https://open.spotify.com/artist/4Bzr4Wx6UiQo0pHZd9qXZy) | [Main tera ho gaya](https://open.spotify.com/album/3Fw8sH4a3UBk003fhI5qea) | 3:45 | 2026-02-09 | 2026-08-08 |
@@ -375,6 +375,7 @@
 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 | 2024-04-23 | 2024-06-18 |
 | [You're The One](https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [You're The One](https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9) | 2:33 | 2026-02-06 |  |
 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 | 2025-11-07 | 2026-06-13 |
+| [Zaar Zaar](https://open.spotify.com/track/2EO6Y9S2G9YaBQBK97CyXo) | [Bilal Khan](https://open.spotify.com/artist/7gUt7GrWgLnDJhOcY2Xo03) | [Zaar Zaar](https://open.spotify.com/album/46aNZeV8aCjvoD29uL7TEf) | 2:19 | 2026-09-07 |  |
 | [Zakhm Purana](https://open.spotify.com/track/4KVxYFQ5i4tZojPBO1x9Gc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Zakhm Purana](https://open.spotify.com/album/11ulyEpLTiJnvKpDVxhd89) | 3:54 | 2024-06-18 | 2024-07-13 |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-15 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2023-05-02 | 2023-12-16 |

@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-633 songs - 1 day 10 hr 35 min
+634 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [HOLY](https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [HOLY](https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR) | 3:01 | 2026-08-18 |  |
 | [Holy, Holy, Holy \(Praise Panda Remix\)](https://open.spotify.com/track/21ZzfvwkHM3HONKek5UURR) | [Praise Panda](https://open.spotify.com/artist/7a46np2BYbFVqMi3EqicKs) | [Holy, Holy, Holy \(Praise Panda Remix\)](https://open.spotify.com/album/3hq6m1vFLQDLEGBBQp4yOK) | 3:01 | 2026-08-18 |  |
 | [Hosanna](https://open.spotify.com/track/0PGxqxuMbaCSkwmblGakuR) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Hosanna](https://open.spotify.com/album/5g6eDFmLlTk0vyYH1YcKlF) | 3:28 | 2023-02-25 | 2023-04-20 |
+| [How He Works](https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o) | [Ish D](https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo) | [How He Works](https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp) | 3:17 | 2026-08-18 |  |
 | [How You Love](https://open.spotify.com/track/1I2NEALPO5AC8mhgiXyBuV) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [How You Love](https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO) | 3:57 | 2021-10-31 | 2022-03-18 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/2NwLHtXx1LDo3wmjDbQVUH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Matthew Parker Remix\)](https://open.spotify.com/album/6ZIZXM1DADD0cdLNv654k8) | 4:05 | 2021-10-31 | 2022-06-05 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/5Vrm9AmA4OabpgwcHdLvFc) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Deluxe Edition\)](https://open.spotify.com/album/6GVLKFf3wY3iqtSvIRkznK) | 4:05 | 2021-10-31 | 2022-07-17 |
@@ -432,7 +433,7 @@
 | [NO SKIPS](https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [NO SKIPS / GOOD OLD DAYS](https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X) | 3:10 | 2025-09-14 | 2026-08-19 |
 | [Nobody](https://open.spotify.com/track/3LxnSVRPRzPZdhNlu3d6W9) | [Bryan Boliver](https://open.spotify.com/artist/2xdw8Aa0DRetWarKBDZlwi) | [In the Meantime...](https://open.spotify.com/album/3PI4D4ObSCHUXpX3RWI9tC) | 4:13 | 2021-10-31 | 2022-07-04 |
 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 | 2021-10-31 | 2023-02-08 |
-| [Nobody Knows](https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK) | [Holmes John](https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL) | [Nobody Knows](https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj) | 3:44 | 2026-08-18 |  |
+| [Nobody Knows](https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK) | [Holmes John](https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL) | [Nobody Knows](https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj) | 3:44 | 2026-08-18 | 2026-09-08 |
 | [Nobody Like You](https://open.spotify.com/track/1JQDKOX5e64PlC8KstOEKY) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Denga](https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ) | 3:06 | 2021-10-31 | 2022-07-31 |
 | [Nobody Like You](https://open.spotify.com/track/56g5Uk1PQinVoOK8y8bt5S) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/0DKHpIt25jPZ3uUrlu3Wi6) | 3:06 | 2021-10-31 | 2022-06-17 |
 | [Nostalgia](https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Nostalgia](https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD) | 4:56 | 2023-02-07 | 2024-07-20 |

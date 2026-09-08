@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,353 likes - 110 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,350 likes - 110 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
-| 2 | [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 |
-| 3 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
-| 4 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
+| 2 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
+| 3 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
+| 4 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
 | 5 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
 | 6 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 7 | [Alien](https://open.spotify.com/track/1Tsr6x9gUkkggXgLRtnO0f) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Alien](https://open.spotify.com/album/1WeMx6SIhFCKkjSG2kVxVR) | 2:36 |
-| 8 | [Brandkåren](https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Brandkåren](https://open.spotify.com/album/2LLj1tfJHmGzpTz1iclNDY) | 3:01 |
-| 9 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
-| 10 | [Identitet](https://open.spotify.com/track/2yXUOc1P7OjP2nNG4Woes2) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Identitet](https://open.spotify.com/album/0tDKhUwbLVB701ffrbiOGW) | 2:48 |
+| 8 | [ANIME MIG](https://open.spotify.com/track/4S0Mt82rOxuDMNDfvfZzet) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/43dn4ZDgTMhJyqvZ5PEmBE) | 2:54 |
+| 9 | [Identitet](https://open.spotify.com/track/2yXUOc1P7OjP2nNG4Woes2) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Identitet](https://open.spotify.com/album/0tDKhUwbLVB701ffrbiOGW) | 2:48 |
+| 10 | [SaWaDiKa](https://open.spotify.com/track/0UECk3l1544vRUzYoZO5gI) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 3:08 |
 | 11 | [Regndroppar på din kind](https://open.spotify.com/track/5z86mBfuzz0jT2V85OJhMh) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Regndroppar på din kind](https://open.spotify.com/album/5VCnpTVF1pP8nNBScWHnCJ) | 2:58 |
-| 12 | [SaWaDiKa](https://open.spotify.com/track/0UECk3l1544vRUzYoZO5gI) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [PRESS PLAY](https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk) | 3:08 |
-| 13 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
-| 14 | [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 |
-| 15 | [Imposterliv](https://open.spotify.com/track/21YVx9KijOkDRGSdDmhSnF) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Imposterliv](https://open.spotify.com/album/57MJ3Xn3NGUgvNRFkg5mxI) | 3:30 |
+| 12 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
+| 13 | [Imposterliv](https://open.spotify.com/track/21YVx9KijOkDRGSdDmhSnF) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Imposterliv](https://open.spotify.com/album/57MJ3Xn3NGUgvNRFkg5mxI) | 3:30 |
+| 14 | [Runaway](https://open.spotify.com/track/4y6horhRPIuaSVKjPDLBDr) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Runaway](https://open.spotify.com/album/5aVZikPfeJpoBXKPEZAbSt) | 2:33 |
+| 15 | [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 |
 | 16 | [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 |
-| 17 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
-| 18 | [florence!](https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [florence!](https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl) | 2:45 |
-| 19 | [Lucky \- Spotify Singles](https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Lucky \(Spotify Singles\)](https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN) | 2:53 |
-| 20 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
-| 21 | [For Your Entertainment](https://open.spotify.com/track/1i1Blr6MbP98bkiiDPM4um) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [I Know Too Much](https://open.spotify.com/album/34iWyiqxoonkkfBOC3MQf1) | 3:53 |
+| 17 | [Brandkåren](https://open.spotify.com/track/5NTzLQGKimkWaVb9LHjug9) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Brandkåren](https://open.spotify.com/album/2LLj1tfJHmGzpTz1iclNDY) | 3:01 |
+| 18 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 19 | [florence!](https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [florence!](https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl) | 2:45 |
+| 20 | [Lucky \- Spotify Singles](https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Lucky \(Spotify Singles\)](https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN) | 2:53 |
+| 21 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
 | 22 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 23 | [I leave the party](https://open.spotify.com/track/7yg7YNpQEtkqgpsW9Aydg9) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Andersson Funeral Home](https://open.spotify.com/album/2Tmvd1TjxBVtSDwNc9CeAe) | 2:37 |
 | 24 | [Caught In The Game](https://open.spotify.com/track/4xxtXZApjmHVToJxWQOiFn) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Caught In The Game](https://open.spotify.com/album/0PKXxCOES1d6yg1cESDKGk) | 2:36 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 109 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
 | 110 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 |
 
-Snapshot ID: `AAAAAC98T/QFiGp/pjBlCbvbcYsRpNVn`
+Snapshot ID: `AAAAAOSAiAjjuGO1qAU7q6PUA/r7gFcf`

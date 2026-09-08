@@ -2,7 +2,7 @@
 
 ### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
-> Banger na banger\. Cover: Nachtdienst & Amelie 🔥 <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
+> Banger na banger\. Cover: Nachtdienst & Amelie 🔥
 
 226 songs - 10 hr 8 min
 

@@ -5630,7 +5630,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 503688,
       "name": "He Has Done It",
       "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
@@ -6744,6 +6744,32 @@
       "duration_ms": 279352,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
+    },
+    {
+      "album": {
+        "name": "In Jesus Name",
+        "url": "https://open.spotify.com/album/03cgv9Da0IDejNAKiqeS6p"
+      },
+      "artists": [
+        {
+          "name": "JOHN GODFREY",
+          "url": "https://open.spotify.com/artist/5ApfHPATrv1gdJ45DaRA9X"
+        },
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421333,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr"
     },
     {
       "album": {

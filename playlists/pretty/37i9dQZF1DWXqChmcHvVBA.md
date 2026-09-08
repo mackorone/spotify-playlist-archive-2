@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 LA JOAQUI
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,553 likes - 69 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,612 likes - 69 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
+| 1 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 2 | [JAMÓN](https://open.spotify.com/track/3TgyJSUjN3deqvxm3Vf1OG) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [JAMÓN](https://open.spotify.com/album/2CGy70qKhGS3KyUw5uQjJp) | 2:23 |
 | 3 | [Sonajero](https://open.spotify.com/track/0VpmnectfUwCYCBuuSYtF7) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE) | [Sonajero](https://open.spotify.com/album/3Ewjzv5INahkE8H6UYAW6p) | 2:51 |
 | 4 | [MÍA](https://open.spotify.com/track/79XRfEseZUgGESo8zfDn2b) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MÍA](https://open.spotify.com/album/4yRpuHZBILhQLHsFmoIDSG) | 2:13 |

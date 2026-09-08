@@ -1855,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/3CCfpiRc24j6i7sTKXPBiD"
+      },
+      "artists": [
+        {
+          "name": "Marine Medina",
+          "url": "https://open.spotify.com/artist/7jTAbRBHYdDJDom9QDG5f1"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220995,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/3ZI52bSw68jW6y08XY4WYE"
+    },
+    {
+      "album": {
         "name": "Molly19",
         "url": "https://open.spotify.com/album/2h8A8KwGkeNxcznsicyj2I"
       },

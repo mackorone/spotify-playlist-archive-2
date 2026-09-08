@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> ❗️Nieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
+> ❗️Nieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,640 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,620 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rare Guy](https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rare Guy](https://open.spotify.com/album/1oVBecxqzylVios2DEPRm0) | 4:43 |
 | 2 | [STRAAT VAN HORMUZ](https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [STRAAT VAN HORMUZ](https://open.spotify.com/album/4Icu867uMbpG2Kq7R0EYIh) | 3:16 |
-| 3 | [Altijd Koud](https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Capuchon](https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW) | 2:24 |
-| 4 | [ALLO](https://open.spotify.com/track/0I4CcgAofvofr7dxx9pE25) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [ALLO](https://open.spotify.com/album/5A9KEJqZ7hJ5wrH4wMqCn6) | 2:26 |
-| 5 | [Jongeman vd Wegen](https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 2:43 |
-| 6 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
+| 3 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
+| 4 | [Altijd Koud](https://open.spotify.com/track/5jSmpZ510PLKS25uL17NqH) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Capuchon](https://open.spotify.com/album/5t6AEx7uqhIDtYJVGjgeBW) | 2:24 |
+| 5 | [ALLO](https://open.spotify.com/track/0I4CcgAofvofr7dxx9pE25) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [ALLO](https://open.spotify.com/album/5A9KEJqZ7hJ5wrH4wMqCn6) | 2:26 |
+| 6 | [Jongeman vd Wegen](https://open.spotify.com/track/75muH9PLpaomRaUKBD1nwg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 2:43 |
 | 7 | [Gun Me](https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY) | [Gun Me](https://open.spotify.com/album/4WMNReftTwjeDbLllr3ZXX) | 2:35 |
-| 8 | [Dylan Klomp](https://open.spotify.com/track/1hXE72kNZzHfLVpPaaPc30) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Dylan Klomp](https://open.spotify.com/album/6CO2svtKVQtbufjL7lQXTU) | 1:48 |
-| 9 | [Bottega](https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Bottega](https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q) | 2:32 |
-| 10 | [uit de bocht](https://open.spotify.com/track/2F8xdub8zP74OzvI1DpzhH) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [49](https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6) | 2:48 |
-| 11 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
-| 12 | [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 |
-| 13 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
+| 8 | [uit de bocht](https://open.spotify.com/track/2F8xdub8zP74OzvI1DpzhH) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [49](https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6) | 2:48 |
+| 9 | [Dylan Klomp](https://open.spotify.com/track/1hXE72kNZzHfLVpPaaPc30) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Dylan Klomp](https://open.spotify.com/album/6CO2svtKVQtbufjL7lQXTU) | 1:48 |
+| 10 | [Bottega](https://open.spotify.com/track/0AIJ7AyADNauAKNBKEKhGv) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Bottega](https://open.spotify.com/album/3oI3ueQ9ULWtdMSV6yVP4Q) | 2:32 |
+| 11 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
+| 12 | [BLIJF RUSTIG](https://open.spotify.com/track/3ZuASB7LTpCgCTw4viLjud) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BLIJF RUSTIG](https://open.spotify.com/album/5QFofo9FIlEaSWSHWq9xXM) | 2:49 |
+| 13 | [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 |
 | 14 | [M’n Ballen & Woord](https://open.spotify.com/track/2EvPLn6X1VJMlT13NyZyVS) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [De Stem van MERLOT](https://open.spotify.com/album/2YHgwxhCBFXOuQd6Hbklmy) | 3:00 |
 | 15 | [Supaa Amazing](https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Supaa Amazing](https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0) | 2:02 |
 | 16 | [YOLO](https://open.spotify.com/track/2n85FJB84RJNkiNSAFozPn) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Djeezie](https://open.spotify.com/artist/4y2MHpVxytZQM5ubvO1kml), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [YOLO](https://open.spotify.com/album/1hc8flRzKYOF9GGjo6Vf7f) | 2:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Regragui](https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:36 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAAHVRU87rWLMR9BwKxA/d4zkc/bSL`
+Snapshot ID: `AAAAAH+DCMkweVJmHwycIigIvagG+K5q`

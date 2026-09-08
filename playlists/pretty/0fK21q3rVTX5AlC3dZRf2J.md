@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fK21q3rVTX5AlC3dZRf2J.md) - [plain]
 
 > my original music featured playlist, whether its fully original songs, covers, collabs, or songs i featured in!! \[does not include instrumentals\]
 
-[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 1,075 likes - 116 songs - 3 hr 47 min
+[kittydogcrystal](https://open.spotify.com/user/kittydogcrystal) - 1,075 likes - 118 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,7 @@ pretty - [cumulative](/playlists/cumulative/0fK21q3rVTX5AlC3dZRf2J.md) - [plain]
 | 114 | [broken dream](https://open.spotify.com/track/14qLjGDICy21a5xY9ED6bp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:27 |
 | 115 | [crystal spray](https://open.spotify.com/track/5fOoJNZFrsZ8RFQgOVxI6l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:44 |
 | 116 | [a world](https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:43 |
+| 117 | [certainty](https://open.spotify.com/track/2n9lbKY8FPhfmirHBjod0S) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
+| 118 | [certainty \- Instrumental Version](https://open.spotify.com/track/5orraFYE7POHB2nRzgTzMb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [certainty](https://open.spotify.com/album/334EmXRssysLd5AxVPw5gi) | 5:11 |
 
-Snapshot ID: `AAAAswOUdO9wVsUg2ISG9uNAhElK9tRn`
+Snapshot ID: `AAAAtM2NeJmF8Q90b9ErT78Pl3Iz2VEN`

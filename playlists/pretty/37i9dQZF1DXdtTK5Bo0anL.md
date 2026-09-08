@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 
 > <a href="spotify:artist:144HzhpLjcR9k37w5Ico9B">Deborah De Luca</a>'s favorite tracks\. Updated regularly\. Curated by Deborah De Luca\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,409 likes - 55 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,404 likes - 55 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 | 49 | [Panic](https://open.spotify.com/track/04LpIWG3EomsL2ogHSya5A) | [D.Mongelos](https://open.spotify.com/artist/6w7LU9tgfzLSuVHEgG5nvy) | [Panic](https://open.spotify.com/album/40dmgEw8LCZjySlUweYiOE) | 6:39 |
 | 50 | [Ben Ben](https://open.spotify.com/track/694amajL6sU0lhKwPBeqAt) | [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Sweating EP](https://open.spotify.com/album/6qM2VNxiy4i3fFqm9MuCCc) | 5:53 |
 | 51 | [Endless \- Original Mix](https://open.spotify.com/track/7fvVyrd6FapcmUGOMwQvRR) | [Luca Gaeta](https://open.spotify.com/artist/5NIiLHMZs0Etu1Cm4UtOoE) | [Galattica](https://open.spotify.com/album/0xmSvogtxUCqvOXHeVqrf2) | 6:20 |
-| 52 | [Epiphany](https://open.spotify.com/track/3BlrsR0e54ZvK5LQ9hEefr) | [Daria Barbun](https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W), [Volodia Rizak](https://open.spotify.com/artist/5LgbNZHp2DHBhL9AYPGTdt) | [Epiphany](https://open.spotify.com/album/6VmnxLBFpeWwcAWcJVoSK9) | 5:54 |
+| 52 | [Epiphany](https://open.spotify.com/track/3BlrsR0e54ZvK5LQ9hEefr) | [Volodia Rizak](https://open.spotify.com/artist/5LgbNZHp2DHBhL9AYPGTdt), [Daria Barbun](https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W) | [Epiphany](https://open.spotify.com/album/6VmnxLBFpeWwcAWcJVoSK9) | 5:54 |
 | 53 | [Ridimo \- Original Mix](https://open.spotify.com/track/1R3OwF7JSx6zWuocRxbbmT) | [Ramiro Lopez](https://open.spotify.com/artist/3jYkj7h3rgKs5irWBPxjrr) | [Infectious](https://open.spotify.com/album/5oAlOC2rYdeNxt0uE5PR8F) | 6:54 |
 | 54 | [What I Can't Get](https://open.spotify.com/track/7qZn6L03Br1pwag6Jj4NMV) | [Kaori](https://open.spotify.com/artist/5ALdinS18piQUMxF2M3d63) | [What I Can't Get](https://open.spotify.com/album/17bM89QgFVBme1HjISYUtr) | 7:04 |
 | 55 | [Doesn't Matter \- Superstrobe Remix](https://open.spotify.com/track/21wa2RNbfqJxy6zNzvGIAE) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS), [Superstrobe](https://open.spotify.com/artist/7rbWK7Usi7mOfrigaWHD6d) | [Doesn't Matter](https://open.spotify.com/album/0JFGHdiqichONYBqSkbrAv) | 5:45 |

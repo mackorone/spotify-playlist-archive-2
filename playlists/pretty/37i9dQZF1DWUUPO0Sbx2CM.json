@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 239530,
+  "num_followers": 239574,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "As The Deer",
-        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
-      },
-      "artists": [
-        {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Ain't Nobody (feat. LaShun Pace)",
         "url": "https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 174103,
       "name": "Ain't Nobody (feat. LaShun Pace)",
       "url": "https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "As The Deer",
+        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
+      },
+      "artists": [
+        {
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "I Met God On The Dancefloor",
+        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
+      },
+      "artists": [
+        {
+          "name": "Rave Jesus",
+          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "I Met God On The Dancefloor",
+      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 142588,
       "name": "Can't Stop Me Now - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "I Met God On The Dancefloor",
-        "url": "https://open.spotify.com/album/3sp31h8RBw3LJ2MdKh5Ytv"
-      },
-      "artists": [
-        {
-          "name": "Rave Jesus",
-          "url": "https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "I Met God On The Dancefloor",
-      "url": "https://open.spotify.com/track/6efBvFtOLRvksaFMaWpfC7"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Rejoice",
-      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1227,18 +1207,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/6a5qmPHocMRslijUNCjA2F"
       },
       "artists": [
         {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         }
       ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
+      "duration_ms": 131250,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/0tRm3w1bDyYYbloPgxigqI"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
       },
       "artists": [
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
         }
       ],
-      "duration_ms": 243180,
-      "name": "Angels - Original Vocal Mix",
-      "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1299,6 +1279,26 @@
       "duration_ms": 175238,
       "name": "Elijah Level EDM",
       "url": "https://open.spotify.com/track/4ea0T3YrxaKA7q15n6JrCH"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Angels - Original Vocal Mix",
+      "url": "https://open.spotify.com/track/1od7YOxcc8N7ndCXV7hMdj"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
+      },
+      "artists": [
+        {
+          "name": "Kislaw",
+          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Who I was",
         "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 208800,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7IOvT8ETGfgnVZz8Nu2qDX"
-      },
-      "artists": [
-        {
-          "name": "Kislaw",
-          "url": "https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh"
-        }
-      ],
-      "duration_ms": 182120,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4aYgVf36gWXIXuCMANtqVm"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
-      },
-      "artists": [
-        {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/2RReq92Q3hwhXgVDlqC2Hy"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 174240,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/5VQuS2pZRBeF3oPFdHxeWx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "HOLY",
+        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        }
+      ],
+      "duration_ms": 181671,
+      "name": "HOLY",
+      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Better Off (Ok Evan Remix)",
         "url": "https://open.spotify.com/album/0b9m6JPv4MEJGMoeis9TDA"
       },
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "HOLY",
-        "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
-      },
-      "artists": [
-        {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
-        }
-      ],
-      "duration_ms": 181671,
-      "name": "HOLY",
-      "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Worship You",
         "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
       },
@@ -1799,6 +1799,22 @@
       "duration_ms": 183645,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1823,18 +1839,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+        "name": "Building \"What are you waiting on?\"",
+        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
       },
       "artists": [
         {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+          "name": "Erica Reed",
+          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
         }
       ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
+      "duration_ms": 231435,
+      "name": "Building \"What are you waiting on?\"",
+      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1859,18 +1875,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Building \"What are you waiting on?\"",
-        "url": "https://open.spotify.com/album/7yZ8cyxChIgZkjKLgTdcEK"
+        "name": "Praise His Holy Name (House Remix)",
+        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
       },
       "artists": [
         {
-          "name": "Erica Reed",
-          "url": "https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF"
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        },
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
         }
       ],
-      "duration_ms": 231435,
-      "name": "Building \"What are you waiting on?\"",
-      "url": "https://open.spotify.com/track/4ZEyGNBns1pkOdmGRPcZ6F"
+      "duration_ms": 245118,
+      "name": "Praise His Holy Name - House Remix",
+      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise His Holy Name (House Remix)",
-        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
-      },
-      "artists": [
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        },
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 245118,
-      "name": "Praise His Holy Name - House Remix",
-      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "My Sweet Heaven (feat. Stealth)",
         "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj"
+        "name": "How He Works",
+        "url": "https://open.spotify.com/album/7yYKuNcA2a2NR87RaO8Yyp"
       },
       "artists": [
         {
-          "name": "Holmes John",
-          "url": "https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL"
+          "name": "Ish D",
+          "url": "https://open.spotify.com/artist/5P6jJ9rSUU5KMnoQDmaPuo"
         }
       ],
-      "duration_ms": 224646,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK"
+      "duration_ms": 197000,
+      "name": "How He Works",
+      "url": "https://open.spotify.com/track/5JkuXQbw1gFrICo0lRBz2o"
     }
   ],
   "unique_name": "Christian Dance",

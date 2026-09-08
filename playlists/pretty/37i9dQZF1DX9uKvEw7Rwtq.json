@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 127433,
+  "num_followers": 127466,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Farewell, Stars (The American Dollar Rework)",
-        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Farewell, Stars - The American Dollar Rework",
-      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Keep The Orange Sun",
         "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Farewell, Stars (The American Dollar Rework)",
+        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Farewell, Stars - The American Dollar Rework",
+      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
       },
       "artists": [
         {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+          "name": "Soars",
+          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+      "duration_ms": 226760,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Enfold",
-        "url": "https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS"
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
       "artists": [
         {
-          "name": "Soars",
-          "url": "https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ"
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
         }
       ],
-      "duration_ms": 226760,
-      "name": "Enfold",
-      "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Pearldiving",
+        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 152260,
+      "name": "Les Amourettes",
+      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Lifelike",
         "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 278067,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Pearldiving",
-        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 152260,
-      "name": "Les Amourettes",
-      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Dark Awakening",
+        "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        },
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 281176,
+      "name": "Dark Awakening",
+      "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 230000,
       "name": "Astronomer",
       "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Dark Awakening",
-        "url": "https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        },
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 281176,
-      "name": "Dark Awakening",
-      "url": "https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk"
     },
     {
       "added_at": "2026-05-29 04:00:33",

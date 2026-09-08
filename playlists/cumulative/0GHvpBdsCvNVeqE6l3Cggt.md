@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-146 songs - 8 hr 25 min
+147 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 | 2025-12-04 | 2025-12-28 |
 | [POPSTAR](https://open.spotify.com/track/5eKWnk0CuVzBoJNNMDRilZ) | [Snowflake Maker](https://open.spotify.com/artist/2sQohLh8eFMnXitpz2yoM5) | [POPSTAR](https://open.spotify.com/album/5k6yAsfYV423IPbGwG6BMn) | 2:56 | 2026-06-03 | 2026-07-30 |
 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2021-11-21 |  |
+| [Ready](https://open.spotify.com/track/3ZI52bSw68jW6y08XY4WYE) | [Marine Medina](https://open.spotify.com/artist/7jTAbRBHYdDJDom9QDG5f1) | [Ready](https://open.spotify.com/album/3CCfpiRc24j6i7sTKXPBiD) | 3:40 | 2026-09-07 |  |
 | [Reason](https://open.spotify.com/track/2Dj0xj2L1oYGiiANCfXHao) | [Maliuha](https://open.spotify.com/artist/3t5EqB9jJnmv9F5OlYH3Yk) | [Molly19](https://open.spotify.com/album/2h8A8KwGkeNxcznsicyj2I) | 4:21 | 2025-11-06 | 2025-11-22 |
 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 | 2026-02-23 | 2026-03-14 |
 | [Roses](https://open.spotify.com/track/247MRY3Cbust5YB0Py5gxz) | [Lian](https://open.spotify.com/artist/2sOcUxLnqrruZJRN6m0GzE) | [Roses](https://open.spotify.com/album/0NjovRnD5unUBDJ7U8QH3G) | 4:10 | 2025-10-22 | 2025-12-03 |

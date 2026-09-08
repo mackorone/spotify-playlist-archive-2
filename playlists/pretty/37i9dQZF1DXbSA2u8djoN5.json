@@ -691,26 +691,6 @@
     {
       "added_at": "2026-09-03 21:00:24",
       "album": {
-        "name": "FURAM CURENT",
-        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
-      },
-      "artists": [
-        {
-          "name": "Satra B.E.N.Z.",
-          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
-        },
-        {
-          "name": "Radu Guran",
-          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "FURAM CURENT",
-      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
-    },
-    {
-      "added_at": "2026-09-03 21:00:24",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2026-09-03 21:00:24",
+      "album": {
+        "name": "FURAM CURENT",
+        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
+      },
+      "artists": [
+        {
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
+        },
+        {
+          "name": "Radu Guran",
+          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "FURAM CURENT",
+      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
     },
     {
       "added_at": "2026-09-03 21:00:24",

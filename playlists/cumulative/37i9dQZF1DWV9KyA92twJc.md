@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-249 songs - 13 hr 18 min
+250 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [המים הקדושים](https://open.spotify.com/track/5DqxfeM3LYqSTiiB1NORSu) | [Tohar](https://open.spotify.com/artist/6AGauzgDfrDTQA8ezvCiaS), [ATAR MAYNER](https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm) | [המים הקדושים](https://open.spotify.com/album/3UvWQrHP5tTPLU9wc36FX0) | 3:45 | 2024-07-04 | 2024-07-19 |
 | [הנשיקה הראשונה](https://open.spotify.com/track/5Ytxwuer8DjnpL7tyxkGY7) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [הנשיקה הראשונה](https://open.spotify.com/album/16lV5OZVKj9UWIOLDnLZ0Z) | 3:18 | 2025-01-30 | 2025-02-15 |
 | [ויני וידי ויצ'י](https://open.spotify.com/track/4RrZdfphKgLiQ6uJJEgIMx) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [ויני וידי ויצ'י](https://open.spotify.com/album/2ZAVMJ0cfMztnaQoPiYv4N) | 2:24 | 2024-06-20 | 2024-10-28 |
-| [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 | 2025-01-30 |  |
+| [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 | 2025-01-30 | 2026-09-08 |
 | [חץ בלב](https://open.spotify.com/track/2YCkZcx69SlG17eCcLDq4O) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [חץ בלב](https://open.spotify.com/album/0zncV9LbzHWYtmoVxzEw8G) | 2:44 | 2024-08-22 | 2024-10-18 |
 | [טלפון](https://open.spotify.com/track/3PyatEa3vDkvQiZYeI4wd7) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [פרא](https://open.spotify.com/album/6CnlRjoBkGtUHFY4jmFSG5) | 2:29 | 2025-01-09 | 2025-03-22 |
 | [יהיה טוב](https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [אין עולם](https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc) | 3:16 | 2024-06-20 |  |
@@ -223,6 +223,7 @@
 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-06-20 | 2026-05-01 |
 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 | 2025-08-29 |  |
 | [נתק אותי](https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [נתק אותי](https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY) | 3:20 | 2024-06-20 | 2025-01-23 |
+| [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 | 2026-09-03 |  |
 | [עד הבוקר](https://open.spotify.com/track/339GBYEOWP8nzQS2j4tCzM) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [עד הבוקר](https://open.spotify.com/album/3kdCXYlDNRclb6C0jSYC1q) | 2:46 | 2025-05-15 | 2025-07-05 |
 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 | 2024-06-20 | 2025-08-30 |
 | [עולם משוגע \- קיסריה אנפלאגד](https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קיסריה אנפלאגד 2022](https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4) | 5:50 | 2024-10-17 | 2024-11-08 |

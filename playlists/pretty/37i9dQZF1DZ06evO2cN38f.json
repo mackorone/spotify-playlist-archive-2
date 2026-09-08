@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1767,
+  "num_followers": 1769,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAABvfRtSVBhsj4ZHW19Gr+y+",
+  "snapshot_id": "apytAAAAAACAnnUMNJ7KQiGnfxrGL0S2",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Sidiooo, Vol. 1",
-        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 119443,
-      "name": "Tour Bus",
-      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
+      "duration_ms": 226299,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+        "name": "Project Sidiooo, Vol. 1",
+        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 226299,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
+      "duration_ms": 119443,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
     },
     {
       "added_at": null,

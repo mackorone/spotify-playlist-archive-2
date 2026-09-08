@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95773,
+  "num_followers": 95778,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Ain't None Watered Down",
-        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 192436,
-      "name": "Ain't None Watered Down",
-      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 229560,
       "name": "Revival",
       "url": "https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Ain't None Watered Down",
+        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Ain't None Watered Down",
+      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
     },
     {
       "added_at": "2026-04-10 16:28:54",

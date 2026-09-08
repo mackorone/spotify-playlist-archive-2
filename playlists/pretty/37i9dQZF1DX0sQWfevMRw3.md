@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,474 likes - 126 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,481 likes - 126 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The FUCKING Lundells](https://open.spotify.com/track/4yRZ0w0JBFQbEEXcS5lfNT) | [Samir Badran](https://open.spotify.com/artist/3qYiG2OKLj2WAKQVdIbigB), [Johanna Öholm](https://open.spotify.com/artist/4LHTjIZVPpalT5jxbefMrN) | [The FUCKING Lundells](https://open.spotify.com/album/3yOtzj5cIKXqSDm7emzvkc) | 2:22 |
-| 2 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
-| 3 | [FALSK](https://open.spotify.com/track/2hjx5RfR7VCFr5P53jT6HE) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [FALSK](https://open.spotify.com/album/2kMufaGOl2UM5fzE9XO7oq) | 2:00 |
-| 4 | [O A E](https://open.spotify.com/track/09Q3hbshm6gnzIDV7bktZa) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [O A E](https://open.spotify.com/album/5BKpFPVgfiyEKieEk4bWFW) | 2:16 |
-| 5 | [Höjer Våra Glas](https://open.spotify.com/track/0pA3CEVNAowtMSIkzkDFAn) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Höjer Våra Glas](https://open.spotify.com/album/76v9qXmEgMLvoy4Zlqq5iI) | 2:00 |
+| 1 | [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 |
+| 2 | [The FUCKING Lundells](https://open.spotify.com/track/4yRZ0w0JBFQbEEXcS5lfNT) | [Samir Badran](https://open.spotify.com/artist/3qYiG2OKLj2WAKQVdIbigB), [Johanna Öholm](https://open.spotify.com/artist/4LHTjIZVPpalT5jxbefMrN) | [The FUCKING Lundells](https://open.spotify.com/album/3yOtzj5cIKXqSDm7emzvkc) | 2:22 |
+| 3 | [Höjer Våra Glas](https://open.spotify.com/track/0pA3CEVNAowtMSIkzkDFAn) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [Höjer Våra Glas](https://open.spotify.com/album/76v9qXmEgMLvoy4Zlqq5iI) | 2:00 |
+| 4 | [FALSK](https://open.spotify.com/track/2hjx5RfR7VCFr5P53jT6HE) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [FALSK](https://open.spotify.com/album/2kMufaGOl2UM5fzE9XO7oq) | 2:00 |
+| 5 | [O A E](https://open.spotify.com/track/09Q3hbshm6gnzIDV7bktZa) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [O A E](https://open.spotify.com/album/5BKpFPVgfiyEKieEk4bWFW) | 2:16 |
 | 6 | [AFTER DAWN](https://open.spotify.com/track/6pihTXtQlfmDKddTsC2ouM) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [BRIGADEN](https://open.spotify.com/artist/3xvwz8pyter7ZhshRdWAuk) | [AFTER DAWN](https://open.spotify.com/album/7aWvyjh1fzaxEwHn8SYkyQ) | 2:31 |
 | 7 | [Don Juan](https://open.spotify.com/track/0MxX3Te42xhi8ZHtAnW2cC) | [aNtik](https://open.spotify.com/artist/1Af5IgNiNuENt7pcNLmaUP) | [Don Juan](https://open.spotify.com/album/7CosHmpSGm6MMQrV1Z0qql) | 2:18 |
 | 8 | [Bra för dig](https://open.spotify.com/track/5P9GJinwjRjyR7t9AardQ3) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf) | [Bra för dig](https://open.spotify.com/album/7AHbQHzvFRU0hULQeXHnSK) | 2:40 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 125 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 126 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAANfMEkFMc1Lh5AKcgEIky+FW167X`
+Snapshot ID: `AAAAANnGLHEI0P+4cjoph7h1muxT+PDq`

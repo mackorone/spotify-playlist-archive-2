@@ -2,7 +2,7 @@
 
 ### [Global Afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 
-> The sound of Afrobeats echoing around the world\. Cover: Been & Honey and Omah Lay
+> The sound of Afrobeats echoing around the world\. Cover: Bees & Honey and Omah Lay
 
 235 songs - 11 hr 53 min
 

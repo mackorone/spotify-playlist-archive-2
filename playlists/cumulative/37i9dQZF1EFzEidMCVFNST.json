@@ -5163,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Sofrendo e Bebendo 2.0",
+        "url": "https://open.spotify.com/album/6V2tLqplR5QeRpUvhNIUmc"
+      },
+      "artists": [
+        {
+          "name": "Liene Show",
+          "url": "https://open.spotify.com/artist/7uz4wLTv3GdRTHrMhlYQRD"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200385,
+      "name": "Mais Que Isso",
+      "url": "https://open.spotify.com/track/5qoC0L14OFCIAF6Q9y00gO"
+    },
+    {
+      "album": {
         "name": "Mais um Rol\u00ea (Ao Vivo em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/5qV8s3v3V275RY8E3SiAiv"
       },

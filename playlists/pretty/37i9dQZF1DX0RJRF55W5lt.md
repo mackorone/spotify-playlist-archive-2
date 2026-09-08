@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,752 likes - 75 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,811 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 55 | [Wondering Why](https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Vula Malinga](https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf) | [Cut To The Chase](https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk) | 3:36 |
 | 56 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
 | 57 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
-| 58 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
+| 58 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
 | 59 | [Happy to Be Deep](https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 7:17 |
-| 60 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
-| 61 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
+| 60 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
+| 61 | [You Used to Hold Me \- Original Mix](https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ) | [Scott & Leon](https://open.spotify.com/artist/24labonn3Rx2LF8PTyVK4H), [SYLVIA MASON](https://open.spotify.com/artist/08rl4ZXJxHMQoc9UpvgsNw) | [You Used to Hold Me \-EP](https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA) | 5:26 |
 | 62 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
 | 63 | [Dancing for Heaven \- Club](https://open.spotify.com/track/70YTThyJzwfYhy8old5EAu) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [House Tracks for the Dancefloor, Vol\. One](https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9) | 6:12 |
 | 64 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |

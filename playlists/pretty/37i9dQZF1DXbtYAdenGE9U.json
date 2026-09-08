@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 820672,
+  "num_followers": 820975,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Gouryella",
-        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
-      },
-      "artists": [
-        {
-          "name": "Gouryella",
-          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 217146,
-      "name": "Gouryella",
-      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "I Believe / Follow Me",
         "url": "https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 392560,
       "name": "Follow Me - Lange's Club Mix",
       "url": "https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Gouryella",
+        "url": "https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL"
+      },
+      "artists": [
+        {
+          "name": "Gouryella",
+          "url": "https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 217146,
+      "name": "Gouryella",
+      "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -671,42 +671,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Fitness Beats 2013",
-        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
-      },
-      "artists": [
-        {
-          "name": "William Orbit",
-          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
-        },
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 220565,
-      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
-      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Time To Burn 2010",
-        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
-      },
-      "artists": [
-        {
-          "name": "Storm",
-          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Time to Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Trance Top 1000 - The Best Of",
         "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
       },
@@ -727,6 +691,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Time To Burn 2010",
+        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Time to Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Armada Collected: Aly & Fila",
         "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 226673,
       "name": "We Control The Sunlight",
       "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Fitness Beats 2013",
+        "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
+      },
+      "artists": [
+        {
+          "name": "William Orbit",
+          "url": "https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 220565,
+      "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
+      "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
     },
     {
       "added_at": "2024-07-23 09:55:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Lauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,275 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,208 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 11 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
 | 12 | [CIUDADES](https://open.spotify.com/track/5OhQGwR7Rcw1TBu9hNxgm4) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [CIUDADES](https://open.spotify.com/album/5jK8mHzXifWB2vkURzyecI) | 3:54 |
 | 13 | [YA SUFRI POR AMOR](https://open.spotify.com/track/1QGwQaCkWA88Rcw8xuq4Py) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [YA SUFRI POR AMOR](https://open.spotify.com/album/4fn3CkE2J49pyYxW4wCnhC) | 2:23 |
-| 14 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
+| 14 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 15 | [21 de agosto](https://open.spotify.com/track/76nc1xnr4BxHMDFsJ79A7S) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [21 de agosto](https://open.spotify.com/album/2S2cdxfOdXoALZRPhuZ2jw) | 3:12 |
 | 16 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 17 | [Vida Mala](https://open.spotify.com/track/3pwUgRjmvwWKOUwOsjAsFa) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Vida Mala](https://open.spotify.com/album/1nqwq6c5mwnpjeSykPebpH) | 3:12 |

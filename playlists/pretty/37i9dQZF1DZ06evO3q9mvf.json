@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAAAK1Jmtd2bHHkoZRaiLZq52",
+  "snapshot_id": "apytAAAAAADdzMouipuJ4bOZ8JFhNNjq",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skateboard Punk Hits",
-        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Grapevine (Live)",
-      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS"
+        "name": "Skateboard Punk Hits",
+        "url": "https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+      "duration_ms": 212506,
+      "name": "Grapevine (Live)",
+      "url": "https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y"
     },
     {
       "added_at": null,

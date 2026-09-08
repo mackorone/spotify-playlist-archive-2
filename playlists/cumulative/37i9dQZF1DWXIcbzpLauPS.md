@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: NOVELISTS
 
-1,674 songs - 4 day 5 hr 33 min
+1,675 songs - 4 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2022-07-13 | 2022-07-23 |
 | [Ad Mortem](https://open.spotify.com/track/06p9pcize5jRf60suHxXZv) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org), [Pastgloom](https://open.spotify.com/artist/1vtDoKdcE6gdsHnpXTn1OZ), [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Ad Mortem](https://open.spotify.com/album/7hHvCfJlotChMBl6Z2qR6M) | 5:01 | 2026-03-02 | 2026-03-11 |
 | [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-07-13 | 2022-07-23 |
-| [ADRENALINE](https://open.spotify.com/track/7nA6qiCTvfAAs236lQTOLk) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [ADRENALINE](https://open.spotify.com/album/6ksVNKzgo9bGS2X5vpCreN) | 3:55 | 2026-09-04 |  |
+| [ADRENALINE](https://open.spotify.com/track/7nA6qiCTvfAAs236lQTOLk) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6) | [ADRENALINE](https://open.spotify.com/album/6ksVNKzgo9bGS2X5vpCreN) | 3:55 | 2026-09-04 | 2026-09-08 |
 | [Advance Upon Me Brethren \- Redux](https://open.spotify.com/track/1nsnnETeOSRcomryUMJ3Az) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [The Fantasy Effect Redux](https://open.spotify.com/album/2bbHGhYeAS251rpr595BKx) | 4:42 | 2022-04-29 | 2022-07-28 |
 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 | 2022-07-13 | 2022-07-15 |
 | [Aeons of Oblivion](https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Adam Warren](https://open.spotify.com/artist/7COUdKrNnwWJGxif3XxLDr) | [Aeons of Oblivion](https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr) | 3:41 | 2022-07-13 | 2022-07-23 |
@@ -608,6 +608,7 @@
 | [Fortress](https://open.spotify.com/track/3qQ9Fiy70mNNngdgTP6Xhw) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Fortress](https://open.spotify.com/album/6sumg54XS5yp7gsFZTXAJP) | 3:23 | 2022-07-13 | 2022-07-15 |
 | [Foundation of Bones](https://open.spotify.com/track/5VI5iRrQfP6gkUeNUN0SLw) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Foundation of Bones](https://open.spotify.com/album/62LietbraYCLnLgpUyiVee) | 3:24 | 2022-07-13 | 2022-07-15 |
 | [FOUR WALLS](https://open.spotify.com/track/1AAYPjL5IijzqYcKG7GUL5) | [DIESECT](https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB) | [FOUR WALLS](https://open.spotify.com/album/1oX6FnRLwnUtL1O40ZT9JD) | 2:38 | 2026-01-16 | 2026-03-11 |
+| [Fracture](https://open.spotify.com/track/4H7EOPTBOc7WThz8Co6EAR) | [REVNOIR](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Fracture](https://open.spotify.com/album/2uuMuBe6yPTsqlyaVBepVx) | 3:44 | 2026-09-04 |  |
 | [Fractured State of Mind](https://open.spotify.com/track/14cHOXg4CKdHdnX91mptNz) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Fractured State Of Mind](https://open.spotify.com/album/0HHsbTFhkLLocRvKsbs8zR) | 3:44 | 2024-02-09 | 2024-04-13 |
 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 | 2026-03-10 |  |
 | [From A Distance \(feat\. Alex Reade\)](https://open.spotify.com/track/3ikF5yivSQR1Itr0jsGZV0) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Alex Reade](https://open.spotify.com/artist/3gPiHQSnJHOVAAFludeEuo) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 4:06 | 2026-09-04 |  |

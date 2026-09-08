@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 43 songs - 2 hr 46 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 41 | [Hope](https://open.spotify.com/track/7eTzPRx4F8hARRbGM9YAFX) | [Reaven](https://open.spotify.com/artist/4XMRA9dDBjl3VWhdoTndiB) | [Hope](https://open.spotify.com/album/4rvubClwvLBYoVnJOzgmZi) | 2:57 |
 | 42 | [Like I Need Water](https://open.spotify.com/track/30qfULc1I0lFNXDLkFYAbU) | [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Like I Need Water](https://open.spotify.com/album/3bbHqzFG3t6UTOifLXFDca) | 3:03 |
 | 43 | [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 |
+| 44 | [Ready](https://open.spotify.com/track/3ZI52bSw68jW6y08XY4WYE) | [Marine Medina](https://open.spotify.com/artist/7jTAbRBHYdDJDom9QDG5f1) | [Ready](https://open.spotify.com/album/3CCfpiRc24j6i7sTKXPBiD) | 3:40 |
 
-Snapshot ID: `AAAkZLmsr1dHC34Ov5jIuc9X9WfYw6Es`
+Snapshot ID: `AAAkZeH7g9i4sIxxcvFixdqvPM1ILjHh`

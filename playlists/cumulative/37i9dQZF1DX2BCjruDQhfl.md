@@ -2,7 +2,7 @@
 
 ### [Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2BCjruDQhfl)
 
-> It's giving Kaya Imani vibes\. <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
+> It's giving Kaya Imani vibes.
 
 424 songs - 19 hr 39 min
 

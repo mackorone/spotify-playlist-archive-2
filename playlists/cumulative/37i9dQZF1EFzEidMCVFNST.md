@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-629 songs - 1 day 5 hr 56 min
+630 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Louco por Tu \(Ao Vivo\)](https://open.spotify.com/track/3rRgb24SWRECGFNoXNQPh8) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Nosso Flow \(Ao Vivo\)](https://open.spotify.com/album/0IUgChPgMyz6KcsVqvI3Sb) | 2:41 | 2024-05-31 |  |
 | [Love Full Time](https://open.spotify.com/track/3T9uRc4yeZnHuiYotbUINk) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Netto](https://open.spotify.com/artist/3AuBwQwLPbM2JMnSq89nSW) | [Love Full Time](https://open.spotify.com/album/5SQGqmaQTsLyMNzGZh6q7f) | 2:35 | 2024-01-29 |  |
 | [Madrugada Errada \- Ao Vivo](https://open.spotify.com/track/54CeUFyR4i5715ZgraaMvy) | [Kleo Dibah & Rafael](https://open.spotify.com/artist/0bnmflX3hZqv9kIv5vqrgd) | [Bem Vindo ao Clube \(Ao Vivo\)](https://open.spotify.com/album/62lzD5iiQyenXphHRlhdjv) | 2:50 | 2024-01-29 | 2025-05-08 |
+| [Mais Que Isso](https://open.spotify.com/track/5qoC0L14OFCIAF6Q9y00gO) | [Liene Show](https://open.spotify.com/artist/7uz4wLTv3GdRTHrMhlYQRD) | [Sofrendo e Bebendo 2.0](https://open.spotify.com/album/6V2tLqplR5QeRpUvhNIUmc) | 3:20 | 2026-09-07 |  |
 | [Mala \- Ao Vivo](https://open.spotify.com/track/4RD4bpPwBzJu3hZUHiDVFy) | [Nathy Alvarenga](https://open.spotify.com/artist/5CQJ9yWbOGVKCeEKY6LNDo) | [Mais um Rolê \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/5qV8s3v3V275RY8E3SiAiv) | 2:29 | 2025-05-31 |  |
 | [Mama Me Olhando \(feat\. DENNIS\)](https://open.spotify.com/track/2fHlQJV1L8NWcSkGTUlmZX) | [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Poesia Para Maiores, Vol\. 1 \(feat\. DENNIS\)](https://open.spotify.com/album/223DLwcAOccNfsxqvewCb7) | 2:38 | 2024-01-29 |  |
 | [Maria Santinha \- Ao Vivo](https://open.spotify.com/track/3xup1CZkcgcKhnTko6IVZO) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Garota Vip Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/497c9omVEZEWxg5YcczG2g) | 2:46 | 2024-01-29 |  |

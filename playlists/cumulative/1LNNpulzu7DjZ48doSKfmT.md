@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,200 songs - 2 day 13 hr 35 min
+1,201 songs - 2 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -721,6 +721,7 @@
 | [My truth](https://open.spotify.com/track/1SobgOx0U5tvszuO82jzTE) | [Shhh](https://open.spotify.com/artist/7Jtk5AFJC2DCkGYhnAAYp4) | [snow season](https://open.spotify.com/album/6aupfM3JDqIHdHByFRPnRU) | 4:15 | 2025-11-26 | 2026-02-23 |
 | [My Turn](https://open.spotify.com/track/22uNUgVvGcqlMcFotOhgNq) | [L13](https://open.spotify.com/artist/0UoidjihwSTy5inuJkS19d) | [My Turn](https://open.spotify.com/album/3tgD6kIIid9vYb1h3MQn0A) | 2:17 | 2025-10-25 | 2026-02-17 |
 | [MÁS VECES](https://open.spotify.com/track/1KZBz3hN6KXP52EWPOuNSV) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [MÁS VECES](https://open.spotify.com/album/03k16lAHM6C98o7vpS8ymW) | 2:21 | 2026-01-26 | 2026-07-23 |
+| [Namo Namah](https://open.spotify.com/track/0WGaRD7H5ye7whDFybKDQW) | [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc) | [Namo Namah](https://open.spotify.com/album/36jNf7EBVCH7k4yghegjgh) | 2:44 | 2026-09-07 |  |
 | [Nasten'ka](https://open.spotify.com/track/1FHUVKAMCFt4Ix2xYPfxo2) | [F3D UNION](https://open.spotify.com/artist/5Qbr0mp6yPcKn9t6wNPb7T) | [Nasten'ka](https://open.spotify.com/album/3ndAESiGEF0Noyn7NpvuPh) | 3:36 | 2026-02-22 |  |
 | [NEON](https://open.spotify.com/track/19KW2WQqr28EodAzjVDDAB) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:26 | 2025-11-14 | 2026-02-17 |
 | [NERO](https://open.spotify.com/track/2z9DykKrQYDrXvpCZHfsU9) | [HANNA PERLA](https://open.spotify.com/artist/2shaPkyz3kT8fmaSOecSL3) | [NERO](https://open.spotify.com/album/7jLWBnHxG4Gbp1751rw6os) | 3:47 | 2025-09-23 | 2026-01-15 |

@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315694,
+  "num_followers": 315712,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
         "name": "Lavender Cowboy",
         "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193555,
       "name": "Lavender Cowboy",
       "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Turn This Thing Around",
+      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
-        "name": "This Masquerade",
-        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "This Masquerade",
-      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Linger On",
-        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
+        "name": "This Masquerade",
+        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
       "artists": [
         {
-          "name": "credits",
-          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 189862,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
+      "duration_ms": 192750,
+      "name": "This Masquerade",
+      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1063,6 +1063,22 @@
       "duration_ms": 196280,
       "name": "Mr. Jukebox",
       "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
+        "name": "Linger On",
+        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
+      },
+      "artists": [
+        {
+          "name": "credits",
+          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+        "name": "The Secret Sisters",
+        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Turn This Thing Around",
-      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+      "duration_ms": 143160,
+      "name": "My Heart Skips A Beat",
+      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1131,22 +1147,6 @@
       "duration_ms": 145253,
       "name": "Livin\u2019 In Shame",
       "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
-        "name": "The Secret Sisters",
-        "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "My Heart Skips A Beat",
-      "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 253080,
       "name": "From What I Recall",
       "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Lone Star",
-        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
-      },
-      "artists": [
-        {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
-        }
-      ],
-      "duration_ms": 335846,
-      "name": "Lone Star",
-      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 213204,
       "name": "Love All Night (Work All Day)",
       "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 335846,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Flyin'",
-        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 145995,
-      "name": "Flyin'",
-      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 229506,
       "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
       "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
+        "name": "Flyin'",
+        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 145995,
+      "name": "Flyin'",
+      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
     },
     {
       "added_at": "2026-09-04 04:01:37",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+      },
+      "artists": [
+        {
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+    },
+    {
+      "added_at": "2026-09-04 04:01:37",
+      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1651,34 +1667,22 @@
     {
       "added_at": "2026-09-04 04:01:37",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+        "name": "Havin' A Talk",
+        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
       },
       "artists": [
         {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
-    },
-    {
-      "added_at": "2026-09-04 04:01:37",
-      "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        },
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
         }
       ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
+      "duration_ms": 206480,
+      "name": "The Last To Know",
+      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
     }
   ],
   "unique_name": "Vintage Vibes",

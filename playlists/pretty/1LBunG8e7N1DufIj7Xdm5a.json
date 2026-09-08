@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ+ZkRgjTprPcCEnyMeFriZcoPHh/V",
+  "snapshot_id": "AAAJ+212aQ4oXtFRSg/TPnczDF8DiHIo",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -14916,7 +14916,7 @@
           "url": "https://open.spotify.com/artist/6BId8KyjsAkxV9DIGQZyjp"
         }
       ],
-      "duration_ms": 204292,
+      "duration_ms": 204293,
       "name": "Il colpevole sei tu",
       "url": "https://open.spotify.com/track/36cErbKzwdUhZrOA3Afamc"
     },
@@ -78643,6 +78643,38 @@
       "duration_ms": 253120,
       "name": "The End of the Matter (fomo mode)",
       "url": "https://open.spotify.com/track/6xRnFAGsTr67K2MD0ENgEa"
+    },
+    {
+      "added_at": "2026-09-07 10:32:01",
+      "album": {
+        "name": "Brutal Brutality",
+        "url": "https://open.spotify.com/album/50q3ap7L5eSCbFKNR5z2vr"
+      },
+      "artists": [
+        {
+          "name": "LIVE THE DAY",
+          "url": "https://open.spotify.com/artist/3gWriNK1rJ7A14oLDHghPH"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Brutal Brutality",
+      "url": "https://open.spotify.com/track/6uHQ6qHn0dudsuHtUinfob"
+    },
+    {
+      "added_at": "2026-09-07 17:53:33",
+      "album": {
+        "name": "Casa Roso",
+        "url": "https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn"
+      },
+      "artists": [
+        {
+          "name": "Viva Los Villains",
+          "url": "https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Casa Roso",
+      "url": "https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq"
     }
   ],
   "unique_name": "playlist spotify free",

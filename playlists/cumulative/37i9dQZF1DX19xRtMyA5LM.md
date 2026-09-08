@@ -2,7 +2,7 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> ❗️Nieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
+> ❗️Nieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer.
 
 558 songs - 1 day 1 hr 11 min
 

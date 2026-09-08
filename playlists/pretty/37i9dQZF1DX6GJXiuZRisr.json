@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1617982,
+  "num_followers": 1618073,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
+        "name": "girl$ (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 184477,
+      "name": "girl$ - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 171428,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "girl$ (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 184477,
-      "name": "girl$ - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "Sirius",
-        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
-      },
-      "artists": [
-        {
-          "name": "Hjafri",
-          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
-        }
-      ],
-      "duration_ms": 168904,
-      "name": "Sirius",
-      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
-        "name": "Luv 4 U EP",
-        "url": "https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "SEIZMIC",
-          "url": "https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd"
-        }
-      ],
-      "duration_ms": 327619,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1923,6 +1903,26 @@
     {
       "added_at": "2026-09-04 04:01:13",
       "album": {
+        "name": "Luv 4 U EP",
+        "url": "https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "SEIZMIC",
+          "url": "https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd"
+        }
+      ],
+      "duration_ms": 327619,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
         "name": "SYNCHRONICITY",
         "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
       },
@@ -1935,26 +1935,6 @@
       "duration_ms": 257641,
       "name": "million angels",
       "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
-    },
-    {
-      "added_at": "2026-09-04 04:01:13",
-      "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        },
-        {
-          "name": "Julia Temos",
-          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
-        }
-      ],
-      "duration_ms": 190471,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
     },
     {
       "added_at": "2026-09-04 04:01:13",
@@ -1975,6 +1955,26 @@
       "duration_ms": 217523,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
+    },
+    {
+      "added_at": "2026-09-04 04:01:13",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/66Blp0Mpyce1vXDhAOhwBd"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        },
+        {
+          "name": "Julia Temos",
+          "url": "https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac"
+        }
+      ],
+      "duration_ms": 190471,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5xO9FcxJkoE2Atgyv3t5bB"
     },
     {
       "added_at": "2026-09-04 04:01:13",

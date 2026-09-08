@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Ana Laura Lopes",
-  "num_followers": 433502,
+  "num_followers": 433486,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "escapismo",
-        "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
-      },
-      "artists": [
-        {
-          "name": "Gabi Melim",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180343,
-      "name": "escapismo",
-      "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Sess\u00e3o Da Tarde",
         "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 182784,
       "name": "Sess\u00e3o Da Tarde",
       "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "escapismo",
+        "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180343,
+      "name": "escapismo",
+      "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
+        "name": "Pura Magia",
+        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 220204,
+      "name": "Pura Magia",
+      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
         "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
         "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 147374,
       "name": "Voc\u00ea \u00e9 Meu Lugar",
       "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Pura Magia",
-        "url": "https://open.spotify.com/album/6R7mMrwV8JIgnQWulpGT8X"
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
         }
       ],
-      "duration_ms": 220204,
-      "name": "Pura Magia",
-      "url": "https://open.spotify.com/track/75IBjswrHlkeuB2viQFjUs"
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -583,22 +583,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
+        "name": "Improv\u00e1vel",
+        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
       },
       "artists": [
         {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         },
         {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
+      "duration_ms": 176862,
+      "name": "Improv\u00e1vel",
+      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -639,22 +639,22 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Improv\u00e1vel",
-        "url": "https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp"
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 176862,
-      "name": "Improv\u00e1vel",
-      "url": "https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY"
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
-    },
-    {
-      "added_at": "2026-09-04 03:00:30",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
@@ -751,22 +735,18 @@
     {
       "added_at": "2026-09-04 03:00:30",
       "album": {
-        "name": "dois brilhantes",
-        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
       "artists": [
         {
-          "name": "Dado Villa-Lobos",
-          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 203311,
-      "name": "dois brilhantes",
-      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2026-09-04 03:00:30",
@@ -787,6 +767,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-09-04 03:00:30",
+      "album": {
+        "name": "dois brilhantes",
+        "url": "https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc"
+      },
+      "artists": [
+        {
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 203311,
+      "name": "dois brilhantes",
+      "url": "https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF"
     },
     {
       "added_at": "2026-09-04 03:00:30",

@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-700 songs - 2 day 7 hr 37 min
+701 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Blackout](https://open.spotify.com/track/4RWY8DxNRBMxXKOzxGOxC7) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Blackout](https://open.spotify.com/album/6vR8bleJOELtPElrr98mlA) | 3:24 | 2026-07-27 |  |
 | [Blaze \- Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Blaze](https://open.spotify.com/album/0yzwuCt5GjlnUgNDROF4ls) | 6:50 | 2022-04-15 | 2022-08-13 |
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-06-24 | 2022-07-09 |
-| [Blow](https://open.spotify.com/track/1W6Udx3d7DUMUqPpyJkYmT) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Blow](https://open.spotify.com/album/3HeYxSIsNJCFVmB8PdJCDX) | 3:25 | 2026-08-27 |  |
+| [Blow](https://open.spotify.com/track/1W6Udx3d7DUMUqPpyJkYmT) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Blow](https://open.spotify.com/album/3HeYxSIsNJCFVmB8PdJCDX) | 3:25 | 2026-08-27 | 2026-09-08 |
 | [Blue Moon Factory](https://open.spotify.com/track/6wmcUbQP8wEchVGP7574fH) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Blue Moon Factory](https://open.spotify.com/album/3mty8TsZcgFGFNJjNBua0L) | 2:49 | 2026-02-09 | 2026-07-19 |
 | [Blurred Signal](https://open.spotify.com/track/3KhfmxD6U9ll0mFgArrQTe) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [Rock Like This EP](https://open.spotify.com/album/6gSmK3aSu26VRpaaOlFqjt) | 3:20 | 2026-04-23 |  |
 | [Boavista \- Innellea's Arp Attachement](https://open.spotify.com/track/0h467C8iLWdgfW58aj0X0o) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 6:48 | 2024-02-22 | 2024-04-19 |
@@ -679,6 +679,7 @@
 | [Wanna Make Love](https://open.spotify.com/track/3caMURqkVUsWPucKqcP1Hk) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Wanna Make Love EP](https://open.spotify.com/album/6idwaXOlJDGehRthcJJcvb) | 3:46 | 2026-01-23 | 2026-03-03 |
 | [Waste my time \- Chris Avantgarde Remix](https://open.spotify.com/track/4neHoESs8fqmNpMnIEAXtg) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Waste my time \(Chris Avantgarde Remix\)](https://open.spotify.com/album/4EmF3fMksr4fa8QwPBXaUE) | 6:15 | 2026-01-23 | 2026-02-23 |
 | [We Are](https://open.spotify.com/track/04xK8T8fqpJbUZgNgcpszu) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [We Are](https://open.spotify.com/album/5VNozb6Ed3FXj34oybMBtz) | 7:29 | 2022-04-15 | 2022-07-28 |
+| [We Talk About Dreams](https://open.spotify.com/track/44FdC5CjJJwfecc7BYCE5Q) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [We Talk About Dreams](https://open.spotify.com/album/5GjfIhQtGr2GcbzxHA6yEg) | 6:10 | 2026-08-27 |  |
 | [We You](https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [We You / Track 51](https://open.spotify.com/album/4QQMFcqAbJQgseDTKeC0Ov) | 3:32 | 2023-04-28 | 2023-06-14 |
 | [We'll never have today again](https://open.spotify.com/track/0KGgm6RpZo3cC6uIkyUWnj) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [We'll never have today again](https://open.spotify.com/album/6kESj857U5yLt5c1sBHC8k) | 7:40 | 2022-04-15 | 2022-06-14 |
 | [Weather the Storm](https://open.spotify.com/track/7tukLYFGfh5osYc8uoqOmk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/671j83cAr05uMnsERPGycZ) | 4:36 | 2022-04-15 | 2022-04-21 |

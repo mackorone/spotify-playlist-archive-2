@@ -831,6 +831,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "You don't need my love?",
+      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 214773,
       "name": "Happy Alone (feat. B.I)",
       "url": "https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "Love Part 1",
-        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "You don't need my love?",
-      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
     },
     {
       "added_at": "2026-07-03 07:32:57",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,056 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,062 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Barco](https://open.spotify.com/track/1tGLvQUEzqQhKbKkLoy5L0) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV), [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [O Barco](https://open.spotify.com/album/1qs2Zw72g1HCkOI6DPXPiM) | 4:03 |
 | 2 | [RENAN](https://open.spotify.com/track/0kqXv4y60p6xqppA7aLV3i) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [RENAN](https://open.spotify.com/album/3388rmKL5EeHr5edeSiNMj) | 2:39 |
-| 3 | [Caindo em si](https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Caindo em si](https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea) | 2:50 |
-| 4 | [Arde Outra Vez](https://open.spotify.com/track/6qWzAG4F9VkgXRFGGF9Ak7) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Arde Outra Vez](https://open.spotify.com/album/3Xi7Ub3YolzcT7hy13f7kR) | 3:24 |
+| 3 | [Arde Outra Vez](https://open.spotify.com/track/6qWzAG4F9VkgXRFGGF9Ak7) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Arde Outra Vez](https://open.spotify.com/album/3Xi7Ub3YolzcT7hy13f7kR) | 3:24 |
+| 4 | [Caindo em si](https://open.spotify.com/track/2mcOLrlr3TRDZjwu6HGSyT) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c) | [Caindo em si](https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea) | 2:50 |
 | 5 | [Guardado](https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Guardado](https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W) | 3:42 |
 | 6 | [Braço Forte](https://open.spotify.com/track/4rFV6vZRBeot4BBEz4TbZk) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [Braço Forte](https://open.spotify.com/album/3yJlUXevXnAMhtdxLmJl4X) | 2:48 |
 | 7 | [Detalhes](https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Detalhes](https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H) | 3:18 |

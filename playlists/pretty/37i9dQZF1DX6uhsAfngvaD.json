@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322240,
+  "num_followers": 322242,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Coping Habits",
-        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 159863,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 400037,
       "name": "Earth To Sea",
       "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Cricket Songs",
+        "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
+      },
+      "artists": [
+        {
+          "name": "Phantom Handshakes",
+          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Cricket Songs",
+      "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Cricket Songs",
-        "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
-      },
-      "artists": [
-        {
-          "name": "Phantom Handshakes",
-          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Cricket Songs",
-      "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Blue Arcade",
-        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
       "artists": [
         {
-          "name": "Caroline Loveglow",
-          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Blue Arcade",
-      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
     }
   ],
   "unique_name": "Dreampop",

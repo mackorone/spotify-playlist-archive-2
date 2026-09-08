@@ -3235,6 +3235,32 @@
     },
     {
       "album": {
+        "name": "food 4 thought",
+        "url": "https://open.spotify.com/album/1UyGFAy9dzqupFmIHRcPP1"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Alex Bone",
+          "url": "https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158563,
+      "name": "food 4 thought",
+      "url": "https://open.spotify.com/track/6RKp3bBhPjWXnDOgXWypSQ"
+    },
+    {
+      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -7168,7 +7194,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 204586,
       "name": "NEED U",
       "url": "https://open.spotify.com/track/5BsqMztdWJHfNUry71lGfj"

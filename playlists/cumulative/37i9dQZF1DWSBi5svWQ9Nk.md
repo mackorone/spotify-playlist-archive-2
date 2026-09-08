@@ -2,7 +2,7 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 grootste hits in NL met cover: Milolaathetlukken\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
+> De 50 grootste hits in NL met cover: Milolaathetlukken
 
 666 songs - 1 day 8 hr 40 min
 

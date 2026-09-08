@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 54808,
+  "num_followers": 54813,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAAAFHW3Wj7DUcjEbPWcjvEPD",
+  "snapshot_id": "apytAAAAAACNoeZ5G3x1F+PAF4BLMImw",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empezar Desde Cero",
-        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 202576,
-      "name": "Terco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7oNNBnCsaZCNsk3TNAH8o2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Pendientes",
         "url": "https://open.spotify.com/album/3UiJZvZHh5VNDX8HM5C0oJ"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 132746,
       "name": "Besos Pendientes",
       "url": "https://open.spotify.com/track/0mxWQ2nVDq7m2QrKLewLIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 202576,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7oNNBnCsaZCNsk3TNAH8o2"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 227196,
-      "name": "Lo Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca Les Callamos, Vol. 2",
         "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 166272,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 227196,
+      "name": "Lo Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 195632,
-      "name": "En Otro Canal",
-      "url": "https://open.spotify.com/track/4RqikhkkhOa5h3C2FPWFjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Am\u00e9",
         "url": "https://open.spotify.com/album/2b6qnwUwY9qjrss0YucU1O"
       },
@@ -287,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todos Los Idiomas",
-        "url": "https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te"
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
       "artists": [
         {
@@ -296,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 175311,
-      "name": "En Todos Los Idiomas",
-      "url": "https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w"
+      "duration_ms": 195632,
+      "name": "En Otro Canal",
+      "url": "https://open.spotify.com/track/4RqikhkkhOa5h3C2FPWFjZ"
     },
     {
       "added_at": null,
@@ -323,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+        "name": "En Todos Los Idiomas",
+        "url": "https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te"
       },
       "artists": [
         {
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 228863,
-      "name": "A Decir Verdad",
-      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
+      "duration_ms": 175311,
+      "name": "En Todos Los Idiomas",
+      "url": "https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
       "duration_ms": 181034,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 228863,
+      "name": "A Decir Verdad",
+      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca Les Callamos, Vol. 2",
         "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 151509,
       "name": "Nuestro Secreto Ser\u00e1",
       "url": "https://open.spotify.com/track/6LC5B96OY8bi4RjYB72wSv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Bingo",
-      "url": "https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Sale Bien",
         "url": "https://open.spotify.com/album/1vm2Uy33Mrv1WNpWxQ0xLv"
       },
@@ -531,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque me Dejes en Visto",
-        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
       },
       "artists": [
         {
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 157323,
-      "name": "Aunque me Dejes en Visto",
-      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
+      "duration_ms": 161853,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/5zHkCFv17jKavqJPRZITWJ"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Equiv\u00f3cate",
-        "url": "https://open.spotify.com/album/5DpbtwxV4sqyZkuqpM0oPd"
+        "name": "Aunque me Dejes en Visto",
+        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
       },
       "artists": [
         {
@@ -572,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 165681,
-      "name": "Equiv\u00f3cate",
-      "url": "https://open.spotify.com/track/6OXyxuhCCDlSua9AtR47jZ"
+      "duration_ms": 157323,
+      "name": "Aunque me Dejes en Visto",
+      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 196964,
       "name": "Te Hice Mal",
       "url": "https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Equiv\u00f3cate",
+        "url": "https://open.spotify.com/album/5DpbtwxV4sqyZkuqpM0oPd"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Equiv\u00f3cate",
+      "url": "https://open.spotify.com/track/6OXyxuhCCDlSua9AtR47jZ"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como una Fiera",
+        "url": "https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 167509,
+      "name": "Como una Fiera",
+      "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Derrumb\u00e9 a Tus Pies",
         "url": "https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 204970,
       "name": "Me Derrumb\u00e9 a Tus Pies",
       "url": "https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como una Fiera",
-        "url": "https://open.spotify.com/album/3y6ZgAAV5YwdyMuFOwpCJf"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 167509,
-      "name": "Como una Fiera",
-      "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"
     },
     {
       "added_at": null,

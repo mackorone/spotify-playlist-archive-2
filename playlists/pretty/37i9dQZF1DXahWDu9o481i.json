@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KAROL G, rusowsky, Judeline.",
-  "num_followers": 114642,
+  "num_followers": 114668,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "AH HA",
-        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "AH HA",
-      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Indecision (feat. Daniel Caesar)",
         "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 186000,
       "name": "Indecision (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -395,6 +395,26 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Pure Devotion",
         "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 153600,
       "name": "Try and Fail (feat. SoFaygo)",
       "url": "https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "DADAMAN",
-      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Gentlewoman",
         "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 220986,
       "name": "Let Me Cry",
       "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "rwm",
-        "url": "https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY"
-      },
-      "artists": [
-        {
-          "name": "the booyah! kids",
-          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
-        }
-      ],
-      "duration_ms": 150615,
-      "name": "rwm",
-      "url": "https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Lean On",
         "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "rwm",
+        "url": "https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY"
+      },
+      "artists": [
+        {
+          "name": "the booyah! kids",
+          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+        }
+      ],
+      "duration_ms": 150615,
+      "name": "rwm",
+      "url": "https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -675,18 +675,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "The Fountain",
-        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
         }
       ],
-      "duration_ms": 205000,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "the cops are coming",
-        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
+        "name": "The Fountain",
+        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
       },
       "artists": [
         {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 193615,
-      "name": "the cops are coming",
-      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
+      "duration_ms": 205000,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "The Seams",
+        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 316400,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "The Seams",
-        "url": "https://open.spotify.com/album/5i1STWes0AzzRgtk4K0Ydt"
+        "name": "fue fuerte saber que t\u00fa ya no sientes",
+        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
       },
       "artists": [
         {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
         }
       ],
-      "duration_ms": 316400,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
+      "duration_ms": 192000,
+      "name": "fue fuerte saber que t\u00fa ya no sientes",
+      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -823,22 +839,6 @@
       "duration_ms": 166840,
       "name": "SYW (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "fue fuerte saber que t\u00fa ya no sientes",
-        "url": "https://open.spotify.com/album/32HFxfjGgSHYRO3mofPVyR"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "fue fuerte saber que t\u00fa ya no sientes",
-      "url": "https://open.spotify.com/track/1iqjeIztbOtE7lnBmIj9N0"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Seethe",
-        "url": "https://open.spotify.com/album/3UBJnVsxBJ61rit0lJ1xk8"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
-        }
-      ],
-      "duration_ms": 197285,
-      "name": "Seethe",
-      "url": "https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Havin It",
         "url": "https://open.spotify.com/album/7gZX31sOoKUUizfyPi5CI6"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 121237,
       "name": "Havin It",
       "url": "https://open.spotify.com/track/6XOfrMCBPdaFanP4IeSMnB"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Seethe",
+        "url": "https://open.spotify.com/album/3UBJnVsxBJ61rit0lJ1xk8"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Seethe",
+      "url": "https://open.spotify.com/track/4eYfOnJz3APqGzWPwWtC5r"
     },
     {
       "added_at": "2026-09-01 04:00:27",

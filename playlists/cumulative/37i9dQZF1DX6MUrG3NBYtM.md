@@ -2,7 +2,7 @@
 
 ### [indie noise on noise cancelling headphones](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> Naaz kiest 20 indie tracks voor de zomer\. <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
+> The best indie picks\. Cover: Naaz
 
 317 songs - 19 hr 16 min
 

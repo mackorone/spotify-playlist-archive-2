@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Deb Fan
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,626 likes - 131 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,624 likes - 129 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,11 +133,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 123 | [landline](https://open.spotify.com/track/7bA9FyHOtBaI2iCA1zK1z7) | [.btec](https://open.spotify.com/artist/3ywdE8lVfcf7MB8DWcYvy8) | [landline](https://open.spotify.com/album/4ngXOiBUrnT2N78k2XMLnH) | 4:22 |
 | 124 | [Custom\-made girl](https://open.spotify.com/track/0OM92xUctrtfSx2Gocn9Va) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [Custom\-made girl](https://open.spotify.com/album/3Ua9hbiIAzX4NmuGBZVhhu) | 3:03 |
 | 125 | [The Reason](https://open.spotify.com/track/02ICRIj52ntml18khwSWHh) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [The Reason](https://open.spotify.com/album/1Yyz2u4loJ2ltgtR0uVFE6) | 4:17 |
-| 126 | [Gin & T](https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Gin & T](https://open.spotify.com/album/2apNxOFeZC8xvQJkhFLllx) | 3:49 |
-| 127 | [Figure Eight](https://open.spotify.com/track/0QvLNAmChmIxtuiHQRcK8x) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Figure Eight / Then You're Here Again](https://open.spotify.com/album/0uuVQfkEALS6HEAjnA7F5M) | 2:57 |
-| 128 | [DOWN!](https://open.spotify.com/track/4ZiIxuyiw2CGWUZwo2MUlx) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [HOW HIGH](https://open.spotify.com/album/4cZivAxSgzYXbegNhaWd4B) | 4:05 |
-| 129 | [YOU](https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so) | [Elly C](https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda) | [YOU](https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs) | 4:09 |
-| 130 | [Pandora's Box](https://open.spotify.com/track/3XsfXT3LPFxbX0y1IOj06N) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Pandora's Box](https://open.spotify.com/album/18mEhuXOgTnx1VGH7Uk3Rb) | 4:34 |
-| 131 | [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 |
+| 126 | [Figure Eight](https://open.spotify.com/track/0QvLNAmChmIxtuiHQRcK8x) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Figure Eight / Then You're Here Again](https://open.spotify.com/album/0uuVQfkEALS6HEAjnA7F5M) | 2:57 |
+| 127 | [DOWN!](https://open.spotify.com/track/4ZiIxuyiw2CGWUZwo2MUlx) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [HOW HIGH](https://open.spotify.com/album/4cZivAxSgzYXbegNhaWd4B) | 4:05 |
+| 128 | [YOU](https://open.spotify.com/track/5UZdQdSdJ5l7xRSiKW24so) | [Elly C](https://open.spotify.com/artist/70BawCx2NZDdvo6BIv9Uda) | [YOU](https://open.spotify.com/album/6SZSArjw7j3ktFtKhH0sbs) | 4:09 |
+| 129 | [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 |
 
-Snapshot ID: `AAAAAGlGEE0B/OGOhFMPSh6B53e6riah`
+Snapshot ID: `AAAAAMv9J2Q2+4iyMKZZiX46BieroS96`

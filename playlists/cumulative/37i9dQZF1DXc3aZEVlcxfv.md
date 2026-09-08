@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-680 songs - 1 day 21 hr 38 min
+681 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Halleluyah](https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Halleluyah](https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB) | 6:56 | 2025-10-10 |  |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-05-02 |
 | [Happy Song](https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Happy Song](https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX) | 2:27 | 2026-04-24 |  |
-| [He Has Done It](https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [He Has Done It](https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9) | 8:23 | 2026-07-31 |  |
+| [He Has Done It](https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [He Has Done It](https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9) | 8:23 | 2026-07-31 | 2026-09-08 |
 | [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-09-27 | 2025-02-28 |
 | [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-09 | 2026-04-28 |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-09-27 |  |
@@ -327,6 +327,7 @@
 | [Impossibility Shatterer](https://open.spotify.com/track/4NCR1DUnHd1HHrCRfJu68P) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Yeshua \(The Summary Of My Life\)](https://open.spotify.com/album/7dgezebPDcF3quISA1VeiS) | 3:24 | 2026-03-27 |  |
 | [In a Moment](https://open.spotify.com/track/6hXaqgI3uo1uEWtjLvYlPc) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [In a Moment](https://open.spotify.com/album/63OTquAxu2oEjdzUsHNSvr) | 4:21 | 2025-06-20 | 2026-03-13 |
 | [In Awe](https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [In Awe](https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs) | 4:39 | 2026-03-13 | 2026-05-15 |
+| [In Jesus Name](https://open.spotify.com/track/4JMNYZafD1qOGGzjcuwMMr) | [JOHN GODFREY](https://open.spotify.com/artist/5ApfHPATrv1gdJ45DaRA9X), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A) | [In Jesus Name](https://open.spotify.com/album/03cgv9Da0IDejNAKiqeS6p) | 7:01 | 2026-09-04 |  |
 | [In My Boat](https://open.spotify.com/track/1KfbRIYua7t2d7340wL3Pq) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Fredline Tranchant](https://open.spotify.com/artist/6WC1N4VunFwMPSvu6Av7F2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [In My Boat](https://open.spotify.com/album/1gNeR5MQYfh2GhdCawVS3H) | 4:17 | 2024-11-29 | 2025-03-28 |
 | [In The Morning](https://open.spotify.com/track/4vnoUMjWbOrQEy7hfywL9N) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [In The Morning](https://open.spotify.com/album/6ps5NRVVLIFsX960BqDIbO) | 2:40 | 2024-11-29 | 2025-02-28 |
 | [In The Room \(feat\. Tasha Cobbs Leonard, Chandler Moore, Naomi Raine\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 | 2024-11-22 | 2025-11-28 |

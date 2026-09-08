@@ -1,6 +1,6 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29091,
+  "num_followers": 29094,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Ninja",
-        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 176193,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "bajare",
         "url": "https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147898,
       "name": "bajare",
       "url": "https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 176193,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "El Mejor Verano",
-        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 191660,
-      "name": "El Mejor Verano",
-      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "El Mejor Verano",
+        "url": "https://open.spotify.com/album/6w9lcRPcMTMagZPNFNhZxh"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 191660,
+      "name": "El Mejor Verano",
+      "url": "https://open.spotify.com/track/1Ss5dMCxLRBPuZ5tMjTQl0"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Una Herida Y Un Adi\u00f3s",
+        "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
+      },
+      "artists": [
+        {
+          "name": "Un Verano",
+          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
+        }
+      ],
+      "duration_ms": 107865,
+      "name": "Una Herida Y Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Una Herida Y Un Adi\u00f3s",
-        "url": "https://open.spotify.com/album/6gcvjfv3oLAHg5LYDLt4QL"
-      },
-      "artists": [
-        {
-          "name": "Un Verano",
-          "url": "https://open.spotify.com/artist/2vaSBYGcW5v46jnDdXhawN"
-        }
-      ],
-      "duration_ms": 107865,
-      "name": "Una Herida Y Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/5lucxvkqKHg0i6b4Dru8hw"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "+ de cerquita",
-        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "c\u00e1bala (+ de cerquita)",
-      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "No hay nadie como t\u00fa",
         "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
     },
     {
       "added_at": "2026-08-20 22:49:00",

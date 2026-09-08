@@ -6897,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "CHERRY COKE",
+        "url": "https://open.spotify.com/album/652CAnbrC6xHKad2VLbL0M"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "date_added": "2026-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "CHERRY COKE",
+      "url": "https://open.spotify.com/track/2QQJy4BnIdCDZheXgGF8Km"
+    },
+    {
+      "album": {
         "name": "CHERRY PIE",
         "url": "https://open.spotify.com/album/5bTJO3Nx3Ii8Y23nWgbG0z"
       },
@@ -69304,7 +69322,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 235837,
       "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: nat cichocka
 
-969 songs - 1 day 23 hr 18 min
+970 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-05 | 2025-07-11 |
 | [fotki](https://open.spotify.com/track/6TA7gJh2nvKnCgIHaxTH2H) | [PK sisters](https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P) | [fotki](https://open.spotify.com/album/2joFyfzqVnUz8GT3fIH9aN) | 2:52 | 2024-06-28 | 2024-09-28 |
 | [Fotografie](https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Fotografie](https://open.spotify.com/album/4Prxn72y9YA75P2T9aQ5CP) | 2:27 | 2025-06-05 | 2025-07-18 |
-| [Francuskie pocałunki](https://open.spotify.com/track/6y23ZdgplPyXUaF44n9pBJ) | [Martyna Wrochna](https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0) | [Francuskie pocałunki](https://open.spotify.com/album/0kbd9oL7m7hcCFeRZz6Zar) | 3:05 | 2026-08-13 |  |
+| [Francuskie pocałunki](https://open.spotify.com/track/6y23ZdgplPyXUaF44n9pBJ) | [Martyna Wrochna](https://open.spotify.com/artist/6bDtZgCcEV7naaRe0ynqQ0) | [Francuskie pocałunki](https://open.spotify.com/album/0kbd9oL7m7hcCFeRZz6Zar) | 3:05 | 2026-08-13 | 2026-09-08 |
 | [fuck, i’m yours?](https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [fuck, i’m yours?](https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm) | 2:47 | 2026-03-05 | 2026-05-30 |
 | [Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/track/5rKzLUEtVMc3HQXD5AYIfK) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Casting / Fuckboy \(Chciałbyś więcej\)](https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4) | 2:53 | 2025-03-27 | 2025-08-01 |
 | [Gadać albo milczeć](https://open.spotify.com/track/2AtHnPQ1SoNmwTe8Ag4n8J) | [Wilhelm](https://open.spotify.com/artist/7jxBlr52pdoKTrrjehTunc) | [Gadać albo milczeć](https://open.spotify.com/album/6IZBWIMJxXW3fwMbOJYAIZ) | 3:04 | 2024-11-07 | 2025-01-24 |
@@ -382,6 +382,7 @@
 | [Kompleks Boga](https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Szymon Pałyz](https://open.spotify.com/artist/6hyNPMwg4ERl3hk2W4Kxdz) | [Kompleks Boga](https://open.spotify.com/album/0VztBtq2zkNSBwVrcUDktK) | 3:07 | 2025-07-31 | 2025-11-19 |
 | [Koniec](https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Koniec](https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO) | 3:25 | 2025-11-04 | 2026-01-17 |
 | [Korony drzew](https://open.spotify.com/track/2TPyB6p0P5bfIDGHgnw5aZ) | [MENT](https://open.spotify.com/artist/3u7qU72tVErX5mWw2ZPyev), [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Miły ATZ](https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE) | [Korony drzew](https://open.spotify.com/album/3bfzPdXHxKnZoJnwr8yG7t) | 3:16 | 2025-09-16 | 2025-11-12 |
+| [Korzenie](https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Korzenie](https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX) | 3:14 | 2026-09-03 |  |
 | [Kosmosy](https://open.spotify.com/track/1pJutt0aXEbS1uuFu2qK6w) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP) | [Kosmosy](https://open.spotify.com/album/30I9WyETvOCanXQFRxJqN7) | 2:55 | 2024-07-04 | 2024-11-22 |
 | [Koszta](https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Koszta](https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4) | 2:51 | 2025-04-17 | 2025-06-16 |
 | [Koło mnie](https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Koło mnie](https://open.spotify.com/album/1iQrmb16dKa2BmbrMfEGz8) | 3:28 | 2024-07-04 | 2024-11-29 |

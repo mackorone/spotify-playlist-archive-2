@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: JAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,470 likes - 91 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,430 likes - 91 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 20 | [Dir gehört die Welt](https://open.spotify.com/track/3T1knCX9pwR15QuyPtBKGp) | [Peter Maffay](https://open.spotify.com/artist/5W3s4beu23rOlseCbVOp4l), [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Dir gehört die Welt](https://open.spotify.com/album/3wcBR706AgmF12JbGHlrk8) | 2:55 |
 | 21 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
 | 22 | [Irgendwer Anders](https://open.spotify.com/track/1BXrlo0Z2doTh4gnAp2iUr) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Irgendwer Anders](https://open.spotify.com/album/6W0EFXD8rJjawKKKNflM7R) | 2:40 |
-| 23 | [hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
+| 23 | [Hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
 | 24 | [Was du nicht siehst](https://open.spotify.com/track/4J19Wgpl3k1mNzaCWbEWsG) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Was du nicht siehst](https://open.spotify.com/album/2kAwZrc9hLYkS8O0W5xBeH) | 2:40 |
 | 25 | [es wird alles gut](https://open.spotify.com/track/7nrj5WCNiTjzf0ppQX22qL) | [LEVKA](https://open.spotify.com/artist/1npJSBTSN3anXxBFZlLi88) | [es wird alles gut](https://open.spotify.com/album/4GdnYEQ7jAJ9YElnKWJUpM) | 2:43 |
 | 26 | [zwei Punkte](https://open.spotify.com/track/3BPBWV7zlW6uxSl3PESNGM) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [zwei Punkte](https://open.spotify.com/album/3r9tv3JtPKKbJd6Hxp7omI) | 3:15 |

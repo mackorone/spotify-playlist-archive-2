@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Empieza el mes patrio como se debe en compañía de Chino Pacas y muchas rolitas bien perronas <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,171 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,059 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 25 | [El Quelite \- De la serie "Mal De Amores"](https://open.spotify.com/track/1LgNJvrcdqy8GqM6AnsgTP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [El Quelite \(De la serie "Mal De Amores"\)](https://open.spotify.com/album/0DygQgiQ0c1NjstgGJW8TI) | 3:15 |
 | 26 | [¿Cuándo Nos Vemos?](https://open.spotify.com/track/5uxC2ED41ci4o0D0SIlzxA) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [¿Cuándo Nos Vemos?](https://open.spotify.com/album/0dBDGTV21XafpJU2Uc0hET) | 4:26 |
 | 27 | [Dónde estás](https://open.spotify.com/track/7Aqb1fB7RvYgQMau49kmxh) | [Barbas](https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Dónde estás](https://open.spotify.com/album/1YNY6FuHtCPFJ3s58JSyB5) | 2:39 |
-| 28 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
+| 28 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 29 | [BBY GIRL](https://open.spotify.com/track/1JIFUl0fjoJf3jIlN0fAmb) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [BBY GIRL](https://open.spotify.com/album/1wO2kRyDspoPWjs6iXuG80) | 3:11 |
 | 30 | [Mi Pensamiento Favorito](https://open.spotify.com/track/0KQ0tk2xmgmYbXiohLtPus) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Mi Pensamiento Favorito](https://open.spotify.com/album/1ZlMxRVK8otaYkITnkMi8p) | 3:54 |
 | 31 | [Ramo de Rosas](https://open.spotify.com/track/0fluqftppS6Smkm2Kzxp8N) | [Germán Barceló](https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ) | [Volver a México](https://open.spotify.com/album/2JoTy3eni2aPuSJMZs9qwD) | 2:48 |

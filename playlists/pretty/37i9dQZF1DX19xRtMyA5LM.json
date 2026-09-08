@@ -1,12 +1,12 @@
 {
-  "description": "\u2757\ufe0fNieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer. <a href=\"spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY\">Check hier de beste zomer aanbevelingen!</a>",
-  "num_followers": 702640,
+  "description": "\u2757\ufe0fNieuwe tracks: Jordymone9, Jack, Frsh & Mensa en meer. ",
+  "num_followers": 702620,
   "original_name": "Woordenschat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVRU87rWLMR9BwKxA/d4zkc/bSL",
+  "snapshot_id": "AAAAAH+DCMkweVJmHwycIigIvagG+K5q",
   "tracks": [
     {
       "added_at": "2026-09-04 08:57:49",
@@ -39,6 +39,26 @@
       "duration_ms": 196000,
       "name": "STRAAT VAN HORMUZ",
       "url": "https://open.spotify.com/track/1EkX8cuRcpKKuAzUch3ALF"
+    },
+    {
+      "added_at": "2026-09-04 08:57:49",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "duration_ms": 166159,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
     },
     {
       "added_at": "2026-09-04 08:57:49",
@@ -95,26 +115,6 @@
     {
       "added_at": "2026-09-04 08:57:49",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        }
-      ],
-      "duration_ms": 166159,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
-    },
-    {
-      "added_at": "2026-09-04 08:57:49",
-      "album": {
         "name": "Gun Me",
         "url": "https://open.spotify.com/album/4WMNReftTwjeDbLllr3ZXX"
       },
@@ -143,6 +143,30 @@
       "duration_ms": 155294,
       "name": "Gun Me",
       "url": "https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH"
+    },
+    {
+      "added_at": "2026-09-04 08:57:49",
+      "album": {
+        "name": "49",
+        "url": "https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Topperig",
+          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
+        },
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "uit de bocht",
+      "url": "https://open.spotify.com/track/2F8xdub8zP74OzvI1DpzhH"
     },
     {
       "added_at": "2026-09-04 08:57:49",
@@ -179,26 +203,18 @@
     {
       "added_at": "2026-09-04 08:57:49",
       "album": {
-        "name": "49",
-        "url": "https://open.spotify.com/album/7k7sdwAHlpqWW9fmxmn6w6"
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf"
       },
       "artists": [
         {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Topperig",
-          "url": "https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu"
-        },
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+          "name": "Boufi",
+          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
         }
       ],
-      "duration_ms": 168387,
-      "name": "uit de bocht",
-      "url": "https://open.spotify.com/track/2F8xdub8zP74OzvI1DpzhH"
+      "duration_ms": 120000,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD"
     },
     {
       "added_at": "2026-09-04 08:57:49",
@@ -231,22 +247,6 @@
       "duration_ms": 120000,
       "name": "Alleen Jij",
       "url": "https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT"
-    },
-    {
-      "added_at": "2026-09-04 08:57:49",
-      "album": {
-        "name": "Prada",
-        "url": "https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf"
-      },
-      "artists": [
-        {
-          "name": "Boufi",
-          "url": "https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD"
     },
     {
       "added_at": "2026-09-04 08:57:49",

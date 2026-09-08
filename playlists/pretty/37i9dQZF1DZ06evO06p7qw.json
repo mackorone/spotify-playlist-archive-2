@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 197606,
+  "num_followers": 197634,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAABlPpKh7fs7WVwZ2rNw7WwJ",
+  "snapshot_id": "apytAAAAAAAKf9lrvw9M5Cwxkb5HoPrv",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
-        "url": "https://open.spotify.com/album/78LoJthaoIuMaRNZGduMdh"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 244262,
-      "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No S\u00e9 Si Salga El Sol (Remix)",
         "url": "https://open.spotify.com/album/4UVV1F929dzhwavk2GQkKD"
       },
@@ -103,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Munay",
         "url": "https://open.spotify.com/album/0FgVN5QSvcQFhPtaAMVDpG"
       },
@@ -135,6 +99,22 @@
       "duration_ms": 235611,
       "name": "Complicidad (feat. Manuel Medrano)",
       "url": "https://open.spotify.com/track/6lah9kMrDgQDcPLgmJfRdG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": null,
@@ -175,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 256948,
-      "name": "Si Pudiera",
-      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
       },
@@ -207,6 +171,22 @@
       "duration_ms": 204069,
       "name": "Lib\u00e9rame",
       "url": "https://open.spotify.com/track/5IgT4a0gDbYJmnlULuiwuc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 256948,
+      "name": "Si Pudiera",
+      "url": "https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8"
     },
     {
       "added_at": null,
@@ -247,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 229405,
-      "name": "Afuera Del Planeta",
-      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp"
       },
@@ -279,6 +243,22 @@
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 229405,
+      "name": "Afuera Del Planeta",
+      "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
     },
     {
       "added_at": null,
@@ -319,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 169398,
-      "name": "Donde Nadie Pueda Ir",
-      "url": "https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elementales",
         "url": "https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo"
       },
@@ -351,6 +315,22 @@
       "duration_ms": 227875,
       "name": "C\u00f3mo Haces",
       "url": "https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 169398,
+      "name": "Donde Nadie Pueda Ir",
+      "url": "https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv"
     },
     {
       "added_at": null,
@@ -387,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 183926,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mucho M\u00e1s Que Ayer",
         "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
       },
@@ -415,6 +379,22 @@
       "duration_ms": 222400,
       "name": "Mucho M\u00e1s Que Ayer",
       "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 248687,
+      "name": "La Mujer Que Bota Fuego",
+      "url": "https://open.spotify.com/track/236RkCUAucOj7QXfeVWOfA"
     },
     {
       "added_at": null,
@@ -927,6 +907,26 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mosaico Pirata",
+        "url": "https://open.spotify.com/album/7e9TPw9GhQrRiKwD0V5EXT"
+      },
+      "artists": [
+        {
+          "name": "Duplat",
+          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/4iJRJffhKJVjTUui6J8Vtl"
     },
     {
       "added_at": null,

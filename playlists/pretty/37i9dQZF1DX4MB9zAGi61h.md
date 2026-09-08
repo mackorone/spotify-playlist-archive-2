@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 ### [Cozy Felt Piano](https://open.spotify.com/playlist/37i9dQZF1DX4MB9zAGi61h)
 
-> Close Mic, Muted Strings
+> Close Mic, Muted Strings, Cozy Vibes 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324 likes - 82 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,347 likes - 82 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 81 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 |
 | 82 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 |
 
-Snapshot ID: `AAAAAEShY+/XNF6OKcEEuArvaqjVepci`
+Snapshot ID: `AAAAAJe2LsB6QRNi9lmLklQcwNTu9mpm`

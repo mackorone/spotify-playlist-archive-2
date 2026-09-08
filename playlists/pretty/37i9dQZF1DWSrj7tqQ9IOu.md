@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,500 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,502 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 12 | [FYNE](https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:29 |
 | 13 | [I Just Play A Part \- feat\. DJ Creole Princess, Westside Gunn, Joi](https://open.spotify.com/track/6sQXBtFI3ouCLocFLWnBaS) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [DJ Creole Princess](https://open.spotify.com/artist/0xcW77kyXGtKikkJJKjnAX), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joi](https://open.spotify.com/artist/465zsHFUjQH4sQPdHIbqIf) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:22 |
-| 14 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy) | 2:48 |
-| 15 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
-| 16 | [Bye Bye .](https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Bye Bye .](https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S) | 2:46 |
+| 14 | [Bye Bye .](https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Bye Bye .](https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S) | 2:46 |
+| 15 | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/track/2o0quqVps5WtMhiuzswkV1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DIFFERENCE \[Feat\. Yebba\]](https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy) | 2:48 |
+| 16 | [I Cry in Front of Paintings](https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [I Cry in Front of Paintings](https://open.spotify.com/album/4V7zThL5VnJz7qgrFQ0XxH) | 2:55 |
 | 17 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
 | 18 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 19 | [Traces \(feat\. SDM\)](https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Traces \(feat\. SDM\)](https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP) | 3:14 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Par le vide](https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Par le vide](https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw) | 3:28 |
 | 40 | [like never before](https://open.spotify.com/track/3mPrY6npWtvBr5IaWCRyU9) | [Veridis Project](https://open.spotify.com/artist/1JcJ1nR9qZhx2GCX0MM8Up) | [like never before](https://open.spotify.com/album/3Sq2QOvCweTzhXp7rIy8py) | 2:11 |
 
-Snapshot ID: `AAAAADVGOS1uSKMGWu/v7P9BP1GQL/JT`
+Snapshot ID: `AAAAAM0usxwDn5OoBJ+XtBt7oY1GXh8o`

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-862 songs - 2 day 0 hr 41 min
+863 songs - 2 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [manase](https://open.spotify.com/track/2rAkyTAdRsQmqUMQaOC5jj) | [cavya sound](https://open.spotify.com/artist/1bHLrn1seutyUjIUCJnMyj), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [manase](https://open.spotify.com/album/4e9da6j9leq62ET06iCrGK) | 3:30 | 2026-04-16 |  |
 | [Manase](https://open.spotify.com/track/3y99gwxzYZAmDZSwStWD6N) | [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Manase](https://open.spotify.com/album/3swHZKoMAmokLakWLNecto) | 2:44 | 2024-06-07 | 2024-12-06 |
 | [Manasu Mattume](https://open.spotify.com/track/6MPLKOG3Y05uI7wcmwAjZE) | [Siennor](https://open.spotify.com/artist/7llcZ59fwsSv4nEx3mgu31) | [Manasu Mattume](https://open.spotify.com/album/0g5fCX40MYY9lJxKr09tvi) | 3:05 | 2025-05-02 | 2025-07-25 |
-| [Mande Odu](https://open.spotify.com/track/6tNCgBEoagUn4kV1mGt6MH) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Mande Odu](https://open.spotify.com/album/3GM7apWz8pKSMQRxVWfAue) | 3:47 | 2026-04-22 |  |
+| [Mande Odu](https://open.spotify.com/track/6tNCgBEoagUn4kV1mGt6MH) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6) | [Mande Odu](https://open.spotify.com/album/3GM7apWz8pKSMQRxVWfAue) | 3:47 | 2026-04-22 | 2026-09-08 |
 | [Manidha](https://open.spotify.com/track/4JQDUgiZD9wqDiA6Aza5Rs) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu), [Prawin Ganesh](https://open.spotify.com/artist/4PDzwP2wyBqHYfjWdaf3ae) | [Manidha](https://open.spotify.com/album/0NAdnBQzZNm3IGqkr6kLnm) | 4:31 | 2023-09-15 | 2024-05-04 |
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 | 2023-11-29 |
 | [Manithakaari Sevvi](https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5) | [Revaa](https://open.spotify.com/artist/3DhIQFmfDUjsiW0S0OqmCc), [Bshaa](https://open.spotify.com/artist/6irJTMyYRu8hCEuOOsPRMh), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Manithakaari Sevvi](https://open.spotify.com/album/7xWL735eBbUjdHKPBXL7f0) | 5:22 | 2024-03-08 | 2024-10-12 |
@@ -689,6 +689,7 @@
 | [Thaakurom Thookurom \(From "Cold Call"\)](https://open.spotify.com/track/7MPn5dXqTAAsVH9GSfmKYl) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Armious](https://open.spotify.com/artist/2Lwen2O86tyquPdASmAkY8), [El Fe' Choir](https://open.spotify.com/artist/51Y4Ww9zzmDL0wX552LyX7) | [Thaakurom Thookurom \(From "Cold Call"\)](https://open.spotify.com/album/5Ytt5JE4BHhKaSeUDENw16) | 3:54 | 2026-01-16 | 2026-02-06 |
 | [Thaaye](https://open.spotify.com/track/2tC6NKLWE0kkDcgWPy7rml) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Thaaye](https://open.spotify.com/album/5zeW1rAchG4xtwGECHXsGX) | 4:55 | 2023-09-22 | 2024-04-02 |
 | [Thaayumanaval](https://open.spotify.com/track/3bzbYkGu9bLYqGQXsH6gTf) | [Keshav Ram](https://open.spotify.com/artist/4ei0xbxMaki87T5fQIANx7), [Srimathi](https://open.spotify.com/artist/6MHzZZUYcNVfYQCIMxjxMX), [LOGI DARAN](https://open.spotify.com/artist/583CGxjrYJoN2wYs1cXgff) | [Thaayumanaval](https://open.spotify.com/album/7e3O2ud9oEvO7PsZHMLDmp) | 2:58 | 2025-03-19 | 2025-03-30 |
+| [Thadukkum](https://open.spotify.com/track/4tF023ow90DkHA7ycMVvrm) | [Sriram Srinivasan](https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ), [K.A.Surya Srihari](https://open.spotify.com/artist/3C32UCuRWk1ANsoGyGXIqh), [ParthaSarathi](https://open.spotify.com/artist/0GiCGz0OMwab6QvzZ1oKfb) | [Thadukkum](https://open.spotify.com/album/5fsc83F9vzwR5kumAkCPg6) | 3:16 | 2026-09-07 |  |
 | [Thaedi Thaedi](https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no) | [Shankara](https://open.spotify.com/artist/5XesAyDCfSO2lx0U3bDK2U), [Shreyaa Srinivasan](https://open.spotify.com/artist/4CiHuJC6WQIngy0CBv9XEP) | [En Kadhalum](https://open.spotify.com/album/5pCbSjKNmk6A9l77QthRXB) | 4:20 | 2026-02-23 | 2026-07-20 |
 | [Thaimayo](https://open.spotify.com/track/2pl0P5Tnepb6NMCeyPx1xv) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Thaimayo](https://open.spotify.com/album/0WLB1iGxYMJsX6xtlmxz9b) | 4:03 | 2026-05-11 |  |
 | [Thakam illai yendrale](https://open.spotify.com/track/76rjmcyamoT5M5kZVmKWic) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [Mansi Marshalla](https://open.spotify.com/artist/1IHD6Wz6CXiAOzMzJ9VG6R) | [Thakam illai yendrale](https://open.spotify.com/album/033c6uLf6rLulZOBBwG5j4) | 3:59 | 2024-11-19 | 2024-12-06 |

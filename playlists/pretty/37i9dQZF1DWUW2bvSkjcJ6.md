@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Miley Cyrus, Tokio Hotel, THIZZY52, Ellie Goulding, Travis Scott & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,975 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,934 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 62 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
 | 63 | [Bist du grade allein ?](https://open.spotify.com/track/7u8mwWpa107w8HEqoQF32C) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Bist du grade allein ?](https://open.spotify.com/album/4RIDK1NHgPrPe1LehdCvF5) | 3:05 |
 | 64 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 |
-| 65 | [hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
+| 65 | [Hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
 | 66 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
 | 67 | [leben ist zu kurz](https://open.spotify.com/track/2nxVHGTRD03HdGfA3Lsb9s) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [leben ist zu kurz](https://open.spotify.com/album/1nGykqpjpJ4clcquixImbS) | 2:08 |
 | 68 | [It's Love](https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK) | [It's Love](https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX) | 3:15 |

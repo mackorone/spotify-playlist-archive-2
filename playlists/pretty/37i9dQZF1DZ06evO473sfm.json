@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 617480,
+  "num_followers": 617692,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aptbgAAAAAA+1S+lPVNNH1qJY1v9vg0L",
+  "snapshot_id": "apytAAAAAADVgi73BNCJhjDWLJg3nXM4",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159552,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco X Volver",
         "url": "https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 194224,
       "name": "Una vida juntos",
       "url": "https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159552,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
     },
     {
       "added_at": null,
@@ -915,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2NQNYRmkftSlFJdchBTwC1"
       },
       "artists": [
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 183500,
-      "name": "BESES ASI",
-      "url": "https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG"
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5L333gqeSv8XYJ0bSFg5BZ"
     },
     {
       "added_at": null,
@@ -951,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2NQNYRmkftSlFJdchBTwC1"
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
       },
       "artists": [
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5L333gqeSv8XYJ0bSFg5BZ"
+      "duration_ms": 183500,
+      "name": "BESES ASI",
+      "url": "https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG"
     },
     {
       "added_at": null,

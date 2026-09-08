@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 820575,
+  "num_followers": 820660,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Whiskey Shivers",
-        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Shivers",
-          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "PHTHALO",
         "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 212500,
       "name": "The Glowing",
       "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Whiskey Shivers",
+        "url": "https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Shivers",
+          "url": "https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Open Up Your Mind",
         "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 184178,
       "name": "Open Up Your Mind",
       "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Bottom of the River",
-        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Bottom of the River",
-      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Dark Feathers",
         "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+        "name": "Bottom of the River",
+        "url": "https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED"
       },
       "artists": [
         {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
         }
       ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
+      "duration_ms": 201240,
+      "name": "Bottom of the River",
+      "url": "https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -715,6 +699,22 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
         "name": "False Lankum",
         "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Salt For Salt",
-        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 198132,
-      "name": "Chairkickers",
-      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Country Is Dead",
         "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 222680,
       "name": "Alone And Forsaken",
       "url": "https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Salt For Salt",
+        "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 198132,
+      "name": "Chairkickers",
+      "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
+        "name": "Dancing On My Grave",
+        "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "Dancing On My Grave",
+      "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
         "name": "Black Dog Sin",
         "url": "https://open.spotify.com/album/1nRFcm0e5wDmejKX2HgQhB"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 270733,
       "name": "Underneath the Blood Moon",
       "url": "https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
-        "name": "Dancing On My Grave",
-        "url": "https://open.spotify.com/album/55hhPvNq0SAlwqGU86roex"
-      },
-      "artists": [
-        {
-          "name": "Muireann Bradley",
-          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "Dancing On My Grave",
-      "url": "https://open.spotify.com/track/70EO6IeFVuddMLBS7Qmg46"
     },
     {
       "added_at": "2026-09-04 04:01:39",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-04 04:01:39",
       "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
-    },
-    {
-      "added_at": "2026-09-04 04:01:39",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 180253,
       "name": "Moving",
       "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
+    },
+    {
+      "added_at": "2026-09-04 04:01:39",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 241225,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2026-09-04 04:01:39",

@@ -209,6 +209,32 @@
     },
     {
       "album": {
+        "name": "A Deep-Felt Love (Ralph Session Basement Mix)",
+        "url": "https://open.spotify.com/album/1FJqWr4V58njrKirSk0GhJ"
+      },
+      "artists": [
+        {
+          "name": "Demarkus Lewis",
+          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
+        },
+        {
+          "name": "DJ Lady D",
+          "url": "https://open.spotify.com/artist/2nsdgGNdbOdJTmC6QcQsTp"
+        },
+        {
+          "name": "Ralph Session",
+          "url": "https://open.spotify.com/artist/0lirZ2kI4pj8lTKCYw7jOe"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410987,
+      "name": "A Deep-Felt Love - Ralph Session Extended Basement Mix",
+      "url": "https://open.spotify.com/track/7ymG7L8Ci2E4szyTCdL5FG"
+    },
+    {
+      "album": {
         "name": "The Distance",
         "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
       },
@@ -246,6 +272,46 @@
       "duration_ms": 377912,
       "name": "A Long Time Coming - Unreleased Version",
       "url": "https://open.spotify.com/track/3mjcPbXOzzB3Y1ybCEbvDw"
+    },
+    {
+      "album": {
+        "name": "A Million Ways (Homero Espinosa Tough Mix)",
+        "url": "https://open.spotify.com/album/5Rk8HSezbY5wjPP2luRe53"
+      },
+      "artists": [
+        {
+          "name": "Sebb Junior",
+          "url": "https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD"
+        },
+        {
+          "name": "Homero Espinosa",
+          "url": "https://open.spotify.com/artist/3TBthGd3LrAFgEoZLSfCaI"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366624,
+      "name": "A Million Ways - Homero Espinosa Extended Tough Mix",
+      "url": "https://open.spotify.com/track/65h5Qns7DqcLiLYHmjXOAl"
+    },
+    {
+      "album": {
+        "name": "A P H R O D I S I A C",
+        "url": "https://open.spotify.com/album/6UpJuTXWS7C6mVhTSFnpNj"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325737,
+      "name": "A P H R O D I S I A C",
+      "url": "https://open.spotify.com/track/3gmKsrAHyPPQ2b6YFZdkuP"
     },
     {
       "album": {
@@ -485,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Arr\u00eat Infini",
+        "url": "https://open.spotify.com/album/6LURn1D9vVjNVrnJTeDDgb"
+      },
+      "artists": [
+        {
+          "name": "Fred Everything",
+          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317644,
+      "name": "Arr\u00eat Infini: , Pt. 2",
+      "url": "https://open.spotify.com/track/3dsb2jnULmh8MfeP9OKU2V"
+    },
+    {
+      "album": {
         "name": "Asolee (Atjazz Remix)",
         "url": "https://open.spotify.com/album/7ssBYsoCSfVDKh8MNfgbgC"
       },
@@ -708,7 +796,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 392347,
       "name": "Basic Foundation",
       "url": "https://open.spotify.com/track/0lpTezzSBtSIrN0vKwvAIE"
@@ -899,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Best Of Relax, Vol. 1 (Club Hits)",
+        "url": "https://open.spotify.com/album/7odW2Go9zG9jYkpm06Huln"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386132,
+      "name": "Big Things Coming",
+      "url": "https://open.spotify.com/track/77HCn8EcJjL3j6goI3N39E"
+    },
+    {
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/1BxAm04gyzkxE8ZTK2qvRP"
       },
@@ -1074,7 +1180,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 384995,
       "name": "Braggadocious",
       "url": "https://open.spotify.com/track/1Fk1WK5RjjCCq2YT5AErJx"
@@ -1365,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/6sco2YRX9aXXGo2eQP02Dq"
+      },
+      "artists": [
+        {
+          "name": "Rem Siman",
+          "url": "https://open.spotify.com/artist/3K5jT9UfVwf4eIGfxsz8hx"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339840,
+      "name": "Can't Get Enough - Extended Mix",
+      "url": "https://open.spotify.com/track/76MHh88Nd1yt5s128yxcTs"
+    },
+    {
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/3Z8wJUm2qbFEnyopF2aDVS"
       },
@@ -1380,6 +1504,32 @@
       "duration_ms": 239639,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/5CS3Y1sfMFXftNEKI5etxs"
+    },
+    {
+      "album": {
+        "name": "Dub Box 3",
+        "url": "https://open.spotify.com/album/7MAFe8ZRxoq8vRKbs34rPZ"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/1GNxPZFcPVhPfOPyhREkuB"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460401,
+      "name": "Can't Let You Go - Atjazz Astro Dub",
+      "url": "https://open.spotify.com/track/6jkImNjGevpCOfKAQvDT7k"
     },
     {
       "album": {
@@ -1474,7 +1624,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 466397,
       "name": "Caramba - Lex Wolf Technobloco Mix",
       "url": "https://open.spotify.com/track/3rXvghrQrRV68UX51USvcS"
@@ -1985,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/2lY357NqJkWdxuaDsUGy42"
+      },
+      "artists": [
+        {
+          "name": "Max Sin\u00e0l",
+          "url": "https://open.spotify.com/artist/73AmQVzqgasqThOhwesMOb"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223659,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/0ViL7HiNxH1zVbp9FoURXX"
+    },
+    {
+      "album": {
         "name": "Rythm Diaries",
         "url": "https://open.spotify.com/album/0mFnNsFZdYhqRseH4YHuV3"
       },
@@ -2018,6 +2190,24 @@
       "duration_ms": 302439,
       "name": "Crispy Pancakes",
       "url": "https://open.spotify.com/track/2BwKVfq5bkg7oalYGAxfmm"
+    },
+    {
+      "album": {
+        "name": "20 Years Of Hudd Traxx - 20 Traxx From The Hudd - Curated by Eddie Leader - Part 2",
+        "url": "https://open.spotify.com/album/1xpe50zVacrAo2shvDaAx2"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299520,
+      "name": "Dance Off",
+      "url": "https://open.spotify.com/track/3lZOpQGZB9jorOzIEWhfKw"
     },
     {
       "album": {
@@ -2909,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "Eminesence - The Mixes",
+        "url": "https://open.spotify.com/album/2TXM8SqZdBwghajTbatSnc"
+      },
+      "artists": [
+        {
+          "name": "Vince Watson",
+          "url": "https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt"
+        },
+        {
+          "name": "Cee ElAssaad",
+          "url": "https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442676,
+      "name": "Eminesence - Cee ElAssaad Remix",
+      "url": "https://open.spotify.com/track/3AflYjiof3gAZnyo6T46BS"
+    },
+    {
+      "album": {
         "name": "Seasons EP",
         "url": "https://open.spotify.com/album/3f354doM3xMcDYrteHMfrX"
       },
@@ -3146,7 +3358,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 395780,
       "name": "Everything - Carl Price & Paul Hawkins Righteous Mix",
       "url": "https://open.spotify.com/track/07v3cP4SIEyJxLjrt1sfMO"
@@ -3244,6 +3456,32 @@
       "duration_ms": 427179,
       "name": "Faceless - Original Mix",
       "url": "https://open.spotify.com/track/2LSgFxLCx22k5aG5bghdTe"
+    },
+    {
+      "album": {
+        "name": "Falling (Into The Deep Mixes)",
+        "url": "https://open.spotify.com/album/458ECjXMdmXJsYnW4EGFYy"
+      },
+      "artists": [
+        {
+          "name": "Flamb\u00e9",
+          "url": "https://open.spotify.com/artist/3Pg3A6NLCu1TEnm8jRbaNE"
+        },
+        {
+          "name": "Inner Spirit",
+          "url": "https://open.spotify.com/artist/3p2hgBwaNAt6jG6iDcstzk"
+        },
+        {
+          "name": "Alec Sun Drae",
+          "url": "https://open.spotify.com/artist/6abcKFMawpRqDYEHfek2dA"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318750,
+      "name": "Falling - Flamb\u00e9 & Richard Earnshaw Extended Mix",
+      "url": "https://open.spotify.com/track/2INfY5lhieSl6zK0CvmyNZ"
     },
     {
       "album": {
@@ -3392,7 +3630,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 358064,
       "name": "Feel Me - House Mix",
       "url": "https://open.spotify.com/track/4aN3SL4HxFxk3giAOC3HZa"
@@ -3628,6 +3866,24 @@
       "duration_ms": 277805,
       "name": "Floating on Silence - K-Lone Remix",
       "url": "https://open.spotify.com/track/1wZpx3M3Gsou5NTgupmbDY"
+    },
+    {
+      "album": {
+        "name": "The Disconnect",
+        "url": "https://open.spotify.com/album/4U4C6IbNHRhMNLSRmjNjJU"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293546,
+      "name": "Flotsam",
+      "url": "https://open.spotify.com/track/65WT6xps8KRz5Pyd72ymak"
     },
     {
       "album": {
@@ -4469,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Going Good",
+        "url": "https://open.spotify.com/album/0D8yykRym6useAjXyMe068"
+      },
+      "artists": [
+        {
+          "name": "Beraber",
+          "url": "https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349606,
+      "name": "Headway",
+      "url": "https://open.spotify.com/track/61iM3kvuquzKMGFgzHfm5i"
+    },
+    {
+      "album": {
         "name": "Heat of the Moon (Phairo's Lunar Eclipse Mix)",
         "url": "https://open.spotify.com/album/3uERrl8jhKSyvA7NRviGPi"
       },
@@ -4924,7 +5198,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 387507,
       "name": "I Can Change Your Life - Deep Dub",
       "url": "https://open.spotify.com/track/4gv0tk8aLmynSZWnPllATu"
@@ -5051,6 +5325,32 @@
     },
     {
       "album": {
+        "name": "I Know You",
+        "url": "https://open.spotify.com/album/1YINLITIRzp4dg7pQ66y9t"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        },
+        {
+          "name": "Rocco Rodamaal",
+          "url": "https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373513,
+      "name": "I Know You - Rocco Rodamaal Remix",
+      "url": "https://open.spotify.com/track/2FniWXtWeiV6piasmNwbDQ"
+    },
+    {
+      "album": {
         "name": "I Miss Your Love",
         "url": "https://open.spotify.com/album/1aGrSRze7xaqdcaXwXbQga"
       },
@@ -5120,7 +5420,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 446413,
       "name": "I Speak Soul - Original Mix",
       "url": "https://open.spotify.com/track/7nTa7zddCH84KrX4tlqn3A"
@@ -5284,7 +5584,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 337520,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/41iOaljQRzb0sQ20Yrqv2S"
@@ -5434,7 +5734,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 372754,
       "name": "Intentions - Extended Mix",
       "url": "https://open.spotify.com/track/4OdKmoWg3APipfNq6QeY4U"
@@ -6084,7 +6384,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 351500,
       "name": "L'arriv\u00e9e",
       "url": "https://open.spotify.com/track/53nK3BrSnG2CaC4oZgZvpv"
@@ -6623,6 +6923,28 @@
     },
     {
       "album": {
+        "name": "Lost In Sound",
+        "url": "https://open.spotify.com/album/2GrYOTloKeUFkEykyWRPa6"
+      },
+      "artists": [
+        {
+          "name": "Rulers Of The Deep",
+          "url": "https://open.spotify.com/artist/6shNqvibyEhEsaLF2ZYe0r"
+        },
+        {
+          "name": "Juliet Mendoza",
+          "url": "https://open.spotify.com/artist/1NeZEhcwWoLpkNzByUetzR"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358548,
+      "name": "Lost In Sound - Extended Mix",
+      "url": "https://open.spotify.com/track/64B9uKoJ8Oo4wpwln3MCkb"
+    },
+    {
+      "album": {
         "name": "Love Can Make It Happen (Edit)",
         "url": "https://open.spotify.com/album/2ny81t6Z0wNGNfabGJU3eb"
       },
@@ -6638,6 +6960,24 @@
       "duration_ms": 236190,
       "name": "Love Can Make It Happen - Edit",
       "url": "https://open.spotify.com/track/3ZEertVkqoZQuqWyfbYphA"
+    },
+    {
+      "album": {
+        "name": "Live Trax Vol. 2",
+        "url": "https://open.spotify.com/album/5p58iL8fedvN9nTBOkQRPX"
+      },
+      "artists": [
+        {
+          "name": "Lance DeSardi",
+          "url": "https://open.spotify.com/artist/7cYLfTUVc516FJmVTClnmN"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226771,
+      "name": "Love For The People",
+      "url": "https://open.spotify.com/track/5SR68S7NMJUFMzY9MAqWtR"
     },
     {
       "album": {
@@ -6993,6 +7333,24 @@
     },
     {
       "album": {
+        "name": "Deceived Fantasy",
+        "url": "https://open.spotify.com/album/3bEqUSj72d9zz7187QXut9"
+      },
+      "artists": [
+        {
+          "name": "Blue Method",
+          "url": "https://open.spotify.com/artist/606d2FaUUfPMRadKkTN1YD"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449271,
+      "name": "Marvin's Theory",
+      "url": "https://open.spotify.com/track/6mHoIk47hCfaDvzDyMYgBq"
+    },
+    {
+      "album": {
         "name": "Mayolo",
         "url": "https://open.spotify.com/album/33o2Ag598tg75EEbPToi8n"
       },
@@ -7044,7 +7402,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 216440,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2IOh8smJP9QHzGc5dEElEg"
@@ -7520,7 +7878,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 340645,
       "name": "Move It Up - Original Mix",
       "url": "https://open.spotify.com/track/7CsYDuQ3bJj9Bdk9QtWXLg"
@@ -8004,7 +8362,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 294634,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/2bblA063aCUhDlAeOaFshW"
@@ -8062,6 +8420,24 @@
       "duration_ms": 196000,
       "name": "Nine O Nine",
       "url": "https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW"
+    },
+    {
+      "album": {
+        "name": "NO AI",
+        "url": "https://open.spotify.com/album/4Qeq42QimQhROzIm988GLO"
+      },
+      "artists": [
+        {
+          "name": "OVEOUS",
+          "url": "https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337332,
+      "name": "NO AI",
+      "url": "https://open.spotify.com/track/0xsRIs1sJAKtlPrsyH9QS5"
     },
     {
       "album": {
@@ -8302,6 +8678,24 @@
       "duration_ms": 331699,
       "name": "NY Disco",
       "url": "https://open.spotify.com/track/63yOUifcWAb8ijGT0uPWXd"
+    },
+    {
+      "album": {
+        "name": "Nylon Feelings (Edit)",
+        "url": "https://open.spotify.com/album/5p4woEJnHLmzyu0EJeock7"
+      },
+      "artists": [
+        {
+          "name": "Valerio Vaudano",
+          "url": "https://open.spotify.com/artist/6BG2aTO00pc5PyrGQMj0x1"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187950,
+      "name": "Nylon Feelings - Edit",
+      "url": "https://open.spotify.com/track/0AHwlGXxYwv5yPrSR0oovf"
     },
     {
       "album": {
@@ -8737,6 +9131,28 @@
     },
     {
       "album": {
+        "name": "Pagan Dance (Doug Gomez remix)",
+        "url": "https://open.spotify.com/album/4cg9Yy3QNdokWjBnrBexyY"
+      },
+      "artists": [
+        {
+          "name": "Vincent Inc",
+          "url": "https://open.spotify.com/artist/0P8KUR7QbAh3rGvKRJZ9cS"
+        },
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485844,
+      "name": "Pagan dance - Doug Gomez remix",
+      "url": "https://open.spotify.com/track/7D9nPmw3hrmpWW2X3QxcF4"
+    },
+    {
+      "album": {
         "name": "Palace Of Time",
         "url": "https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr"
       },
@@ -8997,6 +9413,28 @@
     },
     {
       "album": {
+        "name": "Pink Lemon (Dam Swindle Remix)",
+        "url": "https://open.spotify.com/album/7dL698OAdonYzcoVyC783e"
+      },
+      "artists": [
+        {
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+        },
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217738,
+      "name": "Pink Lemon - Dam Swindle Remix",
+      "url": "https://open.spotify.com/track/0zC9m8AHsI1cCAaoyrQ5Mj"
+    },
+    {
+      "album": {
         "name": "Pink Little Frog",
         "url": "https://open.spotify.com/album/1vHzRMEFdKuXpY1vZS5xMZ"
       },
@@ -9190,6 +9628,28 @@
       "duration_ms": 542975,
       "name": "Prehistoric",
       "url": "https://open.spotify.com/track/7lLKabNN66KsHNPLMLECyU"
+    },
+    {
+      "album": {
+        "name": "Prisoner (Trinidadian Deep remix)",
+        "url": "https://open.spotify.com/album/0eDYTmMSyya3UsC8cQEjx1"
+      },
+      "artists": [
+        {
+          "name": "Reuxen",
+          "url": "https://open.spotify.com/artist/0SAMYnYYWLYROycmJ3gqeq"
+        },
+        {
+          "name": "Trinidadian Deep",
+          "url": "https://open.spotify.com/artist/06gPN0VFClHWEefNwLEWmb"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371612,
+      "name": "Prisoner - Trinidadian Deep Remix",
+      "url": "https://open.spotify.com/track/11reluvSRL3YX7egDY33wa"
     },
     {
       "album": {
@@ -9486,6 +9946,28 @@
       "duration_ms": 316747,
       "name": "Rhythm & Blaze",
       "url": "https://open.spotify.com/track/6iTJEZzKU9VHtxuERFWCKn"
+    },
+    {
+      "album": {
+        "name": "Right Here, Right Now (Rocco Rodamaal Deep Mix)",
+        "url": "https://open.spotify.com/album/1a7zETTCsfdaVtPpqzWfI7"
+      },
+      "artists": [
+        {
+          "name": "Tracksuit Society",
+          "url": "https://open.spotify.com/artist/1ToNf7jHCRhb1CVHCQFIzB"
+        },
+        {
+          "name": "Rocco Rodamaal",
+          "url": "https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395322,
+      "name": "Right Here, Right Now - Rocco Rodamaal Deep Mix",
+      "url": "https://open.spotify.com/track/15ufvlPd8Z41DnrZPD6KcU"
     },
     {
       "album": {
@@ -10102,7 +10584,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 184801,
       "name": "Silky, Buttery, Smooth",
       "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
@@ -10256,7 +10738,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 472000,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7MbO9BE6t2X2ydKXqOqWQS"
@@ -11291,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "The Light (Main Vocal)",
+        "url": "https://open.spotify.com/album/1bHgCAQdwL0FQBQc8hLq1s"
+      },
+      "artists": [
+        {
+          "name": "Mo'Cream",
+          "url": "https://open.spotify.com/artist/0nCPA6DdymwcXNZ2jMmYEe"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343414,
+      "name": "The Light - Main Vocal",
+      "url": "https://open.spotify.com/track/1REqxmWRSxeoPT3M6n6Jce"
+    },
+    {
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/248sWfLhMasyAMws38nu0Z"
       },
@@ -11946,7 +12446,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 360000,
       "name": "Thought B",
       "url": "https://open.spotify.com/track/6BANzzJGmnB9Km6sVgyyf6"
@@ -13026,7 +13526,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 327833,
       "name": "Waiting (feat. Benni Ola) - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/1uWrVcaAfu3HPrwGn4GTRQ"
@@ -13078,7 +13578,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 408671,
       "name": "Watch Them Come - ASRV St\u00e9phane Vera & Andy Roberts Disco Mix",
       "url": "https://open.spotify.com/track/6nUfiCihytmXY57dqRwzy8"
@@ -13400,7 +13900,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 273170,
       "name": "Who The Frequency - Radio Edit",
       "url": "https://open.spotify.com/track/4nWpiSTUi2bMqmWO6Bj1AA"
@@ -13640,7 +14140,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 567721,
       "name": "Wut IZ Style?",
       "url": "https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn"

@@ -4,10 +4,11 @@
 
 > 
 
-82 songs - 4 hr 26 min
+85 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1800](https://open.spotify.com/track/2zOk9axSPQeU5Dshj8GUO0) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [1800](https://open.spotify.com/album/15SJmlfMzobIOkBAf9djSl) | 2:33 | 2026-09-07 |  |
 | [All Night](https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg) | [Tough Break](https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW) | [All Night](https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV) | 3:08 | 2023-12-14 | 2024-04-20 |
 | [At Night I Think Of You](https://open.spotify.com/track/1pQKGS37CbpXavYhOC2WGm) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7) | [At Night I Think Of You](https://open.spotify.com/album/4q9t94AWB5uKwDprvQr9XM) | 3:01 | 2024-04-26 |  |
 | [Auto Pilot](https://open.spotify.com/track/7Li4wFTGVGyeuwbhRnVmLF) | [Marvin Acosta](https://open.spotify.com/artist/6ZRc6iS2wTTbQhWMctgecW) | [Auto Pilot](https://open.spotify.com/album/4pDaMXTVTnQ72jLvHGl3sQ) | 3:09 | 2024-04-19 |  |
@@ -23,6 +24,7 @@
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-12-22 |  |
 | [Cash For Love](https://open.spotify.com/track/1QCjgRff7EzAtIUlOpWSJV) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Cash For Love](https://open.spotify.com/album/5kEP8s3hsep25m0yEJpfFo) | 4:36 | 2024-02-29 |  |
 | [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 | 2023-12-14 | 2024-04-20 |
+| [Control](https://open.spotify.com/track/7o3m0OoVfFgBy8j1sxJwTF) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM) | [Control](https://open.spotify.com/album/1zw9EoCOn4YslsqD6rumyJ) | 2:46 | 2026-09-07 |  |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2023-12-15 |  |
 | [Dale](https://open.spotify.com/track/7KDkVer6KDHahrjFABNGww) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Billy the Diamond](https://open.spotify.com/artist/7sjiAjXjA4ncQE7cJTcMb5) | [Dale](https://open.spotify.com/album/2U5JuUDjUjAkP7gcd5QY4N) | 2:47 | 2023-12-18 |  |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA) | 3:22 | 2023-12-14 |  |
@@ -60,6 +62,7 @@
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-22 | 2024-04-20 |
 | [My House](https://open.spotify.com/track/0oEKYdiP3gmLqm21gOhaDD) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Rave Rae](https://open.spotify.com/artist/72I24QKKHBlfjLwDH359MG) | [My House](https://open.spotify.com/album/52moeSswi9l8mbonOt3vJR) | 3:01 | 2023-12-18 | 2024-01-16 |
 | [Nacht](https://open.spotify.com/track/7CSw5k27xFPys3o3eRhEPc) | [AGVAS](https://open.spotify.com/artist/3yJyKsUA177jJ2rRfSOgkY) | [Nacht](https://open.spotify.com/album/359ZkggHwhDYbmIlYVddPE) | 4:09 | 2023-12-15 |  |
+| [Naked Girls](https://open.spotify.com/track/0RO2DSeovbBIyju4b6svZp) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [Naked Girls](https://open.spotify.com/album/3ZNSr8jCAX77alKC30TDFW) | 3:36 | 2026-09-07 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2023-12-22 |  |
 | [Okay Fine](https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [The Unexplained](https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl) | 3:40 | 2024-04-26 |  |
 | [One Three Nine](https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr) | 2:48 | 2023-12-14 | 2024-04-20 |

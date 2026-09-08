@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,317,588 likes - 100 songs - 5 hr 17 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,318,203 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 11 | [Dance Dance Dance! \- Cassius Remix](https://open.spotify.com/track/2rb5q4tXodkWanetnyVFBW) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Dance Dance Dance! \(Cassius Remix\)](https://open.spotify.com/album/10hymvZRp9KJniY24kxXBw) | 3:37 |
 | 12 | [Forget Me Not](https://open.spotify.com/track/6OCEEdG1Fg2X5lyBvLUYbh) | [ANDREA CALABRIA](https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1) | [Forget Me Not](https://open.spotify.com/album/1HkLYPmuapqdfeaESLCRUX) | 2:58 |
 | 13 | [Say Something](https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Say Something](https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i) | 3:48 |
-| 14 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:20 |
+| 14 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:18 |
 | 15 | [Bless](https://open.spotify.com/track/4qbgqXqDEmkjbFIltxD6HY) | [Club Saints](https://open.spotify.com/artist/3cwhoI6RB5Pw8ltripvUhW), [Bassline Club Vibes](https://open.spotify.com/artist/5xqSc7Qw72qYLG91X7lL4f) | [Bless](https://open.spotify.com/album/3cqoZsQiyoVrGSSHvCGPk1) | 2:31 |
 | 16 | [Time](https://open.spotify.com/track/4oL4yuKcWOsV4uHpbGGtPu) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Pat Alvarez](https://open.spotify.com/artist/44rUL8RUXtDCmb8Mtjy5kp) | [Time](https://open.spotify.com/album/1X1b2wHqVRlkMTT7SnfqBI) | 4:32 |
 | 17 | [Falling](https://open.spotify.com/track/55JiyLOPLmRIEfm35UExKF) | [Ocean Flor](https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL) | [Falling](https://open.spotify.com/album/1KrZdJw7wnymL29zx00r0V) | 2:59 |

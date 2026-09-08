@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Djavan",
-  "num_followers": 1470274,
+  "num_followers": 1470369,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,6 @@
     {
       "added_at": "2026-09-04 15:33:47",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 246492,
-      "name": "Relic\u00e1rio - Ao Vivo",
-      "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
-    },
-    {
-      "added_at": "2026-09-04 15:33:47",
-      "album": {
         "name": "Rita Hits",
         "url": "https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 127840,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8"
+    },
+    {
+      "added_at": "2026-09-04 15:33:47",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 246492,
+      "name": "Relic\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
     },
     {
       "added_at": "2026-09-04 15:33:47",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-09-04 15:33:47",
       "album": {
-        "name": "Cors\u00e1rio",
-        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 256048,
-      "name": "Cors\u00e1rio",
-      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
-    },
-    {
-      "added_at": "2026-09-04 15:33:47",
-      "album": {
         "name": "Ex-Amor",
         "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 245773,
       "name": "Ex-Amor",
       "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
+    },
+    {
+      "added_at": "2026-09-04 15:33:47",
+      "album": {
+        "name": "Cors\u00e1rio",
+        "url": "https://open.spotify.com/album/09wA7dQk165Ulk2t45AOZu"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 256048,
+      "name": "Cors\u00e1rio",
+      "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
     },
     {
       "added_at": "2026-09-04 15:33:47",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-09-04 15:33:47",
       "album": {
-        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
+        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
         }
       ],
-      "duration_ms": 253973,
-      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
-      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
+      "duration_ms": 213093,
+      "name": "Entre a Serpente e a Estrela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
     },
     {
       "added_at": "2026-09-04 15:33:47",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-09-04 15:33:47",
       "album": {
-        "name": "Z\u00e9 Ramalho Na Para\u00edba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA"
+        "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+        "url": "https://open.spotify.com/album/2hrS3ADuXuced8UnMTWubm"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Entre a Serpente e a Estrela - Ao Vivo",
-      "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
+      "duration_ms": 253973,
+      "name": "O Segundo Sol (Turn\u00ea Jardim-Pomar) [Ao Vivo em Porto Alegre]",
+      "url": "https://open.spotify.com/track/4pID7hvPWS15Xu1e2XdraW"
     },
     {
       "added_at": "2026-09-04 15:33:47",

@@ -438,12 +438,12 @@
       },
       "artists": [
         {
-          "name": "Daria Barbun",
-          "url": "https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W"
-        },
-        {
           "name": "Volodia Rizak",
           "url": "https://open.spotify.com/artist/5LgbNZHp2DHBhL9AYPGTdt"
+        },
+        {
+          "name": "Daria Barbun",
+          "url": "https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W"
         }
       ],
       "date_added": "2022-11-28",

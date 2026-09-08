@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 155428,
       "name": "10 MINUTES",
       "url": "https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 450886,
       "name": "Ama hem hem",
       "url": "https://open.spotify.com/track/1ydfIuriiat9o4ItjhaFs5"
@@ -3044,6 +3044,48 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "album": {
+        "name": "Boots (feat. Optimist Music ZA, Carter IV & Chle)",
+        "url": "https://open.spotify.com/album/2qUkytMMTVh7OVgS39EjE3"
+      },
+      "artists": [
+        {
+          "name": "Aries Cooper",
+          "url": "https://open.spotify.com/artist/5y3ka5pPG4xQE0gbGx3hdx"
+        },
+        {
+          "name": "Cheez Kiddo",
+          "url": "https://open.spotify.com/artist/2v4zd5WgS96Nz4FVUauzMc"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "Carter IV",
+          "url": "https://open.spotify.com/artist/6AKhNwrvLRa7X9xratTu8s"
+        },
+        {
+          "name": "Chle",
+          "url": "https://open.spotify.com/artist/3fvwu3jn6ADrvTzfyOfeP4"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441769,
+      "name": "Boots (feat. Optimist Music ZA, Carter IV & Chle)",
+      "url": "https://open.spotify.com/track/09ptoqzg4O5Zhx7YMPs9aL"
     },
     {
       "album": {
@@ -14103,6 +14145,24 @@
     },
     {
       "album": {
+        "name": "Pink Blush",
+        "url": "https://open.spotify.com/album/2PtSg7CQrVzHN5tU9dMwYc"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126686,
+      "name": "Pink Blush",
+      "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
+    },
+    {
+      "album": {
         "name": "Pink Lemonade (Str8 Reload)",
         "url": "https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa"
       },
@@ -17326,7 +17386,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 383827,
       "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
       "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
@@ -18984,7 +19044,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 261600,
       "name": "What If (Mgani) - Remix",
       "url": "https://open.spotify.com/track/7hfDKRKZcTPmPoKYOOmnUB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Miley Cyrus, Mauvais djo, Tokio Hotel, THIZZY52, Ellie Goulding, Travis Scott & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,303 likes - 94 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,300 likes - 94 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 73 | [Dir gehört die Welt](https://open.spotify.com/track/3T1knCX9pwR15QuyPtBKGp) | [Peter Maffay](https://open.spotify.com/artist/5W3s4beu23rOlseCbVOp4l), [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Dir gehört die Welt](https://open.spotify.com/album/3wcBR706AgmF12JbGHlrk8) | 2:55 |
 | 74 | [CLICK](https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [CLICK](https://open.spotify.com/album/6wj16ihEX2pPqKzbtCZ0N3) | 2:39 |
 | 75 | [Petty Crimes](https://open.spotify.com/track/2fwZYbWNMaepcGjmHTA3lJ) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Petty Crimes](https://open.spotify.com/album/3CtkFKTeTAnmzantOSYZNx) | 3:12 |
-| 76 | [hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
+| 76 | [Hunderttausendeins](https://open.spotify.com/track/5X33VfvAWpTmkiUNsgKbSt) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Hunderttausendeins](https://open.spotify.com/album/1ZUUWNHfm5v9LuxoYX6Y5l) | 2:27 |
 | 77 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 |
 | 78 | [Should Have Known Better](https://open.spotify.com/track/5SUmgoHUVgM8piA2qSHWN2) | [Pedro Santos](https://open.spotify.com/artist/19YzhgBR0lApAqTpaHLzMZ) | [Should Have Known Better](https://open.spotify.com/album/07hdmwLeCeGdGuORY18mRZ) | 2:57 |
 | 79 | [Applaus](https://open.spotify.com/track/2Wj5cjXcHYXCRpeiN2yjyp) | [Amaro](https://open.spotify.com/artist/3CwxvK0ZeisMVgqfzOUyaX) | [Applaus](https://open.spotify.com/album/5sLDd8pzagqplg0HM3zrkj) | 2:51 |

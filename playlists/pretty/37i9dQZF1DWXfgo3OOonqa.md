@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,545 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,541 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mandela](https://open.spotify.com/track/3ePD9nCBc2kZtwxQExfLpE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:32 |
 | 2 | [RAKET](https://open.spotify.com/track/43oV0kwsqxyfR1psOUR6QK) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [RAKET](https://open.spotify.com/album/3pJeaqxhd9G3RC2QHTOXji) | 2:45 |
-| 3 | [Houdini](https://open.spotify.com/track/6dGrBtOUtC5FSPSxRkwJsI) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Houdini](https://open.spotify.com/album/1nGDCeaoSAPhqJJVbRGIh4) | 1:55 |
+| 3 | [CA VA](https://open.spotify.com/track/2XLqkqAFdlamHFUx1bTD4A) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [CA VA](https://open.spotify.com/album/6VAwxaojYoFD2Xs27UXeHl) | 2:21 |
 | 4 | [2 Saqqats](https://open.spotify.com/track/3A0EdEQp95ZCdZ8YrFuiEt) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [MONOPOL](https://open.spotify.com/album/6hlqzNPbnJIgqQcPqxgsRe) | 2:17 |
 | 5 | [Vänta](https://open.spotify.com/track/2oh6kzJStaQBeMYZzDXvWo) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Your Turn In Blue](https://open.spotify.com/album/4UyXo6gUfAUxmYSoeqt71E) | 3:16 |
-| 6 | [R.I.P](https://open.spotify.com/track/2oMyIxV1C3G2AhuSRntL0P) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [R.I.P](https://open.spotify.com/album/4k4EdBWk02wscfymZvsics) | 2:32 |
-| 7 | [CA VA](https://open.spotify.com/track/2XLqkqAFdlamHFUx1bTD4A) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [CA VA](https://open.spotify.com/album/6VAwxaojYoFD2Xs27UXeHl) | 2:21 |
-| 8 | [BMW Serie](https://open.spotify.com/track/25DL9QEuDCcYmiMT38Jfey) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BMW Serie](https://open.spotify.com/album/7uIDD7QRunU4OVHyYxQw6b) | 2:02 |
-| 9 | [Jealousy](https://open.spotify.com/track/3a8rKgFiphuGYgLfAqDoyF) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Jealousy](https://open.spotify.com/album/1KI58I2lYWbyxiVnVX34uN) | 2:25 |
-| 10 | [Ensam](https://open.spotify.com/track/2oPbtNoU4ppFjenyx5JOgX) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Ensam](https://open.spotify.com/album/0BCoajjgffM7ieQsO5ryWO) | 2:14 |
-| 11 | [FÖRVÅNAD](https://open.spotify.com/track/7zr1wqsm4q2qDriySGqSP7) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV) | [FÖRVÅNAD](https://open.spotify.com/album/5dlxuf5c1odyd7v6YFJppn) | 2:05 |
-| 12 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
-| 13 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
-| 14 | [Aston Martin](https://open.spotify.com/track/4UmM6fhlSvj9zjoTza1QHZ) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [Aston Martin](https://open.spotify.com/album/4gfExhpD3O1q95VcfOsUk3) | 2:38 |
-| 15 | [Save Me](https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Save Me](https://open.spotify.com/album/7AdQcvl9iPVXXFM5r1zFDc) | 2:04 |
-| 16 | [Vacker & Söt](https://open.spotify.com/track/12QqjgQJUYmpR28CHiQvQ3) | [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [Vacker & Söt](https://open.spotify.com/album/7ewvLF7m3jpyvJGbpmMmes) | 2:17 |
+| 6 | [Houdini](https://open.spotify.com/track/6dGrBtOUtC5FSPSxRkwJsI) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Houdini](https://open.spotify.com/album/1nGDCeaoSAPhqJJVbRGIh4) | 1:55 |
+| 7 | [Jealousy](https://open.spotify.com/track/3a8rKgFiphuGYgLfAqDoyF) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Jealousy](https://open.spotify.com/album/1KI58I2lYWbyxiVnVX34uN) | 2:25 |
+| 8 | [R.I.P](https://open.spotify.com/track/2oMyIxV1C3G2AhuSRntL0P) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [R.I.P](https://open.spotify.com/album/4k4EdBWk02wscfymZvsics) | 2:32 |
+| 9 | [BMW Serie](https://open.spotify.com/track/25DL9QEuDCcYmiMT38Jfey) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BMW Serie](https://open.spotify.com/album/7uIDD7QRunU4OVHyYxQw6b) | 2:02 |
+| 10 | [Vacker & Söt](https://open.spotify.com/track/12QqjgQJUYmpR28CHiQvQ3) | [4Key](https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z) | [Vacker & Söt](https://open.spotify.com/album/7ewvLF7m3jpyvJGbpmMmes) | 2:17 |
+| 11 | [Ensam](https://open.spotify.com/track/2oPbtNoU4ppFjenyx5JOgX) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Ensam](https://open.spotify.com/album/0BCoajjgffM7ieQsO5ryWO) | 2:14 |
+| 12 | [FÖRVÅNAD](https://open.spotify.com/track/7zr1wqsm4q2qDriySGqSP7) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV) | [FÖRVÅNAD](https://open.spotify.com/album/5dlxuf5c1odyd7v6YFJppn) | 2:05 |
+| 13 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
+| 14 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
+| 15 | [Aston Martin](https://open.spotify.com/track/4UmM6fhlSvj9zjoTza1QHZ) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [Aston Martin](https://open.spotify.com/album/4gfExhpD3O1q95VcfOsUk3) | 2:38 |
+| 16 | [Save Me](https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Save Me](https://open.spotify.com/album/7AdQcvl9iPVXXFM5r1zFDc) | 2:04 |
 | 17 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 |
 | 18 | [ICON](https://open.spotify.com/track/7m4RmldpdOi6IyZRXQdWkA) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [ICON](https://open.spotify.com/album/45karA3JGFDxce1LsNYaMI) | 2:05 |
 | 19 | [Bilsäker](https://open.spotify.com/track/6GC8r65dVkeWVOSOOFEOBF) | [Global](https://open.spotify.com/artist/0rsYUDfuJkS3zDbn6SCzI3) | [Bilsäker](https://open.spotify.com/album/63o3Phrel4UoJwt54ryibx) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [IKVÄLL](https://open.spotify.com/track/61dBqAZjqMSkptKhrsZGIa) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [IKVÄLL](https://open.spotify.com/album/4ODoibs0bDbvJJql7jegUw) | 2:04 |
 | 100 | [Sonya](https://open.spotify.com/track/7ELeq4ReJcL4tlafps77OW) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Sonya](https://open.spotify.com/album/3csU0vNyY7fBrFnZdVYTCr) | 2:37 |
 
-Snapshot ID: `AAAAAC54HcExZwC82PyZ5WqsPs4fZGi6`
+Snapshot ID: `AAAAALOBTBIGJ4SuaNQLuAWZlFr1qikr`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Angus & Julia Stone, Miley Cyrus, Nemzzz, Travis Scott, ADELA, Drax Project + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,830 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,814 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 70 | [Mercury's in Marmalade](https://open.spotify.com/track/7MIBXDEi3xnE3m70pA1Ynd) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Mercury's in Marmalade](https://open.spotify.com/album/0pC3h1i3Mz9xxsjJCi4snt) | 2:20 |
 | 71 | [Caroline](https://open.spotify.com/track/4KDYzpRAeh9jHfd7RzWWaB) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Breathe](https://open.spotify.com/album/13J70OVhYKuDByCCJoyi9B) | 3:11 |
 | 72 | [SILVER APPLE EYES](https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [ACT III](https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC) | 3:08 |
-| 73 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:20 |
+| 73 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:18 |
 | 74 | [The Local Drug Front](https://open.spotify.com/track/7uIcvAmCTcOUfRThVWZoU9) | [STUMPS](https://open.spotify.com/artist/5VTNPMxFc3xPrKZsUzSvsM) | [The Local Drug Front](https://open.spotify.com/album/0E6Klypuxw6Wiizr4KEKhb) | 2:28 |
 | 75 | [Forgotten Promises](https://open.spotify.com/track/24otX6zNcSe86Ly0OHu3dB) | [\*teeth](https://open.spotify.com/artist/3L0Y3HCo2pOCKATQOTvWvn), [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Forgotten Promises](https://open.spotify.com/album/1vIs0UE2vaX7Ph9LLWD1BN) | 4:42 |
 | 76 | [Say Less](https://open.spotify.com/track/5lTjvMxI870Bu6LMYmyzQC) | [Simona Castricum](https://open.spotify.com/artist/0eNPmXReFLJMJVh1sJ1SIv) | [Villain](https://open.spotify.com/album/1OYS2mriYDjBUK0M6xaiOY) | 4:06 |

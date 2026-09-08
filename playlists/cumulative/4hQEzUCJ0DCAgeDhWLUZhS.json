@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Fatalism",
+        "url": "https://open.spotify.com/album/3fPv17mfPlCY901H71DGIW"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263068,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/6lGiMmgJjLXJumyEgzYl7r"
+    },
+    {
+      "album": {
         "name": "I Just Do What God Tells Me To Do",
         "url": "https://open.spotify.com/album/0op8vjTkaatdmpqIjm46Ix"
       },
@@ -4708,7 +4726,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 187716,
       "name": "Kickin' Stones",
       "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abdaa Men Gedeid",
+        "url": "https://open.spotify.com/album/3WgNrDwdBCJ1PAaZ0WgC52"
+      },
+      "artists": [
+        {
+          "name": "Hany Shnoda Ferqet Masr",
+          "url": "https://open.spotify.com/artist/1qeimvAZjU4Y8Rvlz31kSV"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224536,
+      "name": "Abdaa Men Gedeed",
+      "url": "https://open.spotify.com/track/3SkrxT30Nf1OXGRx2rUNJq"
+    },
+    {
+      "album": {
         "name": "Ahy Donia",
         "url": "https://open.spotify.com/album/7KMLESZ5B4m5wwtDJyDtpo"
       },
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 244375,
       "name": "Ne'abel Nas",
       "url": "https://open.spotify.com/track/5UCb0c4Q2caWg4N45OtuDK"

@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass  \ud83d\udef8  featuring Andrew Bayer",
-  "num_followers": 474122,
+  "num_followers": 474109,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "Icarus & I",
+        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 210567,
+      "name": "Beautiful Unknown",
+      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1SP5GrzaEcDQKiKL82asHO"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 196500,
       "name": "Everything (feat. Cate Downey)",
       "url": "https://open.spotify.com/track/6A7PA5sT5SpUHyt0PIekHP"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "Icarus & I",
-        "url": "https://open.spotify.com/album/7EiEqPqWvSmAbS8KUatGWR"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 210567,
-      "name": "Beautiful Unknown",
-      "url": "https://open.spotify.com/track/3oIFEAhWP77ljPGfo7wdMt"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6IMTzt0m9cTMn97VD8QIFX"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "baby blue",
-          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/1XFdS4vhVl4g4vT1AV2kyb"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Same High",
         "url": "https://open.spotify.com/album/0Rh2luIqvjbDpzwvSXhhhN"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 213000,
       "name": "Same High",
       "url": "https://open.spotify.com/track/5kNfbwKazl907qSctxI1iI"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6IMTzt0m9cTMn97VD8QIFX"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "baby blue",
+          "url": "https://open.spotify.com/artist/6DdWFOHTfxcBOLTHMrKpAN"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1XFdS4vhVl4g4vT1AV2kyb"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Your Imagination",
-        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 237696,
-      "name": "Your Imagination",
-      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 196233,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Your Imagination",
+        "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 237696,
+      "name": "Your Imagination",
+      "url": "https://open.spotify.com/track/0M0ac58ggq3FHG849kCfGR"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
+      },
+      "artists": [
+        {
+          "name": "Leondis",
+          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 245620,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "ONLY U",
-        "url": "https://open.spotify.com/album/2iC0Lz84LpIc9nnczntdpe"
-      },
-      "artists": [
-        {
-          "name": "Leondis",
-          "url": "https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "ONLY U",
-      "url": "https://open.spotify.com/track/3z8lgTFjOCnNhfdo2yUeSJ"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
+        "name": "Meet Me In The Middle",
+        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Meet Me In The Middle",
+      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
         "name": "Miles From Home",
         "url": "https://open.spotify.com/album/4LmrGemhT0eR5LusWomTMk"
       },
@@ -2203,22 +2223,22 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Meet Me In The Middle",
-        "url": "https://open.spotify.com/album/0Wmc5Dl0zjqmdM1LoEEfor"
+        "name": "Ghost Of You",
+        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
       },
       "artists": [
         {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+          "name": "Aye Bay",
+          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
         },
         {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+          "name": "ELLE",
+          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
         }
       ],
-      "duration_ms": 215238,
-      "name": "Meet Me In The Middle",
-      "url": "https://open.spotify.com/track/5OKgJEB1FKe4CGctSNkdNS"
+      "duration_ms": 222439,
+      "name": "Ghost Of You",
+      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2239,26 +2259,6 @@
       "duration_ms": 241256,
       "name": "breathe",
       "url": "https://open.spotify.com/track/07qhhvivk6KSl1zi0lw2hH"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
-        "name": "Ghost Of You",
-        "url": "https://open.spotify.com/album/4d3lCs0FJglGcfHk3Y5Fl5"
-      },
-      "artists": [
-        {
-          "name": "Aye Bay",
-          "url": "https://open.spotify.com/artist/1dnTg6OI3AEhdIm92lRTeQ"
-        },
-        {
-          "name": "ELLE",
-          "url": "https://open.spotify.com/artist/5K1ZFSz0mDAkV4vrQ3dhbv"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Ghost Of You",
-      "url": "https://open.spotify.com/track/6Jr7tFzGk5BEviGER0MGLp"
     },
     {
       "added_at": "2026-09-04 19:09:51",
@@ -2995,26 +2995,6 @@
     {
       "added_at": "2026-09-04 19:09:51",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
-    },
-    {
-      "added_at": "2026-09-04 19:09:51",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy"
       },
@@ -3035,6 +3015,26 @@
       "duration_ms": 192391,
       "name": "Numb",
       "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"
+    },
+    {
+      "added_at": "2026-09-04 19:09:51",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/3p1yNakKEt3OHZMfrPn716"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/73LVojFnu6bZ3ae1OOZb7U"
     },
     {
       "added_at": "2026-09-04 19:09:51",

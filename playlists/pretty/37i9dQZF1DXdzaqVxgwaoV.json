@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 144183,
+  "num_followers": 144173,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Mas Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 241640,
       "name": "T\u00fa Pasaje al Olvido",
       "url": "https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Usted Se\u00f1or",
-        "url": "https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz"
-      },
-      "artists": [
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Que Hablen de M\u00ed",
-      "url": "https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "No Hay Porqu\u00e9 Esperar",
         "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 176562,
       "name": "Me Tragaba Tus Mentiras",
       "url": "https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Usted Se\u00f1or",
+        "url": "https://open.spotify.com/album/2SpEO8hPD7oex66mFUnngz"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Que Hablen de M\u00ed",
+      "url": "https://open.spotify.com/track/1rIL6nlc53iQmjqkbWtpmY"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Y Polo",
-          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
-        }
-      ],
-      "duration_ms": 156177,
-      "name": "De Lejos Tierras",
-      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Los Grandes Exitos de Odilio Gonz\u00e1lez: Vol. 7",
         "url": "https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 185000,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Y Polo",
+          "url": "https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS"
+        }
+      ],
+      "duration_ms": 156177,
+      "name": "De Lejos Tierras",
+      "url": "https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Macondo",
-        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 237369,
-      "name": "Macondo",
-      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Por Siempre, Vol. 5",
         "url": "https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 170566,
       "name": "Tumba Sin Doliente",
       "url": "https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Macondo",
+        "url": "https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 237369,
+      "name": "Macondo",
+      "url": "https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Los Relajos del Arriero",
-        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
-      },
-      "artists": [
-        {
-          "name": "Octavio Mesa",
-          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Mano a Mano",
         "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 165640,
       "name": "Mujer Traidora",
       "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Los Relajos del Arriero",
+        "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
+      },
+      "artists": [
+        {
+          "name": "Octavio Mesa",
+          "url": "https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg"
     },
     {
       "added_at": "2026-02-23 16:04:48",

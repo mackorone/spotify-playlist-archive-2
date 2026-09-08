@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 上白石萌音
 
-3,871 songs - 10 day 6 hr 16 min
+3,872 songs - 10 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Cheers!Cheers!](https://open.spotify.com/track/1AQ4UPkGibo0ELl4zvPoZj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [BUTTERFLY EFFECT](https://open.spotify.com/album/3jMsXyruxQMw80CVCQPmas) | 3:11 | 2023-06-27 | 2023-07-19 |
 | [Cheese \(feat\. Manaka\)](https://open.spotify.com/track/2iu0jCYe28cYNsETzGf1z3) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 | 2026-05-12 |  |
 | [CHERISH](https://open.spotify.com/track/3meFYMFEP0xmCc650Zef5Z) | [Tsukasa Inoue](https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn), [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [CHERISH](https://open.spotify.com/album/5DiE9FTagQnBzoOS80repU) | 4:03 | 2023-01-26 | 2023-02-01 |
+| [CHERRY COKE](https://open.spotify.com/track/2QQJy4BnIdCDZheXgGF8Km) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [CHERRY COKE](https://open.spotify.com/album/652CAnbrC6xHKad2VLbL0M) | 3:26 | 2026-09-01 |  |
 | [CHERRY PIE](https://open.spotify.com/track/3TmQjOgyKtYqu6wKGZL2GA) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [CHERRY PIE](https://open.spotify.com/album/5bTJO3Nx3Ii8Y23nWgbG0z) | 3:28 | 2023-01-19 | 2023-01-25 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-08 | 2022-12-14 |
 | [Cho\-chocolate drip](https://open.spotify.com/track/6mrv5bDHrD72t0nYwPKFLW) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Cho\-chocolate drip](https://open.spotify.com/album/3wDDXAgLY3IGNdHsX3imyf) | 2:56 | 2023-04-04 | 2023-04-12 |
@@ -3684,7 +3685,7 @@
 | [脱・借りてきた猫症候群](https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [コントラスト\(Special Edition\)](https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1) | 3:49 | 2023-01-31 | 2023-07-12 |
 | [腐れ縁](https://open.spotify.com/track/42UuJcWxy1uN18JqTBrHjH) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [\#ROOM19](https://open.spotify.com/album/1Hy6QspC6Mt1ho4h0Vs2yX) | 3:34 | 2026-01-14 | 2026-01-21 |
 | [自分の機嫌は自分でとる \(Remix\) \(feat\. あっこゴリラ & CLR\)](https://open.spotify.com/track/07wnhyqcq6VFm2KbKEPHiP) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [あっこゴリラ](https://open.spotify.com/artist/7dwba4b8gRshz45YIE6wJl), [CLR](https://open.spotify.com/artist/7LSARN9w89Cr0AuIturBpH) | [自分の機嫌は自分でとる \(Remix\) \[feat\. あっこゴリラ & CLR\]](https://open.spotify.com/album/1ZrUtalwES4l16sPXXow0G) | 4:22 | 2023-05-09 | 2023-05-17 |
-| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 |  |
+| [自由のショート](https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:55 | 2026-01-14 | 2026-09-08 |
 | [自販機の恋](https://open.spotify.com/track/2uyvkc1JKxKZwjG29sZuy9) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [自販機の恋](https://open.spotify.com/album/2QZ0tYoMz86pEtRIbq3zNB) | 4:31 | 2023-08-08 | 2023-08-10 |
 | [舟](https://open.spotify.com/track/1tlte6ejoIblaWzWUOw7aA) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [舟](https://open.spotify.com/album/2Tk1eZ18JkT3AnSz12RYSJ) | 5:50 | 2022-06-16 | 2022-07-22 |
 | [芒に月](https://open.spotify.com/track/2Ydg2XLkYUGXsNvtJmTqj2) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [芒に月](https://open.spotify.com/album/0JBEQWnr0hXmVo69J4de6H) | 6:18 | 2025-06-24 | 2025-10-01 |

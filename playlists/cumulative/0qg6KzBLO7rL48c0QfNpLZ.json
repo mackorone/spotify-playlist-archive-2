@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 234049,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/2suFth10N94XTPTFwQZeO6"
@@ -4281,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/4t3Pzs2VOBrC4MCjBnjTGk"
+      },
+      "artists": [
+        {
+          "name": "Wavey",
+          "url": "https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/3SB91ntpwoePIvu4wWoztb"
+    },
+    {
+      "album": {
         "name": "Call it Home",
         "url": "https://open.spotify.com/album/2yvcZGAIgmXvdZFs9CgVvO"
       },
@@ -5379,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/1E2TpTDdjfnGsHRPKh8Wso"
+      },
+      "artists": [
+        {
+          "name": "Alena Kita",
+          "url": "https://open.spotify.com/artist/7LTWM8PV0mAaqfP6a7krq9"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/3pz0MGdLtr7Bs7pVz7EJGd"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0BWcjWmP1GWSpfqBqLnu78"
       },
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 154510,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6VTucYs7wsUsHZjDEROKoP"
@@ -6424,7 +6460,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 164625,
       "name": "Dance until the mornin'",
       "url": "https://open.spotify.com/track/6zipXvd54OTGLb6NAu8KdP"
@@ -8912,7 +8948,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 244363,
       "name": "Elements of Life",
       "url": "https://open.spotify.com/track/4J58f3GTofE6Eab9rFXVgX"
@@ -10532,7 +10568,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 138018,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/6OBzxm3PkPnR7I5U8byQlk"
@@ -11588,7 +11624,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 129523,
       "name": "Friday I\u2018m In Love",
       "url": "https://open.spotify.com/track/76WCBPWg4x1Tqb9O8A0I8o"
@@ -12246,7 +12282,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 138383,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0XYrvLxH7nL9L7T915Si4g"
@@ -13008,7 +13044,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 254608,
       "name": "Heart Of The Jungle",
       "url": "https://open.spotify.com/track/1qEVzM20465i2nmjaSGf1B"
@@ -15592,7 +15628,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 228099,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/0vgqzmZo6KO2kMjCHbRU5E"
@@ -16170,7 +16206,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 147275,
       "name": "In the Sky",
       "url": "https://open.spotify.com/track/6gOtlz2ocveCj261InfPmJ"
@@ -16841,6 +16877,24 @@
     },
     {
       "album": {
+        "name": "Just For You",
+        "url": "https://open.spotify.com/album/6OlAYOUjii7ydoEV2BYhla"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Just For You",
+      "url": "https://open.spotify.com/track/6jppdRVKa6ID93iEB6zjQ2"
+    },
+    {
+      "album": {
         "name": "Just Let Go",
         "url": "https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq"
       },
@@ -16870,7 +16924,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 138769,
       "name": "Just Like the Movies",
       "url": "https://open.spotify.com/track/53yTbJOoTBvdc389lhiFuu"
@@ -18190,6 +18244,24 @@
     {
       "album": {
         "name": "Lights",
+        "url": "https://open.spotify.com/album/75APYedkC20JOmzJrrXgDH"
+      },
+      "artists": [
+        {
+          "name": "Chullo",
+          "url": "https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/2o1naVQchLly3cupbmGrYp"
+    },
+    {
+      "album": {
+        "name": "Lights",
         "url": "https://open.spotify.com/album/4FrF6htdcJ27dUsBbumiAj"
       },
       "artists": [
@@ -18656,7 +18728,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 176129,
       "name": "Lomalina",
       "url": "https://open.spotify.com/track/0u4sK9IzDQY6maQQdzg7yl"
@@ -18802,7 +18874,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 237913,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/5BmROl7uMi5caHZUnaBuc0"
@@ -20339,6 +20411,24 @@
     },
     {
       "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7DlEyks7cZKE9pg5hNi2uM"
+      },
+      "artists": [
+        {
+          "name": "Chullo",
+          "url": "https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/18tD2NDswNmWA8HXQY4Yfh"
+    },
+    {
+      "album": {
         "name": "Meant For",
         "url": "https://open.spotify.com/album/69DatpxpFlERUcgQSQA10o"
       },
@@ -20904,7 +20994,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 240091,
       "name": "Moment",
       "url": "https://open.spotify.com/track/7BxoEMXmxqbFzMtulPpnJx"
@@ -22356,7 +22446,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 232000,
       "name": "No Me Canso - Radio Mix",
       "url": "https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K"
@@ -22751,7 +22841,7 @@
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159399,
+      "duration_ms": 147692,
       "name": "Nothing Else Compares",
       "url": "https://open.spotify.com/track/5Vpu50XIDx4MdTvbLcIflS"
     },
@@ -23338,6 +23428,24 @@
       "duration_ms": 146131,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/35exlkuy1GTN2AbNhEd8MZ"
+    },
+    {
+      "album": {
+        "name": "Old Place",
+        "url": "https://open.spotify.com/album/0Oe1Rio2ytl4aGeTY7leds"
+      },
+      "artists": [
+        {
+          "name": "Alena Kita",
+          "url": "https://open.spotify.com/artist/7LTWM8PV0mAaqfP6a7krq9"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Old Place",
+      "url": "https://open.spotify.com/track/4Pt85nSWYVxUUmdOyx041O"
     },
     {
       "album": {
@@ -24602,6 +24710,24 @@
       "duration_ms": 126026,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7C4RQsv0hPdQRn6eVChDdw"
+    },
+    {
+      "album": {
+        "name": "Pictures Of You",
+        "url": "https://open.spotify.com/album/44hnjPUxvzbeYOpZxuLSBy"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Sky",
+          "url": "https://open.spotify.com/artist/7mtBagxlj27ioxPZIWu8Bx"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Pictures Of You",
+      "url": "https://open.spotify.com/track/50DhBKI8Q8ov0XjYUJmKj3"
     },
     {
       "album": {
@@ -28672,7 +28798,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 242123,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0W5IOYENsT45PtSTuMYvC6"
@@ -28890,7 +29016,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 144005,
       "name": "Stereotype",
       "url": "https://open.spotify.com/track/016auAOhnOdM2ykwqEIw8v"
@@ -29336,7 +29462,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 127142,
       "name": "Summer Blues",
       "url": "https://open.spotify.com/track/4nBDODxSmAafPUPIdBRkih"
@@ -30301,6 +30427,24 @@
     },
     {
       "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/5xRldvPstaTg7G8lXAEbaU"
+      },
+      "artists": [
+        {
+          "name": "Wavey",
+          "url": "https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/00FnMQrAzXrXMrVPNEy8JX"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3Y3ZLsJplnOimXcUFCqMhx"
       },
@@ -30484,7 +30628,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 139200,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu"
@@ -30546,6 +30690,42 @@
       "duration_ms": 123652,
       "name": "Tanning Lines",
       "url": "https://open.spotify.com/track/7x41VMXT0qq7RccFc1EQCD"
+    },
+    {
+      "album": {
+        "name": "Taste My Love",
+        "url": "https://open.spotify.com/album/1LCHvbsbYnWBGjjDNTJYjj"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Sky",
+          "url": "https://open.spotify.com/artist/7mtBagxlj27ioxPZIWu8Bx"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Taste My Love",
+      "url": "https://open.spotify.com/track/6G9MbLJzrdnlHSBAvD09QT"
+    },
+    {
+      "album": {
+        "name": "Taste Of Love",
+        "url": "https://open.spotify.com/album/2FWNabXaLAvN3UNuxbGbd7"
+      },
+      "artists": [
+        {
+          "name": "Alena Kita",
+          "url": "https://open.spotify.com/artist/7LTWM8PV0mAaqfP6a7krq9"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Taste Of Love",
+      "url": "https://open.spotify.com/track/4bI6TTxsMoVMXNYBswkE2U"
     },
     {
       "album": {
@@ -31426,7 +31606,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 231864,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/5uCedXiwbEiGvqBa9C2dRD"
@@ -32694,7 +32874,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 228000,
       "name": "Universe",
       "url": "https://open.spotify.com/track/1U5CU26nhNTi2f5xPwkxvc"
@@ -34060,7 +34240,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 122189,
       "name": "What You Said",
       "url": "https://open.spotify.com/track/3twfY1tCRd1uPwDNS6zG3C"
@@ -35590,7 +35770,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 248727,
       "name": "Young & Free",
       "url": "https://open.spotify.com/track/5siFgUvm4pfnXP5IviBD03"

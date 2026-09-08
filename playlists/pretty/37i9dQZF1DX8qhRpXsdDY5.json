@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 233271,
+  "num_followers": 233266,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Navidad Mexicana",
-        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Montero",
-          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Llorar\u00e1s en Navidad",
-      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Eterna Navidad (US Version)",
         "url": "https://open.spotify.com/album/78v5jMZria78NZVsostS4t"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 143386,
       "name": "Campanas De Plata",
       "url": "https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Navidad Mexicana",
+        "url": "https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Montero",
+          "url": "https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Llorar\u00e1s en Navidad",
+      "url": "https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE"
     },
     {
       "added_at": "2025-12-04 18:43:31",

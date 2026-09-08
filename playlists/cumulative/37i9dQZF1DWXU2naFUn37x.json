@@ -18357,6 +18357,24 @@
     },
     {
       "album": {
+        "name": "PUGNO DI FERRO (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4MlSAvlzXNBHfLCyCQS2i6"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "PUGNO DI FERRO (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/1ZBUgZQjNcn367VktdxdAB"
+    },
+    {
+      "album": {
         "name": "Pula Ciao",
         "url": "https://open.spotify.com/album/6ppGNR4fN65Zmcboef4BfT"
       },
@@ -20150,7 +20168,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 133670,
       "name": "SELEZIONANDO (feat. G.Mineiro)",
       "url": "https://open.spotify.com/track/3ibbbbCSYM1bUAvJiMOkz1"

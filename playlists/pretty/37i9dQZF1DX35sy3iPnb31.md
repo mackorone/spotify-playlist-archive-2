@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,499 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,514 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 | 35 | [Painting After Painting](https://open.spotify.com/track/1mICnDWtVBpyMVGSejVXvy) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/2amcMNcWelpgn4KjHNXiQc) | 3:48 |
 | 36 | [Outside Is Nice](https://open.spotify.com/track/5C8dvXZlhJy6HUW0pQMMVI) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [This Feels Electric](https://open.spotify.com/album/5wVMgbiP4k8becROzG6pxv) | 2:00 |
-| 37 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
-| 38 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
+| 37 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
+| 38 | [Gut](https://open.spotify.com/track/3JHSZtbL3XTjr9KEyn2UNl) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [The Veil](https://open.spotify.com/album/6jcANxEcbvFXL975ryJbl9) | 2:25 |
 | 39 | [Failing](https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Reunion](https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF) | 3:13 |
-| 40 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
-| 41 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
-| 42 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
-| 43 | [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 |
-| 44 | [Sugar, Butter, Elbow Grease](https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r) | [Leah Jane](https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN) | [Sugar, Butter, Elbow Grease](https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z) | 3:30 |
+| 40 | [YUL//LGA](https://open.spotify.com/track/4xiIXXnCgenNIesVT9UJeT) | [Deadin Dogyears](https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N) | [YUL//LGA](https://open.spotify.com/album/2HDS7toG9kR4IjPeNBZdDv) | 2:30 |
+| 41 | [Hershey Kiss](https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo), [SLM](https://open.spotify.com/artist/5QHTLKljfEpL3ne0vopw3r) | [Hershey Kiss](https://open.spotify.com/album/4VxBxBwI53yqjCXJVwrfFI) | 2:08 |
+| 42 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
+| 43 | [Sugar, Butter, Elbow Grease](https://open.spotify.com/track/2o0Vzvy05qpJeEbHQle22r) | [Leah Jane](https://open.spotify.com/artist/5zuUXJ73ndEnViAOKpQuIN) | [Sugar, Butter, Elbow Grease](https://open.spotify.com/album/62saXVY63uOO5svEkJff2Z) | 3:30 |
+| 44 | [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 |
 | 45 | [Yesterday](https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Cavalier](https://open.spotify.com/artist/2IwGAkUIwStgnFVH8u1v3o) | [Yesterday](https://open.spotify.com/album/2D9aADEKeHLVl3RD07PK4J) | 3:21 |
 | 46 | [One Step](https://open.spotify.com/track/5w0nQUeBCgWK1LS4tHdUP4) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [One Step](https://open.spotify.com/album/3nnEX2YyDsbzI9gCtsylma) | 2:04 |
 | 47 | [Don't Sleep](https://open.spotify.com/track/1fF6nqF3UHIIT6KaK8UDRI) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Don't Sleep](https://open.spotify.com/album/5E4v3M9f124WBxUPUEL1My) | 2:24 |

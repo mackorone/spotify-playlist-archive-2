@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: TAEMIN
 
-1,101 songs - 2 day 11 hr 32 min
+1,104 songs - 2 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Borrow your night](https://open.spotify.com/track/09AlOqeaIaKCiNrbXRGjJp) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Borrow your night \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/2dJ3DN0Xk7LZ7LUAMf7ILZ) | 3:00 | 2026-01-15 | 2026-04-14 |
 | [BOSS IN THE BUILDING](https://open.spotify.com/track/30yBnzk52RdXseGmXBuMgn) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOSS IN THE BUILDING](https://open.spotify.com/album/5rUDcK5BarwnVJhn86U2WB) | 4:30 | 2025-07-08 | 2025-08-05 |
 | [Bossa Bosa](https://open.spotify.com/track/67cHhblKt3ThjqAsvZJB2A) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Bossa Bosa](https://open.spotify.com/album/4gRM6Xt8jx7UpQm6Cworb4) | 2:22 | 2025-07-01 | 2025-08-25 |
-| [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 |  |
+| [BOTH SIDES](https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES \- The 1st Mini Album](https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh) | 2:51 | 2026-02-23 | 2026-09-08 |
 | [BOTTOMS UP](https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SEVEN : CRIMSON HORIZON](https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik) | 3:18 | 2026-03-20 | 2026-07-29 |
 | [BOW WOW](https://open.spotify.com/track/0HOlnmec9JvZJz201NA7EE) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [BOW WOW](https://open.spotify.com/album/366gA1FOPWIQCVUheX5HiY) | 3:30 | 2025-03-31 | 2025-04-02 |
 | [BOYS \-TJBB Anthem\-](https://open.spotify.com/track/49IR4E7Weu8bRsTCKtfshW) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [BOYS \-TJBB Anthem\-](https://open.spotify.com/album/0a1oriXnVZ3OTy1tCtQEfV) | 3:36 | 2024-06-12 | 2024-07-03 |
@@ -218,6 +218,7 @@
 | [Dear DIVA](https://open.spotify.com/track/4vCZibK8wRUrHgHQ58FkWN) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [Dear DIVA](https://open.spotify.com/album/4yQDzvSV87kmm3GDg1G6lq) | 3:28 | 2025-11-18 | 2025-12-10 |
 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 | 2024-01-02 | 2025-03-07 |
 | [DEAREST](https://open.spotify.com/track/3hFe12pRLMwSVI8JY0LHde) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [ZONE](https://open.spotify.com/album/4dQ7f9UXqzUzFqYMDEC0AC) | 4:06 | 2025-03-06 | 2025-03-24 |
+| [Death of Me](https://open.spotify.com/track/7fguLMcnTfPK8qSKGNMTPF) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [DEATH OF ME](https://open.spotify.com/album/5hYH4zxmh1ePXZaxFyj9wB) | 3:06 | 2026-09-07 |  |
 | [Deep Dream](https://open.spotify.com/track/1WWOPVRZs8tYBP3FtjhhyO) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Deep Dream>](https://open.spotify.com/album/1M8JsrQYONiTwFIQ8ZWqpj) | 3:05 | 2026-08-13 |  |
 | [DEEP WAVE](https://open.spotify.com/track/4pRYvi4ybMifd2LPnzOVHp) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [DEEP WAVE](https://open.spotify.com/album/5MAfHAjQkTUUpbuJwuHmfV) | 3:26 | 2024-03-12 | 2024-04-03 |
 | [Deer Hunter](https://open.spotify.com/track/5b2q0YAMyqk0JD0rHZZzQB) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [雪明かり \(Yukiakari\)](https://open.spotify.com/album/6Y72DbWH9RBBVh8XNIGY16) | 3:06 | 2025-02-12 | 2025-03-07 |
@@ -237,6 +238,7 @@
 | [Dokka de](https://open.spotify.com/track/70wGlktEYdD17rhe19gVSf) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [CLASSIC WAVE](https://open.spotify.com/album/2jrFATDLscw7bsUFjPn67t) | 2:46 | 2026-06-09 | 2026-06-30 |
 | [DOMINANCE](https://open.spotify.com/track/311pdfSxiVGKCzEff4wnNF) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [DOMINANCE](https://open.spotify.com/album/72Os16noHpDyT2M5wN476n) | 2:56 | 2025-06-02 | 2025-09-16 |
 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 | 2023-12-12 | 2024-02-25 |
+| [Don't Panic!](https://open.spotify.com/track/2iIpjlEWePSLiA1Wa46hM0) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [CONFETTI](https://open.spotify.com/album/2fAzHTQSUcSWy6kE8jgJ9r) | 2:37 | 2026-09-07 |  |
 | [Don't Speak](https://open.spotify.com/track/1lMTjhv9a9XOfKLsRXOInQ) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Don't Speak](https://open.spotify.com/album/5YF2TZOyU46ioTxsr3PmCv) | 2:45 | 2025-03-27 | 2025-04-02 |
 | [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-12 | 2024-06-26 |
 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 | 2024-08-20 | 2025-01-06 |
@@ -423,7 +425,7 @@
 | [ICY](https://open.spotify.com/track/6BeB2dYQXOhwsg3m5MIh3t) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHERE DO WE GO \(Special Edition\)](https://open.spotify.com/album/2jRq5eYKHh0qFRfeflfQKE) | 3:21 | 2024-10-01 | 2025-03-07 |
 | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm), [RYUKI](https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [ID feat\. RYOKI \(BE:FIRST\), RYUKI \(MAZZEL\), JIMMY \(PSYCHIC FEVER\), FELIP](https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q) | 3:32 | 2025-03-06 | 2025-03-10 |
 | [IDENTITY](https://open.spotify.com/track/0XAAeX8QO2Lo3oOpMNvU5u) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [IDENTITY](https://open.spotify.com/album/2TMVjMDlrs8ZzmEhxRg4GR) | 4:27 | 2026-02-12 | 2026-06-02 |
-| [IDOL](https://open.spotify.com/track/2xKV89roTBVQhGNMsUtqko) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Wanna](https://open.spotify.com/album/5mZJdvas47gU2FAfCuNjma) | 3:14 | 2026-07-23 |  |
+| [IDOL](https://open.spotify.com/track/2xKV89roTBVQhGNMsUtqko) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Wanna](https://open.spotify.com/album/5mZJdvas47gU2FAfCuNjma) | 3:14 | 2026-07-23 | 2026-09-08 |
 | [IDOLIC](https://open.spotify.com/track/6KLZBODqWczsc4fXRUuYWM) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOLIC](https://open.spotify.com/album/4g5PqnMKgixcNPECzAG545) | 2:57 | 2025-09-30 | 2025-12-04 |
 | [IF I](https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/1IinX64nobDfparPym8DlR) | 3:00 | 2026-06-01 |  |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-03-06 | 2025-05-20 |
@@ -531,6 +533,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 | 2024-11-20 |
 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 | 2024-06-04 | 2024-06-13 |
 | [Make It Count](https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Make It Count](https://open.spotify.com/album/2xZTCdsoeOjHuLfKt5cZM1) | 3:30 | 2025-01-14 | 2025-04-03 |
+| [Make it hot](https://open.spotify.com/track/06ZgGUzxTQ27mkYKvXcoZU) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Make it hot \- The 2nd Mini Album](https://open.spotify.com/album/2P6CBXbbiWNv9CXVAXSy6z) | 2:37 | 2026-09-07 |  |
 | [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-03-06 | 2025-05-20 |
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
 | [Maniac \- Japanese Ver.](https://open.spotify.com/track/4ckyOStRfNqZLJ1I9q8b3V) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS) | [Maniac \(Japanese Ver.\)](https://open.spotify.com/album/6Qqif0GArwgxcVSWj3wMdZ) | 3:16 | 2025-06-05 | 2025-06-13 |
@@ -704,7 +707,7 @@
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-30 | 2024-11-06 |
 | [Revolution](https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [mirror](https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy) | 3:28 | 2023-11-23 | 2024-01-03 |
 | [RIDE](https://open.spotify.com/track/3ruczO0lHDACpJMdLQyYF9) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [AMAZONIA](https://open.spotify.com/album/7qlXvoA3UG4wC1ms9CzDMk) | 3:28 | 2025-11-25 | 2026-01-20 |
-| [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 | 2026-06-22 |  |
+| [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 | 2026-06-22 | 2026-09-08 |
 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-21 | 2024-09-11 |
 | [Rise](https://open.spotify.com/track/1j3H5bMaTPwFFuXoUydeFG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Rise](https://open.spotify.com/album/4ichGXKR5PCxKXZBy5Hypk) | 3:25 | 2025-04-07 | 2025-05-02 |
 | [Rise Over](https://open.spotify.com/track/6nUBP5czYLJIBTDfMkPhwd) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/0Yj7RAYDsGCcb06sm7sb3m) | 3:30 | 2026-08-25 |  |

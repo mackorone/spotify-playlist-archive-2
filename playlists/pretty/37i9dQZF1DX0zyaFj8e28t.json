@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 407292,
+  "num_followers": 407311,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
+        "name": "En fl\u00e8che",
+        "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
+      },
+      "artists": [
+        {
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+        }
+      ],
+      "duration_ms": 289013,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
         "name": "L'essentiel",
         "url": "https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 292466,
       "name": "Pourvu qu'elles soient douces",
       "url": "https://open.spotify.com/track/2gNyCHDGyHrw3lCpT9LqlY"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
-        "name": "En fl\u00e8che",
-        "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
-      },
-      "artists": [
-        {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
     },
     {
       "added_at": "2026-05-19 09:20:45",

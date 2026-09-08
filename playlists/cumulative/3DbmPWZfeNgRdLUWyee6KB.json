@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "A blaze of light",
+        "url": "https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr"
+      },
+      "artists": [
+        {
+          "name": "momo.wav",
+          "url": "https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "A blaze of light",
+      "url": "https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2"
+    },
+    {
+      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/2HaYbIz3qSbk6Ff0fn2VtF"
       },
@@ -11861,6 +11879,24 @@
     },
     {
       "album": {
+        "name": "Keep the Fire Burning",
+        "url": "https://open.spotify.com/album/00mnbYhnjSqhJnagbfQMvu"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Al Ansar",
+          "url": "https://open.spotify.com/artist/3HtyWRj2bx54q3FmqbvOnT"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302760,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/56ng0MPvNTSK3mddL5FlrE"
+    },
+    {
+      "album": {
         "name": "Keep Ya Head Up",
         "url": "https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs"
       },
@@ -14628,6 +14664,28 @@
       "duration_ms": 230120,
       "name": "Ma\u00e7\u00e3",
       "url": "https://open.spotify.com/track/0rydRbJCbrTugZjGkAZZWm"
+    },
+    {
+      "album": {
+        "name": "MBTAM",
+        "url": "https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3"
+      },
+      "artists": [
+        {
+          "name": "Reject Madrigal",
+          "url": "https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu"
+        },
+        {
+          "name": "Midas Maximus",
+          "url": "https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "MBTAM",
+      "url": "https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp"
     },
     {
       "album": {
@@ -17715,6 +17773,24 @@
     },
     {
       "album": {
+        "name": "Partycrasher",
+        "url": "https://open.spotify.com/album/1ufv95qDeuiuwsEaiXTVBL"
+      },
+      "artists": [
+        {
+          "name": "Vegas No.8",
+          "url": "https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Partycrasher",
+      "url": "https://open.spotify.com/track/59JSdeSwOgjOVjDa8dGTlO"
+    },
+    {
+      "album": {
         "name": "Mythos: Metamorphosis",
         "url": "https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP"
       },
@@ -18864,6 +18940,24 @@
       "duration_ms": 104192,
       "name": "Rated M",
       "url": "https://open.spotify.com/track/1LUPdZ7SeiuZUV8oTgb43H"
+    },
+    {
+      "album": {
+        "name": "Ready to fly",
+        "url": "https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs"
+      },
+      "artists": [
+        {
+          "name": "The Last North",
+          "url": "https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208080,
+      "name": "Ready to fly",
+      "url": "https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x"
     },
     {
       "album": {

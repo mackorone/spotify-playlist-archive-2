@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12043,
+  "num_followers": 12046,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "Pink cheeks",
+        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Pink cheeks",
+      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 189706,
       "name": "Small girl (feat. D.O.)",
       "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "Pink cheeks",
-        "url": "https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Pink cheeks",
-      "url": "https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "Mutualism",
         "url": "https://open.spotify.com/album/11AWQhHWIgSbDeKnpD3ch1"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/67sYclP23NAkhQwYciJd16"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 214950,
       "name": "dance all night",
       "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2026-09-03 07:10:58",

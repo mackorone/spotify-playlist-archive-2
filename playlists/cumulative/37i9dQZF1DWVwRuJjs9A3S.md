@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Carlina de Place
 
-1,381 songs - 3 day 7 hr 27 min
+1,382 songs - 3 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Give Me A Reason](https://open.spotify.com/track/43IjXQrUGt6vrftWLbseaH) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Give Me A Reason](https://open.spotify.com/album/3mnpICMVWR6zlyTfO3ILRm) | 2:53 | 2025-07-24 | 2026-01-16 |
 | [Give my all \- Blood Orange EDIT](https://open.spotify.com/track/7pIZ4V6hb57l25JMAwPXg7) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 3:10 | 2024-09-19 | 2024-11-15 |
 | [Giving Up Air](https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw) | 4:47 | 2025-10-09 | 2026-01-16 |
+| [Glaciär](https://open.spotify.com/track/7499onblkriExD7XPVEWsd) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Dog för några år sen](https://open.spotify.com/album/4QpAx2VC40zhOCuLlisIEy) | 3:34 | 2026-09-07 |  |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 | 2025-06-20 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-07-31 | 2026-01-16 |
 | [Glöm mitt namn](https://open.spotify.com/track/2WwbCvmwMP1GqjLgtel9yg) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Glöm mitt namn](https://open.spotify.com/album/3oh69DPWxWrfingrv02p3B) | 3:38 | 2026-03-05 |  |

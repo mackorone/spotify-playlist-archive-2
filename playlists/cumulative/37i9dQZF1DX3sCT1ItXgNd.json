@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: rusowsky, KAROL G y Judeline.",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Luis Fonsi.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -2989,6 +2989,24 @@
     },
     {
       "album": {
+        "name": "Coleccionando atardeceres",
+        "url": "https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Coleccionando atardeceres",
+      "url": "https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs"
+    },
+    {
+      "album": {
         "name": "Como Amigos",
         "url": "https://open.spotify.com/album/12HWcD77wVcteb98k8svgJ"
       },
@@ -4570,7 +4588,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 184925,
       "name": "desde que no estas",
       "url": "https://open.spotify.com/track/7Kz8y4zDSqRKq5WMnxsgbJ"
@@ -4850,7 +4868,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 190875,
       "name": "DOLCE VITA",
       "url": "https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7"
@@ -5238,7 +5256,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 141028,
       "name": "Ecos de ti",
       "url": "https://open.spotify.com/track/0ns3p06uk2bcO60yI9fSMh"
@@ -5800,6 +5818,24 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
+    },
+    {
+      "album": {
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "album": {
@@ -6550,6 +6586,28 @@
       "duration_ms": 192720,
       "name": "Estamos a un beso",
       "url": "https://open.spotify.com/track/4bRg5nJCS7OcyJUMPgRAqH"
+    },
+    {
+      "album": {
+        "name": "El \u00faltimo baile de Delirio y Equilibrio",
+        "url": "https://open.spotify.com/album/1Nnwl2NEfJtwWELnrawues"
+      },
+      "artists": [
+        {
+          "name": "Veintiuno",
+          "url": "https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8"
+        },
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228035,
+      "name": "Estar\u00e1s",
+      "url": "https://open.spotify.com/track/4GaRqjaQbY3WIimFx1LtNy"
     },
     {
       "album": {
@@ -9426,7 +9484,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 183209,
       "name": "llego tarde",
       "url": "https://open.spotify.com/track/09t6r5XchW9rcmAXtmEtRI"
@@ -12772,6 +12830,28 @@
       "duration_ms": 157209,
       "name": "noviogangsta <3",
       "url": "https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj"
+    },
+    {
+      "album": {
+        "name": "NUDITO (Remix)",
+        "url": "https://open.spotify.com/album/78Mm8dllG3k0QFVXFPZC9C"
+      },
+      "artists": [
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        },
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139768,
+      "name": "NUDITO - Remix",
+      "url": "https://open.spotify.com/track/21JKuRHUBIIT9uscKVKoDs"
     },
     {
       "album": {
@@ -17287,6 +17367,24 @@
     },
     {
       "album": {
+        "name": "Tengo miedo",
+        "url": "https://open.spotify.com/album/4AOlBCj8EC3tYeb4OJpDdd"
+      },
+      "artists": [
+        {
+          "name": "Avenida",
+          "url": "https://open.spotify.com/artist/1qkllVkuGaHdN57F5kwP2b"
+        }
+      ],
+      "date_added": "2026-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165745,
+      "name": "Tengo miedo",
+      "url": "https://open.spotify.com/track/7JEM7pWOF7BI0fh1COthth"
+    },
+    {
+      "album": {
         "name": "Tengo Roto El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
       },
@@ -18058,7 +18156,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-08",
       "duration_ms": 181996,
       "name": "Tutu Tur\u00fa - con Paula Koops",
       "url": "https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd"

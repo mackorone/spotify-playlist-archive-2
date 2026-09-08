@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lucho RK, Miley Cyrus, Camilo, Cyril Kamer, l0rna y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,021 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,008 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 30 | [Coleccionando atardeceres](https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Coleccionando atardeceres](https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic) | 3:03 |
 | 31 | [VALOR](https://open.spotify.com/track/09eKQ6nNCt8SIeq19I6aBc) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [VALOR](https://open.spotify.com/album/3rv5Rp2PZeUwDSVtjs2Cr1) | 2:31 |
 | 32 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 |
-| 33 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
+| 33 | [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 |
 | 34 | [Dándote](https://open.spotify.com/track/16D79sdn11si1og2Zz6L9M) | [Sammer](https://open.spotify.com/artist/3Wp3hbqnxMJqXAHVqqzB9X), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Dándote](https://open.spotify.com/album/2uYURf0v1nhZPJIpLOXGY6) | 2:30 |
 | 35 | [Gatita Mala](https://open.spotify.com/track/1eq48sXW7JIcAWruJBDbAM) | [Anthony & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Xriz](https://open.spotify.com/artist/2CbZTubQz6tdFmZ3TDUwp7), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [Gatita Mala](https://open.spotify.com/album/3uETvxoKE28gXCJEZKXCD7) | 2:28 |
 | 36 | [VACÍO](https://open.spotify.com/track/7hU0JoyZJbRbltlStzRObw) | [Karvel](https://open.spotify.com/artist/7EG7C9C1cLTk6LnLIEpNfb), [Vinnie Dollar](https://open.spotify.com/artist/5ae6HscSP89gGYtzwkrunV) | [VACÍO](https://open.spotify.com/album/0IZeELEMfqaLq6C3IFgA8s) | 1:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Quiero conciliar](https://open.spotify.com/track/0nbXISiQVENOL0JVKPuR7G) | [Patronato](https://open.spotify.com/artist/2VQIzOxFnYy0bNOwjevel2) | [Quiero conciliar](https://open.spotify.com/album/1aEhTGD3P4MbmBUb5POXye) | 2:35 |
 | 60 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
 
-Snapshot ID: `AAAAACtnFpdb8mp5EGdt402+V3KdNr8h`
+Snapshot ID: `AAAAAKVxAHHk1bYrJA/qRkD++jw2zn5G`

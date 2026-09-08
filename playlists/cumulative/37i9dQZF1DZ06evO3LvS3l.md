@@ -4,7 +4,7 @@
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 9 min
+61 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Why You Been Gone So Long](https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 4:18 | 2026-05-02 |  |
 | [Willie, Waylon And Me](https://open.spotify.com/track/6Vy2FPaOj394TAPZU2wrNr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Greatest Hits](https://open.spotify.com/album/0VYmJzCaXoph0JfVXGNNos) | 3:12 | 2026-05-02 |  |
 | [Would You Lay With Me \(In a Field of Stone\)](https://open.spotify.com/track/77mn635jGmcnToalQNP8Bj) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:49 | 2026-05-02 | 2026-05-04 |
-| [You Never Even Called Me by My Name](https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 5:16 | 2026-05-02 |  |
+| [You Never Even Called Me by My Name](https://open.spotify.com/track/3jYNlAOzNeIFNEfyV3YJdr) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [You Never Even Called Me by My Name](https://open.spotify.com/album/0P8AHXo2VqptVviBOp4l3C) | 3:42 | 2026-09-08 |  |
+| [You Never Even Called Me by My Name](https://open.spotify.com/track/2mV4xg3mvO5aXPLMoD7WrR) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 5:16 | 2026-05-02 | 2026-09-08 |
 
 \*This playlist was first scraped on 2026-05-02. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Haute & Freddy",
-  "num_followers": 401500,
+  "num_followers": 401502,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Ao\u00fbt 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADVGOS1uSKMGWu/v7P9BP1GQL/JT",
+  "snapshot_id": "AAAAAM0usxwDn5OoBJ+XtBt7oY1GXh8o",
   "tracks": [
     {
       "added_at": "2026-08-31 22:00:22",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "Bye Bye .",
+        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 166111,
+      "name": "Bye Bye .",
+      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "DIFFERENCE [Feat. Yebba]",
         "url": "https://open.spotify.com/album/7mHQPzJhoPrrQsO9eXSwOy"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 175720,
       "name": "I Cry in Front of Paintings",
       "url": "https://open.spotify.com/track/0N6h5BvKIqJWjfynJEF8Sn"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
-        "name": "Bye Bye .",
-        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 166111,
-      "name": "Bye Bye .",
-      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
     },
     {
       "added_at": "2026-08-31 22:00:22",

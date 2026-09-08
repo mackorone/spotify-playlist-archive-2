@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 
 > ¡Música que representa a Cuba! Cover: IAmChino, Pitbull & Gente de Zona
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,004 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,019 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 38 | [Yo lo sé](https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU), [Yomil](https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU), [Ja Rulay](https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV) | [Yo lo sé](https://open.spotify.com/album/14h07hUekVScQA99nBO1fI) | 2:58 |
 | 39 | [TODO SE SUPERA](https://open.spotify.com/track/7yclBy0HutOePT34WzbAxi) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk), [Velito el Bufón](https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB) | [TODO SE SUPERA](https://open.spotify.com/album/1dwGmtihvoExwvQ29jP3tw) | 2:45 |
 | 40 | [Washypupa](https://open.spotify.com/track/2hjFPnrrbOk13flhIo2LuN) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Dany Ome](https://open.spotify.com/artist/4uQjbkbjzXEE1SsnMHFK1v), [Kevincito El 13](https://open.spotify.com/artist/3ajdx40gqTuGi01ZemBDe9) | [10 Éxitos Duros](https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo) | 3:21 |
-| 41 | [MARIDON](https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z) | [MARIDON](https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH) | 2:49 |
-| 42 | [Las Prosti](https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Las Prosti](https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I) | 2:55 |
+| 41 | [Las Prosti](https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby) | [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Las Prosti](https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I) | 2:55 |
+| 42 | [MARIDON](https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw) | [Dale Pututi & Nesty](https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z) | [MARIDON](https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH) | 2:49 |
 | 43 | [De Ping4](https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charaway](https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy) | [De Ping4](https://open.spotify.com/album/75LHeZMkEZP1Nkwbum0kKg) | 2:57 |
 | 44 | [Pobre Corazón \- with Lenier](https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 2:58 |
 | 45 | [A Veces](https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [A Veces](https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT) | 3:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM5o62BfFWh.md) - [plain]
 | 47 | [El Millonario](https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R) | [Ronkalunga](https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC) | [La Chiva](https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct) | 4:10 |
 | 48 | [El Men2 Remix](https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY) | [EL YORDY DK](https://open.spotify.com/artist/4Sjaa8KPxSPX7VqcixAGn8), [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [El Men2 Remix](https://open.spotify.com/album/2xli8e3TDgvnF2zUIWt2Vg) | 3:38 |
 | 49 | [Te Amo \(Versos Gastados\) \- Prod\. by Cuban Deejay$](https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w) | [Divan](https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [\#Round2](https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr) | 3:39 |
-| 50 | [Suave y Rico](https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Suave y Rico](https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i) | 3:09 |
+| 50 | [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 |
 
 Snapshot ID: `AAAAAOKXyfhughO4ZnJAUneM5vQaAIXN`

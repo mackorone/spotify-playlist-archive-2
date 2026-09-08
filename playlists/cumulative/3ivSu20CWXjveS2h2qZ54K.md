@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,203 songs - 21 day 6 hr 21 min
+9,204 songs - 21 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [BLINDAO](https://open.spotify.com/track/6eqjCPhnCrbnUSkcRnv4F7) | [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [BLINDAO](https://open.spotify.com/album/5XOmn5hPgechZTugdVb4vT) | 2:14 | 2025-02-07 | 2025-02-15 |
 | [Blink Twice](https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Blink Twice](https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW) | 2:36 | 2025-04-11 | 2025-04-26 |
 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 | 2025-03-14 | 2025-03-22 |
+| [Bliss](https://open.spotify.com/track/6Z7aiI3fHJzbHQ0twbFd8E) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Bliss](https://open.spotify.com/album/3sokeCL4VbuSdBl0RDAxsh) | 3:57 | 2026-09-07 |  |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-09 | 2025-05-17 |
 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 | 2025-05-30 | 2025-06-07 |
 | [blizzard](https://open.spotify.com/track/0C0IkkdCZei5oEjF1lmkFs) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [no place that feels like](https://open.spotify.com/album/6WFHcpiVI59zujBEr1MGfN) | 3:05 | 2024-04-26 | 2024-05-10 |
@@ -9047,7 +9048,7 @@
 | [Ya Si Eso](https://open.spotify.com/track/6rlTb2RyWz7ob7EulM2Rhz) | [Living Camboya](https://open.spotify.com/artist/5S0fuxdB26HXN2bVPx3keU) | [Pequeñas Victorias](https://open.spotify.com/album/6ndqkVQpGwCbSAfvXPxmh9) | 3:15 | 2025-03-14 | 2025-03-22 |
 | [Ya sé](https://open.spotify.com/track/38ydHYk2vT3UNNxG5GbhJs) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Ya sé](https://open.spotify.com/album/5UHaZk8kkzkb6Gs5DPYWqH) | 3:06 | 2025-03-28 | 2025-04-05 |
 | [ya viene la vieja](https://open.spotify.com/track/0ofDpb4DKQsq8tLUyfp2Aj) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Otro](https://open.spotify.com/artist/5WLKVJGJWUubfyG8KSfuvK) | [villancicos 3](https://open.spotify.com/album/6GJyet0U19mcPtU6JqhRJH) | 3:03 | 2025-12-26 | 2026-01-03 |
-| [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 | 2026-09-04 |  |
+| [YAKUZA](https://open.spotify.com/track/0Y7LxtU53G1J25lUoGYQSU) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [YAKUZA](https://open.spotify.com/album/21ks7wa25berrzcq5qCZtK) | 2:18 | 2026-09-04 |  |
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-15 | 2025-08-23 |
 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-07-12 | 2024-07-19 |
 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-20 | 2026-02-28 |

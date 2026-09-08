@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Movements
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,017 likes - 175 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,038 likes - 175 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 70 | [Bad Job](https://open.spotify.com/track/5zPXTwRDUO3gSXO9qhpoTi) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Bad Job](https://open.spotify.com/album/41eUSz7iVli4KXfWr94rYZ) | 2:21 |
 | 71 | [sunhoney](https://open.spotify.com/track/5kiY8mR9qTLzPgXDVJ60vH) | [Tina Sandwich](https://open.spotify.com/artist/02OtGA9A0NKICOB9QZ4zc9) | [sunhoney](https://open.spotify.com/album/3k363UEEHQ5WhbbPdDZFoa) | 3:16 |
 | 72 | [Terrified](https://open.spotify.com/track/3MukT01dgEUorBAvhVRhhB) | [Civic Video](https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY) | [Making Room For Others](https://open.spotify.com/album/4K4cRXMR8DarntrQ7OyPy1) | 4:55 |
-| 73 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 3:02 |
+| 73 | [Hotter On The Internet](https://open.spotify.com/track/7nA4exclffXTeHK0JG6CwQ) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Hotter On The Internet](https://open.spotify.com/album/7DsFoOp7nE6dpdwceYgcJ7) | 2:58 |
 | 74 | [Biopsy Of An Unknown Growth](https://open.spotify.com/track/30SbHtWe8LROWaPQ6NQtKK) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [Biopsy Of An Unknown Growth](https://open.spotify.com/album/3nglPLhNIlSz7lESpTIbSk) | 4:10 |
 | 75 | [Cold](https://open.spotify.com/track/3qSBThtTWgvvt2VVJTksbf) | [Stanley Simmons](https://open.spotify.com/artist/2YvuPht4GYx8OU31twTCsR) | [Cold](https://open.spotify.com/album/6WMagPakIzM4ivl112PFUc) | 3:51 |
 | 76 | [Kill The Noise](https://open.spotify.com/track/4AHULpVjwKK2dvzJE9TBKg) | [Fire Sale](https://open.spotify.com/artist/13M5w7mNimLCU8yU3Kkd5w) | [Split Decision](https://open.spotify.com/album/2LnNd1e4GMe2NQ7xsdYhtj) | 3:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,782 likes - 120 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,840 likes - 120 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 6 | [No Joke](https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX) | [Ben Griff](https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ) | [No Joke](https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC) | 3:29 |
 | 7 | [Desire](https://open.spotify.com/track/1ACxe83zCuJVNcuWaxC5M9) | [Caleb Laurenson](https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR), [Alex Lynch](https://open.spotify.com/artist/4fCuFai2RGjsA7ptG5ZDxF) | [Desire](https://open.spotify.com/album/3eISzBDmXKKLPaQOIPWqg9) | 3:26 |
 | 8 | [U know me](https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Marz Fay](https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i) | [U know me](https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw) | 3:14 |
-| 9 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:20 |
+| 9 | [Precious Diamond](https://open.spotify.com/track/2sIxRWfGDTwAH5v3kOe3wr) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Precious Diamond](https://open.spotify.com/album/0B1Y8R1VXyzjBGMO5ZZBfA) | 3:18 |
 | 10 | [Breaking Point](https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Breaking Point EP](https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK) | 2:48 |
 | 11 | [No No No](https://open.spotify.com/track/2lnybFoHZJxJVkYwXXrNd2) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [No No No](https://open.spotify.com/album/2LOT7MBxlcI6jAp9OTv6qK) | 5:43 |
 | 12 | [Loneliness](https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Loneliness](https://open.spotify.com/album/1bfjSRpS2OWgxFRmxiaQWO) | 3:50 |

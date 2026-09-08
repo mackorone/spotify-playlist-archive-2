@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,756 songs - 10 day 17 hr 1 min
+4,758 songs - 10 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Bruise](https://open.spotify.com/track/73ggumHKr80Nq9DAwXJu8E) | [IronObit](https://open.spotify.com/artist/7jCUqBnzcxgZN5YnkD6u39) | [Bruise](https://open.spotify.com/album/7JLWiDdyR8uTswb7lgsU99) | 3:14 | 2026-07-30 |  |
 | [BRUISER](https://open.spotify.com/track/1dAVF1RxI4cIhZmzcevjgX) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [EAGLE OR THE EGG](https://open.spotify.com/album/3rw9U6xu0qvr2PDua4wEUa) | 2:22 | 2025-05-16 |  |
 | [Brunch Shit](https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Brunch Shit](https://open.spotify.com/album/6FMUH43329kwvlQxzH551C) | 1:55 | 2025-12-25 |  |
+| [Brutal Brutality](https://open.spotify.com/track/6uHQ6qHn0dudsuHtUinfob) | [LIVE THE DAY](https://open.spotify.com/artist/3gWriNK1rJ7A14oLDHghPH) | [Brutal Brutality](https://open.spotify.com/album/50q3ap7L5eSCbFKNR5z2vr) | 3:38 | 2026-09-07 |  |
 | [Brutal Machines](https://open.spotify.com/track/5u2JG2ZZ6pa0BY8WNeAIC0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 4:00 | 2025-09-17 |  |
 | [Brutal Machines \(another\)](https://open.spotify.com/track/1vFGM1OK8mUBfKKwGQaAH8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 4:00 | 2025-09-17 |  |
 | [Bubblegum Blade](https://open.spotify.com/track/74VRkhBBRuqggNzgJuLiDe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:07 | 2025-09-16 |  |
@@ -597,6 +598,7 @@
 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2025-12-30 |  |
 | [Carousel](https://open.spotify.com/track/0TKoAx8rLZIzIHr109urz5) | [Summerdrive](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Carousel](https://open.spotify.com/album/3cL3FChptpE0jmAMh9rqT2) | 4:20 | 2025-05-14 |  |
 | [Casa Random](https://open.spotify.com/track/2RshvRBo3TeIoHI34nYB5D) | [Luca V](https://open.spotify.com/artist/2tze54Nz6Eo2wxev8GudWU) | [Casa Random](https://open.spotify.com/album/0fJATgsd3EOiqsabQAGV91) | 2:23 | 2025-07-03 |  |
+| [Casa Roso](https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Casa Roso](https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn) | 3:46 | 2026-09-07 |  |
 | [Cassette Dreams](https://open.spotify.com/track/5OBhYAansEDPBhM7jZ5unM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 2:47 | 2025-09-19 |  |
 | [Cassette Fever](https://open.spotify.com/track/00ogmyW8HdNSpJWpHYf8oB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:05 | 2025-09-20 |  |
 | [Catch Her Fall](https://open.spotify.com/track/51EASFOV3pOOpjeknJqjjG) | [The Total Strangers](https://open.spotify.com/artist/3e8i4VYOUeIdtR2jh0PSMF) | [Catch Her Fall](https://open.spotify.com/album/7LPItItTLesEHVsnVVphSA) | 3:21 | 2025-09-05 |  |

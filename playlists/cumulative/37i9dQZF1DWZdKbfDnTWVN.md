@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=d5686c33ac9c47be"> Breeder LW</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD?si=d582966eee994a02"> Toxic Lyrikali</a>
 
-528 songs - 1 day 4 hr 14 min
+530 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Bread Winner](https://open.spotify.com/track/7Kvz63ZGAsCzMEPoETR4ii) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Bread Winner](https://open.spotify.com/album/2eLtVEpbRLNCOvMS1aA4xU) | 3:12 | 2026-08-07 |  |
 | [Brighter Days](https://open.spotify.com/track/6FkrTePPtL8kAC9lBsITK1) | [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Brighter Days](https://open.spotify.com/album/5KEGFl48jAKTNT3AvFN4Y9) | 4:07 | 2024-04-04 | 2025-01-18 |
 | [Brixton](https://open.spotify.com/track/76qGXiuo9xgLcrMSRW16Bi) | [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Badman Bright](https://open.spotify.com/artist/7rnCCj75yheaW1JsvFhd6g), [Ajay](https://open.spotify.com/artist/52eeRgBbq3jb8k8EHwefOp) | [Brixton](https://open.spotify.com/album/0Vn5JkfLn2Rfc9hm8qjg07) | 2:23 | 2024-08-08 | 2025-05-16 |
-| [Bud Flowers](https://open.spotify.com/track/13RzbCfjIuuZqO4TKIotbs) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Bud Flowers](https://open.spotify.com/album/0ay1TKcz0UWlYomQ7jPCyv) | 3:04 | 2025-08-14 |  |
+| [Bud Flowers](https://open.spotify.com/track/13RzbCfjIuuZqO4TKIotbs) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Bud Flowers](https://open.spotify.com/album/0ay1TKcz0UWlYomQ7jPCyv) | 3:04 | 2025-08-14 | 2026-09-08 |
 | [C.O.D](https://open.spotify.com/track/6E2V233BcgBMWirxP4sskK) | [€cht](https://open.spotify.com/artist/3nIMQzFVaVlQ3MSFSy4RtN), [De Ryk](https://open.spotify.com/artist/2IXubm3QIS64fW62Z9RLWe) | [C.O.D](https://open.spotify.com/album/2BodXqBKjy47XF909SXuHD) | 2:31 | 2025-08-28 | 2026-02-06 |
 | [Caliweed](https://open.spotify.com/track/36xONjijeZ6ye4ARFwQADT) | [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Caliweed](https://open.spotify.com/album/5ZkTRYiGpsEuBCZQoIT1hO) | 2:00 | 2023-04-13 | 2024-04-26 |
 | [Can't Explain](https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh) | [Daney B](https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG) | [Can't Explain](https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej) | 2:48 | 2023-01-26 | 2023-08-26 |
@@ -183,9 +183,10 @@
 | [Hizi Stance](https://open.spotify.com/track/0er5e73HdzbwLqInLpakXm) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Hizi Stance](https://open.spotify.com/album/1dftTJocAgCxOiVIS0ZhBR) | 4:01 | 2023-11-30 | 2025-03-14 |
 | [Hoes and Girls](https://open.spotify.com/track/1MF672ccBu1QwKY4iBKcKT) | [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Kingpheezle](https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma) | [Hoes and Girls](https://open.spotify.com/album/28IFw7YTrCKO11shQ5zwht) | 4:18 | 2024-04-18 | 2025-04-04 |
 | [Hold It Down](https://open.spotify.com/track/65u0gvJBOnkXi9pOnWBcME) | [Camp Mulla](https://open.spotify.com/artist/6b00EuvMNDvtBJ0iXez5Kf) | [Funky Town](https://open.spotify.com/album/6xBRWHFczkCVfQFo859WJy) | 3:44 | 2025-08-07 | 2025-08-15 |
+| [Hongo Ya Karao \- Vol\. 2](https://open.spotify.com/track/09Thn76WVYcOK2nkfMzHsj) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD), [Mauru Gwash](https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra), [Kapitani](https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy) | [Hongo Ya Karao \(Vol\. 2\)](https://open.spotify.com/album/15XrniDQYqjeHVrPFW68bI) | 3:15 | 2026-09-07 |  |
 | [Hood](https://open.spotify.com/track/47tOCaQCFn9OwVMisVx1qm) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Hood](https://open.spotify.com/album/11Casux2rv1wSeSVHoFntn) | 2:34 | 2025-06-05 | 2025-11-14 |
 | [Horsepower](https://open.spotify.com/track/73MKsSYIHxZxXrT1NWoxf4) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Horsepower](https://open.spotify.com/album/1tCHWBqHn6jATmkJ7lEFVY) | 2:25 | 2022-08-11 | 2022-10-07 |
-| [House Affairs](https://open.spotify.com/track/4q78gKfhWQHR7js12jHJ89) | [Richie Gathu](https://open.spotify.com/artist/1bOJ3iI7pYFIOk9a2cYUsK) | [House Affairs](https://open.spotify.com/album/6iNvJMo6jPfnqF5Kpm6mW0) | 2:08 | 2026-05-14 |  |
+| [House Affairs](https://open.spotify.com/track/4q78gKfhWQHR7js12jHJ89) | [Richie Gathu](https://open.spotify.com/artist/1bOJ3iI7pYFIOk9a2cYUsK) | [House Affairs](https://open.spotify.com/album/6iNvJMo6jPfnqF5Kpm6mW0) | 2:08 | 2026-05-14 | 2026-09-08 |
 | [HUJANIACHA](https://open.spotify.com/track/2J2usoCEl3rGHYtjoQ5XGm) | [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Hujaniacha](https://open.spotify.com/album/6pkBbblUXg89PNv5BLJyt9) | 2:39 | 2025-08-28 | 2026-02-27 |
 | [Hustle Figure](https://open.spotify.com/track/04jbJq2AuE35VuAe55gVuI) | [Double Trouble](https://open.spotify.com/artist/16bv2xG6TA7IgSjLJFPRCa), [AshRough](https://open.spotify.com/artist/3S5G8Jm88WUAdwgvZCtuvV), [Stunna TNG](https://open.spotify.com/artist/3YI0gln186OWxuOAzkScJq) | [Hustle Figure](https://open.spotify.com/album/6alcBRUSvyt5ozw98gD5is) | 2:41 | 2024-05-23 | 2025-06-27 |
 | [Huu Ni Nani G](https://open.spotify.com/track/1j5qWPDK2NNIP2WqfABkBv) | [Kantai](https://open.spotify.com/artist/7gm2SU4tLtfstSrxEgtnKW) | [Black Star Kenya Hip\-Hop Sampler](https://open.spotify.com/album/3at7KlQt9lOrrO4RHtZuuH) | 3:53 | 2025-08-07 | 2025-08-15 |
@@ -287,6 +288,7 @@
 | [Mi Siwezi](https://open.spotify.com/track/3NO6Dop2tbab3agXsCfcQI) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Mi Siwezi](https://open.spotify.com/album/0ziPvKgV61HPvckKVHKpUx) | 3:54 | 2025-08-07 | 2025-08-15 |
 | [Mia Mor](https://open.spotify.com/track/7CRfPZ0sCnJXihgHnXDD7q) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Maryolive](https://open.spotify.com/artist/3fzxNKewoLZJwJUVrnQY27) | [In The Meantime](https://open.spotify.com/album/7xsIo2M7BdJkKRFU0oDeui) | 3:25 | 2026-02-19 | 2026-07-17 |
 | [Midas Touch](https://open.spotify.com/track/2eoyaHL33pdJ1e0IzUhuIG) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Midas Touch](https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot) | 3:40 | 2023-11-30 | 2024-09-13 |
+| [Mimi](https://open.spotify.com/track/6K8R5PU5Q9qz42C14EydaR) | [Kapitani](https://open.spotify.com/artist/0zEKVcCCknQwijBu3JIfSy) | [Mimi](https://open.spotify.com/album/1WKDif9ovtUXp3LE5sshO9) | 2:23 | 2026-09-07 |  |
 | [Minimal Pressure](https://open.spotify.com/track/0CPf4M3kS1dVAGkLgtXPwR) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Minimal Pressure](https://open.spotify.com/album/2TfvT358xh2LsMPHZHbqeI) | 4:27 | 2023-07-27 | 2024-04-19 |
 | [MISSING EFFECT!](https://open.spotify.com/track/3Qd3FX09270rx35ruQBhuh) | [Sushiidushi](https://open.spotify.com/artist/0qkGwYjIbzN7lFa7xDrd4j), [Kareem](https://open.spotify.com/artist/7vLb64Tj2f43pRAhCDhe65) | [MISSING EFFECT!](https://open.spotify.com/album/2MrpI9UxafDFLIQVZWIVQR) | 1:24 | 2025-10-02 | 2026-01-30 |
 | [Mjanja Mjini](https://open.spotify.com/track/5LpEdN7lVszRk6ERt6Mkd1) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Victims Of Madness 2.0](https://open.spotify.com/album/3CcJvNnOM07yBdcrzAPYCI) | 4:40 | 2025-07-03 | 2026-05-15 |

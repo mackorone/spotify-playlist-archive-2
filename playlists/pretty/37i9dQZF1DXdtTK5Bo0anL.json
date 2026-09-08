@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:144HzhpLjcR9k37w5Ico9B\">Deborah De Luca</a>'s favorite tracks. Updated regularly. Curated by Deborah De Luca. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 113409,
+  "num_followers": 113404,
   "original_name": "Deborah De Luca's track IDs",
   "owner": {
     "name": "Spotify",
@@ -920,12 +920,12 @@
       },
       "artists": [
         {
-          "name": "Daria Barbun",
-          "url": "https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W"
-        },
-        {
           "name": "Volodia Rizak",
           "url": "https://open.spotify.com/artist/5LgbNZHp2DHBhL9AYPGTdt"
+        },
+        {
+          "name": "Daria Barbun",
+          "url": "https://open.spotify.com/artist/7ycTRfdH6yIxSgtkv3uD4W"
         }
       ],
       "duration_ms": 354471,

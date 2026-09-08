@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,469 songs - 3 day 13 hr 33 min
+1,474 songs - 3 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [9AM](https://open.spotify.com/track/0QS2YFcXYWyi8EEHf7U1w5) | [SERGIO KRABI](https://open.spotify.com/artist/0TNLAbNZehQw12JUYypCjg) | [9AM](https://open.spotify.com/album/2aA7ojpOHYLFcnFCaMs6BQ) | 3:00 | 2026-04-27 | 2026-06-05 |
 | [A Bad Place To Be Born](https://open.spotify.com/track/3dgJ3pBAYy2O9BOK1gU41x) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [A Bad Place To Be Born](https://open.spotify.com/album/1UFJUNLMyBZcwM37LTvqHK) | 4:01 | 2024-10-03 | 2025-12-28 |
 | [A bird of passage \- Radio Edit](https://open.spotify.com/track/36zXMWF7Szgb3X079H8ZIz) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [A bird of passage \(Radio Edit\)](https://open.spotify.com/album/49wm3IOhMOGWnJfDy1gk24) | 6:08 | 2026-01-13 | 2026-02-20 |
+| [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 | 2026-09-07 |  |
 | [A Child Is Born](https://open.spotify.com/track/51ZiYIPv8p7cpcGg0AcdZI) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [A Child Is Born](https://open.spotify.com/album/2HaYbIz3qSbk6Ff0fn2VtF) | 2:37 | 2025-07-31 | 2026-01-05 |
 | [A Dove Divine](https://open.spotify.com/track/4q753ZqObBusNbYLHfHg8w) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc) | [A Dove Divine](https://open.spotify.com/album/5NYVnWCaHVwLwdZIRHjQPc) | 2:57 | 2026-03-31 | 2026-05-03 |
 | [A Gift to Stevie](https://open.spotify.com/track/1g1BSZgeG9veBsuSIzCyGV) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 2:52 | 2023-04-20 | 2025-11-29 |
@@ -636,6 +637,7 @@
 | [Kayıp](https://open.spotify.com/track/3B0xXpnk85hIE0qa1e8xlf) | [Hakan Karatan](https://open.spotify.com/artist/7n2HqsgOITEXwzHUJQ3NRu) | [Macera](https://open.spotify.com/album/4AXpwPfcaHrIxwAtft48q1) | 2:59 | 2026-07-03 | 2026-08-10 |
 | [Keep On](https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Keep On](https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz) | 4:17 | 2026-07-29 | 2026-08-30 |
 | [Keep on Dreaming](https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1) | [MÅNE](https://open.spotify.com/artist/3AejcXHKHkrLhgxV9ZBtIO) | [Keep on Dreaming](https://open.spotify.com/album/3bvmJoD9YetJ3UclgS1wgS) | 3:57 | 2026-08-30 |  |
+| [Keep the Fire Burning](https://open.spotify.com/track/56ng0MPvNTSK3mddL5FlrE) | [Muhammad Al Ansar](https://open.spotify.com/artist/3HtyWRj2bx54q3FmqbvOnT) | [Keep the Fire Burning](https://open.spotify.com/album/00mnbYhnjSqhJnagbfQMvu) | 5:02 | 2026-09-07 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 | 2026-05-22 | 2026-07-03 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 | 2026-07-03 |
@@ -781,6 +783,7 @@
 | [Maybe This Time](https://open.spotify.com/track/0Btok8fuH53WscccgEnav6) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Maybe This Time](https://open.spotify.com/album/66VMQdFAOE1xjVEEWfipaT) | 3:29 | 2026-04-25 | 2026-06-05 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0ARCZiCkfh5zKlNN3IvOp7) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Bucks County](https://open.spotify.com/album/5CwcyeEYyhy2pYlJhZnKTL) | 4:12 | 2025-12-22 | 2026-01-24 |
 | [Maçã](https://open.spotify.com/track/0rydRbJCbrTugZjGkAZZWm) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Maçã](https://open.spotify.com/album/4I6amNqmfeoBtegDw9yrJu) | 3:50 | 2023-04-27 | 2025-11-29 |
+| [MBTAM](https://open.spotify.com/track/1cnaFPJRxqXW5X0TccsoZp) | [Reject Madrigal](https://open.spotify.com/artist/7lOQKkSHBPbmIexScbnPlu), [Midas Maximus](https://open.spotify.com/artist/6gGYY4919eT5VnTW9glmW3) | [MBTAM](https://open.spotify.com/album/17Zwo5lYl2P99qpC4Ff5l3) | 2:26 | 2026-09-07 |  |
 | [Measures Of Distance](https://open.spotify.com/track/5fW1XXzm3MHGnAMAg6Kzhh) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Feed](https://open.spotify.com/album/7LnObuB8XQDT4jBCU1jTvT) | 5:03 | 2026-05-09 | 2026-06-05 |
 | [Medio lleno el vaso](https://open.spotify.com/track/62xTr4b4oXgrbMWHV5qHgU) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:55 | 2025-11-25 | 2026-01-05 |
 | [Mediocre Men](https://open.spotify.com/track/1f8fJND1Iy4Qw87rPvUYIC) | [Jay Moussa\-Mann](https://open.spotify.com/artist/2aSlAzC15sb0NojtkwfsYz) | [Mediocre Men](https://open.spotify.com/album/7ePV736XzcdtRWSeOKuPcm) | 3:27 | 2026-05-01 | 2026-06-05 |
@@ -943,6 +946,7 @@
 | [Partido Alto](https://open.spotify.com/track/5GyuwWevZ2KdHF6XBvAnCz) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ) | [Partido Alto](https://open.spotify.com/album/6WUZTgzABSTItMZ4sBXA0X) | 2:57 | 2023-04-20 | 2025-11-29 |
 | [Party girl](https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Party girl](https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx) | 1:50 | 2025-11-21 | 2026-01-05 |
 | [Party's Over \- Memorial Mix](https://open.spotify.com/track/75bHj8yW2FhPVVxwOQcyqb) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Alt Worlds 2005 \- 2025](https://open.spotify.com/album/2GJMD8MwCDgquGfUs3EJHo) | 4:15 | 2026-03-16 | 2026-04-12 |
+| [Partycrasher](https://open.spotify.com/track/59JSdeSwOgjOVjDa8dGTlO) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Partycrasher](https://open.spotify.com/album/1ufv95qDeuiuwsEaiXTVBL) | 3:56 | 2026-09-07 |  |
 | [Pasiphae](https://open.spotify.com/track/19ItelHHgfMVGZLDBj8sAo) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 4:37 | 2023-04-20 | 2025-11-29 |
 | [Passagem](https://open.spotify.com/track/0n56biI1rHRnpgdcl9QvVl) | [Manu Beltrão](https://open.spotify.com/artist/1mNlAKhN6yiWfoQjMXQLeB) | [Passagem](https://open.spotify.com/album/7iP9xLF6g1cHe32N9Kne5G) | 2:41 | 2026-08-03 | 2026-08-30 |
 | [Peace Anthem](https://open.spotify.com/track/4WUfp4Fo6Rd6O9RnAd5zFd) | [Diana Vibes Earth](https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49) | [Peace Anthem](https://open.spotify.com/album/6WEjep4YsM4MycixUtKxK9) | 1:41 | 2026-07-13 | 2026-08-10 |
@@ -1003,6 +1007,7 @@
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-12-13 | 2026-01-15 |
 | [Rapuh](https://open.spotify.com/track/0257WfyJ9vxVPm7b0dh6xA) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Rapuh](https://open.spotify.com/album/0pE86dWCLq32BjMjpGscSG) | 3:46 | 2026-07-14 | 2026-08-10 |
 | [Rated M](https://open.spotify.com/track/1LUPdZ7SeiuZUV8oTgb43H) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Rated M](https://open.spotify.com/album/3qm2eECvQThRRONvUXTMPQ) | 1:44 | 2025-10-23 | 2025-11-29 |
+| [Ready to fly](https://open.spotify.com/track/1w9ZX4cjb4hUEiDfGZNj0x) | [The Last North](https://open.spotify.com/artist/32rZRpC22soXsW4tuNAzLs) | [Ready to fly](https://open.spotify.com/album/0DJUFmcW18iQwGaWdtQnUs) | 3:28 | 2026-09-07 |  |
 | [Ready, Set, Go.](https://open.spotify.com/track/0ySUMpzNZ0HC8ztomSTKtz) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Ready, Set, Go.](https://open.spotify.com/album/0esJrPhaQKTgfeujAPP0Oj) | 3:02 | 2025-09-19 | 2025-11-29 |
 | [Reason](https://open.spotify.com/track/5oUtDEqAP26uZ3QKmjec3e) | [Dom Guedes](https://open.spotify.com/artist/5mwKiaUgvMs600WQ6aMyuM) | [Reason](https://open.spotify.com/album/5jFSeeXNx6ktQhzurPMWAa) | 3:50 | 2026-08-13 |  |
 | [Rebel Made](https://open.spotify.com/track/48kOUJRx3b9bMHpc4Mv0td) | [Ichinomoto Yu](https://open.spotify.com/artist/0RKwMRcEaP7vFUsyQOLOkr) | [Rebel Made](https://open.spotify.com/album/1Zy5kzjejttU7SwzqQoWHf) | 2:39 | 2026-01-06 | 2026-02-03 |

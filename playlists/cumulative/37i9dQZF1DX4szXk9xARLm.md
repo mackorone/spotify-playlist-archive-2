@@ -4,12 +4,13 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-196 songs - 10 hr 48 min
+197 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(الي فات مربي \(خمسه ياض علينا](https://open.spotify.com/track/4NHie7RfHyBvBRJx7lv03S) | [Ahmed Maher](https://open.spotify.com/artist/5tKrCawUWzGBR6E5ecYiPg) | [\(الي فات مربي \(خمسه ياض علينا](https://open.spotify.com/album/6FYUH9NMBoHQqxLf2ERUxd) | 2:17 | 2024-03-27 | 2025-02-28 |
 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 | 2025-03-13 | 2026-02-17 |
+| [Abdaa Men Gedeed](https://open.spotify.com/track/3SkrxT30Nf1OXGRx2rUNJq) | [Hany Shnoda Ferqet Masr](https://open.spotify.com/artist/1qeimvAZjU4Y8Rvlz31kSV) | [Abdaa Men Gedeid](https://open.spotify.com/album/3WgNrDwdBCJ1PAaZ0WgC52) | 3:44 | 2026-07-10 |  |
 | [Ahy Donia](https://open.spotify.com/track/14n1xDj6yLbIoq7qXWR0C5) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahy Donia](https://open.spotify.com/album/7KMLESZ5B4m5wwtDJyDtpo) | 2:48 | 2024-03-10 | 2026-08-26 |
 | [Al Atawla](https://open.spotify.com/track/23z3Oekq7ye9TAaTldpc5q) | [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Al Atawla \(Music from the Original TV Series\)](https://open.spotify.com/album/1heYsl3CCuRWB1x58eu8CF) | 2:46 | 2025-03-06 | 2026-02-19 |
 | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/track/6ywE6U01lFmLFpacfY5xeN) | [Cedars Art Production](https://open.spotify.com/artist/7jw8KTb0yMsbtWiEhfGCF1) | [Al Atawla From \(Al Atawla Series\)](https://open.spotify.com/album/42ZIaXHQP9ue18FuhnwwFL) | 3:33 | 2024-03-12 |  |
@@ -85,7 +86,7 @@
 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 | 2024-03-10 |  |
 | [Moujat El Babour](https://open.spotify.com/track/5bFAK2BB8tKl9GDtA74AJy) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Moujat El Babour](https://open.spotify.com/album/4EWXSX7uIJtZfOkEXeiPvi) | 3:30 | 2024-03-10 | 2025-03-14 |
 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 | 2024-03-12 | 2025-02-28 |
-| [Ne'abel Nas](https://open.spotify.com/track/5UCb0c4Q2caWg4N45OtuDK) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe), [Tamer Aly](https://open.spotify.com/artist/1WTZFt7T1ZUmkfoBEGiZMN), [Tamer Hussein](https://open.spotify.com/artist/1tUoGM9IIUzT04qg4xDsMg) | [Erga' Ya Zaman](https://open.spotify.com/album/3D1qSfcQ2dvGNCzjtDert0) | 4:04 | 2026-07-10 |  |
+| [Ne'abel Nas](https://open.spotify.com/track/5UCb0c4Q2caWg4N45OtuDK) | [Loai](https://open.spotify.com/artist/5OcZpV21cb8KFH7iTEnNwe), [Tamer Aly](https://open.spotify.com/artist/1WTZFt7T1ZUmkfoBEGiZMN), [Tamer Hussein](https://open.spotify.com/artist/1tUoGM9IIUzT04qg4xDsMg) | [Erga' Ya Zaman](https://open.spotify.com/album/3D1qSfcQ2dvGNCzjtDert0) | 4:04 | 2026-07-10 | 2026-09-08 |
 | [Qabeel](https://open.spotify.com/track/0Aq9BOAm6Qbr264MupIUh8) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Qabeel](https://open.spotify.com/album/6BNvDpII7YrU4m6bAgrUpz) | 2:56 | 2026-02-20 |  |
 | [Safen Ala Al Ayam](https://open.spotify.com/track/2u5spfhhfyWf5VeDuse0nP) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Safen Ala Al Ayam \(Mosalsal Dar Almansyeen\)](https://open.spotify.com/album/3is6HtqKma80wLKHSY4GKS) | 3:27 | 2025-03-03 | 2025-10-18 |
 | [Sahbek Rajel \- صاحبك راجل](https://open.spotify.com/track/31NbnvqbqAzvQ2nv301VZA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Sahbek Rajel \(صاحبك راجل\)](https://open.spotify.com/album/2krftAwqsvgtMWh2e6RbTN) | 3:17 | 2025-03-03 |  |

@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Jem Cassar\-Daley
 
-740 songs - 1 day 17 hr 25 min
+741 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-24 | 2026-03-30 |
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-08 | 2025-09-05 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2025-04-25 |
+| [Just One](https://open.spotify.com/track/7fkiuT1MZ91yk8i91zRni8) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Just One](https://open.spotify.com/album/7AN86MDBZRLWAHK8tBUSCy) | 3:12 | 2026-09-03 |  |
 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 | 2026-05-07 | 2026-07-31 |
 | [Keep It Moving](https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Keep It Moving](https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc) | 2:50 | 2025-06-05 | 2025-06-13 |
 | [Keith](https://open.spotify.com/track/3mwb8NjfPRCcNgYdJTACU3) | [Playlunch](https://open.spotify.com/artist/0KeXd4EkaUHseJoZQhNR4u) | [Keith](https://open.spotify.com/album/13Ro0ysFRQupwe8EiA9gzI) | 4:10 | 2026-01-22 | 2026-05-05 |
@@ -692,7 +693,7 @@
 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 | 2024-05-31 | 2025-01-23 |
 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 | 2024-08-15 | 2025-01-10 |
 | [Ur A Rat](https://open.spotify.com/track/63n0N10n1XYQTMCka3yqtE) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Ur A Rat](https://open.spotify.com/album/0fA2VjYx1r2NnxUe2bP9ib) | 2:39 | 2025-08-07 | 2025-08-16 |
-| [Velcro](https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Velcro](https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG) | 3:28 | 2026-05-21 |  |
+| [Velcro](https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Velcro](https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG) | 3:28 | 2026-05-21 | 2026-09-08 |
 | [VERTICAL WORLDS](https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [VERTICAL WORLDS](https://open.spotify.com/album/7J5sYFuxDRzYGrSNqv9H1G) | 3:15 | 2026-05-21 | 2026-06-25 |
 | [Viagra](https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Viagra](https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1) | 4:11 | 2024-10-24 | 2024-11-01 |
 | [Waiting For Tonight](https://open.spotify.com/track/75ckdfW23NPWGDMSjdUFBv) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Waiting For Tonight](https://open.spotify.com/album/0qotkTPWWApJanSQPeynOe) | 3:18 | 2024-05-31 | 2024-09-21 |
